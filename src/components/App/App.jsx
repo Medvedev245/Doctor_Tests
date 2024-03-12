@@ -1,0 +1,17 @@
+import { Layout } from 'components/Layout/Layout';
+import { lazy } from 'react';
+import { Route, Routes } from 'react-router-dom';
+
+const Home = lazy(() => import('../../Pages/Home/Home'));
+const Tests = lazy(() => import('../../Pages/Tests/Tests'));
+
+export const App = () => {
+  return (
+    <Routes>
+      <Route path="/" element={<Layout />}>
+        <Route index element={<Home />} />
+        <Route path="tests" element={<Tests />} />
+      </Route>
+    </Routes>
+  );
+};
