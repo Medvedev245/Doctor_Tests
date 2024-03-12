@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Doctor_Teats/static/css/main.7acaea2f.css",
+    "main.js": "/Doctor_Teats/static/js/main.07d3183d.js",
+    "index.html": "/Doctor_Teats/index.html",
+    "main.7acaea2f.css.map": "/Doctor_Teats/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Doctor_Teats/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
