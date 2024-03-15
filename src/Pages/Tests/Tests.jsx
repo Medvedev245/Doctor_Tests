@@ -40,7 +40,7 @@ const Tests = () => {
       const correctAnswers = questions.map(question =>
         question.correctAnswers.join(', ')
       );
-      console.log(correctCount);
+      console.log(correctAnswers);
       alert(
         `правильных ответов - ${correctCount} из ${questions.length}`
         // `Results:\n${questions
