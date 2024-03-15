@@ -1,152 +1,1490 @@
 [
   {
-    "question": "Question 1: What is the capital of France?",
-    "answers": ["Paris", "Berlin", "London", "Madrid"],
-    "correctAnswers": ["Paris"]
-  },
-  {
-    "question": "Question 2: Which of the following are programming languages?",
-    "answers": ["HTML", "CSS", "JavaScript", "Python"],
-    "correctAnswers": ["JavaScript", "Python"]
-  },
-  {
-    "question": "Question 3: What is the largest planet in our solar system?",
-    "answers": ["Mars", "Jupiter", "Earth", "Saturn"],
-    "correctAnswers": ["Jupiter"]
-  },
-  {
-    "question": "Question 4: Who painted the Mona Lisa?",
+    "question": "1.1. Dušnost",
     "answers": [
-      "Leonardo da Vinci",
-      "Pablo Picasso",
-      "Vincent van Gogh",
-      "Michelangelo"
+      "objevuje se u všech významných srdečních vad",
+      "nemůže být vyvolána anémií",
+      "je definována poklesem arteriálního pO2 pod 80 mmHg (10 kPa)",
+      "může být projevem neurózy"
     ],
-    "correctAnswers": ["Leonardo da Vinci"]
+    "correctAnswers": ["může být projevem neurózy"],
+    "book": ["Klener"],
+    "topic": ["propedeutika"]
   },
   {
-    "question": "Question 5: How many continents are there in the world?",
-    "answers": ["5", "6", "7", "8"],
-    "correctAnswers": ["7"]
-  },
-  {
-    "question": "Question 1: What is the capital of France?",
-    "answers": ["Paris", "Berlin", "London", "Madrid"],
-    "correctAnswers": ["Paris"]
-  },
-  {
-    "question": "Question 2: Which of the following are programming languages?",
-    "answers": ["HTML", "CSS", "JavaScript", "Python"],
-    "correctAnswers": ["JavaScript", "Python"]
-  },
-  {
-    "question": "Question 3: What is the largest planet in our solar system?",
-    "answers": ["Mars", "Jupiter", "Earth", "Saturn"],
-    "correctAnswers": ["Jupiter"]
-  },
-  {
-    "question": "Question 4: Who painted the Mona Lisa?",
+    "question": "1.2. Asthma cardiale",
     "answers": [
-      "Leonardo da Vinci",
-      "Pablo Picasso",
-      "Vincent van Gogh",
-      "Michelangelo"
+      "je projevem pravostranné srdeční insuficience",
+      "je spojeno s typickou bolestí na hrudi",
+      "je projevem levostranné srdeční insuficience",
+      "nemůže být vyvoláno A-V blokádou 2. stupně"
     ],
-    "correctAnswers": ["Leonardo da Vinci"]
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "correctAnswers": ["je projevem levostranné srdeční insuficience"]
   },
   {
-    "question": "Question 5: How many continents are there in the world?",
-    "answers": ["5", "6", "7", "8"],
-    "correctAnswers": ["7"]
-  },
-  {
-    "question": "Question 1: What is the capital of France?",
-    "answers": ["Paris", "Berlin", "London", "Madrid"],
-    "correctAnswers": ["Paris"]
-  },
-  {
-    "question": "Question 2: Which of the following are programming languages?",
-    "answers": ["HTML", "CSS", "JavaScript", "Python"],
-    "correctAnswers": ["JavaScript", "Python"]
-  },
-  {
-    "question": "Question 3: What is the largest planet in our solar system?",
-    "answers": ["Mars", "Jupiter", "Earth", "Saturn"],
-    "correctAnswers": ["Jupiter"]
-  },
-  {
-    "question": "Question 4: Who painted the Mona Lisa?",
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.3. Palpitace",
     "answers": [
-      "Leonardo da Vinci",
-      "Pablo Picasso",
-      "Vincent van Gogh",
-      "Michelangelo"
+      "objevují se pouze při výskytu četných extrasystol",
+      "nemohou být provokovány bradyarytmiemi",
+      "jsou necharakteristickým symptomem",
+      "znamenají vždy přítomnost závažné arytmie"
     ],
-    "correctAnswers": ["Leonardo da Vinci"]
+    "correctAnswers": ["jsou necharakteristickým symptomem"]
   },
   {
-    "question": "Question 5: How many continents are there in the world?",
-    "answers": ["5", "6", "7", "8"],
-    "correctAnswers": ["7"]
-  },
-  {
-    "question": "Question 1: What is the capital of France?",
-    "answers": ["Paris", "Berlin", "London", "Madrid"],
-    "correctAnswers": ["Paris"]
-  },
-  {
-    "question": "Question 2: Which of the following are programming languages?",
-    "answers": ["HTML", "CSS", "JavaScript", "Python"],
-    "correctAnswers": ["JavaScript", "Python"]
-  },
-  {
-    "question": "Question 3: What is the largest planet in our solar system?",
-    "answers": ["Mars", "Jupiter", "Earth", "Saturn"],
-    "correctAnswers": ["Jupiter"]
-  },
-  {
-    "question": "Question 4: Who painted the Mona Lisa?",
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.4. Ortopnoe je příznakem",
     "answers": [
-      "Leonardo da Vinci",
-      "Pablo Picasso",
-      "Vincent van Gogh",
-      "Michelangelo"
+      "u paroxyzmální ortostatické hemoglobinurie",
+      "u metabolické acidózy",
+      "u srdečního selhání a bronchiálního astmatu",
+      "pouze u levostranného srdečního selhání"
     ],
-    "correctAnswers": ["Leonardo da Vinci"]
+    "correctAnswers": ["u srdečního selhání a bronchiálního astmatu"]
   },
   {
-    "question": "Question 5: How many continents are there in the world?",
-    "answers": ["5", "6", "7", "8"],
-    "correctAnswers": ["7"]
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.5. Nemocného se srdečním onemocněním, který je klidově dušný, zařadíme podle NYHA klasifikace do",
+    "answers": ["II. třídy", "I. třídy", "IV. třídy", "III. třídy"],
+    "correctAnswers": ["IV. třídy"]
   },
   {
-    "question": "Question 1: What is the capital of France?",
-    "answers": ["Paris", "Berlin", "London", "Madrid"],
-    "correctAnswers": ["Paris"]
-  },
-  {
-    "question": "Question 2: Which of the following are programming languages?",
-    "answers": ["HTML", "CSS", "JavaScript", "Python"],
-    "correctAnswers": ["JavaScript", "Python"]
-  },
-  {
-    "question": "Question 3: What is the largest planet in our solar system?",
-    "answers": ["Mars", "Jupiter", "Earth", "Saturn"],
-    "correctAnswers": ["Jupiter"]
-  },
-  {
-    "question": "Question 4: Who painted the Mona Lisa?",
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.6. Ke kardiální synkopě dochází",
     "answers": [
-      "Leonardo da Vinci",
-      "Pablo Picasso",
-      "Vincent van Gogh",
-      "Michelangelo"
+      "pokud srdeční frekvence při komorové tachykardii klesne pod 120/min",
+      "u bradyarytmií vždy při poklesu srdeční frekvence pod 35/min",
+      "u bradyarytmií i tachyarytmií",
+      "pouze ve vertikální poloze"
     ],
-    "correctAnswers": ["Leonardo da Vinci"]
+    "correctAnswers": ["u bradyarytmií i tachyarytmií"]
   },
   {
-    "question": "Question 5: How many continents are there in the world?",
-    "answers": ["5", "6", "7", "8"],
-    "correctAnswers": ["7"]
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.7. Adamsův-Stokesův syndrom je",
+    "answers": [
+      "ortostatická synkopa v těhotenství",
+      "synkopa z přechodné obstrukce mitrálního ústí",
+      "námahová synkopa při aortální stenóze",
+      "synkopa při A-V blokádě 3. stupně"
+    ],
+    "correctAnswers": ["synkopa při A-V blokádě 3. stupně"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.8. Vazovagální synkopa",
+    "answers": [
+      "mívá prodromální příznaky",
+      "je častá u nemocných s těžkou mitrální vadou",
+      "vzniká bez vazby na tělesnou polohu",
+      "vzniká často v chladném prostředí"
+    ],
+    "correctAnswers": ["mívá prodromální příznaky"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.9. Perikardiální bolest",
+    "answers": [
+      "není vázána na kašel",
+      "zesiluje se vleže na zádech",
+      "není obvykle spojena s dušností",
+      "je vždy spojena s pulsus paradoxus"
+    ],
+    "correctAnswers": ["zesiluje se vleže na zádech"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.10. Příčinou ortostatické hypotenze nebývá",
+    "answers": [
+      "aortální stenóza",
+      "antihypertenzní terapie",
+      "průjmy",
+      "těhotenství"
+    ],
+    "correctAnswers": ["aortální stenóza"]
+  },
+
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.11. Třískové hemoragie v nehtových lůžkách jsou u",
+    "answers": [
+      "Renduovy-Oslerovy nemoci",
+      "infekční endokarditidy",
+      "hemofilie",
+      "Buergerovy choroby"
+    ],
+    "correctAnswers": ["Renduovy-Oslerovy nemoci"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.12. Paličkovité prsty nejsou přítomny u",
+    "answers": [
+      "cyanotických vrozených srdečních vad",
+      "infekční endokarditidy",
+      "získané aortální insuficience",
+      "recidivující plicní embolie"
+    ],
+    "correctAnswers": ["získané aortální insuficience"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.13. Periferní tepový deficit znamená",
+    "answers": [
+      "nápadně nízký a měkký tep na periferní tepně",
+      "nepravidelný tep na periferní tepně",
+      "počet srdečních revolucí auskultovaných na srdci je vyšší než počet tepů hmataných na periferní tepně",
+      "pacient má síňokomorovou blokádu 2:1 nebo vyššího stupně"
+    ],
+    "correctAnswers": [
+      "počet srdečních revolucí auskultovaných na srdci je vyšší než počet tepů hmataných na periferní tepně"
+    ]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.14. Quinckeho pulsace jsou přítomny u",
+    "answers": [
+      "aortální stenózy",
+      "šoku",
+      "aortální insuficience",
+      "hypertenzní krize"
+    ],
+    "correctAnswers": ["aortální insuficience"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.15. Kardiální periferní otoky jsou",
+    "answers": [
+      "výraznější ráno",
+      "často asymetrické",
+      "rozloženy podle zákonů tíže",
+      "projevem levostranné srdeční insuficience"
+    ],
+    "correctAnswers": ["rozloženy podle zákonů tíže"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.16. Horní hranice normálního krevního tlaku u dospělých osob je",
+    "answers": ["160/90 mmHg", "165/95 mmHg", "140/95 mmHg", "140/90 mmHg"],
+    "correctAnswers": ["140/90 mmHg"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.17. K obrazu hyperkinetické cirkulace nepatří",
+    "answers": [
+      "chladná akra",
+      "zvýšený systolický tlak",
+      "snížený diastolický tlak",
+      "zvětšená tlaková amplituda"
+    ],
+    "correctAnswers": ["chladná akra"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.18. Pulsus paradoxus je známkou",
+    "answers": [
+      "levopravého zkratu na úrovni velkých cév",
+      "fibrilace síní",
+      "sníženého tlaku v plicnici",
+      "srdeční tamponády"
+    ],
+    "correctAnswers": ["srdeční tamponády"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.19. Akutní lymfangoitida často navazuje na",
+    "answers": [
+      "žilní trombózu",
+      "periferní embolizaci",
+      "interdigitální mykózu",
+      "pravostrannou srdeční insuficienci"
+    ],
+    "correctAnswers": ["interdigitální mykózu"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.20. Známkou hypertrofie levé komory při fyzikálním vyšetření je",
+    "answers": [
+      "paradoxní pulsace prekordia",
+      "akcentace II. ozvy nad aortou",
+      "zvedavý úder hrotu",
+      "cvalový rytmus"
+    ],
+    "correctAnswers": ["zve-davý úder hrotu"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.21. Anakrotický tep (parvus et tardus) bývá často u",
+    "answers": [
+      "aortální stenózy",
+      "šoku, v jeho refrakterní fázi",
+      "mitrální stenózy",
+      "stenózy trojcípé chlopně"
+    ],
+    "correctAnswers": ["aortální stenózy"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.22. Plicní edém",
+    "answers": [
+      "znamená současné selhání levé i pravé komory",
+      "je vždy spojen s hypotenzí",
+      "vede k ortopnoi",
+      "nemůže být vyvolán fibrilací síní"
+    ],
+    "correctAnswers": ["vede k ortopnoi"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.23. Pulsus alternans je projevem",
+    "answers": [
+      "supraventrikulární extrasystolie",
+      "A-V blokády 2. stupně",
+      "komorové extrasystolie",
+      "srdečního selhání"
+    ],
+    "correctAnswers": ["srdečního selhání"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.24. Který z následujících příznaků není obvyklý u akutního infarktu myokardu",
+    "answers": [
+      "bolest na hrudi",
+      "nauzea a zvracení",
+      "dušnost",
+      "zarudnutí v obličeji"
+    ],
+    "correctAnswers": ["zarudnutí v obličeji"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.25. K příznakům levostranné srdeční insuficience nepatří",
+    "answers": [
+      "přítomnost 3. ozvy",
+      "pulsus paradoxus",
+      "tachykardie",
+      "ortopnoe"
+    ],
+    "correctAnswers": ["přítomnost 3. ozvy"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.26. Pro periferní cyanózu je typické",
+    "answers": [
+      "akra jsou chladná",
+      "sliznice jsou cyanotické",
+      "krevní tlak bývá zvýšen",
+      "není přítomna u šoku"
+    ],
+    "correctAnswers": ["akra jsou chladná"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.27. Při dilataci levé srdeční komory se nalézá",
+    "answers": [
+      "posun hrotu doleva a dolů",
+      "systolická pulsace prekordia",
+      "systolická pulsace epigastria",
+      "zvedavý úder hrotu"
+    ],
+    "correctAnswers": ["posun hrotu doleva a dolů"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.28. Hepatojugulární reflux je známkou",
+    "answers": [
+      "portální hypertenze",
+      "jaterní cirhózy",
+      "trombózy jaterních žil",
+      "pravostranné srdeční insuficience"
+    ],
+    "correctAnswers": ["pravostranné srdeční insuficience"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.29. Pulsus paradoxus je",
+    "answers": [
+      "vzestup amplitudy pulsové wlny při srdečním selhání",
+      "vzestup systolického tlaku v inspiriu o více než 10 mmHg",
+      "nález pulsus parvus při hypertonické krizi",
+      "pokles systolického tlaku v inspiriu o více než 10 mmHg"
+    ],
+    "correctAnswers": [
+      "pokles systolického tlaku v inspiriu o více než 10 mmHg"
+    ]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.30. Pro centrální cyanózu je typické",
+    "answers": [
+      "kůže bývá současně chladná a zpocená",
+      "může být upravena inhalací kyslíku",
+      "nemusí být známkou organického onemocnění",
+      "je přítomna u levopravých zkratů"
+    ],
+    "correctAnswers": ["může být upravena inhalací kyslíku"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.31. Nález víru je známkou",
+    "answers": [
+      "rozsáhlého perikardiálního výpotku",
+      "plicní hypertenze",
+      "turbulentního proudění",
+      "hypertrofie levé komory"
+    ],
+    "correctAnswers": ["turbulentního proudění"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.32. Pulsus parvus je typický pro",
+    "answers": [
+      "hypertenzi",
+      "aortální insuficienci",
+      "trikuspidální insuficienci",
+      "za stenózou aorty"
+    ],
+    "correctAnswers": ["za stenózou aorty"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.33. Zvedavý úder srdečního hrotu znamená",
+    "answers": [
+      "hypertrofii levé komory",
+      "srdeční tamponádu",
+      "dilataci levé komory",
+      "selhávání levé komory"
+    ],
+    "correctAnswers": ["hypertrofii levé komory"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.34. Diastolický vír v oblasti hrotu je u",
+    "answers": [
+      "mitrální insuficience",
+      "mitrální stenózy",
+      "defektu síňového septa",
+      "trikuspidální insuficience"
+    ],
+    "correctAnswers": ["mitrální insuficience"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.35. Mrštný tep (Corriganův) bývá často u",
+    "answers": [
+      "insuficience plicnice",
+      "koarktace aorty",
+      "aortální nedomykavosti",
+      "aortální stenózy"
+    ],
+    "correctAnswers": ["aortální nedomykavosti"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.36. Oslerovy uzly pozorujeme",
+    "answers": [
+      "na špičkách prstů",
+      "na přední straně bérců",
+      "na dorzu nohou",
+      "nad klíční kostí"
+    ],
+    "correctAnswers": ["na špičkách prstů"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.37. Pro lymfatický otok je typické",
+    "answers": [
+      "pigmentace kůže",
+      "bolest při došlápnutí",
+      "indurace kůže",
+      "přítomnost defektů"
+    ],
+    "correctAnswers": ["indurace kůže"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.38. Pulsus tardus je typický pro",
+    "answers": [
+      "pravolevý zkrat",
+      "aortální insuficienci",
+      "aortální stenózu",
+      "hypotenzi"
+    ],
+    "correctAnswers": ["aortální stenózu"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.39. Systolická pulsace prekordia je přítomna u",
+    "answers": [
+      "mitrální insuficience",
+      "aneuryzmatu levé komory",
+      "perikardiálního výpotku",
+      "dilatace levé komory"
+    ],
+    "correctAnswers": ["aneuryzmatu levé komory"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.40. Lymfatický otok nebývá způsoben",
+    "answers": [
+      "malignitami",
+      "kongenitálně",
+      "opakovanými erysipely",
+      "těhotenstvím"
+    ],
+    "correctAnswers": ["těhotenstvím"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.41. Auskultační aortální oblast je",
+    "answers": [
+      "v oblasti srdečního hrotu",
+      "2. mezižebří vlevo parasternálně",
+      "nad dolním koncem sterna",
+      "2. mezižebří vpravo parasternálně"
+    ],
+    "correctAnswers": ["2. mezižebří vpravo parasternálně"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.42. Corriganův puls je typický pro",
+    "answers": [
+      "srdeční tamponádu",
+      "mitrální insuficienci",
+      "defekt komorového septa",
+      "aortální insuficienci"
+    ],
+    "correctAnswers": ["aortální insuficienci"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.43. Šelest při aortální insuficienci je",
+    "answers": [
+      "presystolický",
+      "diastolický decrescendový",
+      "holodiastolický",
+      "holosystolický"
+    ],
+    "correctAnswers": ["diastolický decrescendový"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.44. Čtvrtá srdeční ozva",
+    "answers": [
+      "představuje protodiastolický cval",
+      "představuje presystolický cval",
+      "u fibrilace síní se zesiluje",
+      "znamená vždy patologický nález"
+    ],
+    "correctAnswers": ["představuje protodiastolický cval"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.45. Šelest Grahama Steela souvisí s",
+    "answers": [
+      "nedomykavostí aortální chlopně",
+      "nedomykavostí plicnice",
+      "myxomem v levé síni",
+      "nedomykavostí trojcípé chlopně"
+    ],
+    "correctAnswers": ["nedomykavostí plicnice"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.46. Šelest Austina Flinta nacházíme u",
+    "answers": [
+      "mitrální stenózy",
+      "aortální insuficience",
+      "mitrální insuficience",
+      "defektu síňového septa"
+    ],
+    "correctAnswers": ["aortální insuficience"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.47. Propagace srdečního šelestu závisí na",
+    "answers": [
+      "přítomnosti nebo chybění sinusového rytmu",
+      "směru srdečního proudu generujícího šelest",
+      "charakteru šelestu",
+      "kontrakční zdatnosti myokardu"
+    ],
+    "correctAnswers": ["směru srdečního proudu generujícího šelest"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.48. 1. srdeční ozva je projevem",
+    "answers": [
+      "otevření mitrální a trikuspidální chlopně",
+      "uzávěru mitrální a trikuspidální chlopně",
+      "uzávěru aortální a pulmonální chlopně",
+      "otevření aortální a pulmonální chlopně"
+    ],
+    "correctAnswers": ["otevření aortální a pulmonální chlopně"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.49. Holosystolický šelest bývá přítomen u",
+    "answers": [
+      "mitrální stenózy",
+      "defektu síňového septa",
+      "prolapsu mitrální chlopně",
+      "aortální stenózy"
+    ],
+    "correctAnswers": ["prolapsu mitrální chlopně"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.50. Šelest při mitrální insuficienci",
+    "answers": [
+      "navazuje na 1. ozvu",
+      "při inspiriu se zesiluje",
+      "začíná 0,10–0,14 s za 2. ozvou",
+      "má presystolický charakter"
+    ],
+    "correctAnswers": ["má presystolický charakter"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.51. K fixnímu rozštěpu 2. ozvy nad plicnicí dochází u",
+    "answers": [
+      "aortální stenózy",
+      "blokády levého Tawarova raménka",
+      "defektu síňového septa",
+      "levostranné srdeční insuficience"
+    ],
+    "correctAnswers": ["defektu síňového septa"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.52. U aortální stenózy je",
+    "answers": [
+      "systolický šelest na bazi",
+      "presystolický šelest nad aortou",
+      "kontinuální šelest na bazi",
+      "diastolický šelest nad aortou"
+    ],
+    "correctAnswers": ["systolický šelest na bazi"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.53. Druhá srdeční ozva vzniká",
+    "answers": [
+      "uzávěrem aortální a pulmonální chlopně",
+      "uzávěrem mitrální a trikuspidální chlopně",
+      "otevřením aortální a pulmonální chlopně",
+      "uzávěrem aortální a otevřením mitrální chlopně"
+    ],
+    "correctAnswers": ["uzávěrem aortální a pulmonální chlopně"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.54. U mitrální stenózy je",
+    "answers": [
+      "systolický šelest na hrotě",
+      "2. ozva nad plicnicí oslabená",
+      "presystolický cval",
+      "1. ozva na hrotě zesílená"
+    ],
+    "correctAnswers": ["presystolický cval"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.55. Šelesty vznikající v pravém srdci se při hlubokém inspiriu",
+    "answers": ["zesilují", "zeslabují", "nemění", "stávají kontinuálními"],
+    "correctAnswers": ["zesilují"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.56. Auskultační pulmonální oblast je",
+    "answers": [
+      "2. mezižebří vpravo parasternálně",
+      "2. mezižebří vlevo parasternálně",
+      "nad dolním koncem sterna",
+      "v oblasti srdečního hrotu"
+    ],
+    "correctAnswers": ["2. mezižebří vpravo parasternálně"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.57. Fyziologicky se při nádechu",
+    "answers": [
+      "obě složky 2. ozvy vzdalují",
+      "aortální složka 2. ozvy zesiluje",
+      "vztah obou složek 2. ozvy nemění",
+      "obě složky 2. ozvy přibližují"
+    ],
+    "correctAnswers": ["obě složky 2. ozvy vzdalují"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.58. U otevřené Botallovy dučeje je",
+    "answers": [
+      "oslabená 2. ozva nad plicnicí",
+      "systolický šelest nad aortou",
+      "kontinuální šelest nad horním koncem sterna",
+      "zvedavý úder hrotu"
+    ],
+    "correctAnswers": ["kontinuální šelest nad horním koncem sterna"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.59. Hrudní elektroda V5 je umístěna",
+    "answers": [
+      "v 5. mezižebří vlevo v přední axilární čáře",
+      "ve 4. mezižebří vlevo v medioklavikulární čáře",
+      "v 5. mezižebří v medioklavikulární čáře",
+      "ve 4. mezižebří vlevo ve střední axilární čáře"
+    ],
+    "correctAnswers": ["v 5. mezižebří v medioklavikulární čáře"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.60. Jícnové EKG užíváme",
+    "answers": [
+      "u obézních osob nebo osob s emfyzémem",
+      "k přesnější diagnostice arytmií",
+      "u stimulovaných pacientů",
+      "u pacientů s infarktem myokardu"
+    ],
+    "correctAnswers": ["k přesnější diagnostice arytmií"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.61. U komorové extrasystoly je",
+    "answers": [
+      "štíhlé QRS a úplná kompenzační pauza",
+      "široké QRS a neúplná kompenzační pauza",
+      "široké QRS a úplná kompenzační pauza",
+      "štíhlé QRS a neúplná kompenzační pauza"
+    ],
+    "correctAnswers": ["široké QRS a úplná kompenzační pauza"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.62. Normální interval PQ je",
+    "answers": ["0,08–0,16 s", "0,12–0,20 s", "0,12–0,16 s", "0,14–0,20 s"],
+    "correctAnswers": ["0,12–0,20 s"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.63. Patologické Q se objevuje u",
+    "answers": [
+      "transmurálního infarktu myokardu",
+      "námahové anginy pectoris",
+      "akutní perikarditidy",
+      "hypertrofie pravé komory"
+    ],
+    "correctAnswers": ["transmurálního infarktu myokardu"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.64. III. končetinový svod EKG zachycuje rozdíl potenciálů mezi",
+    "answers": [
+      "pravou paží a levou paží",
+      "levou paží a pravou nohou",
+      "levou paží a levou nohou",
+      "pravou paží a pravou nohou"
+    ],
+    "correctAnswers": ["levou paží a levou nohou"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.65. Interval QT se měří",
+    "answers": [
+      "od konce Q kmitu k začátku T vlny",
+      "od začátku QRS komplexu k začátku T vlny",
+      "od začátku QRS komplexu ke konci T vlny",
+      "od konce Q kmitu ke konci T vlny"
+    ],
+    "correctAnswers": ["od začátku QRS komplexu ke konci T vlny"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.66. Pardeeho vlna je typická pro",
+    "answers": [
+      "akutní perikarditidu",
+      "akutní fázi infarktu myokardu",
+      "digitalisovou intoxikaci",
+      "hypokalémii"
+    ],
+    "correctAnswers": ["akutní fázi infarktu myokardu"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.67. Interval PQ se měří",
+    "answers": [
+      "od konce P vlny k začátku QRS komplexu",
+      "od začátku P vlny ke konci Q kmitu",
+      "od začátku P vlny k začátku QRS komplexu",
+      "od konce P vlny ke konci Q kmitu"
+    ],
+    "correctAnswers": ["od začátku P vlny k začátku QRS komplexu"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.68. U hypertrofie levé komory je na EKG",
+    "answers": [
+      "hluboké S V5-6",
+      "vysoké R V1-2",
+      "srdeční osa nad 105°",
+      "vysoké R V5-V6"
+    ],
+    "correctAnswers": ["vysoké R V5-V6"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.69. Elektrokardiografickými známkami ischémie myokardu jsou",
+    "answers": [
+      "arytmie",
+      "deprese ST úseků",
+      "prodloužení intervalu PQ",
+      "rozšíření komplexu QRS"
+    ],
+    "correctAnswers": ["deprese ST úseků"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.70. Normální šířka QRS komplexu je",
+    "answers": ["0,05–0,10 s", "0,20–0,30 s", "0,06–0,13 s", "0,12–0,20 s"],
+    "correctAnswers": ["0,05–0,10 s"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.71. Sinusová bradykardie",
+    "answers": [
+      "objevuje se u výraznější anémie",
+      "nemůže být vyvolána medikamentózně",
+      "může být fyziologickým nálezem",
+      "je známkou počínající srdeční insuficience"
+    ],
+    "correctAnswers": ["může být fyziologickým nálezem"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.72. Deprese ST při zátěži jsou projevem",
+    "answers": [
+      "hrozící fibrilace komor",
+      "srdečního selhání",
+      "ischémie myokardu",
+      "hyperkalcémie"
+    ],
+    "correctAnswers": ["ischémie myokardu"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.73. Při síňokomorové blokádě 1. stupně je",
+    "answers": [
+      "prodloužení PQ nad 0,32 s",
+      "prodloužení PQ nad 0,20 s",
+      "rozšíření QRS nad 0,11 s",
+      "nezávislý výskyt P vln a QRS komplexů"
+    ],
+    "correctAnswers": ["prodloužení PQ nad 0,20 s"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.74. Normální rozmezí srdeční osy je",
+    "answers": ["+120 až +10°", "+130 až 0°", "+105 až -30°", "+100 až -50°"],
+    "correctAnswers": ["+105 až -30°"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.75. Koronární T je",
+    "answers": [
+      "negativní T ve V1–V2",
+      "ploše bifázické T",
+      "symetrické negativní T",
+      "vysoké hrotnaté T"
+    ],
+    "correctAnswers": ["symetrické negativní T"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.76. Fickova metoda hodnotí",
+    "answers": [
+      "žilní insuficienci",
+      "minutový srdeční objem",
+      "poruchy síňokomorového převodu",
+      "přítomnost perikardiálního výpotku"
+    ],
+    "correctAnswers": ["minutový srdeční objem"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.77. Izovolumická relaxační perioda je časový interval",
+    "answers": [
+      "od uzavření aortální chlopně k uzavření pulmonální chlopně",
+      "od uzavření aortální chlopně k otevření mitrální chlopně",
+      "od počátku vlny T na EKG k otevření mitrální chlopně",
+      "od počátku vlny T na EKG k uzávěru aortální chlopně"
+    ],
+    "correctAnswers": [
+      "od uzavření aortální chlopně k otevření mitrální chlopně"
+    ]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.78. Podle šířky truncus intermedius plicnice lze hodnotit",
+    "answers": [
+      "stupeň pravostranné srdeční insuficience",
+      "stupeň plicní hypertenze",
+      "minutový srdeční objem",
+      "přítomnost perikardiálního výpotku"
+    ],
+    "correctAnswers": ["stupeň plicní hypertenze"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.79. Normální rozmezí srdečního indexu je",
+    "answers": [
+      "1,5–2,8 l/min/m2",
+      "2,8–4,2 l/min/m2",
+      "3,8–5,8 l/min/m2",
+      "2,0–3,2 l/min/m2"
+    ],
+    "correctAnswers": ["2,8–4,2 l/min/m2"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.80. Fickova principu užíváme při stanovení",
+    "answers": [
+      "ejekční frakce levé komory",
+      "velikosti krevního průtoku",
+      "vitální kapacity plic",
+      "hladiny krevních plynů"
+    ],
+    "correctAnswers": ["velikosti krevního průtoku"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.81. Srdeční výdej je u zdravého člověka v klidu asi",
+    "answers": ["10 l/min", "5 l/min", "3 l/min", "12 l/min"],
+    "correctAnswers": ["5 l/min"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.82. Dopplerovská echokardiografie hodnotí",
+    "answers": [
+      "kontraktilitu myokardu",
+      "rychlost krevního proudu",
+      "přítomnost perikardiálního výpotku",
+      "rozměry srdečních dutin"
+    ],
+    "correctAnswers": ["rychlost krevního proudu"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.83. Při diagnóze infarktu myokardu se hodnotí aktivita těchto enzymů",
+    "answers": ["CK, LD, AST", "LD, ALT, ALP", "AST, ALT, ALP", "CK, ALT, ALP"],
+    "correctAnswers": ["CK, LD, AST"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.84. Normální rozmezí arteriálního pO2 je",
+    "answers": ["10–13,3 kPa", "4,6–6,6 kPa", "15–18 kPa", "7–12 kPa"],
+    "correctAnswers": ["10–13,3 kPa"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.85. Při použití rtuťového sfygmomanometru odečítáme systémový diastolický tlak v okamžiku Korotkovova zvuku (fáze)",
+    "answers": ["IV.", "III.", "II.", "V."],
+    "correctAnswers": ["V."]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.86. K vyšetření perfúze myokardu se používá radioizotop",
+    "answers": ["indium 205", "thalium 201", "fosfor 32", "jód 131"],
+    "correctAnswers": ["thalium 201"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.87. Thaliová scintigrafie myokardu slouží k",
+    "answers": [
+      "diagnóze hypertrofie levé komory",
+      "hodnocení stupně mitrální insuficience",
+      "diagnóze ischemické choroby srdeční",
+      "hodnocení významnosti aortální stenózy"
+    ],
+    "correctAnswers": ["diagnóze ischemické choroby srdeční"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.88. Vzestup centrálního žilního tlaku nesvědčí pro",
+    "answers": [
+      "hypervolémii",
+      "levostrannou srdeční insuficienci",
+      "pravostrannou srdeční insuficienci",
+      "vzestup intratorakálního tlaku"
+    ],
+    "correctAnswers": ["levostrannou srdeční insuficienci"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.89. U exsudativní perikarditidy se na rtg zvětšuje srdeční stín při",
+    "answers": [
+      "50 ml výpotku",
+      "100 ml výpotku",
+      "20 ml výpotku",
+      "400 ml výpotku"
+    ],
+    "correctAnswers": ["400 ml výpotku"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.90. Přítomnost Kerleyových linií svědčí pro",
+    "answers": [
+      "alveolární plicní edém",
+      "nekardiální plicní edém",
+      "peribronchitidu",
+      "intersticiální plicní edém"
+    ],
+    "correctAnswers": ["intersticiální plicní edém"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.91. Při srdeční skiaskopii pozorujeme výraznou pulsaci hilů u",
+    "answers": [
+      "prolapsu mitrální chlopně",
+      "defektu síňového septa",
+      "aneuryzmatu levé srdeční komory",
+      "mitrální stenózy"
+    ],
+    "correctAnswers": ["aneuryzmatu levé srdeční komory"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.92. Kerleyovy linie nacházíme",
+    "answers": [
+      "na echokardiogramu při mitrální stenóze",
+      "na skiagramu hrudníku při intersticiálním plicním edému",
+      "na ušním boltci při Kerleyově chorobě",
+      "na EKG při syndromu X"
+    ],
+    "correctAnswers": [
+      "na skiagramu hrudníku při intersticiálním plicním edému"
+    ]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.93. Dvojvrcholový typ diluční křivky nalézáme u",
+    "answers": [
+      "levopravého zkratu",
+      "významné aortální regurgitace",
+      "významné mitrální regurgitace",
+      "pravolevého zkratu"
+    ],
+    "correctAnswers": ["významné mitrální regurgitace"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.94. Na zadopředním snímku hrudníku tvoří pravou konturu srdce",
+    "answers": [
+      "horní dutá žíla a pravá síň",
+      "plicnice, pravá síň a pravá komora",
+      "plicnice a pravá komora",
+      "pravá síň a pravá komora"
+    ],
+    "correctAnswers": ["plicnice a pravá komora"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.95. Kontraindikací ergometrie není",
+    "answers": [
+      "plicní embolie starší 3 dnů",
+      "infarkt myokardu starší 3 týdnů",
+      "závažná aortální stenóza",
+      "nestabilní angina pectoris"
+    ],
+    "correctAnswers": ["infarkt myokardu starší 3 týdnů"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.96. Holterovské elektrokardiografie se neužívá při posuzování",
+    "answers": [
+      "synkopálních stavů",
+      "účinnosti antiarytmik",
+      "poruch srdečního rytmu",
+      "hemodynamické významnosti srdečních vad"
+    ],
+    "correctAnswers": ["hemodynamické významnosti srdečních vad"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.97. Při skiaskopii se velikost levé komory hodnotí v",
+    "answers": [
+      "I. (pravé) šikmé projekci",
+      "předozadní projekci",
+      "II. (levé) šikmé projekci",
+      "boční projekci"
+    ],
+    "correctAnswers": ["II. (levé) šikmé projekci"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.98. Normální rozmezí arteriálního pCO2 je",
+    "answers": ["10–13,3 kPa", "4,6–6,6 kPa", "3–4,5 kPa", "7,2–12 kPa"],
+    "correctAnswers": ["4,6–6,6 kPa"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.99. Tlak v zaklínění plicních kapilár odpovídá",
+    "answers": [
+      "systolickému tlaku v pravé komoře",
+      "centrálnímu žilnímu tlaku",
+      "střednímu tlaku v plicnici",
+      "tlaku v levé síni"
+    ],
+    "correctAnswers": ["střednímu tlaku v plicnici"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.100. Pro diagnózu perikardiálního výpotku je nejcitlivější",
+    "answers": [
+      "barevné dopplerovské mapování",
+      "jugulární flebogram",
+      "echokardiografie",
+      "thaliová scintigrafie myokardu"
+    ],
+    "correctAnswers": ["echokardiografie"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.101. Dipyridamolový test se užívá k",
+    "answers": [
+      "zjištění tolerance zátěže",
+      "diagnóze ICHS",
+      "diagnóze hypertrofické obstruktivní kardiomyopatie",
+      "diagnóze hypertrofie pravé komory"
+    ],
+    "correctAnswers": ["diagnóze ICHS"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.102. Trendelenburgovou zkouškou stanovujeme",
+    "answers": [
+      "přítomnost uzávěru v oblasti hlubokých žil dolních končetin",
+      "poruchu funkce žilních spojek a insuficienci povrchních žil dolních končetin",
+      "přítomnost aterosklerózy v tepnách dolních končetin",
+      "mikrocirkulační insuficienci v kožní oblasti dolních končetin"
+    ],
+    "correctAnswers": [
+      "poruchu funkce žilních spojek a insuficienci povrchních žil dolních končetin"
+    ]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.103. Při Ratschowově testu se objevuje žilní náplň normálně do",
+    "answers": ["15 s", "18 s", "10 s", "12 s"],
+    "correctAnswers": ["10 s"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.104. Perthesův test neslouží k diagnóze",
+    "answers": [
+      "insuficience žilních spojek",
+      "stavu po povrchní flebitidě",
+      "průchodnosti hlubokého žilního systému",
+      "stavu po hluboké žilní trombóze"
+    ],
+    "correctAnswers": ["insuficience žilních spojek"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.105. Homansův test diagnostikuje",
+    "answers": [
+      "Buergerovu chorobu",
+      "žilní trombózu dolní končetiny",
+      "povrchní flebitidu",
+      "chronickou žilní insuficienci"
+    ],
+    "correctAnswers": ["žilní trombózu dolní končetiny"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.106. Známkou žilní trombózy není",
+    "answers": ["bolestivost", "cyanóza", "snížený žilní tlak", "otok"],
+    "correctAnswers": ["snížený žilní tlak"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.107. Allenův test používáme k posouzení přítomnosti",
+    "answers": [
+      "akutní žilní trombózy v oblasti horních končetin",
+      "žilní insuficience v oblasti horních končetin",
+      "lymfatické insuficience v oblasti horních končetin",
+      "arteriální insuficience v oblasti horních končetin"
+    ],
+    "correctAnswers": ["arteriální insuficience v oblasti horních končetin"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.108. Z uvedených metod bychom mohli použít k diagnostice uzávěru hlubokého žilního systému dolních končetin",
+    "answers": [
+      "měření krevního průtoku postižení končetiny",
+      "měření distálních tlaků dopplerovským principem",
+      "venózní pletyzmografii",
+      "stanovení parciálního tlaku kyslíku v centrální žíle"
+    ],
+    "correctAnswers": ["měření distálních tlaků dopplerovským principem"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.109. Perthesova zkouška je pozitivní při",
+    "answers": [
+      "insuficienci žilních spojek v oblasti dolních končetin",
+      "uzávěru hlubokých žil dolních končetin",
+      "uzávěru a. poplitea",
+      "přítomnosti insuficience chlopní povrchních žil dolních končetin"
+    ],
+    "correctAnswers": ["uzávěru hlubokých žil dolních končetin"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.110. Allenův test slouží k diagnóze",
+    "answers": [
+      "uzávěru tepen horních končetin",
+      "žilní trombózy",
+      "povrchní flebitidy",
+      "ischemické choroby srdeční"
+    ],
+    "correctAnswers": ["uzávěru tepen horních končetin"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.111. Dopplerovské vyšetření je málo spolehlivé pro diagnózu žilní trombózy v oblasti",
+    "answers": ["třísla", "lýtka", "v. iliaca", "stehna"],
+    "correctAnswers": ["třísla"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.112. Mechanismus končetinové pletyzmografie spočívá v",
+    "answers": [
+      "snímání elektrických potenciálů ze svalové činnosti končetiny",
+      "měření změn objemu končetiny",
+      "měření kyslíku ve tkáni",
+      "měření rychlosti krevního proudění na úrovni kapilár"
+    ],
+    "correctAnswers": ["měření změn objemu končetiny"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.113. Skvrnitý typ reaktivní hyperémie při polohovém testu svědčí pro",
+    "answers": [
+      "akutní uzávěr a. poplitea",
+      "žilní insuficienci",
+      "poruchu lymfatické cirkulace",
+      "poruchu na úrovni mikrocirkulace"
+    ],
+    "correctAnswers": ["poruchu na úrovni mikrocirkulace"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.114. Trendelenburgova zkouška slouží k",
+    "answers": [
+      "lokalizaci tepenných uzávěrů",
+      "diagnóze hluboké žilní trombózy",
+      "diagnóze vaskulitid",
+      "lokalizaci insuficientních žilních perforátorů"
+    ],
+    "correctAnswers": ["lokalizaci insuficientních žilních perforátorů"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.115. Klaudikační vzdálenost nejlépe posoudíme",
+    "answers": [
+      "měřením distálních tlaků",
+      "dotazem u příbuzných nemocného",
+      "anamnesticky",
+      "testem na běžícím pásu"
+    ],
+    "correctAnswers": ["testem na běžícím pásu"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.116. Ratschowův test diagnostikuje",
+    "answers": [
+      "arteriovenózní píštěl",
+      "ischemickou chorobu dolních končetin",
+      "hlubokou žilní trombózu",
+      "vazoneurózy"
+    ],
+    "correctAnswers": ["ischemickou chorobu dolních končetin"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.117. Lowenbergovo znamení je pozitivní při",
+    "answers": [
+      "insuficienci žilních spojek",
+      "arteriovenózní píštěli",
+      "hluboké žilní trombóze",
+      "ischemické chorobě dolních končetin"
+    ],
+    "correctAnswers": ["insuficienci žilních spojek"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.118. Při polohovém testu začíná kůže nohy červenat do",
+    "answers": ["5 s", "10 s", "20 s", "15 s"],
+    "correctAnswers": ["5 s"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.119. Při měření distálních tlaků svědčí pro významnou stenózu tepen dolních končetin",
+    "answers": [
+      "gradient diastolického tlaku 30 mmHg a více",
+      "gradient systolického tlaku 70 mmHg a více",
+      "gradient systolického tlaku 50 mmHg a více",
+      "gradient systolického tlaku 20 mmHg a více"
+    ],
+    "correctAnswers": ["gradient diastolického tlaku 30 mmHg a více"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.120. Mezi klinické známky chronické žilní insuficience nepatří",
+    "answers": [
+      "chybění pulsací",
+      "zvýšený žilní tlak, event. přítomnost varixů",
+      "otoky",
+      "pigmentace pokožky bérce"
+    ],
+    "correctAnswers": ["chybění pulsací"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.121. U ležícího člověka se normální žíly nohy vyprázdní, zvedneme-li jeho nohy nad podložku do výše",
+    "answers": ["5 cm", "20–25 cm", "30–35 cm", "10–15 cm"],
+    "correctAnswers": ["10–15 cm"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.122. Bolest na hrudi není u",
+    "answers": [
+      "osteoporózy",
+      "ischemické choroby srdeční",
+      "bronchogenního karcinomu stadia I",
+      "refluxní ezofagitidy"
+    ],
+    "correctAnswers": ["bronchogenního karcinomu stadia I"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.123. Kontinuální šelest je u",
+    "answers": [
+      "defektu septa komor",
+      "insuficience aorty",
+      "stenózy a. carotis",
+      "A-V fistule"
+    ],
+    "correctAnswers": ["A-V fistule"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.124. Normální hodnota centrálního žilního tlaku je",
+    "answers": [
+      "8–16 cm vodního sloupce",
+      "-2 až +2 cm vodního sloupce",
+      "2–12 cm vodního sloupce",
+      "0–4 cm vodního sloupce"
+    ],
+    "correctAnswers": ["2–12 cm vodního sloupce"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.125. Časný systolický klik nacházíme u",
+    "answers": [
+      "perzistujícího ductus arteriosus",
+      "Eisenmengerova komplexu",
+      "Lutenbacherova syndromu",
+      "prolapsu mitrální chlopně"
+    ],
+    "correctAnswers": ["Lutenbacherova syndromu"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.126. Bradykardie není typická pro",
+    "answers": [
+      "obstrukční ikterus",
+      "vagotonii",
+      "stenózu plicnice",
+      "nitrolebeční hypertenzi"
+    ],
+    "correctAnswers": ["stenózu plicnice"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.127. Echokardiograficky nelze zjistit",
+    "answers": [
+      "stenózu plicnice",
+      "suchou perikarditidu",
+      "perikardiální výpotek",
+      "defekt septa síní"
+    ],
+    "correctAnswers": ["stenózu plicnice"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.128. Rozštěp II. ozvy není přítomen u",
+    "answers": [
+      "defektu komorového septa",
+      "Fallotovy tetralogie",
+      "stenózy plicnice",
+      "defektu septa síní"
+    ],
+    "correctAnswers": ["Fallotovy tetralogie"]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.129. Diagnóza akutní flebotrombózy dolní končetiny je nejvíce pravděpodobná při",
+    "answers": [
+      "pozitivním Prusíkově testu",
+      "Prattově znamení, Homansově znamení a plantárním znamení pozitivním",
+      "otoku, bledosti, hypestézii dolní končetiny",
+      "otoku, svalové tuhosti a bolestivosti na pohmat, cyanóze dolní končetiny"
+    ],
+    "correctAnswers": [
+      "otoku, svalové tuhosti a bolestivosti na pohmat, cyanóze dolní končetiny"
+    ]
+  },
+  {
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "question": "1.130. U arteriovenózní píštěle hledáme",
+    "answers": [
+      "šelest Grahama-Steela",
+      "Michaelisův příznak",
+      "Branhamův příznak",
+      "Mahlerův příznak"
+    ],
+    "correctAnswers": ["Branhamův příznak"]
   }
 ]

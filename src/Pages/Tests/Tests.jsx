@@ -1,10 +1,12 @@
 import React, { useState } from 'react';
-import questions from '../../Files/Clener.json';
+import { useSelector } from 'react-redux';
 
 const Tests = () => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [selectedAnswers, setSelectedAnswers] = useState([]);
   const [correctCount, setCorrectCount] = useState(0);
+
+  const questions = useSelector(state => state.questions);
 
   const handleAnswerSelect = answer => {
     if (selectedAnswers.includes(answer)) {
@@ -38,13 +40,15 @@ const Tests = () => {
       const correctAnswers = questions.map(question =>
         question.correctAnswers.join(', ')
       );
+      console.log(correctCount);
       alert(
-        `Results:\n${questions
-          .map(
-            (question, index) =>
-              `${question.question}\nCorrect answers: ${correctAnswers[index]}`
-          )
-          .join('\n\n')}\n\nTotal correct answers: ${correctCount}`
+        `правильных ответов - ${correctCount} из ${questions.length}`
+        // `Results:\n${questions
+        //   .map(
+        //     (question, index) =>
+        //       `${question.question}\nCorrect answers: ${correctAnswers[index]}`
+        //   )
+        //   .join('\n\n')}\n\nTotal correct answers: ${correctCount}`
       );
     }
     setSelectedAnswers([]);

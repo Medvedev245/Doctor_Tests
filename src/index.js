@@ -9,8 +9,9 @@ import { createStore } from 'redux';
 import { Provider } from 'react-redux';
 
 const defaultState = {
-  selectedOption1: 'qwes',
-  selectedOption2: 0,
+  selectedOption1: 'Klener',
+  selectedOption2: 10,
+  questions: [],
 };
 
 const reducer = (state = defaultState, action) => {
@@ -19,6 +20,7 @@ const reducer = (state = defaultState, action) => {
       return {
         selectedOption1: action.payload.selectedOption1,
         selectedOption2: action.payload.selectedOption2,
+        questions: action.payload.myTests,
       };
     default:
       return state;

@@ -1,6 +1,9 @@
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
+import Klener from '../../Files/Clener.json';
+import Olomouc from '../../Files/Clener.json';
+import Živný from '../../Files/Clener.json';
 
 const Home = () => {
   const [selectedOption1, setSelectedOption1] = useState('');
@@ -8,8 +11,8 @@ const Home = () => {
   const dispatch = useDispatch();
   const elements = useSelector(state => state.selectedOption1);
   const elements2 = useSelector(state => state.selectedOption2);
-  // console.log(elements);
-  // console.log(elements2);
+  const elements3 = useSelector(state => state.questions);
+  console.log('state-slice', elements3);
 
   const handleOption1Change = event => {
     setSelectedOption1(event.target.value);
@@ -19,11 +22,47 @@ const Home = () => {
     setSelectedOption2(event.target.value);
   };
 
+  const generateTests = (one, two) => {
+    let selectedFile;
+    switch (one) {
+      case 'Klener':
+        selectedFile = Klener;
+        break;
+      case 'Olomouc':
+        selectedFile = Olomouc;
+        break;
+      case 'Živný':
+        selectedFile = Živný;
+        break;
+      default:
+        selectedFile = Klener;
+    }
+
+    const number = [];
+    const selectedNamesArray = [];
+
+    // Generate 3 random numbers
+    while (number.length < two) {
+      const randomNum = Math.floor(Math.random() * selectedFile.length);
+      if (!number.includes(randomNum)) {
+        number.push(randomNum);
+      }
+    }
+
+    // Push names corresponding to the generated numbers
+    for (const num of number) {
+      selectedNamesArray.push(selectedFile[num]);
+    }
+
+    return selectedNamesArray;
+  };
+
   const handleSubmit = event => {
-    event.preventDefault(); // Предотвращаем стандартное поведение отправки формы
+    event.preventDefault();
+    const myTests = generateTests(selectedOption1, selectedOption2);
     dispatch({
       type: 'ADD_OPTIONS',
-      payload: { selectedOption1, selectedOption2 },
+      payload: { selectedOption1, selectedOption2, myTests },
     });
   };
 
