@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useSelector } from 'react-redux';
+import { FormTest, FormText, ContainerCheck, Button } from './Tests.styled';
 
 const Tests = () => {
   //правельные ответы
@@ -7,7 +8,7 @@ const Tests = () => {
   //выбранный ответ
   const [selectedAnswers, setSelectedAnswers] = useState([]);
   const [correctCount, setCorrectCount] = useState(0);
-  const [Count, setCount] = useState(1);
+  const [count, setCount] = useState(1);
 
   const questions = useSelector(state => state.questions);
 
@@ -22,7 +23,8 @@ const Tests = () => {
   };
 
   const handleNextQuestion = () => {
-    setCount(+1);
+    setCount(count + 1);
+    console.log(count);
     let correctAnswersCount = 0;
     questions[currentQuestion].correctAnswers.forEach(correctAnswer => {
       if (selectedAnswers.includes(correctAnswer)) {
@@ -59,24 +61,28 @@ const Tests = () => {
   };
 
   return (
-    <div>
-      <h1>{questions[currentQuestion].question}</h1>
+    <FormTest>
+      <FormText>{questions[currentQuestion].question}</FormText>
       {questions[currentQuestion].answers.map((answer, index) => (
-        <div key={index}>
+        <ContainerCheck key={index}>
           <input
             type="checkbox"
             checked={selectedAnswers.includes(answer)}
             onChange={() => handleAnswerSelect(answer)}
+            style={{
+              width: '20px',
+              height: '20px',
+            }}
           />
           <label>{answer}</label>
-        </div>
+        </ContainerCheck>
       ))}
 
-      <button onClick={handleNextQuestion}>Next Question</button>
+      <Button onClick={handleNextQuestion}>Next Question</Button>
       <div>
-        {Count} из {questions.length}
+        {count} из {questions.length}
       </div>
-    </div>
+    </FormTest>
   );
 };
 

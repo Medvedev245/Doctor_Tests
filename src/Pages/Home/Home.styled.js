@@ -10,7 +10,7 @@ export const FormContainer = styled.form`
 `;
 
 export const Button = styled.button`
-  background-color: #46ad76;
+  background-color: var(--iq-secondary);
   width: 150px;
   height: 40px;
   border-radius: 5px;
