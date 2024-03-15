@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 //main container
 export const FormContainer = styled.form`
-  background-color: #abaad8;
+  /* background-color: #abaad8; */
   display: flex;
   flex-direction: column;
   gap: 20px;

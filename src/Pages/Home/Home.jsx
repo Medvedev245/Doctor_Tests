@@ -94,7 +94,7 @@ const Home = () => {
         </select>
       </div>
       <Button type="submit">Выбрать</Button>
-      <Link to={'/tests'}>Начать !</Link>
+      {elements3.length > 0 && <Link to={'/tests'}>Начать !</Link>}
       <div>
         Ты выбрал -{elements},{elements2}
       </div>

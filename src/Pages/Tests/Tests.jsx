@@ -2,9 +2,12 @@ import React, { useState } from 'react';
 import { useSelector } from 'react-redux';
 
 const Tests = () => {
+  //правельные ответы
   const [currentQuestion, setCurrentQuestion] = useState(0);
+  //выбранный ответ
   const [selectedAnswers, setSelectedAnswers] = useState([]);
   const [correctCount, setCorrectCount] = useState(0);
+  const [Count, setCount] = useState(1);
 
   const questions = useSelector(state => state.questions);
 
@@ -19,6 +22,7 @@ const Tests = () => {
   };
 
   const handleNextQuestion = () => {
+    setCount(+1);
     let correctAnswersCount = 0;
     questions[currentQuestion].correctAnswers.forEach(correctAnswer => {
       if (selectedAnswers.includes(correctAnswer)) {
@@ -69,6 +73,9 @@ const Tests = () => {
       ))}
 
       <button onClick={handleNextQuestion}>Next Question</button>
+      <div>
+        {Count} из {questions.length}
+      </div>
     </div>
   );
 };
