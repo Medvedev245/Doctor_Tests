@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import Klener from '../../Files/Clener.json';
 import Olomouc from '../../Files/Clener.json';
 import Živný from '../../Files/Clener.json';
+import { FormContainer, Button } from './Home.styled';
 
 const Home = () => {
   const [selectedOption1, setSelectedOption1] = useState('');
@@ -67,7 +68,7 @@ const Home = () => {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
+    <FormContainer onSubmit={handleSubmit}>
       <div>
         <label htmlFor="select1">Выбери базу</label>
         <select
@@ -92,12 +93,12 @@ const Home = () => {
           <option value="50">50</option>
         </select>
       </div>
-      <button type="submit">Выбрать</button>
+      <Button type="submit">Выбрать</Button>
       <Link to={'/tests'}>Начать !</Link>
       <div>
         Ты выбрал -{elements},{elements2}
       </div>
-    </form>
+    </FormContainer>
   );
 };
 

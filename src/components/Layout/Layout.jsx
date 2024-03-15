@@ -2,19 +2,21 @@ import React from 'react';
 import { Suspense } from 'react';
 import { Outlet } from 'react-router-dom';
 import { Header } from '../Header/Header';
+import { Container, MainContainer } from './Layout.styled';
+import { Footer } from 'components/Footer/Footer';
 
 //----Удалить
 
 export const Layout = () => {
   return (
-    <>
+    <Container>
       <Header>Бесплатные тесты</Header>
-      <main>
+      <MainContainer>
         <Suspense fallback={<div>Loading</div>}>
           <Outlet />
         </Suspense>
-      </main>
-      <footer>-----------</footer>
-    </>
+      </MainContainer>
+      <Footer />
+    </Container>
   );
 };
