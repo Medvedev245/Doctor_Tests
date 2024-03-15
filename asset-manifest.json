@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Doctor_Teats/static/css/main.f2db3b31.css",
-    "main.js": "/Doctor_Teats/static/js/main.aedd2c8f.js",
-    "static/js/765.9f38a427.chunk.js": "/Doctor_Teats/static/js/765.9f38a427.chunk.js",
-    "static/js/273.0ba27283.chunk.js": "/Doctor_Teats/static/js/273.0ba27283.chunk.js",
+    "main.js": "/Doctor_Teats/static/js/main.8d0f4007.js",
+    "static/js/1.3e47af73.chunk.js": "/Doctor_Teats/static/js/1.3e47af73.chunk.js",
+    "static/js/3.a1abe298.chunk.js": "/Doctor_Teats/static/js/3.a1abe298.chunk.js",
     "index.html": "/Doctor_Teats/index.html",
     "main.f2db3b31.css.map": "/Doctor_Teats/static/css/main.f2db3b31.css.map",
-    "main.aedd2c8f.js.map": "/Doctor_Teats/static/js/main.aedd2c8f.js.map",
-    "765.9f38a427.chunk.js.map": "/Doctor_Teats/static/js/765.9f38a427.chunk.js.map",
-    "273.0ba27283.chunk.js.map": "/Doctor_Teats/static/js/273.0ba27283.chunk.js.map"
+    "main.8d0f4007.js.map": "/Doctor_Teats/static/js/main.8d0f4007.js.map",
+    "1.3e47af73.chunk.js.map": "/Doctor_Teats/static/js/1.3e47af73.chunk.js.map",
+    "3.a1abe298.chunk.js.map": "/Doctor_Teats/static/js/3.a1abe298.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2db3b31.css",
-    "static/js/main.aedd2c8f.js"
+    "static/js/main.8d0f4007.js"
   ]
 }
