@@ -4,7 +4,9 @@ import { Link } from 'react-router-dom';
 import Klener from '../../Files/Clener.json';
 import Olomouc from '../../Files/Clener.json';
 import Živný from '../../Files/Clener.json';
-import { FormContainer, Button } from './Home.styled';
+import { FormContainer } from './Home.styled';
+
+import { Button } from 'Pages/Tests/Tests.styled';
 
 const Home = () => {
   const [selectedOption1, setSelectedOption1] = useState('');
@@ -13,7 +15,6 @@ const Home = () => {
   const elements = useSelector(state => state.testsReducer.selectedOption1);
   const elements2 = useSelector(state => state.testsReducer.selectedOption2);
   const elements3 = useSelector(state => state.testsReducer.questions);
-  console.log('state-slice', elements3);
 
   const handleOption1Change = event => {
     setSelectedOption1(event.target.value);
@@ -61,6 +62,7 @@ const Home = () => {
   const handleSubmit = event => {
     event.preventDefault();
     const myTests = generateTests(selectedOption1, selectedOption2);
+    // addState(selectedOption1, selectedOption2, myTests);
     dispatch({
       type: 'ADD_OPTIONS',
       payload: { selectedOption1, selectedOption2, myTests },
@@ -91,6 +93,8 @@ const Home = () => {
           <option value="10">10</option>
           <option value="25">25</option>
           <option value="50">50</option>
+          {/* <option value="100">100</option>
+          <option value="200">200</option> */}
         </select>
       </div>
       <Button type="submit">Выбрать</Button>

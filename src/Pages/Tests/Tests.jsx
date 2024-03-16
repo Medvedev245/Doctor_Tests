@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { FormTest, FormText, ContainerCheck, Button } from './Tests.styled';
+import { Link } from 'react-router-dom';
 
 const Tests = () => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -12,7 +13,7 @@ const Tests = () => {
   const dispatch = useDispatch();
 
   const questions = useSelector(state => state.testsReducer.questions);
-  const questions1 = useSelector(state => state);
+
   const handleAnswerSelect = answer => {
     if (selectedAnswers.includes(answer)) {
       setSelectedAnswers(
@@ -65,8 +66,6 @@ const Tests = () => {
           type: 'ADD_RIGHTQUESTIONS',
           payload: { myCorrectAnswers },
         });
-
-        console.log(questions1);
       }
 
       alert(`Правильных ответов - ${correctCount} из ${questions.length}`);
@@ -101,7 +100,10 @@ const Tests = () => {
           </span>
         </div>
       ) : (
-        <div>123</div>
+        <div>
+          <Link to="/AnsweredQuestions">Перейти к розбору тестов</Link>
+          <Link to="/">На Главную</Link>
+        </div>
       )}
     </FormTest>
   );
