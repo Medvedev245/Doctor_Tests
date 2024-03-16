@@ -1,17 +1,18 @@
 import React, { useState } from 'react';
-import { useSelector } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import { FormTest, FormText, ContainerCheck, Button } from './Tests.styled';
 
 const Tests = () => {
-  //правельные ответы
   const [currentQuestion, setCurrentQuestion] = useState(0);
-  //выбранный ответ
   const [selectedAnswers, setSelectedAnswers] = useState([]);
   const [correctCount, setCorrectCount] = useState(0);
   const [count, setCount] = useState(1);
+  const [myCorrectAnswers, setMyCorrectAnswers] = useState([]); // Хранение правильных ответов
 
-  const questions = useSelector(state => state.questions);
+  const dispatch = useDispatch();
 
+  const questions = useSelector(state => state.testsReducer.questions);
+  const questions1 = useSelector(state => state);
   const handleAnswerSelect = answer => {
     if (selectedAnswers.includes(answer)) {
       setSelectedAnswers(
@@ -24,10 +25,22 @@ const Tests = () => {
 
   const handleNextQuestion = () => {
     setCount(count + 1);
-    console.log(count);
+
     let correctAnswersCount = 0;
+
     questions[currentQuestion].correctAnswers.forEach(correctAnswer => {
       if (selectedAnswers.includes(correctAnswer)) {
+        // Добавление правильного ответа в myCorrectAnswers
+        setMyCorrectAnswers(prevAnswers => [
+          ...prevAnswers,
+          {
+            topic: questions[currentQuestion].topic,
+            book: questions[currentQuestion].book,
+            answers: questions[currentQuestion].answers,
+            question: questions[currentQuestion].question,
+            correctAnswers: questions[currentQuestion].correctAnswers,
+          },
+        ]);
         correctAnswersCount++;
       }
     });
@@ -43,20 +56,22 @@ const Tests = () => {
     if (currentQuestion < questions.length - 1) {
       setCurrentQuestion(currentQuestion + 1);
     } else {
-      const correctAnswers = questions.map(question =>
-        question.correctAnswers.join(', ')
-      );
-      console.log(correctAnswers);
-      alert(
-        `правильных ответов - ${correctCount} из ${questions.length}`
-        // `Results:\n${questions
-        //   .map(
-        //     (question, index) =>
-        //       `${question.question}\nCorrect answers: ${correctAnswers[index]}`
-        //   )
-        //   .join('\n\n')}\n\nTotal correct answers: ${correctCount}`
-      );
+      console.log(myCorrectAnswers);
+      console.log(count);
+      console.log(questions.length + 1);
+
+      if (count === questions.length) {
+        dispatch({
+          type: 'ADD_RIGHTQUESTIONS',
+          payload: { myCorrectAnswers },
+        });
+
+        console.log(questions1);
+      }
+
+      alert(`Правильных ответов - ${correctCount} из ${questions.length}`);
     }
+
     setSelectedAnswers([]);
   };
 
@@ -78,10 +93,16 @@ const Tests = () => {
         </ContainerCheck>
       ))}
 
-      <Button onClick={handleNextQuestion}>Next Question</Button>
-      <div>
-        {count} из {questions.length}
-      </div>
+      {count <= questions.length ? (
+        <div>
+          <Button onClick={handleNextQuestion}>Next Question</Button>
+          <span>
+            {count} из {questions.length}
+          </span>
+        </div>
+      ) : (
+        <div>123</div>
+      )}
     </FormTest>
   );
 };

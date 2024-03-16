@@ -10,9 +10,9 @@ const Home = () => {
   const [selectedOption1, setSelectedOption1] = useState('');
   const [selectedOption2, setSelectedOption2] = useState('');
   const dispatch = useDispatch();
-  const elements = useSelector(state => state.selectedOption1);
-  const elements2 = useSelector(state => state.selectedOption2);
-  const elements3 = useSelector(state => state.questions);
+  const elements = useSelector(state => state.testsReducer.selectedOption1);
+  const elements2 = useSelector(state => state.testsReducer.selectedOption2);
+  const elements3 = useSelector(state => state.testsReducer.questions);
   console.log('state-slice', elements3);
 
   const handleOption1Change = event => {
