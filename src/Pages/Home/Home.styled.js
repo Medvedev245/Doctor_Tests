@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 
 //main container
@@ -14,4 +15,16 @@ export const Button = styled.button`
   width: 150px;
   height: 40px;
   border-radius: 5px;
+  &:active {
+    background: var(--iq-primary);
+  }
+`;
+
+export const LinkToStart = styled(Link)`
+  border-radius: 4px;
+  width: 10%;
+  text-decoration: none;
+  &:hover {
+    background: var(--iq-primary);
+  }
 `;

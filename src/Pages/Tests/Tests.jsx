@@ -1,6 +1,13 @@
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { FormTest, FormText, ContainerCheck, Button } from './Tests.styled';
+import {
+  FormTest,
+  FormText,
+  ContainerCheck,
+  Button,
+  LinkContainer,
+  LinkToPage,
+} from './Tests.styled';
 import { Link } from 'react-router-dom';
 
 const Tests = () => {
@@ -100,10 +107,12 @@ const Tests = () => {
           </span>
         </div>
       ) : (
-        <div>
-          <Link to="/AnsweredQuestions">Перейти к розбору тестов</Link>
-          <Link to="/">На Главную</Link>
-        </div>
+        <LinkContainer>
+          <LinkToPage to="/AnsweredQuestions">
+            Перейти к разбору тестов
+          </LinkToPage>
+          <LinkToPage to="/">На Главную</LinkToPage>
+        </LinkContainer>
       )}
     </FormTest>
   );

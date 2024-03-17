@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { Link } from 'react-router-dom';
+
 import Klener from '../../Files/Clener.json';
 import Olomouc from '../../Files/Clener.json';
 import Živný from '../../Files/Clener.json';
-import { FormContainer } from './Home.styled';
+import { FormContainer, LinkToStart } from './Home.styled';
 import { Button } from 'Pages/Tests/Tests.styled';
 
 const Home = () => {
@@ -96,7 +96,9 @@ const Home = () => {
         </select>
       </div>
       <Button type="submit">Выбрать</Button>
-      {elements3.length > 0 && <Link to={'/tests'}>Начать !</Link>}
+      {elements3.length > 0 && (
+        <LinkToStart to={'/tests'}>Начать !</LinkToStart>
+      )}
       <div>
         Ты выбрал -{elements},{elements2}
       </div>
