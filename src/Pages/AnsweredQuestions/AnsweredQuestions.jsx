@@ -5,6 +5,9 @@ import {
   Item,
   Answers,
   Answer,
+  TopicList,
+  Question,
+  TextSpan,
 } from './AnsweredQuestions.styled';
 
 const AnsweredQuestions = () => {
@@ -32,7 +35,8 @@ const AnsweredQuestions = () => {
 
   return (
     <div>
-      <TextPage>Зеленым помечены правельно отвеченные вопросы</TextPage>
+      <TextPage>Зеленым отмечены Ваши правельные ответы</TextPage>
+      <TextSpan>Правильный ответ в тесте помечен - (Правильно)</TextSpan>
       <List>
         {updatedQuestions.map((question, index, arr) => (
           <Item
@@ -43,7 +47,12 @@ const AnsweredQuestions = () => {
                 : 'white',
             }}
           >
-            <p>{question.question}</p>
+            <TopicList>
+              <span>База: {question.book}</span>
+              <span>Тема: {question.topic}</span>
+            </TopicList>
+
+            <Question>{question.question}</Question>
             <Answers>
               {question.answers.map((question, index, arr) => {
                 return (

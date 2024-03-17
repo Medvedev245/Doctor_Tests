@@ -1,5 +1,12 @@
 [
   {
+    "question": "Dlouhověkost je stáří nad",
+    "answers": ["100 let", "80 let", "90 let", "75 let", ""],
+    "book": ["Klener"],
+    "topic": ["propedeutika"],
+    "correctAnswers": ["90 let"]
+  },
+  {
     "question": "1.1. Dušnost",
     "answers": [
       "objevuje se u všech významných srdečních vad",
@@ -125,7 +132,7 @@
       "hemofilie",
       "Buergerovy choroby"
     ],
-    "correctAnswers": ["Renduovy-Oslerovy nemoci"]
+    "correctAnswers": ["infekční endokarditidy"]
   },
   {
     "book": ["Klener"],
@@ -290,7 +297,7 @@
       "tachykardie",
       "ortopnoe"
     ],
-    "correctAnswers": ["přítomnost 3. ozvy"]
+    "correctAnswers": ["pulsus paradoxus"]
   },
   {
     "book": ["Klener"],
@@ -400,7 +407,7 @@
       "defektu síňového septa",
       "trikuspidální insuficience"
     ],
-    "correctAnswers": ["mitrální insuficience"]
+    "correctAnswers": ["mitrální stenózy"]
   },
   {
     "book": ["Klener"],
@@ -520,7 +527,7 @@
       "u fibrilace síní se zesiluje",
       "znamená vždy patologický nález"
     ],
-    "correctAnswers": ["představuje protodiastolický cval"]
+    "correctAnswers": ["představuje presystolický cval"]
   },
   {
     "book": ["Klener"],
@@ -568,7 +575,7 @@
       "uzávěru aortální a pulmonální chlopně",
       "otevření aortální a pulmonální chlopně"
     ],
-    "correctAnswers": ["otevření aortální a pulmonální chlopně"]
+    "correctAnswers": ["uzávěru mitrální a trikuspidální chlopně"]
   },
   {
     "book": ["Klener"],
@@ -592,7 +599,7 @@
       "začíná 0,10–0,14 s za 2. ozvou",
       "má presystolický charakter"
     ],
-    "correctAnswers": ["má presystolický charakter"]
+    "correctAnswers": ["navazuje na 1. ozvu"]
   },
   {
     "book": ["Klener"],
@@ -640,7 +647,7 @@
       "presystolický cval",
       "1. ozva na hrotě zesílená"
     ],
-    "correctAnswers": ["presystolický cval"]
+    "correctAnswers": ["1. ozva na hrotě zesílená"]
   },
   {
     "book": ["Klener"],
@@ -659,7 +666,7 @@
       "nad dolním koncem sterna",
       "v oblasti srdečního hrotu"
     ],
-    "correctAnswers": ["2. mezižebří vpravo parasternálně"]
+    "correctAnswers": ["2. mezižebří vlevo parasternálně"]
   },
   {
     "book": ["Klener"],
@@ -695,7 +702,7 @@
       "v 5. mezižebří v medioklavikulární čáře",
       "ve 4. mezižebří vlevo ve střední axilární čáře"
     ],
-    "correctAnswers": ["v 5. mezižebří v medioklavikulární čáře"]
+    "correctAnswers": ["v 5. mezižebří vlevo v přední axilární čáře"]
   },
   {
     "book": ["Klener"],
@@ -1041,7 +1048,7 @@
       "aneuryzmatu levé srdeční komory",
       "mitrální stenózy"
     ],
-    "correctAnswers": ["aneuryzmatu levé srdeční komory"]
+    "correctAnswers": ["defektu síňového septa"]
   },
   {
     "book": ["Klener"],
@@ -1053,9 +1060,7 @@
       "na ušním boltci při Kerleyově chorobě",
       "na EKG při syndromu X"
     ],
-    "correctAnswers": [
-      "na skiagramu hrudníku při intersticiálním plicním edému"
-    ]
+    "correctAnswers": ["na EKG při syndromu X"]
   },
   {
     "book": ["Klener"],
@@ -1067,7 +1072,7 @@
       "významné mitrální regurgitace",
       "pravolevého zkratu"
     ],
-    "correctAnswers": ["významné mitrální regurgitace"]
+    "correctAnswers": ["pravolevého zkratu"]
   },
   {
     "book": ["Klener"],
@@ -1079,7 +1084,7 @@
       "plicnice a pravá komora",
       "pravá síň a pravá komora"
     ],
-    "correctAnswers": ["plicnice a pravá komora"]
+    "correctAnswers": ["horní dutá žíla a pravá síň"]
   },
   {
     "book": ["Klener"],
@@ -1134,7 +1139,7 @@
       "střednímu tlaku v plicnici",
       "tlaku v levé síni"
     ],
-    "correctAnswers": ["střednímu tlaku v plicnici"]
+    "correctAnswers": ["tlaku v levé síni"]
   },
   {
     "book": ["Klener"],
@@ -1191,7 +1196,7 @@
       "průchodnosti hlubokého žilního systému",
       "stavu po hluboké žilní trombóze"
     ],
-    "correctAnswers": ["insuficience žilních spojek"]
+    "correctAnswers": ["stavu po povrchní flebitidě"]
   },
   {
     "book": ["Klener"],
@@ -1234,7 +1239,7 @@
       "venózní pletyzmografii",
       "stanovení parciálního tlaku kyslíku v centrální žíle"
     ],
-    "correctAnswers": ["měření distálních tlaků dopplerovským principem"]
+    "correctAnswers": ["venózní pletyzmografii"]
   },
   {
     "book": ["Klener"],
@@ -1265,7 +1270,7 @@
     "topic": ["propedeutika"],
     "question": "1.111. Dopplerovské vyšetření je málo spolehlivé pro diagnózu žilní trombózy v oblasti",
     "answers": ["třísla", "lýtka", "v. iliaca", "stehna"],
-    "correctAnswers": ["třísla"]
+    "correctAnswers": ["lýtka"]
   },
   {
     "book": ["Klener"],
@@ -1356,7 +1361,7 @@
       "gradient systolického tlaku 50 mmHg a více",
       "gradient systolického tlaku 20 mmHg a více"
     ],
-    "correctAnswers": ["gradient diastolického tlaku 30 mmHg a více"]
+    "correctAnswers": ["gradient systolického tlaku 20 mmHg a více"]
   },
   {
     "book": ["Klener"],
@@ -1447,7 +1452,7 @@
       "perikardiální výpotek",
       "defekt septa síní"
     ],
-    "correctAnswers": ["stenózu plicnice"]
+    "correctAnswers": ["suchou perikarditidu"]
   },
   {
     "book": ["Klener"],
@@ -1486,5 +1491,2046 @@
       "Mahlerův příznak"
     ],
     "correctAnswers": ["Branhamův příznak"]
+  },
+  {
+    "question": "2.1. Mezi možné příčiny levostranné srdeční insuficience nepatří",
+    "answers": [
+      "A-V blokáda 1. stupně",
+      "mitrální insuficience",
+      "infarkt myokardu",
+      "systémová hypertenze"
+    ],
+    "correctAnswers": ["A-V blokáda 1. stupně"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.2. Mezi příčiny pravostranného srdečního selhání patří",
+    "answers": [
+      "infarkt pravé komory",
+      "tromboembolická choroba",
+      "arteriální hypertenze",
+      "chronická obstrukční choroba bronchopulmonální"
+    ],
+    "correctAnswers": ["arteriální hypertenze"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.3. Základními patofyziologickými faktory septického šoku jsou",
+    "answers": [
+      "vazodilatace, snížení minutového srdečního objemu",
+      "vazokonstrikce, zvýšení minutového srdečního objemu",
+      "vazodilatace, zvýšení permeability cévní stěny",
+      "vazokonstrikce, zvýšení plnicího tlaku pravé komory"
+    ],
+    "correctAnswers": ["vazodilatace, zvýšení permeability cévní stěny"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.4. Příčinou plicního edému není",
+    "answers": [
+      "asthma bronchiale",
+      "selhání ledvin s anurií",
+      "akutní infekční endokarditida",
+      "infarkt myokardu"
+    ],
+    "correctAnswers": ["asthma bronchiale"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.5. Do klinického obrazu kardiogenního šoku nepatří",
+    "answers": ["třesavka", "hypotenze", "oligurie", "tachykardie"],
+    "correctAnswers": ["třesavka"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.6. Mezi fyzikální známky levostranné kardiální insuficience nepatří",
+    "answers": [
+      "cvalový rytmus",
+      "tachykardie",
+      "zvedavý úder hrotu",
+      "inspirační vlhké chůpky na plicích"
+    ],
+    "correctAnswers": ["zvedavý úder hrotu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.7. Příčinou pravostranné srdeční insuficience není",
+    "answers": [
+      "plicní embolie",
+      "skleróza aortálního kořene",
+      "plicní hypertenze",
+      "mitrální stenóza"
+    ],
+    "correctAnswers": ["skleróza aortálního kořene"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.8. III. srdeční ozva je",
+    "answers": [
+      "častá u zdravých mladých osob",
+      "častá u defektu septa síní",
+      "vždy příznakem srdeční choroby",
+      "projevem infarktu levé síně"
+    ],
+    "correctAnswers": ["častá u defektu septa síní"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.9. Při pravostranné srdeční insuficienci",
+    "answers": [
+      "stoupá prokrvení ledvin",
+      "stoupá tlak v pravé síni",
+      "klesá plnicí tlak pravé komory",
+      "stoupá minutový srdeční objem"
+    ],
+    "correctAnswers": ["stoupá tlak v pravé síni"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.10. Zvýšená náplň krčních žil není u",
+    "answers": [
+      "trikuspidální stenózy",
+      "hemoragického šoku",
+      "srdeční tamponády",
+      "konstriktivní perikarditidy"
+    ],
+    "correctAnswers": ["hemoragického šoku"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.11. Mezi klinické známky šoku nepatří",
+    "answers": ["oligurie", "porucha vědomí", "hypertenze", "hypotenze"],
+    "correctAnswers": ["hypertenze"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.12. Aktivní pulsaci krčních žil nacházíme u",
+    "answers": [
+      "syndromu horní duté žíly",
+      "kompenzované aortální stenózy",
+      "významné trikuspidální insuficience",
+      "hypertenzní krize"
+    ],
+    "correctAnswers": ["významné trikuspidální insuficience"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.13. Srdeční frekvence se zpomaluje při",
+    "answers": ["cvičení", "hypoxii", "hypovolémii", "exspiriu"],
+    "correctAnswers": ["exspiriu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.14. Podráždění baroreceptorů karotického sinu má za následek",
+    "answers": [
+      "bradykardii a hypotenzi",
+      "tachykardii a hypertenzi",
+      "tachykardii a hypotenzi",
+      "bradykardii a hypertenzi"
+    ],
+    "correctAnswers": ["bradykardii a hypotenzi"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.15. Septický šok je nejčastěji vyvolán",
+    "answers": [
+      "mykoplazmaty",
+      "viry",
+      "plísněmi",
+      "gramnegativními baktériemi"
+    ],
+    "correctAnswers": ["gramnegativními baktériemi"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.16. Při cirkulačním šoku nepatří mezi orgány přednostně zásobené krví",
+    "answers": ["mozek", "ledviny", "nadledviny", "myokard"],
+    "correctAnswers": ["mozek"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.17. Při kardiogenním šoku dochází k",
+    "answers": [
+      "snížení plnicího tlaku levé komory, zvýšení srdečního indexu",
+      "vzestupu plnicího tlaku levé komory, snížení srdečního indexu",
+      "snížení plnicího tlaku levé komory, snížení srdečního indexu",
+      "vzestupu plnicího tlaku levé komory, zvýšení srdečního indexu"
+    ],
+    "correctAnswers": [
+      "vzestupu plnicího tlaku levé komory, snížení srdečního indexu"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.18. EKG změny při infarktu přední stěny jsou lokalizovány ve svodech",
+    "answers": ["I, aVR", "V3 –V6", "V1 –V6, I", "II, III, aVF"],
+    "correctAnswers": ["V1 –V6, I"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.19. Tepový objem je v klidu asi",
+    "answers": ["30–50 ml", "50–70 ml", "100–150 ml", "70–100 ml"],
+    "correctAnswers": ["70–100 ml"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.20. Srdeční frekvence se zrychluje při",
+    "answers": [
+      "Valsalvově manévru",
+      "masáži karotického sinu",
+      "inspiriu",
+      "vzestupu nitrolebečního tlaku"
+    ],
+    "correctAnswers": ["inspiriu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.21. Septický šok je hemodynamicky charakterizován",
+    "answers": [
+      "snížením periferní cévní rezistence a zvýšením srdečního výdeje",
+      "zvýšením periferní cévní rezistence a snížením srdečního výdeje",
+      "snížením saturace hemoglobinu kyslíkem v arteriální krvi",
+      "prekapilární plicní hypertenzí"
+    ],
+    "correctAnswers": [
+      "snížením periferní cévní rezistence a zvýšením srdečního výdeje"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.22. Bezprostředně po masívním krvácení",
+    "answers": [
+      "hematokrit se podstatně nemění",
+      "hematokrit stoupá",
+      "hematokrit výrazně klesá",
+      "zvyšuje se průtok krve ledvinami"
+    ],
+    "correctAnswers": ["hematokrit výrazně klesá"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.23. Sinus coronarius ústí v",
+    "answers": ["pravé komoře", "levé síni", "levé komoře", "pravé síni"],
+    "correctAnswers": ["pravé síni"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.24. Spotřeba kyslíku myokardem stoupá s",
+    "answers": [
+      "poklesem systémového krevního tlaku",
+      "poklesem periferní cévní rezistence",
+      "zvyšujícím se napětím svaloviny komor",
+      "poklesem srdeční frekvence"
+    ],
+    "correctAnswers": ["zvyšujícím se napětím svaloviny komor"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.25. Příčinou nízkého kardiálního výdeje při středním tlaku v centrální žíle 0 mmHg může být nejspíše",
+    "answers": [
+      "masívní plicní embolie",
+      "hypertenzní krize",
+      "koronární insuficience",
+      "hypovolémie"
+    ],
+    "correctAnswers": ["hypovolémie"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.26. Plicní tlak levé komory nepřesahuje za normálních okolností",
+    "answers": [
+      "menší než 20 mmHg",
+      "menší než 8 mmHg",
+      "menší než 12 mmHg",
+      "menší než 16 mmHg"
+    ],
+    "correctAnswers": ["menší než 12 mmHg"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.27. Ejekční frakce levé komory je",
+    "answers": [
+      "tepový objem levé komory",
+      "rychlost systolické kontrakce levé komory",
+      "rozdíl mezi systolickým a diastolickým objemem levé komory",
+      "objem na konci diastoly minus objem na konci systoly děleno objemem na konci diastoly"
+    ],
+    "correctAnswers": [
+      "objem na konci diastoly minus objem na konci systoly děleno objemem na konci diastoly"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.28. Pro posouzení kontraktility levé komory lze použít jednoho z následujících parametrů",
+    "answers": [
+      "hodnotu středního tlaku v plicnici",
+      "hodnotu telediastolického objemu levé komory",
+      "dP/dT (změna tlaku v levé komoře za jednotku času v systole)",
+      "hodnotu centrálního žilního tlaku"
+    ],
+    "correctAnswers": [
+      "dP/dT (změna tlaku v levé komoře za jednotku času v systole)"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.29. Příčinou nízkého kardiálního výdeje při středním tlaku v plicnici 39 mmHg je nejspíše",
+    "answers": [
+      "hypovolémie",
+      "pneumotorax",
+      "masívní plicní embolie",
+      "septický šok"
+    ],
+    "correctAnswers": ["masívní plicní embolie"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.30. Z uvedených ukazatelů svědčí pro kardiogenní šok",
+    "answers": [
+      "zvýšený srdeční výdej",
+      "přítomnost prekapilární plicní hypertenze",
+      "zvýšení renálního průtoku",
+      "přítomnost postkapilární plicní hypertenze"
+    ],
+    "correctAnswers": ["přítomnost postkapilární plicní hypertenze"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.31. Kardiogenní šok je i při adekvátní konvenční medikamentózní léčbě smrtící asi v",
+    "answers": ["20–30 %", "60–70 %", "40 %", "90 %"],
+    "correctAnswers": ["90 %"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.32. Ke stanovení ejekční frakce levé komory je nejvhodnější",
+    "answers": [
+      "dvourozměrná echokardiografie",
+      "skiaskopie hrudníku",
+      "thaliová scintigrafie myokardu",
+      "apexkardiografie"
+    ],
+    "correctAnswers": ["dvourozměrná echokardiografie"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.33. Srdeční výduť je oblast",
+    "answers": ["hyperkineze", "akineze", "hypokineze", "dyskineze"],
+    "correctAnswers": ["dyskineze"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.34. Pacienta s klidovou dušností při mitrální stenóze zařadíme podle klasifikace NYHA do",
+    "answers": ["IV. třídy", "V. třídy", "II. třídy", "III. třídy"],
+    "correctAnswers": ["IV. třídy"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.35. Provádění endomyokardiální biopsie má klinický význam u",
+    "answers": [
+      "diagnostiky rejekce po transplantaci srdce",
+      "diagnostiky revmatické choroby srdeční",
+      "diagnostiky ICHS",
+      "diagnostiky kardiální insuficience"
+    ],
+    "correctAnswers": ["diagnostiky rejekce po transplantaci srdce"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.36. Komorová tachykardie",
+    "answers": [
+      "může být s jistotou diagnostikována již pohmatem velkých tepen",
+      "je doprovázena pulsus alternans",
+      "může být záchvatovitá",
+      "se vyskytuje jen při akutním infarktu myokardu"
+    ],
+    "correctAnswers": ["může být záchvatovitá"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.37. Sinoatriální blokáda",
+    "answers": [
+      "může vést k nepravidelné akci komor",
+      "vede k poruše nitrokomorového vedení",
+      "u sick sinus syndromu se objevuje zřídka",
+      "vede vždy k nepravidelné akci komor"
+    ],
+    "correctAnswers": ["může vést k nepravidelné akci komor"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.38. Pro sick sinus syndrom platí",
+    "answers": [
+      "nikdy nevede k synkopám",
+      "pro diagnózu je rozhodující thaliová scintigrafie myokardu",
+      "je často vyvolán akutní perikarditidou",
+      "do klinického obrazu mohou patřit paroxyzmy fibrilace síní"
+    ],
+    "correctAnswers": [
+      "do klinického obrazu mohou patřit paroxyzmy fibrilace síní"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.39. A-V blokáda 1. stupně",
+    "answers": [
+      "nebývá vyvolána medikamentózně",
+      "vede často k srdečnímu selhání",
+      "je často spojena s WPW syndromem",
+      "je typická pro akutní revmatickou myokarditidu"
+    ],
+    "correctAnswers": ["je často spojena s WPW syndromem"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.40. Trvalá srdeční stimulace je indikována",
+    "answers": [
+      "u fibrilace síní s klidnou odpovědí komor",
+      "u fibrilace síní s rychlou odpovědí komor",
+      "u Adamsova-Stokesova-Morgagniho syndromu",
+      "u levostranného srdečního selhávání bez poruch srdečního rytmu"
+    ],
+    "correctAnswers": ["u Adamsova-Stokesova-Morgagniho syndromu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.41. Digitalisové změny na EKG jsou",
+    "answers": [
+      "člunkovité deprese ST",
+      "hrotnaté T vlny",
+      "vysoké R V1-2",
+      "elevace ST V5-6"
+    ],
+    "correctAnswers": ["člunkovité deprese ST"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.42. Při kompletní blokádě levého Tawarova raménka je",
+    "answers": [
+      "QRS komplex nad 0,12 s a hluboké S V1-2",
+      "QRS komplex nad 0,12 s a RR ve V1-2",
+      "QRS komplex 0,08–0,10 s a chybí q V6",
+      "QRS komplex pod 0,12 s a hluboké S V6"
+    ],
+    "correctAnswers": ["QRS komplex nad 0,12 s a hluboké S V1-2"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.43. Trifascikulární blokáda je",
+    "answers": [
+      "A-V blokáda 3. stupně horního typu",
+      "typ sinoatriální blokády",
+      "A-V blokáda 2. stupně 3:1",
+      "A-V blokáda 3. stupně lokalizovaná pod úrovní Hisova svazku"
+    ],
+    "correctAnswers": [
+      "A-V blokáda 3. stupně lokalizovaná pod úrovní Hisova svazku"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.44. Pro levou přední hemiblokádu je typický",
+    "answers": [
+      "štíhlý QRS komplex, osa výrazně doleva",
+      "štíhlý QRS komplex, osa výrazně doprava",
+      "široký QRS komplex, osa výrazně doleva",
+      "široký QRS komplex, osa výrazně doprava"
+    ],
+    "correctAnswers": ["štíhlý QRS komplex, osa výrazně doleva"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.45. Při kompletní blokádě pravého Tawarova raménka je",
+    "answers": [
+      "QRS komplex 0,06–0,10 s, hluboké S V6",
+      "QRS komplex nad 0,12 s, obraz rSŔ ve V6",
+      "QRS komplex nad 0,12 s, obraz rSŔ ve V1",
+      "QRS komplex 0,06–0,10 s, hluboké S V1"
+    ],
+    "correctAnswers": ["QRS komplex nad 0,12 s, obraz rSŔ ve V1"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.46. Z uvedených možností představuje největší riziko vzniku A-V blokády 3. stupně",
+    "answers": [
+      "WPW syndrom",
+      "blokáda levého Tawarova raménka s levou přední hemiblokádou",
+      "blokáda pravého Tawarova raménka s levou zadní hemiblokádou",
+      "A-V blokáda 2. stupně Wenckebachova typu"
+    ],
+    "correctAnswers": [
+      "blokáda pravého Tawarova raménka s levou zadní hemiblokádou"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.47. Wolffův-Parkinsonův-Whiteův (WPW) syndrom je charakterizován",
+    "answers": [
+      "preexcitací a paroxyzmy tachykardie",
+      "A-V blokádou 3. stupně",
+      "prodlouženým A-V vedením",
+      "perzistující tachykardií"
+    ],
+    "correctAnswers": ["preexcitací a paroxyzmy tachykardie"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.48. Nepravidelná akce komor je u",
+    "answers": [
+      "junkčního rytmu",
+      "sinoatriální blokády 2. stupně",
+      "supraventrikulární paroxyzmální tachykardie",
+      "síňového flutteru 2:1"
+    ],
+    "correctAnswers": ["sinoatriální blokády 2. stupně"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.49. Wenckebachovy periody se objevují u",
+    "answers": [
+      "A-V blokády 2. stupně typu Mobitz I",
+      "A-V blokády 3. stupně",
+      "A-V blokády 2. stupně typu Mobitz II",
+      "A-V blokády 1. stupně"
+    ],
+    "correctAnswers": ["A-V blokády 2. stupně typu Mobitz I"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.50. U A-V blokády 3. stupně",
+    "answers": [
+      "nedochází vždy k bezvědomí",
+      "je srdeční frekvence vždy pod 30/min",
+      "jsou vždy štíhlé QRS komplexy",
+      "nemůže se současně vyskytovat fibrilace síní"
+    ],
+    "correctAnswers": ["nedochází vždy k bezvědomí"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.51. Adamsův-Stokesův syndrom je",
+    "answers": [
+      "vazovagální synkopa",
+      "druh epileptického záchvatu",
+      "záchvat tachyfibrilace síní",
+      "kardiální synkopa při A-V bloku 3. stupně"
+    ],
+    "correctAnswers": ["kardiální synkopa při A-V bloku 3. stupně"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.52. Wenckebachův typ A-V blokády 2. stupně",
+    "answers": [
+      "vede k nepravidelné akci komor",
+      "porucha je lokalizována na úrovni Tawarových ramének",
+      "interval PQ je konstantní",
+      "objevuje se často u paroxyzmální supraventrikulární tachykardie"
+    ],
+    "correctAnswers": [
+      "objevuje se často u paroxyzmální supraventrikulární tachykardie"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.53. Pravidelná tachykardie se štíhlými QRS je typická pro",
+    "answers": [
+      "supraventrikulární tachykardie",
+      "komorovou tachykardii",
+      "síňovou extrasystolii",
+      "A-V blok 2. stupně"
+    ],
+    "correctAnswers": ["supraventrikulární tachykardie"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.54. Pro junkční rytmus je typické",
+    "answers": [
+      "negativní P vlny V4-6",
+      "pozitivní P vlny I, II, aVL",
+      "negativní P vlny aVR",
+      "P vlny mohou splývat s QRS komplexem"
+    ],
+    "correctAnswers": ["P vlny mohou splývat s QRS komplexem"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.55. Mobitzův typ A-V blokády 2. stupně",
+    "answers": [
+      "často přechází do A-V blokády 3. stupně",
+      "PQ se postupně prodlužuje",
+      "objevuje se zpravidla u mitrálních vad",
+      "oproti Wenckebachovu typu je méně závažný"
+    ],
+    "correctAnswers": ["často přechází do A-V blokády 3. stupně"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.56. Lownův-Ganongův-Levinův (LGL) syndrom patří mezi",
+    "answers": [
+      "typ A-V blokády 2. stupně",
+      "zkratové srdeční vady",
+      "preexcitační syndromy",
+      "typ A-V blokády 3. stupně"
+    ],
+    "correctAnswers": ["preexcitační syndromy"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.57. Flutter síní vykazuje nejrychlější komorovou frekvenci při blokádě v poměru",
+    "answers": ["3:1", "2:1", "6:1", "4:1"],
+    "correctAnswers": ["2:1"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.58. Idioventrikulární rytmus má",
+    "answers": [
+      "široké QRS komplexy a frekvenci 50–60/min",
+      "štíhlé QRS komplexy a frekvenci 50–60/min",
+      "široké QRS komplexy a frekvenci 30–40/min",
+      "štíhlé QRS komplexy a frekvenci 30–40/min"
+    ],
+    "correctAnswers": ["široké QRS komplexy a frekvenci 30–40/min"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.59. Pro supraventrikulární paroxyzmální tachykardii platí",
+    "answers": [
+      "nereaguje na vagové manévry",
+      "může se objevit u jinak zdravých osob",
+      "komorová akce je zcela nepravidelná",
+      "srdeční frekvence je 120–140/min"
+    ],
+    "correctAnswers": ["může se objevit u jinak zdravých osob"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.60. Pro P pulmonale je typické",
+    "answers": [
+      "dvouvrcholová P I, II",
+      "plochá P I, II, aVL",
+      "negativní P II, III, aVF",
+      "vysoká P II, III, aVF"
+    ],
+    "correctAnswers": ["vysoká P II, III, aVF"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.61. Pro P mitrale je typické",
+    "answers": [
+      "dvouvrcholová P I, II",
+      "vysoká P II, III, aVF",
+      "dvouvrcholová P V4-6",
+      "vysoká P V1-3"
+    ],
+    "correctAnswers": ["vysoká P V1-3"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.62. U Wolffova-Parkinsonova-Whiteova syndromu je",
+    "answers": [
+      "QRS komplex rozšířen o delta vlnu d",
+      "klinicky nevýznamná porucha aktivace komor",
+      "abnormální aktivace síní",
+      "častý výskyt síňokomorové blokády"
+    ],
+    "correctAnswers": ["QRS komplex rozšířen o delta vlnu d"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.63. Supraventrikulární paroxyzmální tachykardie má",
+    "answers": [
+      "štíhlé QRS komplexy a pravidelný rytmus",
+      "šíroké QRS komplexy a pravidelný rytmus",
+      "šíroké QRS komplexy a nepravidelný rytmus",
+      "štíhlé QRS komplexy a nepravidelný rytmus"
+    ],
+    "correctAnswers": ["štíhlé QRS komplexy a pravidelný rytmus"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.64. Pro flutter síní platí",
+    "answers": [
+      "při blokádě 2:1 je srdeční frekvence 200–250/min",
+      "může se objevit u jinak zdravých osob",
+      "může vést k těžkému srdečnímu selhání",
+      "síňová akce je nepravidelná"
+    ],
+    "correctAnswers": ["může vést k těžkému srdečnímu selhání"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.65. Flutterové vlny při flutteru síní mají frekvenci",
+    "answers": ["250–350/min", "60–80/min", "120–160/min", "nad 400/min"],
+    "correctAnswers": ["250–350/min"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.66. Pro fibrilaci síní platí",
+    "answers": [
+      "zpravidla se hemodynamicky neprojevuje",
+      "trvá vždy hodiny až dny",
+      "není spojena s atrioventrikulární blokádou",
+      "činnost komory je při ní obvykle nepravidelná"
+    ],
+    "correctAnswers": ["činnost komory je při ní obvykle nepravidelná"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.67. Přítomnost periferního deficitu při fibrilaci síní je způsobena",
+    "answers": [
+      "prodloužením A-V převodu",
+      "přítomností perikardiálního výpotku",
+      "komorovou extrasystolií",
+      "nedostatečným plněním komor"
+    ],
+    "correctAnswers": ["nedostatečným plněním komor"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.68. Komorová bigeminie bývá částou známkou",
+    "answers": [
+      "poruchy síňokomorového vedení vzruchu",
+      "toxického působení mezokainu",
+      "toxického působení digitalisu",
+      "tzv. elektromechanické disociace"
+    ],
+    "correctAnswers": ["toxického působení digitalisu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.69. Pasívní junkční rytmus má",
+    "answers": [
+      "štíhlé QRS komplexy a SF 40–50/min",
+      "šíroké QRS komplexy a SF 30–40/min",
+      "šíroké QRS komplexy a SF 60–70/min",
+      "štíhlé QRS komplexy a SF 80–90/min"
+    ],
+    "correctAnswers": ["štíhlé QRS komplexy a SF 40–50/min"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.70. Wolfův-Parkinsonův-Whiteův syndrom je",
+    "answers": [
+      "kombinace defektu síňového septa a komorové extrasystolie",
+      "syndrom komorové preexcitace daný přítomností Kentova svazku",
+      "syndrom recidivující komorové bigeminie",
+      "A-V blokáda 1. stupně s blokádou levého Tawarova raménka"
+    ],
+    "correctAnswers": [
+      "syndrom komorové preexcitace daný přítomností Kentova svazku"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.71. Pro levou zadní hemiblokádu je typický",
+    "answers": [
+      "štíhlý QRS komplex, osa výrazně doprava",
+      "štíhlý QRS komplex, osa výrazně doleva",
+      "šíroký QRS komplex, osa výrazně doleva",
+      "šíroký QRS komplex, osa výrazně doprava"
+    ],
+    "correctAnswers": ["štíhlý QRS komplex, osa výrazně doprava"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.72. Hypokalémie se na EKG projevuje",
+    "answers": [
+      "oploštěním vlny T, depresemi úseků ST, vlnou U",
+      "zkrácením intervalu PR a inverzí vlny P",
+      "rozšířením komplexu QRS",
+      "vysokými vlnami T"
+    ],
+    "correctAnswers": ["oploštěním vlny T, depresemi úseků ST, vlnou U"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.73. QT interval na EKG se prodlužuje při",
+    "answers": [
+      "podávání digoxinu",
+      "hypoglykémii",
+      "podávání chinidinu",
+      "hyperkalémii"
+    ],
+    "correctAnswers": ["podávání chinidinu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.74. Hyperkalémie se na EKG projevuje",
+    "answers": [
+      "vlnou U",
+      "depresemi úseků ST",
+      "vysokými hrotnatými vlnami T",
+      "plochými vlnami T"
+    ],
+    "correctAnswers": ["vysokými hrotnatými vlnami T"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.75. Sinoatriální uzel je umístěn",
+    "answers": [
+      "v oblasti junkce",
+      "v pravé síni",
+      "v levé síni",
+      "v pravé komoře"
+    ],
+    "correctAnswers": ["v pravé síni"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.76. Pro komorové extrasystoly platí",
+    "answers": [
+      "nejsou častější u srdečního selhání",
+      "prognostický význam záleží na základním onemocnění",
+      "komorové komplexy mohou být štíhlé",
+      "vznikají vždy v jednom ložisku"
+    ],
+    "correctAnswers": ["komorové komplexy mohou být štíhlé"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.77. Pro komorovou tachykardii platí",
+    "answers": [
+      "může vést k bezvědomí",
+      "QRS komplex je vždy následován P vlnou",
+      "zpravidla reaguje na masáž karotického sinu",
+      "QRS komplexy mohou být štíhlé"
+    ],
+    "correctAnswers": ["může vést k bezvědomí"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.78. Němou ischémii myokardu prokážeme při",
+    "answers": [
+      "vyšetření pO2 a pCO2 v krvi",
+      "angiokardiografii",
+      "ambulantním monitorování EKG (Holter)",
+      "vyšetření pozdních potenciálů"
+    ],
+    "correctAnswers": ["ambulantním monitorování EKG (Holter)"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.79. Ischémie myokardu se projeví nejprve",
+    "answers": [
+      "poruchou kontraktility zjistitelné např. echokardiografií",
+      "vyplavením myokardiálních enzymů",
+      "změnou EKG křivky",
+      "stenokardií"
+    ],
+    "correctAnswers": ["změnou EKG křivky"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.80. Při akutním infarktu myokardu stoupá především izoenzym (frakce) CK",
+    "answers": ["BB", "MB", "MM", "MM, MB i BB"],
+    "correctAnswers": ["MB"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.81. Z následujících laboratorních nálezů nepatří do klinického obrazu akutního infarktu myokardu",
+    "answers": ["hypoglykémie", "leukocytóza", "hyperglykémie", "zvýšení FW"],
+    "correctAnswers": ["hypoglykémie"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.82. Z následujících nespecifických příznaků nepatří do klinického obrazu akutního infarktu myokardu",
+    "answers": ["tachykardie", "subfebrilie", "polyurie", "nauzea"],
+    "correctAnswers": ["polyurie"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.83. Pardeeho vlna je projevem",
+    "answers": [
+      "subakutní fáze infarktu myokardu",
+      "srdečního selhání",
+      "akutní fáze infarktu myokardu",
+      "transmurálního infarktu myokardu"
+    ],
+    "correctAnswers": ["akutní fáze infarktu myokardu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.84. Němá ischémie myokardu",
+    "answers": [
+      "je zcela nezávažným nálezem",
+      "je trvalým nálezem u nemocných s poinfarktovým aneuryzmatem",
+      "je diagnostikována selektivní koronarografií",
+      "objevuje se i u nemocných s angina pectoris"
+    ],
+    "correctAnswers": ["objevuje se i u nemocných s angina pectoris"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.85. Akutní infarkt myokardu",
+    "answers": [
+      "je vždy doprovázen prudkou klinickou symptomatologií",
+      "může být vyvolán spazmem koronární tepny",
+      "jeho průběh závisí pouze na lokalizaci koronárního uzávěru",
+      "do klinického obraz nepatří subfebrilie"
+    ],
+    "correctAnswers": ["může být vyvolán spazmem koronární tepny"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.86. Bolest při neurocirkulační astenii",
+    "answers": [
+      "dobře reaguje na nitroglycerin",
+      "není obvykle provokována tělesnou námahou",
+      "mívá pálivý charakter",
+      "je spojena s typickými změnami na EKG"
+    ],
+    "correctAnswers": ["není obvykle provokována tělesnou námahou"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.87. Který z následujících termínů není synonymem k ostatním",
+    "answers": [
+      "variantní angina pectoris",
+      "nestabilní angina pectoris",
+      "Prinzmetalova angina pectoris",
+      "vazospastická angina pectoris"
+    ],
+    "correctAnswers": ["nestabilní angina pectoris"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.88. V prehospitalizační fázi infarktu myokardu je",
+    "answers": [
+      "vysoký výskyt Dresslerova syndromu",
+      "nejčastější příčinou úmrtí ruptura myokardu",
+      "vysoké riziko komorových arytmií",
+      "před přijetím k hospitalizaci nutné opakované vyšetření EKG"
+    ],
+    "correctAnswers": ["vysoké riziko komorových arytmií"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.89. Při infarktu myokardu se nejdříve zvyšuje sérová hladina",
+    "answers": ["ALT", "AST", "CK", "LD"],
+    "correctAnswers": ["CK"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.90. Mortalita při koronární angiografii nemá přesahovat",
+    "answers": ["2 š", "2 %", "1 %", "10 %"],
+    "correctAnswers": ["2 š"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.91. Tietzův sydrom je",
+    "answers": [
+      "recidivující perikarditida po infarktu",
+      "typ abakteriální endokarditidy",
+      "neuralgie pro proběhlém pásovém oparu",
+      "bolestivé zduření žeberních chrupavek"
+    ],
+    "correctAnswers": ["bolestivé zduření žeberních chrupavek"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.92. Infarkt pravé srdeční komory vzniká nejčastěji při uzávěru",
+    "answers": [
+      "ramus interventricularis anterior levé věnčité tepny",
+      "levé věnčité tepny",
+      "pravé věnčité tepny",
+      "ramus circumflexus levé věnčité tepny"
+    ],
+    "correctAnswers": ["pravé věnčité tepny"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.93. Přední stěna levé komory je zásobena",
+    "answers": [
+      "částečně pravou a částečně levou věnčitou tepnou",
+      "ramus interventricularis anterior levé věnčité tepny",
+      "ramus circumflexus levé věnčité tepny",
+      "pravou věnčitou tepnou"
+    ],
+    "correctAnswers": ["ramus interventricularis anterior levé věnčité tepny"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.94. K nepochybným EKG známkám infarktu myokardu patří",
+    "answers": [
+      "bifázické T",
+      "koronární T",
+      "patologické Q",
+      "blokáda levého Tawarova raménka"
+    ],
+    "correctAnswers": ["patologické Q"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.95. Disekující aneuryzma aorty",
+    "answers": [
+      "může vést k aortální insuficienci",
+      "vede k výraznému vzestupu sérové hladiny AST",
+      "má charakteristické EKG změny",
+      "zpravidla není doprovázeno výraznou bolestí"
+    ],
+    "correctAnswers": ["může vést k aortální insuficienci"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.101. Mezi rizikové faktory aterosklerózy nepatří",
+    "answers": [
+      "hyperlipoproteinémie typu IIa",
+      "hypertenzní choroba",
+      "komorová extrasystolie",
+      "diabetes mellitus"
+    ],
+    "correctAnswers": ["komorová extrasystolie"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.102. HDL cholesterol",
+    "answers": [
+      "nemá vliv na riziko ischemické choroby srdeční",
+      "snížuje riziko ischemické choroby srdeční",
+      "tvoří 60–80 % hladiny celkového cholesterolu",
+      "není přítomen v periferní krvi"
+    ],
+    "correctAnswers": ["snížuje riziko ischemické choroby srdeční"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.103. Týden po infarktu myokardu bývá ještě zvýšená sérová hladina",
+    "answers": ["CK", "ALT", "AST", "LD"],
+    "correctAnswers": ["LD"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.104. Na rozsah postižení myokardu při akutním infarktu můžeme soudit podle",
+    "answers": [
+      "hladiny alkalické fosfatázy v krvi",
+      "sérové hladiny CK",
+      "hladiny izoenzymu CK-BB",
+      "hladiny ALT v krvi"
+    ],
+    "correctAnswers": ["sérové hladiny CK"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.105. Pro vývoj aneuryzmatu po infarktu myokardu svědčí na EKG",
+    "answers": [
+      "přetrvávající patologické Q",
+      "časný ústup elevací ST",
+      "přetrvávající elevace ST",
+      "přetrávající koronární T"
+    ],
+    "correctAnswers": ["přetrvávající elevace ST"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.106. Infarkt myokardu spodní stěny má typické EKG změny ve svodech",
+    "answers": ["V1 – 3", "II, III, aVF", "V4 – 6, aVL", "I, II, aVL"],
+    "correctAnswers": ["II, III, aVF"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.107. Anteroseptální infarkt myokardu má EKG změny ve svodech",
+    "answers": ["II, III, aVF", "V4 – 6", "aVR, aVF", "V1 – 4"],
+    "correctAnswers": ["V1 – 4"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.108. Anterolaterální infarkt myokardu má EKG změny ve svodech",
+    "answers": ["V4 – 6, aVL", "II, III, aVF", "I, aVR", "V1 – 3"],
+    "correctAnswers": ["V4 – 6, aVL"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.109. Srdeční aneuryzma nevede k",
+    "answers": [
+      "komorovým arytmiím",
+      "sick sinus syndromu",
+      "srdeční insuficienci",
+      "periferním embolizacím"
+    ],
+    "correctAnswers": ["sick sinus syndromu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.110. Defekt septa komor může být komplikací",
+    "answers": [
+      "akutního infarktu myokardu",
+      "revmatické horečky",
+      "akutní myokarditidy",
+      "infekční endokarditidy"
+    ],
+    "correctAnswers": ["akutního infarktu myokardu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.111. Při náhle vzniklé bolesti na hrudi, normálním EKG a zjištěném rozdílu v systolických tlacích na obou horních končetinách myslíme nejspíše na",
+    "answers": [
+      "akutní žilní trombózu horní končetiny",
+      "akutní plicní embolii",
+      "disekující aneuryzma aorty",
+      "akutní infarkt myokardu"
+    ],
+    "correctAnswers": ["disekující aneuryzma aorty"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.112. Pro vazospastickou anginu pectoris je typické",
+    "answers": [
+      "vznik koronárních T při zátěži",
+      "špatná tolerance fyzické zátěže",
+      "deprese ST při stenokardii",
+      "elevace ST při stenokardii"
+    ],
+    "correctAnswers": ["elevace ST při stenokardii"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.113. Bolest při angině pectoris",
+    "answers": [
+      "může vyzařovat do břicha",
+      "je silnější v inspiriu",
+      "trvá 15–20 min",
+      "neobjevuje se častěji po jídle"
+    ],
+    "correctAnswers": ["může vyzařovat do břicha"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.114. Angina pectoris při normálním koronárním řečišti se objevuje u",
+    "answers": [
+      "mitrální stenózy",
+      "aortální stenózy",
+      "cor pulmonale",
+      "defektu síňového septa"
+    ],
+    "correctAnswers": ["aortální stenózy"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.115. Kardiovaskulární choroby jsou u nás mezi příčinami smrti",
+    "answers": ["na 4. místě", "na 1. místě", "na 3. místě", "na 2. místě"],
+    "correctAnswers": ["na 1. místě"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.116. Výskyt ICHS a jejích komplikací v USA",
+    "answers": [
+      "za posledních 20 let se nemění",
+      "poklesl s poklesem hladiny cholesterolu v populaci",
+      "není sledován",
+      "stoupá"
+    ],
+    "correctAnswers": ["poklesl s poklesem hladiny cholesterolu v populaci"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.117. Mezi hlavní rizikové faktory ischemické choroby srdeční nepatří",
+    "answers": [
+      "systémová hypertenze",
+      "kouření cigaret",
+      "hypercholesterolémie",
+      "hyperurikémie"
+    ],
+    "correctAnswers": ["hyperurikémie"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.118. Při vývoji transmurálního infarktu myokardu se objevuje nejdříve",
+    "answers": ["patologické Q", "Pardeeho vlna", "negativní T", "koronární T"],
+    "correctAnswers": ["Pardeeho vlna"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.119. U nemocného s nekomplikovaným akutním infarktem myokardu zahajujeme rehabilitaci na lůžku",
+    "answers": ["za týden", "za 3 dny", "za 2 týdny", "2. den"],
+    "correctAnswers": ["za 3 dny"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.120. Nejčastější příčinou náhlé smrti je",
+    "answers": ["myokarditida", "ICHS", "hypertenze", "kardiomyopatie"],
+    "correctAnswers": ["ICHS"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.121. Nejčastější příčinou náhlé smrti při ICHS je",
+    "answers": [
+      "akutní levostranné srdeční selhání",
+      "srdeční tamponáda",
+      "ruptura srdce",
+      "maligní arytmie"
+    ],
+    "correctAnswers": ["maligní arytmie"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.122. Nejčastěji se vyskytující arytmií u akutního infarktu myokardu je",
+    "answers": [
+      "komorová extrasystolie",
+      "fibrilace komor",
+      "flutter síní",
+      "fibrilace síní"
+    ],
+    "correctAnswers": ["komorová extrasystolie"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.123. Aneuryzma hrudní aorty",
+    "answers": [
+      "nezvyšuje riziko srdeční tamponády",
+      "vzniká vždy na vrozeném podkladě",
+      "je symptomatické zejména při lokalizaci v oblasti descendentní aorty",
+      "může vyvolat syndrom horní duté žíly"
+    ],
+    "correctAnswers": ["může vyvolat syndrom horní duté žíly"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.124. Mezi rizikové faktory disekujícího aneuryzmatu aorty nepatří",
+    "answers": [
+      "Erdheimova cystická nekróza medie",
+      "Marfanův syndrom",
+      "infekční endokarditida",
+      "systémová hypertenze"
+    ],
+    "correctAnswers": ["infekční endokarditida"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.125. Angina pectoris, která se nově objevila nebo změnila svoji kvantitu nebo kvalitu v posledních 4 týdnech, se nazývá",
+    "answers": ["dekubitální", "variantní", "Prinzmetalova", "nestabilní"],
+    "correctAnswers": ["nestabilní"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.126. Z uvedených stavů není nestabilní angina pectoris charakterizována",
+    "answers": [
+      "náhlým zhoršením námahové anginy pectoris",
+      "vznikem náhlé levostranné srdeční insuficience",
+      "vznikem klidových stenokardií u nemocných s námahovou anginou pectoris",
+      "vznikem stenokardií u doposud asymptomatického jedince"
+    ],
+    "correctAnswers": ["vznikem náhlé levostranné srdeční insuficience"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.127. Aneuryzma břišní aorty",
+    "answers": [
+      "vede vždy k těžké klinické symptomatologii",
+      "je častou příčinou akutní pankreatitidy",
+      "může být traumatického původu",
+      "je u 90 % nemocných zdrojem periferních embolizací"
+    ],
+    "correctAnswers": ["může být traumatického původu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.128. Izolovaná systolická hypertenze u starých osob",
+    "answers": [
+      "je nezávažným nálezem, který není třeba léčit",
+      "je způsobena hyperkinetickou cirkulací",
+      "je stejně závažným nálezem jako hypertenze systolicko-diastolická",
+      "je projevem dehydratace u hypertonika"
+    ],
+    "correctAnswers": [
+      "je stejně závažným nálezem jako hypertenze systolicko-diastolická"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.129. Normální hodnota diastolického TK u dospělých je",
+    "answers": [
+      "do 89 mmHg",
+      "do 95 mmHg",
+      "do 105 mmHg",
+      "jiná u žen a u mužů"
+    ],
+    "correctAnswers": ["do 89 mmHg"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.130. K obrazu maligní hypertenze nepatří",
+    "answers": [
+      "A-V blokáda 1. stupně",
+      "poruchy zraku",
+      "zmatenost",
+      "zvracení"
+    ],
+    "correctAnswers": ["A-V blokáda 1. stupně"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.131. Koncentrickou hypertrofii levé komory bychom z uvedených stavů mohli nejspíše nalézt u",
+    "answers": [
+      "hypotyreózy",
+      "hypertenzní choroby",
+      "mitrální stenózy",
+      "hypertyreózy"
+    ],
+    "correctAnswers": ["hypertenzní choroby"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.132. Mezi příčiny sekundární hypertenze nepatří",
+    "answers": [
+      "Addisonova choroba",
+      "polycystické ledviny",
+      "koarktace aorty",
+      "Connův syndrom"
+    ],
+    "correctAnswers": ["Addisonova choroba"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.133. Pro diagnózu renovaskulární hypertenze je nejpodstatnější",
+    "answers": [
+      "vyšetření očního pozadí",
+      "vyšetření plazmatické reninové aktivity z obou renálních žil",
+      "klidové EKG",
+      "chemické vyšetření moči"
+    ],
+    "correctAnswers": [
+      "vyšetření plazmatické reninové aktivity z obou renálních žil"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.134. Arteriální hypertenze",
+    "answers": [
+      "je nejčastěji sekundární",
+      "vykazuje mendelovskou dědičnost",
+      "je u nás vzácná",
+      "je nejčastější kardiovaskulární nemocí u nás"
+    ],
+    "correctAnswers": ["je nejčastější kardiovaskulární nemocí u nás"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.135. Pro eklampsii jsou typické",
+    "answers": [
+      "křeče, jaterní insuficience, hypotenze",
+      "průjem, zvracení, hypertenze",
+      "ložiskové neurologické poruchy, hypotenze",
+      "křeče, poruchy zraku, hypertenze"
+    ],
+    "correctAnswers": ["křeče, poruchy zraku, hypertenze"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.136. Sekundární hypertenze se v populaci nachází u",
+    "answers": [
+      "1–2 % hypertoniků",
+      "jen u mladistvých",
+      "25–30 % hypertoniků",
+      "5–6 % hypertoniků"
+    ],
+    "correctAnswers": ["5–6 % hypertoniků"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.137. Renin je produkován",
+    "answers": [
+      "v juxtaglomerulárních buňkách ledviny",
+      "v buňkách proximálních kanálků ledviny",
+      "v kůře nadledvin",
+      "ve dřeni nadledvin"
+    ],
+    "correctAnswers": ["v juxtaglomerulárních buňkách ledviny"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.138. Při vstupním vyšetření nově zjištěného hypertonika není nezbytné vyšetřit",
+    "answers": ["EKG", "oční pozadí", "moč + močový sediment", "krevní obraz"],
+    "correctAnswers": ["krevní obraz"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.139. EDRF působí",
+    "answers": [
+      "v závislosti na dávce vazodilatačně nebo vazokonstrikčně",
+      "vazodilatačně",
+      "vazokonstrikčně",
+      "na hladké svalstvo s výjimkou cév"
+    ],
+    "correctAnswers": ["vazodilatačně"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.140. Z následujících hormonů nezvyšuje krevní tlak",
+    "answers": ["aldosteron", "angiotenzin II", "adrenalin", "inzulín"],
+    "correctAnswers": ["inzulín"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.141. Záchvatovitá hypertenze bývá při",
+    "answers": [
+      "stenóze renální tepny",
+      "primárním hyperaldosteronismu",
+      "Cushingově syndromu",
+      "feochromocytomu"
+    ],
+    "correctAnswers": ["feochromocytomu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.142. Mezi EKG projevy hypertrofie levé komory srdeční nepatří",
+    "answers": [
+      "vysoké R ve svodech V5 – 6 a hluboké S ve svodech V 1 – 2",
+      "rozšíření komplexu QRS",
+      "prodloužení aktivační doby levé komory",
+      "Sokolowův index > 35 mm"
+    ],
+    "correctAnswers": ["rozšíření komplexu QRS"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.143. Endotelin působí",
+    "answers": [
+      "vazokonstrikčně",
+      "v závislosti na dávce vazodilatačně nebo vazokonstrikčně",
+      "stabilizačně na cévní tonus",
+      "vazodilatačně"
+    ],
+    "correctAnswers": ["vazokonstrikčně"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.144. K II. stadiu hypertenze nepatří",
+    "answers": [
+      "hypertrofie levé komory",
+      "stenózy arteriol očního pozadí",
+      "proteinurie s normální glomerulární filtrací",
+      "známky srdečního selhání"
+    ],
+    "correctAnswers": ["známky srdečního selhání"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.145. K preeklampsii dochází",
+    "answers": [
+      "v I. trimestru těhotenství",
+      "při používání perorálních kontraceptiv",
+      "po porodu",
+      "kdykoliv v průběhu těhotenství"
+    ],
+    "correctAnswers": ["kdykoliv v průběhu těhotenství"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.146. Při které z následujících endokrinopatií nebývá sekundární hypertenze",
+    "answers": [
+      "feochromocytom",
+      "primární hyperaldosteronismus",
+      "hypotyreóza",
+      "Cushingova choroba"
+    ],
+    "correctAnswers": ["hypotyreóza"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.147. Při systémové hypertenzi může být",
+    "answers": [
+      "akcentovaná II. ozva nad aortou",
+      "akcentovaná I. ozva nad aortou",
+      "akcentovaná II. ozva na hrotu",
+      "oslabená I. ozva na hrotu"
+    ],
+    "correctAnswers": ["akcentovaná II. ozva nad aortou"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.148. Hypertrofie svaloviny levé komory při hypertenzi",
+    "answers": [
+      "je nejlépe detekovatelná EKG vyšetřením",
+      "nepředstavuje významný rizikový faktor",
+      "může vést ke zvýšení plnicího tlaku LK",
+      "je vždy ireverzibilní"
+    ],
+    "correctAnswers": ["může vést ke zvýšení plnicího tlaku LK"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.149. Normální diastolická tloušťka stěny levé komory je",
+    "answers": ["do 12 mm", "do 15 mm", "do 20 mm", "do 10 mm"],
+    "correctAnswers": ["do 12 mm"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.150. Systémové embolizace jsou typické pro",
+    "answers": [
+      "virovou myokarditidu",
+      "významný defekt komorového septa",
+      "infekční endokarditidu",
+      "tromboembolickou nemoc"
+    ],
+    "correctAnswers": ["infekční endokarditidu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.151. Libmanova-Sacksova endokarditida je",
+    "answers": [
+      "mykotická endokarditida",
+      "typ marantické endokarditidy",
+      "endokarditida chlopenní protézy",
+      "abakteriální endokarditida"
+    ],
+    "correctAnswers": ["abakteriální endokarditida"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.152. Pro akutní perikarditidu svědčí na EKG",
+    "answers": [
+      "patologické Q",
+      "elevace ST",
+      "poruchy síňokomorového převodu",
+      "levá přední hemiblokáda"
+    ],
+    "correctAnswers": ["elevace ST"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.153. Konstriktivní perikarditida je charakterizována",
+    "answers": [
+      "zvýšeným systémovým krevním tlakem",
+      "sníženým krevním tlakem v plicnici",
+      "poruchou diastolické funkce LK",
+      "poruchou systolické funkce LK"
+    ],
+    "correctAnswers": ["poruchou diastolické funkce LK"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.154. Migrující artritida je typická pro",
+    "answers": [
+      "dnu",
+      "juvenilní chronickou polyartritidu",
+      "progresívní polyartritidu",
+      "revmatickou horečku"
+    ],
+    "correctAnswers": ["revmatickou horečku"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.155. Konstriktivní perikarditida bývá častým následkem",
+    "answers": [
+      "tuberkulózní perikarditidy",
+      "Dresslerova syndromu",
+      "akutní virové perikarditidy",
+      "pericarditis epistenocardiaca"
+    ],
+    "correctAnswers": ["tuberkulózní perikarditidy"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.156. Pro klinický obraz konstriktivní perikarditidy je typické",
+    "answers": [
+      "hepatomegalie bez hepatojugulárního refluxu",
+      "dušnost, bolesti pod pravým žeberním obloukem, rozvoj ascitu",
+      "dušnost, otoky dolních končetin, sklon k bradykardii",
+      "zvýšená náplň krčních žil, časté synkopy ve spánku"
+    ],
+    "correctAnswers": [
+      "dušnost, bolesti pod pravým žeberním obloukem, rozvoj ascitu"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.157. Mezi příčiny konstriktivní perikarditidy obvykle nepatří",
+    "answers": [
+      "uremická perikarditida",
+      "hnisavá perikarditida",
+      "hemoperikard",
+      "tuberkulózní perikarditida"
+    ],
+    "correctAnswers": ["uremická perikarditida"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.158. Akutní bakteriální endokarditida je charakterizována",
+    "answers": [
+      "septickými teplotami",
+      "zvýšenou FW",
+      "intermitentními subfebriliemi",
+      "kašlem"
+    ],
+    "correctAnswers": ["kašlem"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.159. Pro subakutní infekční endokarditidu je typické",
+    "answers": [
+      "sklon k bradykardii",
+      "normální nebo lehce zvýšená sedimentace",
+      "koilonychie",
+      "výskyt třískovitých hemoragií za nehty"
+    ],
+    "correctAnswers": ["výskyt třískovitých hemoragií za nehty"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.160. Akutní myokarditida je nejčastěji způsobena",
+    "answers": [
+      "streptokoky skupiny C",
+      "virovou infekcí",
+      "protozoární infekcí",
+      "bakteriální infekcí"
+    ],
+    "correctAnswers": ["virovou infekcí"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.161. U podezření na infekční endokarditidu je nutné",
+    "answers": [
+      "odebrat opakovaně hemokulturu",
+      "provést srdeční katetrizaci",
+      "změřit centrální žilní tlak",
+      "vyšetřit karotidogram"
+    ],
+    "correctAnswers": ["odebrat opakovaně hemokulturu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.162. Ke klinickým projevům akutní infekční endokarditidy nepatří",
+    "answers": [
+      "metastatické abscesy",
+      "sepse",
+      "vznik mitrální stenózy",
+      "vznik mitrální insuficience"
+    ],
+    "correctAnswers": ["vznik mitrální stenózy"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.163. Fiedlerova myokarditida je",
+    "answers": [
+      "zpravidla asymptomatická myokarditida při chřipkové infekci",
+      "revmatická myokarditida",
+      "typ myokarditidy postihující téměř výhradně převodní systém",
+      "typ těžké myokarditidy s fatálním průběhem"
+    ],
+    "correctAnswers": ["typ těžké myokarditidy s fatálním průběhem"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.164. Pro Dresslerův syndrom je typické",
+    "answers": [
+      "normální sedimentace",
+      "přechodné renální selhání",
+      "leukopenie",
+      "sklon k recidivám"
+    ],
+    "correctAnswers": ["sklon k recidivám"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.165. Dresslerův syndrom je",
+    "answers": [
+      "perikarditida a pleuritida s artralgiemi jako následek infarktu myokardu",
+      "ruptura papilárního svalu s mitrální insuficiencí",
+      "recidivující stenokardie s EKG známkami rozšíření ložiska infarktu",
+      "kombinace A-V bloku vyššího stupně s hypotenzí"
+    ],
+    "correctAnswers": [
+      "perikarditida a pleuritida s artralgiemi jako následek infarktu myokardu"
+    ],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.166. Pro tuberkulózní perikarditidu není typické",
+    "answers": [
+      "výrazná perikardální bolest",
+      "dlouho trvající třecí šelest",
+      "výrazný sklon k exsudaci",
+      "sklon k tvorbě srůstů"
+    ],
+    "correctAnswers": ["výrazná perikardální bolest"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.167. Jonesova kritéria se týkají",
+    "answers": [
+      "ICHS",
+      "hypertrofické kardiomyopatie",
+      "akutní revmatické horečky",
+      "perikarditidy"
+    ],
+    "correctAnswers": ["akutní revmatické horečky"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.168. Erythema marginatum bývá přítomno u",
+    "answers": [
+      "akutní revmatické horečky",
+      "nebakteriálních trombotických vegetací srdečních chlopní",
+      "infekční endokarditidy",
+      "Dresslerova syndromu"
+    ],
+    "correctAnswers": ["akutní revmatické horečky"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.169. Při akutní revmatické horečce obvykle nenacházíme",
+    "answers": [
+      "zvýšenou sedimentaci",
+      "prodloužení PQ intervalu na EKG",
+      "vysokou hodnotu sérového kreatininu",
+      "pozitivní C-reaktivní protein"
+    ],
+    "correctAnswers": ["vysokou hodnotu sérového kreatininu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.170. Infekční endokarditida je nejčastěji způsobena",
+    "answers": [
+      "protozoární infekcí",
+      "virovou infekcí",
+      "mykotickou infekcí",
+      "bakteriální infekcí"
+    ],
+    "correctAnswers": ["bakteriální infekcí"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.171. U čisté mitrální stenózy nebývá",
+    "answers": [
+      "dilatace pravé komory",
+      "dilatace levé komory",
+      "dilatace levé síně",
+      "plicní hypertenze"
+    ],
+    "correctAnswers": ["dilatace levé komory"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.172. Pro mitrální stenózu je typické",
+    "answers": [
+      "klidové stenokardie",
+      "námahový kašel",
+      "noční dušnost",
+      "námahové synkopy"
+    ],
+    "correctAnswers": ["námahový kašel"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.173. U významné mitrální stenózy dochází k",
+    "answers": [
+      "cor pulmonale",
+      "snížení systémové cévní rezistence",
+      "zvýšení minutového srdečního objemu",
+      "zvýšení plicní cévní rezistence"
+    ],
+    "correctAnswers": ["zvýšení plicní cévní rezistence"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.174. Ke klinickým projevům mitrální stenózy dochází",
+    "answers": [
+      "řadu let po atace revmatické horečky",
+      "bezprostředně po atace revmatické horečky",
+      "nejčastěji u nemocných bez revmatické horečky v anamnéze",
+      "vždy až po několika atakách revmatické horečky"
+    ],
+    "correctAnswers": ["řadu let po atace revmatické horečky"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.175. Ke komplikacím mitrální stenózy patří",
+    "answers": [
+      "síňokomorová blokáda",
+      "exsudativní perikarditida",
+      "periferní embolizace",
+      "hypertrofie levé komory"
+    ],
+    "correctAnswers": ["periferní embolizace"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.176. Presystolický šelest u mitrální stenózy mizí",
+    "answers": [
+      "při ploše mitrálního ústí pod 1 cm2",
+      "při fibrilaci síní",
+      "u A-V blokády 1. stupně",
+      "při známkách pravostranné srdeční insuficience"
+    ],
+    "correctAnswers": ["při fibrilaci síní"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.177. Pro aortální insuficienci je typický",
+    "answers": [
+      "vzestup periferního cévního odporu",
+      "zvýšený diastolický tlak v tepenném řečišti",
+      "pokles periferního cévního odporu",
+      "anakrotický tep"
+    ],
+    "correctAnswers": ["pokles periferního cévního odporu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.178. Pro diagnózu aortální insuficience má zásadní význam",
+    "answers": [
+      "vyšetření jugulogramu",
+      "echokardiografické vyšetření",
+      "katetrizační vyšetření malého oběhu",
+      "ergometrie"
+    ],
+    "correctAnswers": ["echokardiografické vyšetření"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.179. Šelest u aortální insuficience",
+    "answers": [
+      "je presystolický",
+      "je mezodiastolický",
+      "navazuje na 2. ozvu",
+      "navazuje na otevírací zvuk"
+    ],
+    "correctAnswers": ["navazuje na 2. ozvu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.180. Diastolický šelest na hrotě nepatří do obrazu",
+    "answers": [
+      "aortální insuficience",
+      "defektu síňového septa",
+      "mitrální stenózy",
+      "myxomu levé síně"
+    ],
+    "correctAnswers": ["defektu síňového septa"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.181. Šelest při trikuspidální stenóze je",
+    "answers": [
+      "systolický, zesiluje se v předklonu",
+      "diastolický, zesiluje se v inspiriu",
+      "systolický, zesiluje se v inspiriu",
+      "diastolický, zesiluje se v exspiriu"
+    ],
+    "correctAnswers": ["diastolický, zesiluje se v inspiriu"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.182. Trikuspidalizace mitrální stenózy je dána",
+    "answers": [
+      "trikuspidální insuficiencí při prolapsu trikuspidální chlopně",
+      "současnou trikuspidální stenózou",
+      "hyperkinetickou cirkulací",
+      "trikuspidální insuficiencí při dilataci pravé komory"
+    ],
+    "correctAnswers": ["trikuspidální insuficiencí při dilataci pravé komory"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.183. Šelest Grahama Steela je způsoben",
+    "answers": [
+      "aortální insuficiencí při dilataci aortálního kořene",
+      "pulmonální insuficiencí při plicní hypertenzi",
+      "dysfunkcí papilárního svalu při infarktu spodní stěny",
+      "trikuspidální stenózou při myxomu pravé síně"
+    ],
+    "correctAnswers": ["pulmonální insuficiencí při plicní hypertenzi"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.184. Předoperační katetrizační vyšetření u chlopenních vad doplňujeme koronární angiografií",
+    "answers": [
+      "jen u mužů",
+      "zjistíme-li přítomnost hypertrofie levé komory",
+      "zásadně vždy",
+      "s přihlédnutím k věku nemocného"
+    ],
+    "correctAnswers": ["s přihlédnutím k věku nemocného"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
+  },
+  {
+    "question": "2.185. K obrazu čisté mitrální stenózy nepatří",
+    "answers": [
+      "fibrilace síní",
+      "selhání levé komory",
+      "městnání v malém oběhu",
+      "plicní edém"
+    ],
+    "correctAnswers": ["plicní edém"],
+    "book": ["Klener"],
+    "topic": ["Kardiologie speciální I"]
   }
 ]
