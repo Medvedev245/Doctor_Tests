@@ -8,7 +8,6 @@ import {
   LinkContainer,
   LinkToPage,
 } from './Tests.styled';
-import { Link } from 'react-router-dom';
 
 const Tests = () => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
