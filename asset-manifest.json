@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Doctor_Tests/static/css/main.f2db3b31.css",
-    "main.js": "/Doctor_Tests/static/js/main.42cdab98.js",
+    "main.js": "/Doctor_Tests/static/js/main.1ecec98a.js",
     "static/js/1.7e68cb57.chunk.js": "/Doctor_Tests/static/js/1.7e68cb57.chunk.js",
     "static/js/3.3bda4e9c.chunk.js": "/Doctor_Tests/static/js/3.3bda4e9c.chunk.js",
     "static/js/846.7b183e45.chunk.js": "/Doctor_Tests/static/js/846.7b183e45.chunk.js",
     "index.html": "/Doctor_Tests/index.html",
     "main.f2db3b31.css.map": "/Doctor_Tests/static/css/main.f2db3b31.css.map",
-    "main.42cdab98.js.map": "/Doctor_Tests/static/js/main.42cdab98.js.map",
+    "main.1ecec98a.js.map": "/Doctor_Tests/static/js/main.1ecec98a.js.map",
     "1.7e68cb57.chunk.js.map": "/Doctor_Tests/static/js/1.7e68cb57.chunk.js.map",
     "3.3bda4e9c.chunk.js.map": "/Doctor_Tests/static/js/3.3bda4e9c.chunk.js.map",
     "846.7b183e45.chunk.js.map": "/Doctor_Tests/static/js/846.7b183e45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2db3b31.css",
-    "static/js/main.42cdab98.js"
+    "static/js/main.1ecec98a.js"
   ]
 }
