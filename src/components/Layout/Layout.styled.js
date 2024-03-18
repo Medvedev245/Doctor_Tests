@@ -10,4 +10,14 @@ export const MainContainer = styled.main`
   margin: 0 auto;
   padding: 40px 40px 0 40px;
   max-width: 1400px;
+  //Tablet
+  @media screen and (max-width: 1201px) {
+    width: 768px;
+  }
+
+  // Mobil
+  @media screen and (max-width: 800px) {
+    width: 375px;
+    font-size: 24px;
+  }
 `;
