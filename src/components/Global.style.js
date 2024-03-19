@@ -16,18 +16,7 @@ export const GlobalStyle = createGlobalStyle`
   -moz-osx-font-smoothing: grayscale;
 }
 
-@media (min-width: 768px) {
-  body {
-    font-size: var(--font-size-tablet); /* Используем размер шрифта для планшетов */
-  }
-}
-
-@media (min-width: 1024px) {
-  body {
-    font-size: var(--font-size-desktop); /* Используем размер шрифта для десктопов */
-  }
-}
-
+  
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -35,8 +24,9 @@ code {
 
 :root {
   // Colors
-   --iq-primary: #bb9ae6; 
-   --iq-secondary: #fafafa; 
+   --iq-primary: rgba(187,154,230, 1);
+   --iq-secondary: rgba(250,250,250, 1); 
+   --iq-underlining: rgba(187, 154, 230, 0.342);
 
    //Fonts
    --font-size-mobile: 16px; /* Размер шрифта для мобильных устройств */

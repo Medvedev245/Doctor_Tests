@@ -1,21 +1,25 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import Klener from '../../Files/Clener.json';
 import Olomouc from '../../Files/Clener.json';
 import Živný from '../../Files/Clener.json';
-import { FormContainer, LinkToStart } from './Home.styled';
+import {
+  FormContainer,
+  LinkToStart,
+  WraperForm,
+  ChoosenElement,
+} from './Home.styled';
 import { Button } from 'Pages/Tests/Tests.styled';
 
 const Home = () => {
   const [selectedOption1, setSelectedOption1] = useState('');
   const [selectedOption2, setSelectedOption2] = useState('');
   const dispatch = useDispatch();
-  const elements = useSelector(state => state.testsReducer.selectedOption1);
-  const elements2 = useSelector(state => state.testsReducer.selectedOption2);
   const elements3 = useSelector(state => state.testsReducer.questions);
 
   const handleOption1Change = event => {
+    console.log(event.target.value);
     setSelectedOption1(event.target.value);
   };
 
@@ -44,7 +48,6 @@ const Home = () => {
 
     // Generate  random numbers
     while (number.length < two) {
-      console.log(selectedFile);
       const randomNum = Math.floor(Math.random() * selectedFile.length);
       if (!number.includes(randomNum)) {
         number.push(randomNum);
@@ -61,6 +64,7 @@ const Home = () => {
 
   const handleSubmit = event => {
     event.preventDefault();
+    console.log(event);
     const myTests = generateTests(selectedOption1, selectedOption2);
     // addState(selectedOption1, selectedOption2, myTests);
     dispatch({
@@ -70,40 +74,48 @@ const Home = () => {
   };
 
   return (
-    <FormContainer onSubmit={handleSubmit}>
-      <div>
-        <label htmlFor="select1">Выбери базу</label>
-        <select
-          id="select1"
-          value={selectedOption1}
-          onChange={handleOption1Change}
-        >
-          <option value="Klener">Klener</option>
-          <option value="Olomouc">Olomouc</option>
-          <option value="Živný">Živný</option>
-        </select>
-      </div>
-      <div>
-        <label htmlFor="select2">Выбери количество тестов</label>
-        <select
-          id="select2"
-          value={selectedOption2}
-          onChange={handleOption2Change}
-        >
-          <option value="10">10</option>
-          <option value="25">25</option>
-          <option value="50">50</option>
-        </select>
-      </div>
-      <Button type="submit">Выбрать</Button>
-      {elements3.length > 0 && (
-        <LinkToStart to={'/tests'}>Начать !</LinkToStart>
-      )}
-      <div>
-        Ты выбрал -{elements},{elements2}
-      </div>
+    <>
+      <FormContainer onSubmit={handleSubmit}>
+        <WraperForm>
+          <label htmlFor="select1">Выбери базу</label>
+
+          <select
+            id="select1"
+            value={selectedOption1}
+            onChange={handleOption1Change}
+          >
+            <option value="All">All</option>
+            <option value="Klener">Klener</option>
+            <option value="Olomouc">Olomouc</option>
+            <option value="Živný">Živný</option>
+          </select>
+        </WraperForm>
+        <WraperForm>
+          <label htmlFor="select2">Выбери количество тестов</label>
+          <select
+            id="select2"
+            value={selectedOption2}
+            onChange={handleOption2Change}
+          >
+            <option value="-">-</option>
+            <option value="10">10</option>
+            <option value="25">25</option>
+            <option value="50">50</option>
+          </select>
+        </WraperForm>
+
+        {elements3.length > 0 ? (
+          <LinkToStart to={'/tests'}>Начать !</LinkToStart>
+        ) : (
+          <Button type="submit">Выбрать</Button>
+        )}
+      </FormContainer>
+
+      <ChoosenElement>
+        Выбрано - {selectedOption1} {selectedOption2}
+      </ChoosenElement>
       <p>На данный момент на сайте есть базы: Klener(5135 tests)</p>
-    </FormContainer>
+    </>
   );
 };
 

@@ -19,11 +19,13 @@ export const ContainerCheck = styled.div`
 
 // Общая кнопка
 export const Button = styled.button`
+  color: black;
+  font-weight: 500;
   background-color: var(--iq-primary);
   width: 150px;
   height: 50px;
   border-radius: 10px;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
   transition: background-color 0.3s ease;
   &:active {
     background: var(--iq-secondary);

@@ -29432,7 +29432,11 @@
     ],
     "book": ["Klener"],
     "topic": ["Hematologie speciální II"],
-    "correctAnswers": ["CMLleukémie z vlasatých buněksyndrom myelofibrózy"]
+    "correctAnswers": [
+      "CML",
+      "leukémie z vlasatých buněk",
+      "syndrom myelofibrózy"
+    ]
   },
 
   {
@@ -52268,7 +52272,7 @@
     ],
     "book": ["Klener"],
     "topic": ["Farmakologie"],
-    "correctAnswers": ["hypokaliémieporuchy glukózové tolerance"]
+    "correctAnswers": ["hypokaliémie", "poruchy glukózové tolerance"]
   },
 
   {
