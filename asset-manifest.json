@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/Doctor_Tests/static/css/main.f2db3b31.css",
-    "main.js": "/Doctor_Tests/static/js/main.1ecec98a.js",
-    "static/js/1.7e68cb57.chunk.js": "/Doctor_Tests/static/js/1.7e68cb57.chunk.js",
-    "static/js/3.3bda4e9c.chunk.js": "/Doctor_Tests/static/js/3.3bda4e9c.chunk.js",
-    "static/js/846.7b183e45.chunk.js": "/Doctor_Tests/static/js/846.7b183e45.chunk.js",
+    "main.css": "/Doctor_Tests/static/css/main.10a9149c.css",
+    "main.js": "/Doctor_Tests/static/js/main.e9d97b48.js",
+    "static/js/1.cb64b323.chunk.js": "/Doctor_Tests/static/js/1.cb64b323.chunk.js",
+    "static/js/551.864f650a.chunk.js": "/Doctor_Tests/static/js/551.864f650a.chunk.js",
+    "static/js/3.6a36a041.chunk.js": "/Doctor_Tests/static/js/3.6a36a041.chunk.js",
+    "static/js/846.be8bd0b1.chunk.js": "/Doctor_Tests/static/js/846.be8bd0b1.chunk.js",
     "index.html": "/Doctor_Tests/index.html",
-    "main.f2db3b31.css.map": "/Doctor_Tests/static/css/main.f2db3b31.css.map",
-    "main.1ecec98a.js.map": "/Doctor_Tests/static/js/main.1ecec98a.js.map",
-    "1.7e68cb57.chunk.js.map": "/Doctor_Tests/static/js/1.7e68cb57.chunk.js.map",
-    "3.3bda4e9c.chunk.js.map": "/Doctor_Tests/static/js/3.3bda4e9c.chunk.js.map",
-    "846.7b183e45.chunk.js.map": "/Doctor_Tests/static/js/846.7b183e45.chunk.js.map"
+    "main.10a9149c.css.map": "/Doctor_Tests/static/css/main.10a9149c.css.map",
+    "main.e9d97b48.js.map": "/Doctor_Tests/static/js/main.e9d97b48.js.map",
+    "1.cb64b323.chunk.js.map": "/Doctor_Tests/static/js/1.cb64b323.chunk.js.map",
+    "551.864f650a.chunk.js.map": "/Doctor_Tests/static/js/551.864f650a.chunk.js.map",
+    "3.6a36a041.chunk.js.map": "/Doctor_Tests/static/js/3.6a36a041.chunk.js.map",
+    "846.be8bd0b1.chunk.js.map": "/Doctor_Tests/static/js/846.be8bd0b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2db3b31.css",
-    "static/js/main.1ecec98a.js"
+    "static/css/main.10a9149c.css",
+    "static/js/main.e9d97b48.js"
   ]
 }
