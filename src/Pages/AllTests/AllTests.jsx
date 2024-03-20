@@ -1,9 +1,10 @@
 // import { useState } from 'react';
 // import Klener from '../../Files/Clener.json';
+import Functions from '../../Files/Functions';
 
 const AllTests = () => {
-  //   const [isLoading, setIsLoading] = useState(Klener);
-  //   const [allTests, setAllTests] = useState(Klener);
+  // const [isLoading, setIsLoading] = useState(false);
+  // const [allTests, setAllTests] = useState('');
   //   const [allTests, setAllTests] = useState(Klener);
   //   const [allTests, setAllTests] = useState(Klener);
   //   console.log(allTests);
@@ -14,7 +15,28 @@ const AllTests = () => {
   };
   return (
     <>
-      <div></div>
+      <Functions />
+      {/* <div>
+          <ul>
+            {allTests.map((test, index) => {
+              return (
+                <li key={index} style={{ marginBottom: '25px' }}>
+                  <span>Вопрос</span>
+                  <p>{test.question}</p>
+                  <ul>
+                    {test.answers.map(el => {
+                      <span>Ответ</span>;
+                      return <li>{el}</li>;
+                    })}
+                  </ul>
+
+                  <span></span>
+                </li>
+              );
+            })}
+          </ul>
+        </div> */}
+
       <form onSubmit={handleSubmit}>
         <div>
           <label htmlFor="base">select base</label>

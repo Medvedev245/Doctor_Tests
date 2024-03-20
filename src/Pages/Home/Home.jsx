@@ -2,8 +2,9 @@ import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import Klener from '../../Files/Clener.json';
+import KlenerNew from '../../Files/ClenerNew.json';
 import Olomouc from '../../Files/Clener.json';
-import Živný from '../../Files/Clener.json';
+// import Živný from '../../Files/Clener.json';
 import {
   FormContainer,
   LinkToStart,
@@ -37,10 +38,10 @@ const Home = () => {
         selectedFile = Olomouc;
         break;
       case 'Živný':
-        selectedFile = Živný;
+        selectedFile = KlenerNew;
         break;
       default:
-        selectedFile = Klener;
+        selectedFile = KlenerNew;
     }
 
     const number = [];
@@ -98,6 +99,7 @@ const Home = () => {
             onChange={handleOption2Change}
           >
             <option value="-">-</option>
+            <option value="5">5</option>
             <option value="10">10</option>
             <option value="25">25</option>
             <option value="50">50</option>

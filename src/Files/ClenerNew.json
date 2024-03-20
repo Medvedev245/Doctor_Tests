@@ -1,0 +1,65 @@
+[
+  {
+    "question": "Po podávání spazmolytik zvláště parenterální cestou se může objevit u pacienta zejména",
+    "answers": [
+      "akutní retence moči",
+      "porucha vizu",
+      "zhoršení dechu",
+      "nevolnost se zvracením"
+    ],
+    "book": ["Klener"],
+    "topic": ["Geriatrie"],
+    "correctAnswers": ["akutní retence moči", "porucha vizu"]
+  },
+
+  {
+    "question": "Atropin bychom neměli nikdy podat u",
+    "answers": [
+      "chronické exacerbované bronchitidy",
+      "městnavého srdečního selhání",
+      "ischemické choroby dolních končetin s klaudikacemi",
+      "zeleného zákalu (glaukomu)"
+    ],
+    "book": ["Klener"],
+    "topic": ["Geriatrie"],
+    "correctAnswers": ["zeleného zákalu (glaukomu)"]
+  },
+
+  {
+    "question": "Při chronickém podávání glukokortikoidů musíme počítat se vznikem",
+    "answers": [
+      "hypokaliémie",
+      "hypersekrece HCl v žaludku",
+      "poruchy glukózové tolerance",
+      "spazmu dýchacích cest"
+    ],
+    "book": ["Klener"],
+    "topic": ["Geriatrie"],
+    "correctAnswers": ["hypokaliémie", "poruchy glukózové tolerance"]
+  },
+
+  {
+    "question": "Úbytek funkčních buněk v sinoatriálním uzlu může po 75. roce věku činit až",
+    "answers": ["60 %", "20 %", "80 %", "40 %"],
+    "book": ["Klener"],
+    "topic": ["Geriatrie"],
+    "correctAnswers": ["80 %"]
+  },
+
+  {
+    "question": "Mezi peroxisomální onemocnění patří",
+    "answers": [
+      "X-vázaná adrenoleukodystrofie",
+      "Zellwegerův (cerebrohepatorenální) syndrom",
+      "Reyův (cerebrohepatální) syndrom",
+      "Refsumova nemoc"
+    ],
+    "book": ["Klener"],
+    "topic": ["Geriatrie"],
+    "correctAnswers": [
+      "X-vázaná adrenoleukodystrofie",
+      "Zellwegerův (cerebrohepatorenální) syndrom",
+      "Refsumova nemoc"
+    ]
+  }
+]

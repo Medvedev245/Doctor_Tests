@@ -1,30 +1,31 @@
-const functions = () => {
+const Functions = () => {
   const text = [
-    `39.1. Dlouhověkost je stáří nad
-          1 a) 100 let
-          1 b) 80 let
-          A}{c) 90 let
-            1 d) 75 let
-          39.2. Progerické syndromy
-          1 a) projeví se v závislosti na způsobu života
-          1 b) nezahrnují Wernerův syndrom
-          1 c) postihují asi 7 % obyvatel
-          A}{d) jsou geneticky podmíněné
-          39.3. Střední délka života (life expectancy) je
-          1 a) nezávislá na pohlaví
-          A}{b) delší pro ženy
-          1 c) delší pro ženy nebo pro muže v různých populacích
-          1 d) delší pro muže
-          39.4. Akutní infarkt myokardu ve věku nad 75 let se nejméně často projevuje
-          1 a) dušností
-          1 b) zhoršením stability s pády
-          A}{c) bolestí
-            1 d) stavem zmatenosti
-          39.5. Bezbolestný infarkt myokardu se ve věku nad 75 let vyskytuje přibližně
-          1 a) ve 40 % případů
-          1 b) v 60 % případů
-          A}{c) v 80 % případů
-          1 d) ve 30 % případů
+    `31.20. Po podávání spazmolytik zvláště parenterální cestou se může objevit u pacienta zejména
+    A}{a) akutní retence moči
+    A}{b) porucha vizu
+    1 c) zhoršení dechu
+    1 d) nevolnost se zvracením
+    31.21. Atropin bychom neměli nikdy podat u
+    1 a) chronické exacerbované bronchitidy
+    1 b) městnavého srdečního selhání
+    1 c) ischemické choroby dolních končetin s klaudikacemi
+    A}{d) zeleného zákalu (glaukomu)
+    31.22. Při chronickém podávání glukokortikoidů musíme počítat se vznikem
+    A}{a) hypokaliémie
+    1 b) hypersekrece HCl v žaludku
+    A}{c) poruchy glukózové tolerance
+    1 d) spazmu dýchacích cest
+    39.38. Úbytek funkčních buněk v sinoatriálním uzlu může po 75. roce věku činit až
+    1 a) 60 %
+    1 b) 20 %
+    A}{c) 80 %
+    1 d) 40 %
+    36.74. Mezi peroxisomální onemocnění patří
+    A}{a) X-vázaná adrenoleukodystrofie
+    A}{b) Zellwegerův (cerebrohepatorenální) syndrom
+    1 c) Reyův (cerebrohepatální) syndrom
+    A}{d) Refsumova nemoc
+
           `,
   ];
 
@@ -41,19 +42,19 @@ const functions = () => {
         const newText = optionsArray
           .map(el => el.split(')').slice(1).join(')').trim())
           .filter(text => text !== ''); // Фильтруем пустые строки;
-        console.log(newText);
+        // console.log(newText);
         const answers = optionsArray.filter(elem => elem.includes('}{'));
-        const newAnswer = answers.map(el =>
-          el.split(')').slice(1).join(')').trim()
-        );
-        console.log(answers);
+        // console.log(answers);
+
+        const newAnswers = answers.map(el => el.replace(/^A}\{[a-z]\)\s*/, ''));
+        console.log(newAnswers);
 
         return {
           question,
           answers: newText,
           book: ['Klener'], // Пример значения для поля "book"
           topic: ['Geriatrie'], // Пример значения для поля "topic"
-          correctAnswers: newAnswer, // Массив с правильными ответами
+          correctAnswers: newAnswers, // Массив с правильными ответами
         };
       });
   };
@@ -81,7 +82,7 @@ const functions = () => {
               <div>"book": ["{el.book}"],</div>
               <div>"topic": ["{el.topic}"],</div>
               <div>
-                "correctAnswers": ["{el.correctAnswers}"]{'},'}
+                "correctAnswers": ["{el.correctAnswers.join('", "')}"]{'},'}
               </div>
               <br />
             </li>
@@ -92,4 +93,4 @@ const functions = () => {
   );
 };
 
-export default functions;
+export default Functions;
