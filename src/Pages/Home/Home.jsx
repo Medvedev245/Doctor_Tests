@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
-import Klener from '../../Files/Clener.json';
-import KlenerNew from '../../Files/ClenerNew.json';
+import Klener from '../../Files/ClenerNew.json';
+
 import Olomouc from '../../Files/Clener.json';
 // import Živný from '../../Files/Clener.json';
 import {
@@ -20,7 +20,6 @@ const Home = () => {
   const elements3 = useSelector(state => state.testsReducer.questions);
 
   const handleOption1Change = event => {
-    console.log(event.target.value);
     setSelectedOption1(event.target.value);
   };
 
@@ -36,12 +35,10 @@ const Home = () => {
         break;
       case 'Olomouc':
         selectedFile = Olomouc;
-        break;
-      case 'Živný':
-        selectedFile = KlenerNew;
+
         break;
       default:
-        selectedFile = KlenerNew;
+        selectedFile = Klener;
     }
 
     const number = [];
@@ -65,7 +62,7 @@ const Home = () => {
 
   const handleSubmit = event => {
     event.preventDefault();
-    console.log(event);
+
     const myTests = generateTests(selectedOption1, selectedOption2);
     // addState(selectedOption1, selectedOption2, myTests);
     dispatch({
@@ -88,7 +85,6 @@ const Home = () => {
             <option value="All">All</option>
             <option value="Klener">Klener</option>
             <option value="Olomouc">Olomouc</option>
-            <option value="Živný">Živný</option>
           </select>
         </WraperForm>
         <WraperForm>

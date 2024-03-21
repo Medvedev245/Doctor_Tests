@@ -7,6 +7,8 @@ import {
   Button,
   LinkContainer,
   LinkToPage,
+  AnswerControl,
+  AnswerBlock,
 } from './Tests.styled';
 
 const Tests = () => {
@@ -15,9 +17,9 @@ const Tests = () => {
   const [correctCount, setCorrectCount] = useState(0);
   const [count, setCount] = useState(1);
   const [myCorrectAnswers, setMyCorrectAnswers] = useState([]); // Хранение правильных ответов
+  const [addColor, setAddColor] = useState(false); // Состояние для подсветки правильных ответов
 
   const dispatch = useDispatch();
-
   const questions = useSelector(state => state.testsReducer.questions);
 
   const handleAnswerSelect = answer => {
@@ -30,14 +32,18 @@ const Tests = () => {
     }
   };
 
+  const comparison = () => {
+    setAddColor(prevState => !prevState); // Изменяем состояние для подсветки при каждом нажатии
+  };
+
   const handleNextQuestion = () => {
+    setAddColor(false);
     setCount(count + 1);
 
     let correctAnswersCount = 0;
 
     questions[currentQuestion].correctAnswers.forEach(correctAnswer => {
       if (selectedAnswers.includes(correctAnswer)) {
-        // Добавление правильного ответа в myCorrectAnswers
         setMyCorrectAnswers(prevAnswers => [
           ...prevAnswers,
           {
@@ -63,10 +69,6 @@ const Tests = () => {
     if (currentQuestion < questions.length - 1) {
       setCurrentQuestion(currentQuestion + 1);
     } else {
-      console.log(myCorrectAnswers);
-      console.log(count);
-      console.log(questions.length + 1);
-
       if (count === questions.length) {
         dispatch({
           type: 'ADD_RIGHTQUESTIONS',
@@ -84,27 +86,36 @@ const Tests = () => {
     <FormTest>
       <FormText>{questions[currentQuestion].question}</FormText>
       {questions[currentQuestion].answers.map((answer, index) => (
-        <ContainerCheck key={index}>
+        <ContainerCheck
+          key={index}
+          style={{
+            backgroundColor:
+              addColor &&
+              questions[currentQuestion].correctAnswers.includes(answer)
+                ? '#1fa01f6f'
+                : '',
+          }}
+        >
           <input
             type="checkbox"
             checked={selectedAnswers.includes(answer)}
             onChange={() => handleAnswerSelect(answer)}
-            style={{
-              width: '20px',
-              height: '20px',
-            }}
+            style={{ width: '20px', height: '20px' }}
           />
           <label>{answer}</label>
         </ContainerCheck>
       ))}
 
       {count <= questions.length ? (
-        <div>
-          <Button onClick={handleNextQuestion}>Next Question</Button>
-          <span>
-            {count} из {questions.length}
-          </span>
-        </div>
+        <AnswerBlock>
+          <AnswerControl>
+            <Button onClick={handleNextQuestion}>Next Question</Button>
+            <span>
+              {count} из {questions.length}
+            </span>
+          </AnswerControl>
+          <Button onClick={comparison}>Check</Button>
+        </AnswerBlock>
       ) : (
         <LinkContainer>
           <LinkToPage to="/AnsweredQuestions">

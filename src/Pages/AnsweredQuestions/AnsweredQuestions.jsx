@@ -8,6 +8,7 @@ import {
   TopicList,
   Question,
   TextSpan,
+  LinkToPage,
 } from './AnsweredQuestions.styled';
 
 const AnsweredQuestions = () => {
@@ -65,6 +66,7 @@ const AnsweredQuestions = () => {
           </Item>
         ))}
       </List>
+      <LinkToPage to="/">На Главную</LinkToPage>
     </div>
   );
 };

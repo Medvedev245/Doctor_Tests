@@ -1,64 +1,39 @@
 // import { useState } from 'react';
-// import Klener from '../../Files/Clener.json';
-import Functions from '../../Files/Functions';
+// import Klener from '../../Files/Checed';
+// import { Item, List } from './AllTests.styled';
 
-const AllTests = () => {
-  // const [isLoading, setIsLoading] = useState(false);
-  // const [allTests, setAllTests] = useState('');
-  //   const [allTests, setAllTests] = useState(Klener);
-  //   const [allTests, setAllTests] = useState(Klener);
-  //   console.log(allTests);
+// const AllTests = () => {
+//   const [allTests, setAllTests] = useState(Klener);
 
-  const handleSubmit = event => {
-    event.preventDefault();
-    console.dir(event.target);
-  };
-  return (
-    <>
-      <Functions />
-      {/* <div>
-          <ul>
-            {allTests.map((test, index) => {
-              return (
-                <li key={index} style={{ marginBottom: '25px' }}>
-                  <span>Вопрос</span>
-                  <p>{test.question}</p>
-                  <ul>
-                    {test.answers.map(el => {
-                      <span>Ответ</span>;
-                      return <li>{el}</li>;
-                    })}
-                  </ul>
+//   const renderAnswer = (answer, isCorrect) => {
+//     return isCorrect ? (
+//       <span style={{ backgroundColor: '#1fa01f6f' }}>{answer}</span>
+//     ) : (
+//       <span>{answer}</span>
+//     );
+//   };
 
-                  <span></span>
-                </li>
-              );
-            })}
-          </ul>
-        </div> */}
+//   return (
+//     <>
+//       <div>
+//         <List>
+//           {allTests.map((test, index) => (
+//             <Item key={index} style={{ marginBottom: '25px' }}>
+//               <span>Вопрос</span>
+//               <p>{test.question}</p>
+//               <ul>
+//                 {test.answers.map((answer, answerIndex) => (
+//                   <li key={answerIndex}>
+//                     {renderAnswer(answer, test.correctAnswers.includes(answer))}
+//                   </li>
+//                 ))}
+//               </ul>
+//             </Item>
+//           ))}
+//         </List>
+//       </div>
+//     </>
+//   );
+// };
 
-      <form onSubmit={handleSubmit}>
-        <div>
-          <label htmlFor="base">select base</label>
-          <select name="base" id="base">
-            <option value="All">All</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
-          </select>
-        </div>
-        <div>
-          <label htmlFor="topic">select base</label>
-          <select name="topic" id="topic">
-            <option value="All">All</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
-          </select>
-        </div>
-        <button type="submit">fdvedv</button>
-      </form>
-      <div>AllTests</div>
-    </>
-  );
-};
-
-export default AllTests;
+// export default AllTests;

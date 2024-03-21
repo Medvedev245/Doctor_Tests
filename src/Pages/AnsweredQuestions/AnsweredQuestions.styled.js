@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
 export const TextPage = styled.h2`
   font-weight: 700;
@@ -43,4 +44,16 @@ export const Answers = styled.div`
 
 export const Answer = styled.div`
   margin-bottom: 10px;
+`;
+
+export const LinkToPage = styled(Link)`
+  border-radius: 4px;
+  text-decoration: none;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  &:hover,
+  &:focus {
+    color: red;
+  }
 `;

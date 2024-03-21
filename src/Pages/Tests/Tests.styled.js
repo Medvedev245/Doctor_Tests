@@ -49,3 +49,15 @@ export const LinkToPage = styled(Link)`
     background: var(--iq-primary);
   }
 `;
+
+export const AnswerBlock = styled.div`
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+`;
+
+export const AnswerControl = styled.div`
+  display: flex;
+  gap: 20px;
+  align-items: center;
+`;
