@@ -2,8 +2,9 @@ import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
 import Klener from '../../Files/ClenerNew.json';
+import Legislativa from '../../Files/Legislativa_Báze_2023.json';
 
-import Olomouc from '../../Files/Clener.json';
+// import Olomouc from '../../Files/Clener.json';
 // import Živný from '../../Files/Clener.json';
 import {
   FormContainer,
@@ -33,8 +34,9 @@ const Home = () => {
       case 'Klener':
         selectedFile = Klener;
         break;
-      case 'Olomouc':
-        selectedFile = Olomouc;
+
+      case 'Legislativa_Báze_2023':
+        selectedFile = Legislativa;
 
         break;
       default:
@@ -64,6 +66,7 @@ const Home = () => {
     event.preventDefault();
 
     const myTests = generateTests(selectedOption1, selectedOption2);
+    console.log(myTests);
     // addState(selectedOption1, selectedOption2, myTests);
     dispatch({
       type: 'ADD_OPTIONS',
@@ -84,7 +87,7 @@ const Home = () => {
           >
             <option value="All">All</option>
             <option value="Klener">Klener</option>
-            <option value="Olomouc">Olomouc</option>
+            <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
           </select>
         </WraperForm>
         <WraperForm>
@@ -99,6 +102,9 @@ const Home = () => {
             <option value="10">10</option>
             <option value="25">25</option>
             <option value="50">50</option>
+            <option value="100">100</option>
+            <option value="120">120</option>
+            <option value="200">200</option>
           </select>
         </WraperForm>
 

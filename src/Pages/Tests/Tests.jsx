@@ -10,8 +10,10 @@ import {
   AnswerControl,
   AnswerBlock,
 } from './Tests.styled';
+import Modal from '../../components/Modal/Modal';
 
 const Tests = () => {
+  const [modalActive, setModalActive] = useState(false);
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [selectedAnswers, setSelectedAnswers] = useState([]);
   const [correctCount, setCorrectCount] = useState(0);
@@ -82,6 +84,16 @@ const Tests = () => {
     setSelectedAnswers([]);
   };
 
+  const openModal = () => {
+    setModalActive(true);
+    document.body.style.overflow = 'hidden';
+  };
+
+  const closeModal = () => {
+    setModalActive(false);
+    document.body.style.overflow = 'auto';
+  };
+
   return (
     <FormTest>
       <FormText>{questions[currentQuestion].question}</FormText>
@@ -105,6 +117,14 @@ const Tests = () => {
           <label>{answer}</label>
         </ContainerCheck>
       ))}
+      <button onClick={openModal}>Показать описание</button>
+      {/* <span>{questions[currentQuestion].img}</span>
+      <img
+        src={questions[currentQuestion].img}
+        alt="myPhoto"
+        width={150}
+        height={150}
+      /> */}
 
       {count <= questions.length ? (
         <AnswerBlock>
@@ -124,6 +144,12 @@ const Tests = () => {
           <LinkToPage to="/">На Главную</LinkToPage>
         </LinkContainer>
       )}
+      <Modal
+        active={modalActive}
+        setActive={setModalActive}
+        closeModal={closeModal}
+        props={questions[currentQuestion]}
+      />
     </FormTest>
   );
 };

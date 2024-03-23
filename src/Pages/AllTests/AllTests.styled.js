@@ -9,5 +9,5 @@ export const List = styled.ul`
 
 export const Item = styled.ul`
   width: 400px;
-  height: 200px;
+  /* height: 500px; */
 `;
