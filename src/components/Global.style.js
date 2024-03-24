@@ -27,6 +27,7 @@ code {
    --iq-primary: rgba(187,154,230, 1);
    --iq-secondary: rgba(250,250,250, 1); 
    --iq-underlining: rgba(187, 154, 230, 0.342);
+   --iq-cross: rgba(88, 5, 143, 1);
 
    //Fonts
    --font-size-mobile: 16px; /* Размер шрифта для мобильных устройств */

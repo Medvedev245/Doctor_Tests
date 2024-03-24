@@ -3,7 +3,6 @@ import styled from 'styled-components';
 export const ModalContainer = styled.div`
   height: 100vh;
   width: 100vw;
-
   background-color: rgba(0, 0, 0, 0.7);
   backdrop-filter: blur(5px);
   position: fixed;
@@ -16,11 +15,49 @@ export const ModalContainer = styled.div`
 `;
 
 export const ModalContent = styled.div`
-  padding: 60px 30px 0 30px;
+  position: relative;
+  padding: 60px 15px 30px 15px;
   border-radius: 12px;
-  background-color: wheat;
+  background-color: var(--iq-secondary);
   width: 75%;
-  height: 500px;
+  height: 700px;
   position: fixed; /* Фиксированная позиция */
   overflow: auto; /* Разрешить прокрутку при необходимости */
+  @media screen and (max-width: 767px) {
+    padding: 60px 30px 30px 30px;
+    height: 550px;
+  }
+`;
+
+export const SvgCloseBtn = styled.button`
+  position: absolute;
+  background: transparent;
+  border: none;
+  right: 14px;
+  top: 14px;
+  cursor: pointer;
+
+  svg {
+    stroke-width: 1.5px;
+    stroke: var(--iq-cross);
+    width: 20px;
+    height: 20px;
+  }
+`;
+
+export const Text = styled.h2`
+  text-align: center;
+  margin-bottom: 15px;
+`;
+
+export const Descr = styled.p`
+  margin-bottom: 40px;
+`;
+
+export const Img = styled.img`
+  // Mobil
+  @media screen and (max-width: 767px) {
+    width: 235px;
+    height: 170px;
+  }
 `;

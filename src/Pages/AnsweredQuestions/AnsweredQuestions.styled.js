@@ -52,6 +52,7 @@ export const LinkToPage = styled(Link)`
   text-align: center;
   display: flex;
   justify-content: center;
+  margin-bottom: 20px;
   &:hover,
   &:focus {
     color: red;

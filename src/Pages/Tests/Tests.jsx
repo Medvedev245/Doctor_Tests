@@ -9,6 +9,8 @@ import {
   LinkToPage,
   AnswerControl,
   AnswerBlock,
+  Answer,
+  ButtonDescr,
 } from './Tests.styled';
 import Modal from '../../components/Modal/Modal';
 
@@ -94,37 +96,40 @@ const Tests = () => {
     document.body.style.overflow = 'auto';
   };
 
+  // console.log(questions[currentQuestion].description);
+
   return (
     <FormTest>
-      <FormText>{questions[currentQuestion].question}</FormText>
-      {questions[currentQuestion].answers.map((answer, index) => (
-        <ContainerCheck
-          key={index}
-          style={{
-            backgroundColor:
-              addColor &&
-              questions[currentQuestion].correctAnswers.includes(answer)
-                ? '#1fa01f6f'
-                : '',
-          }}
-        >
-          <input
-            type="checkbox"
-            checked={selectedAnswers.includes(answer)}
-            onChange={() => handleAnswerSelect(answer)}
-            style={{ width: '20px', height: '20px' }}
-          />
-          <label>{answer}</label>
-        </ContainerCheck>
-      ))}
-      <button onClick={openModal}>Показать описание</button>
-      {/* <span>{questions[currentQuestion].img}</span>
-      <img
-        src={questions[currentQuestion].img}
-        alt="myPhoto"
-        width={150}
-        height={150}
-      /> */}
+      <Answer>
+        <FormText>{questions[currentQuestion].question}</FormText>
+        {questions[currentQuestion].answers.map((answer, index) => (
+          <ContainerCheck
+            key={index}
+            style={{
+              backgroundColor:
+                addColor &&
+                questions[currentQuestion].correctAnswers.includes(answer)
+                  ? '#1fa01f6f'
+                  : '',
+            }}
+          >
+            <input
+              type="checkbox"
+              checked={selectedAnswers.includes(answer)}
+              onChange={() => handleAnswerSelect(answer)}
+              style={{ width: '20px', height: '20px' }}
+            />
+            <label>{answer}</label>
+          </ContainerCheck>
+        ))}
+
+        {questions[currentQuestion].book &&
+          questions[currentQuestion].book[0] === 'Klener' &&
+          questions[currentQuestion].description &&
+          questions[currentQuestion].description[0] !== '' && (
+            <ButtonDescr onClick={openModal}>Show Description</ButtonDescr>
+          )}
+      </Answer>
 
       {count <= questions.length ? (
         <AnswerBlock>

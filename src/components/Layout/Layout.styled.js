@@ -20,7 +20,8 @@ export const MainContainer = styled.main`
 
   // Mobil
   @media screen and (max-width: 767px) {
-    width: 350px;
+    width: 315px;
     font-size: var(--font-size-mobile);
+    padding: 40px 15px 0 15px;
   }
 `;
