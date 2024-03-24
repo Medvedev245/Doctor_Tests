@@ -25,7 +25,8 @@ const Tests = () => {
 
   const dispatch = useDispatch();
   const questions = useSelector(state => state.testsReducer.questions);
-
+  console.log(correctCount);
+  console.log(myCorrectAnswers);
   const handleAnswerSelect = answer => {
     if (selectedAnswers.includes(answer)) {
       setSelectedAnswers(
@@ -79,7 +80,7 @@ const Tests = () => {
           payload: { myCorrectAnswers },
         });
       }
-
+      console.log(correctCount);
       alert(`Правильных ответов - ${correctCount} из ${questions.length}`);
     }
 
@@ -124,11 +125,12 @@ const Tests = () => {
         ))}
 
         {questions[currentQuestion].book &&
-          questions[currentQuestion].book[0] === 'Klener' &&
-          questions[currentQuestion].description &&
-          questions[currentQuestion].description[0] !== '' && (
-            <ButtonDescr onClick={openModal}>Show Description</ButtonDescr>
-          )}
+        questions[currentQuestion].book[0] === 'Klener'
+          ? null
+          : questions[currentQuestion].description &&
+            questions[currentQuestion].description[0] !== '' && (
+              <ButtonDescr onClick={openModal}>Show Description</ButtonDescr>
+            )}
       </Answer>
 
       {count <= questions.length ? (

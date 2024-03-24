@@ -28,13 +28,21 @@
 //                     {renderAnswer(answer, test.correctAnswers.includes(answer))}
 //                   </li>
 //                 ))}
-//                 <span>{test.img}</span>
-//                 <img
-//                   src={test.img[0]}
-//                   alt="myPhoto"
-//                   width="150px"
-//                   height={150}
-//                 />
+//                 <p>{test.description}</p>
+//                 <ul>
+//                   {test.img.map(image => {
+//                     return (
+//                       <li>
+//                         <img
+//                           src={image}
+//                           alt="myPhoto"
+//                           width={150}
+//                           height={150}
+//                         />
+//                       </li>
+//                     );
+//                   })}
+//                 </ul>
 //               </ul>
 //             </Item>
 //           ))}

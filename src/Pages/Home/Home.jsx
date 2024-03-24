@@ -13,6 +13,7 @@ import {
   ChoosenElement,
 } from './Home.styled';
 import { Button } from 'Pages/Tests/Tests.styled';
+import Bases from 'components/Bases/Bases';
 
 const Home = () => {
   const [selectedOption1, setSelectedOption1] = useState('');
@@ -118,7 +119,7 @@ const Home = () => {
       <ChoosenElement>
         Выбрано - {selectedOption1} {selectedOption2}
       </ChoosenElement>
-      <p>На данный момент на сайте есть базы: Klener(5135 tests)</p>
+      <Bases />
     </>
   );
 };

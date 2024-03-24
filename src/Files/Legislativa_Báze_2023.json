@@ -42,47 +42,996 @@
     ]
   },
   {
-    "question": "Legislativa_Báze_2023",
+    "question": "3. Druhy/typy intervence. Z hlediska cílových skupin lze intervence v podpoře zdraví rozdělit na:",
     "answers": [
-      "Legislativa_Báze_2023",
-      "Legislativa_Báze_2023",
-      "Legislativa_Báze_2023",
-      "Legislativa_Báze_2023",
-      "Legislativa_Báze_2023"
+      "Individuální",
+      "Skupinové",
+      "Komunitní a plošná",
+      "individuální a skupinové"
     ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["může"],
+    "correctAnswers": ["individuální a skupinové"],
+    "description": [
+      " Podle lekce Maliny : lepe brát individuální a skupinové Cílové skupiny a typy intervencí • Individuální intervence: zaměřují se na jednotlivce s cílem snížit nebo eliminovat zdravotní rizika a podpořit správný životní styl. Sem patří především poradenství v podpoře zdraví. Výhodou individuální intervence je možnost přesného zacílení podle konkrétních zdravotních rizik dané osoby např. na kouření, nadváhu, stres.... Nevýhodou je časová a personální náročnost těchto intervencí. • Skupinové intervence: jsou zaměřené na sociální skupiny, např. třídu, rodiny, seniorské skupiny, zaměstnance daného podniku, minoritní skupiny atd. Vychází z předpokladu, že sociální skupina je vystavena obdobným zdravotním rizikům nebo žije obdobným životním stylem, čili je možné efektivně použít shodné intervenční strategie. Tento předpoklad je u dané skupiny vhodné před zahájením přípravy intervenčního programu ověřit (např. dotazníkovým šetřením). Jsou-li skupinové intervence dobře cílené, jedná se o velmi efektivní nástroj podpory zdraví, protože lze využít i skupinovou dynamiku, zahrnující vzájemnou podporu členů, soutěživost apod. Příkladem skupinových intervencí jsou kurzy snižování nadváhy, tzv. Školy zad pro osoby se sedavým zaměstnáním atd. • Komunitní a plošné intervence: jsou zaměřené na větší skupiny, obývající určitá území nebo na všechny občany obecně. Takto zaměřené intervence vychází z analýz zdravotního stavu obyvatelstva, žijícího na daném území. Z toho vyplývá, že se zaměřují na hlavní zdravotní rizika, která jsou na území zjištěna. Jsou obvykle organizačně náročnější a vyžadují dobré řízení, aby byl zajištěn shodný průběh a dopad ve všech lokalitách, kde se realizují. Příkladem jsou třeba celostátní postupy v boji proti kouření atd."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "4. Demografie – je",
+    "answers": [
+      "Věda, která se zabývá výpočtem, strukturou, vývojem a správností populačního vývoje. Úkolem je studovat proces reprodukce populace",
+      "testování demo-verzi počítačových program"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Věda, která se zabývá výpočtem, strukturou, vývojem a správností populačního vývoje. Úkolem je studovat proces reprodukce populace"
+    ],
     "description": [""],
     "img": [""]
   },
   {
-    "question": "Legislativa_Báze_2023",
+    "question": "5. Co zahrnuje demografie?",
     "answers": [
-      "Legislativa_Báze_2023",
-      "Legislativa_Báze_2023",
-      "Legislativa_Báze_2023",
-      "Legislativa_Báze_2023",
-      "Legislativa_Báze_2023"
+      "zabývá se výpočtem, strukturou, vývojem a správností populačního vývoje"
     ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["může"],
+    "correctAnswers": [
+      "zabývá se výpočtem, strukturou, vývojem a správností populačního vývoje"
+    ],
     "description": [""],
     "img": [""]
   },
   {
-    "question": "Legislativa_Báze_2023",
+    "question": "6. Demografické trendy demografického vývoje obyvatelstva",
     "answers": [
-      "Legislativa_Báze_2023",
-      "Legislativa_Báze_2023",
-      "Legislativa_Báze_2023",
-      "Legislativa_Báze_2023",
-      "Legislativa_Báze_2023"
+      "snížení úmrtnosti, snížení plodnosti, prodloužení střední očekávané délky života, očekávaný dlouhodobý pokles porodnosti",
+      "stárnutí populace, pokles celkového počtu, pokles ekonomicky aktivní části populace(obyvatelstva). Stárnutí se zvýšilo o 8% *nebylo",
+      "očekávaný dlouhodobý pokles porodnosti",
+      "snížení úmrtnosti"
     ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["může"],
+    "correctAnswers": [
+      "snížení úmrtnosti, snížení plodnosti, prodloužení střední očekávané délky života, očekávaný dlouhodobý pokles porodnosti",
+      "stárnutí populace, pokles celkového počtu, pokles ekonomicky aktivní části populace(obyvatelstva). Stárnutí se zvýšilo o 8% *nebylo",
+      "očekávaný dlouhodobý pokles porodnosti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "7. Co způsobuje stárnutí populace?",
+    "answers": [
+      "prodloužený pokles porodnosti a prodloužena délka života",
+      "zvýšení průměrné délky života",
+      "očekávaný pokles porodnosti, pokles úmrtnosti",
+      "trvalý pokles porodnosti"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "prodloužený pokles porodnosti a prodloužena délka života",
+      "zvýšení průměrné délky života",
+      "očekávaný pokles porodnosti, pokles úmrtnosti"
+    ],
+    "description": [
+      "Malina: Zakladní rysy demografického vyvoje. Způsobuje stárnutí populace: očekávaný dlouhodobý pokles porodnosti, snížení umrtnosti, starnuti populace. ** prodloužení délky žívota to i je sníženi úmrtnosti, jak nasledek stárnutí populace"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "8. Standardizovaná úmrtnost, co to je?",
+    "answers": [
+      "vylučuje rozdíl mezi různými věkovými skupinami srovnávanými v souhrnu a podobně. Metoda standardizace, používá se pro odstranění zkreslujícího vlivu věkové struktury",
+      "metoda, která se používá pro odstranění zkreslujícího vlivu diagnóz"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "zabývá se výpočtem, strukturou, vývojem a správností populačního vývoje"
+    ],
+    "description": [
+      "*uvažuje pouze celkové počty zemřelých bez ohledu na zastoupení jednotlivých věkových skupin v populaci."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "9. Počet zemřelých dětí do 7 dnů po porodu a dětí mrtvě porozených na 1000 živě narozených dětí je? (Тут би мало бути на всіх?)",
+    "answers": [
+      "Perinatální úmrtnost",
+      "Kojenecká úmrtnost",
+      "Mortinatalita",
+      "Novorozenecká úmrtnost"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Perinatální úmrtnost"],
+    "description": [
+      "* Úmrtnost do 1. dne − ve věku 0. dne (24 hodin)(v roce 2016 0,5 ‰[1]). 1-Poporodní úmrtnost − do 3 dnů, tj. ve věku 0–2 ukončených dnů (v roce 2016 0,76 ‰[1]). 2-Novorozenecká úmrtnost − počet zemřelých do stáří 28 dnů na 1000 živě narozených по Малине 1,7 ‰. 3-Časná (рання) novorozenecká úmrtnost − novorozenci zemřelí do 7 dnů po porodu (v roce 2016 1,18 ‰[1]) . 4-Pozdní novorozenecká úmrtnost − novorozenci zemřelí od 8. do 28. dne po porodu (v roce 2016 0,52 ‰[1]). 5-Ponovorozenecká úmrtnost – od 29 dnů do 1 roku, tj. 28–364 ukončených dnů (v roce 2016 1,1 ‰[1]). 6-Kojenecká úmrtnost − zemřelé děti do 1 roku (dosahuje v České republice dlouhodobě velmi nízkých hodnot − v roce 2016 2,81 ‰[1]). 7-Perinatální úmrtnost − počet plodů mrtvě narozených a zemřelých do 7 dnů po porodu na 1000 narozených dětí (v roce 2016 4,89 ‰[1]). 8-Rektifikovaná perinatální úmrtnost − počet zemřelých plodů nad 1000 g. 9-Očištěná perinatální úmrtnost − bez vrozených vývojových vad. 10-Mrtvorozenost − vyjadřuje počet mrtvě narozených dětí připadající na 1 000 všech narozených dětí (tj. živě i mrtvě narozených). (v roce 2016 3,7 ‰[1]) ▪Rektifikovaná perinatální úmrtnost − počet zemřelých plodů nad 1000 g Perinatální úmrtnost (uváděná v jednotkách promile – ‰), tedy počet mrtvorozených a zemřelých do 7. dne po porodu na 1000 živě i mrtvě narozených, je vskutku dobrým indikátorem úrovně prenatální, perinatální a neonatální péče. Ve světovém měřítku"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "10. Perinatální úmrtnost",
+    "answers": [
+      "počet zemřelých dětí do 7 dnů po porodu a dětí mrtvě porozených na 1000 živě narozených dětí. (všech)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "počet zemřelých dětí do 7 dnů po porodu a dětí mrtvě porozených na 1000 živě narozených dětí. (všech)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "11. Novorozenecká úmrtnost, co to je?",
+    "answers": [
+      "poměr mrtvých dětí do/za 28 dnů až na 1000 živě narozených dětí",
+      "poměr mrtvých dětí do/za 28 dnů na všech narozených"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "poměr mrtvých dětí do/za 28 dnů až na 1000 živě narozených dětí"
+    ],
+    "description": [
+      "Додаткові варіанти звучали: - první 7 dnů na 1000 živých dětí"
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczMiaLe_at3DzZ-z_dcJfmfhVc1sgOpU6wiu30KxzItoJJqEqV8BsHE-HD4YnIVK6D6u_pR2BDvjZ7sHmdqxrRs_-cZHS0GE_aDXa-i-fushLxYYpAThmbrA2xooDNx3ysnfTZvI3PXTBYa-xID0B5jw=w489-h249-s-no-gm?authuser=0",
+      "https://lh3.googleusercontent.com/pw/AP1GczNvOCdsvr2Z2lURJEgP8pjNObuaYfCduRkQ_TqI6UQQB0oN4t8kpGJIQkLBuS1c-Vc7nIaPXl62RoZzGANhKa4EzZYX-VBXPk1iG6H20Pe1KaQt2pxc4SaLAp8t9jNXYRIMU0AS_HGlqDU5bniwlgo7=w435-h278-s-no-gm?authuser=0"
+    ]
+  },
+  {
+    "question": "12. Kde je v ČR nejvyšší novorozenecká úmrtnost? / Kde je novorozenecká úmrtnost?",
+    "answers": [
+      "v regionu s nejvyšší nezaměstnanosti",
+      "Dětská úmrtnost je vyšší v regionech s nízkou zaměstnaností (nezaměstnanost) obyvatelstva (Ústecký kraj), politická destabilizace",
+      "na Moravě",
+      "v Praze"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "v regionu s nejvyšší nezaměstnanosti",
+      "Dětská úmrtnost je vyšší v regionech s nízkou zaměstnaností (nezaměstnanost) obyvatelstva (Ústecký kraj), politická destabilizace"
+    ],
+    "description": [
+      "* Dětská úmrtnost je vyšší v regionech s nízkou zaměstnaností (nezaměstnanost) obyvatelstva (Ústecký kraj), politická destabilizace"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "13. Časná novorozenecká úmrtnost?",
+    "answers": ["první týden (7 dnů) na 1000 živých dětí"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["první týden (7 dnů) na 1000 živých dětí"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "14. Nejnižší novorozenecká úmrtnost?",
+    "answers": ["Irsko, Španělsko, Švédsko"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Irsko, Španělsko, Švédsko"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "15. Mrtvě narozené dítě - to je?",
+    "answers": [
+      "starší než 28 týdnů, váha 1000 a více g, bez známek života",
+      "hmotnost 500 g a více, bez známek života a (22) 24 celých týdnů"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "hmotnost 500 g a více, bez známek života a (22) 24 celých týdnů"
+    ],
+    "description": [
+      "Zákon č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách), účinný od 1. 4. 2012: 1-Za živě narozené dítě se považuje plod, bez ohledu na délku těhotenství, který po narození dýchá nebo projevuje alespoň jednu ze známek života, to je srdeční činnost, pulsaci pupečníku nebo nesporný pohyb kosterního svalstva bez ohledu na to, zda byl pupečník přerušen nebo placenta připojena. 2-Za mrtvě narozené dítě se považuje plod, který neprojevuje ani jednu známku života a má porodní hmotnost 500 gramů a vyšší, nelze-li porodní hmotnost určit, narozený po 22. dokončeném týdnu těhotenství, a nelze-li délku těhotenství určit, nejméně 25 cm dlouhý. 3-Pokud plod, neprojevující žádnou známku života, váží méně než 500 g, a pokud ji nelze zjistit, je-li těhotenství kratší než 22 týdnů, je ukončení těhotenství považováno za potrat."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "16. Kojenecká úmrtnost, co to je? 2016?",
+    "answers": [
+      "počet dětí, které zemřely do 365 dnů (roku) na 1000 živě narozených dětí✅ 2016- 1,7 ‰ , 2018-  2.8  ‰, 2020- 2,3 ‰, 2021- 2,56  ‰",
+      "do roku na 1000 všech narozených děti",
+      "do roku na 100 živě narozených dítě",
+      "do roku na 100000 živě narozených děti"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "počet dětí, které zemřely do 365 dnů (roku) na 1000 živě narozených dětí✅ 2016- 1,7 ‰ , 2018-  2.8  ‰, 2020- 2,3 ‰, 2021- 2,56  ‰"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "17. Klesla-li v České republice kojenecká úmrtnost, o kolik? / Kojenecká úmrtnost v ČR od roku 1989:",
+    "answers": ["klesla o 7,6 promile", "6 promilí ", "3 promilí", "5 promilí"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["klesla o 7,6 promile"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "18. Mateřská mortalita, co je to?  (V ČR kolem 10 na 100 000)",
+    "answers": [
+      "počet mrtvých těhotných žen při porodu a do 42 dnů (šestinedělí) po porodu na 100 000 živě narozených dětí",
+      "počet mrtvých těhotných žen při porodu a do 42 dnů (šestinedělí) po porodu na 100 000 narozených dětí"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "počet mrtvých těhotných žen při porodu a do 42 dnů (šestinedělí) po porodu na 100 000 živě narozených dětí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "19. Ve stáří je intenzita úmrtnosti u žen? / Úroveň úmrtnosti u žen ve stáří:",
+    "answers": ["nižší (než u mužů)"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["nižší (než u mužů)"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "20. Nejvyšší míra úmrtnosti - 3 země v pořadí od nejvyšších",
+    "answers": ["Dospělí - Litva, Bulharsko, Rumunsko"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Dospělí - Litva, Bulharsko, Rumunsko"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "21. Nejnižší míra úmrtnosti (nejdelší délka života v EU)?",
+    "answers": [
+      "Francie, Španělsko - ženy (podle nové přednášky nyní Francie)",
+      "Island, Švýcarsko - muži (nyní Island)",
+      "kojenecká – Island (nyní Lucembursko, v testech jsou Island a Finsko)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Francie, Španělsko - ženy (podle nové přednášky nyní Francie)",
+      "Island, Švýcarsko - muži (nyní Island)",
+      "kojenecká – Island (nyní Lucembursko, v testech jsou Island a Finsko)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "22. Jaká je střední délka života mužů v ČR narozených v 2016? / Naděje dožíti mužu narozených v 2016?",
+    "answers": ["76.3", "77"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["76.3"],
+    "description": ["střední očekávána délka života při narození"],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczML8KHj3OjO8h6qxljAOkI1OJ89qp9evUQp8YeVj9LWSKz4MXgLmPXloKozfipcKD1aa0QvJF_a6cr7s3_4Xs81TpD5Ie_vOG72L7Z1N84Ya_o9IRtyiR_FA5Lu3VSQTXZnEuS4CL2-1n4cHaR-fooY=w455-h288-s-no-gm?authuser=0"
+    ]
+  },
+  {
+    "question": "23. Střední naděje dožití žen narozených v 2016?",
+    "answers": ["82.1", "83.3", "82.6"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["82.1"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "24. Střední očekávaná délka života je",
+    "answers": [
+      "průměrná délka života novorozence očekávaná na základě trendů úmrtnosti v okamžiku jeho narození"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "průměrná délka života novorozence očekávaná na základě trendů úmrtnosti v okamžiku jeho narození"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "25. Očekávaná délka života mužů narozených mezi 1989 a 2013?",
+    "answers": [
+      "stoupla o 7 let",
+      "1 rok",
+      "stejná úroveň",
+      "asi 13 let",
+      "stoupla o 2 roky"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["stoupla o 7 let", "počet"],
+    "description": ["*або 8.2"],
+    "img": [""]
+  },
+  {
+    "question": "26. Očekávaná délka života mužů narozených mezi 1950 a 2013?",
+    "answers": ["2 roky", "1 rok", "Stejna", "Změnila se o 13 let"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Změnila se o 13 let"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "27. Změna délky života mužů",
+    "answers": ["mírně klesla", "Stoupla", "Klesla", "Mírně stoupla"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Mírně stoupla"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "28. Dětská úmrtnost v chudých rodinách za poslední 20 let v České Republice:",
+    "answers": ["velmi nízká"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["velmi nízká"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "29. Úroveň úmrtnosti na vnější (zevní) příčiny za poslední 10 let:",
+    "answers": ["zůstává stejnou"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["zůstává stejnou"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "30. Čistá míra reprodukce",
+    "answers": [
+      "počet děvčat narozených v průměru jedné ženě, které se dožijí věku matky v době porodu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "počet děvčat narozených v průměru jedné ženě, které se dožijí věku matky v době porodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "31. Hrubá míra reprodukce",
+    "answers": [
+      "udává počet dívek, které by se průměrně narodily jedné ženě v dané populaci v průběhu jejího reprodukčního období za předpokladu zachovaní plodnosti žen podle věku, zjištěné v daném kalendářním roce"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "udává počet dívek, které by se průměrně narodily jedné ženě v dané populaci v průběhu jejího reprodukčního období za předpokladu zachovaní plodnosti žen podle věku, zjištěné v daném kalendářním roce"
+    ],
+    "description": [
+      "Hrubá míra reprodukce-(приблизний темп відновлення)- скільки б дівчаток народила одна жінка протягом свого репродуктивного віку."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "32. Epidemiologie, co to je?",
+    "answers": [
+      "věda, která zkoumá příčiny a pravidelnosti šíření onemocnění hromadného projevu a klinicky nebezpečných onemocnění ve spojení s faktory, které tomu přispívají za účelem preventivních opatření",
+      "studuje rozložení a determinanty stavů a událostí majících vztah ke zdraví v určených populačních skupinách a využívá výsledků tohoto studia ke zvládání zdravotních problémů"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "věda, která zkoumá příčiny a pravidelnosti šíření onemocnění hromadného projevu a klinicky nebezpečných onemocnění ve spojení s faktory, které tomu přispívají za účelem preventivních opatření",
+      "studuje rozložení a determinanty stavů a událostí majících vztah ke zdraví v určených populačních skupinách a využívá výsledků tohoto studia ke zvládání zdravotních problémů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "33. Prioritní úkol epidemiologie?",
+    "answers": [
+      "sledování šíření epidemií",
+      "měření frekvence onemocnění",
+      "studium příčin a pravidelností výskytu onemocnění",
+      "provádění nevyslovených pozorování"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["studium příčin a pravidelností výskytu onemocnění"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "34. Metody epidemiologie?",
+    "answers": ["popisné hodnocení, experimentální, analytické, prognostické"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "popisné hodnocení, experimentální, analytické, prognostické"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "35. Epidemie, co to je?",
+    "answers": [
+      "početní a postupující v čase a prostoru šíření infekčních onemocnění mezi lidmi, které výrazně překračují obvyklý výskyt onemocnění"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "početní a postupující v čase a prostoru šíření infekčních onemocnění mezi lidmi, které výrazně překračují obvyklý výskyt onemocnění"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "36. Kdo je poskytovatelem? § 2 č. 372/2011",
+    "answers": [
+      "fyzická nebo právnická osoba, která má oprávnění k poskytování zdravotních služeb",
+      "fyzická  osoba, která má oprávnění k poskytování zdravotních služeb",
+      "fyzická nebo právnická osoba, která má povolení k poskytování zdravotních služeb, které udělal krajský úřad",
+      "poskytovatel zdravotních služeb je fyzická nebo právnická osoba, která splňuje podmínky pro oprávnění k poskytování zdravotních služeb podle zákona"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "fyzická nebo právnická osoba, která má oprávnění k poskytování zdravotních služeb"
+    ],
+    "description": [
+      "372 zákon §2. (1)Poskytovatelem zdravotních služeb se rozumí fyzická nebo právnická osoba, která má oprávnění k poskytování zdravotních služeb podle tohoto zákona. Тут один варіант був тільки про фізичну особу, три інші включали фізичну та правніцку. Читати уважно - правильна там де - fyzická nebo právnická osoba, KTERÁ MÁ oprávnění k poskytování zdravotních služeb"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "37. Kdo může být poskytovatelem zdravotních služeb?",
+    "answers": [
+      "způsobilý k výkonu zdravotních služeb podle zákonu o zdravotních službách 372/2011"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "způsobilý k výkonu zdravotních služeb podle zákonu o zdravotních službách 372/2011"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "38. O udělání oprávnění k poskytování zdravotních služeb zdravotním zařízením, kromě zřízených Ministerstvem obrany nebo Ministerstvem spravedlnosti nebo Ministerstvem vnitra, rozhoduje:",
+    "answers": [
+      "krajský úřad, kde se ta zdravotní zařízení nachází i kde ty služby budou poskytovány"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "krajský úřad, kde se ta zdravotní zařízení nachází i kde ty služby budou poskytovány"
+    ],
+    "description": [
+      "372 zákon OPRÁVNĚNÍ K POSKYTOVÁNÍ ZDRAVOTNÍCH SLUŽEB - § 15 Působnost správních orgánů (1) O udělení oprávnění k poskytování zdravotních služeb rozhoduje. a) krajský úřad, v jehož správním obvodu je zdravotnické zařízení, v němž budou zdravotní služby poskytovány, b) Ministerstvo obrany nebo Ministerstvo spravedlnosti, jde-li o zdravotní služby poskytované ve zdravotnických zařízeních zřízených těmito ministerstvy, s výjimkou oprávnění podle § 16 odst. 2, nebo. c) Ministerstvo vnitra, jde-li o zdravotní služby poskytované ve zdravotnických zařízeních zřízených tímto ministerstvem nebo ve zdravotnických zařízeních zřízených Úřadem pro zahraniční styky a informace nebo Bezpečnostní informační službou, s výjimkou oprávnění podle § 16 odst. 2,(dále jen „příslušný správní orgán“)."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "39. Kdo vydává oprávnění k poskytovaní zdravotních služeb?",
+    "answers": [
+      "krajsky úřad",
+      "obecný úřad",
+      "Ministerstvo zdravotnictví",
+      "fakultní nemocnice"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["krajsky úřad"],
+    "description": [
+      "372 zákon § 16 j) Ministerstvo zdravotnictví (dále jen „ministerstvo“) vydalo souhlas s poskytováním lázeňské léčebně rehabilitační péče, jde-li o poskytování této péče"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "40. Oprávnění k poskytování zdravotních služeb může být odejmuto u právnické osoby v případě: (Дозвіл на надання медичних послуг може бути відкликано в юридичної особи у разі:)",
+    "answers": [
+      "při nepřítomnosti pojištění v případě odpovědnosti za škodu způsobenou pacientovi při poskytování zdravotních služeb"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "při nepřítomnosti pojištění v případě odpovědnosti za škodu způsobenou pacientovi při poskytování zdravotních služeb"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "41. Jaké údaje poskytovatel musí nahlašovat příslušnému správnímu orgánu v případě jejich změny? (Які дані надавач повинен повідомити відповідному адміністративному органу у разі зміни?)",
+    "answers": [
+      "osobní informace: změna rodinného stavu poskytovatele",
+      "změna formy poskytování služeb",
+      "změna množství pacientů",
+      "změnu adresy místa poskytování služeb",
+      "Registrace pacientu",
+      "Změnu registrace",
+      "počet mrtvých a narozených za rok"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "změnu adresy místa poskytování služeb",
+      "změna formy poskytování služeb"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "42. Za kolik dnů musí poskytovatel zdravotních služeb nahlásit o změně některých údajů příslušnému správnímu orgánu? / Oznamování změn poskytovatelem:",
+    "answers": ["10", "15 dnů", "30", "60"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["15 dnů"],
+    "description": [
+      "Předpis č. 372/2011 Sb. Oznamování změn poskytovatelem - (1) Poskytovatel je povinen, nejde-li o postup podle § 20a, písemně oznámit příslušnému správnímu orgánu změny týkající se údajů uvedených v rozhodnutí o udělení oprávnění k poskytování zdravotních služeb a dále všechny změny týkající se údajů v dokladech předkládaných se žádostí o udělení oprávnění a předložit o těchto změnách doklady, pokud mohou být důvodem pro pozastavení, změnu, zrušení nebo zánik oprávnění. Poskytovatel je dále povinen písemně oznámit správnímu orgánu, který vydal souhlas, povolení nebo jiné rozhodnutí nebo závazné stanovisko jako podklad pro rozhodnutí o udělení oprávnění k poskytování zdravotních služeb, všechny změny týkající se těchto rozhodnutí nebo závazného stanoviska, pokud mohou být důvodem pro jejich změnu, zrušení nebo odejmutí. Správní orgán, který vydal souhlas, povolení nebo jiné rozhodnutí nebo závazné stanovisko jako podklad pro rozhodnutí o udělení oprávnění k poskytování zdravotních služeb, neprodleně oznámí příslušnému správnímu orgánu jejich změnu, odnětí nebo zrušení. (2) Poskytovatel je povinen změny podle odstavce 1 oznámit do 15 dnů ode dne, kdy se o nich dozvěděl. (3) Týká-li se změna údaje, který není uveden v rozhodnutí o udělení oprávnění k poskytování zdravotních služeb a jsou-li nadále splněny podmínky pro poskytování zdravotních služeb, provede příslušný správní orgán o této změně záznam do spisu. V ostatních případech rozhodne příslušný správní orgán podle okolností o změně, pozastavení nebo o odejmutí oprávnění k poskytování zdravotních služeb. Rozhodnutí o změně oprávnění k poskytování zdravotních služeb podle věty druhé může být prvním úkonem v řízení."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "43. Za co odpovídá poskytovatel zdravotních služeb? / Jaké existují druhy odpovědnosti?",
+    "answers": [
+      "občansko-právní odpovědnost (újma na zdraví, škoda na vnesených a odložených věcech, porušení práva na ochranu osobnosti)",
+      "správní odpovědnost (porušení předpisů)",
+      "trestní odpovědnost"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "občansko-právní odpovědnost (újma na zdraví, škoda na vnesených a odložených věcech, porušení práva na ochranu osobnosti)",
+      "správní odpovědnost (porušení předpisů)",
+      "trestní odpovědnost"
+    ],
+    "description": [
+      "цивільно-правова відповідальність (шкода здоров'ю, пошкодження внесених і залишених речей, порушення права на захист особистості)"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "44. Za co nese odpovědnost poskytovatel zdravotní služby",
+    "answers": [
+      "zhoršení stavu nemocného",
+      "smrt pacienta",
+      "non Lege Artis *postup",
+      "za vyléčení",
+      "za úsilí"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["non Lege Artis *postup"],
+    "description": [
+      "* poskytovatel zdravotních služeb nese zodpovědnost za postup non Lege Artis nikoliv za výsledek. Smrt a zhoršení stavu pacienta jsou výsledky postupu.*Non lege Artis* znamená v překladu z latiny *ne podle zákona a pravidel*. Tento výraz se používá pro popis činnosti nebo postupu, který neodpovídá předepsaným zákonným nebo etickým standardům. Může se jednat o nedostatečně propracovaný postup, který může být nebezpečný pro pacienta nebo zákazníka, nebo o způsob jednání, který je nezákonný nebo nepoctivý. V každém případě je použití tohoto výrazu spojeno s nesprávným chováním nebo jednáním, které není v souladu s předepsanými standardy."
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczM2gyZIkyvZBirGF3fXRilXx3OFTAFqIcjZR-4bHALbWTh2T222VU6_xDszPvIU3Iv9maxgH7fReAkxGR4744EndBrmUyVbFbGh4mLFRCs_suhpKB7Fiu0xURHSfd85c6z0smgODiy7pWOXf3pISdsE=w530-h278-s-no-gm?authuser=0"
+    ]
+  },
+  {
+    "question": "45. Základní práva a povinnosti pacienta a poskytovatele lékařských služeb podle zákona / Jaký zákon řídí vztah mezi pacientem a poskytovatelem? / Jaký zákon popisuje práva pacienta?",
+    "answers": [
+      "372/2011 Zákon o zdravotních službách a podmínkách jejich poskytování",
+      "Úmluva"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "372/2011 Zákon o zdravotních službách a podmínkách jejich poskytování"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "46. Jaký dokument vyplňuje registrující lékař při první schůzce? / Při registraci pacienta do primární péče:",
+    "answers": ["musí dostat osvědčení o registraci - registrační list"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["musí dostat osvědčení o registraci - registrační list"],
+    "description": [
+      "372/2011 § 3(5) Registrujícím poskytovatelem se rozumí poskytovatel ambulantní péče v oboru všeobecné praktické lékařství, v oboru praktické lékařství pro děti a dorost, v oboru zubní lékařství nebo v oboru gynekologie a porodnictví, který přijal pacienta do péče za účelem poskytnutí primární ambulantní péče; registrující poskytovatel je povinen při přijetí pacienta do péče vyplnit registrační list, který pacient podepíše. V případě, že u poskytovatele uvedeného ve větě první poskytuje zdravotní služby více lékařů, je pacient zaregistrován ke konkrétnímu lékaři."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "47. Jak často pojištěný muže si změnit poskytovatele zdravotních služeb?",
+    "answers": [
+      "jednou za měsíc",
+      "1x3 měsíce",
+      "1x6 měsíců",
+      "1x12 měsíců (rok)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["1x3 měsíce"],
+    "description": [
+      "Pojištěnec má právo b) na výběr poskytovatele zdravotních služeb na území České republiky (dále jen „poskytovatel“), který je ve smluvním vztahu k příslušné zdravotní pojišťovně, a na výběr zdravotnického zařízení tohoto poskytovatele; v případě registrujícího poskytovatele může toto právo uplatnit jednou za 3 měsíce, 48/1997 Sb. Zákon o veřejném zdravotním pojištěníwww.zakonyprolidi.cz "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "48. Je-li lékaře soudí za lékařskou chybu? (neúplná otázka)",
+    "answers": [
+      "Rozhodnutí uděluje soud, dokud se lékař neprohlásí",
+      "Je-li vina lékaře plně dokázána, ale on se brání a snaží se dokázat, že neexistuje jiný způsob, jak to udělat"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["počet", "počet"],
+    "description": [
+      "*myslíme, že tady jde o lékařské chybě a ČLK udělala sankce proti lékaře. Lékař muže podat proti řízení ČLK apelace v soud."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "49. Poskytovatel zdravotní péče (služeb) je povinen dle zákona č. 48/1997 Sb):",
+    "answers": [
+      "informovat o ceně poskytovaných zdravotních služeb nehrazených nebo částečně hrazených z veřejného zdravotního pojištění a o způsobu jejich úhrady, pokud to zdravotní stav pacienta umožňuje"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "informovat o ceně poskytovaných zdravotních služeb nehrazených nebo částečně hrazených z veřejného zdravotního pojištění a o způsobu jejich úhrady, pokud to zdravotní stav pacienta umožňuje"
+    ],
+    "description": ["Práva a povinnosti poskytovatele § 45"],
+    "img": [""]
+  },
+  {
+    "question": "50. Co to je nemoc?",
+    "answers": [
+      "Stav organismu vznikající působením zevních či vnitřních okolností narušujících jeho správné fungování a rovnováhu. Nemoc je souhrn reakcí organismu na poruchu rovnováhy mezi ním a prostředím. Nemoc postihuje i okolí nemocného člověka. Vyvstává nutnost péče, dochází ke změnám v životním rytmu rodiny, může docházet k ekonomickým problémům. Nemoc je vždy doprovázena subjektivními pocity, individuálními prožitky"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Stav organismu vznikající působením zevních či vnitřních okolností narušujících jeho správné fungování a rovnováhu. Nemoc je souhrn reakcí organismu na poruchu rovnováhy mezi ním a prostředím. Nemoc postihuje i okolí nemocného člověka. Vyvstává nutnost péče, dochází ke změnám v životním rytmu rodiny, může docházet k ekonomickým problémům. Nemoc je vždy doprovázena subjektivními pocity, individuálními prožitky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "51. Prevalence, co to je? Поширеність",
+    "answers": [
+      "počet případů, například příznaků choroby nebo jiného stavu, v populaci v určitém období",
+      "zkoumá rizika a přítomnost chyb v klinické praxi"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "počet případů, například příznaků choroby nebo jiného stavu, v populaci v určitém období"
+    ],
+    "description": [
+      "PREVALENCE nemoci je počet případů v dané populaci v určitém okamžiku;"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "52. Incidence ",
+    "answers": [
+      "počet nových případů onemocnění za určité časové období (nejčastěji za rok) vztažený na populační jednotku (nejčastěji 100.000 obyvatel)",
+      "Incidence – podíl počtu nových hlášených nemocných jedinců v zadaném časovém období a počtu všech jedinců ve sledované populaci *(zjistitelnost pro nové období)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "počet nových případů onemocnění za určité časové období (nejčastěji za rok) vztažený na populační jednotku (nejčastěji 100.000 obyvatel)",
+      "Incidence – podíl počtu nových hlášených nemocných jedinců v zadaném časovém období a počtu všech jedinců ve sledované populaci *(zjistitelnost pro nové období)"
+    ],
+    "description": [
+      "incidence -захворюваність, prevalence – поширеність. INCIDENCE je počet nových případů nemoci v daném časovém intervalu v definované populaci."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "53. V jakém případě lékař může informovat telefonicky o zdravotním stavu pacienta?",
+    "answers": [
+      "může bez speciálních podmínek",
+      "jestli pacient písemně povolil informovat určitou osobu",
+      "vůbec nemůže poskytnout informace telefonicky",
+      "když volající řekl lékařovi heslo, které uvedl pacient"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "jestli pacient písemně povolil informovat určitou osobu",
+      "když volající řekl lékařovi heslo, které uvedl pacient"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "54. Koho může informovat lékař o aktuálním stavu pacienta, pokud pacient je v bezvědomí? / Pacient v bezvědomí, předtím neurčil kontaktní osobu a teď nemůže samostatně rozhodovat. Komu nahlásit o stavu?",
+    "answers": [
+      "osoby blízké",
+      "manželka a dětí",
+      "děti pacienta a jeho zaměstnavatel",
+      "blízcí  a orgán sociálně právní služby",
+      "taky blízké a pokud nezletilé dítě tak orgán sociální ochrany děti"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["osoby blízké"],
+    "description": ["* jestli pacient je s dětského domova – jeho opatrovníka"],
+    "img": [""]
+  },
+  {
+    "question": "55. Komu lékař NENÍ povinen hlásit informace o zdravotním stavu?",
+    "answers": [
+      "pacientovi, který není schopen vnímat informace",
+      "pacientovi, který poprosil o tom",
+      "pacientovi s omezenou svéprávností",
+      "nezletilému pacientovi",
+      "jestli nahlásit nepříznivou diagnózu nemocnému, to jeho stav se zhorší",
+      "pokud nejde o infekční nemoci"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "pacientovi, který není schopen vnímat informace",
+      "pacientovi, který poprosil o tom"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "56. Co když pacient (mladý bez chronických onemocnění) NEchce dostávat informace o svém zdravotním stavu / Pacient odmítá dostávat informaci o jeho zdraví",
+    "answers": [
+      "každopádně říct",
+      "neříkat, udělat záznam v historii choroby s podpisem pacienta",
+      "přijmout potvrzovací dopis s podpisem a dát ho do karty pacienta",
+      "bez podpisu, jen udělat záznam"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "každopádně říct",
+      "neříkat, udělat záznam v historii choroby s podpisem pacienta",
+      "přijmout potvrzovací dopis s podpisem a dát ho do karty pacienta",
+      "naříkat, odpovědnost bude na pacientovi"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "57. Pacient zemřel na infekční onemocnění, před smrtí zakázal svým příbuzným prohlížet jeho chorobopis. Co může udělat lékař?",
+    "answers": [
+      "může povolit příbuzným, pokud je důležité pro udržení svého zdraví a požadovaného objemu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "může povolit příbuzným, pokud je důležité pro udržení svého zdraví a požadovaného objemu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "58. Podle zákona komu může pacient povolit připustit k informacím o svém zdravotním stavu",
+    "answers": [
+      "jenom jedné osobě",
+      "může povolit komukoliv / několika osobám",
+      "nemůže",
+      "jednomu ze svých známých"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["může povolit komukoliv / několika osobám"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "59. Které tvrzení je správné?",
+    "answers": [
+      "při hospitalizaci pacient má právo určit osobu o podávání informaci o jeho zdravotním stavu pokud on sám povoluje poskytování té informace"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "při hospitalizaci pacient má právo určit osobu o podávání informaci o jeho zdravotním stavu pokud on sám povoluje poskytování té informace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "60. Co je pravda?",
+    "answers": [
+      "klesá počet kuřáků - mužů a žen za poslední 15 let",
+      "zvýšení kardiovaskulární mortality (úmrtnosti)",
+      "zvýšení systolického a diastolického krevního tlaku/hypertenze"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "zvýšení systolického a diastolického krevního tlaku/hypertenze"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "61. Jaký zákon reguluje/řídí odběr orgánů nebo časti těla k transplantaci?",
+    "answers": [
+      "48/1997",
+      "372/2011",
+      "258/2000",
+      "Transplantační zákon 285/2002 Sb"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Transplantační zákon 285/2002 Sb"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "62. Odběr od zemřelého dárce lze provést / Kdy můžete provést odběr orgánů k transplantaci? (podle zákonu 285/2002)",
+    "answers": [
+      "před uplynutím 2 hodin od zjištění smrti",
+      "je potřeba vyšetření 2 lékařů, odběr do 2 hodin po smrti"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "před uplynutím 2 hodin od zjištění smrti",
+      "je potřeba vyšetření 2 lékařů, odběr do 2 hodin po smrti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "63. Při odběru orgánu pro transplantaci:",
+    "answers": [
+      "povinné se provádí pitva, odběr se musí proběhnou před uplynutím 2 hodin, lékaře skládají a podepisují 2 samostatných protokoly"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "povinné se provádí pitva, odběr se musí proběhnou před uplynutím 2 hodin, lékaře skládají a podepisují 2 samostatných protokoly"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "64. Kdy NENÍ možné provést odběr orgánů k transplantaci: (285/2002)",
+    "answers": [
+      "jestliže zemřelý během života nebo zákonný zástupce zemřelého vyjádřil nesouhlas s posmrtným pořízením orgánů pro transplantaci",
+      "když příbuzní po smrti pacienta zakázali",
+      "když zemřelého nelze identifikovat",
+      "nelze na základě posouzení zdravotní vyloučit, že zemřelý trpěl nemocí či stavem, které by mohly ohrozit zdraví nebo život příjemce"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "jestliže zemřelý během života nebo zákonný zástupce zemřelého vyjádřil nesouhlas s posmrtným pořízením orgánů pro transplantaci",
+      "když zemřelého nelze identifikovat",
+      "nelze na základě posouzení zdravotní vyloučit, že zemřelý trpěl nemocí či stavem, které by mohly ohrozit zdraví nebo život příjemce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "64. Kdy NELZE odebírat orgány na transplantaci?",
+    "answers": [
+      "vysloven prokazatelný nesouhlas s posmrtným odběrem tkání a orgánů (285/2002)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "vysloven prokazatelný nesouhlas s posmrtným odběrem tkání a orgánů (285/2002)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "65. Kdy můžeme provádět odběr orgánů pro transplantaci?",
+    "answers": [
+      "za života pacient dal písemný souhlas",
+      "kdy příbuzní po smrtí nechtějí, aby byl odběr orgánů",
+      "pacient je indikován, ale není jeho písemný souhlas",
+      "kdy pacient za svěho života vyslovil nesouhlas nebo jeho zákonní zástupce"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "za života pacient dal písemný souhlas",
+      "kdy příbuzní po smrtí nechtějí, aby byl odběr orgánů",
+      "pacient je indikován, ale není jeho písemný souhlas"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "66. Z jakého důvodu můžeme odebírat orgány? / Odebírat části těla od zemřelého je možné:",
+    "answers": [
+      "pro medicínské účely",
+      "pro vědu, výzkum a výuku",
+      "pro zdravotní péči",
+      "komerce",
+      "finanční výhody"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "pro medicínské účely",
+      "pro vědu, výzkum a výuku",
+      "pro zdravotní péči"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "67. Přípustnost odběru od zemřelého dárce a náležitosti zjištění smrti / Smrt se zjišťuje prokázáním:",
+    "answers": [
+      "nevratné zástavy krevního oběhu, nebo nevratné ztráty funkce celého mozku, včetně mozkového kmene v případech, kdy jsou funkce dýchání nebo krevního oběhu udržovány uměle"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "nevratné zástavy krevního oběhu, nebo nevratné ztráty funkce celého mozku, včetně mozkového kmene v případech, kdy jsou funkce dýchání nebo krevního oběhu udržovány uměle"
+    ],
+    "description": [
+      "Zákon č. 285/2002 Sb. Odběr od zemřelých dárců § 10 (3) Smrt [§ 2 písm. e)] se zjišťuje prokázáním - a) nevratné zástavy krevního oběhu, nebo - b) nevratné ztráty funkce celého mozku, včetně mozkového kmene v případech, kdy jsou funkce dýchání nebo krevního oběhu udržovány uměle (dále jen *smrt mozku*)."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "68. Jaké druhy pitev existují?",
+    "answers": ["Patologicko-anatomické, zdravotní, soudní, anatomické"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Patologicko-anatomické, zdravotní, soudní, anatomické"],
+    "description": [
+      "Ve všeobecném lékařství rozlišujeme 4 druhy pitev: 1- Anatomická pitva Anatomická pitva je prováděná v anatomickém ústavu. Pitvu provádějí studenti pod dohledem vyučujícího. Účelem pitvy je získaní studijních poznatků či poznatků při výzkumu. 2- Patologicko-anatomická pitva Pitva je většinou prováděna za účelem potvrzení diagnózy nebo zjištění nemoci, která vedla k úmrtí ve zdravotnickém zařízení. Pitvu patologicko-anatomickou určuje zákon o zdravotních službách §372/2011 – konkrétně §88 a jeho novela zákon č. 147/2016 Sb. 3- Zdravotní pitva  Pitva zdravotní se provádí za účelem zjištění příčiny smrti a objasnění dalších ze zdravotního hlediska závažných okolností a mechanismu úmrtí u osob, které zemřely mimo zdravotnické zařízení nebo v něm náhlým, neočekávaným nebo násilným úmrtím, včetně sebevraždy. Pitvu zdravotní určuje zákon o zdravotních službách §372/2011 – konkrétně §88 a její novela zákon č. 147/2016 Sb. 4- Soudní pitva Soudní pitva se provádí vždy, pokud jí nařídí PČR a to u zemřelých osob, kde došlo k jasnému i nejasnému zavinění druhé osoby a kde bylo spácháno násilí. Dále je soudní pitva nařízena policejním orgánem v případě neznámé totožnosti zemřelého, nebo pokud je o jeho totožnosti pochybnost (například pokročilý stupeň dekompozice nebo ohořelé tělo). Během soudní pitvy jsou policejním orgánem provedeny úkony směřující ke zjištění či potvrzení totožnosti zemřelého. Lékařem jsou pak odebrány biologické vzorky (analýza DNA a další úkony směřující k identifikaci zemřelého) a ty jsou dále zpracovány policejními experty (genetika, antropologie atp). Pitvu nařizují orgány činné v trestním řízení, nejčastěji policejní orgán, resp. státní zástupce. Soudní pitva je nařizována usnesením dle § 115 trestního řádu a to v případě, že vznikne podezření, že smrt člověka byla způsobena trestným činem. Součástí soudní pitvy je i komplementární laboratorní vyšetření a také lékařský znalecký posudek.  Pitvu soudní určuje zákon o zdravotních službách §372/2011 – konkrétně §88 a její novela zákon č. 147/2016 Sb. Nahla smrt - zdravotni pitva, Nejasna diagnoza - patanatom. pitva "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "69. Kdy při transplantaci dělají pitvu?",
+    "answers": [
+      "pokud je podezření na infekci",
+      "kvůli neznámým příčinám smrti",
+      "vždy / vždy se provádí (dle zákona č. 285/2002)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["vždy / vždy se provádí (dle zákona č. 285/2002)"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "70. Patologicko-anatomická pitva se vždy provádí",
+    "answers": [
+      "u žen, které zemřely v souvislosti s těhotenstvím, porodem, potratem, umělým přerušením těhotenství a v šestineděli",
+      "zemřelí v nemocnice -здравотні пітва",
+      "zemřelí neočekávaným úmrtím -здравотні пітва",
+      "zemřelí od infekční nemoci"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "u žen, které zemřely v souvislosti s těhotenstvím, porodem, potratem, umělým přerušením těhotenství a v šestineděli"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "shablon",
+    "answers": ["shablon", "shablon", "shablon"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["shablon", "shablon"],
     "description": [""],
     "img": [""]
   }
