@@ -19,6 +19,7 @@ export const ContainerCheck = styled.div`
 
 // Общая кнопка
 export const Button = styled.button`
+  margin-bottom: 15px;
   color: black;
   font-weight: 500;
   background-color: var(--iq-primary);
@@ -32,11 +33,10 @@ export const Button = styled.button`
 `;
 
 export const LinkContainer = styled.div`
-  width: 200px;
   margin-top: 50px;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   gap: 20px;
 `;
 
@@ -75,6 +75,7 @@ export const AnswerControl = styled.div`
   display: flex;
   gap: 20px;
   align-items: center;
+  margin-bottom: 20px;
 
   //mobil
   @media screen and (max-width: 767px) {

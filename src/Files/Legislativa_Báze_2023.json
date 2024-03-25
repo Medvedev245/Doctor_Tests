@@ -1027,6 +1027,492 @@
     "img": [""]
   },
   {
+    "question": "71. Patologicko-anatomická pitva se provádí v případě?",
+    "answers": [
+      "těhotná, při porodu, při potratu",
+      "dětí do 18 let",
+      "pacient umřel v nemocnici, ale úplně diagnóza nejistá (nejasná)",
+      "člověk, který umřel mimo zařízení --здравотні пітва",
+      "lidem do 26 let",
+      "náhle úmrtí pacienta v nemocnici--здравотні пітва"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "těhotná, při porodu, při potratu",
+      "dětí do 18 let",
+      "pacient umřel v nemocnici, ale úplně diagnóza nejistá (nejasná)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "72. Zdravotní pitvy:",
+    "answers": [
+      "zdravotní, které se provádějí za účelem zjištění příčiny smrti a objasnění dalších ze zdravotního hlediska závažných okolností a mechanismu úmrtí u osob, které zemřely mimo zdravotnické zařízení nebo v něm náhlým, neočekávaným nebo násilným úmrtím, včetně sebevraždy",
+      "pokud je podezření na trestní čin-- soudní pitva"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "zdravotní, které se provádějí za účelem zjištění příčiny smrti a objasnění dalších ze zdravotního hlediska závažných okolností a mechanismu úmrtí u osob, které zemřely mimo zdravotnické zařízení nebo v něm náhlým, neočekávaným nebo násilným úmrtím, včetně sebevraždy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "73. Kdy se provádí zdravotní pitva?",
+    "answers": [
+      "Pitva zdravotní se provádějí za účelem zjištění příčiny smrti a objasnění dalších ze zdravotního hlediska závažných okolností a mechanismu úmrtí u osob, které zemřely mimo zdravotnické zařízení nebo v něm náhlým, neočekávaným nebo násilným úmrtím, včetně sebevraždy"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Pitva zdravotní se provádějí za účelem zjištění příčiny smrti a objasnění dalších ze zdravotního hlediska závažných okolností a mechanismu úmrtí u osob, které zemřely mimo zdravotnické zařízení nebo v něm náhlým, neočekávaným nebo násilným úmrtím, včetně sebevraždy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "74. Smrt nebo významně poškození zdraví nastalo v důsledku nakažení, kam lékař musí hlásit?",
+    "answers": [
+      "Poskytovatelovi a vedoucímu",
+      "pojišťovna",
+      "sociální služby",
+      "vždy a v každém případě základu (orgánu) ochrany veřejného zdraví",
+      "nikomu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "vždy a v každém případě základu (orgánu) ochrany veřejného zdraví"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "75. Lékař musí nahlásit o nálezu infekčního onemocnění:",
+    "answers": [
+      "základu veřejného zdraví o každém případu inf. nemoci",
+      "svému primáře když ta inf. nemoc ohrožuje zdraví",
+      "základu veřejného zdraví, jenom když ta inf. nemoc ohrožuje zdraví",
+      "v pojišťovnu když ta inf. nemoc ohrožuje zdraví"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "základu veřejného zdraví o každém případu inf. nemoci",
+      "shablon"
+    ],
+    "description": [
+      "V České republice platí, že lékaři jsou povinni hlásit o výskytu některých závažných infekčních chorob, jako jsou například tuberkulóza, spála, zarděnky, neštovice, spádový tyfus, meningokokové infekce, hepatitida A, B a C, HIV/AIDS, a další."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "76. Za jakých podmínek musíme hlásit o nálezu infekčního onemocnění?",
+    "answers": [
+      "za jakýchkoliv",
+      "jen když došlo ke závažným komplikacím",
+      "jen když došlo ke závažným komplikacím a smrti pacienta"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["za jakýchkoliv"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "77. Zdravotní sestra telefonicky informovala kamarádku o pacientu, který změnil pohlaví, tenhle je její sousedem, co se stane? (apelace – správně)",
+    "answers": [
+      "nedosáhne síly porušení tohoto zákona",
+      "mohou být potrestány pouze v rámci právních vztahů v pracovním kolektivu v maximální výši tří měsíčních mezd",
+      "podléhá pouze rozhodnutí veřejného ochránce práv",
+      "administrativní (materiální) až do trestní odpovědnosti, může být potrestána (odsouzená) v rámci pracovních a smluvních vztahu a dokonce i mít trestní odpovědnost za přerušení mlčenlivostí"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "administrativní (materiální) až do trestní odpovědnosti, může být potrestána (odsouzená) v rámci pracovních a smluvních vztahu a dokonce i mít trestní odpovědnost za přerušení mlčenlivostí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "78. Lékař vědomě řekl, že pacient je HIV pozitivní. Jak bude lékař potrestán? / Lékař řekl v prace svého pacienta o tom, že pacient se léčí s HIV, s cílem naškodit pacientovi. Jaká bude odpovědnost?",
+    "answers": [
+      "nebude potrestán",
+      "trestní odpovědnost z nedbalosti",
+      "trestní odpovědnost za zveřejnění osobních údajů",
+      "trestní odpovědnost za úmyslnou lež"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["trestní odpovědnost za zveřejnění osobních údajů"],
+    "description": [
+      "• jestli z nedbalosti - odnětím svobody až na tři léta nebo zákazem činnosti • jestli způsobí značnou škodu - odnětím svobody na jeden rok až pět let, peněžitým trestem nebo zákazem činnosti • jestli způsobí škodu velkého rozsahu - odnětím svobody na tři léta až osm let. * trestní čin, protože přerušil mlčenlivost"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "79. Prohlídka mrtvého těla. Co by mělo být stanoveno, když zemřel/ Účel prohlídky mrtvoly:",
+    "answers": [
+      "mělo by se stanovit konstatování (přítomnost) smrti, hodina, datum úmrtí",
+      "mělo by se stanovit pravděpodobnou příčinu smrti",
+      "měli by zjistit totožnost",
+      "příčina smrti a věk zemřelého"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "mělo by se stanovit konstatování (přítomnost) smrti, hodina, datum úmrtí",
+      "mělo by se stanovit pravděpodobnou příčinu smrti",
+      "měli by zjistit totožnost"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "80. Smrt NENÍ možné prokázat ohledem zemřelého těla, v tomhle případě: (Kdo může označit člověka mrtvým bez prohlídky?)",
+    "answers": [
+      "Matriční úřad vydá dokumenty",
+      "krajský úřad",
+      "správní soud - během soudního procesu bude vyhlášen za mrtvého"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Matriční úřad vydá dokumenty",
+      "krajský úřad",
+      "správní soud - během soudního procesu bude vyhlášen za mrtvého"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "81. Kdo primárně zajišťuje prohlídku těl zemřelých? §84 z.372",
+    "answers": [
+      "pohotovostní služba",
+      "poskytovatel provozující záchrannou službu /  lékař záchranné služby",
+      "nejbližší zdravotnické zařízení",
+      "poskytovatele v oboru všeobecné praktické lékařství"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "pohotovostní služba",
+      "poskytovatel provozující záchrannou službu /  lékař záchranné služby",
+      "poskytovatele v oboru všeobecné praktické lékařství"
+    ],
+    "description": [
+      "§84 (1) Prohlídku těla zemřelého je třeba provést vždy; jejím účelem je zjistit smrt osoby, pravděpodobné datum a čas úmrtí, pravděpodobnou příčinu smrti a dále určit, zda bude provedena pitva. V rámci provedení prohlídky těla zemřelého je provedeno označení těla zemřelého. (2) Prohlídky těl zemřelých jsou povinni zajišťovat - a) poskytovatelé v oboru všeobecné praktické lékařství a v oboru praktické lékařství pro děti a dorost u svých registrovaných pacientů v rámci provozní doby a v rozsahu provádění návštěvních služeb; provedení prohlídky nesmí vést k narušení poskytování zdravotních služeb, - b) nejde-li o postup podle písmene a), lékař vykonávající lékařskou pohotovostní službu nebo poskytovatel nebo lékař, se kterým má kraj pro tyto účely uzavřenu smlouvu, - c) poskytovatel, v jehož zdravotnickém zařízení došlo k úmrtí, - d) poskytovatel zdravotnické záchranné služby v případě, kdy k úmrtí došlo při poskytování přednemocniční neodkladné péče. §85 Prohlídky osob, které zemřely ve výcvikovém prostoru nebo zařízení ozbrojených sil nebo při výkonu služby, provádějí lékaři ozbrojených sil. Prohlídku osob, které zemřely ve výkonu vazby, trestu odnětí svobody nebo zabezpečovací detence, provádí lékař Vězeňské služby, je-li k dispozici, popřípadě jiný poskytovatel podle § 84 odst. 2."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "82. Kdo nejprve udělá vyznání smrti?",
+    "answers": [
+      "registrující praktický lékař v jeho pracovní čas",
+      "záchranná služba / lékař záchranné služby",
+      "pohotovostí služba / lékař pohotovostní služby",
+      "nejbližší zdravotnické zařízení"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "registrující praktický lékař v jeho pracovní čas",
+      "záchranná služba / lékař záchranné služby",
+      "pohotovostí služba / lékař pohotovostní služby"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "83. Jaký lékař má právo nejprve zkontrolovat mrtvého?",
+    "answers": ["Koroner"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Koroner"],
+    "description": ["* za podmínky, jestli kraj má Smlouvu s koronerem"],
+    "img": [""]
+  },
+  {
+    "question": "84. Kdo oznámí o úmrtí nebo nálezu těla zemřelého?",
+    "answers": [
+      "poskytovatel v oboru všeobecné praktické lékařství svých registrovaných",
+      "Poskytovatel v oboru praktické lékařství pro děti a dorost u svých registrovaných",
+      "Službukonající lékař pohotovosti"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "poskytovatel v oboru všeobecné praktické lékařství svých registrovaných",
+      "Poskytovatel v oboru praktické lékařství pro děti a dorost u svých registrovaných",
+      "Službukonající lékař pohotovosti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "85. Jaké zákony řídí zdravotnické povolání? / Jaké zákony jsou pro lékaře a zdravotní sestry",
+    "answers": [
+      "č. 95/2004 *(pro lékaře, farmaceuty..)",
+      "č. 96/2004 *(pro zdravotní sestry..)",
+      "č. 372"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "č. 95/2004 *(pro lékaře, farmaceuty..)",
+      "č. 96/2004 *(pro zdravotní sestry..)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "86. Pod neustálým vzděláním rozumí 95/2004",
+    "answers": [
+      "Celoživotní vzdělávání je průběžné obnovování vědomostí, dovedností a způsobilosti odpovídající získané odbornosti v souladu s rozvojem oboru a nejnovějšími vědeckými poznatky",
+      "Celoživotní vzdělávání je průběžné obnovování vědomostí, dovedností a způsobilosti odpovídající získané odbornosti, co dovoluje mu pracovat samostatně",
+      "vzdělání, na základě kterého lékař, farmaceut nebo zubní lékař získává specializovanou způsobilost nepovinné a dobrovolné celoživotní vzdělávání je průběžné obnovování vědomostí, dovedností a způsobilosti odpovídající získané odbornosti"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Celoživotní vzdělávání je průběžné obnovování vědomostí, dovedností a způsobilosti odpovídající získané odbornosti v souladu s rozvojem oboru a nejnovějšími vědeckými poznatky"
+    ],
+    "description": [
+      "Подібний, в кінці правильної відповіді ще перерахували, що виконує лікар, фармацевт, стоматолог"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "87. Jaké je správné tvrzení - Celoživotní vzdělávání pro lékaře v ČR:",
+    "answers": ["je povinné"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["je povinné"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "88. Celoživotní vzdělávání",
+    "answers": [
+      "pravidelné obnovování vědomosti, dovedností a způsobilosti odpovídající získané odbornosti v souladu s rozvojem oboru a nejnovějšími vědeckými poznatky, zkušenosti, pedagogická a vědecká činnost, konference",
+      "obnovování znalostí … absolvování kterého je nutnými podmínkami pro samostatnou práce lékaře",
+      "specializované vzdělávání",
+      "získání a rozšíření odborné způsobilosti"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "pravidelné obnovování vědomosti, dovedností a způsobilosti odpovídající získané odbornosti v souladu s rozvojem oboru a nejnovějšími vědeckými poznatky, zkušenosti, pedagogická a vědecká činnost, konference"
+    ],
+    "description": [
+      "Formy celoživotního vzdělávání -• certifikované kurzy -• inovační kurzy v akreditovaných zařízeních -• odborné stáže v akreditovaných zařízeních -• účast na školicích akcích, konferencích, kongresech a sympoziích, publikační, • pedagogická a vědecko-výzkumná činnost • samostatné studium odborné literatury"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "89. Celoživotní vzdělávání",
+    "answers": [
+      "zkušenosti, pedagogická a vědecká činnost, konference, výuky jsou podmínkami pro samostatný výkon povolání lékaře",
+      "vzdělávání v specializaci",
+      "6 let magisterského studia – vzdělávání v základním oboru a specializačním oboru",
+      "účast na školicích akcích, konferencích, kongresech a sympoziích, publikační činnost",
+      "pedagogická a vědecko-výzkumná činnost"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "účast na školicích akcích, konferencích, kongresech a sympoziích, publikační činnost",
+      "pedagogická a vědecko-výzkumná činnost"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "90. Kdo je pacient?",
+    "answers": [
+      "osoba, která je nemocná nebo zraněná a je lékařsky ošetřovaná nebo toto lékařské ošetření potřebuje"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "osoba, která je nemocná nebo zraněná a je lékařsky ošetřovaná nebo toto lékařské ošetření potřebuje"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "91. Je-li možné uznání specializace v jiném oboru? / Započítá-li se praxe do specializovaného vzdělávání lékaře?",
+    "answers": [
+      "V jakémkoliv (jiném) oboru nebo v jiném základním kmeni, pokud její část odpovídá příslušnému vzdělávacímu programu a to i v zahraničí",
+      "jen v podobném oboru",
+      "jen ve stejném oboru"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "V jakémkoliv (jiném) oboru nebo v jiném základním kmeni, pokud její část odpovídá příslušnému vzdělávacímu programu a to i v zahraničí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "92. Kdy se může počítat praxe lékaře?",
+    "answers": [
+      "když se vzdělání lékaře shoduje se vzděláním v České republice"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "když se vzdělání lékaře shoduje se vzděláním v České republice"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "93. Potvrzení odborností lékaře je možné jenom pokud",
+    "answers": ["program studie v zahraničí odpovídá programu v ČR"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["program studie v zahraničí odpovídá programu v ČR"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "94. Uznání (potvrzení) způsobilosti k výkonu zdravotnického povolání",
+    "answers": [
+      "Lékaři, zubní lékaři a farmaceuti, kteří nezískali odbornou kvalifikaci v jiném členském státě EU, jsou způsobilí vykonávat zdravotnické povolání na území ČR na základě úspěšného složení aprobační zkoušky, po prokázání zdravotní způsobilosti a bezúhonnosti a po ověření schopnosti odborně se vyjadřovat v českém jazyce"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Lékaři, zubní lékaři a farmaceuti, kteří nezískali odbornou kvalifikaci v jiném členském státě EU, jsou způsobilí vykonávat zdravotnické povolání na území ČR na základě úspěšného složení aprobační zkoušky, po prokázání zdravotní způsobilosti a bezúhonnosti a po ověření schopnosti odborně se vyjadřovat v českém jazyce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "95. Po které době Ministerstvo zdravotnictví posílá pozvání lékaři, po absolvování zkoušek na vydání kvalifikace?",
+    "answers": [
+      "240 dnů po úspěšnému složení zkoušky",
+      "90 dnů po úspěšnému složení zkoušky (95/2004)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["90 dnů po úspěšnému složení zkoušky (95/2004)"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "96. Samostatný výkon povolání lékaře",
+    "answers": [
+      "samostatným výkonem povolání lékaře se rozumí výkon činností, ke kterým je lékař způsobilý bez odborného dozoru nebo odborného dohledu, a to na základě vlastního zhodnocení a posouzení zdravotního stavu pacienta a s tím souvisejících okolností",
+      "podmínkou pro samostatný výkon povolání lékaře je získání specializované způsobilosti nebo zvláštní specializované způsobilosti"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "samostatným výkonem povolání lékaře se rozumí výkon činností, ke kterým je lékař způsobilý bez odborného dozoru nebo odborného dohledu, a to na základě vlastního zhodnocení a posouzení zdravotního stavu pacienta a s tím souvisejících okolností",
+      "podmínkou pro samostatný výkon povolání lékaře je získání specializované způsobilosti nebo zvláštní specializované způsobilosti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "97. Samostatný výkon povolání lékaře",
+    "answers": [
+      "možnost práce bez dohledu",
+      "lékař musí mít specializovanou způsobilost"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "možnost práce bez dohledu",
+      "lékař musí mít specializovanou způsobilost"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "98. Co znamená pracovat bez dozoru? *(pod dozorem do kmenové zkoušky, bez dohledu po specializační atestační zkoušce)",
+    "answers": [
+      "lékař se specializovanou způsobilostí (atestace) v příslušném oboru může pracovat samostatně",
+      "Byt přihlášeným na komoru, úspěšně absolvovat základní a speciální kmen (95/2004)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "lékař se specializovanou způsobilostí (atestace) v příslušném oboru může pracovat samostatně",
+      "Byt přihlášeným na komoru, úspěšně absolvovat základní a speciální kmen (95/2004)"
+    ],
+    "description": [
+      "Podle § 4 odst. 6 zákona č. 95/2004 Sb. vykonává odborný dozor lékař se specializovanou způsobilostí přítomný ve zdravotnickém zařízení, ve kterém vykonává činnost lékař s odbornou způsobilostí, s fyzickou dosažitelností lékaře se specializovanou způsobilostí do 15 minut. Odborný dohled vykonává lékař se specializovanou způsobilostí, a to nepřetržitou telefonickou dostupností a fyzickou dosažitelností zdravotnického zařízení, ve kterém vykonává činnost lékař s odbornou způsobilostí, do 30 minut. Lékař, který vykonává odborný dozor a odborný dohled, musí být v pracovněprávním nebo obdobném vztahu k poskytovateli zdravotních služeb, anebo musí být poskytovatelem zdravotních služeb, v jehož zdravotnickém zařízení k výkonu činností lékaře s odbornou způsobilostí dochází."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "99. Práce se specializovanou nebo zvláštní specializovanou způsobilostí:",
+    "answers": ["bez dohledu, samostatně"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["bez dohledu, samostatně"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "100. Samostatný výkon povolání lékaře",
+    "answers": ["práce bez odborného dohledu", "práce bez odborného dozoru"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "práce bez odborného dohledu",
+      "práce bez odborného dozoru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "101. Kdo může začít výuku na nástavbovým oboru? / Do nástavbového oboru se můžeme zařídit po získání?",
+    "answers": [
+      "kdo má odbornou způsobilost",
+      "jenom po specializované způsobilosti",
+      "odborné způsobilosti",
+      "jen být absolventem"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["jenom po specializované způsobilosti"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "102. Které tvrzení je pravdivé?",
+    "answers": [
+      "Existují specializované zákony o získávání kvalifikací pro lékaře 95/2004 a pro nelékařské pracovnici 96/2004"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Existují specializované zákony o získávání kvalifikací pro lékaře 95/2004 a pro nelékařské pracovnici 96/2004"
+    ],
+    "description": [
+      "Остророжно, ответы очень похожие все, большие, читать каждое слово!"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "103. Pro samostatnou práci lékař, pro výkon povolaní a způsobilost rozhodovat samostatně / Jaký zákon se řídí odbornou způsobilost a specializovanou způsobilost?",
+    "answers": ["ZÁKON Č. 95/2004 SB"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["ZÁKON Č. 95/2004 SB"],
+    "description": [""],
+    "img": [""]
+  },
+  {
     "question": "shablon",
     "answers": ["shablon", "shablon", "shablon"],
     "book": ["Legislativa_Báze_2023"],

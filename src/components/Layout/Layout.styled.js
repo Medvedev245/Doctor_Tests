@@ -1,7 +1,12 @@
 import styled from 'styled-components';
+import backgroundImage from '../../Files/img/1111.jpg';
 
 //main container
 export const Container = styled.div`
+  /* background-image: url(${backgroundImage});
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.5); */
   background-color: var(--iq-secondary);
 `;
 

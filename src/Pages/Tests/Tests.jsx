@@ -25,8 +25,7 @@ const Tests = () => {
 
   const dispatch = useDispatch();
   const questions = useSelector(state => state.testsReducer.questions);
-  console.log(correctCount);
-  console.log(myCorrectAnswers);
+
   const handleAnswerSelect = answer => {
     if (selectedAnswers.includes(answer)) {
       setSelectedAnswers(
@@ -81,7 +80,7 @@ const Tests = () => {
         });
       }
       console.log(correctCount);
-      alert(`Правильных ответов - ${correctCount} из ${questions.length}`);
+      // alert(`Правильных ответов - ${correctCount} из ${questions.length}`);
     }
 
     setSelectedAnswers([]);
@@ -145,6 +144,7 @@ const Tests = () => {
         </AnswerBlock>
       ) : (
         <LinkContainer>
+          <h3>{`Правильных ответов - ${correctCount} из ${questions.length}`}</h3>
           <LinkToPage to="/AnsweredQuestions">
             Перейти к разбору тестов
           </LinkToPage>
