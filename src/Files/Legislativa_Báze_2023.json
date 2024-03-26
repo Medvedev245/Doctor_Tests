@@ -1513,6 +1513,1541 @@
     "img": [""]
   },
   {
+    "question": "104. Získaná odborná, specializovaná a zvláštní specializovaná způsobilost k výkonu zdravotnického povolání, které lékař dosáhl:",
+    "answers": [
+      "v případě přerušení výkonu povolání lékaře zůstává nedotčena podle § 6 Zákona č. 95/2004 Sb."
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "v případě přerušení výkonu povolání lékaře zůstává nedotčena podle § 6 Zákona č. 95/2004 Sb."
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "105. Co se nazývá soukromé nemocnice?",
+    "answers": ["Nestátní zařízení"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Nestátní zařízení"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "106. Co potřebuje lékař, aby otevřel soukromou",
+    "answers": [
+      "prohlášení, že zdravotnické zařízení je pro poskytování zdravotních služeb technicky a věcně vybaveno podle zákona",
+      "seznam zdravotnických pracovníků a jiných odborných pracovníků a počet pacientů",
+      "seznam zdravotnických pracovníků a jiných odborných pracovníků (kdo bude pracovat)",
+      "přibližně počet pacientů",
+      "souhlas, že bude léčit JEN s podobným informovaným souhlasem"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "seznam zdravotnických pracovníků a jiných odborných pracovníků (kdo bude pracovat)",
+      "prohlášení, že zdravotnické zařízení je pro poskytování zdravotních služeb technicky a věcně vybaveno podle zákona"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "107. Jestli člověk nebo poskytovatel chce otevřít svou ambulance, komu musí nahlásit a také co pro to musí udělat?",
+    "answers": [
+      "musí poprosit u kraje vydat mu oprávnění poskytovat lékařské služby"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "musí poprosit u kraje vydat mu oprávnění poskytovat lékařské služby"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "108. Riziko?",
+    "answers": ["souhrn faktorů, které ovlivňuje život jedince"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["souhrn faktorů, které ovlivňuje život jedince"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "109. Prevence:",
+    "answers": [
+      "zkoumá rizika a přítomnost chyb v klinické praxi",
+      "informuje o převažujících příčinách úmrtí",
+      "uvádí počet případů onemocnění v určité populační skupině na konkrétní",
+      "rozvíjí příznaky infekčních onemocnění"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["zkoumá rizika a přítomnost chyb v klinické praxi"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "110. Úmluva, která bere v úvahu lidská práva a výzkum",
+    "answers": [
+      "Úmluva na ochranu lidských práv a důstojnosti lidské bytosti v souvislosti s aplikací biologie a medicíny: Úmluva o lidských právech a biomedicíně",
+      "všechny úmluvy"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Úmluva na ochranu lidských práv a důstojnosti lidské bytosti v souvislosti s aplikací biologie a medicíny: Úmluva o lidských právech a biomedicíně"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "111. Úmluva (konvence), která bere v úvahu lidská práva a výzkum (asi lékařský)",
+    "answers": [
+      "Úmluva na ochranu lidských práv a důstojnosti lidské bytosti v souvislosti s aplikací biologie a medicíny: Úmluva o lidských právech a biomedicíně Catherine Lalumierové (17. prosince 1996)",
+      "všechny úmluvy"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Úmluva na ochranu lidských práv a důstojnosti lidské bytosti v souvislosti s aplikací biologie a medicíny: Úmluva o lidských právech a biomedicíně Catherine Lalumierové (17. prosince 1996)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "112. Lékař podal informaci velkého rozsahu o zdravotních službách, které NEbyly ve skutečnosti provedeny:",
+    "answers": [
+      "výpověď (propouštění)",
+      "pokuta",
+      "trestní čin, protože je to podvod"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["trestní čin, protože je to podvod"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "113. Determinanta zdraví, co to je?",
+    "answers": [
+      "osobní, společenské a ekonomické faktory a faktory životního prostředí, které významně ovlivňují zdravotní stav jedince"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "osobní, společenské a ekonomické faktory a faktory životního prostředí, které významně ovlivňují zdravotní stav jedince"
+    ],
+    "description": ["Ответы большие, один подходит, в котором став единце!!!"],
+    "img": [""]
+  },
+  {
+    "question": "114. Jaké metody používá vláda pro podporu zdraví?",
+    "answers": ["Individuální determinanty"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Individuální determinanty"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "115. Které determinanty nejvíce ovlivňují zdraví jedince? / Nejdůležitější determinany zdraví?",
+    "answers": [
+      "životní styl",
+      "životní prostředí",
+      "biologický základ (genetické faktory)",
+      "zdravotnické služby"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "životní styl",
+      "životní prostředí",
+      "biologický základ (genetické faktory)",
+      "zdravotnické služby"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "116. Koho ovlivňuje determinanta zdraví",
+    "answers": [
+      "zdraví jedince, skupinу lidí a společnost (populace)",
+      "zdraví jedince",
+      "zdraví skupiny lidí"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["zdraví jedince, skupinу lidí a společnost (populace)"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "117. Nejdůležitější determinanta zdraví?",
+    "answers": [
+      "Životní styl - 50%",
+      "životní prostředí - 15%",
+      "péče o zdraví (nebo zdrav.služby) - 15%"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Životní styl - 50%"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "118. Neposkytnutí první odborní pomoci:",
+    "answers": [
+      "Kdo osobě, která je v nebezpečí smrti nebo jeví známky vážné poruchy zdraví nebo jiného vážného onemocnění, neposkytne potřebnou pomoc, ač tak může učinit bez nebezpečí pro sebe nebo jiného, bude potrestán odnětím svobody až na dvě léta"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Kdo osobě, která je v nebezpečí smrti nebo jeví známky vážné poruchy zdraví nebo jiného vážného onemocnění, neposkytne potřebnou pomoc, ač tak může učinit bez nebezpečí pro sebe nebo jiného, bude potrestán odnětím svobody až na dvě léta"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "119. V jakém případě lékař může NEposkytnout pomoc?",
+    "answers": ["když je to nebezpečné pro jeho život"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["když je to nebezpečné pro jeho život"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "120. V případě neposkytnutí pomoci pacientovi se zástavou srdce budeme mít * Zákon 40/2009 §150",
+    "answers": [
+      "pasivní eutanazie",
+      "aktivní neposkytnutou pomoc *protože eutanazie v ČR není",
+      "aktivní eutanazie"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "aktivní neposkytnutou pomoc *protože eutanazie v ČR není"
+    ],
+    "description": ["* Aktivní neposkytnutá pomoc - trestní čin "],
+    "img": [""]
+  },
+  {
+    "question": "121. Lékař nepodal pacientovi lék a neposkytnul pomoc, v důsledku pacient umřel:",
+    "answers": [
+      "pasivní eutanazie",
+      "aktivní neposkytnutá pomoc",
+      "aktivní eutanazie"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["aktivní neposkytnutá pomoc"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "122. Lékař se smiloval (slitoval se) nad nevyléčitelné nemocným stářím člověkem, který byl na udržování životně důležitých funkcí a neprodloužil léčbu. Pacient zemřel. Co budeme mít?",
+    "answers": [
+      "aktivní eutanazie",
+      "pasivní eutanazie",
+      "neposkytnutí pomocí",
+      "neprodlužování životu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["neprodlužování životu"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "123. Typy eutanazie",
+    "answers": [
+      "aktivní a pasivní (dle účasti lékaře)",
+      "dobrovolní (vyžádaná) a nedobrovolní (nevyžádaná)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "aktivní a pasivní (dle účasti lékaře)",
+      "dobrovolní (vyžádaná) a nedobrovolní (nevyžádaná)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "124. Eutanazie v ČR",
+    "answers": [
+      "zakázána",
+      "přijat revers na léčbu a postupovat podle «Non Lege artis»",
+      "zakázána, a to i na žádost pacienta"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["zakázána"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "125. Nejčastější příčina otravy u děti",
+    "answers": ["léky", "houby", "alkohol", "chemické produkty"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["léky"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "126. Lékař dostal zákaz na poskytování lékařských služeb. Kdy po vypršení doby zákazu může začít znovu pracovat?",
+    "answers": [
+      "ihned",
+      "za 1 rok",
+      "za 3 lety",
+      "dostal zákaz na řídení motorky"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["ihned"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "127. V jakém případě je možné, aby dříve trestaný lékař obdržel (dostal) povolení k výkonu zdravotnického povolání?",
+    "answers": [
+      "rok po ukončeni zákazu práce",
+      "tři roky po skončeni zákazu práce",
+      "ihned po uplynutí doby zákazu práce"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["ihned po uplynutí doby zákazu práce"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "128. Lékař byl podmínečné odsouzen (potrestán) na dobu 1 rok. Může  potom vykonávat zdravotní způsobilost? (Zákon 372)",
+    "answers": [
+      "to zůstává podle uvážení vedoucích lékařů (zaměstnavatele)",
+      "jestli už byl potrestán, nemůže pracovat jako lékař"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "to zůstává podle uvážení vedoucích lékařů (zaměstnavatele)"
+    ],
+    "description": [
+      "* Lékař byl odsouzen bez omezení ve výkonu svého povolání. Ptají se, může lékař opět léčit lidé?"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "129. Při zvažování stížnosti od pacienta ČLK učinila sankce proti lékaře. Kam lze podat žalobu v případě nesouhlasu lékaře s rozhodnutím ČLK?",
+    "answers": [
+      "ministerstvo zdravotnictví ",
+      "krajský úřad",
+      "ministerstvo vnitra",
+      "soud"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["soud"],
+    "description": [
+      "* ČLK - Česká lékařská komora ** Pokud bude napsáno, že sankce proti lékaře učinilo OS (okresní sdružení) ČLK, stížnost se podá do Čestné rady komory. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "130. Kdo muže/musí byt členem ČLK?",
+    "answers": [
+      "Každý lékař se statusem i bez nej, pod dozorem i bez nej musí byt členem Komory, když chce pracovat na území ČR",
+      "každý lékař, který pracuje v ČR",
+      "každý lékař",
+      "každý lékař, který pracuje v ČR a právnická osoba, jaká poskytuje lékařské služby"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Každý lékař se statusem i bez nej, pod dozorem i bez nej musí byt členem Komory, když chce pracovat na území ČR",
+      "každý lékař, který pracuje v ČR"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "131. Požadavky od lékaře:",
+    "answers": [
+      "musí mít specializace a vstoupit do ČLK",
+      "Každý lékař je povinen vstoupit do ČLK",
+      "Každý lékař na území ČR je povinen vstoupit do ČLK",
+      "pravidelně musí platit poplatky",
+      "absolventy lékařských univerzit povinní být členy ČLK a zaplatit poplatek do ČLK",
+      "každý pracující zahraniční lékař musí být členem ČLK",
+      "absolventy lékařských univerzit nejsou povinní být členy ČLK a platit příspěvek do kmenu",
+      "lékaři se musí radit se svými kolegy po oboru v postupech"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Každý lékař na území ČR je povinen vstoupit do ČLK"],
+    "description": [
+      "Lékař, který vstoupil do ČLK platí poplatek 1 krát ročně. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "132. Absolvent lékařské univerzity je povinen:",
+    "answers": [
+      "nemusí být přihlášen na ČLK a platit poplatek",
+      "všichni lékaři musí být přihlášení na ČLK",
+      "všichni lékaři ČLK musí být přihlášení na ČLK",
+      "všichni lékaři, kteří používá své povolání musí být přihlášení na ČLK"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "všichni lékaři, kteří používá své povolání musí být přihlášení na ČLK"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "133. Do čeho bude zařazen lékař po magisterském studiu?",
+    "answers": ["do ČLK"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["do ČLK"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "134. V jakém terminu musí byt vydána dokumentace soudním znalcům a zástupcům ČLK?",
+    "answers": ["15", "10", "30", "60"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["15"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "135. Kdo je nejvyšším orgánem České lékařské komory?",
+    "answers": [
+      "Sjezd delegátu je nejvyšším orgánem komory (220/1991, paragraf 15)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Sjezd delegátu je nejvyšším orgánem komory (220/1991, paragraf 15)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "136. S čím souvisí nárůst nákladů na zdravotnictví?",
+    "answers": [
+      "delší průměrná délka života, snížení úmrtnosti, stárnutí obyvatelstva"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "delší průměrná délka života, snížení úmrtnosti, stárnutí obyvatelstva"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "137. Náklady na zdravotnictví, % HDP?",
+    "answers": ["6-8 %", "6"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["6-8 %"],
+    "description": ["*HDP - Hrubý domácí produkt (Gross domestic product)"],
+    "img": [""]
+  },
+  {
+    "question": "138. Kdo může přijímat řešení za pacienta, který je v akutním stavu?",
+    "answers": [
+      "manželka, děti",
+      "blízký člověk",
+      "zaměstnavatel",
+      "opatrovník nezletilé osoby"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["blízký člověk", "opatrovník nezletilé osoby"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "139. V případě lékařské chyby, kdy lékař zavinil újmu na zdraví, kdo platí? Kdo nese odpovědnost?",
+    "answers": [
+      "zaměstnavatel platí celou částku, ale může po lékaři požadovat kompenzaci škody do výše čtyřapůlnasobku měsíčních platů, odpovědnost nese zaměstnavatel",
+      "do tříapůlnásobku",
+      "všechno",
+      "půlku mzdy"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "zaměstnavatel platí celou částku, ale může po lékaři požadovat kompenzaci škody do výše čtyřapůlnasobku měsíčních platů, odpovědnost nese zaměstnavatel"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "140. Může uklidit zdravotnický personál? / Pokud byla provedena oprava zdravotnického prostoru, může majitel nutit střední zdravotnický personál (zdravotní sestru) uklidit místnost nemocnice která je po rekonstrukci pokud ano, na jaké období?",
+    "answers": [
+      "zdravotnický personál může uklidit; po dohodě s odbory do 30 dnů, jestli tohle povolí úřad a jestli tohle opravdu potřebují",
+      "jednostranně lékař rozhodnout nemůže",
+      "nemůže"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "zdravotnický personál může uklidit; po dohodě s odbory do 30 dnů, jestli tohle povolí úřad a jestli tohle opravdu potřebují"
+    ],
+    "description": [
+      "*zákoník práce 262/2006 Obsah pracovního poměru je možné změnit jen tehdy, dohodnou-li se zaměstnavatel a zaměstnanec na jeho změně."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "141. Lékař odmítl pomáhat pacientovi, v souvislosti s různými náboženstvími, co musí udělat poskytovatel (nemocnice)?",
+    "answers": [
+      "o této skutečnosti je povinen ihned informovat poskytovatele, který zajistí pacientovi jiného zdravotnického pracovníka, nebo jiného poskytovatele a udělat záznam o tom do zdravotnické dokumentace",
+      "poskytovatel musí omluvit pacientovi , a vysvětlit proč tento zdravotnický pracovník nemůže poskytnout mu pomoc"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "o této skutečnosti je povinen ihned informovat poskytovatele, který zajistí pacientovi jiného zdravotnického pracovníka, nebo jiného poskytovatele a udělat záznam o tom do zdravotnické dokumentace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "142. Lékař má právo (základní práva lékaře):",
+    "answers": [
+      "neposkytnout pomoc pacientovi pro jiné náboženství, jestli jde o neakutní stav",
+      "vědět, že pacient trpí infekčními nemoci",
+      "neposkytovat pomoc, jestli je přímé ohrožení jeho životu nebo zdraví",
+      "v některých případech léčit bez souhlasu",
+      "jde-li o nemoci, u nichž lze uložit povinné léčení;",
+      "jde-li o nosiče. ",
+      "jestliže osoba jevící známky duševní choroby nebo intoxikace ohrožuje sebe nebo své okolí;"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "neposkytnout pomoc pacientovi pro jiné náboženství, jestli jde o neakutní stav",
+      "vědět, že pacient trpí infekčními nemoci",
+      "neposkytovat pomoc, jestli je přímé ohrožení jeho životu nebo zdraví",
+      "v některých případech léčit bez souhlasu"
+    ],
+    "description": [
+      "Výjimku z jinak zásadně vyžadovaného souhlasu s léčením a možnost postupovat bez souhlasu pacienta připouští naše právní úprava v následujících případech: "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "143. Dezinfekce, co je to?",
+    "answers": [
+      "Souhrn opatření z cílem ničení mikroorganismů, hmyzů, hlodavců",
+      "Souhrn opatření z cílem ničení mikroorganismů pomoci fyzických a chemických metodů, aby zabránit cestu infekce do fyzické osoby (individuumu)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Souhrn opatření z cílem ničení mikroorganismů pomoci fyzických a chemických metodů, aby zabránit cestu infekce do fyzické osoby (individuumu)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "144. Dezinfekce?",
+    "answers": [
+      "postup ničící všechny choroboplodné zárodky pomocí chemických a fyzikálních metod pro minimalizace nebo zamezení výskytu infekce"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "postup ničící všechny choroboplodné zárodky pomocí chemických a fyzikálních metod pro minimalizace nebo zamezení výskytu infekce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "145. Práva pacienta ",
+    "answers": [
+      "svobodný a informovaný souhlas",
+      "na poskytování zdravotních služeb na náležité odborné úrovni",
+      "na úctu, důstojné zacházení, na ohleduplnost a respektování soukromí",
+      "zvolit si poskytovatele oprávněného k poskytnutí zdravotních služeb",
+      "vyžádat si konzultační služby od jiného poskytovatele",
+      "být seznámen s vnitřním řádem zdravotnického zařízení lůžkové nebo jednodenní péče",
+      "na nepřetržitou přítomnost zákonného zástupce, opatrovníka, osoby blízké nebo osoby určené pacientem",
+      "být předem informován o ceně poskytovaných zdravotních služeb",
+      "znát jméno, popřípadě jména, a příjmení zdravotnických pracovníků a jiných odborných pracovníků přímo zúčastněných",
+      "odmítnout přítomnost osob, které nejsou na poskytování zdravotních služeb přímo zúčastněny",
+      "přijímat návštěvy ve zdravotnickém zařízení lůžkové nebo jednodenní péče, a to s ohledem na svůj zdravotní stav a v souladu s vnitřním řádem a způsobem, který neporušuje práva ostatních pacientů",
+      "přijímat ve zdravotnickém zařízení lůžkové nebo jednodenní péče duchovní péči a duchovní podporu od duchovních církví a náboženských společností registrovaných",
+      "na poskytování zdravotních služeb v co nejméně omezujícím prostředí při zajištění kvality a bezpečí"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "svobodný a informovaný souhlas",
+      "na poskytování zdravotních služeb na náležité odborné úrovni",
+      "na úctu, důstojné zacházení, na ohleduplnost a respektování soukromí",
+      "zvolit si poskytovatele oprávněného k poskytnutí zdravotních služeb",
+      "vyžádat si konzultační služby od jiného poskytovatele",
+      "být seznámen s vnitřním řádem zdravotnického zařízení lůžkové nebo jednodenní péče",
+      "na nepřetržitou přítomnost zákonného zástupce, opatrovníka, osoby blízké nebo osoby určené pacientem",
+      "být předem informován o ceně poskytovaných zdravotních služeb",
+      "znát jméno, popřípadě jména, a příjmení zdravotnických pracovníků a jiných odborných pracovníků přímo zúčastněných",
+      "odmítnout přítomnost osob, které nejsou na poskytování zdravotních služeb přímo zúčastněny",
+      "přijímat návštěvy ve zdravotnickém zařízení lůžkové nebo jednodenní péče, a to s ohledem na svůj zdravotní stav a v souladu s vnitřním řádem a způsobem, který neporušuje práva ostatních pacientů",
+      "přijímat ve zdravotnickém zařízení lůžkové nebo jednodenní péče duchovní péči a duchovní podporu od duchovních církví a náboženských společností registrovaných",
+      "na poskytování zdravotních služeb v co nejméně omezujícím prostředí při zajištění kvality a bezpečí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "146. O čem se jedna 373/2011? Zákon o specifických zdravotních službách",
+    "answers": [
+      "Asistovaná reprodukce, změna pohlaví transsexuálních pacientů, sterilizace, kastrace, psychochirurgické výkony, posudková péče … ",
+      "záchranná služba … "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Asistovaná reprodukce, změna pohlaví transsexuálních pacientů, sterilizace, kastrace, psychochirurgické výkony, posudková péče … ",
+      "shablon"
+    ],
+    "description": [
+      "1 Asistovaná reprodukce 2 Sterilizace, kastrace 3 Terapeutická kastrace, testikulární pulpektomie 4 Změna pohlaví transsexuálních pacientů 5 psychochirurgické výkony 6 Genetická vyšetření 7 Odběry lidské krve a jejích složek, léčba krví nebo jejími složkami 8 OVĚŘOVÁNÍ NOVÝCH POSTUPŮ POUŽITÍM METODY, KTERÁ DOSUD NEBYLA V KLINICKÉ PRAXI NA ŽIVÉM ČLOVĚKU ZAVEDENA 9 POSUDKOVÁ PÉČE A LÉKAŘSKÉ POSUDKY, PRACOVNĚLÉKAŘSKÉ SLUŽBY "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "147. O čem se jedna zákon o specifických zdravotních službách č. 373/2011?",
+    "answers": [
+      "Asistovaná reprodukce",
+      "Posudková péče a lékařské posudky, pracovně lékařské"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Asistovaná reprodukce",
+      "Posudková péče a lékařské posudky, pracovně lékařské"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "148. Sterilizace podle 373/2011:",
+    "answers": ["možné na žádost všem starší 21 let"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["možné na žádost všem starší 21 let"],
+    "description": [
+      "Sterilizace ze zdravotních důvodů se provede pacientovi, který dovršil věk 18 let, pokud k provedení sterilizace udělí písemný souhlas.Sterilizaci z jiných než zdravotních důvodů lze provést pacientovi, který dovršil věk 21 let, nebrání-li jejímu provedení závažné zdravotní důvody, a to na základě jeho písemné žádosti. Žádost je součástí zdravotnické dokumentace vedené o pacientovi."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "149. Co nutně potřebují souhlas:",
+    "answers": [
+      "Sterilizace, kastrace, transsexuálové",
+      "záleží na službách (podle názoru poskytovatele)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Sterilizace, kastrace, transsexuálové"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "150. Podle zákona č. 373/2011 pro poskytování odpovídajících vhodných zdravotnických služeb",
+    "answers": ["lékař musí mít (přijmout) písemný souhlas pacienta"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["lékař musí mít (přijmout) písemný souhlas pacienta"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "151. Co je společného mezi pacienty ohledně zákonů 372 і 373?",
+    "answers": ["Všichni musí podepsat souhlas"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Všichni musí podepsat souhlas"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "152. Kde je napsáno o informovaném souhlasu?",
+    "answers": ["372/2011", "48/1997", "40/2009 Trestní zákoník", "563"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["372/2011"],
+    "description": [
+      "Informovaný souhlas: 1- 98/2012Vyhláška o zdravotnické dokumentaci 2- 89/2012 Nový občanský zákoník 3- 372/2011 Zákon o zdravotních službách a podmínkách jejich poskytování 4- Úmluva o lidských právech a o biomedicině 5- 373/2011 Zákon o specifických zdravotních službách "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "153. Uvolňuje-li od odpovědnosti informovaný souhlas?",
+    "answers": [
+      "ano, uvolňuje, když lékař řekl pacientovi o všech rizikách zákroku/léčby",
+      "ne, neuvolňuje, pacient jen dal souhlas a lékař nese plnou odpovědnost za kvalitu poskytnutóho zákroku (pokud během operace něco se stane)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "ne, neuvolňuje, pacient jen dal souhlas a lékař nese plnou odpovědnost za kvalitu poskytnutóho zákroku (pokud během operace něco se stane)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "154. Co je to Informovaný souhlas? ",
+    "answers": [
+      "proces, ve kterém konkrétní osoba dobrovolně potvrzuje svoji ochotu podílet se na konkrétním klinickém hodnocení poté, co byla informována o všech aspektech / proces během kterého pacient dostal informace ohledně svého zdravotního stavu, plánované léčby.. ",
+      "pacientu musí být 18 let",
+      "musí být písemně podepsán"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "proces, ve kterém konkrétní osoba dobrovolně potvrzuje svoji ochotu podílet se na konkrétním klinickém hodnocení poté, co byla informována o všech aspektech / proces během kterého pacient dostal informace ohledně svého zdravotního stavu, plánované léčby.. ",
+      "pacientu musí být 18 let",
+      "musí být písemně podepsán"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "155. Dříve vyslovené přání pacienta, co to je? ",
+    "answers": [
+      "Pacient předem opravňuje lékaře k léčbě v případě, že o sobě nebude schopen sám rozhodovat. Písemný formulář, notářsky ověřeno, písemné varování lékaře o následcích "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Pacient předem opravňuje lékaře k léčbě v případě, že o sobě nebude schopen sám rozhodovat. Písemný formulář, notářsky ověřeno, písemné varování lékaře o následcích "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "156. Otázka o nezletilým pacientovi. Může-li samostatně dát písemný souhlas? ",
+    "answers": [
+      "samostatné podepisovat souhlas nemůže ",
+      "nezletilému pacientovi zdravotní služby poskytují se souhlasem jeho zákon. zástupce, vždy je však třeba zjisti názor nezletilého pacienta, který je schopen vnímat situace a zaznamenávat do zdravotnické dokumentace ",
+      "pacient, který dovršil 15 let věku, lze mu zdravotní služby poskytnout registrujícím poskytovatelem bez zjišťování souhlasu zákonného zástupce, pokud zákonný zástupce s takovým postupem vyjádří písemný souhlas "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "samostatné podepisovat souhlas nemůže ",
+      "nezletilému pacientovi zdravotní služby poskytují se souhlasem jeho zákon. zástupce, vždy je však třeba zjisti názor nezletilého pacienta, který je schopen vnímat situace a zaznamenávat do zdravotnické dokumentace ",
+      "pacient, který dovršil 15 let věku, lze mu zdravotní služby poskytnout registrujícím poskytovatelem bez zjišťování souhlasu zákonného zástupce, pokud zákonný zástupce s takovým postupem vyjádří písemný souhlas "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "157. Dříve vyslovené přání",
+    "answers": [
+      "Poskytovatel bude brát zřetel na dříve vyslovené přání pacienta, má-li ho k dispozici, a to za podmínky, že v době poskytování zdravotních služeb nastala předvídatelná situace, k níž se dříve vyslovené přání vztahuje, a pacient je v takovém zdravotním stavu, kdy není schopen vyslovit nový souhlas nebo nesouhlas",
+      "poskytovatel samostatně rozhoduje a navíc, když dříve vyslovené přání předem má"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Poskytovatel bude brát zřetel na dříve vyslovené přání pacienta, má-li ho k dispozici, a to za podmínky, že v době poskytování zdravotních služeb nastala předvídatelná situace, k níž se dříve vyslovené přání vztahuje, a pacient je v takovém zdravotním stavu, kdy není schopen vyslovit nový souhlas nebo nesouhlas"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "158. Kdy NENÍ třeba/NELZE dříve vyslovené přání respektovat? ",
+    "answers": [
+      "jestli pacient se nachází ve stavu, kdy nemůže podepsat souhlas",
+      "nelze je respektovat, pokud nabádá k takovým postupům, jejichž výsledkem je aktivní způsobení smrti ",
+      "Nelze je respektovat, pokud by jeho splnění mohlo ohrozit jiné osoby ",
+      "Nelze je respektovat, pokud byly v době, kdy poskytovatel neměl k dispozici dříve vyslovené přání, započaty takové zdravotní výkony, jejichž přerušení by vedlo k aktivnímu způsobení smrti ",
+      "Nelze je uplatnit, jde-li o nezletilé pacienty nebo pacienty zbavené způsobilosti k právním úkonům "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "nelze je respektovat, pokud nabádá k takovým postupům, jejichž výsledkem je aktivní způsobení smrti ",
+      "Nelze je respektovat, pokud by jeho splnění mohlo ohrozit jiné osoby ",
+      "Nelze je respektovat, pokud byly v době, kdy poskytovatel neměl k dispozici dříve vyslovené přání, započaty takové zdravotní výkony, jejichž přerušení by vedlo k aktivnímu způsobení smrti ",
+      "Nelze je uplatnit, jde-li o nezletilé pacienty nebo pacienty zbavené způsobilosti k právním úkonům "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "159. Dříve vysloveně přání pacienta podle zákona 372/2011:",
+    "answers": ["Neomezené"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Neomezené"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "160. Negativní revers je",
+    "answers": ["písemný nesouhlas k léčbě"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["písemný nesouhlas k léčbě"],
+    "description": [
+      "Pozitivní revers – dokument podepisuje pacient nebo jeho zástupce před zákrokem a vyjadřuje tak s ním svůj informovaný souhlas Negativní revers – dokument, ve kterém pacient přes doporučení lékaře odmítá další léčbu nebo některé léčebné postupy. Poskytování zdravotních služeb se souhlasem § 34 . *Souhlas s poskytnutím zdravotních služeb (dále jen „souhlas“) se pokládá za 1-svobodný, je-li dán bez jakéhokoliv nátlaku. 2-informovaný, je-li pacientovi před vyslovením souhlasu podána informace podle § 31; souhlas se pokládá za informovaný také v případě, že se pacient podle § 32 odst. 1 podání informace vzdal. *-Písemná forma souhlasu se vyžaduje, pokud tak stanoví jiný právní předpis21) nebo pokud tak s ohledem na charakter poskytovaných zdravotních služeb určí poskytovatel. Souhlas s hospitalizací musí být vždy v písemné formě. Na vyžádání je pacientovi poskytnuta kopie písemné formy souhlasu *-Pacientovi, kterému byla podána informace o zdravotním stavu nebo se podání informace podle § 32 odst. 1 vzdal a který odmítá vyslovit souhlas s poskytnutím zdravotních služeb, nejde-li o případ, kdy lze zdravotní služby poskytnout bez souhlasu, je opakovaně podána informace o jeho zdravotním stavu v rozsahu a způsobem, ze kterého je zřejmé, že neposkytnutí zdravotních služeb může vážně poškodit jeho zdraví nebo ohrozit život. Jestliže pacient i nadále odmítá vyslovit souhlas, učiní o tom písemné prohlášení (revers). "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "161. V jakých zákonách je napsáno o reversu pacienta: ",
+    "answers": [
+      "48/1997",
+      "373/2011",
+      "98/2012 Vyhláška o zdravotnické dokumentaci ",
+      "89/2012 Občanský zákoník ",
+      "Zákon č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Zákon č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování"
+    ],
+    "description": [
+      "Реверс – лише в 372!!! Соуглас – є в багатьох. А виглашки є лише додатками до закону...   Zákon č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování (zákon o zdravotních službách); § 34 odst. 4, 6; Vyhláška č. 98/2012 Sb., o zdravotnické dokumentaci (část šestá přílohy č. 1)В Umluvě 96/2001 Sb. тоже есть Souhlas  Článek 5  Obecné pravidlo  Jakýkoli zákrok v oblasti péče o zdraví je možno provést pouze za podmínky, že k němu dotčená osoba poskytla svobodný a informovaný souhlas. Tato osoba musí být předem řádně informována o účelu a povaze zákroku, jakož i o jeho důsledcích a rizicích.  Dotčená osoba může kdykoli svobodně svůj souhlas odvolat.   Вот это пишет в vyhlášce 98/2012  2.Zdravotnická dokumentace v návaznosti na zjištěné informace o zdravotním stavu pacienta dále   obsahuje   záznam o odmítnutí poskytnutí zdravotních služeb   (1)Ke každému úkonu v rámci péče o zdraví se vyžaduje souhlas ošetřovaného, ledaže zákon stanoví, že souhlasu není třeba. Odmítne-li ošetřovaný souhlas, potvrdí to poskytovateli na jeho žádost v písemné formě.   (2) Požádá-li o to poskytovatel nebo ošetřovaný, potvrdí mu druhá strana v písemné formě, k čemu byl souhlas udělen.   — Nový občanský zákoník, § 2642[2  Poskytování zdravotních služeb se souhlasem   § 34   (1) Souhlas s poskytnutím zdravotních služeb (dále jen „souhlas“) se pokládá za  a) svobodný, je-li dán bez jakéhokoliv nátlaku,  b) informovaný, je-li pacientovi před vyslovením souhlasu podána informace podle § 31; souhlas se pokládá za informovaný také v případě, že se pacient podle § 32 odst. 1 podání informace vzdal.   (2) Písemná forma souhlasu se vyžaduje, pokud tak stanoví jiný právní předpis21) nebo pokud tak s ohledem na charakter poskytovaných zdravotních služeb určí poskytovatel. Souhlas s hospitalizací musí být vždy v písemné formě. Na vyžádání je pacientovi poskytnuta kopie písemné formy souhlasu.  (3) Pacientovi, kterému byla podána informace o zdravotním stavu nebo se podání informace podle § 32 odst. 1 vzdal a který odmítá vyslovit souhlas s poskytnutím zdravotních služeb, nejde-li o případ, kdy lze zdravotní služby poskytnout bez souhlasu, je opakovaně podána informace o jeho zdravotním stavu v rozsahu a způsobem, ze kterého je zřejmé, že neposkytnutí zdravotních služeb může vážně poškodit jeho zdraví nebo ohrozit život. Jestliže pacient i nadále odmítá vyslovit souhlas, učiní o tom písemné prohlášení  (revers). "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "162. Kdy může být hospitalizace bez souhlasu?",
+    "answers": [
+      "rozhodnutiḿ soudu uloženo ochranné léčení formou lůžkové péče ",
+      "nařízení izolace, karanténa nebo léčení ",
+      "nařízeno vyšetření zdravotního stavu  *(například, soud)",
+      "ohrožuje bezprostředně a závažným způsobem sebe nebo své okolí a jeví známky duševní poruchy ",
+      "vyzǎduje poskytnutí neodkladné péče a nemůže vyslovit ",
+      "nezletilý pacient, pacient s omezenou svéprávností při podezření na týrání, zneužití nebo zanedbávání  "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "rozhodnutiḿ soudu uloženo ochranné léčení formou lůžkové péče ",
+      "nařízení izolace, karanténa nebo léčení ",
+      "nařízeno vyšetření zdravotního stavu  *(například, soud)",
+      "ohrožuje bezprostředně a závažným způsobem sebe nebo své okolí a jeví známky duševní poruchy ",
+      "vyzǎduje poskytnutí neodkladné péče a nemůže vyslovit ",
+      "nezletilý pacient, pacient s omezenou svéprávností při podezření na týrání, zneužití nebo zanedbávání  "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "163. Zabezpečovací detence pacienta, jak dlouho",
+    "answers": [
+      "tolik, kolik je potřeba s ohledem na aktuální zdravotní stav",
+      "tolik, kolik rozhodl soud",
+      "tolik, kolik policie povolila"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["tolik, kolik rozhodl soud"],
+    "description": [
+      " Detence pacienta – hospitalizace bez souhlasu pacienta, který neschopen podepsat souhlas. Když se stav pacienta zlepší, pacient podepíše souhlas; lékař oznámí soud, že už souhlas je podepsán a detence se skončí.  Ochranné léčení – nařizuje jen soud (může být ambulantní nebo ústavní) Zabezpečovací detence – nařizuje jen soud, v případech, kdy ochranná léčba není účinná a člověk je nebezpečný pro veřejnost. I v případě, že bylo rozhodnuto, že pacient byl převzat do zdravotního ústavu v souladu se zákonem, neznamená to, že v tomto ústavu může být držen neomezeně dlouho. Pomine-li tento zákonný důvod (tj. zdravotní stav pacienta se zlepší nebo pacient změní svůj postoj k pobytu ve zdravotnickém zařízení), může jej zdravotnické zařízení kdykoli propustit (žádné rozhodnutí soudu již k tomuto není třeba). "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "164. Detence. *otázka o zabezpečovací detenci nebo o ochranném léčení ",
+    "answers": ["přinucená, soudně nařízená ústavní léčba "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["přinucená, soudně nařízená ústavní léčba "],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "165. Kdy je nutné oznámit soud do 24 hodin",
+    "answers": [
+      "všechna odmítnutí hospitalizace",
+      "odmítnutí léčby sociálně nebezpečného pacienta",
+      "pacient trpí duševní nemoc"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["odmítnutí léčby sociálně nebezpečného pacienta"],
+    "description": [
+      "Ustanovení § 191a odst. 1 občanského soudního řádu stanoví pouze povinnost ústavu oznámit do 24 hodin soudu, v jehož obvodu ústav je, převzetí pacienta, který k tomu nedal písemný souhlas. Konkrétní obsahové náležitosti tohoto oznámení neupravuje. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "166. Poskytovatel oznámí soudu do 24 hodiny",
+    "answers": [
+      "existují důvody pro hospitalizaci bez souhlasu ",
+      "dodatečné omezení pacienta "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "existují důvody pro hospitalizaci bez souhlasu ",
+      "dodatečné omezení pacienta "
+    ],
+    "description": [
+      "§ 40  (1) Poskytovatel oznámí soudu do 24 hodin   a) hospitalizaci pacienta podle § 38 odst. 1 písm. b) a c); obdobně se postupuje, jestliže pacient, zákonný zástupce nebo opatrovník pacienta souhlas odvolal a nadále existují důvody pro hospitalizaci bez souhlasu,   b) dodatečné omezení pacienta, který byl hospitalizován na základě souhlasu, ve volném pohybu podle § 39 odst. 1 písm. b) až g) nebo styku s vnějším světem až v průběhu léčení.   (2) Hospitalizace a dodatečné omezení pacienta se soudu neoznamuje, jestliže byl souhlas ve lhůtě do 24 hodin prokazatelným způsobem dodatečně vysloven.  §38  (1) Pacienta lze bez souhlasu hospitalizovat, jestliže  a) mu  1. bylo pravomocným rozhodnutím soudu uloženo ochranné léčení formou lůžkové péče,  2. je nařízena izolace, karanténa nebo léčení podle zákona o ochraně veřejného zdraví,  3. je podle trestního řádu nebo zákona o zvláštních řízeních soudních nařízeno vyšetření zdravotního stavu,  b) ohrožuje bezprostředně a závažným způsobem sebe nebo své okolí a jeví známky duševní poruchy nebo touto poruchou trpí nebo je pod vlivem návykové látky, pokud hrozbu pro pacienta nebo jeho okolí nelze odvrátit jinak, nebo  c) jeho zdravotní stav vyžaduje poskytnutí neodkladné péče a zároveň neumožňuje, aby vyslovil souhlas.   (2) Nezletilého pacienta nebo pacienta s omezenou svéprávností zákonného zástupce nebo opatrovníka hospitalizovat též v případě, jde-li o podezření na  zanedbávání.  (3) Pacientovi lze bez jeho souhlasu poskytnout pouze neodkladnou péči, a to v případě   a) kdy zdravotní stav neumožňuje pacientovi tento souhlas vyslovit; tím není dotčeno dříve vyslovené přání podle § 36, nebo  b) léčby vážné duševní poruchy, pokud by v důsledku jejího neléčení došlo se vší pravděpodobností k vážnému poškození zdraví pacienta.  (4) Nezletilému pacientovi nebo pacientovi s omezenou svéprávností lze bez souhlasu poskytnout neodkladnou péči, jde-li o  a) případy podle odstavce 3 písm. b), nebo  b) zdravotní služby nezbytné k záchraně života nebo zamezení vážného poškození zdraví.  (5) Nezletilému pacientovi nebo pacientovi s omezenou svéprávností lze poskytnout neodkladnou péči bez souhlasu zákonného zástupce, pokud je u něj podezření na týrání, zneužívání nebo zanedbávání. (6) Poskytovatel je povinen o hospitalizaci podle odstavce 1 písm. b) nebo c) informovat osobu určenou podle § 33, není-li taková osoba, některou z osob blízkých, popřípadě osobu ze společné domácnosti, nebo zákonného zástupce pacienta, pokud jsou mu známy. Není-li mu žádná osoba podle věty první známa nebo ji nelze zastihnout, informuje Policii České republiky.   (7) Bez souhlasu lze poskytnout též jiné zdravotní služby, stanoví-li tak zákon o ochraně veřejného zdraví, a záchytnou službu.   "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "167. V jakém případě povinen lékař informovat soud před 24 hodinami o hospitalizaci pacienta bez jeho souhlasu? 372 /2011 ",
+    "answers": [
+      "všechny hospitalizace bez souhlasu, včetně při bezvědomí a demenci",
+      "jestli pacient hospitalizován pro povinnou léčbu *(povinnou léčbu nařizuje soud) ",
+      "při hospitalizaci všech pacientů bez souhlasu ",
+      "jen při hospitalizaci duševních poruch",
+      "jen při vzetí duševních poruch do ústavní péče"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "všechny hospitalizace bez souhlasu, včetně při bezvědomí a demenci"
+    ],
+    "description": [
+      "§ 40  (1) Poskytovatel oznámí soudu do 24 hodin  a) hospitalizaci pacienta podle § 38 odst. 1 písm. b) a c); obdobně se postupuje, jestliže pacient, zákonný zástupce nebo opatrovník pacienta souhlas odvolal a nadále existují důvody pro hospitalizaci bez souhlasu,  b) dodatečné omezení pacienta, který byl hospitalizován na základě souhlasu, ve volném pohybu podle § 39 odst. 1 písm. b) až g) nebo styku s vnějším světem až v průběhu léčení.  (2) Hospitalizace a dodatečné omezení pacienta se soudu neoznamuje, jestliže byl souhlas ve lhůtě do 24 hodin prokazatelným způsobem dodatečně vysloven.   "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "168. Pacient s dg. tuberkulóza odmítá léčbu hospitalizaci, co musí udělat lékař? / Pacient má tuberkulózu, lékař určil ústavní léčbu, ale pacient ji odmítá, co musí udělat lékař? ",
+    "answers": [
+      "Hospitalizovat pro léčbu jako sociálně nebezpečného pacienta jedna se o nebezpečnou nemoci /  hospitalizovat bez souhlasu podle zákonu - jedná se o nebezpečné onemocnění, při kterém můžeme indikovat nutnou léčbu (jde o povinném léčení) ",
+      "nehospitalizovat, léčit ambulantně",
+      "musí ho přinucené hospitalizovat s použitím omezováních prostředku ",
+      "nemůžeme ho přinucené hospitalizovat podle listiny základních práv a svobod",
+      "Přijmout revers a odpustit pacienta"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Hospitalizovat pro léčbu jako sociálně nebezpečného pacienta jedna se o nebezpečnou nemoci /  hospitalizovat bez souhlasu podle zákonu - jedná se o nebezpečné onemocnění, při kterém můžeme indikovat nutnou léčbu (jde o povinném léčení) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "169. Rodiče se obrátili do nemocnice s chlapcem, on v těžkém stavu, je nutné provést operaci / Stav zdraví chlapce se zhoršil, v případě další nečinnosti bude mít za následek smrt. Rodiče odmítají léčbu, co dělat? ",
+    "answers": [
+      "lékař poskytuje pomoc u nouzi, a to navzdory odmítnutí rodičů (povinná léčba bez souhlasu pacienta vzhledem ke stavu nebo dítě) / + začít léčit ",
+      "podat do soudu a léčit po řešení soudu",
+      "zároveň odmítá léčbu, ale do 24 hodin informace o tom podává u soudu",
+      "nahlásit na sociální služby",
+      "podepsat u rodičů revers o odmítnutí léčby"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "lékař poskytuje pomoc u nouzi, a to navzdory odmítnutí rodičů (povinná léčba bez souhlasu pacienta vzhledem ke stavu nebo dítě) / + začít léčit "
+    ],
+    "description": ["*léčit a oznámit soud do 24 hodin."],
+    "img": [""]
+  },
+  {
+    "question": "170. Během gynekologické operace u ženy vznikla potřeba jiné chirurgické intervenci, na kterou ona NEpodepsala souhlas. Co dělat?",
+    "answers": ["ze zdravotních důvodů dle rozhodnutí lékaře "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["ze zdravotních důvodů dle rozhodnutí lékaře "],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "171. Pro zákrok na který pacient podepsal souhlas,  ale v procesu operace se objevilo, že je nutně udělat ještě jeden jiný zákrok. O žádné život ohrožující věcí nešlo. Postup?",
+    "answers": [
+      "dodělat první zákrok, potom se pacient musí souhlasit na jinou operaci  / + lékař musí výkon podle Lege Artis dokončit ",
+      "můžeme udělat, souhlas podepíše pacient potom"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "dodělat první zákrok, potom se pacient musí souhlasit na jinou operaci  / + lékař musí výkon podle Lege Artis dokončit "
+    ],
+    "description": [
+      "Lege Artis *je latinský výraz, který znamená* podle zákona a podle pravidel. V lékařském oboru se týká provádění postupů nebo léčby v souladu s etablovanými protokoly a směrnicemi. Tento výraz naznačuje, že činnost je prováděna správně, s odpovídajícími znalostmi a v souladu s nejlepšími postupy a etickými standardy. Podobně se v právním prostředí používá k popisu správné a zákonné cesty provádění úkolu, dodržování stanovených předpisů a postupů. Zdůrazňuje význam dodržování předepsaných pravidel a nařízení, aby se zajistila spravedlnost, právní jistota a integrita v jakémkoliv oboru."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "172. Pacient před operací podepsal souhlas o provedení zásahu ale během operace změnil názor. Co by měl lékař udělat? (pacient odmítl operaci, ale jeho stav je život ohrožující nebo není nebezpečný?) ",
+    "answers": [
+      "postupujte podle zákona (LegeArtis - Doktor musí dokončit manipulaci, aby nedošlo k poškození) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "postupujte podle zákona (LegeArtis - Doktor musí dokončit manipulaci, aby nedošlo k poškození) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "173. Žena podstoupí gynekologickou operaci a je ohrožena sterilizací. Bude porušena práva ženy?",
+    "answers": [
+      "Nemůžete sterilizovat ženu bez její souhlasu, protože práva ženy budou porušena / Byla porušena práva pacienta, protože lékaři nebrali souhlas pacienta se sterilizací "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Nemůžete sterilizovat ženu bez její souhlasu, protože práva ženy budou porušena / Byla porušena práva pacienta, protože lékaři nebrali souhlas pacienta se sterilizací "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "174. Co musí udělat lékař, když pacient odmítá vyslovit souhlas s poskytnutím zdravotních služeb, nejde o případ, kdy lze zdravotní služby poskytnout bez souhlasu: ",
+    "answers": [
+      "opakovaně podat informaci o jeho zdravotním stavu v rozsahu a způsobem, ze kterého je zřejmě, že neposkytnutí zdravotních služeb může vážně poškodit jeho zdraví nebo ohrozit život. Jestliže pacient i nadále odmítá vyslovit souhlas, učiní o tom písemné prohlášení (revers) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "opakovaně podat informaci o jeho zdravotním stavu v rozsahu a způsobem, ze kterého je zřejmě, že neposkytnutí zdravotních služeb může vážně poškodit jeho zdraví nebo ohrozit život. Jestliže pacient i nadále odmítá vyslovit souhlas, učiní o tom písemné prohlášení (revers) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "175. Během gynekologické operace u ženy došlo ke komplikaci (krvácení ohrožují život), potřebuje sterilizaci, co musím dělat?",
+    "answers": [
+      "nesmíme dělat sterilizaci",
+      "děláme sterilizaci, když to je nezbytné (nutné) pro záchranu její zdraví (správně to udělali) ",
+      "děláme, pozdě podepíše dodatečný souhlas - budíme, podepisuje souhlas, operace"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "děláme sterilizaci, když to je nezbytné (nutné) pro záchranu její zdraví (správně to udělali) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "176. Řešení o omezení svéprávnosti? ",
+    "answers": [
+      "Soud může omezit svéprávnost člověka v rozsahu, v jakém člověk není pro *(kvůli) duševní poruchu, která není jen přechodná, schopen právně jednat, a vymezí rozsah, v jakém způsobilost člověka samostatně právně jednat omezil ",
+      "může omezit soud v nutném rozsahu, duševně nemocní nebo duševně nemocní v remisi ",
+      "omezuje soud kvůli nevyléčitelné psychické nemoci ",
+      "může omezit soud v plně míře alkoholiky a drogové závislé",
+      "omezuje Ministerstvo zdravotnictví ",
+      "nelze omezit"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Soud může omezit svéprávnost člověka v rozsahu, v jakém člověk není pro *(kvůli) duševní poruchu, která není jen přechodná, schopen právně jednat, a vymezí rozsah, v jakém způsobilost člověka samostatně právně jednat omezil ",
+      "může omezit soud v nutném rozsahu, duševně nemocní nebo duševně nemocní v remisi ",
+      "omezuje soud kvůli nevyléčitelné psychické nemoci "
+    ],
+    "description": [
+      "Ochranné léčení (ústavní nebo ambulantní)  Psychiatrické, protialkoholní a protidrogové, sexuologické.  Ochranné léčení ukládá soud na základě vyjádření znalců v případech trestných činů pachatelů se zmenšenou příčetností nebo nepříčetných, jejichž pobyt na svobodě je nebezpečný pro společnost a rovněž u alkoholiků a jiných toxikomanů, kteří se v souvislosti se svou náchylností dopouštějí trestných činů. U mladistvého může být upuštěno od potrestání a být nahrazeno ochrannou výchovou. O propuštění rozhoduje soud na návrh ošetřujícího lékaře.    В третьому варіанті відповідь звучала  - může omezit soud v NEZBZTNÉ míře alkoholiky a drogové závislé  Я його не вибирала, бо не могла згадати чи є це в законі чи ні. Тому перевірте!!!  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "177. Incidence výskytu rakoviny prostaty? (předstojné žlázy) ",
+    "answers": [
+      "Klesá",
+      "Prudce klesá ",
+      "Zvyšuje se, ale úmrtnost klesá",
+      "na stejné úrovní"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Zvyšuje se, ale úmrtnost klesá"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "178. Úmrtnost (mortalita) u karcinomu prostaty (předstojné žlázy) ",
+    "answers": [
+      "klesá",
+      "prudce stoupa",
+      "prudce klesá",
+      "přibližně na stejné úrovní"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["klesá", "přibližně na stejné úrovní"],
+    "description": [
+      "Аппеляция.  Mortalita ca předstojná žláza - Klesá – красное ???В ответах разные варианты повышения, был один очень длинный ответ Варианта stejně не было   "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "Incidence a mortalita karcinomu prostaty?",
+    "answers": ["přibližně na stejné úrovní ", "klesá", "zvyšuje se"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["přibližně na stejné úrovní "],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "179. Zákon č. 258/2000 ",
+    "answers": ["Zákon o ochraně veřejného zdraví,  účinnost od 01/01/2001 "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Zákon o ochraně veřejného zdraví,  účinnost od 01/01/2001 "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "180. Zákon č. 258/2000 Sb. Zákon o ochraně veřejného zdraví upravuje ",
+    "answers": [
+      "práva a povinnosti fyzických a právnických osob v oblasti ochrany a podpory veřejného zdraví ",
+      "hrazení očkování (za vakcíny) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "práva a povinnosti fyzických a právnických osob v oblasti ochrany a podpory veřejného zdraví ",
+      "hrazení očkování (za vakcíny) "
+    ],
+    "description": [
+      "* hrazení očkování státem – 258/2000  * hrazení očkování zdravotní pojišťovnou probíhá podle zákona č. 48/1997   "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "181. O čem se jedna 258/2000? / Co reguluje? * Účinnost 1.1.2001 ",
+    "answers": [
+      "hygienické požadavky k provozu vody, vybavení zdravotnických a sociálních zařízení ",
+      "předcházení vzniku a šíření infekčních onemocnění ",
+      "Hygienické požadavky zdravotnických a některých sociálních zařízení "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "hygienické požadavky k provozu vody, vybavení zdravotnických a sociálních zařízení ",
+      "předcházení vzniku a šíření infekčních onemocnění ",
+      "Hygienické požadavky zdravotnických a některých sociálních zařízení "
+    ],
+    "description": [
+      "Zákon č.258/2000 Sb., o ochraně veřejného zdraví  • Voda a výrobky přicházející do přímého styku s vodou, chemické látky, chemické směsi a vodárenské technologie, koupaliště a sauny  • Podmínky pro výchovu, vzdělávání a zotavení dětí a mladistvých, podmínky vnitřního prostředí stavby a hygienické požadavky na venkovní hrací plochy pro hry dětí  • Hygienické požadavky na provoz zdravotnických zařízení a některých zařízení sociálních služeb • Hygienické požadavky na výkon činností epidemiologicky závažných a ubytovací služby  • Hygienické požadavky na předměty běžného užívání  • Ochrana před hlukem, vibracemi a neionizujícím zářením   • Ochrana zdraví při práci  • Očkování a spolupráce orgánů ochrany veřejného zdraví s poskytovateli zdravotních služeb • Ochranná dezinfekce, dezinsekce a deratizace  • Postup při zjištění výskytu infekčního onemocnění  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "182. Zákoník práce ",
+    "answers": ["262/2006 Sb. "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["262/2006 Sb. "],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "183. PRACOVNÍ POMĚR, PRACOVNÍ SMLOUVA A VZNIK PRACOVNÍHO POMĚRU? / Co reguluje vztah mezi zaměstnancem a zaměstnavatelem? ",
+    "answers": ["Zákon č. 262/2006 Sb.(Zákon zákoník práce) "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Zákon č. 262/2006 Sb.(Zákon zákoník práce) "],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "184. Pracovní poměr vzniká",
+    "answers": [
+      "pracovní smlouvou, jmenováním, volbou",
+      "pracovní smlouvou, dnem, který byl uveden jako den nástupu do práce nebo jmenování na pracovní místo ",
+      "smlouvou při podnikatelské činnosti, jmenováním"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "pracovní smlouvou, dnem, který byl uveden jako den nástupu do práce nebo jmenování na pracovní místo "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "185. Pracovní smlouva musí obsahovat",
+    "answers": [
+      "druh práce, místo nebo místa výkonu práce, den nástupu do práce ",
+      "druh práce, den nástupu do práce, adresa ",
+      "druh práce, den nástupu do práce, sídlo"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "druh práce, místo nebo místa výkonu práce, den nástupu do práce "
+    ],
+    "description": [
+      "§ 33   (1) Pracovní poměr se zakládá pracovní smlouvou mezi zaměstnavatelem a zaměstnancem, není-li v tomto zákoně dále stanoveno jinak.  § 34  (1) Pracovní smlouva musí obsahovat   a) druh práce, který má zaměstnanec pro zaměstnavatele vykonávat,  b) místo nebo místa výkonu práce, ve kterých má být práce podle písmene a) vykonávána,  c) den nástupu do práce.  (2) Pracovní smlouva musí být uzavřena písemně.  (3) Nenastoupí-li zaměstnanec ve sjednaný den do práce, aniž mu v tom bránila překážka v práci, nebo se zaměstnavatel do týdne (§ 350a) nedozví o této překážce, může zaměstnavatel od pracovní smlouvy odstoupit.  (4) Od pracovní smlouvy je možné odstoupit, jen dokud zaměstnanec nenastoupil do práce. Pro odstoupení od pracovní smlouvy se vyžaduje dodržení písemné formy, jinak se k němu nepřihlíží.  (5) Každá smluvní strana musí obdržet jedno vyhotovení pracovní smlouvy.   "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "186. Ukažte správnou odpověď",
+    "answers": [
+      "Každá smluvní strana musí obdržet jedno vyhotovení dohody o rozvázání pracovního poměru "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Každá smluvní strana musí obdržet jedno vyhotovení dohody o rozvázání pracovního poměru "
+    ],
+    "description": [
+      "Dohoda   § 49   (1) Dohodnou-li se zaměstnavatel a zaměstnanec na rozvázání pracovního poměru, končí pracovní poměr sjednaným dnem.   (2) Dohoda o rozvázání pracovního poměru musí být písemná.  (3) Každá smluvní strana musí obdržet jedno vyhotovení dohody o rozvázání pracovního poměru.   "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "187. Kdy může pracovní smlouva být ukončena:",
+    "answers": [
+      "vzájemnou dohodou (najednou, nebo odpracovat 2 měsíce), zrušení ve zkušební době, úmrtí zaměstnavatele, úmrtí zaměstnance, likvidaci podniku "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "vzájemnou dohodou (najednou, nebo odpracovat 2 měsíce), zrušení ve zkušební době, úmrtí zaměstnavatele, úmrtí zaměstnance, likvidaci podniku "
+    ],
+    "description": [
+      "Разорвать трудовой договор (Уволить) (262/2006) возможно по закону в таких случаях: +обоюдное соглашение   +после испытательного срока трудонаниматель понял, что его работник не очень  +если истек срок визы  + если работника осудили   +закончился срок договора   +при смерти либо того, либо того   "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "188. Kdy zaměstnavatel může dát lékaři výpověď? ",
+    "answers": [
+      "Podle zákonu dle zákonných lhůt za 2 měsíce, a taky jestli během posledních 6 měsíců už měl upozornění na možnost výpovědi ",
+      "pouze jednostranné, ze strany zaměstnavatele ",
+      "výpověď, ale zaměstnanec se může domluvit o prodloužení do 6 měsíc"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Podle zákonu dle zákonných lhůt za 2 měsíce, a taky jestli během posledních 6 měsíců už měl upozornění na možnost výpovědi "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "189. Pro výpověď platí: ",
+    "answers": [
+      "ve zvláštních případech může být řešeno jednostranně bez souhlasu druhé strány",
+      "nemusí být v písemné formě",
+      "může být ze strany zaměstnavatele uplatněna bez příčiny nebo z jakékoliv příčin",
+      "může být ze strany zaměstnance uplatněna bez příčiny nebo z jakékoliv příčin",
+      "bez souhlasu obou stran nemůže byt pracovní smlouva ukoňčená"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "ve zvláštních případech může být řešeno jednostranně bez souhlasu druhé strány",
+      "může být ze strany zaměstnance uplatněna bez příčiny nebo z jakékoliv příčin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "190. Způsoby rozvázání poměru:",
+    "answers": [
+      "dohoda a výpověď",
+      "dohoda a výpověď, okamžitě zrušení",
+      "dohoda a výpověď, okamžitě zrušení, zrušení ve zkušební době",
+      "dohoda a výpověď, zrušení ve zkušební době, smrt "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "dohoda a výpověď, okamžitě zrušení, zrušení ve zkušební době"
+    ],
+    "description": [
+      "* Podle zákonu: dohoda, výpověď, okamžitě zrušení, zrušení ve skušební době a smrt.   § 48   (1) Pracovní poměr může být rozvázán jen a) dohodou,  b) výpovědí,  c) okamžitým zrušením,   d) zrušením ve zkušební době.  (2) Pracovní poměr na dobu určitou končí také uplynutím sjednané doby.  (3) Pracovní poměr cizince nebo fyzické osoby bez státní příslušnosti, pokud k jeho skončení nedošlo již jiným způsobem, končí  a) dnem, kterým má skončit jejich pobyt na území České republiky podle vykonatelného rozhodnutí o zrušení povolení k pobytu,  b) dnem, kterým nabyl právní moci rozsudek ukládající těmto osobám trest vyhoštění z území České republiky,  c) uplynutím doby, na kterou bylo vydáno povolení k zaměstnání20), zaměstnanecká karta nebo povolení k dlouhodobému pobytu za účelem výkonu zaměstnání vyžadujícího vysokou kvalifikaci.  (4) Pracovní poměr zaniká smrtí zaměstnance. Zánik pracovního poměru v případě smrti zaměstnavatele, který je fyzickou osobou, upravuje § 342 odst. 1.    При смерті – zaníká   Okamžité zrušení pracovního poměru zaměstnavatelem   (1) Zaměstnavatel může výjimečně pracovní poměr okamžitě zrušit jen tehdy,   a) byl-li zaměstnanec pravomocně odsouzen pro úmyslný trestný čin k nepodmíněnému trestu odnětí   svobody na dobu delší než 1 rok, nebo byl-li pravomocně odsouzen pro úmyslný trestný čin spáchaný   při plnění pracovních úkolů nebo v přímé souvislosti s ním k nepodmíněnému trestu odnětí svobody    na dobu nejméně 6 měsíců,   b) porušil-li zaměstnanec povinnost vyplývající z právních předpisů vztahujících se k jím vykonávané   práci zvlášť hrubým způsobem.   (2) Zaměstnavatel nesmí okamžitě zrušit pracovní poměr s těhotnou zaměstnankyní, zaměstnankyní   na mateřské dovolené, zaměstnancem nebo zaměstnankyní, kteří čerpají rodičovskou dovolenou.   § 56   Okamžité zrušení pracovního poměru zaměstnancem   (1) Zaměstnanec může pracovní poměr okamžitě zrušit jen, jestliže,   a) podle lékařského posudku vydaného poskytovatelem pracovnělékařských služeb nebo rozhodnutí   příslušného správního orgánu, který lékařský posudek přezkoumává, nemůže dále konat práci bez   vážného ohrožení svého zdraví a zaměstnavatel mu neumožnil v době 15 dnů ode dne předložení   tohoto posudku výkon jiné pro něho vhodné p   "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "191. Počet nemocničních lůžek v nemocnicích za poslední 10 let? ",
+    "answers": ["snížený / snížil se", "stejný", "zvýšený"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["snížený / snížil se"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "192. Počet lůžek za poslední 20 let ",
+    "answers": ["snížen / klesá ", "snížen na 1/3"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["snížen / klesá "],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "193. Nezaměstnanost ",
+    "answers": [
+      "ovlivňuje úmrtnost (zvyšuje)",
+      "nemá vliv",
+      "prodlužuje průměrnou délku života"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["ovlivňuje úmrtnost (zvyšuje)"],
+    "description": ["*Vyšší nezaměstnanost = vyšší úmrtnost  "],
+    "img": [""]
+  },
+  {
+    "question": "194. Frekvence výskytu vrozených srdečních vad u ČR za rok?",
+    "answers": ["6-8:1000", "8 promile", "1:1000", "8 %", "0,8 promile"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["6-8:1000", "8 promile"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "195. Lékař poskytuje zdravotní službu mimo zdravotnické zařízení. Může být tato pomoc odbornou? ",
+    "answers": [
+      "ne, protože s sebou nemá patřičné (nutné) vybavení a nemůže plně poskytovat zdravotní služby",
+      "Ano, když lékař postupuje eticky, v zajmu pacienta, dodržuje všech podmínek kvalitní peče, hodnotí všechna rizika atd.",
+      "ne"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Ano, když lékař postupuje eticky, v zajmu pacienta, dodržuje všech podmínek kvalitní peče, hodnotí všechna rizika atd."
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "196. Kdy lékař mimo zdravotního zařazení může poskytnout lékařskou péče/službu? ",
+    "answers": [
+      "Při dodržení doporučeného postupu a to v objemu nutnému pro zachránění života",
+      "Při dodržení doporučeného postupu s počítáním individuality pacienta a to v omezením objemu",
+      "Při dodržení doporučeného postupu a ze zachraněním nutných podmínek pro kvalitní poskytnouti lékařské pomoci",
+      "Ne muže poskytnut"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Při dodržení doporučeného postupu a to v objemu nutnému pro zachránění života"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "197. Jaký zákon upravuje základní práva a povinnosti pacienta?",
+    "answers": ["zákon č. 372/2011 Sb"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["zákon č. 372/2011 Sb"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "198. V jakém roce vyšel zákon 372?",
+    "answers": ["2011 (ale účinnost od 01.04. 2012)"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["2011 (ale účinnost od 01.04. 2012)"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "199. Zákon č. 372/2011? ",
+    "answers": [
+      "práva a povinnosti pacienta",
+      "o ochraně práce",
+      "poskytování zdravotních služeb",
+      "o veřejném zdraví"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "práva a povinnosti pacienta",
+      "poskytování zdravotních služeb"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "200. Nejdůležitější zákon č. 372/2011 o zdravotních službách. O čem se jedna?",
+    "answers": [
+      "o povinnosti pacientů",
+      "o podmínkách poskytování zdravotních služeb"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "o povinnosti pacientů",
+      "o podmínkách poskytování zdravotních služeb"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "201. Co reguluje práce z omamnými a psychotropními látkami? ",
+    "answers": [
+      "Ministerstvo zdravotnictví ",
+      "krajský úřad",
+      "zákon 167/1998 o návykových látkách"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["zákon 167/1998 o návykových látkách"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "202. Jaké látky máme bezpečně chránit?",
+    "answers": [
+      "167/1998 Sb. (Zákon o návykových látkách)",
+      "Nařízení vlády č. 463/2013 - seznam omamné a psychotropní látky"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Nařízení vlády č. 463/2013 - seznam omamné a psychotropní látky"
+    ],
+    "description": [
+      "Nařízení vlády č. 463/2013 – o seznamu návykových (omamných a psychotropních) látek."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "203. Které látky uchováme jako omamné?",
+    "answers": [
+      "pouze psychotropní látky podle nařízení vlády č.463 o seznamu návykových látek v platném znění",
+      "omamné látky, uvedené v příloze č. 1 a č. 5 podle nařízení vlády č.463 o seznamu návykových látek v platném znění ",
+      "všechny omamné a psychotropní látky podle nařízení vlády č.463 o seznamu návykových látek v platném znění ",
+      "prekurzory omamných látek "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "všechny omamné a psychotropní látky podle nařízení vlády č.463 o seznamu návykových látek v platném znění ",
+      "prekurzory omamných látek "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "204. Co uchováme v ordinaci v nepřenosných uzamykatelných schránkách z kovu? / Co uchováme v kovových krabicích? *(uchováváme v nemocnice i jiných zdr. zařízeních) ",
+    "answers": [
+      "látky dle zákonu č. 167",
+      "omamné látky uvedené v příloze č. 1,2,3 a č. 5 podle nařízení vlády č. 463/2014 o seznamu návykových látek v platném znění не беремо тому що помилка в році закону, і інші латки",
+      "všechny narkotické a psychotropní dle zákonu č. 463",
+      "prekurzory omamných látek s důvodem, že s nich můžeme vyrábět omamné látky"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "látky dle zákonu č. 167",
+      "prekurzory omamných látek s důvodem, že s nich můžeme vyrábět omamné látky"
+    ],
+    "description": [
+      "Zákon o prekursorech drog   § 10   Skladování   (1) Návykové látky a přípravky musí být skladovány v uzamčených místnostech, jejichž stěny, stropy, podlahy, okna a dveře jsou z materiálu znesnadňujícího proniknutí ke skladovaným látkám, nebo v nepřenosných uzamykatelných schránách z oceli nebo ve zvláštním k tomu účelu vyrobeném uzamykatelném zařízení neoddělitelně ukotveném do stěny, stropu nebo podlahy zhotovených z pevných materiálů (například cihel nebo betonových panelů).   (2) Klíče od místností, ve kterých jsou skladovány návykové látky a přípravky, mohou být vydávány pouze určeným osobám a musí být uloženy odděleně od klíčů od ostatních místností v objektu.   (3) Skladované návykové látky a přípravky, jakož i výrobní zařízení k jejich výrobě nebo pěstování musí být chráněny před ztrátou, odcizením a zneužitím, a to zejména nepřetržitou fyzickou ostrahou a vhodnými technickými prostředky (oplocení, elektronické zabezpečovací zařízení apod.).  (4) Povinnosti uvedené v předchozích odstavcích nemusí být plněny při skladování, ke kterému není třeba povolení k zacházení.Skladovánív těchto případech však musí být zajištěno tak, aby ke skladovaným látkám neměly přístup nepovolané osoby. Ve zdravotnických zařízeních, v zařízeních poskytujících sociální služby a u osob oprávněných k poskytování veterinární péče musí být skladovány v nepřenosných uzamykatelných schránách z kovu návykové látky uvedené v příloze č. 1, 3, 4 nebo 5 nařízení vlády o seznamu návykových látek a přípravky je obsahující.   § 21   Skladování uvedených látek kategorie 1   (1) Podnikající fyzické osoby, právnické osoby a orgány státní správy jsou povinny a) skladovat uvedenou látku kategorie 1   1. v samostatné uzamčené místnosti, jejíž stěny, strop, podlaha, okna a dveře jsou neprůhledné a z materiálu znesnadňujícího proniknutí ke skladované uvedené látce kategorie 1,  2. v nepřenosné, uzamčené schráně z oceli, nebo  3. ve zvláštním, k tomu účelu zhotoveném uzamčeném zařízení neoddělitelně ukotveném do stěny, stropu nebo podlahy z pevných materiálů, zejména cihel nebo betonových panelů,   b) přiměřeně zabezpečit ochranu uvedené látky kategorie 1 a zařízení k její výrobě před ztrátou, odcizením nebo zneužitím, a to zejména nepřetržitou fyzickou ostrahou nebo vhodnými technickými prostředky, zejména oplocením a elektronickým zabezpečovacím zařízením, a  c) zabezpečit výdej klíčů od místnosti, schrány nebo zařízení, kde je skladována uvedená látka kategorie 1, pouze určeným osobám a jejich uložení odděleně od klíčů od ostatních prostorů objektu. (2) Pro skladování uvedené látky kategorie 1 Policií České republiky a Celní správou České republiky při plnění jejich úkolů se namísto odstavce 1 použije § 22 obdobně.   § 22   Skladování uvedených látek kategorie 2   Podnikající fyzické osoby, právnické osoby a orgány státní správy jsou při skladování uvedené látky kategorie 2 povinny přiměřeně zabezpečit její ochranu před ztrátou, odcizením nebo zneužitím.   Léčivý přípravek, který obsahuje návykovou látku nebo uvedenou látku opakovaně na jeden recept.   "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "205. Nejvyšší úmrtnost ve věku 15-19 let ",
+    "answers": [
+      "Sebevražda",
+      "nádory",
+      "Dopravní (autonehody)",
+      "rizikové chování"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Dopravní (autonehody)"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "206. Co dělat, když pacient léčbu odmítá a odmítání léčby nehrozí zdraví? ",
+    "answers": [
+      "přijmout odmítnutí léčby a propustit pacienta ",
+      "informovat policii a propustit pacienta",
+      "vysvětlit takovým způsobem, aby pacient všechno pochopil, že v důsledku neposkytnutí pomoci může dojít k závažnému poškození zdraví, i když přesto pacient odmítá pomoc, přijmout revers a podepsat",
+      "léčit povinné navzdory odmítnutí léčby"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "vysvětlit takovým způsobem, aby pacient všechno pochopil, že v důsledku neposkytnutí pomoci může dojít k závažnému poškození zdraví, i když přesto pacient odmítá pomoc, přijmout revers a podepsat"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "207. Hospitalizováno pacienta bez souhlasu, kdy a za jakých podmínek můžeme ukončit léčbu?",
+    "answers": ["rozhoduje lékař", "rozhoduje soud kdy a za jakých podmínek"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["rozhoduje lékař"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "208. Který zákonný zástupce může, na stejné úrovní jak i pacient, nahlížet do informace o zdravotním stavu pacienta? / Zákonný zástupce, který může nahlížet do dokumentace stejně jako pacient? ",
+    "answers": [
+      "sourozenec",
+      "rodiče",
+      "opatrovník pacienta",
+      "manželka, rodina, dětí"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["opatrovník pacienta"],
+    "description": [
+      "1. osoba, kterou určil pacient  2. osoba, která je pacientem uvedena na formuláři – Poučení a souhlas s hospitalizací. Tento formulář pacient vyplňuje a podepisuje při přijetí do nemocnice.  3. osoba zmocněná na základě plné moci  4. opatrovník  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "209. Kdo má právo nahlížet do zdravotnické dokumentace a žádat o její kopii?",
+    "answers": [
+      "rodič, sestra *(jen v akutních případech)",
+      "zákonní zástupce"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["zákonní zástupce"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "210. V jakých případech pacient může zakázat nahlížet do jeho zdravotnické dokumentace?",
+    "answers": [
+      "vždycky",
+      "nikdy",
+      "vždycky, jestli nejde o infekčních nebo dědičných nemocích"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "vždycky, jestli nejde o infekčních nebo dědičných nemocích"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
     "question": "shablon",
     "answers": ["shablon", "shablon", "shablon"],
     "book": ["Legislativa_Báze_2023"],
