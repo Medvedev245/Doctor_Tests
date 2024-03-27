@@ -2,6 +2,7 @@
 // import Klener from '../../Files/Checed';
 // import { Item, List } from './AllTests.styled';
 // import Legislativa from '../../Files/Legislativa_Báze_2023.json';
+// import Functions from 'Files/Functions';
 
 // const AllTests = () => {
 //   const [allTests, setAllTests] = useState(Legislativa);
@@ -48,6 +49,7 @@
 //           ))}
 //         </List>
 //       </div>
+//       <Functions></Functions>
 //     </>
 //   );
 // };
