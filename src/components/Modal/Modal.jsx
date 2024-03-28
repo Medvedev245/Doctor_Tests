@@ -31,6 +31,7 @@ const Modal = ({ active, setActive, closeModal, props }) => {
 
             <Text>{props.question}</Text>
             <Descr>{props.description}</Descr>
+
             <Img src={props.img} alt={props.question} />
           </ModalContent>
         </ModalContainer>

@@ -19,7 +19,7 @@ export const ContainerCheck = styled.div`
 
 // Общая кнопка
 export const Button = styled.button`
-  margin-bottom: 15px;
+  /* margin-bottom: 15px; */
   color: black;
   font-weight: 500;
   background-color: var(--iq-primary);
@@ -50,10 +50,11 @@ export const LinkToPage = styled(Link)`
 `;
 
 export const AnswerBlock = styled.div`
+  gap: 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 400px;
+  width: 435px;
   margin-bottom: 30px;
   margin: auto;
 
@@ -75,10 +76,10 @@ export const AnswerControl = styled.div`
   display: flex;
   gap: 20px;
   align-items: center;
-  margin-bottom: 20px;
 
   //mobil
   @media screen and (max-width: 767px) {
+    margin-bottom: 20px;
     display: flex;
     flex-direction: column;
   }

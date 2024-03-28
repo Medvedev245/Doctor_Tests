@@ -15,11 +15,9 @@
       "zdraví není jen absence nemoci i poruchy, ale je to stav komplexní tělesné, duševní i sociální pohody, který nemusí korespondovat s objektivním zjišťováním stavu jedince *(stav, komplexní tělesné, duševní i sociální pohody, a nejen nepřítomnost nemoci)"
     ],
     "description": [
-      "Було 2 таких тести. Перший ідентичний. Другий: що таке здоров'я? «297Hlavním úkolem WHO (SZO) je+ podporovat dosažení nejvyšší úrovně zdraví u všech lidí bez ohledu na rasu, náboženství a politické názory ✅»-  stav plné tělesné, duševní a sociální pohody a nikoli jen jako nepřítomnost nemoci či vady - вибрала це- інші відповіді короткі, неповні, або взагалі безглузді"
+      "Було 2 таких тести. Перший ідентичний. Другий: що таке здоров'я? «297Hlavním úkolem WHO (SZO) je+ podporovat dosažení nejvyšší úrovně zdraví u všech lidí bez ohledu na rasu, náboženství a politické názory »-  stav plné tělesné, duševní a sociální pohody a nikoli jen jako nepřítomnost nemoci či vady - вибрала це- інші відповіді короткі, неповні, або взагалі безглузді"
     ],
-    "img": [
-      "https://drive.usercontent.google.com/download?id=12RoxNGYNKcHP263vs_lsNv8Lfui3cF18"
-    ]
+    "img": [""]
   },
   {
     "question": "2. Equity nebo ekvity ohledně zdraví, co to je? ",
@@ -242,7 +240,7 @@
   {
     "question": "16. Kojenecká úmrtnost, co to je? 2016?",
     "answers": [
-      "počet dětí, které zemřely do 365 dnů (roku) na 1000 živě narozených dětí✅ 2016- 1,7 ‰ , 2018-  2.8  ‰, 2020- 2,3 ‰, 2021- 2,56  ‰",
+      "počet dětí, které zemřely do 365 dnů (roku) na 1000 živě narozených dětí 2016- 1,7 ‰ , 2018-  2.8  ‰, 2020- 2,3 ‰, 2021- 2,56  ‰",
       "do roku na 1000 všech narozených děti",
       "do roku na 100 živě narozených dítě",
       "do roku na 100000 živě narozených děti"
@@ -250,7 +248,7 @@
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
     "correctAnswers": [
-      "počet dětí, které zemřely do 365 dnů (roku) na 1000 živě narozených dětí✅ 2016- 1,7 ‰ , 2018-  2.8  ‰, 2020- 2,3 ‰, 2021- 2,56  ‰"
+      "počet dětí, které zemřely do 365 dnů (roku) na 1000 živě narozených dětí 2016- 1,7 ‰ , 2018-  2.8  ‰, 2020- 2,3 ‰, 2021- 2,56  ‰"
     ],
     "description": [""],
     "img": [""]
@@ -3283,7 +3281,7 @@
       "to je jediný možný způsob předepisování léčebného konopí pro terapeutické účely"
     ],
     "description": [
-      "- to je jediný možný způsob předepisování léčebného konopí pro technické účely   - neplatí (nepoužívá se) v ČR  - způsob pro předpisování opiátů    "
+      " to je jediný možný způsob předepisování léčebného konopí pro technické účely   - neplatí (nepoužívá se) v ČR  - způsob pro předpisování opiátů    "
     ],
     "img": [""]
   },
@@ -3724,8 +3722,8 @@
   {
     "question": "262. Kdo určuje hodnotu a obsah služeb při uzavření smlouvy mezi pojišťovnou a poskytovatelem zdravotních služeb?",
     "answers": [
-      "- pojišťovna",
-      "- poskytovatel zdravotních služeb",
+      " pojišťovna",
+      " poskytovatel zdravotních služeb",
       "krajský úřad a Ministerstvo"
     ],
     "book": ["Legislativa_Báze_2023"],
@@ -4695,14 +4693,1427 @@
     "img": [""]
   },
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "331. Co se NEzahrnuje v druhy zdravotnických služeb? / Co NEpatří k zdravotnickým službám?",
+    "answers": [
+      " Administrativní služby ",
+      " sociální služby ",
+      " Doprava (převoz) mrtvol",
+      " Konzultační komise pro předepisování léčby pacientovi"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [" Administrativní služby ", " sociální služby "],
+    "description": [""],
+    "img": [
+      "•Administrativní služby a sociální služby nejsou zdravotnickými službami. Tyto služby mají spíše administrativní nebo sociální povahu a neposkytují přímou lékařskou péči nebo ošetření pacienta."
+    ]
+  },
+
+  {
+    "question": "332. Formy zdravotní péče",
+    "answers": [
+      " Formami zdravotní péče jsou ambulantní péče, jednodenní péče, lůžková péče a zdravotní péče poskytovaná ve vlastním sociálním prostředí pacienta "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Formami zdravotní péče jsou ambulantní péče, jednodenní péče, lůžková péče a zdravotní péče poskytovaná ve vlastním sociálním prostředí pacienta "
+    ],
     "description": [""],
     "img": [""]
   },
+
+  {
+    "question": "333. Ambulantní peče (372/2011)",
+    "answers": [
+      " ambulantní péče je zdravotní péčí, při níž se nevyžaduje hospitalizace pacienta nebo přijetí pacienta na lůžko "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " ambulantní péče je zdravotní péčí, při níž se nevyžaduje hospitalizace pacienta nebo přijetí pacienta na lůžko "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "334. Stacionární péče",
+    "answers": [
+      " poskytování zdravotní péče pacientům, jejichž zdravotní stav vyžaduje opakované denní poskytování ambulantní péče ",
+      " jestli potřebuje urgentní stanovení diagnózy",
+      " jednodenní péče"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " poskytování zdravotní péče pacientům, jejichž zdravotní stav vyžaduje opakované denní poskytování ambulantní péče "
+    ],
+    "description": [
+      "* pacient musí denně navštěvovat ambulantní zařízení pro péče    **rozdíl v 1 slově tak ze opatrně  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "335. Co patří ambulantní péče?",
+    "answers": [" primární péče ", " sekundární péče "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" primární péče ", " sekundární péče "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "336. Návštěvní péče patří",
+    "answers": [
+      " k péče po chirurgických operacích",
+      " k ambulantní péče (DLOUHA odpověď pro ambulantní péče a něco pro to, že to musí udělat registrující lékař) ",
+      " k péče v ortopedii",
+      " k péče v traumatologii"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " k ambulantní péče (DLOUHA odpověď pro ambulantní péče a něco pro to, že to musí udělat registrující lékař) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "337. Principy zdravotní pojišťovny:",
+    "answers": [
+      " princip solidarity pracujících s nepracujícími, bohatých z chudými, zdravých z nemocnými ",
+      " povinnost pojišťovny zajistit poskytování zdravotních služeb pojištěncům",
+      " konkurence mezi pojišťovnami",
+      " princip absolutně bezplatné pomoci při kterýchkoliv podmínkách"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " princip solidarity pracujících s nepracujícími, bohatých z chudými, zdravých z nemocnými "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "338. Co je komunitní peče?",
+    "answers": [
+      " zdravotní, sociální a další služby, které jsou poskytovány skupinám určité komunity. Tyto služby doplňují primární péče "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " zdravotní, sociální a další služby, které jsou poskytovány skupinám určité komunity. Tyto služby doplňují primární péče "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "339. Komunitní péče?",
+    "answers": [
+      " skládá se ze zdravotnických, sociálních a dalších služeb, za předpokladu, že nejen pacienta a zdraví občanů "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " skládá se ze zdravotnických, sociálních a dalších služeb, za předpokladu, že nejen pacienta a zdraví občanů "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "340. Kde je možné získat komunitní péči?",
+    "answers": [
+      " v oblasti sociálního společného pobytu ",
+      " doma *(domovy pro seniory)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " v oblasti sociálního společného pobytu ",
+      " doma *(domovy pro seniory)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "341. Ambulantní zařízení většinou jsou/ Ambulance na území ČR jsou v podstatě:",
+    "answers": [" soukromé formy vlastnictví (80%) ", " státní zařízení"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" soukromé formy vlastnictví (80%) "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "342. Typy vlastnictví instituce (zřízení) poskytujících ambulantní péče:",
+    "answers": [" soukromé ", " statní "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" soukromé ", " statní "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "343. Ambulantní péče se vždy poskytuje",
+    "answers": [" státními zařízení a soukromí zařízení "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" státními zařízení a soukromí zařízení "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "344. Úhrada za ambulantní péči",
+    "answers": [
+      " smíšený (kapacita + výkon), specializovaná péče – jen výkon "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " smíšený (kapacita + výkon), specializovaná péče – jen výkon "
+    ],
+    "description": [
+      "Ambulantní péče   Primární péče - nutná registrace:  • praktický lékař, praktický lékař pro děti a dorost - fungují na principu kapitačně-výkonové platby  • stomatolog a gynekolog a ambulantní specialisty - výkonový systém úhrad      V ambulantních službách se uplatňují tyto základní formy proplácení:  - kapitace (paušalní příspěvek na každého zaregistrovaného pacienta, tj. per capita, obvykle proplacený měsíčně),  - za provedené výkony (výkonový způsob úhrady, který najdeme především u ambulantních specialistů a v domácí péči – lékaři a sestry vykazují provedené výkony zdravotním pojišťovnám),  - kombinace obou (např. u praktických lékařů jsou asi dvě třetiny péče hrazeny kapitaci a v jedné třetině jsou proplaceny výkony, např. očkování, preventivní prohlídky, návštěvní služba).  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "345. Úhrady ambulantním specialistům?",
+    "answers": [
+      " smíšená – výkonový a kapitační plat",
+      " výkonová ",
+      " kapitační",
+      " přímo zaplatí"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" výkonová "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "346. Financování ambulantních a praktických lékařů? / Financování primární péče:",
+    "answers": [
+      " kapitační a přímý výkonový plat",
+      " smíšený kapitační a výkonový plat ",
+      " výkonový ",
+      " kapitační "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " smíšený kapitační a výkonový plat ",
+      " výkonový ",
+      " kapitační "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "347. Kapitační plat",
+    "answers": [
+      " prospektivní platba, kterou obdrží poskytovatel zdravotní péče na úhradu nákladů. Způsob platby zdravotní pojišťovnou za poskytnutou zdravotní péči. Jde o placení za „hlavu“. Je poskytována pevnou částkou na jednoho registrovaného pacienta s přihlédnutím k věku a demografickým či jiným charakteristikám pojištěnce. Je využívána zejména v oblasti primární péče "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " prospektivní platba, kterou obdrží poskytovatel zdravotní péče na úhradu nákladů. Způsob platby zdravotní pojišťovnou za poskytnutou zdravotní péči. Jde o placení za „hlavu“. Je poskytována pevnou částkou na jednoho registrovaného pacienta s přihlédnutím k věku a demografickým či jiným charakteristikám pojištěnce. Je využívána zejména v oblasti primární péče "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "348. Kdo dostává kapitační plat?",
+    "answers": [
+      " příspěvek na každého zaregistrovaného pacienta u praktického lékaře / jen praktické lékaře dostávají fixovaný příspěvek na každého zaregistrovaného pacienta ",
+      " všechny ambulantní a specializační lékaře u kterých jsou zaregistrované pacienty",
+      " praktické + odborné specialisty",
+      " jenom praktické + závisí od výkonů"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " příspěvek na každého zaregistrovaného pacienta u praktického lékaře / jen praktické lékaře dostávají fixovaný příspěvek na každého zaregistrovaného pacienta "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "349. Komu se platí kapitační platba?",
+    "answers": [
+      " praktickým lékařům pracujícím v ambulantních odděleních nemocnic ",
+      " praktickým lékařům pracujícím v okresních ambulancích ",
+      " všeobecným lékařům a lékařům-specialistům",
+      " terapeutům",
+      " ambulantním specialistům v nemocnici",
+      " ambulantním specialistům za každého registrovaného pacienta"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " praktickým lékařům pracujícím v ambulantních odděleních nemocnic ",
+      " praktickým lékařům pracujícím v okresních ambulancích "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "350. Co je paliativní péče?",
+    "answers": [
+      " účelem je zmírnění utrpení a zachování kvality života pacienta, který trpí nevyléčitelnou nemocí ",
+      " účelem je zmírnění utrpení a zachování kvality života pacienta, který trpí chronickou nemoc",
+      " účelem je navracení do předchozího stavu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " účelem je zmírnění utrpení a zachování kvality života pacienta, který trpí nevyléčitelnou nemocí "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "351. Paliativní pomoc (péče)?",
+    "answers": [" terminální péče (pomoc nevyléčitelně nemocnému člověku) "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " terminální péče (pomoc nevyléčitelně nemocnému člověku) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "352. Terminální péče?",
+    "answers": [" stejné jako paliativní péče "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" stejné jako paliativní péče "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "353. Jednodenní ošetřovatelská péče o nemocném pacientu, co to je?",
+    "answers": [
+      " zdravotní péče, která vyžaduje, pobyt pacienta na lůžku po dobu kratší něž 24 hodin ",
+      " služby, které trvá do 24h"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " zdravotní péče, která vyžaduje, pobyt pacienta na lůžku po dobu kratší něž 24 hodin "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "354. Způsoby financování zdravotní péče v ČR",
+    "answers": [
+      " kapitační platba ",
+      " platba za výkony ",
+      " smíšená kapitačně-výkonová platba"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " kapitační platba ",
+      " platba za výkony ",
+      " smíšená kapitačně-výkonová platba"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "356. Naléhavá péče, co to je?",
+    "answers": [
+      " prevence nebo snižování akutních onemocnění, které ohrožují život nebo muže vést k úmrtí nebo ohrožení zdraví, náhlá bolest, změny v chování, pacient současně ohrožuje sebe i ostatní "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " prevence nebo snižování akutních onemocnění, které ohrožují život nebo muže vést k úmrtí nebo ohrožení zdraví, náhlá bolest, změny v chování, pacient současně ohrožuje sebe i ostatní "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "357. Akutní péče, co je to?",
+    "answers": [
+      " účelem je odvrácení vážného zhoršení zdravotního stavu nebo snížení rizika vážného zhoršení zdravotního stavu tak, aby byly včas zjištěny skutečnosti nutné pro stanovení nebo změnu individuálního léčebného postupu nebo aby se pacient nedostal do stavu, ve kterém by ohrozil sebe nebo své okolí "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " účelem je odvrácení vážného zhoršení zdravotního stavu nebo snížení rizika vážného zhoršení zdravotního stavu tak, aby byly včas zjištěny skutečnosti nutné pro stanovení nebo změnu individuálního léčebného postupu nebo aby se pacient nedostal do stavu, ve kterém by ohrozil sebe nebo své okolí "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "358. Kvalita zdravotní peče якість медичної допомоги",
+    "answers": [" struktura, proces, výsledek "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" struktura, proces, výsledek "],
+    "description": [
+      "   • struktura (místnosti a zařízení);  • proces (kontakt mezi pacientem a lékařem);    • výsledek (spokojenost pacienta).  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "359. Komplexní domácí péče - zdravotní a sociální péči o pacienty v jejich vlastním sociálním prostředí, jejich domovech - zahrnuje?",
+    "answers": [
+      " pečovatelská služba",
+      " ošetřovatelská služba",
+      " osobní asistence",
+      " kompenzační pomůcky",
+      " všechny odpovědi jsou správné "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" všechny odpovědi jsou správné "],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "360. Poskytování péče mimo zařízení. Co znamená?",
+    "answers": [
+      " zdravotní péče poskytované ve vlastním sociálním prostředí, zdravotnické dopravní služby, přepravy pacientů neodkladné péče, přednemocniční neodkladné péče poskytované v rámci zdravotnické záchranné služby, zdravotních služeb poskytovaných v mobilních zdravotnických zařízeních ozbrojených sil za krizových situací a jde-li o převoz těla zemřelého na pitvu a z pitvy "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " zdravotní péče poskytované ve vlastním sociálním prostředí, zdravotnické dopravní služby, přepravy pacientů neodkladné péče, přednemocniční neodkladné péče poskytované v rámci zdravotnické záchranné služby, zdravotních služeb poskytovaných v mobilních zdravotnických zařízeních ozbrojených sil za krizových situací a jde-li o převoz těla zemřelého na pitvu a z pitvy "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "361. Peče poskytnuta mimo zdravotnické zařízení může byt kvalitní?",
+    "answers": [" Ano "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Ano "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "362. Jaké služby je možné poskytnout mimo zdravotnické zařízení?",
+    "answers": [
+      " záchranná služba, převoz těla mrtvého pro pitvu, doprava orgánů pro transplantace ",
+      " pohotovostí služba, záchranná služba, převoz těla mrtvého pro pitvu",
+      " nelze poskytovat mimo zdravotnické zařízení"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " záchranná služba, převoz těla mrtvého pro pitvu, doprava orgánů pro transplantace "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "363. Kde můžeme poskytnout zdravotní služby v rámkách oprávnění k poskytování zdravotních služeb?",
+    "answers": [
+      " kdekoliv, kde je zařízení",
+      " pouze ve zdravotnických zařízeních v místech uvedených v oprávnění k poskytování zdravotních služeb ",
+      " doma u pacienta ",
+      " všechné služby poskytujeme v ambulance nebo jiném zdravotním zařízení"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " pouze ve zdravotnických zařízeních v místech uvedených v oprávnění k poskytování zdravotních služeb ",
+      " doma u pacienta "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "364. Jakou pomoc můžeme poskytnout mimo nemocnice?",
+    "answers": [" přednemocniční neodkladnou péče "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" přednemocniční neodkladnou péče "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "365. Hospic je (zákon č.372/2011)",
+    "answers": [
+      " k léčbě kriticky nemocných v terminálním stadiu ",
+      " název se už nepoužívá",
+      " nyní je to lékařko-diagnostický název"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" k léčbě kriticky nemocných v terminálním stadiu "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "366. Musí oznamovat smrt osoby nebo při nalezení části těla / Kdo povinen oznámit nález těla a časti těla?",
+    "answers": [" každý člověk "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" každý člověk "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "367. Jak napsáno v zákoně 2/1993? Listina základních práv a svobod",
+    "answers": [
+      " každý občan má právo na odbornou bezplatnou lékařskou péče a zdravotní pomůčky na základě zákona o veřejném zdravotním pojištění ",
+      " každý člověk s trvalém pobytem má právo na odbornou a bezplatnou péče",
+      " každý člověk má právo na na bezplatnou zdravotní péči a zdravotní pomůcky",
+      " Občané mají právo za podminek určených zákonem"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " každý občan má právo na odbornou bezplatnou lékařskou péče a zdravotní pomůčky na základě zákona o veřejném zdravotním pojištění "
+    ],
+    "description": [
+      "pokud bude odpověď – “Každý má právo na ochranu zdraví” – také bude správně. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "368. Dle kterého zákona pacient má nárok na ošetření zdarma?",
+    "answers": [
+      " 48/1997",
+      " 2/1993 Listina základních práv a svobod ",
+      " Úmluva o lidských právech a biomedicíně",
+      " 372/2011",
+      " 258/2000"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 2/1993 Listina základních práv a svobod "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "369. Jaké musí byt vzdělaní pro výkon funkce vedoucího lékaře a primáře?",
+    "answers": [
+      " specializovaná způsobilost nebo úspěšné vykonání zkoušky před oborovou komisí Vědecké rady Komory ",
+      " 8 let praxe v daném oboru ",
+      " účast v systému celoživotního vzdělávání lékařů / splnění podmínek účasti v systému celoživotního vzdělávání lékařů ",
+      " odborná způsobilost",
+      " 2-3 roky praxe v daném oboru",
+      " kurzy marketingu",
+      " dostat odbornou způsobilost a 7 let pracovat",
+      " dostat odbornou způsobilost a absolvovat manažerské kurzy",
+      " specializovaná způsobilost a 3 roky praxe v daném oboru"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " specializovaná způsobilost nebo úspěšné vykonání zkoušky před oborovou komisí Vědecké rady Komory ",
+      " 8 let praxe v daném oboru ",
+      " účast v systému celoživotního vzdělávání lékařů / splnění podmínek účasti v systému celoživotního vzdělávání lékařů "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "370. Z jakého důvodu může být odejmuto oprávnění?",
+    "answers": [
+      " nepracuje déle než 1 rok ",
+      " lékař neprovádí elektronické lékařské záznamy",
+      " nepracuje déle než 6 měsíců"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" nepracuje déle než 1 rok "],
+    "description": [
+      "* Příslušný správní orgán může odejmout oprávnění k poskytování zdravotních služeb, jestliže zdravotní služby nejsou poskytovány po dobu delší než 1 rok."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "371. Licence může být odejmuta, jestli",
+    "answers": [
+      " vystoupení z komory, vyloučení z komory, omezena způsobilost, porušil povinnost vykonávat své povolání odborně, užití návykových látek, zneužívá svého postavení, trestní řízení pro úmyslný trestný čin v souvislosti s výkonem lékařského povolání, zdravotní stav lékaře "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " vystoupení z komory, vyloučení z komory, omezena způsobilost, porušil povinnost vykonávat své povolání odborně, užití návykových látek, zneužívá svého postavení, trestní řízení pro úmyslný trestný čin v souvislosti s výkonem lékařského povolání, zdravotní stav lékaře "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "372. Ve vztahu ke které z těchto fyzických nebo právnických osob má správní orgán právo sebrat oprávnění na poskytování zdravotnických služeb?",
+    "answers": [
+      " osoba, která neposkytuje lékařské služby déle než 6 měsíců",
+      " právnická osoba, která není pojištěna v případě odpovědnosti za škodu způsobenou v souvislosti s poskytováním zdravotnických služeb ",
+      " osoba, která vede dokumentaci pouze v elektronické podobě",
+      " Tváře právního, správního orgánu o změnách (který informoval?) týkajících dat ukázaných rozhodnutí o povolení k vykreslení poskytování zdravotních služeb"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " právnická osoba, která není pojištěna v případě odpovědnosti za škodu způsobenou v souvislosti s poskytováním zdravotnických služeb "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "373. Financování zdravotní péče v ČR, nejvíc? (Peníze pro veřejné zdravotní pojištění)",
+    "answers": [
+      " hlavně zdravotní pojištění ",
+      " pojištění a daně",
+      " daně",
+      " stát",
+      " dary",
+      " nerovnoprávnost",
+      " malé financování ",
+      " nízká dostupnost"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" hlavně zdravotní pojištění ", " malé financování "],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "374. Jaký je nedostatek systému financování veřejného zdraví ",
+    "answers": [" nerovnoprávnost", " malé financování ", " nízká dostupnost"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" malé financování "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "375. Do jakých zemí patří Česká Republika?",
+    "answers": [
+      " do zemí s nízkou úrovni tuberkulózy ",
+      " do zemí s vysokou úrovní tuberkulózy",
+      " diagnostikuje se jen miliární tuberkulóza"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" do zemí s nízkou úrovni tuberkulózy "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "376. Kdo může podat stížnost proti lékaře",
+    "answers": [
+      " Pacient a jeho oficiální zástupce; příbuzný v případě smrti prvního nebo, když zdravotní stav pacienta neumožňuje, aby pacient podal stížnost sám; osoba pověřená notářem ",
+      " Pacient, jeho oficiální zástupce, příbuzný (v případě smrti prvního)",
+      " Pacient, jeho oficiální zástupce, notářský zástupce"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Pacient a jeho oficiální zástupce; příbuzný v případě smrti prvního nebo, když zdravotní stav pacienta neumožňuje, aby pacient podal stížnost sám; osoba pověřená notářem "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "377. Pokud už podali stížnost proti lékaře, kdo bude v komisi pro její řešení? / Kdo může zvážit porušení lékaře?",
+    "answers": [
+      " právník, lékař, soudní znalec ",
+      " pacient, jeho oficiální zástupce, příbuzný, osoba pověřená notářem"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" právník, lékař, soudní znalec "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "378. Kdy lékař může odmítnout pacientovi, který chce registrovat u nej?",
+    "answers": [
+      " jestli bude překročeno únosné pracovní zatížení nebo jeho přijetí brání provozní důvody, personální zabezpečení nebo technické a věcné vybavení zdravotnického zařízení ",
+      " pokud pacient bydlí daleko a je dostupný vedlejší lékař",
+      " pokud je překročen limit peněz z pojištění",
+      " pokud vzdálenost místa pobytu pacienta neumožňovala v případě poskytování zdravotních služeb v oboru všeobecné praktické lékařství a praktické lékařství pro děti a dorost, výkon návštěvní služby "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " jestli bude překročeno únosné pracovní zatížení nebo jeho přijetí brání provozní důvody, personální zabezpečení nebo technické a věcné vybavení zdravotnického zařízení ",
+      " pokud vzdálenost místa pobytu pacienta neumožňovala v případě poskytování zdravotních služeb v oboru všeobecné praktické lékařství a praktické lékařství pro děti a dorost, výkon návštěvní služby "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "379. V jakém případě může lékař odmítnout v ošetření pacientu? Pacient zavolal a naléhá na přijati ho neodkladno?",
+    "answers": [
+      " jestli jeho přijetí brání provozní důvody ",
+      " podle názoru lékaře",
+      " pokud existuje zdravotní zařízení, která je umístěna blíž než ta, na kterou pacient se obrátí"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" jestli jeho přijetí brání provozní důvody "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "380. Pokud lékaři, který skončil pracovní dobu, zavolali a požádali o pomoci neakutnímu pacientovi do 90 km od místa pobytu lékaře?",
+    "answers": [" může odmítnout "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" může odmítnout "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "381. Praktický lékař odmítl registrace nezaregistrovaného pacienta ve své ambulanci pro plnou kapacitu, a taky pacient potřebuje každodenní kontrolu a bydlí za 90 km od ambulance:",
+    "answers": [
+      " má právo / ano, mohl to udělat ",
+      " ne, o míře, jak bude únosné přijmout pacienta řeší pojišťovna",
+      " ne, o míře únosného řeší poskytovatel s pojišťovnou"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" má právo / ano, mohl to udělat "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "382. Praktický lékař může odmítnout pacientu, který bydlí za 90 km?",
+    "answers": [
+      " může odmítnout, protože bude snížení kvality poskytovaných služeb a nemožnost zajistit návštěvy "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " může odmítnout, protože bude snížení kvality poskytovaných služeb a nemožnost zajistit návštěvy "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "383. Lékař má podezření na apendicitidu u dítěte, ale rodiče odmítají jet do nemocnice:",
+    "answers": [
+      " zahájit léčbu bez souhlasu rodičů",
+      " nahlásit sociální službu a ona přijme nutné opatření "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " nahlásit sociální službu a ona přijme nutné opatření "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "384. Přibližný věk žen v ČR, které rodily prvního dítěte (v době prvního těhotenství) během posledních 20 let / Věk prvorodiček v ČR?",
+    "answers": [
+      " klesl",
+      " nezměnil se",
+      " stoupl více než o 15 let / stoupl na 13 let",
+      " stoupl "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" stoupl "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "385. Počet úmrtí způsobených vnějšími příčinami?",
+    "answers": [" na stejné úrovni "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" na stejné úrovni "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "386. Dítě ve špatném stavu, nezahájení pomoci může přivést k vážnému poškození zdraví a navíc k smrti. Rodiče odmítají léčbu. Co musí udělat lékař?",
+    "answers": [
+      " přijmeme odmítnutí léčby a pustíme je domu",
+      " zahájit léčbu, přestože rodiče léčbu odmítají ",
+      " oznámit soud a čekat na jeho nařízení"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" zahájit léčbu, přestože rodiče léčbu odmítají "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "387. Jaké metody používá vláda pro podporu zdraví “Health promotion”?",
+    "answers": [
+      " bere v úvahu INDIVIDUÁLNÍ *(determinantna) lidské zdraví, metody, které jsou k tomu určeny (stát pomáhá člověku zlepšit podmínky jeho individuálního zdraví) ",
+      " proces během kterého stát umožňuje/pomáhá jedincu/člověku zvýšit kontrolu nad svým zdravím a zlepšit podmínky jeho individuálního zdraví ",
+      " vliv na jednotlivce"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " bere v úvahu INDIVIDUÁLNÍ *(determinantna) lidské zdraví, metody, které jsou k tomu určeny (stát pomáhá člověku zlepšit podmínky jeho individuálního zdraví) ",
+      " proces během kterého stát umožňuje/pomáhá jedincu/člověku zvýšit kontrolu nad svým zdravím a zlepšit podmínky jeho individuálního zdraví "
+    ],
+    "description": [
+      "*(velmi podobné odpovědi, rozdíl v zásadách skupiny populace nebo jednotlivce)"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "388. V kterém roce byl přijat zákon o podpoře zdraví?",
+    "answers": [
+      " 1986 - Ottawská charta, první světová konference (health promotion) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " 1986 - Ottawská charta, první světová konference (health promotion) "
+    ],
+    "description": [
+      "Rok 1986 je významný z hlediska Ottawské charty a první světové konference. Zde je informace o obou událostech:  1.Ottawská charta: Ottawská charta, známá také jako Ottawská deklarace, byla přijata na prvním mezinárodním sympoziu o zdraví v Ottawě, Kanadě, v roce 1986. Tato charta se týká zdraví a podporuje zásadu, že zdraví je základním lidským právem a že každá vláda má odpovědnost za zajištění zdraví svých občanů. Hlavním poselstvím Ottawské charty je, že zdraví je více než pouhá absence nemoci; je to stav úplné fyzické, duševní a sociální pohody.  2.První světová konference: První světová konference, která je spojena s Ottawskou chartou, se konala v Ottawě, Kanadě, také v roce 1986. Tato konference byla zaměřena na zdraví a jejím hlavním cílem bylo diskutovat o strategiích a opatřeních pro dosažení zdraví pro všechny. Na konferenci se sešli zástupci zemí, kteří diskutovali o tématech jako prevence nemocí, zdravotní vzdělávání, rovnost ve zdravotní péči a sociální determinanty zdraví.  Ottawská charta a první světová konference představovaly významný milník v oblasti veřejného zdraví. Tyto události podpořily rozvoj globálních strategií a politik zaměřených na zlepšení zdraví a prevenci nemocí na celém světě.  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "389. Longitudinální výzkum (dlouhodobé sledování/studie)",
+    "answers": [
+      " metoda empirického výzkumu, při které je určitý jev nebo vzorek populace zkoumán po určité časové období, v některých případech až po několik desetiletí / Longitudinální výzkum zahrnuje studování stejné skupiny jednotlivců po delší časové období ",
+      " studovaní různých skupin",
+      " Longitudinální výzkum zahrnuje studování skupiny jednotlivců na krátkou dobu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " metoda empirického výzkumu, při které je určitý jev nebo vzorek populace zkoumán po určité časové období, v některých případech až po několik desetiletí / Longitudinální výzkum zahrnuje studování stejné skupiny jednotlivců po delší časové období "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "390. Co je kontrolovaný pokus?",
+    "answers": [
+      " především dvojitě slepý experiment – výzkumná metoda která srovnává výsledky z experimentálních vzorků (léků) s kontrolními vzorky (léky) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " především dvojitě slepý experiment – výzkumná metoda která srovnává výsledky z experimentálních vzorků (léků) s kontrolními vzorky (léky) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "391. Očkování proti chřipce během těhotenství",
+    "answers": [
+      " Na základě nedávného doporučení expertní skupiny Světové zdravotnické organizace, skupina těhotných žen je v současné době nejrizikovější skupinou, která by měla být očkována třivalentní inaktivovanou vakcínou proti chřipce ",
+      " je to nezbytné v souvislosti se snížením imunity",
+      " je zapotřebí v souvislosti se zvýšeným rizikem infekce plodu",
+      " kontraindikováno"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Na základě nedávného doporučení expertní skupiny Světové zdravotnické organizace, skupina těhotných žen je v současné době nejrizikovější skupinou, která by měla být očkována třivalentní inaktivovanou vakcínou proti chřipce "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "392. Očkování proti chřipce během těhotenství",
+    "answers": [
+      " je doporučené, protože těhotné jsou nejrizikovější skupinou onemocnět závaznou formou chřipky a chřipka u těhotných probíhá těžce ",
+      " je doporučené, protože chrání od jiných infekci",
+      " není doporučené",
+      " neočkujeme těhotných"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " je doporučené, protože těhotné jsou nejrizikovější skupinou onemocnět závaznou formou chřipky a chřipka u těhotných probíhá těžce "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "393. Karel Raška – kdo to je?",
+    "answers": [
+      " epidemiolog, očkování proti pravé neštovice ",
+      " epidemiolog, očkování proti spalničkám"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" epidemiolog, očkování proti pravé neštovice "],
+    "description": [
+      "Karel Raška byl významný český lékař, epidemiolog a veřejný zdravotník. Narodil se 4. ledna 1924 v Praze a zemřel 25. února 2013. Měl významný přínos v oblasti mezinárodního veřejného zdraví a jeho práce měla vliv na celosvětové zdravotnické politiky.  Karel Raška se specializoval na epidemiologii, což je studium výskytu a šíření nemocí v populaci. Byl předním odborníkem na infekční nemoci a zdravotnická opatření proti nim. Jeho výzkum a práce se zaměřovaly na prevenci a kontrolu nemocí, včetně epidemií, jako například tuberkulózy, virových hepatitid, HIV/AIDS a dalších.  Karel Raška sehrál klíčovou roli při vytvoření strategií pro řešení zdravotních krizí a ochranu veřejného zdraví. Byl také významným členem Světové zdravotnické organizace (WHO) a zastával různé vedoucí pozice v oblasti veřejného zdraví, včetně předsedy vědeckého výboru WHO pro virové hepatitidy.  Karel Raška byl uznáván jako vynikající odborník, jehož práce ovlivnila mnoho dalších vědců a odborníků v oblasti veřejného zdraví. Jeho přínos k výzkumu, prevenci a kontrole nemocí mu vynesl mnoho ocenění a uznání jak na národní, tak mezinárodní úrovni.  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "394. Očkování proti spalničkám (measles)",
+    "answers": [" 1964 roce vynalezena (od 1969 – povinná) "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 1964 roce vynalezena (od 1969 – povinná) "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "395. Očkování proti zarděnkám?",
+    "answers": [" povinné pro všechny "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" povinné pro všechny "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "396. Povinné očkování proti",
+    "answers": [
+      " Spalničkám, zarděnkám, přiušnicím, záškrtu, černému kašli, invazivním infekcím způsobeným Haemophillus influenzae typu b, dětské obrně, žloutence typu B a tetanu "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Spalničkám, zarděnkám, přiušnicím, záškrtu, černému kašli, invazivním infekcím způsobeným Haemophillus influenzae typu b, dětské obrně, žloutence typu B a tetanu "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "397. Očkování proti žloutence (hepatitidě) typu B",
+    "answers": [
+      " povinné ",
+      " povinné u rizikových skupin v zdravotnictví ",
+      " za přáním"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " povinné ",
+      " povinné u rizikových skupin v zdravotnictví "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "398. Očkování proti žloutence (hepatitidě) typu B je povinné:",
+    "answers": [
+      " všem fyzickým osobám",
+      " veterinářem",
+      " za přáním",
+      " povinné výjimečným skupinám fyzických osob ",
+      " lékařským pracovníkům/zdravotníkům "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " povinné výjimečným skupinám fyzických osob ",
+      " lékařským pracovníkům/zdravotníkům "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "399. Očkování proti tuberkulóze?",
+    "answers": [" povinné pouze pro děti v rizikové skupině A "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" povinné pouze pro děti v rizikové skupině A "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "400. Očkování proti choleře?",
+    "answers": [
+      " volitelně můžete provést při cestách do tropických zemí, vakcína krátkodobá / + když cestujete do země s vysokým rizikem a výskytem cholery, vakcína je krátkodobá, očkujete se 1x ",
+      " když cestujete do třetích zemí, musíte se pokaždé očkovat. Vakcína je dlouhodobá"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " volitelně můžete provést při cestách do tropických zemí, vakcína krátkodobá / + když cestujete do země s vysokým rizikem a výskytem cholery, vakcína je krátkodobá, očkujete se 1x "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "401. Procent očkování v poslední lety?",
+    "answers": [" Snižuje se ", " Zvyšuje se", " Na stejné úrovně"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Snižuje se "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "402. Rodiče nebo zákonný zástupce odmítají povinné očkování dítěte",
+    "answers": [
+      " napsat o tom písemné prohlášení (revers), které podepíše zákonný zástupce dítěte a lékař, poskytovatelé zdravotních služeb povinní oznámit obecnímu úřadu obce s rozšířenou působností skutečnosti, které nasvědčují tomu, že zákonní zástupci dítěte neplní povinnosti vyplývající z jejich rodičovské zodpovědnosti "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " napsat o tom písemné prohlášení (revers), které podepíše zákonný zástupce dítěte a lékař, poskytovatelé zdravotních služeb povinní oznámit obecnímu úřadu obce s rozšířenou působností skutečnosti, které nasvědčují tomu, že zákonní zástupci dítěte neplní povinnosti vyplývající z jejich rodičovské zodpovědnosti "
+    ],
+    "description": [
+      "*očkování je povinné (Zákon o ochraně veřejného zdraví 258/2000)"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "403. Očkování proti infekčním nemocem юрист",
+    "answers": [
+      " povinné pro všech občan ČR ",
+      " povinné pro všech, kdo má trvalý pobyt ,????юрист каже ні",
+      " pro dětí do 18 let",
+      " jen pro cizince",
+      " musí být očkován každý cizinec s trvalém pobytem nebo přechodným pobytem (vízem) více 90 dnů "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " povinné pro všech občan ČR ",
+      " musí být očkován každý cizinec s trvalém pobytem nebo přechodným pobytem (vízem) více 90 dnů "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "404. Očkování proti infekčním nemocem",
+    "answers": [
+      " očkování na osobní přání",
+      " očkovat se povinné všechny a taky cizince s vízem nad 90 dnů ",
+      " dětí do 18 let a také cizince z trvalým pobytem",
+      " lidé, kteří dostali občanství"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " očkovat se povinné všechny a taky cizince s vízem nad 90 dnů "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "405. Očkování proti PRAVÝM neštovicím (Variola) zahájil",
+    "answers": [" Edward Jenner", " Karel Raška "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Karel Raška "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "406. Očkování proti PRAVÝM neštovicím (Variola)",
+    "answers": [
+      " nedělá se",
+      " dělá se",
+      " skončila se v 70 letech",
+      " skončila se v 80 letech "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" skončila se v 80 letech "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "407. Očkování u dětí u ČR?",
+    "answers": [" povinné "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" povinné "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "408. Indexy onemocnění?",
+    "answers": [" frekvence, trvání, průběh "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" frekvence, trvání, průběh "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "409. Zdraví 2020",
+    "answers": [" doklad nebo program Evropské pobočky WHO "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" doklad nebo program Evropské pobočky WHO "],
+    "description": [
+      "Zdraví 2020 – Národní strategie ochrany a podpory zdraví a prevence nemocí   Vytvořeno: 29. 1. 2014 Poslední aktualizace: 29. 1. 2014  Zdraví 2020 – Národní strategie ochrany a podpory zdraví a prevence nemocí (dále jen „ Národní strategie “) je rámcovým souhrnem opatření pro rozvoj veřejného zdraví v ČR. Je rovněž nástrojem pro implementaci programu WHO Zdraví 2020, který byl schválen 62. zasedáním Regionálního výboru Světové zdravotnické organizace pro Evropu v zaří 2012.   "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "410. Co je zdraví 2020? HLAVNÍ CÍL PROGRAMU Zdraví 2020",
+    "answers": [
+      " Prostřednictvím všech vládních struktur a společnosti jako celku, výrazně zlepšit zdraví lidí, snížit nerovnosti v oblasti zdraví, posílit veřejné zdraví a zajistit udržitelný zdravotnický systém zaměřený na lidi, který bude spravedlivý a kvalitativní pro všechny "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Prostřednictvím všech vládních struktur a společnosti jako celku, výrazně zlepšit zdraví lidí, snížit nerovnosti v oblasti zdraví, posílit veřejné zdraví a zajistit udržitelný zdravotnický systém zaměřený na lidi, který bude spravedlivý a kvalitativní pro všechny "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "411. Co je etiologie?",
+    "answers": [
+      " věda o příčinách, determinantách a podmínkách nemocí, příčina nemoci ",
+      " věda o etanolu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " věda o příčinách, determinantách a podmínkách nemocí, příčina nemoci "
+    ],
+    "description": ["Коротко: věda o příčinách nemocí"],
+    "img": [""]
+  },
+
+  {
+    "question": "412. Lalondovo právo / Lalonde “Nový přehled na zdraví Kanaďanů”",
+    "answers": [" 1974 rok "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 1974 rok "],
+    "description": [
+      "Lalondovo zpráva Nový přehled na zdraví Kanaďanů byla publikována v roce 1974. Tato zpráva byla zaměřena na nový přístup k posuzování zdraví obyvatel Kanady, který se zaměřoval nejen na zdraví a nemoci, ale také na faktory ovlivňující zdraví, jako jsou životní podmínky, prostředí, sociální faktory a osobní zdroje.   Lalondova zpráva se zaměřila na čtyři hlavní faktory, které ovlivňují zdraví obyvatelstva: biologické faktory, životní styl, prostředí a organizaci zdravotní péče. Tento přístup k posuzování zdraví se stal známým jako model zdraví Lalonde, který se stal základem pro vývoj moderního přístupu k posuzování a zlepšování zdraví obyvatelstva.  Lalondova zpráva se ukázala být velmi vlivnou a inspirovala mnoho zemí k vývoji nových přístupů k posuzování a zlepšování zdraví obyvatelstva. Model zdraví Lalonde se stal standardem pro moderní přístup k posuzování zdraví a je stále široce používán v celém světě.  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "413. Švédsko (Šunšvalská konference)?",
+    "answers": [" 1991 rok "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 1991 rok "],
+    "description": [
+      "Šunšvalská konference se konala v roce 1986 ve švédském městě Šunšvall. Konference se zaměřila na problematiku primární péče a byla významnou událostí v oblasti zdravotnictví a zdravotní politiky. Na konferenci byla přijata tzv. Šunšvalská deklarace, která prosazovala potřebu posílení primární péče jako klíčového prvku zdravotního systému. Tato deklarace se stala významným dokumentem a výchozím bodem pro další reformy zdravotnictví a rozvoj primární péče po celém světě.  Šunšvalská konference byla uspořádána v roce 1991 ve švédském městě Šunšval. Konference se zaměřila na rozvoj zdravotnictví v Evropě a byla pořádána Světovou zdravotnickou organizací (WHO). Na konferenci byla přijata řada doporučení a zásad pro zlepšení zdravotní péče v Evropě, jako například důraz na prevenci nemocí, podporu zdravého životního stylu a zajištění rovného přístupu ke zdravotní péči pro všechny. Konference také přinesla důležitý impuls pro rozvoj Evropského programu pro prevenci a kontrolu nemocí (European Programme for the Prevention and Control of Diseases, EPPCD), který byl zahájen o několik let později.  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "414. Jak se změní populace v Evropě v 2050",
+    "answers": [" zmenší se na 17 milionů (15-17) "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" zmenší se na 17 milionů (15-17) "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "415. Který trend je správnější?",
+    "answers": [
+      " Do roku 2050 65-letých bude více než 18-letých ",
+      " do roku 2006 - 65-letých miň než 18-letých",
+      " do roku 2006 - 65-letých přibližně tolik jak 18-letých",
+      " od roku 1948 starších 65 let více než 18-letých"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Do roku 2050 65-letých bude více než 18-letých "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "416. Otázka pro správný trend za poslední 15 let",
+    "answers": [
+      " ZKRACOVÁNÍ DOBY HOSPITALIZACE ",
+      " POSTUPNÉ SNIŽOVÁNÍ POČTU NEMOCNIČNÍCH LŮŽEK ",
+      " ROZVOJ JEDNODENNÍ PÉČE ",
+      " KONCENTRACE SPECIALIZOVANÉ PÉČE ",
+      " POSTUPNÉ (EVOLUČNÍ) ZVYŠOVÁNÍ SPOLUÚČASTI "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " ZKRACOVÁNÍ DOBY HOSPITALIZACE ",
+      " POSTUPNÉ SNIŽOVÁNÍ POČTU NEMOCNIČNÍCH LŮŽEK ",
+      " ROZVOJ JEDNODENNÍ PÉČE ",
+      " KONCENTRACE SPECIALIZOVANÉ PÉČE ",
+      " POSTUPNÉ (EVOLUČNÍ) ZVYŠOVÁNÍ SPOLUÚČASTI "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "417. Koho si NEmůžeme vybrat? / Jaké zdravotní služby NElze vybrat?",
+    "answers": [
+      " zdravotnickou záchrannou službu a poskytovatele, ke kterému poskytovatel zdravotnické záchranné služby pacienta převáží ",
+      " dopravní zdravotní službu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " zdravotnickou záchrannou službu a poskytovatele, ke kterému poskytovatel zdravotnické záchranné služby pacienta převáží "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "418. Pacient si sám zvolil dopravní službu, v jakém případě dopravní služba může odmítnout pacientovi?",
+    "answers": [" není technické zabezpečení pro danou situací "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" není technické zabezpečení pro danou situací "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "419. Co patři MIMO jiné do zdravotních služeb? / Co se zahrnuje v druhy zdravotnických služeb?",
+    "answers": [
+      " Sociální služby",
+      " Doprava mrtvol ",
+      " Administrativní služby",
+      " Komplexní konzultace "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Doprava mrtvol ", " Komplexní konzultace "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "420. Nezisková organizace? Некомерційна організація",
+    "answers": [
+      " nějaká obchodní společnost",
+      " nevydělává ",
+      " ta, která bere peníze od státu ",
+      " ta, která bere peníze od dárců "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " nevydělává ",
+      " ta, která bere peníze od státu ",
+      " ta, která bere peníze od dárců "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "421. Nezisková nestátní organizace?",
+    "answers": [
+      " nemůže vydělávat ",
+      " může příjmy získané využít pro samotnou organizaci ",
+      " vždy hrází stát nebo krajský úřad",
+      " nesmí mít zisk",
+      " nezáleží na hospodářství "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " nemůže vydělávat ",
+      " může příjmy získané využít pro samotnou organizaci ",
+      " nezáleží na hospodářství "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "422. Příspěvkové organizace организа́ция осно́ванная на взно́сах",
+    "answers": [
+      " v případě výdělku musí vrátit zisk do organizace ",
+      " částečně může byt hrazeno krajem nebo státem "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " v případě výdělku musí vrátit zisk do organizace ",
+      " částečně může byt hrazeno krajem nebo státem "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "423. Porodnost v ČR poslední 3 roky",
+    "answers": [" stoupla "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" stoupla "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "424. Jak se změnila porodnost od roku 2009",
+    "answers": [" Klesla "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Klesla "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "425. Porodnost poslední 2 roky",
+    "answers": [" na stejné úrovní "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" na stejné úrovní "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "426. Evidence, co to je?",
+    "answers": [" registrace, účet ", " počet nemocí v populaci"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" registrace, účet "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "427. Index staří (počet obyvatel starší 65 let připadající na 100 osob mladší 15 let)",
+    "answers": [" 110,4 (121,4 – 2017) "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 110,4 (121,4 – 2017) "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "428. Index maskulinity",
+    "answers": [" počet mužů připadající na 1000 žen "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" počet mužů připadající na 1000 žen "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "429. Nejdůležitější faktory ovlivňující zvýšení objemu lékařské péče v České republice patří:",
+    "answers": [
+      " Zvýšení úmrtnosti, stagnace naděje na přežití (střední délka života)",
+      " Snížení úmrtnosti, snižování naděje na přežití (střední délka života)",
+      " Zvýšení úmrtnosti, zvyšování očekávání přežití (střední délka života)",
+      " snížení úmrtnosti, zvýšení naděje na přežití (> střední délka života) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " snížení úmrtnosti, zvýšení naděje na přežití (> střední délka života) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "430. Jak se zvýšil věk prvorodiček od 1989 do 2012:",
+    "answers": [" stoupl o 5-6 let "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" stoupl o 5-6 let "],
+    "description": ["*psalo do 2014"],
+    "img": [""]
+  },
+  {
+    "question": "431. Kdo má nárok na poskytnutí první neodkladné pomoci (péče) v naléhavé situaci:",
+    "answers": [
+      " každý člověk má právo na bezplatnou první pomoc ",
+      " jen občany ČR",
+      " cizinec s trvalém pobytem"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" každý člověk má právo na bezplatnou první pomoc "],
+    "description": [""],
+    "img": [""]
+  },
+
   {
     "question": "shablon",
     "answers": ["shablon", "shablon", "shablon", "shablon"],
@@ -4722,174 +6133,3193 @@
     "img": [""]
   },
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "432. Podle kterých zákonů/kterého zákona pacient má právo na bezplatnou pomoc:",
+    "answers": [
+      " 372/2011",
+      " 2/1993 Listina základních práv a svobod ",
+      " 48/1997",
+      " 258/2000"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [" 2/1993 Listina základních práv a svobod "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "433. Co dělá fakultní nemocnice?",
+    "answers": [
+      " uskutečňuje klinická a praktická výuka v akreditovaných studijních programech ",
+      " související výzkumná a vývojová činnost "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " uskutečňuje klinická a praktická výuka v akreditovaných studijních programech ",
+      " související výzkumná a vývojová činnost "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "434. Povinnosti fakultní nemocnice?",
+    "answers": [
+      " klinická a praktická výuka, vysoce specializovana zdravotní péče ",
+      " výzkumná a vývojová činnost "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " klinická a praktická výuka, vysoce specializovana zdravotní péče ",
+      " výzkumná a vývojová činnost "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "435. Status ústavu zřízeného (založeného) Ministerstvem (jako fakultní nemocnice):",
+    "answers": [" státní příspěvková organizace "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" státní příspěvková organizace "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "436. Komu je podřízena fakultní nemocnice? / Kdo zakládá fakultní nemocnice?",
+    "answers": [
+      " Ministerstvo zdravotnictví ",
+      " kraj",
+      " děkan příslušné fakulty"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Ministerstvo zdravotnictví "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "437. Fakultní nemocnice, pacient má právo:",
+    "answers": [
+      " zakázat studentům dívat se na historie choroby, být přítomnými při poskytování zdravotních služby ",
+      " nemůže zakázat",
+      " může povolit školitel",
+      " může povolit poskytovatel"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " zakázat studentům dívat se na historie choroby, být přítomnými při poskytování zdravotních služby "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "438. Pacient se léčí ve fakultní nemocnici. Může-li zakázat nahlížet osobám, kteří získávají způsobilost k výkonu zdravotního povolání, do své zdravotnické dokumentace?",
+    "answers": [
+      " může pacient odmítnout vyšetření studentem a zakázat studentům prohlížení dokumentů "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " může pacient odmítnout vyšetření studentem a zakázat studentům prohlížení dokumentů "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "439. Kdy se mohou studenti seznámit s anamnézou pacienta?",
+    "answers": [" Pokud není zákaz pacienta a pouze informace pro školeni "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Pokud není zákaz pacienta a pouze informace pro školeni "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "440. Pokud pacient v nemocnici, ve které studenti dělájí praxi, co je zapotřebí?",
+    "answers": [" povolení pacienta k vyšetření "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" povolení pacienta k vyšetření "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "441. V případě náhrady ošetřujícího lékaře by měl současný lékař předat informace novému lékaři, do jaké míry?",
+    "answers": [
+      " musí předat veškeré informace potřebné pro zavedení komunikace při léčbě v tak velkém množství, aby nedošlo k ohrožení metody «Lege artis» "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " musí předat veškeré informace potřebné pro zavedení komunikace při léčbě v tak velkém množství, aby nedošlo k ohrožení metody «Lege artis» "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "442. Co je pravda?",
+    "answers": [" počet kuřáků (mužů a žen) poklesl za poslední 3 roky "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " počet kuřáků (mužů a žen) poklesl za poslední 3 roky "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "443. Počet kuřáků mezi dětmi za posledních 10 let?",
+    "answers": [" stoupl ", " sníženo", " cyklicky kolísá se"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" stoupl "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "444. V period dospívání omamné látky se užívají?",
+    "answers": [" pod tlakem vrstevníků ", " častěji alkohol a drogy "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" pod tlakem vrstevníků ", " častěji alkohol a drogy "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "445. Jaké zvláštní zákony lékařského práva upravují poskytování lékařských služeb?",
+    "answers": [" 372/2011 a 373/2011 "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 372/2011 a 373/2011 "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "446. Zvláštní zdravotnické zařízení. Co patří?",
+    "answers": [
+      " kojenecké ústavy a dětské domově pečující děti do 3 let, jesle, zdravotnická záchytné stanice, zdravotnická záchranná služba, sociální služba ",
+      " psychiatrická zařízení",
+      " sociální organizace"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " kojenecké ústavy a dětské domově pečující děti do 3 let, jesle, zdravotnická záchytné stanice, zdravotnická záchranná služba, sociální služba "
+    ],
+    "description": [
+      "*Psychiatrická zařízení patří k zdravotnickým zařízením ústavním "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "447. Centrum vysoce specializované péče, na základě čeho dostává povolení? Zákon 372/2011",
+    "answers": [
+      " status vydává Ministerstvo zdravotnictví na základě výzvy ministerstva, pokud poskytovatel splňuje požadávky na technické a věcné vybavení zdravotnického zařízení a je schopen tuto péči zajistit "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " status vydává Ministerstvo zdravotnictví na základě výzvy ministerstva, pokud poskytovatel splňuje požadávky na technické a věcné vybavení zdravotnického zařízení a je schopen tuto péči zajistit "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "448. Jaké zářízení může být vysoce specializovaným zařízení?",
+    "answers": [
+      " jenom fakultní nemocnice",
+      " pokud tento poskytovatel splňuje požadavky na technické a věcné vybavení zdravotnického zařízení a požadavky na personální zabezpečení vysoce specializované zdravotní péče "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " pokud tento poskytovatel splňuje požadavky na technické a věcné vybavení zdravotnického zařízení a požadavky na personální zabezpečení vysoce specializované zdravotní péče "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "449. Johann Peter Frank, kdo to je?",
+    "answers": [" německý lékař. Otec sociální hygieny "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" německý lékař. Otec sociální hygieny "],
+    "description": [
+      "Johann Peter Frank (19. března 1745 - 24. dubna 1821) byl německý lékař a hygienik, který se proslavil svou prací na reformě zdravotnictví. Narodil se v německé oblasti Franke a vystudoval medicínu v Jeně. Poté cestoval po Evropě a studoval hygienu a epidemiologii v různých zemích, včetně Paříže, Vídně a Říma.  Frank byl velmi ovlivněn osvícenstvím a prosazoval úzkou spolupráci mezi lékaři a vládou s cílem zlepšit veřejné zdraví. Ve svých spisech zdůrazňoval důležitost prevence a poskytoval rady pro zlepšení hygienických podmínek v oblastech jako je pitná voda, kanalizace a zdravotnická péče.  V roce 1784 byl Frank jmenován profesorem medicíny na Univerzitě Johanna Wolfganga Goetheho ve Frankfurtu a později se stal dvorním lékařem císaře Napoleona I. Jeho nejznámějším dílem je kniha System einer vollständigen medicinischen Polizey (Systém kompletního lékařského zdravotnického řádu), ve které popisuje svou teorii o veřejném zdraví a zavádí pojem hygiena jako nový obor vědy.  Frankovy myšlenky o hygieně a prevenci se staly velmi vlivnými a přispěly k reformám v oblasti zdravotnictví v Evropě i v zámoří.  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "450. John Snow, kdo to je?",
+    "answers": [" zastavil epidemii cholery v Londýně v roce 1854 "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" zastavil epidemii cholery v Londýně v roce 1854 "],
+    "description": [
+      "John Snow byl anglický lékař a jeden z průkopníků v oblasti epidemiologie, který se narodil v roce 1813 a zemřel v roce 1858. Nejvíce se proslavil svým výzkumem cholery v Londýně v roce 1854, když se mu podařilo určit zdroj nákazy a zastavit šíření nemoci. Snow použil mapu, aby určil umístění nemocných a zjistil, že většina z nich byla koncentrována kolem čerpadla v Broad Street. Poté, co se mu podařilo přesvědčit úřady, aby čerpadlo uzavřely, se počet případů cholery rapidně snížil. John Snow je také znám svým přínosem v oblasti anestézie a léčby tuberkulózy."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "451. James Lind, kdo to je?",
+    "answers": [
+      " studie o kurdějích  (kurděje *(scurvy), nedostatek vitamínu C)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " studie o kurdějích  (kurděje *(scurvy), nedostatek vitamínu C)"
+    ],
+    "description": [
+      "James Lind (1716-1794) byl skotský lékař a námořní chirurg, který je známý především svým přínosem v oblasti výživy a prevence nemocí na lodích. Během své praxe si všiml, že na lodiach dochází k mnoha případům kurdějí, což je choroba způsobená nedostatkem vitamínu C. Roku 1747 provedl sérii experimentů, kde posádce lodi HMS Salisbury poskytl různé doplňky stravy, a dospěl k závěru, že kurděje lze vyléčit dávkováním citrusových plodů, které jsou bohaté na vitamín C. Tímto výzkumem přispěl k pochopení významu vitamínů v lidské výživě a zlepšení hygienických podmínek na lodích, což vedlo k poklesu nemocnosti a úmrtnosti na lodích. Lind se také zasloužil o zlepšení podmínek v nemocnicích a o rozvoj klinických studií jako prostředku pro posuzování účinnosti léčby."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "452. František Hamza, kdo to je?",
+    "answers": [
+      " zakladatel Fakulty sociálního lékařství na Univerzitě Masarykovy (1922) a 1. dětské sanatorium "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " zakladatel Fakulty sociálního lékařství na Univerzitě Masarykovy (1922) a 1. dětské sanatorium "
+    ],
+    "description": [
+      "František Hamza (1874-1954) byl český lékař a zakladatel Fakulty sociálního lékařství na Univerzitě Masarykovy v Brně. Založil také první dětské sanatorium v Čechách. Byl odborníkem na tuberkulózu a významně přispěl k jejímu výzkumu a prevenci v českých zemích. Hamza se také angažoval v oblasti hygieny a veřejného zdraví."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "453. Jak může pacient dostávat informaci o svém zdravotním stavu (o historie své choroby)?",
+    "answers": [
+      " číst v přítomnosti lékaře a dělat kopii ",
+      " číst za přítomnosti mladšího zdravotnického personálu",
+      " číst za přítomnosti soudního zástupce",
+      " brát, vynášet z nemocnice a volně kopírovat",
+      " se souhlasem poskytovatele v přítomností poskytovatelem pověřeného člověka",
+      " číst za přítomnosti soudního zástupce"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" číst v přítomnosti lékaře a dělat kopii "],
     "description": [""],
     "img": [""]
   },
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "454. Písemný dokument, ve kterém osoba potvrzuje seznámení s možnými komplikacemi?",
+    "answers": [
+      " není povinný a svědčí o tom, že s tímto osoba byla seznámena ",
+      " zcela zbaví lékaře odpovědnosti"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [
+      " není povinný a svědčí o tom, že s tímto osoba byla seznámena "
+    ],
     "description": [""],
     "img": [""]
   },
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "455. Lékař byl potrestán, kdy může přestoupit k práci?",
+    "answers": [
+      " přistupuje ihned po ukončení zákazu ",
+      " za 3 měsíce",
+      " za 6 měsíců",
+      " nikdy"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [" přistupuje ihned po ukončení zákazu "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "456. Když pacient má tuberkulózu",
+    "answers": [" podáváme informace orgánu všeobecného zdraví "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" podáváme informace orgánu všeobecného zdraví "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "457. Při stanovení diagnózy deficit vitaminu D (rachitis, křivice) kam musí lékař nahlásit?",
+    "answers": [" na náležitý zdravotní registr "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" na náležitý zdravotní registr "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "458. Kdo rozhoduje o invaliditě?",
+    "answers": [
+      " lékaře OSSZ na podkladě lékařského posudku (Okresní správa sociálního zabezpečení) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " lékaře OSSZ na podkladě lékařského posudku (Okresní správa sociálního zabezpečení) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "459. Jaký právnický stav u ústavů registrovaných na ministerstvu zdravotnictví?",
+    "answers": [" akciový", " státní", " smíšený "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" smíšený "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "460. Jaký právnický stav pojišťoven registrovaných na ministerstvu zdravotnictví:",
+    "answers": [" akciový "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" akciový "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "461. Stavy zdravotních zařízení jsou:",
+    "answers": [
+      " právnický a periodický (právnický - státní nebo akciový, periodický - krajský příspěvkový) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " právnický a periodický (právnický - státní nebo akciový, periodický - krajský příspěvkový) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "462. Kdo určuje zkouškovou a atestační komise pro lékaře:",
+    "answers": [" Česká lékařská komora a ministr zdravotnictví "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Česká lékařská komora a ministr zdravotnictví "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "463. Která z tvrzení je správná a úplná?",
+    "answers": [
+      " Atestační zkouška se může ve stejném oboru specializačního vzdělávání opakovat nejvýše dvakrát, nejdříve však za 1 rok ode dne neúspěšně vykonané atestační zkoušky (zákon 95/2004 §21) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Atestační zkouška se může ve stejném oboru specializačního vzdělávání opakovat nejvýše dvakrát, nejdříve však za 1 rok ode dne neúspěšně vykonané atestační zkoušky (zákon 95/2004 §21) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "464. Kolikrát je možné absolvovat atestační zkoušku?",
+    "answers": [
+      " dvakrát (pouze dvakrát, druhýkrát za 1 rok ode dne neúspěšně vykonané atestační zkoušky)",
+      " dvakrát od posledního dne zkoušky",
+      " třikrát ",
+      " třikrát od posledního dne zkoušky"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" třikrát "],
+    "description": [
+      "  95/2004 zdravotnické povolání pro lékaře, farmaceuty, zubaří § 21  Atestační zkouška (5) Atestační zkouška se může ve stejném oboru specializačního vzdělávání opakovat nejvýše dvakrát, nejdříve však za 1 rok ode dne neúspěšně vykonané atestační zkoušky.  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "465. Orgány Pojišťovny jsou",
+    "answers": [" Správní rada a Dozorčí rada ", " ředitel a Dozorčí rada"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Správní rada a Dozorčí rada "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "466. Organizační struktura pojišťovny",
+    "answers": [" Ústředí, regionální pobočky a další klientská pracoviště "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Ústředí, regionální pobočky a další klientská pracoviště "
+    ],
     "description": [""],
     "img": [""]
   },
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "467. Který zákon řídí (upravuje) dodávku zdravotnického vybavení do nemocnic:",
+    "answers": [" 372/2011 "],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [" 372/2011 "],
     "description": [""],
     "img": [""]
   },
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "467. Který zákon řídí (upravuje) dodávku zdravotnického vybavení do nemocnic:",
+    "answers": [" 372/2011 "],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [" 372/2011 "],
+    "description": [
+      "OBECNÉ PODMÍNKY POSKYTOVÁNÍ ZDRAVOTNÍCH SLUŽEB  § 11  Poskytování zdravotních služeb  (6) Zdravotnické zařízení musí být pro poskytování zdravotních služeb technicky a věcně vybaveno. Technické a věcné vybavení zdravotnických zařízení musí odpovídat oborům, druhu a formě poskytované zdravotní péče a zdravotním službám podle § 2 odst. 2 písm. d) až f) a i). Požadavky na minimální technické a věcné vybavení zdravotnických zařízení, týkající se stavebně technického, funkčního a dispozičního uspořádání prostor a vybavení vybranými zdravotnickými prostředky, jinými přístroji a zařízením, na vybavení kontaktního pracoviště, a v případě lékárenské péče poskytované v odloučeném oddělení výdeje léčiv i na místo poskytování péče, stanoví prováděcí právní předpis. Tímto nejsou dotčeny požadavky na zdravotnická zařízení podle jiných právních předpisů. (7) Poskytovatel zdravotnické záchranné služby, poskytovatel zdravotnické dopravní služby a poskytovatel přepravy pacientů neodkladné péče musí být pro poskytovanou zdravotní službu vybaven odpovídajícími dopravními prostředky. Požadavky na vybavení poskytovatele dopravními prostředky a požadavky na technické a věcné vybavení těchto dopravních prostředků a na jejich označení a barevné pro  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "468. Vyhláška o technických a věcných požadavcích na vybavení zdravotnických zařízení? *vybavení nemocnic",
+    "answers": [
+      " č. 49/1993 *(byl dříve)",
+      " Vyhláška č. 92/2012 Sb. vyhláška o požadavcích na minimální technické a věcné vybavení zdravotnických zařízení a kontaktních pracovišť domácí péče ",
+      " Vyhláška 284/2017  * nová vyhláška",
+      " 372/2011"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Vyhláška č. 92/2012 Sb. vyhláška o požadavcích na minimální technické a věcné vybavení zdravotnických zařízení a kontaktních pracovišť domácí péče ",
+      " Vyhláška 284/2017  * nová vyhláška"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "469. Při prohlídce zemřelé osoby musí lékař informovat policii neprodleně",
+    "answers": [
+      " jestliže nalezená zemřelá osoba zemřela za neznámých okolností, jestli ke smrtí došlo při trestnímu činu nebo sebevraždě *(podezření na trestní čin), neznáme totožnost zemřelého ",
+      " zemřelý je cizincem",
+      " musí informovat o každém případě",
+      " když, nemůžeme hospitalizovat podle Listiny základních práv a svobod"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " jestliže nalezená zemřelá osoba zemřela za neznámých okolností, jestli ke smrtí došlo při trestnímu činu nebo sebevraždě *(podezření na trestní čin), neznáme totožnost zemřelého "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "470. Může-li pacient nahlížet do zdravotnické dokumentace, kopírovat ji, vypisovat?",
+    "answers": [
+      " může v přítomnosti zaměstnance pověřeného poskytovatelem nahlížet, pořizovat si její výpisy nebo kopie ",
+      " může nahlížet, žádat o kopii atd. do vše nemocniční dokumentace",
+      " může soukromě bez náhledu",
+      " jen z povolení poskytovatele a musí ověřit povolení notář",
+      " poskytovatel musí povolit zaměstnanci, aby pacient mohl nahlížet do své dokumentace"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " může v přítomnosti zaměstnance pověřeného poskytovatelem nahlížet, pořizovat si její výpisy nebo kopie "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "471. Pacient je povinen:",
+    "answers": [
+      " uhradit poskytovateli cenu poskytnutých zdravotních služeb nehrazených nebo částečně hrazených z veřejného zdravotního pojištění nebo jiných zdrojů, které mu byly poskytnuty s jeho souhlasem "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " uhradit poskytovateli cenu poskytnutých zdravotních služeb nehrazených nebo částečně hrazených z veřejného zdravotního pojištění nebo jiných zdrojů, které mu byly poskytnuty s jeho souhlasem "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "472. Jaký typ vlastnictví mají lázně, rehabilitační ústavy",
+    "answers": [
+      " lázně, rehabilitační zařízení mohou být v soukromém vlastnictví nebo ve státním vlastnictví "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " lázně, rehabilitační zařízení mohou být v soukromém vlastnictví nebo ve státním vlastnictví "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "473. Termální prameny a lázně (lázeňský zákon)",
+    "answers": [
+      " 48",
+      " 258",
+      " 164/2001 Zákon o přírodních léčivých zdrojích, zdrojích přírodních minerálních vod, přírodních léčebných lázních a lázeňských místech a o změně některých souvisejících zákonů ",
+      " 160",
+      " 372/2011"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " 164/2001 Zákon o přírodních léčivých zdrojích, zdrojích přírodních minerálních vod, přírodních léčebných lázních a lázeňských místech a o změně některých souvisejících zákonů "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "474. Lůžkové péče, její doba / Ošetřující den (den na lůžku)",
+    "answers": [
+      " zkrátila se ",
+      " prodloužila",
+      " nezměnila se",
+      " zkrátila se na 30%"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" zkrátila se "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "475. Financování nemocnic. Metody úhrady poskytovatelům lůžkové péče?",
+    "answers": [" paušál a DRG ", " platba za výkon"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" paušál a DRG "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "476. Systém DRG - co klasifikujeme podle toho, jaké vlastnosti:",
+    "answers": [
+      " pohlaví, věk, počáteční diagnóza, jaká opatření byla přijata, čas hospitalizace, konečná diagnóza, souběžné nemoci "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " pohlaví, věk, počáteční diagnóza, jaká opatření byla přijata, čas hospitalizace, konečná diagnóza, souběžné nemoci "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "477. Diagnosis Related Groups (DRG), co to je?",
+    "answers": [
+      " rozděluje pacienty do skupin na základě diagnóz Mezinárodní klasifikace nemocí, procedur, věku, pohlaví a přítomnosti komplikací nebo přidružených onemocnění, jejích ekonomických nákladů ",
+      " rozděluje pacienty do skupin na základě klinických diagnóz",
+      " rozděluje pacienty do skupin na základě potřeby ambulantní a lůžkové péče"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " rozděluje pacienty do skupin na základě diagnóz Mezinárodní klasifikace nemocí, procedur, věku, pohlaví a přítomnosti komplikací nebo přidružených onemocnění, jejích ekonomických nákladů "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "478. Jak se změnila morbidita starší populace?",
+    "answers": [
+      " nádorové, metabolické (DM) a psychiatrické onemocnění se zvyšuji ",
+      " degenerativní ",
+      " stejné",
+      " klesá"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " nádorové, metabolické (DM) a psychiatrické onemocnění se zvyšuji ",
+      " degenerativní "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "479. Jaké nemoci se vyskytují častěji z ohledem na stárnutí populace?",
+    "answers": [" nádorové, metabolické, psychické, degenerativní "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" nádorové, metabolické, psychické, degenerativní "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "480. Největší výskyt onkologických nemoci v ČR / Příčiny smrti od zhoubných nádorů u mužů a žen?❓",
+    "answers": [
+      " u mužů tlusté střevo, konečník; u žen tlusté střevo, plíce, děloha, prsa ",
+      " u mužů tlusté střevo, konečník, žaludek; u žen plic, děloha, prsa",
+      " u mužů tlusté střevo, konečník, močový měchýř; u žen tlusté střevo, plíce, děloha, prsa, vaječníky"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " u mužů tlusté střevo, konečník; u žen tlusté střevo, plíce, děloha, prsa "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "481. Příčiny smrti od zhoubných nádorů: *podle lékce Maliny",
+    "answers": [
+      " ca tlustého střeva a konečníku u mužů ",
+      " ca prsu, dělohy a plic u žen "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " ca tlustého střeva a konečníku u mužů ",
+      " ca prsu, dělohy a plic u žen "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "482. Kde se vyskytují nejvíce maligní nádory?",
+    "answers": [
+      " v Praze (je vyšší délka života. Čím je starší člověk, tím se zvyšuje výskyt rakoviny) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " v Praze (je vyšší délka života. Čím je starší člověk, tím se zvyšuje výskyt rakoviny) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "483. Kde nejvyšší výskyt rakoviny?",
+    "answers": [" v průmyslových zónách "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" v průmyslových zónách "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "484. V případě, že dospělý a právně způsobilý pacient odmítne navrhovaný způsob léčby, tak by lékař měl?",
+    "answers": [
+      " požadovat od pacienta písemné odmítnutí (negativní revers) o poskytnutí pomoci. Rodina pacienta to policii oznamovat nemusí "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " požadovat od pacienta písemné odmítnutí (negativní revers) o poskytnutí pomoci. Rodina pacienta to policii oznamovat nemusí "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "485. V důsledku čeho se v budoucnosti zvýší úmrtnost (mortalita)",
+    "answers": [
+      " zvýšení BMI (Body Mass Index - index tělesné hmotnosti) (metabolické poruchy) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " zvýšení BMI (Body Mass Index - index tělesné hmotnosti) (metabolické poruchy) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "486. Do specificity morbidity ve starší věkové skupině u žen NEpatří:",
+    "answers": [" vysoký výskyt akutních onemocnění "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" vysoký výskyt akutních onemocnění "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "487. Nevýhody (negativa) biopsychosociálního modelu zdraví",
+    "answers": [
+      " poněkud idealistické a ne zcela realistické pojetí. Definice nepokrývá všechny nemoci a jejich latentní stádia, a je tedy vhodná jen pro rozvinutá stadia nemoci"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " poněkud idealistické a ne zcela realistické pojetí. Definice nepokrývá všechny nemoci a jejich latentní stádia, a je tedy vhodná jen pro rozvinutá stadia nemoci"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "488. Výhody (pozitiva) biopsychosociálního modelu zdraví",
+    "answers": [
+      " jednoduchost, stručnost, výstižnost, srozumitelnost, přijatelnost pro odbornou i laickou veřejnosti, odklon od tradičního pojetí biologického zdraví k biopsychosociálnímu modelu zdraví a nemoci "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " jednoduchost, stručnost, výstižnost, srozumitelnost, přijatelnost pro odbornou i laickou veřejnosti, odklon od tradičního pojetí biologického zdraví k biopsychosociálnímu modelu zdraví a nemoci "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "489. Pro jakou metodu výzkumu jsou údaje z minulých let nezbytné?",
+    "answers": [
+      " Retrospektivní studie (Case-control study)  Studie případů a kontrol (retrospektivní)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Retrospektivní studie (Case-control study)  Studie případů a kontrol (retrospektivní)"
+    ],
+    "description": ["*patří k longitudinálnímu výzkumu"],
+    "img": [""]
+  },
+
+  {
+    "question": "490. Co je záchytná stanice? Zákon č. 373/2011",
+    "answers": [
+      " instituce (zářízení), kam dávají alkoholiky, narkomany atd., kdy oni jsou ve stavu ohrožení lidém (obyvatelstva) ",
+      " instituce, kde jsou zajatá (zachycena) zvířata přeexponovaná (hlídána)",
+      " instituce, kde povinně léčí po nařízení soudu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " instituce (zářízení), kam dávají alkoholiky, narkomany atd., kdy oni jsou ve stavu ohrožení lidém (obyvatelstva) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "491. Co je klinická studie? clinical trial",
+    "answers": [
+      " studie nových léčiv na ověření bezpečností a účinnosti (nového léčiva, vakcíny, léčebného postupu, vyšetření, doplňků stravy či přístrojů) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " studie nových léčiv na ověření bezpečností a účinnosti (nového léčiva, vakcíny, léčebného postupu, vyšetření, doplňků stravy či přístrojů) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "492. Co určuje velikost příspěvků zdravotních?",
+    "answers": [" ekonomický stav státu "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" ekonomický stav státu "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "493. Kolik peněz pro zdravotnictví",
+    "answers": [" 300 miliard "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 300 miliard "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "494. Incidence a mortalita (úmrtnost) na kolorektální karcinom / Výskyt a úmrtnost na zhoubné nádory recta",
+    "answers": [
+      " klesá ",
+      " stoupá",
+      " na stejné úrovní",
+      " cyklicky stoupá a klesá"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" klesá "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "495. Vyšetření stolice pro okultní krev (Screening kolorektálního karcinomu) v ČR",
+    "answers": [
+      " nedělá se (neprovádí)",
+      " provádí mužům ve věku starší 50 let",
+      " provádí ženám ve věku starší 55 let",
+      " provádí mužům a ženám ve věku starší 50 let "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" provádí mužům a ženám ve věku starší 50 let "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "496. Počet úmrtí způsobených vnějšími příčinami?",
+    "answers": [" na stejné úrovni "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" na stejné úrovni "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "497. Obezita v České republice:",
+    "answers": [" 24,2 % "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 24,2 % "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "498. Jaké tvrzení je správné?",
+    "answers": [
+      " Existuje zvláštní zákon o podmínkách získávání a uznávaní odborné a specializované způsobilosti pro lékaře, stomatology a farmaceuty, i zvláštní zákon pro nelekařske zdravotnické povolání ",
+      " existuje zvláštní zákon jen pro lékaře",
+      " existuje zvláštní zákon jen pro nelekařske zdravotnické povolání",
+      " neexistuje žádný zvláštní zákon"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Existuje zvláštní zákon o podmínkách získávání a uznávaní odborné a specializované způsobilosti pro lékaře, stomatology a farmaceuty, i zvláštní zákon pro nelekařske zdravotnické povolání "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "499. Nejčastější příčinou neplodnosti ze strany ženy v ČR je: (Živný)",
+    "answers": [
+      " anovulace ",
+      " endometrióza",
+      " vaginismus",
+      " protilátky ženy proti spermiím",
+      " ovarialní selhání"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" anovulace "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "500. Kontaktní místo v nemocnici:",
+    "answers": [
+      " místo, kde zachránce předává a avizuje pacienty do nemocniční péče ",
+      " místo, kde třídíme při nehodách",
+      " místo, kde záchranka přediva pacienty do ambulantní péče",
+      " shromažďování nějakých lidi",
+      " místo, kde kontaktují nemocní s infekčními chorobami"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " místo, kde zachránce předává a avizuje pacienty do nemocniční péče "
+    ],
     "description": [""],
     "img": [""]
   },
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "501. Složky integrované dopravy:",
+    "answers": [" hasiči, policie, zdravotnická záchranná služba "],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [" hasiči, policie, zdravotnická záchranná služba "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "502. Kolik lidí umírá kvůli kouření ročně",
+    "answers": [" 18 000 "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 18 000 "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "503. Regulační poplatek, kde platíme a kolik?",
+    "answers": [
+      " 90-Kč za návštěvu pohotovosti ",
+      " 200-Kč za léčbu v specializačním centru",
+      " 150-Kč",
+      " nikdy a nikde se neplatí"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 90-Kč za návštěvu pohotovosti "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "504. Indikace přerušeni těhotenství",
+    "answers": [
+      " umělé přerušení těhotenství na základě žádosti ženy ",
+      " umělé přerušení těhotenství ze zdravotních důvodů "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " umělé přerušení těhotenství na základě žádosti ženy ",
+      " umělé přerušení těhotenství ze zdravotních důvodů "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "505. Je možné prodávat tabákové výrobky (cigarety) osobám do 18 let?",
+    "answers": [
+      " zakázáno do 18 let ",
+      " je možné v speciálních zařízeních",
+      " je možné koupit v lékárnách",
+      " je možné koupit v obchodě",
+      " je možné koupit na předpís lékaře pro léčbu nezletilých závislých",
+      " je možné jen při přítomností rodičů"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" zakázáno do 18 let "],
+    "description": ["Було 4 варіанти  Правильний - zcela zakázaný  "],
+    "img": [""]
+  },
+
+  {
+    "question": "506. Co NENÍ pravda? / Označte NEspravni tendece v CR:",
+    "answers": [
+      " klesá počet kuřáků - mužů a žen za poslední 15 let ",
+      " pokles systolického a diastolického krevního tlaku/hypertenze ",
+      " zvýšení kardiovaskulární mortality (úmrtnosti) ",
+      " zvýšení BMI"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " klesá počet kuřáků - mužů a žen za poslední 15 let ",
+      " pokles systolického a diastolického krevního tlaku/hypertenze ",
+      " zvýšení kardiovaskulární mortality (úmrtnosti) "
+    ],
+    "description": [
+      "Tendence výskytu nemoci v ČR: výskyt se zvyšuje a mortalita "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "507. Která země vynakládá nejvíce peněz na zdravotní péči?",
+    "answers": [" v USA - 16% HDP ", " v Česku 8%", " Japonsko"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" v USA - 16% HDP "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "508. Hloubka jámy při pohřbu",
+    "answers": [
+      " dospělí a děti od 10 let - 1,5 m, děti do 10 let - 1,2 m. Vzdálenost mezi pohřebištěm musí být nejméně 30 cm "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " dospělí a děti od 10 let - 1,5 m, děti do 10 let - 1,2 m. Vzdálenost mezi pohřebištěm musí být nejméně 30 cm "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "509. Může pacient změnit seznam lidí, kteří mohou být informováni o jeho zdravotním stavu?",
+    "answers": [
+      " vždycky a kdykoliv ",
+      " pacient může měnit pouze seznam",
+      " je zakázáno"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" vždycky a kdykoliv "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "510. Domy s pečovatelskou službou patří:",
+    "answers": [" služby bydlení pro seniory", "інваліди hahdicapovaný"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" služby bydlení pro seniory", "інваліди hahdicapovaný"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "511. Nedostatek statného zdravotního zařízení",
+    "answers": [
+      " záleží na to kolik peněz dost MZ",
+      " záleží od ekonomického příspěvků státu ",
+      " záleží na to kolik peněz dává MZ",
+      " nedostatek financování"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" záleží od ekonomického příspěvků státu "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "512. Co NEbude porušením důvěrnosti pacienta?",
+    "answers": [
+      " předání všech nutných dokumentů pro poskytování nepřetržité léčby "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " předání všech nutných dokumentů pro poskytování nepřetržité léčby "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "513. Odpovědnost za veřejné zdraví nese / Jaké složky se starají o podpoře a ochraně zdraví? / Orgány ochrany veřejného zdraví:",
+    "answers": [
+      " Ministerstvo zdravotnictví ",
+      " kraj",
+      " hygienická stanice "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Ministerstvo zdravotnictví ", " hygienická stanice "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "514. Odpovědnost za zdraví pacienta nese",
+    "answers": [
+      " nemocnice ",
+      " Ministerstvo zdravotnictví",
+      " kraj",
+      " hygienická stanice"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" nemocnice "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "515. Jaké jsou pojišťovny kromě VZP?",
+    "answers": [
+      " akciové společnosti na povolení MZ, kraje, finančního úřadu",
+      " resortní, oborové, podnikové, popřípadě další pojišťovny - не було",
+      " zaměstnanecké pojišťovny "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " resortní, oborové, podnikové, popřípadě další pojišťovny - не було",
+      " zaměstnanecké pojišťovny "
+    ],
+    "description": [
+      "Zdravotní pojištění provádějí tyto zdravotní pojišťovny:   a) Všeobecná zdravotní pojišťovna České republiky,    b) resortní, oborové, podnikové, popřípadě další pojišťovny.  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "516. Kdy pacient může vzít svůj výpis?",
+    "answers": [
+      " kdy mu doktor v své přítomnosti umožní prohlížet nebo odskenovat ",
+      " kdy mu doktor v jeho přítomnosti umožní prohlížet nebo odskenovat s podmínkou, že lékaři povolí jeho vedoucí"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " kdy mu doktor v své přítomnosti umožní prohlížet nebo odskenovat "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "517. Jak se v České republice za posledních pět let změnil počet problémových drogově závislých?",
+    "answers": [
+      " zvýšil se (bez legalizace / ilegalizace) se velmi mírně zvýšil ",
+      " snížení užívání těžkých léků (zbytek na stejném místě)",
+      " klesl",
+      " na stejné úrovní (počet problémů na stejném místě, celkový počet vzrostl)",
+      " je cyklický"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " zvýšil se (bez legalizace / ilegalizace) se velmi mírně zvýšil "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "518. Jak se změnil počet drogově závislých v České republice?",
+    "answers": [" poklesl "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" poklesl "],
+    "description": [
+      "* situace z drogovými závislými za poslední 30 let se zlepšila v ČR (Malina)"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "519. Česká republika v porovnání se Skandinávskými zeměmi / Česká republika v porovnání s Islandem:",
+    "answers": [
+      " víc kuřáků a víc spotřeba alkoholu ",
+      " méně kuřáků a víc spotřeba alkoholu",
+      " víc kuřáků a méně spotřeba alkoholu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" víc kuřáků a víc spotřeba alkoholu "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "520. Kdo může nést trestní odpovědnost jako fyzická osoba? Trestní odpovědnost fyzických osob",
+    "answers": [
+      " zaměstnavatel jako právnická osoba",
+      " zaměstnavatel jako fyzická osoba ",
+      " lékař jako zaměstnanec *(nájemce) ",
+      " příslušný správní orgán vydavší oprávnění (povolení) na poskytování služeb"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " zaměstnavatel jako fyzická osoba ",
+      " lékař jako zaměstnanec *(nájemce) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "521. Kdo musí nahlásit diagnózu pacientovi při zjištění onkologické onemocnění: / Kdo může nahlásit diagnózu maligního nádoru pacientovi?",
+    "answers": [
+      " instituce, kde převzali odpovědnost za pacienta",
+      " instituce, kde byla diagnóza provedena",
+      " praktický lékař / registrující lékař",
+      " onkologický centrum, onkologický dispensar",
+      " onkologický ústav, u vědění kterého je pacient",
+      " ošetřující lékař "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" ošetřující lékař "],
+    "description": [
+      "Zákon 372/2011: Informaci o zdravotním stavu podává ošetřující zdravotnický pracovník způsobilý k poskytování zdravotních služeb, kterých se podání informace týká; ošetřující zdravotnický pracovník provede do zdravotnické dokumentace záznam o tom, že byla informace podána."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "522. Hlášení maligního nádoru má vyplnit?",
+    "answers": [
+      " ten, kdo odpovídá za léčbu / pracoviště, které léčí pacienta ",
+      " ten, kdo stanovil diagnózu / pracoviště, které zjistilo diagnózu ",
+      " dispensar (dispenzarizaci) ",
+      " Onkocentrum",
+      " praktický lékař"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " ten, kdo odpovídá za léčbu / pracoviště, které léčí pacienta ",
+      " ten, kdo stanovil diagnózu / pracoviště, které zjistilo diagnózu ",
+      " dispensar (dispenzarizaci) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "523. Podle čeho má pacient právo dostát veškerou informace o svém zdravotním stavu:",
+    "answers": [
+      " 372/2011 ",
+      " Úmluva o lidských právech a biomedicíně ",
+      " 48/1997",
+      " 258"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " 372/2011 ",
+      " Úmluva o lidských právech a biomedicíně "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "524. Co je účinnost?",
+    "answers": [
+      " Stupeň/míra dosažené změny ve srovnání s výchozím stavem nebo předem stanoveným standardem/cílem "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Stupeň/míra dosažené změny ve srovnání s výchozím stavem nebo předem stanoveným standardem/cílem "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "525. Spotřeba čistého alkoholu:",
+    "answers": [
+      " nejméně – Turecko, Norsko a Řecko, nevím píše Švýcarsko ",
+      " nejvíce – Litva, Francie, ČR (+v roce 2016 Estonsko(Holčik), Litva "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " nejméně – Turecko, Norsko a Řecko, nevím píše Švýcarsko ",
+      " nejvíce – Litva, Francie, ČR (+v roce 2016 Estonsko(Holčik), Litva "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "526. Výše finančních prostředků přidělená různými státy závislé rezident, především?",
+    "answers": [" státní ekonomický blahobyt "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" státní ekonomický blahobyt "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "527. Jak se jmenuje smlouva mezi pacientem a poskytovatelem?",
+    "answers": [" Smlouva o péči o zdraví "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Smlouva o péči o zdraví "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "528. Co NEpatří podle občanského zákoníku k péče o zdraví?",
+    "answers": [
+      " poskytování neodkladné první pomoci ",
+      " povinná léčba",
+      " estetická medicína",
+      " zdravotní péče poskytována ve vlastním sociálním zařízení"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" poskytování neodkladné první pomoci "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "529. Typ péče, která se poskytuje MIMO smlouvy „o Péče o zdraví“",
+    "answers": [" nouzová a detence", " detence", " nouzová "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" nouzová "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "530. Která z tendencí je správná?",
+    "answers": [
+      " úmrtnost na kardiovaskulární onemocnění stoupá a výskyt klesá",
+      " úmrtnost na nádorové onemocnění stoupa a výskyt klesá",
+      " úmrtnost na nádorové onemocnění klesá i výskyt se zvyšuje ",
+      " úmrtnost na kardiovaskulární onemocnění klesá a výskyt se zvýšuje "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " úmrtnost na nádorové onemocnění klesá i výskyt se zvyšuje ",
+      " úmrtnost na kardiovaskulární onemocnění klesá a výskyt se zvýšuje "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "531. Kdo může bez souhlasu nahlížet do dokumentace pacienta?",
+    "answers": [
+      " studenty",
+      " všichni lékaře",
+      " všichni příbuzní",
+      " ředitel nemocnice",
+      " blízké lidé, kterým pacient zakázal, mohou se podívat, pokud jím hrozí tahle nemoc  *jen v nutném rozsahu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " blízké lidé, kterým pacient zakázal, mohou se podívat, pokud jím hrozí tahle nemoc  *jen v nutném rozsahu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "532. Úznání praxe v jinem oboru je mozné jen když?",
+    "answers": [
+      " vzdělávací program v zahraničí odpovídá vzdělávacímu programu v ČR ",
+      " jen když tenhle stáž v blízké specializace",
+      " stáž v jiném oboru se neuznává"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " vzdělávací program v zahraničí odpovídá vzdělávacímu programu v ČR "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "533. V jakém oboru je nutné maturovat magisterské studium, které je zvláštním předpokladem pro klinické hodnocení humánního léčivého přípravku:",
+    "answers": [" Všeobecné lékařství "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Všeobecné lékařství "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "534. V bohatých rozvinutých zemích nejčastější příčiny úmrtí:",
+    "answers": [" zhoubné nádory, kardiovaskulární choroby "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" zhoubné nádory, kardiovaskulární choroby "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "535. Kolik v ČR je lidi s DM (diabetis mellitus)",
+    "answers": [" více 900 tisíc a roste ", " 500 tisíc", " 1,5 milionů"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" více 900 tisíc a roste "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "536. Healthy life years at birth. Délka života při zdraví při narození:",
+    "answers": [" muži 63,5 ", " ženy 64,2 "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" muži 63,5 ", " ženy 64,2 "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "537. Počet kuřáků v populaci od 10 let ?",
+    "answers": [" stoupl (zvýšil se) "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" stoupl (zvýšil se) "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "538. Roční náklady na zdravotní péče v ČR vzhledem k stárnutí obyvatelů? / Na kolik % se zvyšují roční náklady na zdravotní péči:",
+    "answers": [" zvýšily se o 1% ", " více než 1%"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" zvýšily se o 1% "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "539. Dr. Purkinje, kdo to je? ",
+    "answers": [" Slavný fyziolog "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Slavný fyziolog "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "540. Zmlátili cizince. Komu měl by zavolat lékař?",
+    "answers": [
+      " na českou (cizineckou) policii ",
+      " na konzulát té země odkud je cizinec"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" na českou (cizineckou) policii "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "541. Je možné prodávat alkohol v zdravotnických zařízení?",
+    "answers": [
+      " zakázáno ",
+      " ještě tří varianty, že je možné prodávat nějakým skupinám pacientů"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" zakázáno "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "542. Kolik je platný recept (předpis) na ATB a antimikrobiální chemoterapeutika?",
+    "answers": [" 3 dny", " 7 dnů", " 14 dnů ", " 5 dnů ", " neomezeně"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 14 dnů ", " 5 dnů "],
+    "description": ["Був варіант 5 днів, 14 не булою Беремо 5."],
+    "img": [""]
+  },
+
+  {
+    "question": "543. Lékař úmyslně učinil zákrok, který ohrozil zdraví nebo přivedl ke komplikacím zdravotního stavu pacienta (40/2009 Sb., trestní zákoník)",
+    "answers": [
+      " bude potrestán odnětím svobody na šest měsíců až tři léta, na dvě léta až osm let způsobí-li těžkou újmu na zdraví, na pět až deset let způsobí-li smrt "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " bude potrestán odnětím svobody na šest měsíců až tři léta, na dvě léta až osm let způsobí-li těžkou újmu na zdraví, na pět až deset let způsobí-li smrt "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "544. Jakých cizinců je nejvíc v ČR?",
+    "answers": [
+      " z Ruska",
+      " Ukrajinci ",
+      " Slováci",
+      " Vietnamci",
+      " mladé muži - не було"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Ukrajinci ", " mladé muži - не було"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "545. Relativní riziko Відносний ризик",
+    "answers": [
+      " kvantifikuje sílu asociace mezi studovanou expozicí a nemocí. R.r. udává, kolikrát větší je pravděpodobnost onemocnět u exponovaných osob ve srovnání s pravděpodobností nemocí u osob neexponováních danému faktoru "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " kvantifikuje sílu asociace mezi studovanou expozicí a nemocí. R.r. udává, kolikrát větší je pravděpodobnost onemocnět u exponovaných osob ve srovnání s pravděpodobností nemocí u osob neexponováních danému faktoru "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "546. Individuální riziko",
+    "answers": [" pravděpodobnost onemocnění  (onemocnět)"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" pravděpodobnost onemocnění  (onemocnět)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "547. Alternativní péče",
+    "answers": [
+      " lékař říká pacientů všechny rizika takové léčby ",
+      " postup péče, kdy pacientu lékař nic neříká",
+      " dělá všechno jak chce lékař",
+      " oznámit pacienta o jeho stavu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" lékař říká pacientů všechny rizika takové léčby "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "548. Co je naděje dožití (střední délka života)?",
+    "answers": [
+      " vypočítává se z úmrtnostních tabulek a udává, kolik let by se osoba x-letá v"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " vypočítává se z úmrtnostních tabulek a udává, kolik let by se osoba x-letá v"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "549. Jaká legislativa primárně určuje nutnost souhlasu? / Kde se primárně jedna o informovaném souhlasu?",
+    "answers": [
+      " Úmluva o lidských právech a biomedicíně ",
+      " Zákon o zdravotnických službách 372/2011 *nebylo",
+      " 95/2004",
+      " nemocniční předpisy",
+      " nějaké jiné předpisy"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Úmluva o lidských právech a biomedicíně "],
+    "description": [
+      "про мовчання йде в міжнародній конвенції про захист людських прав, в конвенції про обробку персональних даних,  в 372, 110(101), в трестному законніку, в обчанському законніку і у виграшці 98.  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "550. Typy veřejné intervence?",
+    "answers": [
+      " populační a skupinové ",
+      " populační",
+      " individuální",
+      " individuální a populační"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" populační a skupinové "],
     "description": [""],
     "img": [""]
   },
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "551. Primární ambulantní péče?",
+    "answers": [
+      " poskytování preventivní, diagnostické, léčebné a posudkové péče a konzultací, dále koordinace a návaznost poskytovaných zdravotních služeb; tuto zdravotní péči pacientovi poskytuje registrující poskytovatel "
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [
+      " poskytování preventivní, diagnostické, léčebné a posudkové péče a konzultací, dále koordinace a návaznost poskytovaných zdravotních služeb; tuto zdravotní péči pacientovi poskytuje registrující poskytovatel "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "552. Která instance povoluje založení univerzity (vysoké školy)?",
+    "answers": [
+      " Ministerstvo školství, mládeže a tělovýchovy ",
+      " Ministerstvo zdravotnictví"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Ministerstvo školství, mládeže a tělovýchovy "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "553. V souvislosti s čím se zvýšili výdaje na zdravotní péči?",
+    "answers": [
+      " pokles úmrtnosti, stáří populace, prodlužování délky života "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " pokles úmrtnosti, stáří populace, prodlužování délky života "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "554. Trestní čin",
+    "answers": [
+      " lékař poškodil na zdraví i musí dokázat, že udélal tohle bez úmyslu a z nedbalosti",
+      " lékař poškodil na zdraví, a pacient, kterému uškodili dokazuje, že lékař udělal tohle úmyslně ",
+      " jenom spáchal čin a za tohle bude potrestán"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " lékař poškodil na zdraví, a pacient, kterému uškodili dokazuje, že lékař udělal tohle úmyslně "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "555. Trestní odpovědnost u lékaře, jestliže",
+    "answers": [" úmyslně ", " Hrubá nedbalost ", " nevědomá nedbalost "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " úmyslně ",
+      " Hrubá nedbalost ",
+      " nevědomá nedbalost "
+    ],
+    "description": [""],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczPcisoj4gb4WUFSpH3tD8wjggEaHFL8fWAKTHKAV1cgj9hJkUhrbMGCcNB2c8D8osEQrwGfnX6gG5-kMWKN2qfrsPXWTVRNYCqn6M-iRcQ3jKz4nJN-JYAjvHkE39CyKAZe2M4JliqvYi_Wol8PnpzT=w526-h316-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "556. Pojištěnce má právo na:",
+    "answers": [
+      " výběr zdravotnického personálu, který jej bude ve zdravotnickém zařízení ošetřovat",
+      " na účast při kontrole daňových povinnosti lékaře",
+      " na výběr (volbu) lékaře či jiného odborného pracovníka"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " na výběr (volbu) lékaře či jiného odborného pracovníka"
+    ],
+    "description": [
+      "*podílet se na kontrole poskytnuté zdravotní péče hrazené zdravotním pojištěním. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "557. Ministerstvo zdravotnictví ČR v rámci své činnosti vydává?",
+    "answers": [" vládní nařízení", " vyhlášky ", " zákony"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" vyhlášky "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "558. Mortalita na zhoubné nádory tlustého střeva a konečníku v ČR?",
+    "answers": [" klesá "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" klesá "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "559. Největší výdaje na zdraví, nejvíce peněz stát vydává na",
+    "answers": [
+      " Dlouhodobá péče",
+      " Lůžková péče",
+      " Léky a záchranná služby",
+      " Ambulantní péče ",
+      " Pro léky",
+      " Záchranná služba"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Ambulantní péče "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "560. Pacient zemřel na infekční nemoc a před tím zakázal blízkém lidem nahlížet do jeho zdravotnické dokumentace. Příbuzní chtějí se podívat do dokumentace. Co může udělat lékař?",
+    "answers": [
+      " může povolit, pokud je důležité pro udržení jejich zdraví a v omezeným nutném objemu ",
+      " může povolit z povolení primáře",
+      " nemůže povolit"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " může povolit, pokud je důležité pro udržení jejich zdraví a v omezeným nutném objemu "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "561. Jak je možné udělat potrat v ČR?",
+    "answers": [" Je možné chirurgicky i medikamentózní "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Je možné chirurgicky i medikamentózní "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "562. Průměrná mzda lékaře, zubního lékaře atd.?",
+    "answers": [" 62 000 ", " 58000", " 45 000", " 85 000"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 62 000 "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "563. Informovaný souhlas pacienta",
+    "answers": [
+      " není povinný, ale plně chrání lékaře před možnými důsledky odpovědnosti",
+      " se zdá být právně závazný, ale jen dokazuje, že lékař poskytl pacientovi vysvětlení a získal jeho souhlas, ale neuvolňuje od odpovědnosti lékaře ",
+      " nevyžaduje zákon, dokazuje, že lékař poskytl pacientovi vysvětlení a získal jeho souhlas",
+      " je právně závazný, pokud to lékař vyžaduje, pak již nemusí komunikovat s pacientem"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " se zdá být právně závazný, ale jen dokazuje, že lékař poskytl pacientovi vysvětlení a získal jeho souhlas, ale neuvolňuje od odpovědnosti lékaře "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "564. Preventivní prohlídky",
+    "answers": [
+      " musíme se podílet jeden krát v 2 roky, zpravidla po 23 měsících od minulé preventivní prohlídky ",
+      " musíme se podílet jednou v 5 let",
+      " není zavedení v CR",
+      " není povinné, musíme se podílet jenom po určení ošetřujícího lékaře"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " musíme se podílet jeden krát v 2 roky, zpravidla po 23 měsících od minulé preventivní prohlídky "
+    ],
+    "description": ["*zákon 48 §29"],
+    "img": [""]
+  },
+
+  {
+    "question": "565. Kdy zaměstnavatel může dát lékaři výpověď?",
+    "answers": [
+      " může dát výpověď za podmínek zákonu v ustanovením zákonem lhůtě ",
+      " muže dát výpověď za podmínek zákonu za 2 měsíce, a za dalších podmínek za 6 měsíců zákonné výpovědi",
+      " můžeme dát výpověď za podmínek zákonu za 2 měsíce, a jinak za shodou oboru",
+      " může dát za veškerých podmínek za 2 měsíce"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " může dát výpověď za podmínek zákonu v ustanovením zákonem lhůtě "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "566. Pojem samostatný vykon povolaní:",
+    "answers": [
+      " výkon povolání osobou odborné spusobilou bez odborného vedení ",
+      " výkon povolání osobou se specializaci ",
+      " výkon povolání v akreditovaným pracoviští"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " výkon povolání osobou odborné spusobilou bez odborného vedení ",
+      " výkon povolání osobou se specializaci "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "567. Co má právo udělat lékař, když pacient odmítá (vzdává se) dostávat informace o své nemoci? (Zákon 372/2011)",
+    "answers": [
+      " podat informace, jestli ona je nebezpečná pro jeho rodiče, dětí ",
+      " podat informace, jestli ona ohrožuje život pacienta",
+      " nepodávat informace, udělat záznam a dat ho k historií nemoci pacienta "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " podat informace, jestli ona je nebezpečná pro jeho rodiče, dětí ",
+      " nepodávat informace, udělat záznam a dat ho k historií nemoci pacienta "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "568. Trestní odpovědnost nese?",
+    "answers": [
+      " poskytovatel jako fyzická osoba ",
+      " poskytovatel jako právnická osoba ",
+      " poskytovatel jako zaměstnanec ",
+      " ten, kdo udělal oprávnění (příslušný správní orgán) "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " poskytovatel jako fyzická osoba ",
+      " poskytovatel jako právnická osoba ",
+      " poskytovatel jako zaměstnanec ",
+      " ten, kdo udělal oprávnění (příslušný správní orgán) "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "569. Při ubližení na zdraví porušenim povinnosti vyplyvajíci ze zaměstnaní, povolaní, postavení, nebo funkce bude zdravotnický pracovnik volán k odpovědnosti:",
+    "answers": [
+      " Občansko-právní odpovědnost",
+      " Trestně-právní odpovědnost ",
+      " spravně-pravní"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Trestně-právní odpovědnost "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "570. Jaký status má pojišťovna VZP v oboru zdravotního pojištění?",
+    "answers": [" nezisková příspěvková organizace "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" nezisková příspěvková organizace "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "571. Lékař poskytnul neodkladnou pomoc na ulice. Kdo zaplatí?",
+    "answers": [" pojišťovna pacienta "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" pojišťovna pacienta "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "572. Jak se nazývá proces, kdy lékař z soucitu neposkytne vitálně nutnou péče pacientu? Usmrcení pacienta se soucitu:",
+    "answers": [
+      " aktivní eutanazie",
+      " pasivní eutanazie",
+      " neprodlužování životu "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" neprodlužování životu "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "573. Kdy musí lékař hlásit pro násilní smrti?",
+    "answers": [" vždy, policii České republiky "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" vždy, policii České republiky "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "574. Na kolik času lékař může hospitalizovat pacienta, pokud bylo hlášení *(pacient nesouhlasil s hospitalizaci)? 😊",
+    "answers": [
+      " na tak dlouho, kolik bude vyžadovat zdravotní stav pacienta ",
+      " maximum na 6 měsíců",
+      " na tak dlouho, jak rozhodne soud"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " na tak dlouho, kolik bude vyžadovat zdravotní stav pacienta "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "575. Kde nejvyšší počet kuřáků v populaci 15+?",
+    "answers": [" Lotyšsko "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Lotyšsko "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "576. Primární péče ",
+    "answers": [
+      " stomatologie, chirurgie",
+      " přijímací oddělení nemocnic",
+      " praktický oční lékař",
+      " praktický lékař "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" praktický lékař "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "577. Co je správně?",
+    "answers": [
+      " pacient se může vzdát informace o svém zdravotním stavu a je to odmítnutí součásti zdravotnické dokumentace ",
+      " pacient se může vzdát informace o svém zdravotním stavu, s výjimkou ohledně infekčních nemoci a nemoci, v souvislosti s níž může ohrozit zdraví nebo život jiných osob "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " pacient se může vzdát informace o svém zdravotním stavu a je to odmítnutí součásti zdravotnické dokumentace ",
+      " pacient se může vzdát informace o svém zdravotním stavu, s výjimkou ohledně infekčních nemoci a nemoci, v souvislosti s níž může ohrozit zdraví nebo život jiných osob "
+    ],
+    "description": [
+      "Pacient se může vzdát podání informace o svém zdravotním stavu, popřípadě může určit, které osobě má být podána. Záznam o vzdání se podání informace o zdravotním stavu a určení osoby, které má být informace o zdravotním stavu podána, je součástí zdravotnické dokumentace vedené o pacientovi; záznam podepíše pacient a zdravotnický pracovník. K vzdání se podání informace o zdravotním stavu se nepřihlíží, jde-li o informaci, že pacient trpí infekční nemocí nebo jinou nemocí, v souvislosti s níž může ohrozit zdraví nebo život jiných osob."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "578. Jak se změní populace v ČR do roku 2050?",
+    "answers": [" úbytek o 1-2 mil ", " očekávaný pokles porodnosti"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" úbytek o 1-2 mil "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "579. Všeobecné veřejné zdravotnictví v ČR z větší časti finansováne",
+    "answers": [
+      " z daní",
+      " z zdravotního pojištění ",
+      " státem",
+      " přispěvky zaměsnavatelů"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" z zdravotního pojištění "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "580. Čas na vyšetření pacienta (čas prohlídky pacienta)",
+    "answers": [" zkrátil se "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" zkrátil se "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "581. Kdo má právo na zdravotní péči na základě všeobecného veřejného zdravotního pojištění v České republice?",
+    "answers": [
+      " osoby/cizinci, kteří na území České republiky nemají trvalý pobyt, pokud jsou zaměstnané u zaměstnavatele, který má sídlo nebo trvalý pobyt na území České republiky ",
+      " osoby/cizinci, kteří na území ČR nemají trvalý pobyt, pokud jsou zaměstnané u zaměstnavatele, který má trvalý pobyt"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " osoby/cizinci, kteří na území České republiky nemají trvalý pobyt, pokud jsou zaměstnané u zaměstnavatele, který má sídlo nebo trvalý pobyt na území České republiky "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "582. Čím se řídí chráněni omamných látek?",
+    "answers": [" Předpisy", " zákonem ", " vyhláška"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" zákonem "],
     "description": [""],
     "img": [""]
   },
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "583. Co plně svéprávný pacient není oprávněn udělat při zahájení lůžkové péče (během hospitalizace)? / Co není, plně svéprávná osoba, oprávněna udělat během hospitalizace? ❓ Что НЕ МОЖЕТ сделать (НЕ УПОЛНОМОЧЕНА) полностью дееспособная особа (plně svéprávná osoba, plně svéprávný pacient) во время госпитализации? ",
+    "answers": [
+      "udělat předčasné rozhodnutí pro případ smrtí muže  (Если я правильно понимаю – это ЗАВЕЩАНИЕ?)  ",
+      "udělat rozhodnutí o zákazu nahlížení do zdravotnické dokumentace muže",
+      "udělat rozhodnutí o předání nemovitostí (majetkové práva), auta zdravotnickému zařízení, ale nekonkrétními pracovníku NEmuže  (89/2012  § 2067 (1) Darování osobě, která provozuje zařízení, kde se poskytují zdravotnické nebo sociální služby, anebo osobě, která takové zařízení spravuje nebo je v něm zaměstnána, je neplatné, stalo-li se v době, kdy dárce byl v péči takového zařízení nebo jinak přijímal jeho služby.)",
+      "nabytí vlastnictví v 100 000 / zcizit muže  (zcizením se rozumí legální převod majetkového práva z jednoho oprávněného vlastníka na druhého nového oprávněného vlastníka. Полностью дееспособный пациент госпитализирован, решил подарить – да, именно сейчас, домик жене, или дочке, или подруге – что ему запрещает это сделать? Ну или купить решил. Или продать.)   ",
+      "rozhodnutí o vlastnictví nemovitosti muže  (по-сути тоже самое, что и в предыдущем ответе)  "
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [
+      "udělat rozhodnutí o předání nemovitostí (majetkové práva), auta zdravotnickému zařízení, ale nekonkrétními pracovníku NEmuže  (89/2012  § 2067 (1) Darování osobě, která provozuje zařízení, kde se poskytují zdravotnické nebo sociální služby, anebo osobě, která takové zařízení spravuje nebo je v něm zaměstnána, je neplatné, stalo-li se v době, kdy dárce byl v péči takového zařízení nebo jinak přijímal jeho služby.)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "584. Nejčastější příčiny úmrtí v ČR?",
+    "answers": [
+      " kardiovaskulární, zhoubné nádory, zevní příčiny ",
+      " zhoubné nádory, kardiovaskulární a nemoci plic",
+      " zhoubné nádory, kardiovaskulární a nemoci trávicí soustavy"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" kardiovaskulární, zhoubné nádory, zevní příčiny "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "585. Jaké nemocí budou příčinami úmrtí v budoucnosti?",
+    "answers": [" nádorové, metabolické, psychické a degenerativní "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" nádorové, metabolické, psychické a degenerativní "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "586. Nejnižší míra kojenecké úmrtnosti (nejdelší délka života v EU)?",
+    "answers": [" Island a Finsko a Norsko "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Island a Finsko a Norsko "],
+    "description": ["Були ці країни, у всіх інших варіанта намішана USA "],
+    "img": [""]
+  },
+
+  {
+    "question": "587. Nejnižší míra úmrtnosti (nejdelší délka života v EU)?",
+    "answers": [
+      " Francie, Španělsko - ženy ",
+      " Island, Švýcarsko - muži ",
+      " kojenecká –Island a Finsko a Norsko "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " Francie, Španělsko - ženy ",
+      " Island, Švýcarsko - muži ",
+      " kojenecká –Island a Finsko a Norsko "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "588. Co je správně?",
+    "answers": [
+      " pro vykonání lékařského povolání na území ČR každý lékař musí být členem ČLK ",
+      " všichni musí být členy ČLK",
+      " všichni zdravotnické pracovníky musí být členy ČLK",
+      " každý lékař, který vykonává povolání jako právnická osoba na území ČR musí se přihlásit na ČLK",
+      " každý lékař, který absolvoval specializační zkoušku už nemusí platit do ČLK pravidelné příspěvky"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " pro vykonání lékařského povolání na území ČR každý lékař musí být členem ČLK "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "589. Poskytovatel má nějakou pojišťovnou, poskytl nějakou pomoc pacientů, už dostal úhradu za to, pacient chce dát poskytovateli soukromí ještě nějakou úhradu. / Může-li lékař vyžadovat peníze za hrazené služby?",
+    "answers": [
+      " nesmí vzít, bude zrušena smlouva mezi poskytovatelem a pojišťovnou ",
+      " nesmí vzít – příslušný správní orgán odejme oprávnění k poskytování služeb nebude mít práva poskytovat služby",
+      " nesmí vzít – odejmutí oprávnění k poskytování služeb ",
+      " smí vzít, pouze úhrada bude půlku předchozí platby",
+      " smí vzít …"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " nesmí vzít, bude zrušena smlouva mezi poskytovatelem a pojišťovnou ",
+      " nesmí vzít – příslušný správní orgán odejme oprávnění k poskytování služeb nebude mít práva poskytovat služby",
+      " nesmí vzít – odejmutí oprávnění k poskytování služeb "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "590. Co pojištěnce musí udělat? / U koho je povinně být registrován?",
+    "answers": [
+      " smlouvu s registrujícím praktickým lékařem",
+      " smlouvu s kterýmkoliv lékařem / musí registrovat u toho, koho potřebuje",
+      " praktický lékař pro dětí a dorost, gynekolog a stomatolog",
+      " vždy jen u všeobecného lékaře",
+      " není povinen být registrován "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" není povinen být registrován "],
+    "description": [
+      "*Mít svého lékaře a být u něj zaregistrován je právo pacienta, nikoliv povinnost"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "591. Jaký trend je správný?",
+    "answers": [
+      " snížení úmrtnost nemocných na rakovinu ale výskyt se zvyšuje ",
+      " snížení kardiovaskulárních nemoci ale v poslední roky je na stejné úrovní",
+      " snížení/zvýšení infekčních nemoc"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " snížení úmrtnost nemocných na rakovinu ale výskyt se zvyšuje "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "592. Úhrada praktickému lékařovi (většinou):",
+    "answers": [
+      " smíšená (kapitacní+výkon) ",
+      " DRG",
+      " za výkon",
+      " pacient přímo zaplatí"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" smíšená (kapitacní+výkon) "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "593. Pojistné, které platí pojištěnce/plátce pojistného postupují na",
+    "answers": [
+      " na svůj vlastní účet v pojišťovně, kde je rozpočet peněz a poskytnutých služeb pacientovi. Rozpočet může vytisknout jeden krát ročně",
+      " na účet České Národní banky. Plátci pojistného si mohou pořídit výpis s účtu ",
+      " na účet Ministerstva Zdravotnictví",
+      " neexistuje takové věci"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " na účet České Národní banky. Plátci pojistného si mohou pořídit výpis s účtu "
+    ],
+    "description": ["*pojistné – peníze pro pojištění."],
+    "img": [""]
+  },
+
+  {
+    "question": "594. Kolik cizinců žije v České republice?",
+    "answers": [" 500000 tisíc / 0,5 mil.  на 30 червня 2022: 1053568 людей"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " 500000 tisíc / 0,5 mil.  на 30 червня 2022: 1053568 людей"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "595. Ve kterém zákoně jsou uvedené hrazené služby?",
+    "answers": [" 48/1997 zákon o veřejném zdravotním pojištění "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 48/1997 zákon o veřejném zdravotním pojištění "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "596. Lékařské posudky. Který zákon?",
+    "answers": [" 373/2011 "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 373/2011 "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "597. Výdaje na zdravotní péči podle věku? / V jaké věkové skupině výdaje na zdravotnictví jsou nejvyšší:",
+    "answers": [
+      " nejvyšší v období kojence a batolete a pak se snižují",
+      " stejné u všech věkových skupin",
+      " nejnižší v období kojence a batole",
+      " v period dospívání",
+      " vyšší v období kojence a batole, ve srovnání s dospívajícími a studenty "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " vyšší v období kojence a batole, ve srovnání s dospívajícími a studenty "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "598. Co je správně?",
+    "answers": [
+      " výskyt kazivého chrupu u děti v ČR je vysoký ",
+      " výskyt kazivého chrupu u děti v ČR je nízký",
+      " výskyt kazivého chrupu u děti v ČR je střední v EU",
+      " častěji se provádějí preventivní prohlídky"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" výskyt kazivého chrupu u děti v ČR je vysoký "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "599. Převažujícím systémem financování zdravotní ambulantní péče je",
+    "answers": [" smíšená kapitačně-výkonová platba "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" smíšená kapitačně-výkonová platba "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "600. Co je veřejné zdravotnictví?",
+    "answers": [
+      " je multidisciplinární medicínský obor, který využívá a integruje poznatky různých vědních disciplín ",
+      " systematicky se zabývá problematikou zdraví a zdravotnictví "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " je multidisciplinární medicínský obor, který využívá a integruje poznatky různých vědních disciplín ",
+      " systematicky se zabývá problematikou zdraví a zdravotnictví "
+    ],
     "description": [""],
     "img": [""]
   },
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "601. Může lékař předepsat pacientovi neregistrovaný lék v České republice?",
+    "answers": [
+      " je to nelegální, nemůže to udělat",
+      " může předepsat jakýkoliv lék, pokud pacient je samoplatce",
+      " může předepsat neregistrovaný lék, a to v souladu s určitým právním předpisem ",
+      " může předepsat neregistrovaný lék, pokud má důkazy jeho účinností, například z jiného státu"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [
+      " může předepsat neregistrovaný lék, a to v souladu s určitým právním předpisem "
+    ],
     "description": [""],
     "img": [""]
   },
+
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "602. Kdy zaměstnavatel může dát lékaři výpověď?",
+    "answers": [
+      " zaměstnavatel může dát výpověď z jakéhokoliv důvodu",
+      " zaměstnavatel může dát výpověď jenom z důvodu výslovně stanovených v zákoně a dle zákonných lhůt do 2 měsíců ",
+      " zaměstnavatel může dát výpověď z důvodu výslovně stanovených v zákoně nebo z jakýchkoliv jiných důvodu",
+      " zaměstnavatel může dát výpověď jenom z důvodu výslovně stanovených v zákoně a dle zákonných lhůt do 2 měsíců s možností prodloužení této lhůty do 6 měsíců"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [
+      " zaměstnavatel může dát výpověď jenom z důvodu výslovně stanovených v zákoně a dle zákonných lhůt do 2 měsíců "
+    ],
     "description": [""],
     "img": [""]
   },
+
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "603. Při prohlídce zemřelé osoby musí lékař neprodleně informovat policii:",
+    "answers": [
+      " jestli má podezření že úmrtí bylo způsobeno trestním činem nebo sebevraždou ",
+      " jestli má podezření že úmrtí bylo způsobeno trestním činem nebo sebevraždou, a zemřely je cizinec",
+      " všechna náhlá a neočekává úmrtí"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [
+      " jestli má podezření že úmrtí bylo způsobeno trestním činem nebo sebevraždou "
+    ],
     "description": [""],
     "img": [""]
   },
+
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "604. Očkování proti žloutence (hepatitidě) typu B",
+    "answers": [
+      " povinné pro všechny fyzické osoby",
+      " zvláštní pro některé fyzické osoby ",
+      " povinné pro veterináři",
+      " pro vystavené expozici zdravotní pracovníky"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [" zvláštní pro některé fyzické osoby "],
     "description": [""],
     "img": [""]
   },
+
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "605. Kdy se fyzické osobě udělí oprávnění k poskytování zdravotních služeb?",
+    "answers": [
+      " 18 let, je bezúhonná, absolvované (ukončené) vysokoškolské magisterské vzdělání ve zdravotnictví, je způsobila k samostatnému výkonu povolání, je oprávněna užívat zdravotnické zařízení, které splňuje požadavky na technické a věcné vybavení ",
+      " 18 let, ukončené magisterské vzdělávání, připravuje se na samostatný výkon povolání, je oprávněna užívat zdravotnické zařízení, které splňuje požadavky na technické a věcné vybavení",
+      "18 let, ukončené studium na lékařské univerzitě, je držitelem povolení k pobytu v ČR, po přidělení oprávnění splní požadavky na technické a věcné vybavení",
+      " 18 let, ukončené studium na lékařské fakultě, osoba, musí prokázat, že může vykonavat povolání v takovém zařízení"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [
+      " 18 let, je bezúhonná, absolvované (ukončené) vysokoškolské magisterské vzdělání ve zdravotnictví, je způsobila k samostatnému výkonu povolání, je oprávněna užívat zdravotnické zařízení, které splňuje požadavky na technické a věcné vybavení "
+    ],
     "description": [""],
     "img": [""]
   },
+
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "606. Jaké zákony řídí informovanost pacienta?",
+    "answers": [
+      " Úmluva o lidských právech a biomedicíně ",
+      " Zákon o zdravotnických službách 372/2011 a Nový občanský zákoník "
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [
+      " Úmluva o lidských právech a biomedicíně ",
+      " Zákon o zdravotnických službách 372/2011 a Nový občanský zákoník "
+    ],
     "description": [""],
     "img": [""]
   },
+
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "607. Co patří ke specifickým zdravotním službám?",
+    "answers": [" asistovaná reprodukce "],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [" asistovaná reprodukce "],
     "description": [""],
     "img": [""]
   },
+
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "608. Podezření na apendicitidu během prohlídky. Pokud nezahájit léčbu dítě může zemřít. Rodiče kategoricky odmítají nechat dítě v nemocnice. Co děláme?",
+    "answers": [
+      " hospitalizovat ",
+      " vzít u rodičů revers o odmítnutí léčby a pouštět domu",
+      " zavolat Policie ČR",
+      " informovat orgán sociálně-právní ochrany dětí"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [" hospitalizovat "],
     "description": [""],
     "img": [""]
   },
+
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "609. Co musí udělat registrující lékař při první schůzce s pacientem?",
+    "answers": [
+      " podepsat registrační formulář ",
+      " podepsat informovaný souhlas",
+      " změřit teplotu"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [" podepsat registrační formulář "],
     "description": [""],
     "img": [""]
   },
+
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "610. Zaměstnavatel zaplatil pokutu za lékaře ve výšce 800 000-Kč. Může požádat od lékaře vrátit částku?",
+    "answers": [
+      " nemůže",
+      " může ve výše čtyřapůlnasobku měsíčních platů ",
+      " může ve výše třech měsíčních platů",
+      " může požádat vrátit všechnu částku"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [" může ve výše čtyřapůlnasobku měsíčních platů "],
     "description": [""],
     "img": [""]
   },
+
   {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
+    "question": "611. Kdy můžeme NEpodávat informace pacientovi?",
+    "answers": [
+      " pokud on sám o tom poprosil ",
+      " pokud léčíme povinné po řešení soudu"
+    ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
+    "correctAnswers": [" pokud on sám o tom poprosil "],
     "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "612. Rozpočet na VZP. Měsíčně se odvádí z minimální mzdy:",
+    "answers": [" 7,5%", " 11%", " 13,5% ", " 16%"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 13,5% "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "613. Co je správně?",
+    "answers": [
+      " délka života od roku 1989 (mírně – nebylo), výrazně stoupá u mužů a žen",
+      " délka života od Druhé Světové války stoupá u můžu a žen ",
+      " délka života za poslední 20 let stoupa u žen",
+      " délka života od 1989 stoupá jen u žen"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " délka života od Druhé Světové války stoupá u můžu a žen "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "614. Pracovní poměr může být rozvázán jen:",
+    "answers": [
+      " dohoda a výpověď, okamžitě zrušení, zrušení ve zkušební době ",
+      " dohoda a výpověď, okamžitě zrušení, zrušení ve zkušební době a smrt",
+      " dohoda a výpověď",
+      " dohoda a výpověď, okamžitě zrušení"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " dohoda a výpověď, okamžitě zrušení, zrušení ve zkušební době "
+    ],
+    "description": [
+      "* Pracovní poměr zaniká smrtí zaměstnance nebo smrti zaměstnavatele, který je fyzickou osobou."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "615. Očkování proti infekčním nemocem. (Vyhláška 537/2006) юрист",
+    "answers": [
+      " očkováni je povinné pro všech, kdo má trvalý pobyt ",
+      " musí být očkován každý cizinec s trvalém pobytem nebo přechodným pobytem",
+      " musí být očkován každý cizinec s trvalém pobytem nebo přechodným pobytem více 90 dnů ",
+      " očkován musí byt každý kdo dostal občanství ČR"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " očkováni je povinné pro všech, kdo má trvalý pobyt ",
+      " musí být očkován každý cizinec s trvalém pobytem nebo přechodným pobytem více 90 dnů "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "616. Jaký zákon vymezuje pracovníka ve zdravotnictví?",
+    "answers": [" 95 ", " 96 ", " 372"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 95 ", " 96 "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "617. Přerozdělování pojistného: юрист",
+    "answers": [
+      " celou část nechá pro pojištěnce",
+      "malou část nechá pro své náklady a velkou částku oddává na přerozdělování",
+      "pojišťovna všechny peníze oddává na přerozdělování ",
+      " velkou část nechá a malou částku oddává na přerozdělování"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["pojišťovna všechny peníze oddává na přerozdělování "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "618. Pojišťovna, aby zajistila poskytnutí nepřetržité a dostupné peče:",
+    "answers": [
+      " uzavírá smlouvu o poskytování a úhradě hrazených služeb ",
+      " uzavírá smlouvu s krajem na území kterého se nachází zdravotnické zařízení",
+      " uzavírá smlouvu s Ministerstvem zdravotnictví"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " uzavírá smlouvu o poskytování a úhradě hrazených služeb "
+    ],
+    "description": ["*poskytovatele zdravotních služeb nebylo v odpovědích "],
+    "img": [""]
+  },
+
+  {
+    "question": "619. Péče na náležité odborné úrovni:",
+    "answers": [
+      " poskytování zdravotních služeb podle pravidel vědy a uznávaných medicínských postupů, při respektování individuality pacienta, s ohledem na konkrétní podmínky a objektivní možnosti ",
+      " pomoc, která se poskytuje na základě vědy a kterou poskytují lékaře s odbornou způsobilosti",
+      " poskytování zdravotních služeb praktickým lékařem"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " poskytování zdravotních služeb podle pravidel vědy a uznávaných medicínských postupů, při respektování individuality pacienta, s ohledem na konkrétní podmínky a objektivní možnosti "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "620. Zdravotnický pracovník je povinen: *podle zákona 372/2011",
+    "answers": [
+      " poskytovat neprodleně odbornou první pomoc každému, jestliže by bez této pomoci byl ohrožen jeho život nebo vážně ohroženo zdraví a není-li pomoc včas dosažitelná obvyklým způsobem, a zajistit mu podle potřeby poskytnutí zdravotních služeb "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " poskytovat neprodleně odbornou první pomoc každému, jestliže by bez této pomoci byl ohrožen jeho život nebo vážně ohroženo zdraví a není-li pomoc včas dosažitelná obvyklým způsobem, a zajistit mu podle potřeby poskytnutí zdravotních služeb "
+    ],
+    "description": [
+      "Інші варіанти - це обрізки з нашої найбільш повної відповіді."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "621. Jaké základní právo má zdravotnický pracovník?",
+    "answers": [
+      " získat od pacienta informace o tom, že pacient, kterému má poskytovat zdravotní služby, je nosičem infekční nemoci ",
+      " odmítnout poskytnutí zdravotních služeb pacientovi v případě, že by jejich poskytnutí odporovalo jeho svědomí nebo náboženskému vyznání "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " získat od pacienta informace o tom, že pacient, kterému má poskytovat zdravotní služby, je nosičem infekční nemoci ",
+      " odmítnout poskytnutí zdravotních služeb pacientovi v případě, že by jejich poskytnutí odporovalo jeho svědomí nebo náboženskému vyznání "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "622. V kterém zákoně jsou stanoveny podmínky poskytování bezplatné péče?",
+    "answers": [
+      " Zákon 48/1997 ",
+      " 372/2011",
+      " Úmluva o lidských právech a biomedicíně *nebylo",
+      " 258/2000"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Zákon 48/1997 "],
+    "description": [
+      "Informovaný souhlas:   1.89/2012 Nový občanský zákoník    2.372/2012 Zákon o zdravotních službách a podmínkách jejich poskytování  3.Úmluva o lidských právech a o biomedicině     Primárně se jedna o informovaném souhlasu - Úmluva o lidských právech a o biomedicině       Legislativa   372/2011 Zákon o zdravotních službách a podmínkách jejich poskytování  373/2011 Zákon o specifických zdravotních službách    258/2000 Zákon o ochraně veřejného zdraví   98/2012 Vyhláška o zdravotnické dokumentaci   89/2012 Občanský zákoník    262/2006 Zákoník práce  285/2002 Transplantační zákon   40/2009 Trestní zákoník   zákoně o návykových látkách(č. 167/1998 Sb.)  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "623. Pokud pacient svévolné opustil nemocnici, kde byl hospitalizován a o svém odchodu tak neinformoval zdravotnický personál, je poskytovatel povinen informovat Policii ČR",
+    "answers": [
+      " vždy",
+      " nemůže Policii ČR informovat, jednalo by se o porušení povinnosti mlčenlivosti",
+      " pouze pokud je přerušenim poskytování zdravotních služeb vážně ohroženo zdraví nebo život pacienta (nebo třetích osob)"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" vždy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "624. Proti postupu poskytovatele při poskytování zdravotních služeb může podat stížnost:",
+    "answers": [
+      " pouze pacient, zákonný zástupce nebo opatrovnik pacienta a jemu osoba blizká v případě, že pacient tak nemůže učinit s ohledem na svůj zdravotní stav nebo pokud zemřel.",
+      " pouze pacient, zákonný zástupce nebo opatrovnik pacienta, osoba blizká v případě, že pacient tak nemůže učinit s ohledem na svůj zdravotní stav nebo pokud zemřel, nebo osoba zmocněná pacientem",
+      "pouze pacient a zákonný zástupce nebo opatrovník pacienta"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " pouze pacient, zákonný zástupce nebo opatrovnik pacienta, osoba blizká v případě, že pacient tak nemůže učinit s ohledem na svůj zdravotní stav nebo pokud zemřel, nebo osoba zmocněná pacientem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "625.Jak musí být pacient poučen při odmítnutí navrhované péče:",
+    "answers": [
+      "a neni stanoven žádný minimální počet",
+      " minimálně dvakrát",
+      " minimálně třikrat"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" minimálně dvakrát"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "626. Možnost svobodné volby poskytovatele zdravotních služeb pacientem se nevztahuje na:",
+    "answers": [
+      " poskytovatele vysoce specializované péče",
+      " pracovně-lekarske služby",
+      "registrujícího poskytovatele"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" pracovně-lekarske služby"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "627. V jakém pořadí může být udělen zástupný souhlas za pacienta:",
+    "answers": [
+      " manžel, sourozenec, jiná osoba blizka",
+      " manžel, plně svéprávné dítě, jiná osoba blizka",
+      " manžel, rodiče, jiná osoba blizka"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" manžel, rodiče, jiná osoba blizka"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "628. Jaká je platnost drive vysloveného přání",
+    "answers": [" pět let", " deset let", " je časově neomezeno"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" je časově neomezeno"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "629. Vnitřní řád poskytovatele zdravotních služeb:",
+    "answers": [
+      " nesmi zasahovat do práv pacienta",
+      " může zasahovat do práv pacienta z důvodů nezbytně nutných pro zajištění fádného chodu zdravotnického zařízení a respektování práv ostatních pacientů",
+      " může zasahovat do práv pacienta pouze v případě, že pacient při přijetí do péće s tim vyslovil souhlas"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " může zasahovat do práv pacienta z důvodů nezbytně nutných pro zajištění fádného chodu zdravotnického zařízení a respektování práv ostatních pacientů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "630. Lékař je povinen poskytovat zdravotní služby",
+    "answers": [
+      "v souladu s ejnovějšimi dostupnými poznatky lékařské vědy",
+      " podle pravidel vědy a uznávaných medicinských postupů, při respektování individuality pacienta, sohledem na konkrétní podmínky a objektivní možnosti",
+      "podle pravidel vědy a uznávaných medicinských postupů doporučených odbornými společnostmi"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " podle pravidel vědy a uznávaných medicinských postupů, při respektování individuality pacienta, sohledem na konkrétní podmínky a objektivní možnosti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "631. Ma-li být zdravotnimi službami zasaženo do integrity člověka, tak se písemná forma informovaného souhlasu se zdravotními službami vyžaduje:",
+    "answers": [
+      "pouze, pokud tak s ohledem na charakter zásahu do integrity pacienta určí poskytovatel",
+      "vždy, jde-li o jakýkoliv zásah do integrity pacienta",
+      "vždy, má-li být oddělena část téla pacienta, která se již neobnovi "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "vždy, má-li být oddělena část téla pacienta, která se již neobnovi "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "632. Poskytovatel je povinen předat zprávu o poskytnutých zdravotních službách registrujicimu poskytovateli v oboru všeobecné praktické lékařstvi:",
+    "answers": [
+      " pouze na vyžádání praktickým lékařem",
+      " pouze v případě, že předání zprávy praktickému lékań považuje za důvodné",
+      " vždy, pokud mu je praktický lékař pacienta znám"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" vždy, pokud mu je praktický lékař pacienta znám"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "633. Registrujícím poskytovatelem zdravotních služeb se rozumi",
+    "answers": [
+      " poskytovatel ambulantní péče v oboru všeobecné praktické lékařství a v oboru praktické lékařství pro děti a dorost",
+      "poskytovatel ambulantní péče v oboru všeobecné praktické lékařství, v oboru praktické lékařství pro děti a dorost, v oboru zubní lékařství nebo v oboru gynekologie a porodnictvi",
+      " poskytovatel ambulantní péče na základě smlouvy o poskytování zdravotních služeb uzavřené se zdravotní pojišťovnou"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "poskytovatel ambulantní péče v oboru všeobecné praktické lékařství, v oboru praktické lékařství pro děti a dorost, v oboru zubní lékařství nebo v oboru gynekologie a porodnictvi"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "634. Poskytovatel specializované ambulantní péče, kterého si pacient zvolil, může odmítnout přijetí pacienta do péče:",
+    "answers": [
+      " v případě, že pacient nemá doporučeni od praktického lékaře",
+      " v případě, že pacient odmítnul prokázat svoji totožnost ",
+      "z důvodu velké vzdálenosti místa pobytu pacienta"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " v případě, že pacient odmítnul prokázat svoji totožnost "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "635. Úmluva o lidských právech a biomedicine:",
+    "answers": [
+      " je pramenem mezinárodního práva a zavazuje pouze stát a jeho orgány",
+      " je pramenem českého práva; pokud zákon stanovuje něco jiného, než mezinárodní smlouva, použije se",
+      "je pramenem práva nižší právní sily než české právní předpisy, při nesouladu se použije česká vnitrostátní norma"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " je pramenem českého práva; pokud zákon stanovuje něco jiného, než mezinárodní smlouva, použije se"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "636. Jestliže policie žádá po lékaři informace o zdravotním stavu pacienta a nemá k tomu souhlas pacienta:",
+    "answers": [
+      " lékař má povinnost mlčenlivosti, která může být prolomena souhlasem soudce dle zákona o trestnim řízení soudním ",
+      " lékař má povinnost mlčenlivosti, která může být prolomena souhlasem soudce nebo krajským úřadem, který vydal oprávnění k poskytování zdravotních služeb, dle zákona o zdravotních službách"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " lékař má povinnost mlčenlivosti, která může být prolomena souhlasem soudce dle zákona o trestnim řízení soudním "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "637. Domáhá-li se osoba blizká pacientovi svých práv a zdravotnický pracovník má pochybnost, zda jde o osobu blízkou, osvědčí osoba blizká tuto skutečnost:",
+    "answers": [
+      " občanským průkazem, cizinec cestovnim dokladem nebo jiným průkazem totožnosti",
+      " čestným prohlášením, ve kterém uvede své kontaktní údaje a číslo průkazu totožnosti ",
+      "osoba blizká není povinna se zdravotnickým pracovníkům prokazovat"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " čestným prohlášením, ve kterém uvede své kontaktní údaje a číslo průkazu totožnosti "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "638. Jestliže pacient podepsal negativni revers k provedení výkonu:",
+    "answers": [
+      " výkon může být proveden v okamžiku, kdy se pacientův zdravotní stav zhorší do té míry, że již nebude schopen se k provedení operace vyjádřit a dá souhlas osoba blizka",
+      " výkon nemůže být proveden v žádném případě",
+      " výkon může být proveden v okamžiku, kdy se pacientův zdravotní stav zhorší do té míry, że již nebude schopen se k provedení operace vyjádřit"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" výkon nemůže být proveden v žádném případě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "639. Nejvýznamnějším zdrojem financování zdravotnictví v ČR je:",
+    "answers": [
+      " přímé platby občanů",
+      " státní rozpočet",
+      " veřejné zdravotní pojištění"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" veřejné zdravotní pojištění"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "640.V souvislosti s použitím omezovacích prostředků má poskytovatel povinnost oznámit soudu do 24 hodin (v případě, že souhlas pacienta nebyl dodatečně vysloven):",
+    "answers": [
+      " všechna dodatečná omezení pacienta ve volném pohybu, který byl hospitalizován na základě souhlasu, přičemž k omezení došlo až v průběhu léčení",
+      " kromě úchopu všechna dodatečná omezení pacienta ve volném pohybu, který byl hospitalizován na základě souhlasu, přičemž k omezení došlo až v průběhu léčení",
+      " použití omezovacich prostředků neni poskytovatel povinen oznamovat soudu, ale je pouze povinen vést o jejich použití záznam a centrální evidenci"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " kromě úchopu všechna dodatečná omezení pacienta ve volném pohybu, který byl hospitalizován na základě souhlasu, přičemž k omezení došlo až v průběhu léčení"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "641. Pri podezření na týrání, zneužívání a zanedbávání dítěte:",
+    "answers": [
+      " je lékař neprodleně povinen oznámit tuto skutečnost orgánu sociálně právní ochrany dítěte",
+      " je lékař neprodleně povinen to nahlásit příslušné zdravotní pojišťovně dítěte",
+      " je lékař neprodleně povinen oznámit tuto skutečnost Policii ČR"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " je lékař neprodleně povinen oznámit tuto skutečnost Policii ČR"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "642. Kdy může informovany souhlas k plánované operaci podepsat manžel pacientky?",
+    "answers": [
+      " jedná se o neodkladný výkon nutný k záchraně života pacientky",
+      " pacientka má úraz ruky, pro který není schopna se podepsat",
+      " jedná se o odkladný výkon a pacientka nemůže s ohledem na svůj zdravotní stav vyslovit souhlas"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " jedná se o odkladný výkon a pacientka nemůže s ohledem na svůj zdravotní stav vyslovit souhlas"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "643. Poskytovatel zdravotních služeb je povinen umožnit pacientovi nahlédnout do jeho zdravotnické dokumentace a pořizovat si její výpisy nebo kopie ve lhůtě",
+    "answers": [
+      " do 30 dnů od obdržení žádosti",
+      " do 15 dnů od obdržení žádosti",
+      " bez zbytečného odkladu"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" bez zbytečného odkladu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "644. Do zdravotnické dokumentace vedené o pacientovi v ústavním zařízení mohou bez jeho souhlasu nahlizet lékaři poskytovatele zdravotních služeb:",
+    "answers": [
+      " bez omezení",
+      " pouze je-li to v přímé souvislosti s poskytováním zdravotních služeb pacientovi",
+      " pouze určení vnitřním předpisem poskytovatele"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " pouze je-li to v přímé souvislosti s poskytováním zdravotních služeb pacientovi"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "645. Souhlas s hospitalizací musí být dán pacientem v písemné formé:",
+    "answers": [
+      " vždy",
+      " pokud je pacient hospitalizován za účelem provedení chirurgického zákroku",
+      " pokud tak s ohledem na charakter poskytovaných zdravotních služeb určí poskytovatel"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" vždy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "646. V případě rozvodu rodičů, kdy je dítě svěřeno do péče jednoho z rodičů, druhý rodič:",
+    "answers": [
+      " má toto právo pouze se svolením rodiče, do jehož péče bylo dítě rozhodnutím soudu svěřeno",
+      " má toto právo pouze, je-li dítě rozhodnutím soudu ve střídavé péči obou rodičů",
+      " má právo byt informován o zdravotnim stavu dítěte"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" má právo byt informován o zdravotnim stavu dítěte"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "647. Je ošetřující lékař oprávněn podat informace o zdravotním stavu pacienta jeho sourozencům, pokud je samotny pacient v bezvědomí?",
+    "answers": [
+      " ano, ale pouze informace о aktuálním zdravotním stavu",
+      " ne, v případě bezvědomého pacienta nelze informace podávat",
+      " ano, v plném rozsahu včetně nahlížení do zdravotnické dokumentace"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " ano, ale pouze informace о aktuálním zdravotním stavu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "648. PŘI POSUZOVÁNÍ INVALIDITY PLATÍ:",
+    "answers": [
+      "Jestliže pracovní schopnost pojištěnce poklesla nejméně o 35% avšak nejvíce o 49%, jedná se o invaliditu prvního stupně",
+      "Jestliže pracovní schopnost pojištěnce poklesla nejméně o 50% avšak nejvíce o 69%, jedná se o invaliditu druhého stupně",
+      "Jestliže pracovní schopnost pojištěnce poklesla nejméně o 70%, jedná se o invaliditu třetího stupně",
+      " Všechny 3 odpovědi jsou správné "
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Všechny 3 odpovědi jsou správné "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "649. KOLIK ZDRAVOTNÍCH POJIŠŤOVEN PŮSOBÍ V SOUČASNÉ DOBĚ, TJ. V ZÁŘÍ 2022, V ČR:",
+    "answers": ["7", "5", "2", "11"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["7"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "650. ZÁKON O SPECIFICKÝCH ZDRAVOTNÍCH SLUŽBÁCH JE ZÁKON Č..../2011 SB. VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ - DOPLŇTE SPRÁVNÉ ČÍSLO ZÁKONA:",
+    "answers": ["373", "232", "336", "86"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["373"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "651. ZÁKON Č. 372/2011 SB. VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ DEFINUJE LEGE ARTIS TAKTO:",
+    "answers": [
+      "Náležitou odbornou úrovní se rozumí poskytování zdravotních služeb podle pravidel vědy a uznávaných medicínských postupů, při respektování individuality pacienta, s ohledem na konkrétní podmínky a objektivní",
+      "Náležitou odbornou úrovní se rozumí poskytování zdravotních služeb podle pravidel vědy a uznávaných medicínských postupů",
+      "Náležitou odbornou úrovní se rozumí poskytování zdravotních služeb podle nejnovějších vědeckých výzkumů",
+      "Nedefinuje nijak"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      "Náležitou odbornou úrovní se rozumí poskytování zdravotních služeb podle pravidel vědy a uznávaných medicínských postupů, při respektování individuality pacienta, s ohledem na konkrétní podmínky a objektivní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "652. K NEJČASTĚJŠÍM TRESTNÝM ČINŮM PŘI VÝKONU LÉKAŘSKÉHO POVOLÁNÍ PATŘÍ:",
+    "answers": [
+      "Všechny 3 odpovědi jsou správné ",
+      " Ubliženi na zdraví a usmrcení z nedbalosti",
+      " Neoprávněné nakládání s osobními údaji",
+      " Vystavování nepravdivých lékařských zpráv, posudků a nálezů"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": ["Všechny 3 odpovědi jsou správné "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "653. KOLIK PROCENT POPULACE ČR JE V SOUČASNÉ DOBĚ, TJ. V ZÁŘÍ 2022, POJIŠTĚNO U NEJVĚTŠÍ ZDRAVOTNÍ POJIŠŤOVNY V",
+    "answers": ["20 %", "25 %", "35 %", " Více než 50 % "],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Více než 50 % "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "654. JAKÝM ZPŮSOBEM JE MOŽNO VÉST V ČR ZDRAVOTNICKOU DOKUMENTACI?",
+    "answers": [
+      " pouze v listinné podobě",
+      " pouze v elektronické podobě",
+      " v listinné i v elektronické podobě ",
+      " zdravotnickou dokumentaci není nutné vést ani v listinné ani v elektronické podobě"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" v listinné i v elektronické podobě "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "655. KDY LZE POSKYTOVAT ZDRAVOTNÍ PÉČI BEZ SOUHLASU PACIENTA:",
+    "answers": [
+      " Všechny 3 odpovědi jsou správné ",
+      " Povinné léčení přenosných chorob nebo soudem nařízené ochranné léčení",
+      " Jestliže osoba jevící známky duševní choroby nebo intoxikace bezprostředně ohrožuje sebe nebo své okolí a nelze řešit jinak",
+      " Není-li možné vzhledem ke zdravotnímu stavu pacienta vyžádat si jeho souhlas a jde o neodkladné výkony nutné k záchraně života nebo zdravi"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" Všechny 3 odpovědi jsou správné "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "656. ZÁKON O ZDRAVOTNÍCH SLUŽBÁCH A PODMÍNKÁCH JEJICH POSKYTOVÁNÍ JE ZÁKON Č..../2011 SB. VE ZNĚNÍ POZDĚJŠÍCH PŘEDPISŮ - DOPLŇTE SPRÁVNÉ ČÍSLO ZÁKONA:",
+    "answers": [" 154", " 145", " 372 ", " 332"],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [" 372 "],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "657. PŘEDPOKLÁDANÉ CELKOVÉ NÁKLADY NA ZDRAVOTNÍ PÉČI V ČR V ROCE 2022 JSOU:",
+    "answers": [
+      " 426 091 000 000, tj. o cca 21 268 000 000 více než v roce 2021 ",
+      " 350 000 000 000",
+      " 400 000 000 000",
+      " 250 000 000 000"
+    ],
+    "book": ["Legislativa_Báze_2023"],
+    "topic": ["Legislativa"],
+    "correctAnswers": [
+      " 426 091 000 000, tj. o cca 21 268 000 000 více než v roce 2021 "
+    ],
+    "description": [
+      "Informovaný souhlas  1.98/2012 Vyhláška o zdravotnické dokumentaci    2.89/2012 Nový občanský zákoník   3.372/2012 Zákon o zdravotních službách a podmínkách jejich poskytování  4.Úmluva o lidských právech a o biomedicině     Primárně se jedna o informovaném souhlasu - Úmluva o lidských právech a o biomedicině       Legislativa   372/2011 Zákon o zdravotních službách a podmínkách jejich poskytování   373/2011 Zákon o specifických zdravotních službách   258/2000 Zákon o ochraně veřejného zdraví   98/2012 Vyhláška o zdravotnické dokumentaci   89/2012 Občanský zákoník   262/2006 Zákoník práce  285/2002 Transplantační zákon  40/2009 Trestní zákoník  48/1997 Zákon o veřejném zdravotním pojištění  95/2004 zdravotnické povolání pro lékaře, farmaceuty, zubaří  96/2004 zdravotnické povolání pro zdravotní sestry  220/1991, paragraf 15 Sjezd delegátu je nejvyšším orgánem komory   č.167/1998 o návykových látkách  č.272/2013 o prekursorech drog  č. 463/2013 – o seznamu návykových (omamných a psychotropních) látek.     329 від 2011- це про поскитов.давек про постіжені  155 від 1995 а про інвал духод  "
+    ],
     "img": [""]
   }
 ]
