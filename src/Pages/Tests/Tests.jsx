@@ -79,7 +79,7 @@ const Tests = () => {
           payload: { myCorrectAnswers },
         });
       }
-      console.log(correctCount);
+      // console.log(correctCount);
       // alert(`Правильных ответов - ${correctCount} из ${questions.length}`);
     }
 

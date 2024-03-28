@@ -79,7 +79,7 @@ const Home = () => {
     <>
       <FormContainer onSubmit={handleSubmit}>
         <WraperForm>
-          <label htmlFor="select1">Выбери базу</label>
+          <label htmlFor="select1">Vyberte testy</label>
 
           <select
             id="select1"

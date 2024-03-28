@@ -10,7 +10,7 @@ import { Footer } from 'components/Footer/Footer';
 export const Layout = () => {
   return (
     <Container>
-      <Header>Бесплатные тесты</Header>
+      <Header />
       <MainContainer>
         <Suspense fallback={<div>Loading</div>}>
           <Outlet />

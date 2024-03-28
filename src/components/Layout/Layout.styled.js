@@ -11,7 +11,7 @@ export const Container = styled.div`
 `;
 
 export const MainContainer = styled.main`
-  min-height: 77vh;
+  min-height: 87vh;
   margin: 0 auto;
   padding: 40px 40px 0 40px;
   max-width: 1400px;
