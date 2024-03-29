@@ -7,7 +7,6 @@ import {
   LinkElement,
 } from './Header.styled';
 import image from '../../Files/img/favicon-32x32.png';
-import { Link } from 'react-router-dom';
 
 export const Header = () => {
   return (
