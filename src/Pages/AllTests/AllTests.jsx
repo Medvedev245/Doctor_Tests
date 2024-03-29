@@ -32,7 +32,7 @@ const AllTests = () => {
         <select id="formBase" onChange={handleOption1Change}>
           {/* <option value="Klener">Klener</option> */}
           <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
-          <option value="Klener">Klener</option>
+          {/* <option value="Klener">Klener</option> */}
         </select>
       </form>
       <div>

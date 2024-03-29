@@ -129,7 +129,7 @@
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
     "correctAnswers": [
-      "zabývá se výpočtem, strukturou, vývojem a správností populačního vývoje"
+      "vylučuje rozdíl mezi různými věkovými skupinami srovnávanými v souhrnu a podobně. Metoda standardizace, používá se pro odstranění zkreslujícího vlivu věkové struktury"
     ],
     "description": [
       "*uvažuje pouze celkové počty zemřelých bez ohledu na zastoupení jednotlivých věkových skupin v populaci."
