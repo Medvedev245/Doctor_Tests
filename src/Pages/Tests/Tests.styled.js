@@ -50,7 +50,7 @@ export const LinkToPage = styled(Link)`
 `;
 
 export const AnswerBlock = styled.div`
-  gap: 20px;
+  /* gap: 20px; */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -69,6 +69,7 @@ export const AnswerBlock = styled.div`
     display: flex;
     flex-direction: column;
     width: 270px;
+    margin-bottom: 200px;
   }
 `;
 

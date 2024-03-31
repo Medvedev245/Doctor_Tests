@@ -95,9 +95,7 @@ const Home = () => {
             <option value="All">All</option>
             <option value="Klener">Klener</option>
             <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
-            <option value="Medicine_2023">
-              Medicine_2023 (только 250 тестов)
-            </option>
+            <option value="Medicine_2023">Medicine_2023 (250-tests)</option>
           </Select>
         </WraperForm>
         <WraperForm>

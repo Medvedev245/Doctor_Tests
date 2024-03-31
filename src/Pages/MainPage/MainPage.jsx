@@ -13,14 +13,14 @@ const MainPage = () => {
       <SectionPic>
         <MainText>What we do?</MainText>
         <ContainerDesc>
-          <ContainerText to="/">
+          {/* <ContainerText to="/">
             <MainDescr>Lékařské Zkoušky Online</MainDescr>
             <p>
               Your Essential Medical Exam Aid. Whether it's exam prep or
               expanding medical knowledge, find all you need for success at your
               fingertips.
             </p>
-          </ContainerText>
+          </ContainerText> */}
           <ContainerText to="page">
             <MainDescr>Take a tests</MainDescr>
             <p>
@@ -44,22 +44,22 @@ const MainPage = () => {
             </p>
           </ContainerText>
 
-          <ContainerText>
+          {/* <ContainerText>
             <MainDescr>Materials</MainDescr>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed qui
               ipsam iusto, fugit quae eveniet iste illo quam recusandae
               voluptate at sint
             </p>
-          </ContainerText>
-          <ContainerText>
+          </ContainerText> */}
+          {/* <ContainerText>
             <MainDescr>Lorem ipsum</MainDescr>
             <p>
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed qui
               ipsam iusto, fugit quae eveniet iste illo quam recusandae
               voluptate at sint
             </p>
-          </ContainerText>
+          </ContainerText> */}
         </ContainerDesc>
       </SectionPic>
       <SectionDescr>description</SectionDescr>
