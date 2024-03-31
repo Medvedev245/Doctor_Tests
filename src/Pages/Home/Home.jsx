@@ -14,6 +14,7 @@ import {
 } from './Home.styled';
 import { Button } from 'Pages/Tests/Tests.styled';
 import Bases from 'components/Bases/Bases';
+import { Select } from 'Pages/AllTests/AllTests.styled';
 
 const Home = () => {
   const [selectedOption1, setSelectedOption1] = useState('');
@@ -81,7 +82,7 @@ const Home = () => {
         <WraperForm>
           <label htmlFor="select1">Vyberte testy</label>
 
-          <select
+          <Select
             id="select1"
             value={selectedOption1}
             onChange={handleOption1Change}
@@ -89,11 +90,11 @@ const Home = () => {
             <option value="All">All</option>
             <option value="Klener">Klener</option>
             <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
-          </select>
+          </Select>
         </WraperForm>
         <WraperForm>
           <label htmlFor="select2">Выбери количество тестов</label>
-          <select
+          <Select
             id="select2"
             value={selectedOption2}
             onChange={handleOption2Change}
@@ -106,7 +107,7 @@ const Home = () => {
             <option value="100">100</option>
             <option value="120">120</option>
             <option value="200">200</option>
-          </select>
+          </Select>
         </WraperForm>
 
         {elements3.length > 0 ? (
