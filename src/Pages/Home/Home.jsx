@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
+import Medicine_2023 from '../../Files/Medicine_2023.json';
 import Klener from '../../Files/ClenerNew.json';
 import Legislativa from '../../Files/Legislativa_Báze_2023.json';
 
@@ -39,8 +40,12 @@ const Home = () => {
 
       case 'Legislativa_Báze_2023':
         selectedFile = Legislativa;
-
         break;
+
+      case 'Medicine_2023':
+        selectedFile = Medicine_2023;
+        break;
+
       default:
         selectedFile = Klener;
     }
@@ -90,6 +95,9 @@ const Home = () => {
             <option value="All">All</option>
             <option value="Klener">Klener</option>
             <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
+            <option value="Medicine_2023">
+              Medicine_2023 (только 70 тестов)
+            </option>
           </Select>
         </WraperForm>
         <WraperForm>

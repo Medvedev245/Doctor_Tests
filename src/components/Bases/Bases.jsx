@@ -5,8 +5,9 @@ const Bases = () => {
     <ConrainerBases>
       <p>На сайте есть базы:</p>
       <ContainerDescr>
-        <span>Klener (5135 tests)</span>
-        <span>Legislativa_Báze_2023 (657 tests)</span>
+        <span>- Klener (5135 tests)</span>
+        <span>- Legislativa_Báze_2023 (657 tests)</span>
+        <span>- Báze_Medicine_2023 (1-70 tests)</span>
       </ContainerDescr>
     </ConrainerBases>
   );

@@ -1,0 +1,1201 @@
+[
+  {
+    "question": "1.Co NEpatří do klasifikace podle Tscherneho? (classification of fractures)😊 Травматология",
+    "answers": [
+      "+ Poranění měkkého kolena ✅",
+      "- Otevřené zlomeniny",
+      "+ zlomeniny obratlů ✅",
+      "+ Nějaká luxace klavikuly ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ Poranění měkkého kolena ✅",
+      "+ zlomeniny obratlů ✅",
+      "+ Nějaká luxace klavikuly ✅"
+    ],
+    "description": [
+      "Klasifikace podle Tscherneho je systém pro klasifikaci zlomenin založený na závažnosti měkkých tkání postižených zraněním, spíše než na samotné zlomenině. Podle tohoto systému jsou zlomeniny rozděleny do tří stupňů závažnosti:  -Stupeň 1: zlomenina s minimálním poškozením měkkých tkání, obvykle bez zjevného otoku nebo krvácení.  -Stupeň 2: zlomenina s mírným poškozením měkkých tkání, obvykle s otokem a hematomem.  -Stupeň 3: zlomenina s těžkým poškozením měkkých tkání, včetně velkého otoku, hematomu a narušení cévního a nervového zásobení.Tato klasifikace se často používá při hodnocení zlomenin dolních končetin. Pomáhá lékařům určit závažnost zranění a rozhodnout o nejvhodnějším způsobu léčby."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Co patří do klasifikace podle Tscherneho? 😊 Травматология",
+    "answers": [
+      "- Poranění měkkého kolena",
+      "+ Otevřené zlomeniny ✅",
+      "- zlomeniny obratlů",
+      "- Nějaká luxace klavikuly"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ Otevřené zlomeniny ✅"],
+    "description": [
+      "V současnosti se akceptuje klasifikace podle Tscherneho na prvním místě určuje prognózu poranění s ohledem na poranění měkkých tkání; - písmenkem G jsou označeny zavřené zlomeniny (geschlossene) a O otevřené (offene).    "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Pro přesné a detailní vyšetření žlučovodů je nejpřínosnější (Klener) Хирургия",
+    "answers": [
+      "+ rentgen vyšetření po lokálním podání kontrastní látky (ERCP, PTC) ✅",
+      "- nativní snímek",
+      "- rentgen vyšetření po perorálním (cholecystografie) nebo intravenózním (cholangiografie) podání kontrastní látky",
+      "- ultrasonografické vyšetření"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ rentgen vyšetření po lokálním podání kontrastní látky (ERCP, PTC) ✅"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "4. Myxom srdce: 😊 Онкология",
+    "answers": [
+      "+ recidivuje po chirurgické léčbě ✅",
+      "+ nachází se v oblasti oválného okna ✅ *Fossa ovalis (heart)",
+      "- není nutne dělat ECHO / ECHO neefektivní metoda pro diagnostiku",
+      "+ je s klinikou podobnou infekční endokarditidě ✅",
+      "+ základní diagnostická metoda echokardiografie (ECHO)  ✅",
+      "- často recedivuje"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ recidivuje po chirurgické léčbě ✅",
+      "+ nachází se v oblasti oválného okna ✅ *Fossa ovalis (heart)",
+      "+ je s klinikou podobnou infekční endokarditidě ✅",
+      "+ základní diagnostická metoda echokardiografie (ECHO)  ✅"
+    ],
+    "description": [
+      "Recidiv může být jen 5% Diagnostika srdečních tumorů je založena na echokardiografickém vyšetření, v případě nejasností je možno použít další zobrazovací vyšetření. Časná diagnostika srdečního myxomu je pro pacienta zásadní, protože neléčený tumor ohrožuje pacienta recidivou embolizace do centrální nervové soustavy a dalšími závažnými zdravotními komplikacemi. Terapeutickým řešením srdečních myxomů je kardiochirurgická exstirpace. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Základní metodou léčby je u málodiferencovaného / gestačního choriokarcinomu je (Živný) онкология",
+    "answers": [
+      "- operační léčba",
+      "+ chemoterapie (metotrexat, aktinomycinem D) ✅",
+      "- radioterapie",
+      "- hormonoterapie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ chemoterapie (metotrexat, aktinomycinem D) ✅"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "6. Muž spadl, správa ve 4 mezikontálním prostoru bolest, správa neslyšící dech. Jaké první vyšetření musíme udělat? 😊 Хирургия",
+    "answers": ["- punkce", "- drenáž", "+ RTG (rentgen) ✅", "- torakotomie"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ RTG (rentgen) ✅"],
+    "description": [
+      "Obvykle nebývá problémem při správném odběru anamnézy a pečlivém klinickém vyšetření. Diagnózu potvrdí prostý RTG snímek hrudníku, event. s bočnou projekcí (ventrální PNO u ležících pacientů), který by měl být proveden prakticky rutinně. V komplikovaných případech rozhodne vyšetření plic počítačovou tomografií s citlivostí 88 — 100 %. Standardem je vyšetření krevních plynů (známky hypoxémie a hyperkapnie). Nutno připomenout, že tenzní forma PNO musí být rozpoznána již na základě symptomatologie a fyzikálního vyšetření, neboť jakékoli prodlení v diagnostice včetně pouhého skiagramu plic (kolaps plíce, posun mediastina na zdravou stranu, deprese bránice) může mít pro nemocného fatální následky."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Odkud se vyskytuje hyperkalcémie? 😊 Терапия",
+    "answers": ["- Osteomalacie", "+ Myelom ✅", "- karence vitamínu D"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ Myelom ✅"],
+    "description": [
+      "*(forma chronické myeloidní leukémie, vyskytuje se při poškození kosti, odtud hyperkalcemie) Hyperkalcémie je stav, kdy hladina vápníku v krvi je nad normálním rozmezím. Může se vyskytovat u různých onemocnění, včetně:  --Primární hyperparathyreóza: To je stav, kdy jsou příliš aktivní vedlejší tělíska (parathyroidní žlázy) a produkuje se příliš mnoho hormonu parathormonu, který způsobuje, že se hladina vápníku v krvi zvyšuje.  --Maligní nádory: některé typy rakoviny mohou produkovat látky, které způsobují uvolňování vápníku z kostí a následnou hyperkalcémii.  --Sarkoidóza: to je onemocnění, při kterém dochází k tvorbě zánětlivých uzlů (granulomů) v různých částech těla, což může vést k uvolňování vápníku z kostí a hyperkalcémii.   --Příjem nadměrného množství vitamínu D: to může vést k nadměrné absorpci vápníku z trávicího traktu a následné hyperkalcémii.  --Chronické onemocnění ledvin: může vést k narušení metabolismu vápníku a fosfátů, což může vést k hyperkalcémii.  --Diuretika: některé druhy diuretik (léků na odvodnění) mohou způsobit hyperkalcémii.  --Myelom. Hyperkalcémie je poměrně běžnou komplikací u pacientů s mnohočetným myelomem. To je způsobeno tím, že myelomové buňky mohou produkovat specifické hormony (zejména IL-6), které způsobují uvolňování vápníku z kostí do krevního oběhu. Kromě toho může být hyperkalcémie také způsobena přímým poškozením kostní tkáně myelomem.  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Mezi příčiny hyperkalcémie NEpatří: (Klener) Терапия",
+    "answers": [
+      "- osteolytické metastázy",
+      "+ chronické selhání ledvin ✅",
+      "- adenom paratyreoidey",
+      "- maligní myelom"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ chronické selhání ledvin ✅"],
+    "description": [
+      "Snížená koncentrační funkce ledvin se projeví zejména otoky nebo polyurií. Následkem onemocnění ledvin bývá také narušení elektrolytové rovnováhy. Můžeme se setkat zejména s hyperkalémií, hyperfosfatémií a hypokalcémií, které se klinicky mohou projevit ve formě arytmií, hyperparathyreózy, křečemi nebo poruchou kostního metabolismu (renální osteopatie). Hromadění kyseliny močové (hyperurikémie) může vyústit v urolitiázu nebo dnavou artritidu."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Hyperkalcémie víc než 2,5 přítomna při: 😊 Терапия",
+    "answers": [
+      "+ hyperparatyreoza ✅",
+      "+ maligní tumory, osteolytické metastázy (v kostech) ✅",
+      "+ Addisonova choroba, feochromocytom ✅",
+      "+ granulomatózní onemocnění ✅ *(sarkoidóza, tuberkulóza, syfilis)",
+      "+ Pagetova nemoc ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ hyperparatyreoza ✅",
+      "+ maligní tumory, osteolytické metastázy (v kostech) ✅",
+      "+ Addisonova choroba, feochromocytom ✅",
+      "+ granulomatózní onemocnění ✅ *(sarkoidóza, tuberkulóza, syfilis)",
+      "+ Pagetova nemoc ✅"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "10. Koncentrace vápníku (Calcium) v séru (serum) bývá zvýšena při: 😊 Терапия",
+    "answers": [
+      "+ primární hyperparatyreózy ✅",
+      "- osteomalacie",
+      "+ mnohočetného myelomu ✅",
+      "+ sarkoidóze ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ primární hyperparatyreózy ✅",
+      "+ mnohočetného myelomu ✅",
+      "+ sarkoidóze ✅"
+    ],
+    "description": [
+      "Etiologie --Primární a terciární hyperparatyreóza, --maligní tumory: maligní lymfomy, leukemie, osteolytické metastázy, paraneoplastický projev, --jiné endokrinopatie: hypertyreóza, Addisonova choroba, feochromocytom, akromegalie, --granulomatózní nemoci: sarkoidóza, tuberkulóza, histoplasmóza, kandidóza, Wegenerova granulomatóza, podkožní tukové nekrózy, --farmaka: thiazidy, milk-alkali syndrome, cheese-alkali syndrome, intoxikace vitaminem D, A, intoxikace kyselinou acetylsalicylovou, --familiární hypokalciurická hyperkalcemie, --Williams-Beuren syndrom, --Pagetova choroba, --imobilizace, --hypofosfatemie,"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Prevence vzniku tromboembolické nemoci u pacienta po operace *TEN/tromboembolismus 😊 Хирургия",
+    "answers": [
+      "+ heparin nebo mikroheparin ✅",
+      "+ ranní pooperační aktivace / + časná mobilizace (vstávání co nejdříve po operačním zákroku) ✅",
+      "+ obvaz na končetiny / + bandáž dolních končetin ✅",
+      "+ rychle ukončtni operace✅",
+      "-ležící pozice"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ heparin nebo mikroheparin ✅",
+      "+ ranní pooperační aktivace / + časná mobilizace (vstávání co nejdříve po operačním zákroku) ✅",
+      "+ obvaz na končetiny / + bandáž dolních končetin ✅",
+      "+ rychle ukončtni operace✅",
+      "+ malé dávky heparinu (5000–10 000 j. s.c.) ✅",
+      "+ dekompresní punkce ✅ 2 міжреберʼя",
+      "+ urgentní torakotomia ✅ не беремо"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "12. Prevence plicní embolizace je především prevencí vzniku trombózy hlubokých žíl dolních končetin. Jako preventivní opatření jsou účinné (Klener)  Хирургия",
+    "answers": [
+      "- bandážování dolních končetin a aktivní cvičení",
+      "+ malé dávky heparinu (5000–10 000 j. s.c.) ✅",
+      "- infúze s manitolem",
+      "- malé dávky hydrokortizonu (20 mg/den)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ malé dávky heparinu (5000–10 000 j. s.c.) ✅"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "13. Muž spadnul z výšky 5m, má potíží s dýcháním, diagnostováno odchýlení trachey vpravo, dýchání oslabené nad L půlkou hrudníku, hypotonický stav, extravazát. Co je nutné okamžitě udělat?  Хирургия",
+    "answers": [
+      "+ dekompresní punkce ✅ 2 міжреберʼя",
+      "+ urgentní torakotomia ✅ не беремо",
+      "- rentgen",
+      "- drenaž vlevo",
+      "- nic neděláme",
+      "- pozorujeme"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ dekompresní punkce ✅ 2 міжреберʼя",
+      "+ urgentní torakotomia ✅ не беремо"
+    ],
+    "description": [
+      "Na obecné diskusi jsme došli k závěru, že mluvíme o perforaci do pleurální dutiny, proto torakotomii (Léčbou tenzního pneumotoraxu je punkce hrudníku, ale jiné léčebné opatření – hrudní drenáž) "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Nefrektomie při tumoru Хирургия",
+    "answers": ["+ transperitoneální přístup ✅"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ transperitoneální přístup ✅"],
+    "description": [
+      "LÉČENÍ 1. Chirurgická léčba je základem. Karcinom ledviny je převážně chemorezistentní a radiorezistentní.  radikální nefrektomie z transperitoneálního přístupu (standardní výkon). Součástí operace je:  adrenalektomie (u tumoru horního pólu)  stagingová regionální lymfadenektomie (k určení stádia a prognózy)  extrakce nádorového trombu z renální žíly nebo dolní duté žíly (event. srdeční předsíně)  záchovná operace – resekce ledviny nebo enkapsulace nádoru (odstranění i s pouzdrem) o elektivní výkon — při velikosti tumoru do 3 cm o imperativní — jde — li o nádor oboustranný, solitární ledvinu (anatomickou nebo funkční) nebo o tvarové anomálie  adjuvantní nefrektomie (pomocná) před chemoterapií u generalizovaného onemocnění (zmenšení nádorové masy)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Jaké jsou tvrzení správné pro nejrychlejší růst děvčat: 😊 Прочее",
+    "answers": [
+      "+ v period menarche ✅",
+      "- v period kdy mají М1 a Р1 (růst vlasů na těle a prsů)",
+      "+ 9-11 сm/rok ✅",
+      "- 2 roky po menarche"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ v period menarche ✅", "+ 9-11 сm/rok ✅"],
+    "description": ["* (Může byt ještě 13 let jako správná odpověď)"],
+    "img": [""]
+  },
+  {
+    "question": "16. Čeho v moči je nejvíc? 😊 Прочее",
+    "answers": [
+      "+ močovina / urea ✅",
+      "- kreatinin",
+      "- chlorid sodný (sodium chloride)",
+      "- kyselina močová"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ močovina / urea ✅"],
+    "description": ["* (Může byt ještě 13 let jako správná odpověď)"],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Za jakým účelem se provádí preventivní předoperační antibakteriální terapie? 😊 Хирургия",
+    "answers": [
+      "- prevence pooperační pneumonie",
+      "+ maximální koncentrace ATB v krvi během operace ✅",
+      "+ snížení rizika vzniku pooperační ranní infekce, která může ohrozit život ✅",
+      "- pro profylaxe infekce močovým měchýře a cest",
+      "- podáváme po operaci na střevě"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ maximální koncentrace ATB v krvi během operace ✅",
+      "+ snížení rizika vzniku pooperační ranní infekce, která může ohrozit život ✅"
+    ],
+    "description": [
+      "*Koncentrace antibakteriálního přípravku v séru (krvi) musí být  maximální v momentu porušení bariéry a počátku krvácení. Antibiotikum musí mít adekvátní koncentraci v okamžiku potencionální kontaminace tkáně. Jen tak lze zabránit množení inokulovaných bakterií v místě rány.  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "18. Menopauza je charakterizována těmito změnami hormonálních hladin (Klener)Гинекология",
+    "answers": [
+      "- pokles estradiolu, vzestup FSH, ale normální koncentrace LH",
+      "- vzestup FSH i LH při nezměněné koncentraci progesteronu",
+      "+ pokles progesteronu, vzestup FSH i LH ✅",
+      "- pokles estradiolu, progesteronu, FSH i LH",
+      "- pokles progesteronu, pokles estradiolu",
+
+      "+ 7-11 cm za rok (asi 12 let) za rok před menarche ✅",
+      "+ 13 let ✅",
+      "+ před menarche ✅",
+      "- během menstruace",
+      "- po začátku menstruace",
+
+      "- produkovaný v hypotalamu",
+      "+ zrychluje zrání folikulů ✅",
+      "- reguluje menstruační cyklus *(naopak menstruační cyklus stimuluje tvorbu FSH)",
+      "+ produkovaný předním lalokem hypofýzy ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ pokles progesteronu, vzestup FSH i LH ✅",
+      "+ 7-11 cm za rok (asi 12 let) za rok před menarche ✅",
+      "+ 13 let ✅",
+      "+ před menarche ✅",
+      "+ zrychluje zrání folikulů ✅",
+      "+ produkovaný předním lalokem hypofýzy ✅"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "19. Nejvyšší rychlost růstu u dívek? 😊 Прочее",
+    "answers": [
+      "+ 7-11 cm za rok (asi 12 let) za rok před menarche ✅",
+      "+ 13 let ✅",
+      "+ před menarche ✅",
+      "- během menstruace",
+      "- po začátku menstruace"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ stimuluje tvorbu estradiolu v granulózních buňkách ✅"
+    ],
+    "description": [
+      "+ 7-11 cm za rok (asi 12 let) za rok před menarche ✅",
+      "+ 13 let ✅",
+      "+ před menarche ✅"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "20. Co platí pro FSH (folikulostimulační hormon)? / Účinek FSH? 😊 Гинекология",
+    "answers": [
+      "- produkovaný v hypotalamu",
+      "+ zrychluje zrání folikulů ✅",
+      "- reguluje menstruační cyklus *(naopak menstruační cyklus stimuluje tvorbu FSH)",
+      "+ produkovaný předním lalokem hypofýzy ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ zrychluje zrání folikulů ✅",
+      "+ produkovaný předním lalokem hypofýzy ✅"
+    ],
+    "description": [
+      "Po ovulaci a po prasknutí folikulu rozvinuté žluté tělísko vylučuje estradiol a progesteron, hormony, které kontrolují cirkulující koncentraci FSH. V menopauze, kdy se ovariální funkce a sekrece estradiolu zmenšují, dochází ke značnému zvýšení koncentrací FSH jako výsledek odstranění negativní zpětné vazby hypotalamu. U dospělých mužů FSH, LH a testosteron jsou odpovědné za stimulaci a udržování spermatogeneze."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Co platí pro FSH: 😊 Гинекология",
+    "answers": [
+      "- je nezbytně nutný pro udrženi funkce corpus luteum (žluté tělísko)",
+      "+ stimuluje tvorbu estradiolu v granulózních buňkách ✅",
+      "- zvýšen při syndromu polycystických ovarii",
+      "- je odpovědny za rupturu folikulu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ stimuluje tvorbu estradiolu v granulózních buňkách ✅"
+    ],
+    "description": [
+      "folikulární buňky - granulózní buňky Spolu s LH (luteinizačním hormonem) FSH spouští produkci folikulárního hormonu estradiolu. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Nežádoucí účinek B-blokátorů: 😊 Терапия",
+    "answers": [
+      "+ bronchokonstrikce ✅",
+      "- arteriální hypertenze",
+      "- tachykardie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ bronchokonstrikce ✅"],
+    "description": [
+      "Nežádoucí účinky B-blokátorů: Srdeční insuficience kvůli ovlivnění srdečního výdeje Bradykardie  Hypotenze Bronchokonstrikce Chladné končetiny (nedostatečné prokrvení) Deprese  Metabolické NÚ: hyperkalémie, prodloužení doby zotavení z hypoglykémie u diabetiků, zvýšení koncentrace triacylglycerolů, snížení HDL-lipoproteinů (pouze u beta-blokátorů bez VSA) "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "23. K účinkům B-blokátorů u anginy pectoris patří: (Klener) Терапия",
+    "answers": [
+      "- vzestup kontraktility myokardu (zvýšit příjem kyslíku)",
+      "- vazodilatační efekt na koronární tepny (použitelné pro blokátory kalciových kanálů)",
+      "+ snížení spotřeby kyslíku myokardem ✅",
+      "+ vzestup fibrilačního prahu myokardu ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ snížení spotřeby kyslíku myokardem ✅",
+      "+ vzestup fibrilačního prahu myokardu ✅"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "24. Kdy NEpodáváme B-blokátory? 😊 Терапия",
+    "answers": [
+      "- Srdeční selhání (snižuje spotřebu kyslíku myokardu)",
+      "- Glaukom (timolol a betaxolol inhibují tvorbu nitrooční tekutiny)",
+      "- Angina pectoris (snižuje spotřebu kyslíku myokardu)",
+      "+ Parkinsonova nemoc ✅ * také může byt Astma bronch."
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ Parkinsonova nemoc ✅ * také může byt Astma bronch."],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "25. Kdy můžeme nalézt srdeční vadu? (heart defect) 😊 Акушерство",
+    "answers": [
+      "- v period batolete",
+      "+ po porodu ✅",
+      "+ v první dny po porodu ✅",
+      "+ screening (pokud se ptají o nejranějším diagnostice) ✅",
+      "- v period kojence"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ po porodu ✅",
+      "+ v první dny po porodu ✅",
+      "+ screening (pokud se ptají o nejranějším diagnostice) ✅"
+    ],
+    "description": [
+      "Обсуждали много раз, там скорее всего звучит вопрос «быстрее»"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "26. Kdy zaprvé/nejdříve může být srdeční vada identifikována? (apelace – správně) Акушерство",
+    "answers": [
+      "+ prenatální SCREENING během těhotenství ✅",
+      "- Po porodu",
+      "- V prvních dnech od narození",
+      "- Během období batolete"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ prenatální SCREENING během těhotenství ✅"],
+    "description": [
+      "Vyšetření těhotné ženy se standardně provádí v období mezi 18. a 22. týdnem těhotenství, hrubé odchylky v srdeční struktuře lze však již rozpoznat od 14. či 15. týdne."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "27. Kritická vrozená srdeční vada ohrožuje dítě: (Olomouc)",
+    "answers": [
+      "- není chirurgicky řešitelná",
+      "+ hypoxií ✅",
+      "+ hypoxií nebo srdečním selháním ✅",
+      "+ srdečním selháním ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ hypoxií ✅",
+      "+ hypoxií nebo srdečním selháním ✅",
+      "+ srdečním selháním ✅"
+    ],
+    "description": [
+      "Kritické VSV ohrožují pacienta na životě na podkladě srdečního selhání a/nebo hypoxemie. Vyžadují urgentní řešení.  https://www.wikiskripta.eu/w/Vrozené_srdeční_vady  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "28. Nejčastější vrozené srdeční vady (apelace – správně)",
+    "answers": [
+      "+ 1 místo - defekt septa komor - 62.09 ✅ 42%",
+      "+ 2 místo - defekt septa síní - 52.16 ✅ 9 %"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ 1 místo - defekt septa komor - 62.09 ✅ 42%",
+      "+ 2 místo - defekt septa síní - 52.16 ✅ 9 %"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "29. Vaginální kuličky jsou: * globuli vaginales",
+    "answers": [
+      "+ jsou součástí suppositoriu ✅",
+      "+ používají se jenom poševně *(vaginálně) ✅",
+      "+ mohou být hydrofilní nebo lipofilní ✅",
+      "- mají jenom formu kuliček",
+      "- mohou být jenom hydrofilní",
+      "- jenom v formě suppositoriu á"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ jsou součástí suppositoriu ✅",
+      "+ používají se jenom poševně *(vaginálně) ✅",
+      "+ mohou být hydrofilní nebo lipofilní ✅"
+    ],
+    "description": [
+      "Klinická propedeutika pro střední zdravotnické školy cтр 381  *Vaginální kuličky nebo Globuli, Suppositoria vaginalia, poševní kuličky. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "30. Kdy se projevuje pozdní forma hemoragického onemocnění? * Krvácivá nemoc novorozence (morbus hemorrhagicus neonatorum) (apelace – správně)",
+    "answers": [
+      "- 1-2 dny",
+      "- 2-3 měsíce",
+      "- 2 týdny – 8 týdnů",
+      "+ od 1 do 6 měsíců ✅",
+      "- časná (0–24 hod.)",
+      "klasická (2.–7. den)",
+      "pozdní (1.–6. měsíc)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ od 1 do 6 měsíců ✅"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "31. Začátek porodu:",
+    "answers": [
+      "- odtok vod",
+      "- odtok vod a pravidelná kontrakce",
+      "- pravidelné kontrakce a strukturální změny na děložním čípku",
+      "- odtok vod a strukturální změny na děložním čípku",
+      "+ pravidelné kontrakce bez ohledu na plodovou vodu ✅",
+      "- kontrakce, které ovlivňují dolní děložní segment (DDS) při gynekologickém nálezu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ pravidelné kontrakce bez ohledu na plodovou vodu ✅"],
+    "description": [
+      "Porod je zahájen začátkem děložní činnosti, která vede k evidentnímu rozvíjení dolního děložního segmen tu, děložního hrdla a branky.                                                   První fáze porodu začíná kontrakcemi dělohy doprovázenými bolestmi břicha nebo zad, které trvají přibližně půl minuty a objevují se každých 10 až 30 minut. Čech porodnictvi стр 125 "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "32. Po předčasném odtoku plodové vody u těhotenství 37. týdne provokujeme obvykle porod: (amniotic fluid outflow)",
+    "answers": [
+      "- za 10 hodin",
+      "+ za 24 hodin ✅",
+      "- za 48 hodin",
+      "- čekáme na spontánní začátek porodu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ za 24 hodin ✅"],
+    "description": [
+      "Předčasný odtok plodové vody u délky těhotenství 37. týdnů a více Nejsou-li identifikovány známky infekce či tísně miminka je porod vyvoláván za 24 hodin od odtoku plodové vody. Antibiotická léčba je zahájena 12 hodin od odtoku plodové vody. https://www.lubusky.com/ddp_7_predcasny-odtok-plodove-vody.html "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "33. Začátek porodu na 34 týdnu. Co budeme dělat?",
+    "answers": [
+      "+ vzít ženu do specializovaného porodního centra",
+      "+ podat glukokortikoidy pro dospívání plic",
+      "- podat oxytocin",
+      "+ podat tokolitycka (Tocolitics) pro potlačení napětí svalů dělohy",
+      "- antibiotika"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ vzít ženu do specializovaného porodního centra",
+      "+ podat glukokortikoidy pro dospívání plic",
+      "+ podat tokolitycka (Tocolitics) pro potlačení napětí svalů dělohy"
+    ],
+    "description": [
+      "*Do 34 týdne bereme i kortikoidy; 35-36 týdne nebereme.  *Antibiotika pri infekce nebo profilaktické pri odtoky plodne vody.  Tocolitics do 33+6 týd.  Moderní porodnictví 249  Aplikace antibiotik u žen s předčasnou děložní činností (se zachovalou plodové vody) je kontroverzní. V řadě studií nebyl jasně prokázán její efekt a v současné době není jednoznačně doporučována. Nejefektivnějším postupem u ženy s hrozícím předčasným porodem je její včasný transport do perinatologického centra"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "34. Preterminové * (předčasné) odchození plodových vod? (amniotic fluid outflow) такой вопрос тут был по базе",
+    "answers": [
+      "- do 14 týdne",
+      "- do 28. týdne",
+      "- konce týdne 38-42",
+      "+ před ukončením 37. týdne ✅",
+      "- konec 32. týdne"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ před ukončením 37. týdne ✅"],
+    "description": [
+      "Předčasný odtok plodové vody před termínem porodu (Preterm Prelabor Rupture of Membranes, dále také PPROM) je porušení plodových obalů s odtokem plodové vody před nástupem pravidelné děložní činnosti před týdnem těhotenství 37+0. Prelabor rupture of the membranes is the leaking of amniotic fluid from around the fetus at any time before labor starts. Prelabor rupture of the membranes may occur near the due date (at 37 weeks or later, when pregnancy is considered full term) or earlier (called preterm prelabor rupture if it occurs earlier than 37 weeks). If rupture is preterm, delivery is also likely to be too early Moderní porodnictví   стр 245 "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "35. Předčasný porod:",
+    "answers": ["- do 38. týdne", "+ do 37. týdne ✅"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ do 37. týdne ✅"],
+    "description": [
+      "Předčasný porod je definován jako porod do týdne těhotenství 37+0 Moderní porodnictví   стр 245 "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "36. Vedení předčasného porodu před 37 týdnem:",
+    "answers": [
+      "+ vaginální porod – pouze při poloze záhlavím, musí být zralé děložní hrdlo (cervix skóre > 7) ✅",
+      "+ SC porod – při poloze koncem pánevním, vícečetném těhotenství, při chorioamnionitidě, hypoxii plodu a/nebo nezralém děložním hrdle ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ vaginální porod – pouze při poloze záhlavím, musí být zralé děložní hrdlo (cervix skóre > 7) ✅",
+      "+ SC porod – při poloze koncem pánevním, vícečetném těhotenství, při chorioamnionitidě, hypoxii plodu a/nebo nezralém děložním hrdle ✅"
+    ],
+    "description": [
+      "* SC — Caesarean section Vedení porodu jednočetných těhotenství se v případě polohy podélné hlavičkou neliší od vedení porodu v termínu.  K vaginálnímu porodu můžeme přistoupit při poloze podélné hlavičkou, kdy nejsou patrné známky infekce. Plod nesmí vykazovat známky hypoxie a v neposlední řadě nezapomínáme brát ohled na porodní cesty. Je-li cervix skóre vyšší než 7, lékař může přistoupit k porodu vaginální cestou. U polohy koncem pánevním, kdy odhad hmotnosti plodu je méně než 2500 gramů, volíme porod per sectio ceasaream (SC); (Čech, 2006, s. 159; Zwinger, 2004, s. 283-285). - obecně platné porodnické indikace SC   - hypoxie plodu - známky infekce - poloha koncem pánevním - vícečetní těhotenství do 32. týdne - nezralé děložní hrdlo po preindukci Vaginálně může být jistě veden porod, pokud je plod v poloze podélné záhlavím a nejsou jiné kontraindikace Nedonošený plod je náchylnější k hypoxii a jeho poškození bývá závažnější. Akutní ukončení porodu císařským řezem je nutno velkoryse indikovat již při počínajících známkách hrozící hypoxie plodu.Císařským řezem rodíme plody v poloze koncem pánevním pod 2 500 g a vícečetná těhotenství pod 32. týden gravidity, resp. při hmotnosti plodů pod 1 500 g, pro hrozící nestabilitu polohy plodu.  Tento text se nachází na stránkách WWW.LEVRET.CZ "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "37. Za předčasný porod označujeme odtok plodové vody v případě:",
+    "answers": [
+      "+ spontánního odtoku plodové vody před děložní činností ✅",
+      "- spontánního odtoku nebo při arteficiálním protření vaku blan během I. doby porodní",
+      "- spontánního odtoku nebo při arteficiálním protření vaku blan ve II. době porodní",
+      "- spontánního odtoku nebo při arteficiálním protření vaku blan po začátku děložní činnosti"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ spontánního odtoku plodové vody před děložní činností ✅"
+    ],
+    "description": ["Moderní porodnictví   стр 245"],
+    "img": [""]
+  },
+  {
+    "question": "38. Předčasný odtok plodové vody nastává: (Živný)",
+    "answers": [
+      "- před 38.týdnem těhotenství",
+      "- před 40.týdnem těhotenství",
+      "- před příchodem těhotné do porodnického zařízení",
+      "+ před nástupem děložních kontrakce ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ před nástupem děložních kontrakce ✅"],
+    "description": [
+      "Předčasný odtok plodové vody (PROM= Premature Rupture Of Membranes) je definován jako odtok plodové vody po prasknutí plodových obalů bez předchozí děložní činnosti před stanoveným termínem, nebo v termínu porodu.Moderní porodnictví   стр 245"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "39. Mezi nejzávaznější rizika předčasného odtoku plodové vody patří: (Živný)",
+    "answers": [
+      "- hypoxie plodu",
+      "- předčasný porod",
+      "- slabé kontrakce v I. a II. době porodní",
+      "+ infekce ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ infekce ✅"],
+    "description": [
+      "K rizikům předčasného odtoku plodové vody pro plod patří především infekční komplikace, prematurita (RDS, intraventrikulární krvácení, nekrotizující enterocolitis), komprese pupečníku, u oligo- až anhydramnia potom možné deformity končetin, plicní hypoplazie a též i fetální úmrtí. Publikován v České gynekologii, 67, 2002, supplementum, s. 33–36 a v Moderní gynekologii a porodnictví, 16, 2007 Moderní porodnictví 246, 198 "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "40. Taktika pro předčasný odtok plodové vody:",
+    "answers": [
+      "+ indukce porodu (stimulace porodu po 24 hodinách) ✅",
+      "+ ATB po 12 hodinách ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ indukce porodu (stimulace porodu po 24 hodinách) ✅",
+      "+ ATB po 12 hodinách ✅"
+    ],
+    "description": [
+      "Nejsou-li přítomny známky infekce či distresu plodu či infekce matky nebo pozitivní kultivace streptokoků skupiny B, provokujeme porod za 24 hodin po odtoku plodové vody. Aplikujeme ATB po 12 hodinách po odtoku. Moderní porodnictví  - стр 196  * Předčasný odtok plodové vody u 32.–36. týdne těhotenství Transferujeme in utero do perinatologického centra do 34. týdne těhotenství. Nejsou-li přítomny známky infekce či distresu plodu či infekce matky nebo pozitivní kultivace streptokoků skupiny B, provokujeme porod u 32. až 34. gestačního týdne za 48 hodin, u 35. až 36. týdne těhotenství za 24 hodin. Preventivní tokolýzu aplikujeme do 34. týdne po dobu maturace plic. Kortikosteroidy podáváme do 34. týdne těhotenství. Profylakticky podáváme antibiotika. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "41. Předčasný porod jako komplikace při amniocenteze? (Živný) 😊",
+    "answers": ["+ menší než 1 % ✅", "- 10%", "- 20%", "- není žádné riziko"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ menší než 1 % ✅"],
+    "description": [
+      "Riziko potratu  po amniocentéze je asi o 0,5 až 1% vyšší než je běžná úroveň  Moderní porodnictví   стр 140  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "42. Nejčastější příčinou předčasného porodu je? (Živný)",
+    "answers": [
+      "- Inkompetence děložního hrdla",
+      "- Porucha placenty",
+      "+ Infekce ✅",
+      "- Imunologická příčina"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ Infekce ✅"],
+    "description": [
+      "* Nejčastější příčinou je infekce, kdy zánět z pochvy přestoupí do dělohy a na plodové obaly a poté do vody plodové.  ** Mezi časté příčiny předčasného porodu patří vícečetné těhotenství, nejrůznější druhy nitroděložní infekce, poruchy funkce placenty, anomálie plodu, jistou roli však hrají i genetické vlohy a také celá řada nevysvětlitelných, nebo hůře objasnitelných důvodů.  Moderní porodnictví   стр 246 "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "43. Procent komplikaci při appendektomii?",
+    "answers": ["- 1%", "- 2.5%", "+ 5% ✅", "- 7%"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ 5% ✅"],
+    "description": ["Appendectomy carries a complication rate of 4-15%"],
+    "img": [""]
+  },
+  {
+    "question": "44. Akutní profuzní gastrointestinální krvácení, co mám dělat?",
+    "answers": [
+      "+ endoskopie horního a dolního gastrointestinálního traktu, pokud není užitečná — angiografie ✅",
+      "- horní endoskopie",
+      "- naléhavé laparotomie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ endoskopie horního a dolního gastrointestinálního traktu, pokud není užitečná — angiografie ✅"
+    ],
+    "description": ["Zeman. Speciální chirurgie cтр 332"],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Při krvácení z horní části trávicí trubice je třeba (Klener)",
+    "answers": [
+      "- ihned provést rtg vyšetření jícnu a žaludku",
+      "- nevyšetřovat a uložit nemocného do klidu",
+      "+ ihned endoskopovat ✅",
+      "- vyšetření provést s odstupem 10–14 dní",
+      "- nepodávat jídlo a zavést sondu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ ihned endoskopovat ✅"],
+    "description": ["Klener  vnitřní lékařstvi стр 471-472"],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Pro definitivní diagnózu krvácení do horní části trávicí trubice je obvykle rozhodující (Klener)",
+    "answers": [
+      "+ urgentní orální endoskopie ✅",
+      "- angiografie",
+      "- rentgen žaludku",
+      "- anamnéza"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ urgentní orální endoskopie ✅"],
+    "description": ["Klener  vnitřní lékařstvi стр 471"],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Nejčastější rakovina plic? (apelace – správně)",
+    "answers": [
+      "+ nemalobuněčný karcinom (spinocelulární karcinom, adenokarcinom, spinocel)✅",
+      "- velkobuněčný karcinom",
+      "- malobuněčný karcinom"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ nemalobuněčný karcinom (spinocelulární karcinom, adenokarcinom, spinocel)✅"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Nejčastějším zhoubným nádorem u mužů v ČR je",
+    "answers": [
+      "+ rakovina tlustého střeva ✅",
+      "- bronchogenní karcinom (2 místo po frekvence)",
+      "- rakovina žaludku - rakovina prostaty (3 místo po frekvence)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ rakovina tlustého střeva ✅"],
+    "description": [
+      "* Nejčetnější rakovina u můžu se smrtí - střeva. Prostě nejčastější - prostaty. Nejčastější nádorová onemocnění mužů v Česku jsou:--karcinom prostaty,--karcinom tlustého střeva a konečníku,--zhoubné nádory průdušnice, průdušek a plic. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Nejčastějším histologickým typem bronchogenního karcinomu u mužů je: (Klener)",
+    "answers": [
+      "+ epidermoidní (nemalobuněčný — dlaždicobuněčný, spinocelulární) ✅",
+      "- malobuněčný",
+      "- velkobuněčný",
+      "- adenokarcinom"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ epidermoidní (nemalobuněčný — dlaždicobuněčný, spinocelulární) ✅"
+    ],
+    "description": [
+      "Morfologicky bronchogenní karcinom dělíme na 2 typy: malobuněčný (SCLC) a nemalobuněčný bronchogenní karcinom. Nemalobuněčný karcinom obsahuje 3 podtypy nádoru – spinocelulární karcinom, adenokarcinom a velkobunečný karcinom.  https://www.linkos.cz/lekar-a-multidisciplinarni-tym/kongresy/po-kongresu/databaze-tuzemskych-onkologickych-konferencnich-abstrakt/nemalobunecny-karcinom-plic-non-small-lung-cancer-nsclc-aktualni-stav/  *Termínem bronchogenní karcinomy se označují jak zhoubné nádory průdušek, tak nádory, které vznikají v plicním parenchymu. Nejčastější příčinou vzniku bronchogenníh karcinomu je kouření.  ** Nemalobuněčný karcinom - NSCLC (Non Small Cell Lung Cancer) tvoří 75 - 80% všech bronchogenních karcinomů. Je charakterický pomalejším růstem, pozdějším metastazováním, avšak menší citlivostí k radioterapii a chemoterapii. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Perforace dělohy u ženy reproduktivního věku , jaký správný chirurgický postup? (Perforation of the uterus) / Děložní perforace sondou nebo kyretou u plodné manželky:",
+    "answers": [
+      "- laparotomie a koagulační terapie",
+      "- laparotomie a sutura",
+      "+ laparoskopie a sutura ✅",
+      "- laparoskopie a koagulační terapie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ laparoskopie a sutura ✅"],
+    "description": [
+      "Urgentní diagnostické výkony • podezření na děložní perforaci (sonda, sukční kanyla, hysteroskop)   E. Kučera Katedra gynekologie a porodnictví IPVZ, Praha  Moderní gynekologie 2010 - 214  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "51. Perforace děložní stěny po kyretáži nejčastěji ošetříme",
+    "answers": ["+ Laparoskopicky ✅", "- Laparotomicky", "- Vaginálně"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ Laparoskopicky ✅"],
+    "description": [
+      "Urgentní diagnostické výkony • podezření na děložní perforaci (sonda, sukční kanyla, hysteroskop)   E. Kučera Katedra gynekologie a porodnictví IPVZ, Praha Gynekologie- karel citterbart Стр  46  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Trubicové dýchání nacházíme u (Klener)",
+    "answers": [
+      "- emfyzému",
+      "+ infiltrace plicní tkáně ✅",
+      "- pneumotoraxu",
+      "- zánětu průdušek"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ infiltrace plicní tkáně ✅"],
+    "description": [
+      "vyplnění sklípků – zánětlivý infiltrát při pneumonii, krev při plicním infarktu, nádorová tkáň… https://www.wikiskripta.eu/w/Vyšetření_hrudníku_(pneumologie)#:~:text=Za%20fyziologických%20okolností%20je%20nad,horním%20sternem%20a%20mezi%20lopatkami. Klener vnitříní lékařství стр 271 "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Štěkavý kašel je příznakem? (barking cough)",
+    "answers": ["+ akutní laryngotracheitida ✅"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ akutní laryngotracheitida ✅"],
+    "description": [
+      "Laryngitida je zánět hrtanu nejčastěji vyvolaný virovou infekcí. Hlavním příznakem laryngitidy je suchý štěkavý kašel Klinická pediatrie, Jan Lebl   - Стр 405 "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Nejčastější příčinou akutního inspiratorního stridoru je:",
+    "answers": ["+ akutní laryngotracheitida ✅"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ akutní laryngotracheitida ✅"],
+    "description": ["Klinická pediatrie, Jan Lebl    -92"],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Projevy akutní subglotické laryngitidy jsou: (Olomouc) - ПЕДИАТРИЯ",
+    "answers": [
+      "- dítě nikdy nekašle",
+      "+ inspirační stridor ✅",
+      "- izolovaný exspirační stridor",
+      "+ laryngeální štěkavý kašel ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ inspirační stridor ✅",
+      "+ laryngeální štěkavý kašel ✅"
+    ],
+    "description": [
+      "Subglotická laryngitida (pseudokrup, stenozujicí laryngotracheitida): nahle se objeví štěkavý kašel a inspirační stridor Muntau, Pediatrie, str. 333 "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Izolovaná systolická hypertenze u starých osob (Klener) - КАРДИОЛОГИЯ",
+    "answers": [
+      "- je nezávažným nálezem, který není třeba léčit",
+      "- je způsobena hyperkinetickou cirkulací",
+      "+ je stejně závažným nálezem jako hypertenze systolicko-diastolická ✅",
+      "- je projevem dehydratace u hypertonika"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ je stejně závažným nálezem jako hypertenze systolicko-diastolická ✅"
+    ],
+    "description": [
+      "Na základě výsledků mnoha studií je prokázáno, že s léčby vysokého krevního tlaku maji prospech v podobě snížení kardiovaskulární morbidity a mortality i pacienti ve vyšším věku , a to bez ohladu na to, zda trpí systolicko-diastilickou nebo izolovanou systolickou hypertenzi. Štejfa Miloš: Kardiologie str. 555 "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Jaká je léčba diabetu 2 typu u pacienta s obezitou? 😊- ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "- inzulin",
+      "+ metformin ✅",
+      "- deriváty sulfonylmočoviny",
+      "- glibenklamidy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ metformin ✅"],
+    "description": [
+      "Velmi výhodnou vlastnosti metforminu je, že při terapii pacienti neiklinuji k nárůstu hmotnosti, naopak metformin spíše pomůže k jejímu snížení. Švihovec Jan: Farmakologie, str. 844 "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Diagnóza Diabetes mellitus je založena na: (Olomouc) - ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "- pouze pozitivním nálezu cukru v moči",
+      "- pouze pozitivním nálezu acetonu v moči",
+      "- pouze přítomnosti charakteristických symptomů",
+      "+ hyperglykémii nalačno (7mmol/l a více) a/nebo náhodné hyperglykémii (11,1mmol/l a více) minimálně ve 2 měřeních ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ hyperglykémii nalačno (7mmol/l a více) a/nebo náhodné hyperglykémii (11,1mmol/l a více) minimálně ve 2 měřeních ✅"
+    ],
+    "description": [
+      "Diagnóza založená na lačné glykemii (2': 7,0 mmol/1) se musí opírat o výsledky alespoň dvojího měření. Nález náhodné glykemie 2': 11,1mmolll musí býtdoplněn výsledkem lačné glykemie 2': 7,0 mmol/1. Při nálezu zvýšené glykemie nalačno (5,6-6,9 mmol/1) je nutné provést oGTT. Interna Češka str. 226 "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Čerstvě zachycený diabetes mellitus se projevuje: (Klener) - ЭНДОКРИНОЛОГИЯ",
+    "answers": ["- oligurií", "- pyrózou", "+ žízní ✅", "- průjmem"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ žízní ✅"],
+    "description": [
+      "Mezi klinické příznaky diabetu patří:  --polyurie  --polydypsie (osmotická diureza)  --nykturie  --hubnuti při normalní chuti k jidlu (u děti vlci hlad)  --slabost a vleka unava  --bolesti nebo křeče ve svalech  --svědení kůže, perigenitalní opruzeni, kožni hnisave infekce  --poruchy videni - zrakove ostrosti  --recidivujici mykozy  --paradentoza  --bolest břicha=pseudoperitonitida (ne potřebuje revize)  Rybka J.: Diabetus mellitus - komplikace a přidružena onemocnení str. 29   Весна 2022: идентичный   "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Do klinického obrazu pacienta s čerstvě prokázaným diabetem NEpatří (Klener) -ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "- polyurie",
+      "- polydipsie",
+      "+ singultus (Škytavka) ✅",
+      "- pruritus (svedeni kůži)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ singultus (Škytavka) ✅"],
+    "description": [
+      "Mezi klinické příznaky diabetu patří:  --polyurie  --polydypsie (osmotická diureza)  --nykturie  --hubnuti při normalní chuti k jidlu (u děti vlci hlad)  --slabost a vleka unava  --bolesti nebo křeče ve svalech  --svědení kůže, perigenitalní opruzeni, kožni hnisave infekce  --poruchy videni - zrakove ostrosti  --recidivujici mykozy  --paradentoza  --bolest břicha=pseudoperitonitida (ne potřebuje revize)  Rybka J.: Diabetus mellitus - komplikace a přidružena onemocnení str. 29 "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "61. Nemocný s hyperinzulismem: 😊 - ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "- nádor z alfa-buněk Langerhansových ostrůvků інсулін дійсно піднімається, але гіперінсулінізму не буде",
+      "+ máme podezření na onemocnění Zollinger-Ellisonův ✅",
+      "- pacient s Diabetes mellitus a dostává nízké dávky inzulinu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ máme podezření na onemocnění Zollinger-Ellisonův ✅"],
+    "description": [
+      "* asi jde o syndromu MEN I Nador produkujici inzulin (inzulinom, organický hyperinzulinizmus) je najčastejším nadorem pankreatu i tráviciho traktu. Byva lokalizovan v pankreatu, jen výjimečně extrapankreaticky, je většínou benigni a solitární.  Inzulinom může být součastí mnohočetné endokrinní neoplazie (MEN I) spolu s adenomem příštitneho těliška a hypofýzy. PK KLENER P. a kol.: Vnitřní lékařství, Galén str. 981-982  Langerhansovy ostrůvkyv: ostrůvcích A-buňky při periferii, produkující glukagon; početnější B-buňky centrálně uložené, produkující inzulin; Klinický obraz 1--Primární hyperparathyreóza – v rámci syndromu se vyskytuje s pravděpodobností 95–100 % a bývá také první manifestací. 2--Tumory endokrinního pankreatu – mohou být afunkční nebo hormonálně aktivní – nejčastěji gastrinom (60 %) nebo inzulinom(20 %). 3--Tumory hypofýzy – téměř vždy adenomy. Mohou být afunkční, v případě aktivity se téměř vždy jedná o prolaktinom. Součástí MEN 1 mohou být: adenomy nadledvin, karcinoid, podkožní lipomy, angiofibromy na tváři, kolagenomy, …  Wikiscripta "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Diabetes mellitus 2 + srdeční selhání NENÍ kontraindikován - ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "+ Inzulin ✅",
+      "+ Metformin (do NYHA I-II) ✅",
+      "- pioglitazon",
+      "+ deriváty sulfonylmočoviny ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ Inzulin ✅",
+      "+ Metformin (do NYHA I-II) ✅",
+      "+ deriváty sulfonylmočoviny ✅"
+    ],
+    "description": [
+      "Glitazony vykazovaly v některých případech pozitivní asociaci s kardiovaskulárními příhodami, upozorňovat na pacientov s chronickým srdeční selhani.   Rybka J.: Diabetus mellitus - komplikace a přidružena onemocnení  str. 58  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Čerstvě zachycený diabetes mellitus se NEmůže projevovat? / Diabetes mellitus má první příznaky, kromě 😊- ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "- polyurie",
+      "- polydipsie",
+      "- hubnutí",
+      "+ proteinurie ✅",
+      "+ křeče ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ proteinurie ✅", "+ křeče ✅"],
+    "description": [
+      "Mezi klinické příznaky diabetu patří:  --polyurie  --polydypsie (osmotická diureza)  --nykturie  --hubnuti při normalní chuti k jidlu (u děti vlci hlad)  --slabost a vleka unava  --bolesti nebo křeče ve svalech  --svědení kůže, perigenitalní opruzeni, kožni hnisave infekce  --poruchy videni - zrakove ostrosti  --recidivujici mykozy  --paradentoza  --bolest břicha=pseudoperitonitida (ne potřebuje revize)  Rybka J.: Diabetus mellitus - komplikace a přidružena onemocnení  str. 29  Весна 2022: 1. křeče не было. 2.  křeče не было, только протеинурия  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Gestační diabetes, čím léčíme? (apelace – správně) - ГИНЕКОЛОГИЯ",
+    "answers": [
+      "+ dieta, při nečinnosti – inzulin nebo metformin ✅ / Dieta, inzulin nebo jeho analogy a perolalní antidiabetika *(jen metformin) ✅",
+      "- dieta",
+      "- analogy lidského inzulinu",
+      "- PAMBA",
+      "- dieta, metformin"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ dieta, při nečinnosti – inzulin nebo metformin ✅ / Dieta, inzulin nebo jeho analogy a perolalní antidiabetika *(jen metformin) ✅"
+    ],
+    "description": [
+      "Základem léčby jsou režimová opatření – dieta a zvýšená fyzická aktivita. V menšině případů je třeba přidat i farmakologickou léčbu – inzulin a nově také metformin. Metformin je lékem volby zejména u obézních, téměř v polovině případů je však nutné přidání inzulinu.  Žádné jiné perolalní léky kromě metforminu nemůžeme podávat !   dieta, pohybová aktivita, metformin, inzulin, analogy inzulinu.  GDM s nízkým rizikem – dieta.  GDM s vysokým rizikem – inzulin a metformin.   Aplikace inzulinu je nutná, pokud se nedaří dietou dosahnout glykemii nalačno do 5,3 mmol/l a do 6,7 mmol/l dvě hodiny postprandialně. Je nutno davat rychle učinkijičim inzulinam před depotnimi preparaty.  Hajek, Čech, Maršál “Porodnictví”, str. 2579  Metformin je bezpečnou léčbou GDM. [9,14] Léčba se zahajuje dávkou 500 mg večer, kterou lze po několika dnech podle odpovědi zvýšit. U více než 40% léčených žen bývá nutné přidání inzulinu. Při nutnosti přidání inzulinu je vhodné v léčbě metforminem pokračovat, neboť může snížit potřebu dávek inzulinu až o třetinu. Metformin je kromě obvyklých kontraindikací uvedených v SPC u těhotných kontraindikován také při preeklampsii, závažnější gestační nefropatii a hepatopatii. Léčbu metforminem ukončujeme 48 hodin před plánovaným císařským řezem, v ostatních případech v den porodu. Při kojení je metformin kontraindikován. GESTAČNÍ DIABETES MELLITUS: Doporučený postup screeningu, gynekologické, perinatologické, diabetologické a neonatologické péče 2017, str. 7 Весна 2022: ( відповіді виглядали так:  -pouze dieta -pouze antidiabetika -dieta, inzulín nebo antidiabetika  + dieta, inzulínové analogii "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Genetické syndromy, které mohou být asociované s diabetes mellitus: 😊-ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "+ Turnerův syndrom ✅",
+      "+ Downův syndrom ✅",
+      "+ Klinefelterův syndrom ✅"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ Turnerův syndrom ✅",
+      "+ Downův syndrom ✅",
+      "+ Klinefelterův syndrom ✅"
+    ],
+    "description": [
+      "Další genetické syndromy, které mohou být asociované s diabetem.  --Downův syndrom.  --Klinefelterův syndrom.  --Turnerův syndrom.  --Wolframův syndrom.  --Friedreichova ataxie.  --Huntingtonova chorea.  --Syndrom Lawrence-Moon Beidel.  --Myotonní dystrofie.  --Porfyrie.  --Prader-Williho syndrom.  --Jiné. Wikiscripta "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Dítě diabetické matky je po porodu ohroženo (Olomouc) - ПЕДИАТРИЯ",
+    "answers": [
+      "- hyperglykémií",
+      "- hypopituitarismem",
+      "+ hypoglykémií ✅",
+      "- hypertenzí"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ hypoglykémií ✅"],
+    "description": [
+      "Novorozenec matky s gestačním diabetem je ohrožen následujícími stavy: porodním poraněním (dystokie rámenek, paréza brachiálního plexu, poraněnípři extrakci CR), RDS, diabecteckou fetopatii, neonatalní hypoglykemií, polycytemií, hyperbilirubonemií, hypokalciemií a infekční morbiditou. Hajek, Čech, Maršál “Porodnictví”, str. 2589  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Co bude s dítětem, narozeným od matky s diabetes mellitus? (apelace – správně)- ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "+ diabetická fetopatie ✅ (dítě je obézní, kardiomegalie, polycytémie, krátce po porodu hypoglykemii, m.b. hypokalcemie a hypomagnesemie, hyperbilirubinemie, perinatální asfyxie, syndrom dechové tísně)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ diabetická fetopatie ✅ (dítě je obézní, kardiomegalie, polycytémie, krátce po porodu hypoglykemii, m.b. hypokalcemie a hypomagnesemie, hyperbilirubinemie, perinatální asfyxie, syndrom dechové tísně)"
+    ],
+    "description": [
+      "Nejvyznamnejší komplikací je tzv. diabetická fetopatie, charakterizova-ná především hypertrofií plodu - porodní hmotnost větší než 4 kg (k dalším projevům patří plicní nezralost, hypoglykemie, polycytémie). Je také větší riziko porodních komplikací. K pozdním rizikům patří různé neuropsychické poruchy a rozvoj obezity v dět­ ství. U matky je větší riziko těhotenské hypertenze, preeklampsie a hepatopatie. Interna Češka str. 243 "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Diabetes mellitus 1 typu u těhotenství: (apelace – správně) - ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "+ spontánní potrat ✅",
+      "+ vrozené vady ✅",
+      "+ fetopatie ✅",
+      "- odloučení placenty"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ spontánní potrat ✅",
+      "+ vrozené vady ✅",
+      "+ fetopatie ✅"
+    ],
+    "description": [
+      "Nejvyznamnejší komplikací je tzv. diabetická fetopatie, charakterizova-ná především hypertrofií plodu - porodní hmotnost větší než 4 kg (k dalším projevům patří plicní nezralost, hypoglykemie, polycytémie). Je také větší riziko porodních komplikací. K pozdním rizikům patří různé neuropsychické poruchy a rozvoj obezity v dět­ ství. U matky je větší riziko těhotenské hypertenze, preeklampsie a hepatopatie.  Interna Češka str. 243  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Co bude s těhotenstvím u ženy s diabetes mellitus? / Nejhlavnější, co bude u plodu při diabetes mellitus u matky? 😊 - ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "- spontánní potrat",
+      "- vrozené vady",
+      "+ fetopatie ✅",
+      "- odtržení placenty"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+ fetopatie ✅"],
+    "description": [
+      "Nejvyznamnejší komplikací je tzv. diabetická fetopatie, charakterizovaná především hypertrofií plodu - porodní hmotnost větší než 4 kg (k dalším projevům patří plicní nezralost, hypoglykemie, polycytémie). Je také větší riziko porodních komplikací. K pozdním rizikům patří různé neuropsychické poruchy a rozvoj obezity v dět­ství. U matky je větší riziko těhotenské hypertenze, preeklampsie a hepatopatie.  Interna Češka str. 243  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Diabetická fetopatie je název pro: 😊 - ГИНЕКОЛОГИЯ",
+    "answers": [
+      "- metabolickou poruchou plodu, vedoucí k jeho odumření v průběhu I. trimestru",
+      "- metabolickou poruchu placenty, vedoucí k odumření plodu během I. trimestru",
+      "+ makrosomatického novorozence diabetické matky ✅ (makrosomie plodu)",
+      "- hypotrofického novorozence diabetické matky"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "+ makrosomatického novorozence diabetické matky ✅ (makrosomie plodu)"
+    ],
+    "description": [
+      "Diabetická fetopatie: makrosomie - hmotnost =, vice 4000 g, plicní nezralost s rizikem vzniku syndromu respirační tísně, hypoglykemie, hypokalciemie, hypobilirubinemie Hajek, Čech, Maršál “Porodnictví”, str. 2579  "
+    ],
+    "img": [""]
+  }
+]

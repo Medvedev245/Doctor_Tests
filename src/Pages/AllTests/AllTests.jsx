@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import Medicine_2023 from '../../Files/Medicine_2023.json';
 import Klener from '../../Files/ClenerNew.json';
 import Legislativa from '../../Files/Legislativa_Báze_2023.json';
 import {
@@ -13,6 +14,7 @@ import LoadMore from 'components/LoadMore/LoadMore';
 import { FormContainer, WraperForm } from 'Pages/Home/Home.styled';
 import { ButtonDescr } from 'Pages/Tests/Tests.styled';
 import Modal from 'components/Modal/Modal';
+// import Functions from 'Files/Functions';
 
 const AllTests = () => {
   const [allTests, setAllTests] = useState(Legislativa);
@@ -35,6 +37,9 @@ const AllTests = () => {
     switch (selectedValue) {
       case 'Klener':
         setAllTests(Klener);
+        break;
+      case 'Medicine_2023':
+        setAllTests(Medicine_2023);
         break;
       case 'Legislativa_Báze_2023':
         setAllTests(Legislativa);
@@ -72,6 +77,9 @@ const AllTests = () => {
           <Select id="formBase" onChange={handleOption1Change}>
             <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
             <option value="Klener">Klener</option>
+            <option value="Medicine_2023">
+              Medicine_2023 (только 70 тестов)
+            </option>
           </Select>
         </WraperForm>
       </FormContainer>
@@ -109,6 +117,7 @@ const AllTests = () => {
         closeModal={closeModal}
         props={selectedQuestion} // Передаем выбранный вопрос в компонент Modal
       />
+      {/* <Functions></Functions> */}
     </>
   );
 };
