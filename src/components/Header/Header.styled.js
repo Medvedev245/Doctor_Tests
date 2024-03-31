@@ -48,12 +48,7 @@ export const ContainerData = styled.nav`
   display: flex;
   justify-content: space-between;
   gap: 20px;
-  transition: opacity 0.9s ease, transform 0.3s ease; /* Добавляем transition для анимации */
-  opacity: ${props =>
-    props.isOpen ? '1' : '0'}; /* Устанавливаем прозрачность */
-  transform: translateY(
-    ${props => (props.isOpen ? '0' : '-100%')}
-  ); /* Смещаем меню вниз, если открыто */
+  transition: opacity 0s ease, transform 0.3s ease; /* Добавляем transition для анимации */
 
   //tablet
   @media screen and (max-width: 1200px) {
