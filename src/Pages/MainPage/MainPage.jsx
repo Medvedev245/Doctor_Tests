@@ -40,7 +40,7 @@ const MainPage = () => {
             <MainDescr>Video</MainDescr>
             <p>
               This section of the site contains videos on various specialties.
-              YoouTube channels with medical topics, IPVZ and more.
+              YouTube channels with medical topics, IPVZ and more.
             </p>
           </ContainerText>
 

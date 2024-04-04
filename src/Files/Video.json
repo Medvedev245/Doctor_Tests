@@ -1,0 +1,68 @@
+[
+  {
+    "channel": "FN Motol",
+    "channelName": "@FNMOTOLVIDEO",
+    "link": "https://www.youtube.com/@FNMOTOLVIDEO/playlists",
+    "id": "@FNMOTOLVIDEO",
+    "description": [
+      "Posláním FN Motol je léčit nemocné na podkladě současných poznatků lékařské vědy a zajišťovat svým klientům komplexní a kvalitní vysoce specializovanou péči pro všechny fáze lidského života. Poslání shrnuje heslo: sloužíme generacím. Vizí do budoucnosti je učinit z nemocnice „vlajkovou loď“ českého zdravotnictví v oblasti všeobecné i specializované péče. Efektivní systém řízení nemocnice včetně plánu kontinuálního zvyšování kvality je pro naplnění poslání i vize nezbytný. Poskytuje základní, specializovanou a superspecializovanou zdravotní péči a služby v lékařských oborech, formou ambulantní a lůžkové péče pro děti, dospělé a seniory. "
+    ],
+    "img": [""]
+  },
+  {
+    "channel": "Markéta Vojtová",
+    "channelName": "@marketavojtova2947",
+    "link": "https://www.youtube.com/@marketavojtova2947",
+    "id": "@marketavojtova2947",
+    "description": [
+      "Samotné prezentace naleznete na webových stránkách - https://sites.google.com/view/vojtovamarketa-studentum/index"
+    ],
+    "img": [""]
+  },
+  {
+    "channel": "STAYMEDIK",
+    "channelName": "@ceskainternistickaspolecno4062",
+    "link": "https://www.youtube.com/@STAYMEDIK",
+    "id": "@STAYMEDIK",
+    "description": [
+      "Vzděláváme širokou veřejnost a usnadňujeme studium nejen medikům, ale i ostatním studentům zdravotnických oborů zajímavými příspěvky ze světa medicíny."
+    ],
+    "img": [""]
+  },
+  {
+    "channel": "Česká internistická společnost",
+    "channelName": "@FNMOTOLVIDEO",
+    "link": "https://www.youtube.com/@ceskainternistickaspolecno4062",
+    "id": "@FNMOTOLVIDEO",
+    "description": [
+      "ČIS na YouTube sdílí vzdělávací obsah pro lékaře a odborníky v oboru vnitřní lékařství."
+    ],
+    "img": [""]
+  },
+  {
+    "channel": "Decoiled by Coiled",
+    "channelName": "@decoiledbycoiled8777",
+    "link": "https://www.youtube.com/@decoiledbycoiled8777",
+    "id": "@decoiledbycoiled8777",
+    "description": ["Medicine decoiled by Coiled. Medical lectures."],
+    "img": [""]
+  },
+  {
+    "channel": "RA1799RA",
+    "channelName": "@RA1799RA",
+    "link": "https://www.youtube.com/@RA1799RA",
+    "id": "@RA1799RA",
+    "description": ["Medicine decoiled by Coiled. Medical lectures."],
+    "img": [""]
+  },
+  {
+    "channel": "POSTUDIUM",
+    "channelName": "@PoStudium",
+    "link": "https://www.youtube.com/@PoStudium",
+    "id": "@PoStudium",
+    "description": [
+      "POSTUDIUM je oficiální portál Lékařské fakulty v Plzni pro postgraduální vzdělávání"
+    ],
+    "img": [""]
+  }
+]
