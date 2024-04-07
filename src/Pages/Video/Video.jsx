@@ -11,7 +11,7 @@ const Video = () => {
         {VideoCanals.map(channel => {
           return (
             <>
-              <Link to={channel.link} target="_blank">
+              <Link to={channel.link} target="_blank" rel="noopener noreferrer">
                 <li>
                   <h3>{channel.channel}</h3>
                   <p>{channel.description}</p>
