@@ -2,6 +2,7 @@ import { useState } from 'react';
 import Medicine_2023 from '../../Files/Medicine_2023.json';
 import Klener from '../../Files/ClenerNew.json';
 import Legislativa from '../../Files/Legislativa_Báze_2023.json';
+import Živný from '../../Files/Živný.json';
 import {
   Element,
   Item,
@@ -44,6 +45,9 @@ const AllTests = () => {
       case 'Legislativa_Báze_2023':
         setAllTests(Legislativa);
         break;
+      case 'Živný':
+        setAllTests(Živný);
+        break;
       default:
         setAllTests(Legislativa);
     }
@@ -77,6 +81,7 @@ const AllTests = () => {
           <Select id="formBase" onChange={handleOption1Change}>
             <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
             <option value="Klener">Klener</option>
+            <option value="Živný">Živný(1-70)</option>
             <option value="Medicine_2023">Medicine_2023</option>
           </Select>
         </WraperForm>
@@ -93,13 +98,6 @@ const AllTests = () => {
                   </Element>
                 ))}
               </ListQuestion>
-
-              {/* <ButtonDescr
-                style={{ alignSelf: 'flex-end' }}
-                onClick={() => openModal(test)}
-              >
-                Show Description
-              </ButtonDescr> */}
 
               {test.description && (
                 <ButtonDescr

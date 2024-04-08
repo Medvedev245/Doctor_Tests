@@ -1,0 +1,1089 @@
+[
+  {
+    "question": "1. Pohlaví je determinováno",
+    "answers": [
+      "a) okamžikem oplození",
+      "b) až po projití stadiem diferenciace",
+      "c) až po indiferentním stadiu",
+      "d) oocytem"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["a) okamžikem oplození"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Ductus Wolffi",
+    "answers": [
+      "a) je ductus paramesonefricus",
+      "b) vzniká vchlípením coelomového epitelu",
+      "c) je ductus mesonephricus",
+      "d) probíhá po mediálním okraji urogenitální lišty"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) je ductus mesonephricus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Oogonie",
+    "answers": [
+      "a) se již nemnoží",
+      "b) se meioticky množí",
+      "c) se mitoticky množí",
+      "d) potřebují к dělení obal z folikulámích buněk"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) se mitoticky množí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Miillerův vývod",
+    "answers": [
+      "a) kříží Wolfův vývod ventrálně",
+      "b) kříží Wolfův vývod dorzálně",
+      "c) kříží Wolfův vývod v kaudální části",
+      "d) nekříží Wolfův vývod"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["a) kříží Wolfův vývod ventrálně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Vagina vzniká",
+    "answers": [
+      "a) jen z kaudálního úseku uterovaginálního kanálu",
+      "b) jen ze sinus urogenitalis",
+      "c) jen spojením ductus mesonephricus",
+      "d) vzniká z kaudálního úseku uterovaginálního kanálu",
+      "a sinus urogenitalis"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["d) vzniká z kaudálního úseku uterovaginálního kanálu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Perioda množení oocytů",
+    "answers": [
+      "a) končí ovulací",
+      "b) končí okamžikem oplození",
+      "c) začíná s počátkem puberty",
+      "d) probíhá v prenatálním období"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["d) probíhá v prenatálním období"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. V klidovém období primární oocyt",
+    "answers": [
+      "a) přerušil dělení v profázi prvního zracího dělení",
+      "b) přerušil dělení v metafázi prvního zracího dělení",
+      "c) nepřerušil dělení",
+      "d) přerušil dělení v telofázi prvního zracího dělení"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["a) přerušil dělení v profázi prvního zracího dělení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. К dokončení druhého zracího dělení dochází",
+    "answers": [
+      "a) prenatálně",
+      "b) po ovulaci",
+      "c) po oplození",
+      "d) před menstruací"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) po oplození"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. První pólové tělísko",
+    "answers": [
+      "a) má diploidm' počet chromosomů",
+      "b) je patrné v primárních folikulech",
+      "c) se někdy nedělí",
+      "d) bývá patrné po ovulaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["d) bývá patrné po ovulaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Při oogenezi vzniká následující počet plnohodnotných buněk",
+    "answers": ["a) 1", "b) 2", "c) 3", "d) 4"],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["a) 1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Při spermatogenezi vzniká následující počet plnohodnotných buněk",
+    "answers": ["a) 1", "b) 2", "c) 3", "d) 4"],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["d) 4"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Při spermatogenezi po ukončení",
+    "answers": [
+      "a) 4 spermatidy s heterochromosomem Y",
+      "b) 4 spermatidy s heterochromosomem X",
+      "c) 2 spermatidy s heterochromosomem X, 2 spermatidy s heterochromosomem Y",
+      "d) respermatida s heterochromosomem X, 1 prespermatida s heterochromosomem Y"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "c) 2 spermatidy s heterochromosomem X, 2 spermatidy s heterochromosomem Y"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Kompletní oogeneze (úplné ukončení zracího dělení) proběhne během života ženy",
+    "answers": [
+      "a) u všech oocytů",
+      "b) u řádově tisíců oocytů",
+      "c) u řádově stovek oocytů",
+      "d) spíše u jednotek oocytů, je možné že u žádného"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["d) spíše u jednotek oocytů, je možné že u žádného"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. К oplození dochází nejčastěji",
+    "answers": [
+      "a) v istmické části vejcovodu",
+      "b) v děložním fundu",
+      "c) v děložním těle",
+      "d) v ampulámí části vejcovodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["d) v ampulámí části vejcovodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Oocyt si uchovává schopnost oplození",
+    "answers": [
+      "a) více než 48 hodin po ovulaci",
+      "b) déle než spermie",
+      "c) asi 12 hodin po ovulaci",
+      "d) až do menstruace"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) asi 12 hodin po ovulaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Spermie jsou schopny oplodnit vajíčko",
+    "answers": [
+      "a) maximálně po dobu 12 hodin",
+      "b) i po dobu 48 hodin",
+      "c) jen po dobu 1 hodiny",
+      "d) neomezeně dlouho"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["b) i po dobu 48 hodin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Kortikální reakce oocytu",
+    "answers": [
+      "a) umožňuje vniknutí spermie do oocytu",
+      "b) umožňuje ovulaci",
+      "c) zabraňuje vniknutí spermie do oocytu",
+      "d) umožňuje polyspermii"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) zabraňuje vniknutí spermie do oocytu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Hymen",
+    "answers": [
+      "a) je zbytek vaginální ploténky",
+      "b) vzniká již před luminizací vaginální ploténky",
+      "c) je pokryt epitelem jen z jedné strany",
+      "d) odděluje sinus urogenitalis a vagínu"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["d) odděluje sinus urogenitalis a vagínu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Pohlavní (genitální) hrbolek",
+    "answers": [
+      "a) vzniká ze sinus urogenitalis",
+      "b) vzniká z kloakálních řas",
+      "c) podílí se na vzniku dělohy",
+      "d) je typický jen pro ženské pohlaví"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["b) vzniká z kloakálních řas"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Pro zánik Mullerových vývodů je důležitý(á)",
+    "answers": [
+      "a) testosteron",
+      "b) Y chromosom",
+      "c) nepřítomnost varlete",
+      "d) X chromosom"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["b) Y chromosom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Testosteron je důležitý",
+    "answers": [
+      "a) pro zánik Miillerových vývodů",
+      "b) pro zachování Miillerových vývodů",
+      "c) pro zánik Wolfových vývodů",
+      "d) pro zachování Wolfových vývodů"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["d) pro zachování Wolfových vývodů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Testosteron je produkován",
+    "answers": [
+      "a) Sertolliho buňkami",
+      "b) Leydigovými buňkami",
+      "c) gonocyty",
+      "d) podpůrnými buňkami"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["b) Leydigovými buňkami"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Ligamentum teres uteri je",
+    "answers": [
+      "a) původem z Wolfova vývodu",
+      "b) původem z Miillerova vývodu",
+      "c) kaudální částí gubemaculum ovarii",
+      "d) processus vaginalis peritonei"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) kaudální částí gubemaculum ovarii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Represivní faktor",
+    "answers": [
+      "a) je produkován Leydigovými buňkami",
+      "b) je důležitý pro vznik varlete",
+      "c) je důležitý pro zánik Mullerových vývodů",
+      "d) je důležitý pro zachování Wolfových vývodů"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) je důležitý pro zánik Mullerových vývodů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Descensus testis",
+    "answers": [
+      "a) je podmíněn jen růstem těla",
+      "b) je podmíněn jen hormonálně",
+      "c) je podmíněn jak růstem těla, tak hormonálně",
+      "d) není podmíněn pohlavními hormony"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) je podmíněn jak růstem těla, tak hormonálně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Labia minora pudendi",
+    "answers": [
+      "a) mají jiný původ než penilní část mužské uretry",
+      "b) vznikají z nesrostlých uretrálních řas",
+      "c) jsou analogem skrota",
+      "d) jsou reziduem processus vaginalis peritonei"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["b) vznikají z nesrostlých uretrálních řas"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Labia majora pudendi",
+    "answers": [
+      "a) vznikají z nesrostlých uretrálních řas",
+      "b) nejsou analogem skrota",
+      "c) vznikají z nesrostlých pohlavních valů",
+      "d) mají stejný původ jako penilní část mužské uretry"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) vznikají z nesrostlých pohlavních valů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Fundus uteri",
+    "answers": [
+      "a) vzniká ze spojeného uterovaginálního kanálu",
+      "b) je definitivně dotvořen již prenatálně",
+      "c) vzniká z nespojených částí Mullerových vývodů",
+      "d) vzniká z nespojených částí Wolfových vývodů"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) vzniká z nespojených částí Mullerových vývodů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Otvor v hymenu",
+    "answers": [
+      "a) vzniká primárně",
+      "b) vzniká sekundárně",
+      "c) vzniká v dorzální části",
+      "d) vzniká až po pohlavním styku"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["b) vzniká sekundárně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Během života ženy dozrávají a ovulují řádově",
+    "answers": [
+      "a) stovky oocytů",
+      "b) desítky oocytů",
+      "c) tisíce oocytů",
+      "d) miliony oocytů"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["a) stovky oocytů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Přeměna plica genitalis v gonádu je primárně",
+    "answers": [
+      "a) podmíněna hormonálně",
+      "b) podmíněna chromosomem Y",
+      "c) podmíněna vcestováním gonocytů",
+      "d) není primárně podmíněna"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) podmíněna vcestováním gonocytů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Mnnžstvíoocytů",
+    "answers": [
+      "a) maxima je dosaženo již prenatálně",
+      "b) maxima je dosaženo v časném neonatálním období",
+      "c) maxima je dosaženo na začátku puberty —",
+      "d) kontinuálně roste až do nástupu ovulace"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["a) maxima je dosaženo již prenatálně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Epoophoron",
+    "answers": [
+      "a) je zbytkem Můllerova vývodu",
+      "b) má jiný původ než paraoophoron",
+      "c) jedná se o slepě končící kanálky paramezonefos",
+      "d) jedná se o slepě končící kanálky mezonefros"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["d) jedná se o slepě končící kanálky mezonefros"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Vagina vzniká",
+    "answers": [
+      "a) pouhým srůstem Mullerových vývodů",
+      "b) proliferací a luminizací ektodermu",
+      "c) proliferací a luminizací vaginální ploténky",
+      "d) pouhou luminizací vaginální ploténky"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) proliferací a luminizací vaginální ploténky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. lesně před ovulacíje velikost folikulu",
+    "answers": [
+      "a) většinou 18-24 mm",
+      "b) většinou do 18 mm",
+      "c) většinou nad 24mm",
+      "d) velmi variabilní"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["a) většinou 18-24 mm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Poruchy diferenciace pohlavních orgánů se projeví",
+    "answers": [
+      "a) vždy na celkovém habitu ženy",
+      "b) pouze v oblasti ženského genitálu",
+      "c) někdy jen jako funkční porucha (např. sterilita či porucha menstruačního cyklu)",
+      "d) pouze v oblasti zevního genitálu"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "c) někdy jen jako funkční porucha (např. sterilita či porucha menstruačního cyklu)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Mezi poruchy sexuální diferenciace nepatří",
+    "answers": [
+      "a) Steinův-IL:venthalův syndrom",
+      "b) Turnérův syndrom",
+      "c) agonadální pseudohermafroditismus",
+      "d) adrenogenitální syndrom"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["a) Steinův-IL:venthalův syndrom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Intersexuální syndromy",
+    "answers": [
+      "a) jsou etiologicky jednotnou skupinou poruch pohlavní diferenciace",
+      "b) jsou synonymem pro poruchy sexuální orientace jedince (např. homosexualita)",
+      "c) jsou ve velké většině podmíněny idiopaticky",
+      "d) jsou skupinou poruch sexuální diferenciace s velmi pestrou etiologií"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "d) jsou skupinou poruch sexuální diferenciace s velmi pestrou etiologií"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Intersexuální malformace",
+    "answers": [
+      "a) jsou synonymem hermafroditismu",
+      "b) jsou charakteristické obojetností genitálu, zpochybňující pohlavní zařazení jedince",
+      "c) jsou skupinou poruch pohlavní diferenciace, do které nespadá adrenogemtální syndrom",
+      "d) jsou malformacemi zevního genitálu ve smyslu opačném, než je pohlaví gonád"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "b) jsou charakteristické obojetností genitálu, zpochybňující pohlavní zařazení jedince"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Principem syndromu testikulární feminizace je",
+    "answers": [
+      "a) přítomnost afunkčních, dystrofických ovarií u jedinců I s ženským karyotypem",
+      "b) přítomnost testes produkujících estrogeny u jedinců s mužským karyotypem",
+      "c) přítomnost dysfunkčních testes u jedinců s ženským karyotypem",
+      "d) chybění periferního receptoru pro androgeny u jedinců s mužským karyotypem"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "d) chybění periferního receptoru pro androgeny u jedinců s mužským karyotypem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Syndrom testikulární feminizace patří do skupiny",
+    "answers": [
+      "a) maskulinnich pseudohermafroditismů",
+      "b) hermafroditismů",
+      "c) feminních pseudohermafroditismů",
+      "d) primárních anovulačních sterilit"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["a) maskulinnich pseudohermafroditismů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Syndrom testikulární feminizace",
+    "answers": [
+      "a) je podmíněn chyběním membránového receptoru pro testosteron v cílových tkáních",
+      "b) lze podle chybění, resp. funkčnosti receptoru pro androgeny (AR) dělit na AR+ a ARc) lze dělit na vlastní testikulární neboli gonadální (GTF) a periferní neboli receptorový (RTF)",
+      "d) je podmíněn kongenitálním enzymatickým deficitem, kdy ve varlatech chybí enzym, konvertující testosteron na biologicky aktivnější dihydrotestosteron"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "b) lze podle chybění, resp. funkčnosti receptoru pro androgeny (AR) dělit na AR+ a ARc) lze dělit na vlastní testikulární neboli gonadální (GTF) a periferní neboli receptorový (RTF)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Exstirpace gonády pro riziko malignizace je nezbytná",
+    "answers": [
+      "a) existuje-li nesoulad mezi chromosomálním a fenotypickým pohlavím",
+      "b) u syndromu čisté gonadální dysgeneze",
+      "c) u syndromu testikulární feminizace pro nebezpečí maligního dysgerminomu nebo seminomu",
+      "d) dojde-li při operaci tříselné kýly u chlapců s Klinefelterovým syndromem к zjištění varlat"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "c) u syndromu testikulární feminizace pro nebezpečí maligního dysgerminomu nebo seminomu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Při operaci tříselně kýly u děvčátek",
+    "answers": [
+      "a) je doporučeno ještě před výkonem vždy vyšetřit karyotyp",
+      "b) je při zjištění varlete v místě kýly hrubou chybou varle exstirpovat",
+      "c) je - při zjištění varlete v místě kýly a karyotypu 46, XX - indikováno odstranění gonád",
+      "d) je - při zjištění varlete v místě kýly -třeba varle reponovat do dutiny břišní"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "a) je doporučeno ještě před výkonem vždy vyšetřit karyotyp"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Současná přítomnost ženské i mužské gonády se nazývá",
+    "answers": [
+      "a) pseudohermaphroditismus femininus, převládá-li funkce ovariální",
+      "b) ovariálně-testikulámí hermafroditismus",
+      "c) bigonadální pseudohermafroditismus",
+      "d) pseudohermafroditismus verus"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["b) ovariálně-testikulámí hermafroditismus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Hermaphroditismus verus",
+    "answers": [
+      "a) lze diagnostikovat pouze na základě histologického ověření nálezu obou typů gonád",
+      "b) je častější poruchou než pseudohermafroditismy",
+      "c) se nikdy nespojuje s karyotypem typu mozaiky (např. 46,XX/46,XY)",
+      "d) je stav, kdy jsou u téhož jedince současně vytvořeny oba typy gonád, avšak u jedné nebo u obou gonád chybí zárodečné (germinativní) elementy"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "a) lze diagnostikovat pouze na základě histologického ověření nálezu obou typů gonád"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Pseudohermaphroditismus femininus",
+    "answers": [
+      "a) je synonymem pro pseudohermafroditismus testikulámí",
+      "b) má svůj původ v graviditě podávaných androgenech, v adrenálním zdroji androgenů, neboje idiopatický",
+      "c) cytogenetické vyšetření zde může odhalit mozaiku 46.XX/46.XY",
+      "d) je vždy idiopatický"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "b) má svůj původ v graviditě podávaných androgenech, v adrenálním zdroji androgenů, neboje idiopatický"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Pro ovariální pseudohermafroditismus",
+    "answers": [
+      "a) jsou charakteristická dysgenetická ovaria, jež je nutné exstirpovat pro riziko malignizace",
+      "b) jsou charakteristická dystrofická vnitřní ženská rodidla",
+      "c) jsou charakteristické peniformní klitoris a labia připomínající skrotum",
+      "d) je charakteristický variabilní výsledek karyotypu"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "c) jsou charakteristické peniformní klitoris a labia připomínající skrotum"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Pseudohermaphroditismus femininusje jinak nazýván",
+    "answers": [
+      "a) pseudohermaphroditismus ovarialis",
+      "b) androgen insensitivity syndrom",
+      "c) pseudohermafroditismus pravý",
+      "d) pseudohermaphroditismus testicularis"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["a) pseudohermaphroditismus ovarialis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Nejběžnějším příkladem ovariálního pseudohermafroditismu je",
+    "answers": [
+      "a) syndrom testikulámí feminizace",
+      "b) Turnérův syndrom",
+      "c) syndrom »superfemale«",
+      "d) adrenogenitální syndrom"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["d) adrenogenitální syndrom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Pseudohermaphroditismus masculinus je porucha sexuální diferenciace u jedinců s",
+    "answers": [
+      "a) karyotypem 46,XX",
+      "b) normálními (často retinovanými) varlaty a zevním genitálem připomínajícím genitál ženský",
+      "c) clitoris peniformis a srostlými labii připomínajícími skrotum",
+      "d) mužským genotypem a dysgenetickými gonádami (ovotestes)"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "b) normálními (často retinovanými) varlaty a zevním genitálem připomínajícím genitál ženský"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Nejběžnějším příkladem testikulárního pseudohermafroditismu je",
+    "answers": [
+      "a) syndrom testikulámí feminizace",
+      "b) syndrom Klinefelterův",
+      "c) syndrom »supermale«",
+      "d) adrenogenitální syndrom"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["a) syndrom testikulámí feminizace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Kongenitální adrenogenitální syndrom",
+    "answers": [
+      "a) je vrozené onemocnění s gonosomálním typem dědičnosti",
+      "b) je nejčastěji podmíněn vrozeným defektem enzymu 11B -hydroxylázy",
+      "c) je autosomálně recesivně dědičný",
+      "d) je typický excesivní tvorbou kortizolu a sekundárním útlumem tvorby adrenokortikotropního hormonu (ACTH)"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) je autosomálně recesivně dědičný"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Kongenitální adrenogenitální syndrom",
+    "answers": [
+      "a) jeho typické symptomy jsou způsobeny nadprodukcí adrenálních kortikoidů",
+      "b) je typickým intersexuálním syndromem: postižené dívky mají normální ženský zevní genitál a dystrofickou gonádu histologicky připomínající tkáň testes",
+      "c) je ve svých projevech na zevních rodidlech podobný syndromu Turnérovu",
+      "d) je typickým příkladem intersexuální malformace: postižené dívky mají normální ženský vnitřní genitál a virilizovaný genitál zevní"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "d) je typickým příkladem intersexuální malformace: postižené dívky mají normální ženský vnitřní genitál a virilizovaný genitál zevní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Kongenitální adrenogenitální syndrom",
+    "answers": [
+      "a) jeho vedoucím znakem v dětství je zrychlený růst",
+      "b) jeho vedoucím znakem v dětství je zpomalený růst",
+      "c) jeho typickým znakem v dospělosti je nadprůměrný vzrůst",
+      "d) se neléčí kortikoidní substitucí"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["a) jeho vedoucím znakem v dětství je zrychlený růst"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Adrenogenitální syndrom",
+    "answers": [
+      "a) představuje vždy ireverzibilní sterilitu postižených dívek, přestože jsou včas a adekvátně léčeny",
+      "b) je příkladem pseudopubertas praecox heterosexualis",
+      "c) je příkladem izosexuální předčasné pseudopuberty",
+      "d) nepatří do skupiny pseudopubertas praecox"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["b) je příkladem pseudopubertas praecox heterosexualis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Maskulinizaci ženského zevního genitálu dělíme",
+    "answers": [
+      "a) do 3 stupňů podle Pradera a Williho",
+      "b) do 5 kategorií podle Tannera",
+      "c) do 5 stupňů podle Pradera",
+      "d) do 3 kategorií podle Jennera"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) do 5 stupňů podle Pradera"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. LOHD (late onset hydroxylase deficiency)",
+    "answers": [
+      "a) nepatří mezi intersexuální syndromy",
+      "b) řadíme к testikulámím pseudohermafroditismům",
+      "c) nelze diagnostikovat pomocí ACTH testu",
+      "d) je méně častou, neklasickou formou adrenální hyperplazie (adrenogenitálního syndromu)"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "d) je méně častou, neklasickou formou adrenální hyperplazie (adrenogenitálního syndromu)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Při managementu pacientek s adrenogenitálním syndromem se gynekolog podílí zejména",
+    "answers": [
+      "a) na hormonální terapii postižených dívek",
+      "b) na preventivně-onkologickém sledování postižených zevních rodidel",
+      "c) na stanovení diagnózy a operační korekci malformovaných zevních rodidel",
+      "d) na chirurgickém odstranění dysgenetických gonád (riziko malignizace)"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "c) na stanovení diagnózy a operační korekci malformovaných zevních rodidel"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Pravá ageneze gonád (agonadismus)",
+    "answers": [
+      "a) je vzácný stav, charakterizovaný mj. úplným nevyvinutím odvodných pohlavních cest, rudimentární pochvou a malformovaným zevním genitálem, jehož důsledkem je úplný sexuální infantilismus",
+      "b) neexistuje; vždy lze nalézt alespoň velmi drobnou, proužkovitou, dysgenetickou gonádu",
+      "c) je vzácný stav, charakterizovaný mj. rudimentárními vejcovody, dělohou a pochvou a malformovaným zevním genitálem, jehož důsledkem je úplný sexuální infantilismus",
+      "d) je zpravidla spojen s karyotypem 46,XX"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "a) je vzácný stav, charakterizovaný mj. úplným nevyvinutím odvodných pohlavních cest, rudimentární pochvou a malformovaným zevním genitálem, jehož důsledkem je úplný sexuální infantilismus"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Tůrnerův syndrom",
+    "answers": [
+      "a) je diagnostikován pomocí cytogenetického vyšetření, které ve 100% odhalí karyotyp 45,X0",
+      "b) je gonosomálně podmíněná vývojová vada vznikající v důsledku absence jednoho X chromosomu",
+      "c) nelze zjistit pomocí moderních metod prenatální diagnostiky (ultrazvuk, amniocentéza)",
+      "d) je (spolu s dalšími chromosomálními aberacemi) prenatálně detekovatelný pomocí biochemického screeningu (triple test)"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "b) je gonosomálně podmíněná vývojová vada vznikající v důsledku absence jednoho X chromosomu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "62. Turnérův syndrom",
+    "answers": [
+      "a) nelze prenatálně diagnostikovat pomocí abnormální hodnoty nuchální translucence (NT)",
+      "b) je v ženské populaci přibližně stejně frekventní jako hyjpeandrogenní syndrom (HAS)",
+      "c) je jedinou známou formou ovariální dysgeneze",
+      "d) je charakteristický přítomností lištovité, dysgenetické, afunkční gonády"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "d) je charakteristický přítomností lištovité, dysgenetické, afunkční gonády"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Ženy s Turnérovým syndromem mají namísto ovaria",
+    "answers": [
+      "a) proužkovitou gonádu tvořenou vazivovými elementy s ostrůvky germinativních elementů",
+      "b) dysgenetické gonády hrozící častým vznikem sarkomu či dysgerminomu",
+      "c) proužkovitou gonádu, kde ani histologicky nelze diferencovat, zda se jedná o ovarium, či testes",
+      "d) nemají žádné gonády (ovariální ageneze)"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "c) proužkovitou gonádu, kde ani histologicky nelze diferencovat, zda se jedná o ovarium, či testes"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Ženy s Turnérovým syndromem",
+    "answers": [
+      "a) mají habitus charakterizovaný malým vzrůstem, řadou somatických anomálií a úplným sexuálním infantiilsmem",
+      "b) nemají signifikantní habitus",
+      "c) nemají časté přidružené malformace uropoetického a kardiovaskulárního aparátu",
+      "d) mají na zevním genitálu časté známky virilizace"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "a) mají habitus charakterizovaný malým vzrůstem, řadou somatických anomálií a úplným sexuálním infantiilsmem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Fertilita žen s Turnerovým syndromem",
+    "answers": [
+      "a) je zcela vyloučena",
+      "b) je vzácně možná u tumeroidního syndromu s mozaikovitým karyotypem",
+      "c) je výjimečně možná i při karyotypu 45,X0",
+      "d) je při adekvátní, včas zahájené hormonální substituční léčbě možná"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "b) je vzácně možná u tumeroidního syndromu s mozaikovitým karyotypem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "66 Hormonální léčba je u žen s Túrnerovým syndromem",
+    "answers": [
+      "a) bezvýznamná",
+      "b) nezbytná pro nastolení normálního menstruačního cyklu a možnost těhotenství",
+      "c) nezbytná mj. pro dosažení normálního vzrůstu a prevenci osteoporózy",
+      "d) obvykle představovaná cyklickým podáváním analog gonadollberinu nebo gonadotropinů"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "c) nezbytná mj. pro dosažení normálního vzrůstu a prevenci osteoporózy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Sterilita žen s Turnérovým syndromem",
+    "answers": [
+      "a) je reverzibilní",
+      "b) je ídiop^^iická",
+      "c) je podmíněná mechanicky (impotentia coeundi)",
+      "d) je většinou řešitelná pouze pomocí metod asistované reprodukce (dárcovství oocytů)"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "d) je většinou řešitelná pouze pomocí metod asistované reprodukce (dárcovství oocytů)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. U syndromu »superfemale«",
+    "answers": [
+      "a) cytogenetické vyšetření odhalí karyotyp 47,XXX, či dokonce 48,XXXX",
+      "b) cytogenetické vyšetření odhalí mozaiku 46,XX/47,XXY",
+      "c) vyšetření nátěru buněk bukální sliznice nezjistí žádné Barrovo tělísko",
+      "d) je typický sexuálním infantilismus a většinou nadprůměrná inteligence"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "a) cytogenetické vyšetření odhalí karyotyp 47,XXX, či dokonce 48,XXXX"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Psychosomatická intersexualita",
+    "answers": [
+      "a) je podmíněná autosomálně recesivně",
+      "b) je konstituční odchylka projevující se zvýrazněnými mužskými sekundárními pohlavními znaky u žen",
+      "c) je gonosomálně podmíněná porucha",
+      "d) se u žen projevuje ochlupením, svalstvem a kostrou mužského typu při typicky výrazném poprsí (mammae pendulae)"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": [
+      "b) je konstituční odchylka projevující se zvýrazněnými mužskými sekundárními pohlavními znaky u žen"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. stupeň virilizace zevního genitálu podle Pradera představuje",
+    "answers": [
+      "a) nejzávažnější stupeň virilizace zevního genitálu u adrenogenitálního syndromu",
+      "b) hypertrofie klitorisu, hypoplastické velké stydké pysky a zúžený poševní vchod",
+      "c) pouhá hypertrofie klitorisu",
+      "d) hypertrofie klitorisu podobná hypospadickému penisu a skrotiformní labia maiora"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN"],
+    "correctAnswers": ["c) pouhá hypertrofie klitorisu"],
+    "description": [""],
+    "img": [""]
+  }
+]

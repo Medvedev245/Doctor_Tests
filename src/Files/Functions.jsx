@@ -86,21 +86,14 @@
 //   //       });
 //   //   };
 //   const text = `
-//   10. Při oogenezi vzniká následující počet plnohodnotných buněk
-//   a) 1
-//   b) 2
-//   c) 3
-//   d) 4
-//   11. Při spermatogenezi vzniká následující počet
-//   plnohodnotných buněk
-//   a) 1
-//   b) 2
-//   c) 3
-//   d) 4
 
 //   `;
 
-//   function parseQuestions(text) {
+//   const answers = ``;
+//   const correctNewAnswers = answers.split(' ');
+//   //   console.log(correctNewAnswers);
+
+//   function parseQuestions(text, correctNewAnswers) {
 //     const questionBlocks = text
 //       .split(/(\d+\.\s+)/)
 //       .filter(Boolean)
@@ -109,6 +102,8 @@
 
 //     for (let i = 0; i < questionBlocks.length; i += 2) {
 //       const questionNumber = questionBlocks[i];
+
+//       //   console.log(questionNumber);
 //       const questionAndAnswers = questionBlocks[i + 1]
 //         .split('\n')
 //         .filter(Boolean);
@@ -117,30 +112,50 @@
 //       const newAnswers = [];
 //       for (const answer of answers) {
 //         if (answer !== '') {
-//           console.log(answer);
 //           newAnswers.push(answer);
 //         }
-//         // console.log(newAnswers);
 //       }
+//       //   console.log(correctNewAnswers);
+//       let MyCorrectNewAnswers;
+
+//       correctNewAnswers.forEach(element => {
+//         // console.log(element);
+//         const leter = element.charAt(element.length - 1);
+//         const numberChar = element.slice(0, -1);
+//         const restOfQ = questionNumber.slice(0, -2); // Получаем все символы до последнего
+//         // console.log('Номер теста - ', numberChar);
+//         // console.log('Номер Вопроса - ', restOfQ);
+//         // console.log(leter);
+
+//         if (numberChar === restOfQ) {
+//           for (let ans of newAnswers) {
+//             const restOfAns = ans.slice(0, 1);
+
+//             if (restOfAns === leter) {
+//               MyCorrectNewAnswers = ans;
+//             }
+//           }
+//         }
+//       });
 
 //       questions.push({
-//         question: questionNumber + question,
+//         question: `${questionNumber + question}`,
 //         answers: newAnswers,
 //         book: ['Živný'], // Пример значения для поля "book"
-//         topic: ['SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY'], // Пример значения для поля "topic"
-//         correctAnswers: [], // Массив с правильными ответами
+//         topic: ['SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - I. ČÁST PREGRADUÚLN'], // Пример значения для поля "topic"
+//         correctAnswers: MyCorrectNewAnswers, // Массив с правильными ответами
 //       });
 //     }
 
 //     return questions;
 //   }
 
-//   const questions = parseQuestions(text);
-//   console.log(questions);
+//   const result = parseQuestions(text, correctNewAnswers);
+//   console.log(result);
 
 //   return (
 //     <div>
-//       {/* {result.length > 0 && (
+//       {result.length > 0 && (
 //         <ul>
 //           {result.map((el, index) => (
 //             <li key={index} style={{ listStyle: 'none' }}>
@@ -157,9 +172,7 @@
 //               </div>
 //               <div>"book": ["{el.book}"],</div>
 //               <div>"topic": ["{el.topic}"],</div>
-//               <div>
-//                 "correctAnswers": ["{el.correctAnswers.join('", "')}"]{','}
-//               </div>
+//               <div>"correctAnswers": ["{el.correctAnswers}"],</div>
 //               <div>"description": ["{el.description}"],</div>
 //               <div>
 //                 <img src={el.img} alt="" />
@@ -169,7 +182,7 @@
 //             </li>
 //           ))}
 //         </ul>
-//       )} */}
+//       )}
 //     </div>
 //   );
 // };
