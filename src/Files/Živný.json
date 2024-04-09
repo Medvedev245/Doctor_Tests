@@ -1085,5 +1085,2962 @@
     "correctAnswers": ["c) pouhá hypertrofie klitorisu"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Rete ovarii",
+    "answers": [
+      "a) je důležitou strukturou pro fertilitu ženy",
+      "b) jsou zbytky medulámích provazců a kanálkůpronefros",
+      "c) jsou zbytky medulámích provazců a kanálkůmezonefros",
+      "d) jsou základem cévního zásobení ovariální tkáně"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) jsou zbytky medulámích provazců a kanálkůmezonefros"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Epitel sliznice poševní a čípku",
+    "answers": [
+      "a) není mezenchymového původu",
+      "b) je z epitelu vaginální ploténky",
+      "c) je jen mezodermového původu",
+      "d) je jen ektodermového původu"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) není mezenchymového původu",
+      "b) je z epitelu vaginální ploténky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Spermiogonie",
+    "answers": [
+      "a) se dělí mitoticky",
+      "b) se dělí meioticky",
+      "c) maximálního počtu dosahují prenatálně",
+      "d) mají diploidní počet chromosomů"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) se dělí mitoticky",
+      "d) mají diploidní počet chromosomů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Ductus paramesonephricus",
+    "answers": [
+      "a) je Mullerův vývod",
+      "b) je Wolffův vývod",
+      "c) kříží Wolffův vývod ventrálně",
+      "d) kříží Mullerův vývod ventrálně"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je Mullerův vývod",
+      "c) kříží Wolffův vývod ventrálně"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Při oogenezi",
+    "answers": [
+      "a) přerušuje primární oocyt dělení v profázi zracího dělení",
+      "b) přerušuje primární oocyt dělení v telofázi zracího dělení",
+      "c) dochází ke kompletnímu ukončení zracího dělení po oplození",
+      "d) vznikají 3-4 plnohodnotné buňky"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) dochází ke kompletnímu ukončení zracího dělení po oplození"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "6. Vyberte správné odpovědi",
+    "answers": [
+      "a) oocyt si uchovává schopnost oplození 12 hodin",
+      "b) oocyt si uchovává schopnost oplození déle než spermie",
+      "c) spermie jsou schopny oplodnit oocyt maximálně po dobu 12 hodin",
+      "d) spermie jsou schopny oplodnit oocyt i za 48 hodin"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) oocyt si uchovává schopnost oplození 12 hodin",
+      "d) spermie jsou schopny oplodnit oocyt i za 48 hodin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Testosteron",
+    "answers": [
+      "a) je produkován Leydigovými buňkami",
+      "b) je důležitý pro zachování Wolffových vývodů",
+      "c) je produkován Sertolliho buňkami",
+      "d) se podílí na zániku Můllerova vývodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je produkován Leydigovými buňkami",
+      "b) je důležitý pro zachování Wolffových vývodů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Labia minora pudendi",
+    "answers": [
+      "a) mají stejný původ jako penilní část mužské uretry",
+      "b) vznikají z nesrostlých uretrálních řas",
+      "c) jsou analogem skrota",
+      "d) vznikají z nesrostlých genitálních valů"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) mají stejný původ jako penilní část mužské uretry",
+      "b) vznikají z nesrostlých uretrálních řas"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Fundus uteri",
+    "answers": [
+      "a) vzniká ze spojeného uterovaginálního kanálu",
+      "b) se definitivně dotváří až postnatálně",
+      "c) vzniká z nespojených částí Mullerových vývodů",
+      "d) vzniká stejným způsobem jako vagina"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) se definitivně dotváří až postnatálně",
+      "c) vzniká z nespojených částí Mullerových vývodů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Zánik Miillerova vývodu souvisí",
+    "answers": [
+      "a) s represivním faktorem",
+      "b) s chromosomem Y",
+      "c) s testosteronem",
+      "d) s pokračováním růstu Wolffova vývodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) s represivním faktorem", "b) s chromosomem Y"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Kortikální reakce",
+    "answers": [
+      "a) probíhá ve vaječníku před ovulací",
+      "b) probíhá po oplození oocytu",
+      "c) zabraňuje vzniku dvojčat",
+      "d) probíhá při každé ovulaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) probíhá po oplození oocytu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Hymen",
+    "answers": [
+      "a) je zbytek vaginální ploténky",
+      "b) je pokryt epitelem jen z jedné strany",
+      "c) odděluje sinus urogenitalis a vagínu",
+      "d) objevuje se až po luminizaci vaginální ploténky"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) odděluje sinus urogenitalis a vagínu",
+      "d) objevuje se až po luminizaci vaginální ploténky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Tzv. ženské prvojádro",
+    "answers": [
+      "a) obsahuje haploidní počet chromosomů",
+      "b) může obsahovat i Y chromosom",
+      "c) obsahuje vždy jeden X chromosom",
+      "d) určuje pohlaví embrya"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) obsahuje haploidní počet chromosomů",
+      "c) obsahuje vždy jeden X chromosom"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Ductus paramesonephricus",
+    "answers": [
+      "a) je Mullerův vývod",
+      "b) je Wolffův vývod",
+      "c) vzniká splynutím kanálků pronefros",
+      "d) je determinován Y chromosomem"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) je Mullerův vývod"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Gonocyty",
+    "answers": [
+      "a) vznikají ve 4 týdnu v zárodečném epitelu",
+      "b) se dělí meioticky",
+      "c) jsou patrny již ve stěně žloutkového váčku",
+      "d) jsou odvozovány od ektodermu"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) jsou patrny již ve stěně žloutkového váčku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Intersexuální malformace znamená",
+    "answers": [
+      "a) zpochybnění pohlavní identifikace jedince",
+      "b) v případě pseudohermafroditismu nesoulad mezi typem gonády a charakterem zevního genitálu",
+      "c) rozpor mezi sexuální identifikací (roh') a sexuální orientací jedince",
+      "d) nesoulad mezi pohlavím chromosomálním, neuroregulačním, gonadálním, fenotypickým, psychosexuálním a legislativním"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) zpochybnění pohlavní identifikace jedince",
+      "b) v případě pseudohermafroditismu nesoulad mezi typem gonády a charakterem zevního genitálu",
+      "d) nesoulad mezi pohlavím chromosomálním, neuroregulačním, gonadálním, fenotypickým, psychosexuálním a legislativním"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Synonymem pro syndrom testikulární feminizace je",
+    "answers": [
+      "a) androgen insensitivity« syndrom",
+      "b) hairless women",
+      "c) agonadální pseudohermafroditismus",
+      "d) pseudohermaphroditismus masculinus"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) androgen insensitivity« syndrom",
+      "b) hairless women"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Při syndromu testikulární feminizace",
+    "answers": [
+      "a) mají varlata insuficientní mužskou endokrinní funkci",
+      "b) varlata produkují MIF (Mullerian inhibiting factor) způsobující bilaterální potlačení rozvoje paramezonefritických vývodů",
+      "c) chybějí v cílových tkáních cytoplazmatické receptory pro dihydrotestosteron",
+      "d) ve varlatech chybí enzym, konvertující testosteron na dihydrotestosteron"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) varlata produkují MIF (Mullerian inhibiting factor) způsobující bilaterální potlačení rozvoje paramezonefritických vývodů",
+      "c) chybějí v cílových tkáních cytoplazmatické receptory pro dihydrotestosteron"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Ovariálně-testikulární hermafroditismus",
+    "answers": [
+      "a) je velice vzácný",
+      "b) u lidského druhu neexistuje",
+      "c) je typický karyotypem 46,XX a tím, že většina těchto jedinců přijme mužskou roli",
+      "d) cytogenetickým vyšetřením lze u části těchto jedinců zjistit mozaiku 46,XX/46,XY"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je velice vzácný",
+      "c) je typický karyotypem 46,XX a tím, že většina těchto jedinců přijme mužskou roli",
+      "d) cytogenetickým vyšetřením lze u části těchto jedinců zjistit mozaiku 46,XX/46,XY"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Ovotestes",
+    "answers": [
+      "a) je termín pro gonády žen s hyperandrogenním syndromem",
+      "b) je termín označující přítomnost ostrůvků testikulární tkáně ve tkáni ovariální",
+      "c) je dysgenetická gonáda typická pro syndrom testikulární feminizace",
+      "d) se nikdy nevyskytují u hermafroditů"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) je termín označující přítomnost ostrůvků testikulární tkáně ve tkáni ovariální"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Karyotyp 46,XX se může vyskytovat u jedinců",
+    "answers": [
+      "a) s ovariálním pseudohermafroditismem",
+      "b) s Turnérovým syndromem",
+      "c) s testikulámím pseudohermafroditismem",
+      "d) s ovariálnn-testikultámím hermafroditismem"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) s ovariálním pseudohermafroditismem",
+      "d) s ovariálnn-testikultámím hermafroditismem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Testikuláimí pseudohermafroditismusje porucha sexuální diferenciace u jedinců",
+    "answers": [
+      "a) s karyotypem 46-XY",
+      "b) s normálními, často retinovanými varlaty",
+      "c) se zevním genitálem připomínajícím genitál ženský",
+      "d) s normálním mužským genotypem, přesto bývají po porodu často mylně označeni za dívky"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) s karyotypem 46-XY",
+      "b) s normálními, často retinovanými varlaty",
+      "c) se zevním genitálem připomínajícím genitál ženský",
+      "d) s normálním mužským genotypem, přesto bývají po porodu často mylně označeni za dívky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Nejčastějším příkladem feminního pseudohermafroditismu je",
+    "answers": [
+      "a) Alportův syndrom",
+      "b) kongenitální adrenální hyperplazie (CAH)",
+      "c) vrozený enzymatický defekt (21-hydroxyláza) s následkem nedostatečné tvorby kortizolu",
+      "d) adrenogenitální syndrom"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) kongenitální adrenální hyperplazie (CAH)",
+      "c) vrozený enzymatický defekt (21-hydroxyláza) s následkem nedostatečné tvorby kortizolu",
+      "d) adrenogenitální syndrom"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. kongenitalni adrenogenitální syndrom",
+    "answers": [
+      "a) je porucha syntézy kortizolu v důsledku autosomální genové mutace",
+      "b) nepatří mezi pseudohermafroditismy",
+      "c) je někdy řazen к agonadálním pseudohermafroditismům",
+      "d) bývá v anglosaské literatuře označován jako kongenitální adrenální hyperplazie (CAH)"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je porucha syntézy kortizolu v důsledku autosomální genové mutace",
+      "c) je někdy řazen к agonadálním pseudohermafroditismům",
+      "d) bývá v anglosaské literatuře označován jako kongenitální adrenální hyperplazie (CAH)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Kongenitalní adrenogenitální syndrom",
+    "answers": [
+      "a) je způsobený idiopatickou nadprodukcí androgenů dřeně nadledvin",
+      "b) je autosomálně dominantně dědičné onemocnění",
+      "c) je typický nedostatečnou tvorbou kortizolu a sekundárně vystupňovanou tvorbou adrenálních androgenů",
+      "d) se mimo jiné projeví primární amenoreou a předčasným uzávěrem epifyzámích štěrbin"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) je typický nedostatečnou tvorbou kortizolu a sekundárně vystupňovanou tvorbou adrenálních androgenů",
+      "d) se mimo jiné projeví primární amenoreou a předčasným uzávěrem epifyzámích štěrbin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. К diagnostice kongenitálního adrenogenitálního syndromu lze využít",
+    "answers": [
+      "a) v první řadě ultrazvuk a laparoskopii",
+      "b) dsxamesazonový supresní test, zejména při diferenciální diagnostice vinlizujících ovariálnich či adrenálních tumorů",
+      "c) hormonální esej, zejména bazální sérové koncentracsl7thydroxytprogesteгonu a močové koncentrace 17-kortikosteroidů",
+      "d) dexametazonový supresní test, nikoli však při diferenciální diagnostice vinlizujících ovanálních či adrenálních tumorů"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) dsxamesazonový supresní test, zejména při diferenciální diagnostice vinlizujících ovariálnich či adrenálních tumorů",
+      "c) hormonální esej, zejména bazální sérové koncentracsl7thydroxytprogesteгonu a močové koncentrace 17-kortikosteroidů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Neklasická, pozdní forma kongenitální adrenální hyperplazie",
+    "answers": [
+      "a) je označována jako LOHD (late onset hydroxylas deficiency)",
+      "b) se většinou manifestuje až v průběhu dospívám a svými projevy může věrně napodobovat hyperandrogenní syndrom, syndrom polycystických ovarií (HAS, PCOS)",
+      "c) je označována jako NCCAH (non classical cortical adrenal hyperplasia)",
+      "d) je výjimečně podmíněna i vrozeným deficitem lB-hydroxylázy"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je označována jako LOHD (late onset hydroxylas deficiency)",
+      "b) se většinou manifestuje až v průběhu dospívám a svými projevy může věrně napodobovat hyperandrogenní syndrom, syndrom polycystických ovarií (HAS, PCOS)",
+      "c) je označována jako NCCAH (non classical cortical adrenal hyperplasia)",
+      "d) je výjimečně podmíněna i vrozeným deficitem lB-hydroxylázy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Exstirpace gonády pro riziko maligního zvratu je nezbytná u",
+    "answers": [
+      "a) Swyerova syndromu",
+      "b) Turnérova syndromu",
+      "c) syndromu folikulámí dysgeneze (syndrom Savageové)",
+      "d) všech pseudohermafroditismů"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) Swyerova syndromu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Exstirpace gonády pro riziko maligního zvratu je nezbytná",
+    "answers": [
+      "a) pouze existuje-li nesoulad mezi chromosomálním a gonadálním pohlavím",
+      "b) u čisté gonadální dysgeneze",
+      "c) u syndromu testikulámí feminizace (nebezpečí maligního dysgerminomu nebo seminomu)",
+      "d) dojde-li při operaci tříselné kýly u děvčátka (a karyotypu 46,XY) к zjištění varlat"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) u syndromu testikulámí feminizace (nebezpečí maligního dysgerminomu nebo seminomu)",
+      "d) dojde-li při operaci tříselné kýly u děvčátka (a karyotypu 46,XY) к zjištění varlat"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Dysgenezi gonád",
+    "answers": [
+      "a) při karyotypu 45,X0 nazýváme Turnérův syndrom",
+      "b) lze zjistit i u jedinců s karyotypem 46,XY (syndrom Swyerův)",
+      "c) lze najít i u žen s karyotypem 46,XX, které se od klasického Turnérova syndromu liší normálním vzrůstem i fertilitou",
+      "d) při karyotypu 46,XX nazýváme čistá gonadální dysgeneze"
+    ],
+    "book": ["Živný"],
+    "topic": ["SEXUÁLNÍ DIFERENCIACE A JEJÍ PORUCHY - II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) při karyotypu 45,X0 nazýváme Turnérův syndrom",
+      "b) lze zjistit i u jedinců s karyotypem 46,XY (syndrom Swyerův)",
+      "d) při karyotypu 46,XX nazýváme čistá gonadální dysgeneze"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Bulbus vestibuli je",
+    "answers": [
+      "a) onemocnění bartholinské žlázy",
+      "b) laické označení zánětu bartholinské žlázy",
+      "c) párová hustá žilní pleteň",
+      "d) je uložen na mons veneris"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) párová hustá žilní pleteň"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Glandulae vestibulares maiores jsou",
+    "answers": [
+      "a) párové mucinózní žlázy velikosti hrášku",
+      "b) části bulbus vestibuli",
+      "c) synonymem velkých stydkých pysků",
+      "d) žlázy klenby poševní"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) párové mucinózní žlázy velikosti hrášku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Po pohlavním styku zůstává z hymen",
+    "answers": [
+      "a) vazivový pruh",
+      "b) otvor uprostřed hymenu",
+      "c) carunculae hymenales",
+      "d) granulační tkáň"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) carunculae hymenales"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Průměrná délka dělohy u dospělé ženy je",
+    "answers": ["a) 14 cm", "b) 8 cm", "c) 6 cm", "d) 4 cm"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) 8 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Poměr délky děložního hrdla a těla dělohy v dětském věku je",
+    "answers": ["a) 4: 1", "b) 2: 1", "c) 3 : 1", "d) 5 :1"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) 2: 1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Děložní hrdlo u nuliparv je",
+    "answers": ["a) soudkovité", "b) hranaté", "c) kónické", "d) ploché"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) kónické"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Nejčastější fyziologické uložení dělohy se označuje jako",
+    "answers": ["a) anteverze", "b) retroverze", "c) reverze", "d) averze"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) anteverze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Tloušťka děložní stěny u ženy ve fertilním věku je průměrně",
+    "answers": ["a) 1,5 cm", "b) 2 cm", "c) 3 cm", "d) 4 cm"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) 1,5 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Svalovinu děložní stěny tvoří",
+    "answers": [
+      "a) systém trámů",
+      "b) systém prstenců",
+      "c) složitý systém spirál",
+      "d) systém uzlů"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) složitý systém spirál"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Retinaculum uteri je",
+    "answers": [
+      "a) soustava vazů, které se na dělohu upínají ve výši vnitřní branky",
+      "b) nervová děložní pleteň",
+      "c) cévní děložní pleteň",
+      "d) lymfatická děložní pleteň"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": [
+      "a) soustava vazů, které se na dělohu upínají ve výši vnitřní branky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Ligamenta Mackenrodti jsou synonymem pro",
+    "answers": [
+      "a) ligamenta sacrouterina",
+      "b) ligamenta cardinalia uteri",
+      "c) ligamenta vesicouterina",
+      "d) ligamenta teretia uteri"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) ligamenta cardinalia uteri"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Ligamenta teretia uteri",
+    "answers": [
+      "a) končí v labia maiora",
+      "b) nekončí v labia maiora",
+      "c) končí na rektu",
+      "d) končí na ovariu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) končí v labia maiora"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. V ligamentum suspensorium ovarii probíhá",
+    "answers": [
+      "a) arteria uterina",
+      "b) arteria ovarica",
+      "c) arteria pudenda",
+      "d) arteria illiaca communis"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) arteria ovarica"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Na mezosalpinx se upíná",
+    "answers": [
+      "a) vaječník",
+      "b) vejcovod",
+      "c) děložní hrdlo",
+      "d) děložní tělo"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) vejcovod"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Přední poševní stěna je",
+    "answers": [
+      "a) delší než zadní poševní stěna",
+      "b) kratší než zadní poševní stěna",
+      "c) stejně dlouhá jako zadní poševní stěna",
+      "d) někdy delší, někdy kratší než zadní poševní stěna"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) kratší než zadní poševní stěna"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Poševní sliznici tvoří",
+    "answers": [
+      "a) přechodný epitel",
+      "b) cylindrický epitel",
+      "c) řasinkový epitel",
+      "d) vícevrstevný dlaždicový epitel"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) vícevrstevný dlaždicový epitel"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Přechod peritonea přední děložní stěny na močový měchýř se označuje jako",
+    "answers": [
+      "a) vezikouterinní junkce",
+      "b) preuterinní vaz",
+      "c) plica vesicouterina",
+      "d) vezikální řasa"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) plica vesicouterina"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Synonymem pro excavatio rectouterina je",
+    "answers": [
+      "a) Douglasův prostor",
+      "b) Mackenrodtův prostor",
+      "c) vezikouterinní prostor",
+      "d) fossa ovarica"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) Douglasův prostor"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Centrum tendineum se nachází",
+    "answers": [
+      "a) na mons veneris",
+      "b) na hrázi",
+      "c) na děloze",
+      "d) na ovariu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) na hrázi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Pánevní kost tvoří",
+    "answers": [
+      "a) pouze os ilium",
+      "b) pouze os ischii",
+      "c) pouze os pubis",
+      "d) os ischii, os ilium, os pubis"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) os ischii, os ilium, os pubis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Tuber ischiadicum je synonymem pro",
+    "answers": [
+      "a) tuberkulózu kosti sedací",
+      "b) hrboly sedací kosti",
+      "c) výrůstek nervus ischiadicum",
+      "d) sedací část hýždí"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) hrboly sedací kosti"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Křížová kost vznikla",
+    "answers": [
+      "a) z jedné části",
+      "b) z lopaty kyčelní kosti",
+      "c) spojením křížových obratlů",
+      "d) spojením obou kyčelních kostí"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) spojením křížových obratlů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Kostrč vznikla",
+    "answers": [
+      "a) srůstem 4-6 kostrčních obratlů",
+      "b) srůstem kostrčních hrbolů",
+      "c) srůstem kostrčního vaziva",
+      "d) jako pozůstatek kostrčního rudimentárního svalu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) srůstem 4-6 kostrčních obratlů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Eminentia retropubica je",
+    "answers": [
+      "a) výčnělek sedací kosti",
+      "b) výčnělek křížové kosti",
+      "c) dorzální výčnělek os pubis",
+      "d) synonymum promontoria"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) dorzální výčnělek os pubis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Pánev jako celek rozdělujeme pro účely porodnictví na",
+    "answers": [
+      "a) malou, střední a velkou pánev",
+      "b) malou a velkou pánev",
+      "c) střední a velkou pánev",
+      "d) kostěnou a chrupavčitou pánev"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) malou a velkou pánev"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Distantia bispinalis je",
+    "answers": [
+      "a) vzdálenost mezi částmi crista iliaca",
+      "b) vzdálenost mezi tubera ischiadica",
+      "c) vzdálenost mezi spinae iliacae supcriores anteriores",
+      "d) vzdálenost mezi velkými trochantery"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": [
+      "c) vzdálenost mezi spinae iliacae supcriores anteriores"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Osa pánevní vznikne",
+    "answers": [
+      "a) spojením středů pánevních rovin",
+      "b) změřením pánevního dna vůči podložce",
+      "c) změřením úhlů ramen stydké kosti",
+      "d) sečtením příčných průměrů"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) spojením středů pánevních rovin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Musculus levator ani je",
+    "answers": [
+      "a) svěrač anu",
+      "b) sval upínající se na promontorium",
+      "c) sval tvořící hlavní část diaphragma pelvis",
+      "d) synonymem pro řitní sval"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) sval tvořící hlavní část diaphragma pelvis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Musculus sphincter urethrae se skládá",
+    "answers": [
+      "a) z cirkulámích vláken",
+      "b) pouze z podélných vláken",
+      "c) ze šikmých vláken",
+      "d) ze šikmých a podélných vláken"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) z cirkulámích vláken"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Musculus levator ani je tvořen",
+    "answers": [
+      "a) jednou částí pars analis",
+      "b) třemi částmi pars analis",
+      "c) pars pubica a pars iliaca",
+      "d) pars cervicalis"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) pars pubica a pars iliaca"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Musculus sphincter ani externusje částí",
+    "answers": [
+      "a) diaphragma pelvis",
+      "b) diaphragma urogenitale",
+      "c) musculus levator ani",
+      "d) musculus transversus perinei superficialis"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) diaphragma pelvis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Musculus sphincter urethrae je součástí",
+    "answers": [
+      "a) diaphragma pelvis",
+      "b) diaphragma urogenitale",
+      "c) musculus transversus perinei superficialis",
+      "d) musculus transversus perinei profundus"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) diaphragma urogenitale"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Musculus bulbo spongiosus",
+    "answers": [
+      "a) začíná na tuber osis ischii",
+      "b) začíná na ventrální části os pubis",
+      "c) začíná na os sacrum",
+      "d) začíná na raphe perinei"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) začíná na raphe perinei"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Musculus ischiocavernosus začíná",
+    "answers": [
+      "a) na os sacrum .",
+      "b) na ventrální části os pubis",
+      "c) na raphe perinei",
+      "d) na tuber osis ischi"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) na tuber osis ischi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Musculus transversus perinei superfícialis končí na",
+    "answers": [
+      "a) centrum tendineum perinei",
+      "b) os pubis",
+      "c) os sacrum",
+      "d) kostrči"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) centrum tendineum perinei"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. U ženy je sklon pánve",
+    "answers": ["a) 45 stupňů", "b) 60 stupňů", "c) 75 stupňů", "d) 90 stupňů"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) 60 stupňů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Tvar pánevní úžiny je",
+    "answers": [
+      "a) elipsovitý",
+      "b) kruhový",
+      "c) obdélníkový",
+      "d) čtvercový"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) elipsovitý"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Pánevní vchod má tvar",
+    "answers": [
+      "a) elipsovv",
+      "b) kruhový",
+      "c) příčně oválný",
+      "d) obdélníkový"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) příčně oválný"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Pánevní dno tvoří",
+    "answers": [
+      "a) vazivo",
+      "b) sval",
+      "c) tuk",
+      "d) svalová a vazivová plotna uzavírající spodinu pánevní"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": [
+      "d) svalová a vazivová plotna uzavírající spodinu pánevní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Diaphragma pelvis má tvar",
+    "answers": ["a) trychtýře", "b) válce", "c) plochý", "d) nemá žádný tvar"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) trychtýře"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Diaphragma pelvis",
+    "answers": [
+      "a) je synonymem diaphragma urogenitale",
+      "b) není synonymem diaphragma urogenitale",
+      "c) je částí bránice",
+      "d) je pouze u nulipar"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) není synonymem diaphragma urogenitale"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Základem pohlavních orgánu ženy je",
+    "answers": [
+      "a) plica genitalis",
+      "b) plica mesonefrica",
+      "c) Můllerův vývod",
+      "d) mezonefros"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) mezonefros"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Miillerův vývod probíhá",
+    "answers": [
+      "a) kraniálně od Wolfova vývodu",
+      "b) pouze po jedné straně Wolfova vývodu",
+      "c) laterálně od Wolfova vývodu",
+      "d) mediálně od Wolfova vývodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) laterálně od Wolfova vývodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Ageneze pochvy znamená",
+    "answers": [
+      "a) chybění pochvy",
+      "b) prodloužení pochvy",
+      "c) zúžení pochvy",
+      "d) zkrácení pochvy"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) chybění pochvy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Při atrézii hymenu vzniká",
+    "answers": [
+      "a) pyometra",
+      "b) hematokolpos",
+      "c) mukometra",
+      "d) inkontinence"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) hematokolpos"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Atrézie pochvy se týká",
+    "answers": [
+      "a) celé pochvy",
+      "b) části pochvy",
+      "c) poševních kleneb",
+      "d) distální části za hymenem"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) celé pochvy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Vagína septa je",
+    "answers": [
+      "a) rozdělena příčným šeptem",
+      "b) rozdělena cirkulámím šeptem",
+      "c) rozdělena podélným šeptem",
+      "d) těsně po porodu běžným nálezem"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) rozdělena podélným šeptem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Uterus subseptus má septum",
+    "answers": [
+      "a) příčné",
+      "b) podélné, částečně rozdělující děložní dutinu",
+      "c) šikmé",
+      "d) trojúhelníkové"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) podélné, částečně rozdělující děložní dutinu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Uterus septus má septum",
+    "answers": [
+      "a) příčné",
+      "b) podélné, úplně rozdělující děložní dutinu; zasahuje až к vnitřní brance",
+      "c) šikmé",
+      "d) kruhové"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": [
+      "b) podélné, úplně rozdělující děložní dutinu; zasahuje až к vnitřní brance"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Uterus didelphysje",
+    "answers": [
+      "a) zdvojení dělohy",
+      "b) zdvojení dělohy a děložního hrdla",
+      "c) zdvojení dělohy, děložního hrdla a pochvy",
+      "d) zdvojení pochvy"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) zdvojení dělohy, děložního hrdla a pochvy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Uterus duplex je",
+    "answers": [
+      "a) zdvojení děložních rohů",
+      "b) zdvojení děložního těla",
+      "c) zdvojení děložního těla a pochvy",
+      "d) zdvojení děložního těla a děložního hrdla"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) zdvojení děložního těla a děložního hrdla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Uterus unicornis je",
+    "answers": [
+      "a) děloha ve tvaru jehlanu",
+      "b) děloha ve tvaru válce s jednostranně chybějícím vejcovodem a rohem děložním",
+      "c) děloha bez děložních rohů",
+      "d) normální děloha"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": [
+      "b) děloha ve tvaru válce s jednostranně chybějícím vejcovodem a rohem děložním"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Atresia ateri je ehaaakk^^irizvvna",
+    "answers": [
+      "a) nepřítomností děložní svaloviny",
+      "b) nepřítomností závěsného aparátu dělohy",
+      "c) malou děložní dutinou",
+      "d) nepřítomností děložní dutiny"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) nepřítomností děložní dutiny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Ovarium accessorium",
+    "answers": [
+      "a) je malé nadpocetné ovarium",
+      "b) je jednostranně zvětšené ovarium",
+      "c) se nevyskytuje",
+      "d) se vyskytuje zcela běžně"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) je malé nadpocetné ovarium"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Kryptomenorea je synonymem pro",
+    "answers": [
+      "a) nepravou primární amenoreu",
+      "b) krvácení do břišní dutiny",
+      "c) krvácení do děložní stěny",
+      "d) krvácení do vejcovodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) nepravou primární amenoreu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Uzlina Sorgiusova má význam v lymfatické drenáži",
+    "answers": ["a) prsu", "b) vulvy", "c) dělohy", "d) ovaria"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Arteria uterina má vzhledem ke gynekologickým operacím velmi důležitý topický vztah",
+    "answers": [
+      "a) к močovému měchýři",
+      "b) к sigmatu",
+      "c) kureteru",
+      "d) к rektu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) kureteru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Corpus luteum menstruationis existuje",
+    "answers": ["a) 28 dní", "b) 10-12 dní", "c) několik měsíců", "d) 5 dní"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) 10-12 dní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Venae ovarica nejčastěji ústí",
+    "answers": [
+      "a) pravá do v. cava inferior, levá do v. renalis sinistra",
+      "b) do v. iliaca intemae",
+      "c) do v. cava inferior",
+      "d) do v. obturatoria"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": [
+      "a) pravá do v. cava inferior, levá do v. renalis sinistra"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Corpus mammae se skládá zpravidla",
+    "answers": [
+      "a) z 5 laloků",
+      "b) z 10-15 laloků",
+      "c) z 15-20 laloků",
+      "d) z více než 20 laloků"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) z 10-15 laloků"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Zevní branka kanálu děložního hrdla má u nulipary tvar",
+    "answers": [
+      "a) podélné štěrbiny",
+      "b) kruhovitý",
+      "c) rozeklaný",
+      "d) příčné štěrbiny"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) kruhovitý"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Děloha dospělé nulipary má hmotnost",
+    "answers": ["a) 10-20 g", "b) 40-50 g", "c) 100-200 g", "d) 200 g a více"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) 40-50 g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Při menses se odlučuje",
+    "answers": [
+      "a) pars basalis endometrii",
+      "b) endometrium s částí myometria",
+      "c) celé endometrium",
+      "d) pars functionalis endometrii"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) pars functionalis endometrii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Vývodů mléčné žlázy na vrcholu bradavky je zpravidla",
+    "answers": ["a) 1", "b) 10", "c) 20", "d) 100 a více"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) 20"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Mezi termíny popisující nejčastější polohu dělohy",
+    "answers": [
+      "nepatří",
+      "a) anteflexe",
+      "b) dextrotorze",
+      "c) anteverze",
+      "d) sinistroverze"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) sinistroverze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Uterus arcuatus je",
+    "answers": [
+      "a) typický pro sterilní ženy",
+      "b) tvar dělohy po enukleaci subserózního myomu ve fundu",
+      "c) normální tvar dělohy",
+      "d) vývojová anomálie dělohy"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) vývojová anomálie dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Vedle arteria uterina je nejdůležitějším zdrojem krevního zásobení dělohy anastomóza s",
+    "answers": [
+      "a) a. vaginalis",
+      "b) a. ovarica",
+      "c) a. vesicalis",
+      "d) a. obturatoria"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) a. ovarica"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Parasympatická inervace dělohy jde z kořenů",
+    "answers": ["a) L3-S,", "b) S,-S5", "c) S2-S4", "d) z celé LS oblasti"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) S2-S4"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Myometrium obsahuje",
+    "answers": [
+      "a) hladká vlákna a příčně pruhovaná vlákna stejně zastoupená",
+      "b) hladká vlákna s malou příměsí příčně pruhovaných vláken",
+      "c) pouze hladká svalová vlákna",
+      "d) hladká vlákna hojně prostoupená vazivem"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) hladká vlákna hojně prostoupená vazivem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Ligamentum teres uteri je synonymem pro",
+    "answers": [
+      "a) chorda uteroinguinalis",
+      "b) ligamentum latum uteri",
+      "c) ligamentum cardinale uteri",
+      "d) ligamentum sacrouterinum"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) chorda uteroinguinalis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Ligamentum teres uteri",
+    "answers": [
+      "a) prochází vždy ingvinálním kanálem",
+      "b) upíná se ke kostrči",
+      "c) někdy prochází ingvinálním kanálem",
+      "d) neprochází ingvinálním kanálem"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) prochází vždy ingvinálním kanálem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Tuba uterina se vyvinula",
+    "answers": [
+      "a) z paraoophoron",
+      "b) z Gartnerova kanálku",
+      "c) z Miillerova vývodu",
+      "d) z Wolffova vývodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) z Miillerova vývodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Labia minora jsou kryta epitelem",
+    "answers": [
+      "a) cylindrickým",
+      "b) kubickým",
+      "c) dlaždicovitým mnohovrstevným",
+      "d) dlaždicovitým jednovrstevným"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["c) dlaždicovitým mnohovrstevným"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Vývod glandulae vestibulares maiores seu Bartholini ústí",
+    "answers": [
+      "a) vedle uretry",
+      "b) do rýhy mezi hymenem a malými pysky",
+      "c) do rýhy mezi malými a velkými pysky",
+      "d) do pochvy"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) do rýhy mezi hymenem a malými pysky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. Crura clitoridis jsou kryta svalem",
+    "answers": [
+      "a) musculus bulbocavemosus",
+      "b) musculus ischiocavemosus",
+      "c) musculus transversus pennei profundus",
+      "d) musculus levator ani"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) musculus ischiocavemosus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Vena iliaca interna je vzhledem к arteria iliaca interna",
+    "answers": ["a) dorzálně", "b) mediálně", "c) ventrálně", "d) laterálně"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) dorzálně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Sliznice uretry je kryta epitelem",
+    "answers": [
+      "a) přechodným",
+      "b) horní část přechodným, dolní pak dlaždicovitým",
+      "c) cylindrickým",
+      "d) dolní část přechodným, horní pak dlaždicovitým"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) horní část přechodným, dolní pak dlaždicovitým"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. Arteria uterina se stýká s ureterem tím způsobem, že",
+    "answers": [
+      "a) se kříží",
+      "b) nestýkají se vůbec",
+      "c) ureter probíhá výrazně mediálně od a. uterina",
+      "d) jdou paralelně"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) se kříží"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Arteria vaginalisje konečnou větví této arterie",
+    "answers": [
+      "a) a. epigastrica inferior",
+      "b) a. uterina",
+      "c) a. pudenda",
+      "d) a. iliaca interna"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) a. uterina"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Arteria clitoridis je konečnou větví této arterie",
+    "answers": [
+      "a) a. pudenda interna",
+      "b) a. vesicalis",
+      "c) a. uterina",
+      "d) a. epigastrica inferior"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) a. pudenda interna"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Délka ureteru je",
+    "answers": [
+      "a) 1(0-15 cm",
+      "b) 20-35 cm",
+      "c) 40-50 cm",
+      "d) 50 cm a více"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["b) 20-35 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. Lumen ureteru je kryto epitelem",
+    "answers": [
+      "a) cylindrickým",
+      "b) dlaždicovým jednovrstevným",
+      "c) dlaždicovým vícevrstevným",
+      "d) přechodným vícevrstevným"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) přechodným vícevrstevným"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Ureter je uložen",
+    "answers": [
+      "a) v horní polovině intraperitoneálně a v dolní polovině extraperitoneálně",
+      "b) v dolní polovině intraperitoneálně a v horní polovině extraperitoneálně",
+      "c) itraperitoneálně",
+      "d) etraperitoneálně"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["d) etraperitoneálně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. Uretra ženy je dlouhá",
+    "answers": ["a) 3-4 cm", "b) 7-8 cm", "c) 10-12 cm", "d) 13-15 cm"],
+    "book": ["Živný"],
+    "topic": ["2. Anatomie, histologie a vývoj ženského reprodukčního systému"],
+    "correctAnswers": ["a) 3-4 cm"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. К základnímu gynekologickému vyšetření nepatří",
+    "answers": [
+      "a) pečlivý rozbor anamnézy a palpačm vyšetření",
+      "b) vyšetření v zrcadlech a palpační vyšetření",
+      "c) laparoskopie",
+      "d) onkologická cytologie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) laparoskopie"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "2 Cervikální hlen jako součást cervikálního faktoru vyšetřujeme při",
+    "answers": [
+      "a) kolpitidě",
+      "b) infertilitě",
+      "c) sterilitě",
+      "d) pánevní bolesti"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) sterilitě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Tažnost cervikálního hlenu je maximální",
+    "answers": [
+      "a) v časné folikulámí fázi",
+      "b) v časné luteální fázi",
+      "c) v pozdní luteální fázi",
+      "d) v preovulaění fázi"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) v preovulaění fázi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Onkologickou cytologii při screeningu karcinomu děložního hrdla odebíráme",
+    "answers": [
+      "a) necíleně z exocervixu a necíleně z endocervixu",
+      "b) cíleně z exocervixu a cíleně z endocervixu",
+      "c) necíleně z exocervixu a cíleně z endocervixu",
+      "d) cíleně z exocervixu a necíleně z endocervixu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) necíleně z exocervixu a necíleně z endocervixu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Mezi kontrastní vyšetřovací metody při vyšetřování mléčné žlázy patří",
+    "answers": [
+      "a) nativní mamografie",
+      "b) xerografie",
+      "c) duktografie",
+      "d) termografie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) duktografie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Bazální teplotu si žena měří",
+    "answers": [
+      "a) 2krát týdně",
+      "b) ob den",
+      "c) denně",
+      "d) jednou v období menstruace, folikulámí fáze, ovulace a luteální fáze"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) denně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Bazální teplotu si žena měří",
+    "answers": [
+      "a) ráno",
+      "b) pravidelně v libovolně zvolenou hodinu",
+      "c) kdykoli před jídlem",
+      "d) večer"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) ráno"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Bazální teplota se neměří",
+    "answers": ["a) vaginálně", "b) axilámě", "c) rektálně ж", "d) orálně"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) axilámě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Před chromopertubací není třeba vyloučit",
+    "answers": [
+      "a) proběhlou salpingitidu",
+      "b) akutní zánět v oblasti pohlavních orgánů",
+      "c) krvácení z dělohy",
+      "d) možnost gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) proběhlou salpingitidu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Veressova jehla se používá",
+    "answers": [
+      "a) к biopsii ovaria",
+      "b) к aspiraci oocytů při in vitro fertilizaci",
+      "c) к punkci Douglasova prostoru",
+      "d) к založení pneumoperitonea při laparoskopii"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) к založení pneumoperitonea při laparoskopii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Křivku bazální teploty lze hodnotit minimálně po",
+    "answers": [
+      "a) jednom cyklu",
+      "b) třech cyklech",
+      "c) dvanácti cyklech",
+      "d) šesti cyklech"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) třech cyklech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Menarché nastává v našich podmínkách průměrně",
+    "answers": [
+      "a) v 10-12 letech",
+      "b) v 8-10 letech",
+      "c) ve 12-13 letech",
+      "d) ve 14-17 letech"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) ve 12-13 letech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Menstruace trvá průměrně",
+    "answers": ["a) 1-2 dny", "b) 2-3 dny", "c) 3-7 dnů", "d) 7-9 dnů"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) 3-7 dnů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Normální krevní ztráta během menstruace je",
+    "answers": [
+      "a) 200-250 ml",
+      "b) 150-200 ml",
+      "c) 100-150 ml",
+      "d) 20-100 ml"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) 20-100 ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Ve folikulární fázi se bazální teploty pohybují maximálně pod",
+    "answers": ["a) 36,9 °C", "b) 36,6 °C", "c) 36,3 °C", "d) 36,0 °C"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) 36,9 °C"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. V průběhu ovulačního cyklu je obvyklý rozdíl mezi minimální a maximální bazální teplotou",
+    "answers": [
+      "a) 0,6-1,2 °C",
+      "b) 0,3-0,6 °C",
+      "c) jakékoli zvýšení",
+      "d) do 0,3 °C"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) 0,3-0,6 °C"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Při funkčním corpus luteum trvá hypertermická fáze minimálně",
+    "answers": ["a) 9 dnů", "b) 7 dnů", "c) 10 dnů", "d) 8 dnů"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) 10 dnů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Indikací к mikroabrazi endometria není",
+    "answers": [
+      "a) porucha menstruačního cyklu",
+      "b) metroragie",
+      "c) sterilita",
+      "d) infertilita"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) metroragie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. O předchozím porodu pacientky nezjišťujeme v anamnéze tento údaj",
+    "answers": [
+      "a) délku porodních dob",
+      "b) způsob ukončení porodu",
+      "c) hmotnost a délku novorozence",
+      "d) průběh šestinedělí"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) délku porodních dob"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Při život ohrožujících akutních stavech odebíráme anamnézu",
+    "answers": [
+      "a) gynekologickou v celém rozsahu",
+      "b) gynekologickou a urologickou",
+      "c) omezujeme se na nejdůležitější údaje týkající se nynějšího onemocnění",
+      "d) vždy v celém rozsahu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": [
+      "c) omezujeme se na nejdůležitější údaje týkající se nynějšího onemocnění"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Při hodnocení buněk v onkologické cytologii jsou nejdůležitější změny",
+    "answers": [
+      "a) plazmatické",
+      "b) buněčné",
+      "c) změny jadérek",
+      "d) jaderné"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) jaderné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Mezi kontraindikace kymoinsuflace nepatří",
+    "answers": [
+      "a) výtok",
+      "b) menstruace či krvácení",
+      "c) předchozí oboustranná operace na vejcovodech",
+      "d) aktuální gynekologický zánět"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) předchozí oboustranná operace na vejcovodech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Hodnocení cervikálního faktoru sterility; v preovulačním období se vlivem estrogenů v cervikálním hlenu tvoří typické krystaly",
+    "answers": ["a) žádné", "b) CaCl2", "c) KC1", "d) NaCl"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) NaCl"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Hodnocení cervikálního faktoru sterility; cervikální hlen je maximálně transparentní v době",
+    "answers": [
+      "a) ovulace",
+      "b) pozdní luteální fáze",
+      "c) časné folikulární fáze",
+      "d) časné luteální fáze"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) ovulace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Při screeningu cervikálního karcinomu se uplatňují následující vyšetřovací metody",
+    "answers": [
+      "a) kolposkopie",
+      "b) punch biopsie",
+      "c) pouze cytologie",
+      "d) cytologie a selektivně HPV testace"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) cytologie a selektivně HPV testace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. К prebioptickým vyšetřovacím metodám při vyšetření děložního hrdla nepatří",
+    "answers": [
+      "a) kolposkopie",
+      "b) cytologie",
+      "c) HPV testace",
+      "d) punch biopsie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) punch biopsie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Kolposkopie je",
+    "answers": [
+      "a) základní screeningová metoda pro diagnostiku děložního hrdla",
+      "b) základní prebioptická metoda pro diagnostiku karcinomu děložního hrdla",
+      "c) je indikována při každém gynekologickém vyšetření",
+      "d) provedení není indikováno při abnormální cytologii"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": [
+      "b) základní prebioptická metoda pro diagnostiku karcinomu děložního hrdla"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Nativní kolposkopii provádíme",
+    "answers": [
+      "a) po aplikaci 3% kyseliny octové",
+      "b) po aplikaci 5% kyseliny octové",
+      "c) po zastavení děložního hrdla",
+      "d) po aplikaci Lugolova roztoku"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) po zastavení děložního hrdla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Collinsova zkouška slouží",
+    "answers": [
+      "a) к detekci patologického ložiska na děložním hrdle",
+      "b) к detekci patologického ložiska v pochvě",
+      "c) к detekci patologického ložiska na vulvě",
+      "d) к detekci patologického ložiska na endocervixu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) к detekci patologického ložiska na vulvě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Při kolposkopii léze na vulvě používáme",
+    "answers": [
+      "a) 3% kyselinu octovou",
+      "b) 5% kyselinu octovu",
+      "c) patentovou modř",
+      "d) Lugolův roztok"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) 5% kyselinu octovu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Nejvýhodnějeím tumorovým markérem při",
+    "answers": [
+      "vyšetření ovariální cyst u starších žen je",
+      "a) Ca 15-3",
+      "b) Ca 19-9",
+      "c) CEA",
+      "d) Ca 125"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) Ca 125"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Při histologickém vyšetření biopsie endometria svědčí pro insufícienci žlutého tělíska časový posun mezi morfologickým vývojem a vypočtenou fází cyklu",
+    "answers": [
+      "a) o více než 1 den",
+      "b) o více než 2 dny",
+      "c) o více než 3 dny",
+      "d) o více než 4 dny"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) o více než 2 dny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Kurcrokův-Millerův test",
+    "answers": [
+      "a) je synonymum pro postkoitální test",
+      "b) slouží к prověření invazivní schopnosti spermií v cervikálním hlenu",
+      "c) shoduje se s Kremerovým testem",
+      "d) Nižně se nepoužívá"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": [
+      "b) slouží к prověření invazivní schopnosti spermií v cervikálním hlenu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. test provádíme",
+    "answers": [
+      "a) při negativním progesteronovém testu",
+      "b) pn pozitivním progesteronovém testu",
+      "c) při pozitivním metoklopramidovém testu",
+      "d) pn negativním metoklopramidovém testu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) při negativním progesteronovém testu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Odběry krve na kontrolu koncentrace prolaktinu se nejlépe provádějí",
+    "answers": [
+      "a) ihned po probuzení",
+      "b) minimálně dvě hodiny po probuzení",
+      "c) v odpoleních hodinách",
+      "d) ve večerních hodinách"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) minimálně dvě hodiny po probuzení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Při hysteroskopii není možné operačně odstranit",
+    "answers": [
+      "a) submukózní myom",
+      "b) subserózní myom",
+      "c) intrauterinní synechie",
+      "d) endometrialní polyp"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) subserózní myom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Pro vyšetření hypofýzy je metodou volby",
+    "answers": ["a) CT", "b) NMR", "c) UZ", "d) rtg tureckého sedla"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) NMR"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Kymoinsuflace patří mezi metody",
+    "answers": [
+      "a) Ienzometrické",
+      "b) endoskopické",
+      "c) prehiopticke",
+      "d) ultrazvukové"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) Ienzometrické"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Po kymoinsuflaci",
+    "answers": [
+      "a) pacientka může ordinaci opustit ihned",
+      "b) do[»iručujeine krátkodobou hospitalizaci",
+      "c) pacientka může opustit ordinaci asi za 30 minut",
+      "d) paccentka může opustit ordinaci asi za 3 hodiny"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) pacientka může opustit ordinaci asi za 30 minut"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Mezi tenzometrické metody nepatří",
+    "answers": [
+      "a) kymoinsuflace",
+      "b) plnicí cystometrie",
+      "c) profilometrie",
+      "d) uroflowmetrie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) uroflowmetrie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Nejvyšší senzitivitu pro záchyt chlamydiové urogenitální infekce mají",
+    "answers": [
+      "a) EIA",
+      "b) DFA",
+      "c) hybridizační metody",
+      "d) amplifikační metody"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) amplifikační metody"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. К endoskopickým metodám nepatří",
+    "answers": [
+      "a) hysteroskopie",
+      "b) laparoskopie",
+      "c) kolposkopie",
+      "d) cystoskopie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) kolposkopie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. К indikacím hysteroskopie nepatří",
+    "answers": [
+      "a) podezření na vývojové anomálie",
+      "b) podezření na endometriózu",
+      "c) podezření na intrauterinní adheze (synechie)",
+      "d) podezření na submukózní myomy a polypy"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) podezření na endometriózu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Při kuldoskopii se endoskop zavádí",
+    "answers": [
+      "a) do peritoneální dutiny zadní poševní klenbou",
+      "b) do pochvy",
+      "c) do močového měchýře",
+      "d) do rekta"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) do peritoneální dutiny zadní poševní klenbou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Vyšetření průchodnosti vejcovodů prováděné v průběhu laparoskopie z indikace sterility se nazývá",
+    "answers": [
+      "a) kymoinsuflace",
+      "b) chromopertubace",
+      "c) hydrotubace",
+      "d) salpingografie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) chromopertubace"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "46 К vyšetřovacím metodám u sterility nepatří",
+    "answers": [
+      "a) hysteroskopie",
+      "b) laparoskopie",
+      "c) kymoinsuflace",
+      "d) kolposkopie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) kolposkopie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Při diagnostické hysteroskopii se jako distenční médium používá",
+    "answers": [
+      "a) metylenová modř",
+      "b) rtg kontrastní látka",
+      "c) bezbarvá tekutina nebo plyn",
+      "d) cévkovaná moč"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) bezbarvá tekutina nebo plyn"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Mezi rtg vyšetřovací metody při vyšetřování mléčné žlázy nepatří",
+    "answers": [
+      "a) termografie",
+      "b) duktografie",
+      "c) cystografie",
+      "d) nativní mamografie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) termografie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Hysteroskopické vyšetření neprovádíme",
+    "answers": [
+      "a) u nuligravid",
+      "b) u těhotných žen",
+      "c) u žen v postmenopauze",
+      "d) u žen užívajících hormonální antikoncepci"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) u těhotných žen"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Základní urologickou anamnézu při neakutním přijetí u gynekologické pacientky odebíráme",
+    "answers": [
+      "a) jen při urologických potížích pacientky",
+      "b) jen při předchozích gynekologických nebo urologických operacích",
+      "c) vždy",
+      "d) jen při předchozích urologických onemocněních"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) vždy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Nykturie znamená",
+    "answers": [
+      "a) časté nucení na močení",
+      "b) pálení a řezání na močení",
+      "c) nutnost jít více než jedenkrát v noci močit",
+      "d) nutnost jít více než třikrát v noci močit"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) nutnost jít více než jedenkrát v noci močit"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. К typickým příznakům urgentní inkontinence nepatří",
+    "answers": [
+      "a) polakisurie",
+      "b) nykturie",
+      "c) dysurie",
+      "d) dyspareunie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) dyspareunie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. O předchozím porodu pacientky zjišťujeme v anamenéze",
+    "answers": [
+      "a) hmotnost a délku novorozence",
+      "b) délku I. porodní doby",
+      "c) délku II. porodní doby",
+      "d) délku III. porodní doby"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) hmotnost a délku novorozence"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Při preventivní gynekologické prohlídce neprovádíme",
+    "answers": [
+      "a) vyšetření mikrobního poševního obrazu",
+      "b) kolposkopii",
+      "c) funkční cytologii",
+      "d) onkologickou cytologii"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) funkční cytologii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Laparoskopický přístup oproti přístupu laparotomickému zpravidla není lepší z hlediska",
+    "answers": [
+      "a) menší pooperační bolesti",
+      "b) celkového pooperačního dyskomfortu",
+      "c) délky operace",
+      "d) délky pooperační rekonvalescence"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) délky operace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Při hodnocení buněk v onkologické cytologii jsou nejdůležitější změny",
+    "answers": [
+      "a) plazmatické",
+      "b) buněčné membrány",
+      "c) změny mitochondrií",
+      "d) změny jader buňky"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) změny jader buňky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Polymorfie znamená",
+    "answers": [
+      "a) rozdílné tvary buněk",
+      "b) změny jader",
+      "c) nestejně velké buňky",
+      "d) změnu nukleoplazmatického poměru"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) rozdílné tvary buněk"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Po zjištění tubární gravidity při laparoskopické diagnostice je standardním řešením",
+    "answers": [
+      "a) laparoskopická adnexektomie",
+      "b) laparoskopická salpingotomie",
+      "c) laparoskopická salpingektomie",
+      "d) laparotomická salpingektomie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) laparoskopická salpingektomie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Vhodným tumorovým markérem pro sledování pacientek po operaci karcinomu děložního hrdla je",
+    "answers": ["a) Ca I25", "b) CEA", "c) Ca I5-3", "d) SCC"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) SCC"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Ca 15-3 se zvyšuje hlavně",
+    "answers": [
+      "a) u karcinomu prsu",
+      "b) u karcinomu jater",
+      "c) u karcinomu děložního hrdla",
+      "d) u ovariálního karcinomu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) u karcinomu prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Fyziologicky je menstruační krvácení nejsilnější",
+    "answers": [
+      "a) I.-2. den",
+      "b) 2.-3. den",
+      "c) stejná intenzita v průběhu celého cyklu",
+      "d) 3.-5. den"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) 2.-3. den"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. V diagnostice ektopické gravidity má největší výpovědní hodnotu",
+    "answers": [
+      "a) údaj o začátku poslední menstruace",
+      "b) výše B-hCG podjednotky",
+      "c) absence intrauterinní gravidity při UZ vyšetření",
+      "d) laparoskopie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) laparoskopie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Nejkratší trvání bifázického cyklu se udává",
+    "answers": ["a) 19 dnů", "b) I7 dnů", "c) 2I dnů", "d) 23 dnů"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) 2I dnů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Při trichomoniáze je makroskopický výtok typicky",
+    "answers": [
+      "a) velmi sporý bílý",
+      "b) řídký pěnivý",
+      "c) tvarohovitý",
+      "d) zelený vazký hustý"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) řídký pěnivý"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. V luteální fázi se bazální teploty pohybují minimálně nad",
+    "answers": ["a) 37,8 °C", "b) 39,2 °C", "c) 36,9 °C", "d) 37,5 °C"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) 36,9 °C"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Při kapavce při vyšetření barveného preparátu nacházíme",
+    "answers": [
+      "a) grampozitivní diplokoky",
+      "b) gramnegativní diplokoky intracelulámě uložené",
+      "c) vibria",
+      "d) úlomky mycélií"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) gramnegativní diplokoky intracelulámě uložené"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Při baktírialní vaginóze zjišťujeme",
+    "answers": ["a) pH < 3,5", "b) pH 3,545", "c) pH > 4,5", "d) pH >6,0"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) pH > 4,5"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Cervikální hlen jako součást cervikálního faktoru vyšetřujeme při",
+    "answers": [
+      "a) kolpitidě",
+      "b) infertilitě",
+      "c) sterilitě",
+      "d) pánevní bolesti"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) sterilitě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Tažnost cervikálního hlenu je maximální",
+    "answers": [
+      "a) v časné folikulíámí fázi",
+      "b) v časné luteální fázi",
+      "c) v pozdní luteální fázi",
+      "d) v preovulační fázi"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) v preovulační fázi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. IgA protilátky",
+    "answers": [
+      "a) jsou slizniční protilátky a v séru je nelze prokázat",
+      "b) jsou v séru přítomny u akutní infekce",
+      "c) mohou být markérem chronicky probíhající infekce",
+      "d) jsou přítomny pouze v séru"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) mohou být markérem chronicky probíhající infekce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Po proběhlé infekci v séru běžně zjišťujeme",
+    "answers": [
+      "a) přítomnost IgM protilátek",
+      "b) přítomnost IgM a IgA protilátek",
+      "c) přítomnost IgG protilátek",
+      "d) přítomnost IgE protilátek"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) přítomnost IgG protilátek"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Bazální teplota se měří",
+    "answers": ["a) vaginálně", "b) axilámě", "c) večer", "d) 2krát denně"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) vaginálně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Křivku bazální teploty lze hodnotit minimálně po",
+    "answers": [
+      "a) jednom roce",
+      "b) třech cyklech",
+      "c) dvanácti cyklech",
+      "d) 14 dnech"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) třech cyklech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Křivka bazálních teplot měřených denně v průběhu menstruačního cyklu prokazuje ovulaci/anovulaci se spolehlivostí",
+    "answers": ["a) 100%", "b) je neprůkazná", "c) «0-95%", "d) 50-80%"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) «0-95%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. Která z uvedených metod nejspolehlivěji určuje protáhlou ovulaci",
+    "answers": [
+      "a) biopsie endometna",
+      "b) měření bazálních teplot",
+      "c) poševní cytologie",
+      "d) vyšetření cervikálního hlenu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) biopsie endometna"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Přítomnost IgM protilátek svědčí pro",
+    "answers": [
+      "a) chronickou infekci",
+      "b) proběhlou infekci",
+      "c) akutní infekci",
+      "d) anamnestické protilátky"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) akutní infekci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Při fyziologické frekvenci menstruačního cyklu a sterilitě provádíme mikroabrazi nejvhodněji",
+    "answers": [
+      "a) při končící menstruaci",
+      "b) 26. den menstruačního cyklu",
+      "c) 16.-21. den menstruačního cyklu",
+      "d) 1. den menstruace"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) 26. den menstruačního cyklu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. Biopsii endometria provádíme",
+    "answers": [
+      "a) v časné folikulámí fázi",
+      "b) v pozdní folikulámí fázi",
+      "c) v časné luteální fázi",
+      "d) v pozdní luteální fází těsně před očekávanou menstruací"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": [
+      "d) v pozdní luteální fází těsně před očekávanou menstruací"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. V průběhu ovulace se v cervikálním hlenu snižuje",
+    "answers": ["a) tažnost", "b) množství", "c) průhlednost", "d) viskozita"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) viskozita"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Kvalitativní průkaz IgG protilátek v séru při diagnostice infekčního onemocněn' znamená",
+    "answers": [
+      "a) přítomnost akutní infekce",
+      "b) přítomnost chronické infekce",
+      "c) anamnestické protilátky",
+      "d) pacient přišel do kontaktu s onemocněním"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) pacient přišel do kontaktu s onemocněním"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Hodnocení cervikálního faktoru sterility. Vzhled zevní branky, tzv. »fenomén zračky«. Zevní branka je cyklicky maximálně rozšířena v období",
+    "answers": [
+      "a) ovulace",
+      "b) menstruace",
+      "c) luteální fáze",
+      "d) časné folikulá^ní fáze"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) ovulace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. Hodnocení cervikálního faktoru sterility. Cervikální hlen je maximálně transparentní v době",
+    "answers": [
+      "a) ovulace",
+      "b) pozdní luteální fáze",
+      "c) časné folikulámí fáze",
+      "d) časné luteální fáze"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["a) ovulace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Hodnocení cervikálního faktoru sterility. Vyšetření cervikálního hlenu. Jeho viskozita je nejnižší",
+    "answers": [
+      "a) v časné luteální fázi",
+      "b) v době ovulace",
+      "c) v pozdní luteální fázi",
+      "d) v časné folikulámí fáz"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["b) v době ovulace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. Coeliskopie je",
+    "answers": [
+      "a) jiný název pro hysteroskopii",
+      "b) jiný název pro laparoskopii",
+      "c) název pro laparoskopii a kuldoskopii",
+      "d) jiný název pro kuldoskopii"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) název pro laparoskopii a kuldoskopii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "85. Lokalizaci stenózy nebo uzávěru istmu vejcovodu určíme nejpřesněji při",
+    "answers": [
+      "a) laparoskopii",
+      "b) hysteroskopii",
+      "c) kombinaci laparoskopie a hysteroskopie",
+      "d) hysterosalpingografii"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["d) hysterosalpingografii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "86. Hodnocení cervikálního faktoru sterility. Pokles viskozity cervikálního hlenu předchází zvýšení bazální teploty",
+    "answers": ["a) o 10 dnů", "b) o 5 dnů", "c) o 3 dny", "d) o 1 den"],
+    "book": ["Živný"],
+    "topic": ["3. Vyšetřovací metody v gynekologii. I. část"],
+    "correctAnswers": ["c) o 3 dny"],
+    "description": [""],
+    "img": [""]
   }
 ]
