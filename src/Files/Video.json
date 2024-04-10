@@ -7,7 +7,10 @@
     "description": [
       "Posláním FN Motol je léčit nemocné na podkladě současných poznatků lékařské vědy a zajišťovat svým klientům komplexní a kvalitní vysoce specializovanou péči pro všechny fáze lidského života. Poslání shrnuje heslo: sloužíme generacím. Vizí do budoucnosti je učinit z nemocnice „vlajkovou loď“ českého zdravotnictví v oblasti všeobecné i specializované péče. Efektivní systém řízení nemocnice včetně plánu kontinuálního zvyšování kvality je pro naplnění poslání i vize nezbytný. Poskytuje základní, specializovanou a superspecializovanou zdravotní péči a služby v lékařských oborech, formou ambulantní a lůžkové péče pro děti, dospělé a seniory. "
     ],
-    "img": [""]
+    "smallDescr": "Fakultní nemocnice v Motole. Pohledy na moderní medicínu a další zajímavosti. Přednášky, videa.",
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczOGY-Ielx68hovanJoilVPQgOwMeN50-pCkik9j7ROO4ulU8iAlaCtyeEfAvTUpYAC0HIgeoyzIjFCtrnC-D4Ky7hYeIpbm0-LUJp3uNCpLcbr_TJwGhAvkMHZ6iTHMlo3CoDah78DLLBXSkC-7RGLU=w1921-h1082-s-no-gm?authuser=0"
+    ]
   },
   {
     "channel": "Markéta Vojtová",
@@ -17,6 +20,7 @@
     "description": [
       "Samotné prezentace naleznete na webových stránkách - https://sites.google.com/view/vojtovamarketa-studentum/index"
     ],
+    "smallDescr": "Přednášky na téma: Výživa a dietetika, Klinická propedeutika, Vnitřní lékařství.",
     "img": [""]
   },
   {
@@ -27,6 +31,7 @@
     "description": [
       "Vzděláváme širokou veřejnost a usnadňujeme studium nejen medikům, ale i ostatním studentům zdravotnických oborů zajímavými příspěvky ze světa medicíny."
     ],
+    "smallDescr": "Krátká videa v jasném jazyce, ne pro lékaře).",
     "img": [""]
   },
   {
@@ -37,6 +42,7 @@
     "description": [
       "ČIS na YouTube sdílí vzdělávací obsah pro lékaře a odborníky v oboru vnitřní lékařství."
     ],
+    "smallDescr": "Skvělý YouTube kanál. Průměrná délka přednášek 15 minut. Interna, kardiologie a mnoho dalšího...",
     "img": [""]
   },
   {
@@ -45,14 +51,16 @@
     "link": "https://www.youtube.com/@decoiledbycoiled8777",
     "id": "@decoiledbycoiled8777",
     "description": ["Medicine decoiled by Coiled. Medical lectures."],
+    "smallDescr": "Přednášky na různá lékařská témata. To nejlepší před ústní zkouškou!",
     "img": [""]
   },
   {
     "channel": "RA1799RA",
     "channelName": "@RA1799RA",
-    "link": "https://www.youtube.com/@RA1799RA",
+    "link": "https://www.youtube.com/playlist?list=PL2rnVM3Rz8KO4PBNfe_SEb6mITBo-fAOl",
     "id": "@RA1799RA",
     "description": ["Medicine decoiled by Coiled. Medical lectures."],
+    "smallDescr": "49 Přednášky IPVZ. Přednášky v rámci přípravy k ústní zkoušce. Doporučujeme!",
     "img": [""]
   },
   {
@@ -63,6 +71,7 @@
     "description": [
       "POSTUDIUM je oficiální portál Lékařské fakulty v Plzni pro postgraduální vzdělávání"
     ],
+    "smallDescr": "POSTUDIUM je oficiální portál Lékařské fakulty v Plzni pro postgraduální vzdělávání.",
     "img": [""]
   }
 ]
