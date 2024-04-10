@@ -27,7 +27,7 @@ export const CanalElement = styled.li`
   padding: 15px;
   text-align: center;
   width: 250px;
-  min-height: 270px;
+  min-height: 320px;
   background-color: var(--iq-underlining);
   /* background-image: url('https://lh3.googleusercontent.com/pw/AP1GczOGY-Ielx68hovanJoilVPQgOwMeN50-pCkik9j7ROO4ulU8iAlaCtyeEfAvTUpYAC0HIgeoyzIjFCtrnC-D4Ky7hYeIpbm0-LUJp3uNCpLcbr_TJwGhAvkMHZ6iTHMlo3CoDah78DLLBXSkC-7RGLU=w1921-h1082-s-no-gm?authuser=0'); */
   color: black;

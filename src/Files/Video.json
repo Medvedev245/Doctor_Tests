@@ -73,5 +73,16 @@
     ],
     "smallDescr": "POSTUDIUM je oficiální portál Lékařské fakulty v Plzni pro postgraduální vzdělávání.",
     "img": [""]
+  },
+  {
+    "channel": "Lékařská fakulta v Plzni",
+    "channelName": "@lfp_unikarlova",
+    "link": "https://www.youtube.com/@lfp_unikarlova/playlists",
+    "id": "@lfp_unikarlova",
+    "description": [
+      "Karlova univerzita, jedna z nejstarších ve střední Evropě, byla založena v Praze v roce 1348 českým králem a císařem římským Karlem IV. Během staletí se rozvinula do světoznámé vědecké a vzdělávací instituce, která se skládá ze sedmnácti fakult, z toho pět je lékařských, z nichž jedna je v Plzni. Lékařská fakulta v Plzni byla založena dekretem presidenta republiky dr. Edvarda Beneše č. 135 ze dne 27. října 1945. Ze skromných začátků vyrostla plzeňská lékařská fakulta v moderní vysokou školu, na níž již vystudovalo téměř 10 000 lékařů působících v celé republice i v zahraničí a 500 absolventů bakalářského studia. Momentálně studuje na fakultě více jak 2000 studentů, z toho cca 500 cizinců."
+    ],
+    "smallDescr": "Oficiální YouTube kanál Lékařské fakulty v Plzni Univerzity Karlovy",
+    "img": [""]
   }
 ]
