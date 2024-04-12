@@ -4042,5 +4042,1046 @@
     "correctAnswers": ["c) o 3 dny"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Věk pacientky, u níž naměříme délku dělohy 25 mm a poměr délky děložního těla a děložního hrdla je 1 k 2,je nejpravděpodobněji",
+    "answers": ["a) 6 let", "b) 14 let", "c) 24 let", "d) 64 let"],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["a) 6 let"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Délka děložního hrdla u nuligravid je obvykle",
+    "answers": ["a) 0,5-1 cm", "b) 2-3 cm", "c) 4-5 cm", "d) 6-7 cm"],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) 2-3 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Ve srovnání se zadní poševní stěnou je přední stěna",
+    "answers": ["a) delší", "b) kratší", "c) stejně dlouhá", "d) širší"],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) kratší"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Primordiálních folikulů perzistujících do dospělosti a progredujících do ovulace je",
+    "answers": ["a) 100-200", "b) 300-400", "c) 600-700", "d) více než 1000"],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) 300-400"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Zralý folikul, který praskne při ovulaci, se nazývá",
+    "answers": [
+      "a) preantrální folikul",
+      "b) Graafův folikul",
+      "c) corpus luteum",
+      "d) corpus albicans"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) Graafův folikul"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Při podélném řezu dělohou sekreční endometrium charakterizuje",
+    "answers": [
+      "a) obraz dvou souběžných linií",
+      "b) obraz tří souběžných linií",
+      "c) obraz homogenní hyperechogenní",
+      "d) obraz homogenní hypoechogenní"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) obraz tří souběžných linií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Ultrazvukový (UZ) obraz vysoké nehomogenní sliznice může z uvedených možností odpovídat",
+    "answers": [
+      "a) karcinomu endometria",
+      "b) prosté hyperplazii endometria",
+      "c) atypické hyperplazii endometria",
+      "d) všechny uvedené možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["d) všechny uvedené možnosti jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Za normální výšku děložní sliznice v období postmenopauzy je považována hodnota",
+    "answers": ["a) do 2 mm", "b) do 3 mm", "c) do 4 mm", "d) do 5 mm"],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["c) do 4 mm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Pro začínající intrauterinní graviditu je v ultrazvukovém obraze typická přítomnost",
+    "answers": [
+      "a) vysoké homogenní sliznice, uvnitř hypoechogenní kavitace s hyperechogenním lemem",
+      "b) vysoké homogenní sliznice, uvnitř hyperechogenní kavitace s hypoechogenním lemem",
+      "c) nízké nemohogenní sliznice bez kavitace",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": [
+      "a) vysoké homogenní sliznice, uvnitř hypoechogenní kavitace s hyperechogenním lemem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Přijde-li žena к ultrazvukovému vyšetření, hodnota B-hCG je 450 IU/1, vedle dělohy se zobrazuje vitální extrauterinní gravidita, pak kavitaci uvnitř děložní sliznice nazýváme",
+    "answers": [
+      "a) gestaění váček",
+      "b) pseudogestační váček",
+      "c) folikul",
+      "d) cysta"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) pseudogestační váček"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Přijde-li žena к ultrazvukovému vyšetření",
+    "answers": [
+      "s amenoreou, může být její příčinou",
+      "a) extrauterinní gravidita",
+      "b) intrauterinní gravidita",
+      "c) cysta ovaria",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["d) všechny možnosti jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Přijde-li žena к ultrazvukovému vyšetřen', mápravidelné menses, B-hCG je negativn', udává bolesti v podbřišku a oboustranně vedle dělohy se zobrazuj' vinuté tubulárn' struktury maximální šířky 15 mm, jedná se nejpravděpodobněji o",
+    "answers": [
+      "a) cystu ovaria",
+      "b) extrautennni graviditu",
+      "c) intrauterinní graviditu",
+      "d) oboustranný hydrosalpinx"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["d) oboustranný hydrosalpinx"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. UZ tizualizace gravidity - gestačního váčku začíná",
+    "answers": [
+      "a) od 5. týdne gravidity podle poslední menstruace (PM)",
+      "b) od 6. týdne gravidity podle PM",
+      "c) od 7. týdne gravidity podle PM",
+      "d) od 4. týdne gravidity podle PM"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": [
+      "a) od 5. týdne gravidity podle poslední menstruace (PM)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. UZ vizualizace embryonálního pólu začíná od",
+    "answers": [
+      "a) 4 týdne gravidity po^le poslední menstruace (PM)",
+      "b) 5 týdne gravidity podle PM",
+      "c) 6 týdne gravidity podle PM",
+      "d) 7 týdne gravidity podle PM"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["c) 6 týdne gravidity podle PM"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Srdeční akci je možno registrovat na embryonálním pólu od",
+    "answers": [
+      "a) 5. týdne gravidity podle poslední menstruace (PM)",
+      "b) 6 týdne gravidity podle PM",
+      "c) 7 týdne gravidity podle PM",
+      "d) 8 týdne gravidity podle PM"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) 6 týdne gravidity podle PM"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Velikost embrya je v 7. týdnu gravidity podleposlední menstruace (PM) přibližně",
+    "answers": ["a) 3mm", "b) 5mm", "c) 9mm", "d) 14mm"],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["d) 14mm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Pro dataci gravidity má největší přínos",
+    "answers": [
+      "a) měření temenokostrční délky embrya ultrazvukem",
+      "b) stanovení stáří těhotenství podle data poslední ř menstruace",
+      "c) stanovení stáří těhotenství podle posledních pohybů",
+      "d) stanovení stáří těhotenství podle prvních pohybů"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["a) měření temenokostrční délky embrya ultrazvukem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Pro ultrazvukové stanovení stáří těhotenství má největší význam",
+    "answers": [
+      "a) měření velikosti žloutkového váčku",
+      "b) měření temenokostrční délky embrya",
+      "c) měření velikosti pseudogestačmho váčku",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) měření temenokostrční délky embrya"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Je-li stáří těhotenství podle poslední menstruace 8 týdnů, je patrný prázdný gestační váček, nejsou patrné embryonální struktury, hovoříme o",
+    "answers": [
+      "a) cystě",
+      "b) afetálním plodovém vejci",
+      "c) úplném potratu",
+      "d) hematomu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) afetálním plodovém vejci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Je-li stáří těhotenství podle PM 8 týdnů, v dutině děložní je patrné embryo o kraniokaudálním rozměru (CRL) 9 mm a není patrná srdeční akce, jde o",
+    "answers": [
+      "a) vitální graviditu",
+      "b) extrauterinní graviditu",
+      "c) zamlklý potrat",
+      "d) afetální plodové vejce"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["c) zamlklý potrat"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Ultrazvuk je zvukové vlnění, jehož frekvence se pohybuje v těchto hodnotách",
+    "answers": [
+      "a) 1 Hz - 16 Hz",
+      "b) 16 Hz-16 kHz",
+      "c) 16kIfc-lGHz",
+      "d) 16 GHz a více"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["c) 16kIfc-lGHz"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Z uvedených možností se nejrychleji šíří ultrazvukové vlnění v prostředí",
+    "answers": ["a) tuku", "b) kapaliny", "c) vzduchu", "d) kosti"],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["d) kosti"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Nejčastěji používané frekvence ultrazvukových sond jsou",
+    "answers": ["a) 5-15 GHz", "b) 5-15 kHz", "c) 2-5 Hz", "d) 2,5-7,5 MHz"],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["d) 2,5-7,5 MHz"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Struktura kulovitého tvaru, která zajišťuje výživu embrya v časném stadiu gravidity, se nazývá",
+    "answers": [
+      "a) gestační váček",
+      "b) žloutkový váček",
+      "c) pseudogestačm váček",
+      "d) děložní váček"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) žloutkový váček"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Žloutkový váček je extraembryonální struktura, která by měla být spolehlivě vizualizovaná při ultrazvukovém vyšetření od",
+    "answers": [
+      "a) 8. týdne gravidity",
+      "b) 4 týdne gravidity",
+      "c) 7 týdne gravidity",
+      "d) 10 týdne gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["c) 7 týdne gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. UZ obraz zamlklého potratu v 10. týdnu gravidity nejlépe vystihuje toto tvrzení",
+    "answers": [
+      "a) gestační váček, který neobsahuje embryo",
+      "b) gestační váček, který obsahuje embryo, srdeční akce není patrná",
+      "c) dutina děložní obsahuje nehomogenní hmoty",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": [
+      "b) gestační váček, který obsahuje embryo, srdeční akce není patrná"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Nejdůležitější známkou vitality embrya je v prvním trimestru",
+    "answers": [
+      "a) pulzace žloutkového váčku",
+      "b) srdeční akce",
+      "c) nepřítomnost periovulámího hematomu",
+      "d) přítomnost žloutkového váčku"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) srdeční akce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Na diagnózu hydatidózní moly nás z uvedených možností nejvíce může v ultrazvukovém obraze upozornit přítomnost",
+    "answers": [
+      "a) nízké sliznice děložní neostře ohraničené proti myometriu",
+      "b) vysoké sliznice děložní, uvnitř patrná jedna kavitace",
+      "c) mnohočetných odrazů v dutině děložní (obraz «sněhové bouře«) a přítomnost thekaluteinních cyst ovarií",
+      "d) přítomnost volné tekutiny v Douglasově prostoru"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": [
+      "c) mnohočetných odrazů v dutině děložní (obraz «sněhové bouře«) a přítomnost thekaluteinních cyst ovarií"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. UZ obraz neúplného potratu v 10. týdnu gravidity nejlépe vystihuje tvrzení",
+    "answers": [
+      "a) gestační váček, který neobsahuje embryo",
+      "b) přítomnost hojných nepravidelných struktur v dutině děložní",
+      "c) gestační váček, který obsahuje embryo bez srdeční akce",
+      "d) přítomnost periovulámího hematomu kolem gestačního váčku s vitálním embryem"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": [
+      "b) přítomnost hojných nepravidelných struktur v dutině děložní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Normální lokalizace gravidity je",
+    "answers": [
+      "a) cervikální",
+      "b) tubám",
+      "c) intrauterinní",
+      "d) extrauterinní"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["c) intrauterinní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Při UZ vyšetření se vpravo od dělohy zobrazuje jednokomorový hypoechogenní tenkostěnný útvar velikosti 80mm; nejpravděpodobněji jde o",
+    "answers": [
+      "a) močový měchýř",
+      "b) rektum",
+      "c) cystu ovaria",
+      "d) extrauterinní graviditu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["c) cystu ovaria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Při UZ vyšetření malé pánve se zobrazuje vlevo od dělohy nepravidelný vícekomorový cystický útvar o průměru asi 120 mm, septa jsou různě silná, navíc jsou přítomny prominence do lumen cyst; mohlo by pravděpodobně jít o",
+    "answers": [
+      "a) rektum",
+      "b) ovariální tumor",
+      "c) prostou cystu ovaria",
+      "d) Graafův folikul"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) ovariální tumor"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Při UZ vyšetření malé pánve se zobrazuje vpravo od dělohy nepravidelný anizoechogenní útvar největšího průměru asi 75 mm; diferenciálně diagnosticky je potřeba pomýšlet na",
+    "answers": [
+      "a) zánětlivý adnextumor",
+      "b) ovariální tumor",
+      "c) pánevní formu aktinomykózy",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["d) všechny možnosti jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. S přítomností ascitu se nejčastěji setkáváme",
+    "answers": [
+      "a) u prosté ovariální cysty",
+      "b) u tubámí gravidity",
+      "c) u ovariálních tumorů",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["c) u ovariálních tumorů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Ascites se při ultrazvukovém vyšetření zobrazuje jako odraz",
+    "answers": [
+      "a) hypoechogenní",
+      "b) hyperechogenní",
+      "c) nehomogenní",
+      "d) homogenní"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["a) hypoechogenní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Ascites se nejčastěji vyskytuje v těchto případech",
+    "answers": [
+      "a) u ovariálních tumorů",
+      "b) u pokročilých stadií nádorů děložního těla a hrdla",
+      "c) u mimoděložních těhotenství",
+      "d) u prostých ovariálních cyst"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["a) u ovariálních tumorů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Děloha se při ultrazvukovém vyšetření zobrazuje asymetricky zvětšená, vyplněná četnými kulovitými útvary podobné echogenity jako myometrium; nejpravděpodobněji jde o",
+    "answers": [
+      "a) cysty dělohy",
+      "b) myomy dělohy",
+      "c) folikuly",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) myomy dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Nuchální translucence -šíjové projasnění plodu - je markérem",
+    "answers": [
+      "a) chromosomální aberace plodu",
+      "b) vrozené oční vady plodu",
+      "c) vrozené vady uropoetického aparátu plodu",
+      "d) hydropsu plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["a) chromosomální aberace plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Nuchální translucence -šíjové projasnění plodu - je možné měřit",
+    "answers": [
+      "a) jen sondou transabdominální",
+      "b) jen sondou transvaginální",
+      "c) jen sondou transvaginální 7 MHz",
+      "d) sondou transvaginální i transabdominální"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["d) sondou transvaginální i transabdominální"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Nuchální translucence -šíjové projasnění plodu - se měří vždy v rovině",
+    "answers": [
+      "a) přísně frontální",
+      "b) přísně transverzální",
+      "c) přísně sagitální",
+      "d) transverzální i sagitální"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["c) přísně sagitální"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Struktura kulovitého tvaru uvnitř plodového vejce propojená s embryem a zajišťujícíjeho »výživu« v raných stadiích gravidity se nazývá",
+    "answers": [
+      "a) gestační váček",
+      "b) gestační folikul",
+      "c) žloutkový váček",
+      "d) žloutková kulička"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["c) žloutkový váček"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Žena přichází к UZ vyšetření pro amenoreu, B-hCG je 1000 IU/1, vedle dělohy se zobrazuje nehomogenní útvar o průměru 45 mm, v děložní dutině je vysoká homogenní sliznice; diferenciálně diagnosticky je nutno pomýšlet nejvíce na",
+    "answers": [
+      "a) cystu ovaria",
+      "b) extrauterinní graviditu",
+      "c) myom",
+      "d) ektopickou ledvinu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) extrauterinní graviditu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Které tvrzení nejlépe charakterizuje ultrazvukový obraz afetálního plodového vejce v",
+    "answers": [
+      "a) vděložní dutině je patrný gestační váček, v němembryo se srdeční akcí",
+      "b) vděložní dutině je patrný gestační váček, v němembryo bez srdeční akce",
+      "c) vděložní dutině je prázdný gestační váček, nejsoupatrné žádné embryonální struktury",
+      "d) v děložní dutině je prázdný žloutkový váček, nejsoupatrné žádné embryonální struktury"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": [
+      "c) vděložní dutině je prázdný gestační váček, nejsoupatrné žádné embryonální struktury"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Které tvrzení nejlépe charakterizuje ultrazvukový obraz zamlklého potratu v",
+    "answers": [
+      "a)'Vděložní dutině je patrný gestační váček, v němembryo se srdeční akcí, patrný periovulámí hematom",
+      "b) v děložní dutině je patrný gestační váček, v němembryo bez srdeční akce",
+      "c) v děložní dutině je patrný žloutkový váček, v němembryo bez srdeční akce",
+      "d) děložní dutina obsahuje nehomogenní hmoty"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": [
+      "b) v děložní dutině je patrný gestační váček, v němembryo bez srdeční akce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Které tvrzení nejlépe charakterizuje ultrazvukový obraz neúplného potratu v",
+    "answers": [
+      "a) Vděložní dutině jsou patrné hojné nehomogenníhmoty",
+      "b) v děložní dutině je patrný gestační váček s embryembez srdeční akce",
+      "c) v děložní dutině je patrný žloutkový váček s embryembez srdeční akce",
+      "d) v děložní dutině je patrný gestační váček s periovulárním hemattomem a živým embryem"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["a) Vděložní dutině jsou patrné hojné nehomogenníhmoty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Děložní myomy mohou být ve stěně děložníuloženy",
+    "answers": [
+      "a) submukózně",
+      "b) subseróz.ně",
+      "c) 'intramurálně",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["d) všechny možnosti jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Prostá ovariální cysta s tekutým obsahem sezobrazuje jako",
+    "answers": [
+      "a) kulovitý tenkostěnný útvar s prominencemi do lumen,obsah dutiny je hyperechogenní",
+      "b) kulovitý tenkostěnný útvar s hypoechogennímI obsahem",
+      "c) nepravidelný útvar, homogenní hyperechogenníobsah",
+      "d) kulovitý útvar stejné echogenity jako myometrium"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": [
+      "b) kulovitý tenkostěnný útvar s hypoechogennímI obsahem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. V oblasti přední stěny děložníje uložen solitérní myom, při podélném řezu dělohou je výrazně deformována linie endometrium-myometrium, myom je tedy velmi pravděpodobně uložen",
+    "answers": [
+      "a)i Wbserózně",
+      "b) intraligamentóónn",
+      "c) jl SJbmutóz^",
+      "d) intramurálně"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["c) jl SJbmutóz^"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Nejníže uložené místo v ženské pánvi, kde se nejčastěji hromadí volná tekutina, nazýváme",
+    "answers": [
+      "a) Douglasův prostor",
+      "b) vezikouterinní prostor",
+      "c) fossa ischiorectaJis",
+      "d) odpovědi a) i b) označují totožnou oblast"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["a) Douglasův prostor"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Struktura, která je u plodů měřena mezi 11 až 14 týdnem gravidity a je důležitým ultrazvukovým markérem aneuploidií a strukturálních vrozených vad plodu, se nazývá",
+    "answers": [
+      "a) obličejové projasnění",
+      "b) šíjové projasnění",
+      "c) temenní projasnění",
+      "d) stínové projasnění"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) šíjové projasnění"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Periovulární hematom se v ultrazvukovém obraze vyskytuje nejčastěji",
+    "answers": [
+      "a) v hyperechogenním prostoru kolem plodového vejce",
+      "b) v hypoechogenním prostoru kolem plodového vejce",
+      "c) v hypoechogenním prostoru kolem žloutkového váčku",
+      "d) v hyperechogenním prostoru kolem žloutkového váčku"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "correctAnswers": ["b) v hypoechogenním prostoru kolem plodového vejce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1. Část děložní stěny, kterou není možno při ultrazvukovém vyšetřen' rozpoznat,je",
+    "answers": [
+      "a) endometrium",
+      "b) myometrium",
+      "c) seriózní blána",
+      "d) všechny je možné rozpoznat"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) seriózní blána"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Peritoneum, které kryje zadní děložní stěnu a přechází na dně pánve na zadní pánevní stěnu, vytváří prostor, který nazýváme",
+    "answers": [
+      "a) Douglasův prostor",
+      "b) vezikouterinní prostor",
+      "c) rektouterinní prostor",
+      "d) fossa ischiorectalis"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) Douglasův prostor", "c) rektouterinní prostor"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. К UZ vyšetřen' přichází žena s pravidelnými menses, B-hCG je negativní, vpravo od dělohy se zobrazuje nehomogenní, nepravidelný útvar o velikosti 70 mm; diferenciálně diagnosticky je z uvedených možností třeba pomýšlet na",
+    "answers": [
+      "a) prostou cystu ovaria",
+      "b) benigní ovariální tumor",
+      "c) maligní ovariální tumor",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) benigní ovariální tumor",
+      "c) maligní ovariální tumor"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Dopplerovské zhodnocení ovariálního tumoru nejčastěji vykazuje",
+    "answers": [
+      "a) nízký pulsatilní index",
+      "b) vysoký index rezistence",
+      "c) zvýšený diastolický průtok",
+      "d) chybění toku"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) nízký pulsatilní index",
+      "c) zvýšený diastolický průtok"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Dopplerovské zhodnocení torze ovarií většinou vykazuje",
+    "answers": [
+      "a) nízký pulsatilní index",
+      "b) vysoký index rezistence",
+      "c) zvýšený diastolický průtok",
+      "d) chybění toku"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) vysoký index rezistence", "d) chybění toku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Podezření na karcinom endometria může budit v ultrazvukovém obraze nález",
+    "answers": [
+      "a) vyšší nehomogenní sliznice neostře ohraničené proti myometriu v období premenopauzy",
+      "b) vyšší nehomogenní sliznice ostře ohraničené proti myometriu v období postmenopauzy",
+      "c) sliznice, která vytváří obraz dvou souběžných linií",
+      "d) sliznice, která vytváří obraz tří souběžných linií"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) vyšší nehomogenní sliznice neostře ohraničené proti myometriu v období premenopauzy",
+      "b) vyšší nehomogenní sliznice ostře ohraničené proti myometriu v období postmenopauzy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Přijde-li žena к ultrazvukovému vyšetření pro amenoreu a v dutině děložníje patrná vysoká sliznice děložní s hypoechogenní kavitací uvnitř, pomýšlíme na možnost",
+    "answers": [
+      "a) cysty ovaria",
+      "b) mimoděložního těhotenství",
+      "c) začínajícího nitroděložního těhotenství",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) mimoděložního těhotenství",
+      "c) začínajícího nitroděložního těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Přijde-li к ultrazvukovému vyšetření žena s amenoreou a hodnota B-hCG je 500 TU/1, pátráme v ultrazvukovém obraze po",
+    "answers": [
+      "a) extrauterinní graviditě",
+      "b) intrauterinní graviditě",
+      "c) cystě ovaria",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) extrauterinní graviditě",
+      "b) intrauterinní graviditě"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Incipientní intrauterinní graviditu od gravidity extrauterinní pomáhá při ultrazvukovém vyšetření dělohy odlišit nález",
+    "answers": [
+      "a) hyperechogenního lemu kolem kavitace uvnitř vysoké homogenní sliznice",
+      "b) hypoechogenního lemu kolem kavitace uvnitř nehomogenní kavitace",
+      "c) přítomnost embryonálního pólu s patrnou srdeční akcí uvnitř gestačního váčku",
+      "d) nepřítomnost embryonálního pólu uvnitř kavitace"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) hyperechogenního lemu kolem kavitace uvnitř vysoké homogenní sliznice",
+      "c) přítomnost embryonálního pólu s patrnou srdeční akcí uvnitř gestačního váčku"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Přijde-li к ultrazvukovému vyšetření žena s amenoreou, B-hCG je pozitivní, v dutině děložníje patrná hypoechogenní kavitace, pomýšlíme na možnost",
+    "answers": [
+      "a) intrauterinní gravidity",
+      "b) extrauterinní gravidity",
+      "c) cysty ovaria",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) intrauterinní gravidity",
+      "b) extrauterinní gravidity"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Podle tvaru rozeznáváme tyto druhy ultrazvukových sond",
+    "answers": ["a) lineární", "b) konvexní", "c) sektorové", "d) konkávní"],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) lineární", "b) konvexní", "c) sektorové"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. V dětské gynekologii provádíme nejčastěji tyto typy ultrazvukových vyšetření",
+    "answers": [
+      "a) transvaginální",
+      "b) transabdominální",
+      "c) transperineální",
+      "d) všechna výše uvedená"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) transabdominální", "c) transperineální"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Které tvrzeníje správné",
+    "answers": [
+      "a) amniochoriální disociace ve 14 týdnu je fyziologická",
+      "b) amniochoriální disociace v 10 týdnu by neměla být patrná",
+      "c) amniochoriální disociace ve 13 týdnu by něměla být patrná",
+      "d) nález amniochoriální disociace ve 14 týdnu může být spojen s pozdějším nálezem strukturální či chromosomové aberace plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) amniochoriální disociace ve 13 týdnu by něměla být patrná",
+      "d) nález amniochoriální disociace ve 14 týdnu může být spojen s pozdějším nálezem strukturální či chromosomové aberace plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Amniochoriální disociace by neměla být patrná",
+    "answers": [
+      "a) v 10 týdnu gravidity",
+      "b) 11 týdnu gravidity",
+      "c) ve 12 týdnu gravidity",
+      "d) ve 13 týdnu gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) ve 13 týdnu gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Známkou vitality embrya v ultrazvukovém obraze při vyšetření v 6 týdnu je",
+    "answers": [
+      "a) pulzace septum primům",
+      "b) akce primitivního srdce",
+      "c) pulzace žloutkového váčku",
+      "d) pulzace gestačního váčku"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) pulzace septum primům",
+      "b) akce primitivního srdce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Mezi známky vitality embrya řadíme v 9 týdnu",
+    "answers": [
+      "a) přítomnost pohybů plodu",
+      "b) přítomnost srdeční akce",
+      "c) přítomnost žloutkového váčku",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) přítomnost pohybů plodu",
+      "b) přítomnost srdeční akce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Při UZ vyšetření malé pánve se zobrazuje vícekomorový cystický útvar vedle dělohy o průměru asi 95mm; pro maligní původ by mohl svědčit nález",
+    "answers": [
+      "a) prominencí do lumen jednotlivých cyst, navíc septa jsou nestejně silná",
+      "b) nepřítomnosti většího množství volné tekutiny v malé pánvi",
+      "c) zvýšené nepravidelné vaskularizace v solidní části tumoru",
+      "d) přítomnosti většího množství volné tekutiny v malé pánvi"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) prominencí do lumen jednotlivých cyst, navíc septa jsou nestejně silná",
+
+      "c) zvýšené nepravidelné vaskularizace v solidní části tumoru",
+      "d) přítomnosti většího množství volné tekutiny v malé pánvi"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Nuchální translucenci je potřeba diferenciálně diagnosticky odlišit od",
+    "answers": [
+      "a) amnia",
+      "b) choria",
+      "c) cystického hygromu plodu",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) amnia", "c) cystického hygromu plodu"],
+    "description": [""],
+    "img": [""]
   }
 ]
