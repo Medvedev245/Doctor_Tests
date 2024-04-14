@@ -35,10 +35,8 @@
 // };
 
 // export default Video;
-
 import * as React from 'react';
 import Box from '@mui/material/Box';
-// import Tab from '@mui/material/Tab';
 import TabContext from '@mui/lab/TabContext';
 import TabList from '@mui/lab/TabList';
 import { TabPanel } from '@mui/lab';
@@ -66,7 +64,6 @@ export default function LabTabs() {
             borderBottom: 1,
             borderColor: 'divider',
             display: 'flex',
-            // justifyContent: 'space-around',
           }}
         >
           <TabList onChange={handleChange} aria-label="lab API tabs example">
@@ -90,10 +87,20 @@ export default function LabTabs() {
             />
           </TabList>
         </Box>
-        <TabPanel value="1">
+        <TabPanel
+          value="1"
+          sx={{
+            padding: 0, // Убираем отступы
+          }}
+        >
           <Legislativa />
         </TabPanel>
-        <TabPanel value="2">
+        <TabPanel
+          value="2"
+          sx={{
+            padding: '15px 0 0 0', // Убираем отступы
+          }}
+        >
           <Canals />
         </TabPanel>
         <TabPanel value="3">Item Three</TabPanel>

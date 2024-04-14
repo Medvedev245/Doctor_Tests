@@ -23,6 +23,6 @@ export const MainContainer = styled.main`
   @media screen and (max-width: 767px) {
     width: 315px;
     font-size: var(--font-size-mobile);
-    padding: 40px 15px 0 15px;
+    padding: 15px 10px 0 10px;
   }
 `;
