@@ -44,6 +44,7 @@ import TabList from '@mui/lab/TabList';
 import { TabPanel } from '@mui/lab';
 import { TabComponent } from './Video.styled';
 import Canals from 'components/Canals/Canals';
+import Legislativa from 'components/Legislativa/Legislativa';
 
 export default function LabTabs() {
   const [value, setValue] = React.useState('1');
@@ -89,7 +90,9 @@ export default function LabTabs() {
             />
           </TabList>
         </Box>
-        <TabPanel value="1">Item One</TabPanel>
+        <TabPanel value="1">
+          <Legislativa />
+        </TabPanel>
         <TabPanel value="2">
           <Canals />
         </TabPanel>

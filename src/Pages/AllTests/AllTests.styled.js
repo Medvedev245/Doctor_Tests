@@ -15,13 +15,14 @@ export const Item = styled.ul`
   font-size: 15px;
   min-height: 290px;
   width: 400px;
-  padding: 15px;
+  padding-bottom: 15px;
   background-color: white;
 `;
 
 export const ListQuestion = styled.ul`
   margin-bottom: 40px;
   flex: 1 1 auto;
+  padding: 0 15px;
 `;
 
 export const Select = styled.select`
@@ -37,7 +38,29 @@ export const Element = styled.li`
 `;
 
 export const Question = styled.p`
+  padding: 0 15px;
   font-size: 18px;
   margin-bottom: 20px;
   font-weight: bold;
+`;
+
+export const TopicContainer = styled.div`
+  position: relative;
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 5px;
+  margin-bottom: 10px;
+  /* background-color: var(--iq-primary); */
+
+  &:after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: var(--iq-underlining);
+  }
 `;

@@ -4047,7 +4047,7 @@
     "question": "1. Věk pacientky, u níž naměříme délku dělohy 25 mm a poměr délky děložního těla a děložního hrdla je 1 k 2,je nejpravděpodobněji",
     "answers": ["a) 6 let", "b) 14 let", "c) 24 let", "d) 64 let"],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["a) 6 let"],
     "description": [""],
     "img": [""]
@@ -4057,7 +4057,7 @@
     "question": "2. Délka děložního hrdla u nuligravid je obvykle",
     "answers": ["a) 0,5-1 cm", "b) 2-3 cm", "c) 4-5 cm", "d) 6-7 cm"],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) 2-3 cm"],
     "description": [""],
     "img": [""]
@@ -4067,7 +4067,7 @@
     "question": "3. Ve srovnání se zadní poševní stěnou je přední stěna",
     "answers": ["a) delší", "b) kratší", "c) stejně dlouhá", "d) širší"],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) kratší"],
     "description": [""],
     "img": [""]
@@ -4077,7 +4077,7 @@
     "question": "4. Primordiálních folikulů perzistujících do dospělosti a progredujících do ovulace je",
     "answers": ["a) 100-200", "b) 300-400", "c) 600-700", "d) více než 1000"],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) 300-400"],
     "description": [""],
     "img": [""]
@@ -4092,7 +4092,7 @@
       "d) corpus albicans"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) Graafův folikul"],
     "description": [""],
     "img": [""]
@@ -4107,7 +4107,7 @@
       "d) obraz homogenní hypoechogenní"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) obraz tří souběžných linií"],
     "description": [""],
     "img": [""]
@@ -4122,7 +4122,7 @@
       "d) všechny uvedené možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["d) všechny uvedené možnosti jsou správné"],
     "description": [""],
     "img": [""]
@@ -4132,7 +4132,7 @@
     "question": "8. Za normální výšku děložní sliznice v období postmenopauzy je považována hodnota",
     "answers": ["a) do 2 mm", "b) do 3 mm", "c) do 4 mm", "d) do 5 mm"],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["c) do 4 mm"],
     "description": [""],
     "img": [""]
@@ -4147,7 +4147,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "a) vysoké homogenní sliznice, uvnitř hypoechogenní kavitace s hyperechogenním lemem"
     ],
@@ -4164,7 +4164,7 @@
       "d) cysta"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) pseudogestační váček"],
     "description": [""],
     "img": [""]
@@ -4180,7 +4180,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["d) všechny možnosti jsou správné"],
     "description": [""],
     "img": [""]
@@ -4195,7 +4195,7 @@
       "d) oboustranný hydrosalpinx"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["d) oboustranný hydrosalpinx"],
     "description": [""],
     "img": [""]
@@ -4210,7 +4210,7 @@
       "d) od 4. týdne gravidity podle PM"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "a) od 5. týdne gravidity podle poslední menstruace (PM)"
     ],
@@ -4227,7 +4227,7 @@
       "d) 7 týdne gravidity podle PM"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["c) 6 týdne gravidity podle PM"],
     "description": [""],
     "img": [""]
@@ -4242,7 +4242,7 @@
       "d) 8 týdne gravidity podle PM"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) 6 týdne gravidity podle PM"],
     "description": [""],
     "img": [""]
@@ -4252,7 +4252,7 @@
     "question": "16. Velikost embrya je v 7. týdnu gravidity podleposlední menstruace (PM) přibližně",
     "answers": ["a) 3mm", "b) 5mm", "c) 9mm", "d) 14mm"],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["d) 14mm"],
     "description": [""],
     "img": [""]
@@ -4267,7 +4267,7 @@
       "d) stanovení stáří těhotenství podle prvních pohybů"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["a) měření temenokostrční délky embrya ultrazvukem"],
     "description": [""],
     "img": [""]
@@ -4282,7 +4282,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) měření temenokostrční délky embrya"],
     "description": [""],
     "img": [""]
@@ -4297,7 +4297,7 @@
       "d) hematomu"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) afetálním plodovém vejci"],
     "description": [""],
     "img": [""]
@@ -4312,7 +4312,7 @@
       "d) afetální plodové vejce"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["c) zamlklý potrat"],
     "description": [""],
     "img": [""]
@@ -4327,7 +4327,7 @@
       "d) 16 GHz a více"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["c) 16kIfc-lGHz"],
     "description": [""],
     "img": [""]
@@ -4337,7 +4337,7 @@
     "question": "22. Z uvedených možností se nejrychleji šíří ultrazvukové vlnění v prostředí",
     "answers": ["a) tuku", "b) kapaliny", "c) vzduchu", "d) kosti"],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["d) kosti"],
     "description": [""],
     "img": [""]
@@ -4347,7 +4347,7 @@
     "question": "23. Nejčastěji používané frekvence ultrazvukových sond jsou",
     "answers": ["a) 5-15 GHz", "b) 5-15 kHz", "c) 2-5 Hz", "d) 2,5-7,5 MHz"],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["d) 2,5-7,5 MHz"],
     "description": [""],
     "img": [""]
@@ -4362,7 +4362,7 @@
       "d) děložní váček"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) žloutkový váček"],
     "description": [""],
     "img": [""]
@@ -4377,7 +4377,7 @@
       "d) 10 týdne gravidity"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["c) 7 týdne gravidity"],
     "description": [""],
     "img": [""]
@@ -4392,7 +4392,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "b) gestační váček, který obsahuje embryo, srdeční akce není patrná"
     ],
@@ -4409,7 +4409,7 @@
       "d) přítomnost žloutkového váčku"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) srdeční akce"],
     "description": [""],
     "img": [""]
@@ -4424,7 +4424,7 @@
       "d) přítomnost volné tekutiny v Douglasově prostoru"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "c) mnohočetných odrazů v dutině děložní (obraz «sněhové bouře«) a přítomnost thekaluteinních cyst ovarií"
     ],
@@ -4441,7 +4441,7 @@
       "d) přítomnost periovulámího hematomu kolem gestačního váčku s vitálním embryem"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "b) přítomnost hojných nepravidelných struktur v dutině děložní"
     ],
@@ -4458,7 +4458,7 @@
       "d) extrauterinní"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["c) intrauterinní"],
     "description": [""],
     "img": [""]
@@ -4473,7 +4473,7 @@
       "d) extrauterinní graviditu"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["c) cystu ovaria"],
     "description": [""],
     "img": [""]
@@ -4488,7 +4488,7 @@
       "d) Graafův folikul"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) ovariální tumor"],
     "description": [""],
     "img": [""]
@@ -4503,7 +4503,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["d) všechny možnosti jsou správné"],
     "description": [""],
     "img": [""]
@@ -4518,7 +4518,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["c) u ovariálních tumorů"],
     "description": [""],
     "img": [""]
@@ -4533,7 +4533,7 @@
       "d) homogenní"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["a) hypoechogenní"],
     "description": [""],
     "img": [""]
@@ -4548,7 +4548,7 @@
       "d) u prostých ovariálních cyst"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["a) u ovariálních tumorů"],
     "description": [""],
     "img": [""]
@@ -4563,7 +4563,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) myomy dělohy"],
     "description": [""],
     "img": [""]
@@ -4578,7 +4578,7 @@
       "d) hydropsu plodu"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["a) chromosomální aberace plodu"],
     "description": [""],
     "img": [""]
@@ -4593,7 +4593,7 @@
       "d) sondou transvaginální i transabdominální"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["d) sondou transvaginální i transabdominální"],
     "description": [""],
     "img": [""]
@@ -4608,7 +4608,7 @@
       "d) transverzální i sagitální"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["c) přísně sagitální"],
     "description": [""],
     "img": [""]
@@ -4623,7 +4623,7 @@
       "d) žloutková kulička"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["c) žloutkový váček"],
     "description": [""],
     "img": [""]
@@ -4638,7 +4638,7 @@
       "d) ektopickou ledvinu"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) extrauterinní graviditu"],
     "description": [""],
     "img": [""]
@@ -4653,7 +4653,7 @@
       "d) v děložní dutině je prázdný žloutkový váček, nejsoupatrné žádné embryonální struktury"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "c) vděložní dutině je prázdný gestační váček, nejsoupatrné žádné embryonální struktury"
     ],
@@ -4670,7 +4670,7 @@
       "d) děložní dutina obsahuje nehomogenní hmoty"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "b) v děložní dutině je patrný gestační váček, v němembryo bez srdeční akce"
     ],
@@ -4687,7 +4687,7 @@
       "d) v děložní dutině je patrný gestační váček s periovulárním hemattomem a živým embryem"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["a) Vděložní dutině jsou patrné hojné nehomogenníhmoty"],
     "description": [""],
     "img": [""]
@@ -4702,7 +4702,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["d) všechny možnosti jsou správné"],
     "description": [""],
     "img": [""]
@@ -4717,7 +4717,7 @@
       "d) kulovitý útvar stejné echogenity jako myometrium"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "b) kulovitý tenkostěnný útvar s hypoechogennímI obsahem"
     ],
@@ -4734,7 +4734,7 @@
       "d) intramurálně"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["c) jl SJbmutóz^"],
     "description": [""],
     "img": [""]
@@ -4749,7 +4749,7 @@
       "d) odpovědi a) i b) označují totožnou oblast"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["a) Douglasův prostor"],
     "description": [""],
     "img": [""]
@@ -4764,7 +4764,7 @@
       "d) stínové projasnění"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) šíjové projasnění"],
     "description": [""],
     "img": [""]
@@ -4779,7 +4779,7 @@
       "d) v hyperechogenním prostoru kolem žloutkového váčku"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. I. část"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. I. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) v hypoechogenním prostoru kolem plodového vejce"],
     "description": [""],
     "img": [""]
@@ -4794,7 +4794,7 @@
       "d) všechny je možné rozpoznat"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["c) seriózní blána"],
     "description": [""],
     "img": [""]
@@ -4809,7 +4809,7 @@
       "d) fossa ischiorectalis"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["a) Douglasův prostor", "c) rektouterinní prostor"],
     "description": [""],
     "img": [""]
@@ -4824,7 +4824,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "b) benigní ovariální tumor",
       "c) maligní ovariální tumor"
@@ -4842,7 +4842,7 @@
       "d) chybění toku"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "a) nízký pulsatilní index",
       "c) zvýšený diastolický průtok"
@@ -4860,7 +4860,7 @@
       "d) chybění toku"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) vysoký index rezistence", "d) chybění toku"],
     "description": [""],
     "img": [""]
@@ -4875,7 +4875,7 @@
       "d) sliznice, která vytváří obraz tří souběžných linií"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "a) vyšší nehomogenní sliznice neostře ohraničené proti myometriu v období premenopauzy",
       "b) vyšší nehomogenní sliznice ostře ohraničené proti myometriu v období postmenopauzy"
@@ -4893,7 +4893,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "b) mimoděložního těhotenství",
       "c) začínajícího nitroděložního těhotenství"
@@ -4911,7 +4911,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "a) extrauterinní graviditě",
       "b) intrauterinní graviditě"
@@ -4929,7 +4929,7 @@
       "d) nepřítomnost embryonálního pólu uvnitř kavitace"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "a) hyperechogenního lemu kolem kavitace uvnitř vysoké homogenní sliznice",
       "c) přítomnost embryonálního pólu s patrnou srdeční akcí uvnitř gestačního váčku"
@@ -4947,7 +4947,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "a) intrauterinní gravidity",
       "b) extrauterinní gravidity"
@@ -4960,7 +4960,7 @@
     "question": "11. Podle tvaru rozeznáváme tyto druhy ultrazvukových sond",
     "answers": ["a) lineární", "b) konvexní", "c) sektorové", "d) konkávní"],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["a) lineární", "b) konvexní", "c) sektorové"],
     "description": [""],
     "img": [""]
@@ -4975,7 +4975,7 @@
       "d) všechna výše uvedená"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["b) transabdominální", "c) transperineální"],
     "description": [""],
     "img": [""]
@@ -4990,7 +4990,7 @@
       "d) nález amniochoriální disociace ve 14 týdnu může být spojen s pozdějším nálezem strukturální či chromosomové aberace plodu"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "c) amniochoriální disociace ve 13 týdnu by něměla být patrná",
       "d) nález amniochoriální disociace ve 14 týdnu může být spojen s pozdějším nálezem strukturální či chromosomové aberace plodu"
@@ -5008,7 +5008,7 @@
       "d) ve 13 týdnu gravidity"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["d) ve 13 týdnu gravidity"],
     "description": [""],
     "img": [""]
@@ -5023,7 +5023,7 @@
       "d) pulzace gestačního váčku"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "a) pulzace septum primům",
       "b) akce primitivního srdce"
@@ -5041,7 +5041,7 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "a) přítomnost pohybů plodu",
       "b) přítomnost srdeční akce"
@@ -5059,7 +5059,7 @@
       "d) přítomnosti většího množství volné tekutiny v malé pánvi"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": [
       "a) prominencí do lumen jednotlivých cyst, navíc septa jsou nestejně silná",
 
@@ -5079,8 +5079,3119 @@
       "d) všechny možnosti jsou správné"
     ],
     "book": ["Živný"],
-    "topic": ["4. L ltrasonografie v gynekologii. II. ČÁST POSTGRADUÁLNÍ"],
+    "topic": ["4. ULTRASONOGRAFIE V GYNEKOLOGII. II. ČÁST PREGRADUÁLNÍ"],
     "correctAnswers": ["a) amnia", "c) cystického hygromu plodu"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. К základnímu gynekologickému vyšetření patří",
+    "answers": [
+      "a) pečlivý rozbor anamnézy a palpační vyšetření",
+      "b) vyšetření v zrcadlech a palpační vyšetření",
+      "c) laparoskopie",
+      "d) onkologická cytologie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) pečlivý rozbor anamnézy a palpační vyšetření",
+      "b) vyšetření v zrcadlech a palpační vyšetření",
+      "d) onkologická cytologie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Vyšetření per rectum se provádí",
+    "answers": [
+      "a) při každém gynekologickém vyšetření",
+      "b) při vyšetření panen",
+      "c) při posouzení infiltrace parametru při karcinomu děložního hrdla",
+      "d) při rezistenci v Douglasově prostoru"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) při vyšetření panen",
+      "c) při posouzení infiltrace parametru při karcinomu děložního hrdla",
+      "d) při rezistenci v Douglasově prostoru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Mensuraceje",
+    "answers": [
+      "a) měření obvodu břicha",
+      "b) patologický rytmus krvácení z rodidel",
+      "c) silné děložní krvácení",
+      "d) hodnocení průběhu krvácení z rodidel"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) měření obvodu břicha"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Při screeningu cervikálního karcinomu se uplatňují následující vyšetřovací metody",
+    "answers": [
+      "a) kolposkkf>ie",
+      "e) punch biopsie",
+      "c) pouze cytologie",
+      "d) cytologie a selektivně HPV testace"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) cytologie a selektivně HPV testace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. К prebioptickým vyšetřovacím metodám při vyšetření děložního hrdla patří",
+    "answers": [
+      "a) kolposkopie",
+      "b) cytologie",
+      "c) HPV testace",
+      "d) punch biopsie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) kolposkopie", "b) cytologie", "c) HPV testace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Kolposkopie je",
+    "answers": [
+      "a) základní screeningová metoda pro diagnostiku karcinomu děložního hrdla",
+      "b) základní prebioptická metoda pro diagnostiku karcinomu děložního hrdla",
+      "c) je indikována při každém gynekologickém vyšetření",
+      "d) je indikována při abnormální cytologii"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) základní prebioptická metoda pro diagnostiku karcinomu děložního hrdla",
+      "d) je indikována při abnormální cytologii"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Rozšířenou kolposkopii děložního hrdla provádíme",
+    "answers": [
+      "a) po aplikaci 3% kyseliny octové",
+      "b) po aplikaci 5% kyseliny octové",
+      "c) po aplikaci toluidinové modři",
+      "d) po aplikaci Lugolova roztoku"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) po aplikaci 3% kyseliny octové",
+
+      "d) po aplikaci Lugolova roztoku"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Základem pro Collinsovu zkoušku je",
+    "answers": [
+      "a) aplikace 3% kyseliny octové",
+      "b) aplikace 5% kyseliny octové",
+      "c) aplikace toluidinové modři",
+      "d) aplikace Lugolova roztoku"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) aplikace toluidinové modři"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Collinsova zkouška slouží",
+    "answers": [
+      "a) к detekci patologického ložiska na děložním hrdle",
+      "b) к detekci patologického ložiska v pochvě",
+      "c) к detekci patologického ložiska na vulvě",
+      "d) к detekci patologického ložiska na endocervixu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) к detekci patologického ložiska na vulvě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Při kolposkopii leze na vulvě používáme",
+    "answers": [
+      "a) 3% kyselinu octovou",
+      "b) 5% kyselinu octovou",
+      "c) toluidinovou modř",
+      "d) Lugolův roztok"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) 5% kyselinu octovou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Barevné filtry při kolposkopii",
+    "answers": [
+      "a) nepoužíváme",
+      "b) zlepšují hodnocení zánětlivých změn",
+      "c) zlepšují diagnostiku cévních změn",
+      "d) zhoršují popis atypických cév"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) zlepšují diagnostiku cévních změn"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Onkologickou cytologii při prevenci karcinomu hrdla děložního odebíráme",
+    "answers": [
+      "a) necíleně z exocervixu a necíleně z endocervixu",
+      "b) cíleně z exocervixu a cíleně z endocervixu",
+      "c) necíleně z exocervixu a cíleně z endocervixu",
+      "d) cíleně z exocervixu a necíleně z endocervixu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) necíleně z exocervixu a necíleně z endocervixu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Při onkologické cytologii se výsledky mikroskopického vyšetření rozdělují podle Bethesda 2001",
+    "answers": [
+      "a) negativní pro intraepiteliální lézi a malignitu",
+      "b) epiteliální buněčná abnormalita",
+      "c) jiné",
+      "d) do pěti skupin"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) negativní pro intraepiteliální lézi a malignitu",
+      "b) epiteliální buněčná abnormalita",
+      "c) jiné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Při onkologické cytologii lze hodnotit",
+    "answers": [
+      "a) stěry z cervixu",
+      "b) stěry z dutiny děložní",
+      "c) cytosediment z ascitu",
+      "d) cytosediment obsahu cyst"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) stěry z cervixu",
+      "b) stěry z dutiny děložní",
+      "c) cytosediment z ascitu",
+      "d) cytosediment obsahu cyst"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. AnůnKytóza znamená",
+    "answers": [
+      "a) ozdílné tvary buněk",
+      "b) změny jader",
+      "c) testejné velké buňky",
+      "d) [změnu nukleoplazmattckého poměru"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) testejné velké buňky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Obsah punktátu ovariální cysty posíláme na",
+    "answers": [
+      "a) kultivační vyšetření",
+      "b) iérologické vyšetření",
+      "c) vyšetření cytosedimentu",
+      "d) není nutné dále vyšetřovat"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) vyšetření cytosedimentu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Při nálezu ovariální cysty lze laparoskopii provádět",
+    "answers": [
+      "a) při pozitivitě tumorových markérů a nesuspektním I ullrasonografickém nálezu",
+      "b) pouze při negativitě tumorových markérů",
+      "c) při ullrasonografickém suspektním nálezu",
+      "d) při ullrasonografickém nesuspektním nálezu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) při pozitivitě tumorových markérů a nesuspektním I ullrasonografickém nálezu",
+
+      "d) při ullrasonografickém nesuspektním nálezu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. AFP jako tumorový marker",
+    "answers": [
+      "a) jevhodný pro rozlišení maligních teratomů",
+      "b) může být zvýšen u karcinomu jater",
+      "c) může být zvýšen u yolk sac tumoru",
+      "d) vše^chny výše uvedené odpovědi jsou chybné"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) jevhodný pro rozlišení maligních teratomů",
+      "b) může být zvýšen u karcinomu jater",
+      "c) může být zvýšen u yolk sac tumoru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "19 17-oxosteroidy mohou být zvýšené",
+    "answers": [
+      "a) utestikulái^ních tumorů",
+      "b) Umbenoblastu ll^StrgnLI",
+      "c) luteomu",
+      "d) u■ucioózoíhg karcinomu ovaria"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) utestikulái^ních tumorů",
+      "b) Umbenoblastu ll^StrgnLI",
+      "c) luteomu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. TPA (tissue polypeptid antigen)",
+    "answers": [
+      "a) se vytváří v placentě a v plicích plodu převážně ve trimestru",
+      "b) v dospělosti se objevuje při zvýšené proliferac I a degradaci buněk",
+      "c) u žen s gynekooogickymi nádory se nezvyšuje",
+      "d) zvyšuje se přibližně u 50 % žen s gynekologickými I tammy"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) se vytváří v placentě a v plicích plodu převážně ve trimestru",
+      "b) v dospělosti se objevuje při zvýšené proliferac I a degradaci buněk",
+
+      "d) zvyšuje se přibližně u 50 % žen s gynekologickými I tammy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Bta-hCG se jako tumorový marker téměř vždy I vyskytuje",
+    "answers": [
+      "a) u tumorů placenty",
+      "b) и maligních teratomů",
+      "c) и nádorů plic",
+      "d) и nádorů pankreatu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) u tumorů placenty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. V laparoskopickém instrumentáriu názvem grasper označujeme",
+    "answers": [
+      "a) fixační kleště ozubené hrubé",
+      "b) fixační kleště atraumatické",
+      "c) nůžky rovné ozubené",
+      "d) disektorjemný rovný"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) fixační kleště atraumatické"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Při cystoskopii můžeme zjistit následný nález",
+    "answers": [
+      "a) měchýřové divertikuly",
+      "b) konkrementy",
+      "c) cizí těleso",
+      "d) zánětlivé změny"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) měchýřové divertikuly",
+      "b) konkrementy",
+      "c) cizí těleso",
+      "d) zánětlivé změny"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Laparoskopie je indikovaná",
+    "answers": [
+      "a) u difúzní peritonitidy",
+      "b) u chronické pánevní bolesti",
+      "c) u podezření na perforaci dělohy při probatomí kyretáži",
+      "d) jako second look laparoskopie po léčbě endometriózy"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) u chronické pánevní bolesti",
+      "c) u podezření na perforaci dělohy při probatomí kyretáži",
+      "d) jako second look laparoskopie po léčbě endometriózy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Při vaginoskopii",
+    "answers": [
+      "a) je vždy nutná perforace hymenu na začátku vyšetření",
+      "b) je zaváděný nástroj chráněn mandrénem",
+      "c) je možné volit vaginoskop různé délky",
+      "d) je možné volit vaginoskop různého průměru"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) je zaváděný nástroj chráněn mandrénem",
+      "c) je možné volit vaginoskop různé délky",
+      "d) je možné volit vaginoskop různého průměru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. V diagnostice appendicitis acuta nám může pomoci",
+    "answers": [
+      "a) laparoskopie",
+      "b) sonografie",
+      "c) chromopertubace",
+      "d) laparotomie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) laparoskopie", "b) sonografie", "d) laparotomie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Vaginoskop",
+    "answers": [
+      "a) používáme zároveň к vyšetření hysteroskopickému",
+      "b) bývá obvykle o průměru 5-13 mm",
+      "c) bývá obvykle délky 50-150 mm",
+      "d) obvykle umožňuje pracovat se zvětšením pětinásobným až dvacetipětinásobným"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) bývá obvykle o průměru 5-13 mm",
+      "c) bývá obvykle délky 50-150 mm",
+      "d) obvykle umožňuje pracovat se zvětšením pětinásobným až dvacetipětinásobným"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Při nepřímém sledování koncentrace hormonů se uplatňuje",
+    "answers": [
+      "a) měření bazálních teplot",
+      "b) poševní cytologie",
+      "c) vyšetření přítomnosti hormonálních metabolitů v moči",
+      "d) biopsie endometria"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) měření bazálních teplot",
+      "b) poševní cytologie",
+
+      "d) biopsie endometria"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Indikací к provedení biopsie endometria je",
+    "answers": [
+      "a) dysfunkční krvácení",
+      "b) posouzení ovariální funkce při vyšetření neplodnosti",
+      "c) posouzení kvality endometria při vyšetření neplodnosti",
+      "d) zjištění insuficience žlutého tělíska"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) posouzení ovariální funkce při vyšetření neplodnosti",
+      "c) posouzení kvality endometria při vyšetření neplodnosti",
+      "d) zjištění insuficience žlutého tělíska"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Postkoitální test provádíme",
+    "answers": [
+      "a) ihned po styku",
+      "b) minimálně čtyři hodiny po styku",
+      "c) minimálně 1d hodin po styku",
+      "d) maximálně do d4 hodin po styku"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) minimálně 1d hodin po styku",
+      "d) maximálně do d4 hodin po styku"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Při postkoitálním testu musí být při 400násobném zvětšení v jednom zorném poli",
+    "answers": [
+      "a) alespoň jedna dobře pohyblivá spermie",
+      "b) alespoň tři dobře pohyblivé spermie",
+      "c) alespoň šest dobře pohyblivých spermií",
+      "d) alespoň osm dobře pohyblivých spermií"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) alespoň šest dobře pohyblivých spermií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Schopnost spermií pronikat cervikálním hlenem nezjišťujeme",
+    "answers": [
+      "a) zkříženým testem (Bartonové-Wiesnerův test)",
+      "b) invazivním testem (Kurzrockův-Millerův test)",
+      "c) postkoitálním testem (Simsův-HUhnerův test)",
+      "d) testem krystalizačním (arborizace)"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) testem krystalizačním (arborizace)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Kurcrokův-Millerův test",
+    "answers": [
+      "a) je synonymum pro postkoitální test",
+      "b) slouží к prověření invazivní schopnosti spermií v cervikálním hlenu",
+      "c) shoduje se s Kremerovým testem",
+      "d) se běžně nepoužívá"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) slouží к prověření invazivní schopnosti spermií v cervikálním hlenu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Při zkříženém testu v rámci Kurcrokova-Millerova testu používáme",
+    "answers": [
+      "a) ppouz cčrvikální hlen ddrkyyn",
+      "b) pouze sperma dárce",
+      "c) sperma i hlen od dárců",
+      "d) pouze hlen a sperma vyšetřovaných osob"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) sperma i hlen od dárců"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Pro negativní Kurcrokův-Millerův test svědčí",
+    "answers": [
+      "a) přítomnost dobře pohyblivých spermií v cervikálním hlenu",
+      "b) shluky spermií na hranici s cervikálním hlenem",
+      "c) tzv. shaking fenomény",
+      "d) aglutinace spermií v cervikálním hlenu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) shluky spermií na hranici s cervikálním hlenem",
+      "c) tzv. shaking fenomény",
+      "d) aglutinace spermií v cervikálním hlenu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Zkřížený test provádíme",
+    "answers": [
+      "a) vždy při postkoitálním testu",
+      "b) pouze při nepřítomnosti spermií v cervikálním hlenu",
+      "c) pouze při přítomnosti více než 6 spermií v zorném poli",
+      "d) při azoospermii"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) pouze při nepřítomnosti spermií v cervikálním hlenu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Kremerův test",
+    "answers": [
+      "a) je synonymem pro zkřížený test",
+      "b) umožňuje měřit schopnost spermií penetrovat do hlenovitého prostředí",
+      "c) slouží к prověření invazivní schopnosti spermií v cervikálním hlenu",
+      "d) provádí se stejně jako Simsův-Huhnerův test"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) umožňuje měřit schopnost spermií penetrovat do hlenovitého prostředí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Při Kremerově testu se hodnotí",
+    "answers": [
+      "a) délka přežití spermií v hlenovém prostředí",
+      "b) kvalita a trvání pohyblivosti spermií v hlenovém prostředí",
+      "c) počet penetrujících spermií",
+      "d) hloubka průniku spermií v čase"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) délka přežití spermií v hlenovém prostředí",
+      "b) kvalita a trvání pohyblivosti spermií v hlenovém prostředí",
+      "c) počet penetrujících spermií",
+      "d) hloubka průniku spermií v čase"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Vyšetření spermiogramu provádíme",
+    "answers": [
+      "a) minimálně po 3denní sexuální abstinenci",
+      "b) maximálně po 3áeěěí sexuální abstinenci",
+      "c) minimálně po ódenní sexuální abstinenci",
+      "d) optimálně po maximální 6denní sexuální abstinenci"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) minimálně po 3denní sexuální abstinenci",
+
+      "d) optimálně po maximální 6denní sexuální abstinenci"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Progesteronový test provádíme",
+    "answers": [
+      "a) při primární amenoree",
+      "b) při sekundární amenoree",
+      "c) při hyperprolaktinémii",
+      "d) při negativním estrogenovém testu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) při primární amenoree",
+      "b) při sekundární amenoree"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Estrogenový test provádíme",
+    "answers": [
+      "a) při negativní progesteronovém testu",
+      "b) při pozitivním progesteronovém testu",
+      "c) při pozitivním metoklopramidovém testu",
+      "d) při negativním metoklopramidovém testu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) při negativní progesteronovém testu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Progesteronový test hodnotíme jako pozitivní",
+    "answers": [
+      "a) pouze při silném krvácení",
+      "b) i při slabém krvácení",
+      "c) při nedostavení se menstruace",
+      "d) při krvácení, které se dostaví obvykle týden po vysazení gestagenů"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) i při slabém krvácení",
+
+      "d) při krvácení, které se dostaví obvykle týden po vysazení gestagenů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Negativní progesteronový test může být",
+    "answers": [
+      "a) při nedostatečném vývoji endometria",
+      "b) při nízké produkci estrogenů",
+      "c) při endometriu nereagujícím na gestageny",
+      "d) při malformaci dělohy"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) při nedostatečném vývoji endometria",
+      "b) při nízké produkci estrogenů",
+      "c) při endometriu nereagujícím na gestageny",
+      "d) při malformaci dělohy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Indikací к estrogenovému testu je",
+    "answers": [
+      "a) primární amenorea",
+      "b) sekundární amenorea",
+      "c) negativní progesteronový test",
+      "d) pozitivní progesteronový test"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) primární amenorea",
+      "b) sekundární amenorea",
+      "c) negativní progesteronový test"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Negativní estrogenový test svědčí pro",
+    "answers": [
+      "a) předčasné selhání ovarií",
+      "b) nepřítomnost funkčního endometria",
+      "c) Aschermanův syndrom",
+      "d) tumor nadledvin"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) nepřítomnost funkčního endometria",
+      "c) Aschermanův syndrom"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Klomifenový test slouží к vyšetření",
+    "answers": [
+      "a) funkce nadledvin",
+      "b) funkce hypotalamo-hypofyzámí osy",
+      "c) к diagnostice skrytého ovariálního selhání",
+      "d) к diagnostice syndromu polycystických ovarií (PCOS)"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) funkce hypotalamo-hypofyzámí osy",
+      "c) к diagnostice skrytého ovariálního selhání"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Při klomifenovém testu běžně aplikujeme",
+    "answers": [
+      "a) klomifen 50 mg lx denně",
+      "b) klomifen 50 mg 2x denně",
+      "c) klomifen 50 mg 3x denně",
+      "d) klomifen 100 mg 2x denně"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) klomifen 50 mg 2x denně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Metoklopramid při metoklopramidovém testu",
+    "answers": [
+      "a) snižuje sekreci prolaktinu",
+      "b) zvyšuje sekreci prolaktinu",
+      "c) snižuje sekreci LH",
+      "d) zvyšuje sekreci LH"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) zvyšuje sekreci prolaktinu",
+
+      "d) zvyšuje sekreci LH"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Při metollkopi'ramdovem testu odebíráme druhý I vzorek krve po",
+    "answers": [
+      "a) 5 minutách",
+      "b) 10 minutách",
+      "c) 20 minutách",
+      "d) 30 minutách"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) 30 minutách"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Metokloppamidový test můžeme kombinovat",
+    "answers": [
+      "a) estrogenovým testem",
+      "b) s progesteronovým testem",
+      "c) s LH-RH testem",
+      "d) s klomifenovym testem"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) s LH-RH testem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Patologický metoklopramidový test je",
+    "answers": [
+      "a) při dvojnásobném zvýšení pcolaktinu opcotf výchozí H hodnotě",
+      "b) při desetinásobném zvýšení pcolaktinu opcoti výchozí hotae",
+      "c) při dvacetinásobném zvýšení pcolaktinu opcoti f výchozí hodnotě",
+      "d) při zvýšení prolaktinu nad hodnotu 150 pg/1"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) při dvacetinásobném zvýšení pcolaktinu opcoti f výchozí hodnotě",
+      "d) při zvýšení prolaktinu nad hodnotu 150 pg/1"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. metoklopramodový test provádíme",
+    "answers": [
+      "a) včasné folikulá^ní fázi (3.-5. den cyklu)",
+      "b) vpozdní folikulámí fázi (10.-12. den cyklu)",
+      "c) v midluteální fázi (20.-22 den cyklu)",
+      "d) ívpozdní foteátoí fázi (25.-27 den cyklu)"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) v midluteální fázi (20.-22 den cyklu)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Odběry krve na kontrolu koncentrace prolaktinu se nejlépe provádějí",
+    "answers": [
+      "a) ihned po probuzení",
+      "b) minimálně dvě hodiny po probuzení",
+      "c) v odpoledních hodinách",
+      "d) ve večerních hodinách"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) minimálně dvě hodiny po probuzení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. К diagnostice hyperprolaktinémie lze použít následující testy",
+    "answers": [
+      "a) metokloprcmidový",
+      "b) TRH-test",
+      "c) klomifenový test",
+      "d) všechny výše uvedené testy"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) TRH-test"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. TRH test se provádí",
+    "answers": [
+      "a) 3-5 den cyklu",
+      "b) h-12 den cyklu",
+      "c) 20-22 den cyklu",
+      "d) 23-25 den cyklu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) 3-5 den cyklu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Při LH-RH testu se zvýší LH i FSH",
+    "answers": [
+      "a) Iv první hodině testu, pak klesají",
+      "b) v pivních dvou hodinách testu, pak klesají",
+      "c) v prvních třech hodinách testu, pak klesají",
+      "d) v prvních čtyřech hodinách testu, pak klesají"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) Iv první hodině testu, pak klesají"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Při LH-RH testu",
+    "answers": [
+      "a) se zvyšuje pouze LH",
+      "b) se zvyšuje pouze FSH",
+      "c) zvyšuje se FSH i LH",
+      "d) klesá FSH i LH"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) zvyšuje se FSH i LH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Maximální vzestup při LH-RH testu je",
+    "answers": [
+      "a) po 25-35 minutách",
+      "b) po jedné hodině",
+      "c) po dvou hodinách",
+      "d) po třech hodinách"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) po 25-35 minutách", "d) po třech hodinách"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Snížené výchozí hodnoty při normálním reaktivním vzestupu při LH-RH testu mohou být příznakem",
+    "answers": [
+      "a) primárního hypogonadismu",
+      "b) pouze sekundárního hypogonadismu",
+      "c) pouze terciárního hypogonadismu",
+      "d) sekundárního nebo terciárního hypogonadismu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) sekundárního nebo terciárního hypogonadismu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Silně zvýšené výchozí hodnoty LH, a zejména hodnoty po stimulaci při LH-RH testu svědčí pro",
+    "answers": [
+      "a) primární hypogonadismus",
+      "b) sekundární hypogonadismus",
+      "c) terciární hypogonadismus",
+      "d) všechny výše uvedené odpovědi jsou spcávné"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) primární hypogonadismus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Po podání LH-RH musí stoupnout koncentrace LH v séru nejméně",
+    "answers": [
+      "a) o faktoc 1 (lkrát)",
+      "b) o faktoc 2 (2krat)",
+      "c) nejméně o faktoc 3 (3krát)",
+      "d) 3-5krát"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) nejméně o faktoc 3 (3krát)", "d) 3-5krát"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Výhodou NMR oproti CT je",
+    "answers": [
+      "a) možnost multiplanámího zobcazení",
+      "b) lepší zobcazení kostních stroktuc",
+      "c) plynné prostředí nezhocšuje kvalitu zobcazení",
+      "d) dokonalá difecenciace měkkých tkání"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) možnost multiplanámího zobcazení",
+
+      "c) plynné prostředí nezhocšuje kvalitu zobcazení",
+      "d) dokonalá difecenciace měkkých tkání"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Při laparoskopii se nacházejí ložiska endometriózy nejčastěji na",
+    "answers": [
+      "a) zadních vazech",
+      "b) ovariích",
+      "c) pecitoneu",
+      "d) na plíce močového měchýře"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) zadních vazech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Pro vyšetření hypofýzy zvolíme",
+    "answers": ["a) CT", "b) NMR", "c) UZ", "d) ctg tureckého sedla"],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) NMR"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Indikací pro CT vyšetření v gynekologii je",
+    "answers": [
+      "a) vyloučení infiltcace pacametcu při karcinomu děložního hcdla",
+      "b) ovanální tumoc zasahující do dutiny břišní",
+      "c) pnjkaz. metastáz v omentu, na pacietálním pecitoneu a v játrech",
+      "d) podezření na mikroprolaktinom"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) ovanální tumoc zasahující do dutiny břišní",
+      "c) pnjkaz. metastáz v omentu, na pacietálním pecitoneu a v játrech"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Podmínkou pro provedení hysterosalpingografie není",
+    "answers": [
+      "a) předchozí kymoinsfulace",
+      "b) mikrobiologické vyšetření děložního hrdla a pochvy",
+      "c) fyziologické nálezy FW a leukocytů",
+      "d) absence alergie na jod"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) předchozí kymoinsfulace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Mezi kontrastní vyšetřovací metody při vyšetřování mléčné žlázy nepatří",
+    "answers": [
+      "a) termografie",
+      "b) duktografie",
+      "c) cystografie",
+      "d) nativní mamografie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) termografie", "d) nativní mamografie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Mezi kontrastní vyšetřovací metody při vyšetřování mléčné žlázy patří",
+    "answers": [
+      "a) nativní mamografie",
+      "b) xerografie",
+      "c) duktografie",
+      "d) termografie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) termografie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Mezi kontraindikace kymoinsuflace nepatří",
+    "answers": [
+      "a) výtok",
+      "b) menstruace či krvácení",
+      "c) předchozí oboustranná operace na vejcovodech",
+      "d) aktuální gynekologický zánět"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) předchozí oboustranná operace na vejcovodech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Maximální doporučovaný tlak při kymoinsufiaci je",
+    "answers": [
+      "a) 160 mm Hg, výjimečně vyšší",
+      "b) 50 mm Hg",
+      "c) 30 mm Hg",
+      "d) 120 mm Hg"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) 160 mm Hg, výjimečně vyšší"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Při kymoinsufiaci se hodnotí",
+    "answers": [
+      "a) změny křivky tlaku",
+      "b) auskultačně průnik plynu vejcovody",
+      "c) frenický příznak",
+      "d) průnik tekutiny do Douglasova prostoru"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) změny křivky tlaku",
+      "b) auskultačně průnik plynu vejcovody",
+      "c) frenický příznak"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Indikací ke kymoinsufiaci je",
+    "answers": [
+      "a) orientační zjištění průchodnosti vejcovodů, zvláště u mladých žen",
+      "b) orientační zjištění průchodnosti po mikrochirurgické operaci na vejcovodu",
+      "c) orientační vyšetření průchodnosti vejcovodů po operacích v malé pánvi",
+      "d) podezření na saktosalpinx"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) orientační zjištění průchodnosti vejcovodů, zvláště u mladých žen",
+      "b) orientační zjištění průchodnosti po mikrochirurgické operaci na vejcovodu",
+      "c) orientační vyšetření průchodnosti vejcovodů po operacích v malé pánvi"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. Kontraindikací kymoinsuflace je",
+    "answers": [
+      "a) operace na pohlavních orgánech provedené před méně než dvěma týdny",
+      "b) gynekologické operace v anamnéze",
+      "c) hypertermická fáze menstruačního cyklu",
+      "d) těžké kardiovaskulární onemocnění"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) operace na pohlavních orgánech provedené před méně než dvěma týdny",
+      "c) hypertermická fáze menstruačního cyklu",
+      "d) těžké kardiovaskulární onemocnění"
+    ],
+    "description": [],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Při kymoinsufiaci",
+    "answers": [
+      "a) začínáme obvykle vyšetřovat při tlaku 50 mm Hg",
+      "b) začínáme obvykle vyšetřovat při tlaku 100 mm Hg",
+      "c) můžeme zvyšovat tlak maximálně o 50 mm Hg za sekundu",
+      "d) se nevěnujeme projevům bolesti u pacientky"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) začínáme obvykle vyšetřovat při tlaku 50 mm Hg",
+
+      "c) můžeme zvyšovat tlak maximálně o 50 mm Hg za sekundu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Po kymoinsufiaci",
+    "answers": [
+      "a) pacientka může ordinaci opustit ihned",
+      "b) doporučujeme krátkodobou hospitalizaci",
+      "c) pacientka může opustit ordinaci asi za 30 minut",
+      "d) pacientka může opustit ordinaci asi za 3 hodiny"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) pacientka může opustit ordinaci asi za 30 minut"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. Při kymoinsufiaci při tlaku 120 mm Hg obvykle protéká",
+    "answers": [
+      "a) 1(0-20ml C02",
+      "b) 20-30ml CO2",
+      "c) 50-60ml CO2",
+      "d) 80-100 ml CO2"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) 50-60ml CO2"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Při ultrazvukové hysterosalpingografii lze jako kontrastní látku použít",
+    "answers": [
+      "a) CO2",
+      "b) jodové kontrastní látky",
+      "c) gadolinium",
+      "d) fyziologický roztok"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) fyziologický roztok"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Při NMR se jako kontrastní látka používá",
+    "answers": [
+      "a) CO2",
+      "b) jodové kontrastní látky",
+      "c) gadolinium",
+      "d) fyziologický roztok"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) gadolinium"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Za zlatý standard pro vyšetření průchodnosti vejcovodů se považuje",
+    "answers": [
+      "a) HSG",
+      "b) laparoskopie",
+      "c) laparoskopie s chromopertubací",
+      "d) hysteroskopie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) laparoskopie s chromopertubací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. К pozdním komplikacím hysteroskopie nepatří",
+    "answers": [
+      "a) Ashermannův syndrom",
+      "b) adenomyóza",
+      "c) fluid overload« syndrom",
+      "d) ruptura dělohy"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) fluid overload« syndrom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Vhodnou metodou pro screening chlamydiové urogenitální infekce je",
+    "answers": [
+      "a) cytologie",
+      "b) běžná kultivace z hrdla děložního",
+      "c) DFA",
+      "d) amplifikační metody"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) amplifikační metody"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. Nejvyšší senzitivitu pro záchyt chlamydiové urogenitální infekce mají",
+    "answers": [
+      "a) EIA",
+      "b) DFA",
+      "c) hybridizační metody",
+      "d) amplifikační metody"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) amplifikační metody"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "85. К amplifikačním metodám používaným pro diagnostiku chlamydiových urogenitálních infekcí patři",
+    "answers": ["a) PCR", "b) LCR", "c) TMA", "d) DFA"],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) PCR", "b) LCR", "c) TMA", "d ) DFA"],
+    "description": ["a) PCR", "b) LCR", "c) TMA"],
+    "img": [""]
+  },
+
+  {
+    "question": "86. Pro diagnostiku specifických protilátek proti Chlamydia trachomatis používáme",
+    "answers": ["a) KFR", "b) ELISA", "c) pELISA", "d) MIF"],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) pELISA", "d) MIF"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "87. Při odběru vzorku ke kultivačnímu průkazu chlamydií",
+    "answers": [
+      "a) se musí vzorek ihned zaslat do laboratoře",
+      "b) je vhvhně v^zvrek ko o hodin naslat do hil^cbotořo",
+      "c) neni-li vzorek zaslán do laboratoře do h hodin, je nutné jej zamrazit",
+      "d) vzorek je možno skladovat až 5 dní při pokojové I teplotě"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) je vhvhně v^zvrek ko o hodin naslat do hil^cbotořo",
+      "c) neni-li vzorek zaslán do laboratoře do h hodin, je nutné jej zamrazit"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "88. Při detekci chlamydiové infekce ze vzorku moči",
+    "answers": [
+      "a) se vyšetřuje pouze první porce ranní moči",
+      "b) se vyšetth^je střední proud ranní moči",
+      "c) lze vyšetřovat první porci moči kdykoliv, když před tím pacient minimálně hodinu nemočil",
+      "d) lze vyšetřovat střední proud moči kdykoliv, když před tím pacient minimálně hodinu nemočil"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) lze vyšetřovat první porci moči kdykoliv, když před tím pacient minimálně hodinu nemočil"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "89. Aniplifkkčními metodami lze chlamydiovou nrogerniální infekci diagnostikovat",
+    "answers": [
+      "a) pouze ze stěrů z endocervixu",
+      "b) pvýtěru z introitu",
+      "c) z první porce moči",
+      "d) pouze z výtěru z uretry"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) pvýtěru z introitu", "c) z první porce moči"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "90. Při odběru vzorku z endocervixu pro záchyt chlamydiové infekce",
+    "answers": [
+      "a) není nutné odstranit cervikální hlen",
+      "b) odběrovým tamponem rotujeme minimálně 3-5 sekund",
+      "c) odběrovým tamponem rotujeme optimálně 15-30 sekund",
+      "d) používáme pouze brush"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) odběrovým tamponem rotujeme optimálně 15-30 sekund"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "91. Zvýšení pH nad 4,5",
+    "answers": [
+      "a) je specifické pro bakteriální vaginé^u",
+      "b) je nespecifické pro bakteriální vaginozu",
+      "c) je typické pro kandidovou vulvovaginitidu",
+      "d) prokazuje se u trichomeniáry"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) je nespecifické pro bakteriální vaginozu",
+
+      "d) prokazuje se u trichomeniáry"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "92. V nativním preparátu můžeme diagnostikovat",
+    "answers": [
+      "a) actenalní vaginozu",
+      "b) mulvovaginalni kandidozu",
+      "c) trihomoniazu",
+      "d) vestibulitis vulvaris"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) actenalní vaginozu",
+      "b) mulvovaginalni kandidozu",
+      "c) trihomoniazu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "93. Kultivační průkaz Gardnerella vaginalis",
+    "answers": [
+      "a) znamená vždy bakteriální vaginozu",
+      "b) je pozitivní až u 60 % žen bez bakteriální vaginozy",
+      "c) je jedinou možnosti pre screening bakteriálnívaginozy",
+      "d) je podmínkou pro diagnostiku bakteriální vaginozy"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) je pozitivní až u 60 % žen bez bakteriální vaginozy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "94. Přítomnost »clue cells« (klíčových buněk) v nativním preparátu",
+    "answers": [
+      "a) je fyziologickým nálezem",
+      "b) je typickým nálezem u trichomeniáry",
+      "c) je typickým nálezem u bakteriální vaginozy",
+      "d) je typickým nálezem u vulvovaginální kandidozy"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) je typickým nálezem u bakteriální vaginozy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "95. Přidání KOH při mikroskopickém vyšetření nativního preparátu",
+    "answers": [
+      "a) je důležité pro diagnostiku kvasinkové infekce",
+      "b) nemá větší význam",
+      "c) usnadní diagnostiku bakteriální vaginozy",
+      "d) potvrdí fyziologický nález"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) je důležité pro diagnostiku kvasinkové infekce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "96. Aminový test",
+    "answers": [
+      "a) je nezastupitelný test v diferenciálním schématu vyšetření poševního výtoku",
+      "b) provádí se přidáním fyziologického roztoku",
+      "c) provádí se přidáním 10% roztoku KOH",
+      "d) nemá větší význam pro praxi"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je nezastupitelný test v diferenciálním schématu vyšetření poševního výtoku",
+
+      "c) provádí se přidáním 10% roztoku KOH"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "97. Fyziologickou součástí poševního prostředí mohou být",
+    "answers": [
+      "a) stafylokoky",
+      "b) koliformní bakterie",
+      "c) enterokoky",
+      "d) pouze Lactobacillus acidophilus"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) stafylokoky",
+      "b) koliformní bakterie",
+      "c) enterokoky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "98. Kultivační průkaz Candida albicans",
+    "answers": [
+      "a) se v praxi běžně neprovádí",
+      "b) znamená vždy infekci",
+      "c) je pozitivní i u žen bez známek infekce",
+      "d) je důležitý při vyšetření žen s chronickou a recidivující mykozou"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [""],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "99. Kapavku diagnostikujeme na základě",
+    "answers": [
+      "a) vyšetření nativního preparátu",
+      "b) vyšetření barveného preparátu",
+      "c) kultivačního průkazu na speciálních kultivačních půdách",
+      "d) vyšetření LCR, PCR a hybridizace"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) vyšetření barveného preparátu",
+      "c) kultivačního průkazu na speciálních kultivačních půdách",
+      "d) vyšetření LCR, PCR a hybridizace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "100. Kultivačně prokazujeme mykoplazmata",
+    "answers": [
+      "a) pouze u bakteriální vaginozy",
+      "b) až u 80 % žen bez příznaků poševní infekce",
+      "c) při tfichomoniaize",
+      "d) pouze u žen s PID"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) až u 80 % žen bez příznaků poševní infekce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "101. Vyhodnocení barveného preparátu do šesti mikrobních obrazů poševních (MOP podle Petera-Jírovce a Málka)",
+    "answers": [
+      "a) je zlatým standardem pro vyšetření poševních výtoků",
+      "b) nepostihuje všechny klinické jednotky",
+      "c) má riziko nesprávné nebo neúplné diagnózy",
+      "d) je důležité pro diagnostiku bakteriální vaginózy"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) nepostihuje všechny klinické jednotky",
+      "c) má riziko nesprávné nebo neúplné diagnózy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "102. Pro klinickou praxi pro diagnostiku poševních výtoku nejlépe vyhovuje",
+    "answers": [
+      "a) vyhodnocení barvených poševních nátěrů dle MOP",
+      "b) mikroskopické vyšetření nativního nátěru",
+      "c) zhodnocení makroskopického vzhledu výtoku",
+      "d) kombinace zhodnocení makroskopického vzhledu výtoku, pH poševního. mikroskopického zhodnocení nativního nátěru, aminový test"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) kombinace zhodnocení makroskopického vzhledu výtoku, pH poševního. mikroskopického zhodnocení nativního nátěru, aminový test"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "103. К vyšetřovacím metodám u sterility nepatří",
+    "answers": [
+      "a) hysteroskopie",
+      "b) laparoskopie",
+      "c) kymoinsuflace",
+      "d) kolposkopie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) kolposkopie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "104. Hysteroskopii není možné operačně odstranit",
+    "answers": [
+      "a) submukózní myom",
+      "b) subserózní myom",
+      "c) intrauterinní synechie",
+      "d) endometriální polyp"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) subserózní myom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "105. Před chromopertubací není třeba vyloučit",
+    "answers": [
+      "a) proběhlou salpingitidu",
+      "b) akutní zánět v oblasti pohlavních orgánů",
+      "c) krvácení z dělohy",
+      "d) možnost gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) proběhlou salpingitidu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "106. Veressova jehla se používá",
+    "answers": [
+      "a) к biopsii ovaria",
+      "b) к aspiraci oocytů při in vitro fertilizaci",
+      "c) к punkci Douglasova prostoru",
+      "d) к založení pneumoperitonea při laparoskopii"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) к založení pneumoperitonea při laparoskopii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "107. К vyšetřovacím metodám používaným v gynekologii nepatří",
+    "answers": [
+      "a) cystoskopie",
+      "b) gastroskopie",
+      "c) hysteroskopie",
+      "d) laparoskopie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) gastroskopie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "108. К rizikovým faktorům laparoskopie nepatří",
+    "answers": [
+      "a) předchozí operace na děložním čípku",
+      "b) předchozí operace v peritoneální dutině",
+      "c) obezita pacientky",
+      "d) stav po proběhlém pánevním zánětu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) předchozí operace na děložním čípku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "109. Hysteroskopie není indikována",
+    "answers": [
+      "a) při podezření na karcinom endometria",
+      "b) při podezření na Aschermannův syndrom",
+      "c) při akutním krvácení z dělohy",
+      "d) u pacientky, která nerodila"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) při akutním krvácení z dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "110. Při diagnostice karcinomu endometria má největší přesnost metoda",
+    "answers": [
+      "a) frakcionovaná kyretáž",
+      "b) hysteroskopie s cílenou biopsii",
+      "c) vakutáž",
+      "d) výplachová cytologie"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) hysteroskopie s cílenou biopsii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "111. К vytvoření pneumoperitonea při laparoskopii se nejčastěji používá",
+    "answers": [
+      "a) oxid uhličitý",
+      "b) směs neonu s kyslíkem",
+      "c) vzduch",
+      "d) freon"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) oxid uhličitý"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "112. Při zakládání pneumoperitonea se nekontroluje",
+    "answers": [
+      "a) plnicí tlak",
+      "b) objem plynu v přívodní hadici",
+      "c) rychlost plnění v litrech za minutu",
+      "d) celkový objem aplikovaného plynu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) objem plynu v přívodní hadici"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "113. Pro laparoskopickou diagnostiku v malé pánvi je nejvhodnější poloha pacientky",
+    "answers": [
+      "a) Trendelenburgova",
+      "b) horizontální",
+      "c) genupektorální",
+      "d) v polosedu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) Trendelenburgova"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "114. Trendelenburgova poloha u gynekologické laparoskopie",
+    "answers": [
+      "a) usnadňuje práci anesteziologa",
+      "b) zlepšuje přístup к orgánům v malé pánvi",
+      "c) snižuje intenzitu krvácení orgánů v malé pánvi",
+      "d) je způsobena insuflovaným plynem"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) zlepšuje přístup к orgánům v malé pánvi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "115. Mezi endoskopické metody nezařazujeme",
+    "answers": [
+      "a) cystoskopii",
+      "b) salpingoskopii",
+      "c) vaginoskopii",
+      "d) kolposkopii"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) kolposkopii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "116. К výhodám tzv. minimálně invazivní chirurgienepatří",
+    "answers": [
+      "a) nízká morbidita",
+      "b) minimální pooperační dyskomfort",
+      "c) minimální změny životních stereotypů ženy",
+      "d) specifické anesteziologické riziko"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) specifické anesteziologické riziko"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "117. К nevýhodám tzv. minimálně invazivní chirurgie nepatří",
+    "answers": [
+      "a) zvýšené riziko operačního přístupu (poranění cév a střevních kliček)",
+      "b) nízká morbidita",
+      "c) specifické anesteziologické riziko",
+      "d) delší operační čas"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) nízká morbidita"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "118. Laparoskopický přístup je kontraindikován",
+    "answers": [
+      "a) při podezřeni na masivní hemoperitoneum při I nestabdrnm stavu padentky",
+      "b) při podezření na mimoděložní těhotenství",
+      "c) při rozsáhlých nádorech v dutině břišní",
+      "d) při pánevní bolesti"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) při podezřeni na masivní hemoperitoneum při I nestabdrnm stavu padentky",
+      "c) při rozsáhlých nádorech v dutině břišní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "119. Laporoscopie není kontraindikována",
+    "answers": [
+      "a) při ileóením stavu",
+      "b) při difúzním zánětu pobřišnice",
+      "c) při podezření na ektopickou graviditu",
+      "d) v posledním trimestru gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) při podezření na ektopickou graviditu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "120. Vaginiokopie je metoda",
+    "answers": [
+      "a) využívaná v dětské gynekologii",
+      "b) ultrazvuková, využívající vaginální sondy",
+      "c) ve 21 století již nepoužívaná",
+      "d) běžně užívaná к vyšetření děložního čípku v rámci",
+      "onkologické prevence"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) využívaná v dětské gynekologii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "121. Kendoskopickým metodám, které se používají při vyšetřování sterility nepatří",
+    "answers": [
+      "a) chromopertubace",
+      "b) hysteroskopie",
+      "c) videolaparoskopie",
+      "d) kymoinsuflace"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) kymoinsuflace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "122. Nalezneme-li při diagnostické laparoskopii v malé pánvi mnohočetné adheze a zároveň je nalezneme subhepatálně, je pravděpodobné, že pacientka prodělala zánět vyvolaný",
+    "answers": [
+      "a) kvasinkami",
+      "b) tridbomonadami",
+      "c) chlamydiemi",
+      "d) zlatým stafylokokem"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) chlamydiemi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "123. Hysteroskopii u žen v reprodukčním věku obvykle provádíme",
+    "answers": [
+      "a) v období menstruace",
+      "b) těsně po ovulaci",
+      "c) v první polovině cyklu po menstruaci",
+      "d) na konci cyklu krátce před menstruací"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) v první polovině cyklu po menstruaci"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "124. Při pátrání po příčině chronické pánevní bolesti pomocí laparoskopie můžeme nalézt",
+    "answers": [
+      "a) eodometnozu",
+      "b) adheze v malé pánvi",
+      "c) chronickou apendicitidu",
+      "d) adenomyózu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) eodometnozu",
+      "b) adheze v malé pánvi",
+      "c) chronickou apendicitidu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "125. К možným komplikacím diagnostické laparoskopie nepatří",
+    "answers": [
+      "a) poranění střevní kličky",
+      "b) podvaz ureteru",
+      "c) poranění cév",
+      "d) poranění močového měchýře"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) podvaz ureteru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "126. Krvácení v průběhu laparoskopického výkonu nelze stavět pomocí",
+    "answers": [
+      "a) bipolámí koagulace",
+      "b) monopolámí koagulace",
+      "c) argonového laseru",
+      "d) žádná z odpovědí není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) žádná z odpovědí není správná"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "127. Při laparoskopickém operování nelze použít",
+    "answers": [
+      "a) harmonický skalpel",
+      "b) CO2 laser",
+      "c) argonový laser",
+      "d) žádná z odpovědí není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) žádná z odpovědí není správná"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "128. Ke snížení rizika poranění epigastrických cévpři zavádění akcesorních trokarů při laparoskopii nepřispívá",
+    "answers": [
+      "a) Trendelenburgova poloha pacientky",
+      "b) transluminiscence",
+      "c) správný směr a úhel trokaru při průniku břišní stěnou",
+      "d) použití trokaru o nejmenším průsvitu u obézních žen"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) Trendelenburgova poloha pacientky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "129. Nejbezpečnější a nejpoužívanější metodou zástavy krvácení při laparoskopii je",
+    "answers": [
+      "a) CO2 laser",
+      "b) opich",
+      "c) bipolámí koagulace",
+      "d) monopolámí koagulace"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) bipolámí koagulace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "130. Cytologický stěr při screeningu ca hrdla děložního odebíráme",
+    "answers": [
+      "a) pouze z endocervixu",
+      "b) pouze z exocervixu",
+      "c) ze zadní klenby poševní",
+      "d) z exocervixu i endocervixu"
+    ],
+    "book": ["Živný"],
+    "topic": ["3. VYŠETŘOVACÍ METODY V GYNEKOLOGII. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) z exocervixu i endocervixu"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Ph pwhvy je obvykle kyselé, pokud je přítomen",
+    "answers": [
+      "a) DiWerleiniiv laktobacil",
+      "b) tHehomonas vaginalis",
+      "c) Gardnerella vaginalis",
+      "d) Candida"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["a) DiWerleiniiv laktobacil"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Kteté z maligních tumorů nemusí byt odhalen vestandardních cytologických stěrnch z ectocetviksu a endocervikssu",
+    "answers": [
+      "a) dlaždicový Oarcinem",
+      "b) endeecvikální adeneOarcinem",
+      "c) každý zde jmenovaný",
+      "d) karcinom endometria"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["d) karcinom endometria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Který ze syndromů byva shružen s vyvojem adenocarcenomu endometriab",
+    "answers": [
+      "a) Dimcruv syndrom",
+      "b) Chiiiniu-Lrommelův syndrom",
+      "c) fromelov syndrom",
+      "d) syndrom testil^i^l^imí feminizace"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["a) Dimcruv syndrom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Benigní změny enhomntria lze od změn maligníchspolehli spolehlivě ohlišit (diagnostovat)",
+    "answers": [
+      "a) ultrazvukovim vyšetřením",
+      "b) iysteroskopicky",
+      "c) cyyologi í endometria",
+      "d) gystologickim vyšetřením"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["d) gystologickim vyšetřením"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Zhoubné nábory cnrvixu pocházejí nnjčastěji",
+    "answers": [
+      "a) z vícev-rtevnéhe dlaždicového epitelu",
+      "b) z cylindrického epitelu",
+      "c) llmezadermu",
+      "d) jsou metastatické"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["a) z vícev-rtevnéhe dlaždicového epitelu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Pro cytodiagnostiku telesnych ziskava bunky",
+    "answers": [
+      "a) stěrem - brush technikou",
+      "b) špachtlí",
+      "c) tiskem",
+      "d) punkci"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["d) punkci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. EnhocnrviUální kanál jn za fyziologických okolností vystlán",
+    "answers": [
+      "a) vícevrstevnatým dlaždicovým epitelem",
+      "b) žlázovým epitelem",
+      "c) mezodermem",
+      "d) mezoteliemi"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["b) žlázovým epitelem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Co jn nápahné na cstoolazmě VuněU ohloučnných z hoVřn hifnrnncovaného Uarcinomu nnhomntria",
+    "answers": [
+      "a) její Oyalinizace",
+      "b) zrnitost",
+      "c) jasnost",
+      "d) vaOuolizace"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["d) vaOuolizace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Kn správnému cytologic^mu hohnocnní sn nnmusí ckrooatolog oh UliniUa hozvěhět",
+    "answers": [
+      "a) věO pacientOy",
+      "b) poslední menstruaci",
+      "c) Oormonální léčbu",
+      "d) počet porodů a potratů"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["d) počet porodů a potratů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Za kterych fyziologickych podminek se neprojevi exogenne podane estrogeny proliferacnim efektem na epitelu pochvy",
+    "answers": [
+      "a) v šestinedělí",
+      "b) v pubertě",
+      "c) v postmenopauze",
+      "d) v normálním těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["d) v normálním těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Který zn zhouVných náhorů jn npitnliálního půyohu",
+    "answers": ["a) lymfom", "b) sarOom", "c) Oarcinom", "d) leuOémie"],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["c) Oarcinom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. U Kažhé pacientky s primární amnnornou by měl cytolog nejprve hledat",
+    "answers": [
+      "a) infekci HPV",
+      "b) buňky endometria",
+      "c) Barrovo tělísko",
+      "d) skrytý karcinom"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["c) Barrovo tělísko"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Junkční zóna u žnn y postmnnpauzn jn umístěna",
+    "answers": [
+      "a) na vulvě",
+      "b) v endocervixu",
+      "c) ve vagíně",
+      "d) na ektocervixu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["b) v endocervixu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Candida albicans se nevyskytuje",
+    "answers": [
+      "a) u diabetes mellitus",
+      "b) u senilní kolpitidy",
+      "c) v těhotenství",
+      "d) u žen léčených imunosupresivy"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["b) u senilní kolpitidy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Má-li nemocná ascites s maligními buňkami, pak nejpravděpodobnějším primárním sídlem tumoru, který metastazoval, je",
+    "answers": ["a) ovarium", "b) rektum", "c) vejcovod", "d) kolon"],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["a) ovarium"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Žena v postmenopauze, která užívala dlouhodobě nízké dávky estrogenů, bude mít cytologický obraz stěru z poševní klenby složený",
+    "answers": [
+      "a) většinou ze superficiálních a méně intermediálních buněk",
+      "b) většinou z intermediárních buněk",
+      "c) většinou z parabazálních buněk",
+      "d) z poloviny intermediárních a poloviny parabazálních buněk"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["b) většinou z intermediárních buněk"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Jak změní estrogeny charakter epitelu v horní třetině pochvy",
+    "answers": [
+      "a) vedou к proliferaci buněk",
+      "b) působí jen na úrovni endometria",
+      "c) působí zvýšenou deskvamaci buněk",
+      "d) zvyšují cyanofilii buněk"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["a) vedou к proliferaci buněk"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Kontraceptiva působí následující změny kromě",
+    "answers": [
+      "a) vazkosti hlenu v endocervixu",
+      "b) inaktivního endometria",
+      "c) potlačení ovulace",
+      "d) hypoestrogenismu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. I. část pregraduální"],
+    "correctAnswers": ["d) hypoestrogenismu"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Prvním důkazem ovulace na endometriu je",
+    "answers": [
+      "a) povrchový edém stromatu",
+      "b) vakuolizace pod jádrem buněk",
+      "c) mitózy v epitelu a ve stromatu",
+      "d) pseudostratifikace jader ve žlázách"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["b) vakuolizace pod jádrem buněk"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Cytodiagnostika maligních změn na endometriupředpokládá",
+    "answers": [
+      "a) odběr aspirační technikou",
+      "b) odběr buněk z endometria jakoukoli cytologickoutechnikou, stěr z cervixu a stěr z poševní klenby",
+      "c) získání buněk výplachem",
+      "d) odběr z endometria brush technikou"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": [
+      "b) odběr buněk z endometria jakoukoli cytologickoutechnikou, stěr z cervixu a stěr z poševní klenby"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Maturační index v cytodiagnostice je vyjádřen",
+    "answers": [
+      "a) poměrem procenta buněk bazální vrstvy dlaždicovéhoepitelu к procentu buněk intermediálních a povrchových",
+      "b) počtem povrchových buněk к počtu buněk bazálnícha parabazálních",
+      "c) počtem buněk povrchové vrstvy dlaždicového epitelu к počtu buněk cyanofilních a eozinofilních",
+      "d) počtem intermediárních epitelií na 100 spočtených"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": [
+      "a) poměrem procenta buněk bazální vrstvy dlaždicovéhoepitelu к procentu buněk intermediálních a povrchových"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Maturační index u testikulární feminizace bývá",
+    "answers": ["a) 100/0/0", "b) 50/50/0", "c) 30/70/0", "d) 0/20/80"],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) 0/20/80"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. U syndromu gonadální dysgeneze nacházíme maturační index",
+    "answers": ["a) 90/10/0", "b) 0/20/80", "c) 0/0/90", "d) 1/10/90"],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["a) 90/10/0"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Umístění jádra v endocervikálních buňkách závisí na",
+    "answers": [
+      "a) přítomností nebo nepřítomnosti zánětu",
+      "b) funkčním stavu buňky",
+      "c) zpracování cytologického stěru",
+      "d) způsobu odběru a roztěru buněk"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["b) funkčním stavu buňky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Který stav na endometriu má nejnižší potenciál v jeho karcinogenezi",
+    "answers": [
+      "a) atypická hyperplazie",
+      "b) hyperplastické endometrium",
+      "c) carcinoma in situ",
+      "d) adenomatoidní hyperplazie"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["b) hyperplastické endometrium"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Pro který typ karcinomu jsou nejcharakterističtějším znakem změny ve velikosti a tvaru jádra buněk doprovázené hyperchromazií",
+    "answers": [
+      "a) pro adenoskvamózní karcinom",
+      "b) pro carcinoma in situ",
+      "c) pro endocervikální karcinom",
+      "d) keratinizující dlaždicový karcinom"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) keratinizující dlaždicový karcinom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Zdrojem buněk, které připomínají buňky parabazální v cytologickém stěru z portio vaginalis u ženy v reprodukčním období, je nejčastěji",
+    "answers": [
+      "a) cervicitida",
+      "b) dlaždicová metaplazie",
+      "c) hyperkeratóza",
+      "d) parakeratóza"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["b) dlaždicová metaplazie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Maturační index u ročního děvčátka je",
+    "answers": ["a) 0/100/0", "b) 0/50/50", "c) 100/0/0", "d) 50/50/0"],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["c) 100/0/0"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Index svinování buněk (folded index) dlaždicového epitelu znamená (při počtu na 100 buněk)",
+    "answers": [
+      "a) procento buněk hluboké vrstvy se stočenou cytoplazmou к buňkám nestočeným",
+      "b) méně než 7 buněk ve shlucích к procentu buněk I izolovánu),",
+      "c) procento stočených buněk hluboké vrstvy epitelu",
+      "d) procento zralých buněk se stočenou cytoplazmou к buňkám nestočeným bez ohledu na vzhled jádra"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": [
+      "d) procento zralých buněk se stočenou cytoplazmou к buňkám nestočeným bez ohledu na vzhled jádra"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Crowded index (index shlukovací) znamená v hormonální cytodiagnostice",
+    "answers": [
+      "a) %%crnofilnính huuěkve ehlucích : % inteemediáánich buněk izolovaných",
+      "b) (superficiálních) buněk ve shlucích : % buněk izohv^ých",
+      "c) ibuněk ve shlucích (více než 4): % buněk izolovaných",
+      "d) %liSogených buněk ve shlucích : ostatním buňkám nessočeinm izolovaným"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": [
+      "c) ibuněk ve shlucích (více než 4): % buněk izolovaných"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Pro cytodiagnostiku benignity a malignity změn na cervixu odebíráme stěr",
+    "answers": [
+      "a) ze zadní poševní klenby",
+      "b) z portio vaginalis a postranní poševní klenby",
+      "c) z ektocervixu a endocervixu",
+      "d) z viditelné léze na ektocevixu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["c) z ektocervixu a endocervixu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Junkční zóna u těhotných žen je nejpravděpodobněji",
+    "answers": [
+      "a) na vulvě",
+      "b) v endocervixu",
+      "c) v pochvě",
+      "d) na ektocervixu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) na ektocervixu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Kolik Barrových tělísek můžeme očekávat v jádru buněk u pacientek s karyotypem XXXY",
+    "answers": ["a) 4", "b) 3", "c) 1", "d) 2"],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) 2"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Froievem změněné polarity buněk a rychlého růstu ve tkáni jsou v cytologickém stěru",
+    "answers": [
+      "a) she^t like formace",
+      "b) uspořádím buněk do perel",
+      "c) izolované buňky superficiální z dlaždicového epitelu",
+      "d) jyncytiúlní shluky"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) jyncytiúlní shluky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Portio vaginalis z anatomického hlediska je synonymem pro",
+    "answers": ["a) ektocervix", "b) vagínu", "c) vulvu", "d) endocervix"],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["a) ektocervix"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Flazmafické buňky v cytologických sterech jsou ve všech uvedených případech kromě",
+    "answers": [
+      "a) dhždicové metaplazie",
+      "b) prollferace fbroblastů ve formacích granulační tkáně",
+      "c) u chronické cervicitidy bakteriálního původu",
+      "d) reakce epitelu na steroidní kontracepci"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) reakce epitelu na steroidní kontracepci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Cytologické změny sdružené s deficitem kyseliny listové můžeme snadno zaměnit za",
+    "answers": [
+      "a) změny po porodu",
+      "b) změny v těhotenství",
+      "c) irtpetickou infekci",
+      "d) změny po záření"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) změny po záření"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Edrojem holých hypochrommích a zvětšených jader v cytologických stěrech z cervixu jsou obvykle",
+    "answers": [
+      "a) amkterialni cytolýza buněk",
+      "b) buňky pocházející ze zhoubného nádoru",
+      "c) endocervikální buňky",
+      "d) autolýza parabazálních buněk"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["c) endocervikální buňky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Jaký je vztah androgenů aplikovaných parente1 rálně nebo per os к epitelu horní třetiny pochvy v generačním období",
+    "answers": [
+      "a) kariopicnoticky index stoupá",
+      "b) ba poševní epitel nepůsobí vůbec",
+      "c) navodí zvýšené odlučování buněk",
+      "d) zvyšují počet povrchových (superficiálních) buněk"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["c) navodí zvýšené odlučování buněk"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Lidský papilomavirus (HPV) se v cytologických obrazech může projevit",
+    "answers": [
+      "a) změnami na buňkách, které označujeme jako koilocyty",
+      "b) změní mikrobní obraz poševní",
+      "c) cytolýzou buněk",
+      "d) sníží vyzrávání dlaždicového epitelu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": [
+      "a) změnami na buňkách, které označujeme jako koilocyty"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Hrozící předčasný porod se projeví v cytologických obrazech získaných stěrem horní třetiny pochvy",
+    "answers": [
+      "a) sníženým zráním poševního epitelu",
+      "b) zvýšeným počtem povrchových buněk",
+      "c) zvýšeným počtem eozinofilních intermediámích buněk",
+      "d) shlukováním buněk"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["b) zvýšeným počtem povrchových buněk"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Jakou úlohu má dlaždicový epitel na portio vaginalis uteri",
+    "answers": [
+      "a) ochrannou",
+      "b) regenerační",
+      "c) absorpční",
+      "d) sekreční"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["a) ochrannou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Maturační index v cytodiagnostice je vyjádřen",
+    "answers": [
+      "a) počtem buněk povrchové vrstvy dlaždicového epitelu к počtu buněk cyanofilních a eozinofilních",
+      "b) poměrem procenta buněk bazální vrstvy dlaždicového epitelu к procentu buněk intermedármích a povrchových",
+      "c) počtem povrchových buněk к počtu buněk bazálních a parabazálních",
+      "d) počtem intermediálních epitelií na 100 spočtených"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": [
+      "b) poměrem procenta buněk bazální vrstvy dlaždicového epitelu к procentu buněk intermedármích a povrchových"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Buňky, které zřídka najdeme v cervikálním cytologickém stěru, mají však vztah к mimoděložnímu těhotenství, jsou",
+    "answers": [
+      "a) deciduální buňky",
+      "b) Langhanzovy buňky",
+      "c) buňky Arias Stella",
+      "d) buňky trofoblastu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["c) buňky Arias Stella"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Nemocná ve věku 65 let s granulózovým tumorem ovaria bude mít karyopyknotický cytologický index pravděpodobně",
+    "answers": ["a) 30/70", "b) 100/0", "c) 0/100", "d) 0/50"],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["b) 100/0"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Biocenóza pochvy matky ohrožuje plod, pokud je osídlena uvedenými mikroorganismy kromě",
+    "answers": [
+      "a) Dóderleinova bacilu",
+      "b) chlamydií",
+      "c) neisserií",
+      "d) HSV"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["a) Dóderleinova bacilu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Nejčastějším histologickým důkazem ovulace je na endometriu",
+    "answers": [
+      "a) povrchový edém stromatu",
+      "b) pseudodeciduální reakce",
+      "c) mitóza v epitelu a stromatu",
+      "d) subnukleální vakuolizace"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) subnukleální vakuolizace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Proliferace buněk pod cylindrickým epitelem nad bazální membránou je formou",
+    "answers": [
+      "a) vaginální adenózy",
+      "b) dlaždicové metaplazie",
+      "c) nekrózy žláz",
+      "d) tuberkulózy"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["b) dlaždicové metaplazie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Polychromatická barvení pro funkční a onkologickou cytodiagnostiku jsou všechna kromě",
+    "answers": [
+      "a) barvení Magandiho",
+      "b) barvení Papanicolauova",
+      "c) barvení Massonova",
+      "d) barvení Mayova-Giemsova-Griinwaldova-Romanowského"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) barvení Mayova-Giemsova-Griinwaldova-Romanowského"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Karyopyknotický index v cytologické diagnostice znamená (při počtu na 100 buněk)",
+    "answers": [
+      "a) % buněk eozinofilních : % superficiálních buněk",
+      "b) počet eozinofilních buněk ve stěru",
+      "c) % buněk superficiálních : % intermediálních buněk",
+      "d) počet povrchových cyanofilních epitelií ve stěru"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["c) % buněk superficiálních : % intermediálních buněk"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Cytologický eozinofilní index je",
+    "answers": [
+      "a) počet eozinofilních intermediálních buněk",
+      "b) % superficiálních cyanofilních buněk : % intermediárních buněk",
+      "c) počet shluklých eozinofilních buněk",
+      "d) % eozinofilních buněk dlaždicového epitelu : % cyanofilních epitelií Gynekologie a porodnictví. Test]"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": [
+      "d) % eozinofilních buněk dlaždicového epitelu : % cyanofilních epitelií Gynekologie a porodnictví. Test]"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Buňky pro hormonální cytodiagnostiku můžeme odebírat",
+    "answers": [
+      "a) ze všech oddílů pochvy",
+      "b) ze střední části pochvy",
+      "c) jen z horní třetiny pochvy",
+      "d) z ektocervixu a endocervixu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["c) jen z horní třetiny pochvy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Nejlepší preparát pro hormonální cytodiagnostiku zhotovíme",
+    "answers": [
+      "a) stěrem z děložního čípku",
+      "b) jemným stěrem z postranní poševní klenby",
+      "c) aspirací ze zadní poševní klenby",
+      "d) aspirací z endocervixu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["b) jemným stěrem z postranní poševní klenby"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Který z roztoků nesmíme použít к fixaci cytologických preparátů",
+    "answers": [
+      "a) 90% etanol",
+      "b) izopropylalkohol",
+      "c) 100% metanol",
+      "d) 10% formalin"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) 10% formalin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Buňky retikula, které jsou přítomny u některých pacientek při chronické cervicitidě, pocházejí",
+    "answers": [
+      "a) z granulační tkáně",
+      "b) z ulcerace submukózního myomu",
+      "c) z germinativní vrstvy lymfatických folikulů",
+      "d) z glykogenem bohatého epitelu cervixu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["c) z germinativní vrstvy lymfatických folikulů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Polychromatické barvení v gynekologické cytodiagnostice se na buňkách neprojeví",
+    "answers": [
+      "a) diferenčním barvením (cytoplazma -jádro)",
+      "b) na cytoplazmě (eozinofilií a cyanofilií)",
+      "c) tak, že znázorní podrobnosti v jádru",
+      "d) tak, že dobře barví organely"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) tak, že dobře barví organely"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Kolik různých barviv obsahuje polychromatické cytologické barvení podle Papanicolaoua",
+    "answers": ["a) 2", "b) 3", "c) 5", "d) 4"],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["c) 5"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Liquid based cytologická technika zhotovení cytologických preparátů vyžaduje od klinika následující úkony kromě",
+    "answers": [
+      "a) instrument s odebranými buňkami ponořit do Tyrodova roztoku",
+      "b) instrument s odebranými buňkami oprat ve formolu",
+      "c) instrument s odebranými buňkami oprat v alkoholu",
+      "d) ponořit do jakékoli fixace v cytodiagnostice"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["b) instrument s odebranými buňkami oprat ve formolu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Maligní buňky odlišuje od buněk z regeneračních (reparačních) procesů vše uvedené kromě",
+    "answers": [
+      "a) diatézy mezibuněčných prostor",
+      "b) syncytiálního uspořádání jader",
+      "c) hrubě chromatinové sítě",
+      "d) přítomnosti velikých jadérek"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) přítomnosti velikých jadérek"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Charakteristický znak к rozlišení histiocytů od ostatních buněk je",
+    "answers": [
+      "a) barva cytoplazmy",
+      "b) zrnitý chromatin",
+      "c) vezikulámí (měchýřkovité)jádro",
+      "d) »pěnová« cytoplazma"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) »pěnová« cytoplazma"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Trhliny v buňkách způsobené jejich scvrknutím jsou často v preparátech, které obsahují",
+    "answers": ["a) parazity", "b) hlen", "c) cytolýzu", "d) erytrocyty"],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["b) hlen"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Psamomatózní tělíska jsou obsažena nejčastěji v genitálních adenokarcinomech z",
+    "answers": ["a) vejcovodů", "b) dělohy", "c) ovaria", "d) vulvy"],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["c) ovaria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Je-li na ektocervixu ektopie nebo ektropium, bude cytologický stěr z těchto míst obsahovat",
+    "answers": [
+      "a) cylindrické buňky",
+      "b) parabazální buňky",
+      "c) beziademé šupiny (squamy)",
+      "d) nezralé metaplastické buňky"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": [
+      "a) cylindrické buňky",
+      "d) nezralé metaplastické buňky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Pro screeningové cytologické posouzení patologie na endometriu musí klinik pro cytopatologa odebrat stěry",
+    "answers": [
+      "a) z endocervixu a endometria",
+      "b) z ektocervixu a endometria",
+      "c) postačující je jen stěr z endometria",
+      "d) z pochvy, endocervixu a endometria"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) z pochvy, endocervixu a endometria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Při klinické diagnóze primární amenorey bude žádat klinik od cytopatologa vyšetření",
+    "answers": [
+      "a) Barrova tělíska",
+      "b) buněk endometria",
+      "c) maturačního indexu",
+      "d) biocenózy"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["a) Barrova tělíska", "c) maturačního indexu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Buněčný materiál pro cytodiagnostiku endometria se optimálně získává",
+    "answers": [
+      "a) výplachem děložní dutiny",
+      "b) výtěrem děložní dutiny",
+      "c) aspirací buněk z děložní dutiny",
+      "d) brush technikou za vizualizace"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["d) brush technikou za vizualizace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Pro rozlišení maligních buněk od buněk hyperplastických je nejdůležitější",
+    "answers": [
+      "a) zvětšení jádra",
+      "b) hyperchromazie jádra",
+      "c) uvolňování buněk ze skupin",
+      "d) atypická mitóza"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["c) uvolňování buněk ze skupin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Který z těchto nálezů v cervikovaginálních stěrech je důležitý v postmenopauze pro časné odhalení malignity endometria",
+    "answers": [
+      "a) normální buňky endometria během sekreční fáze cyklu",
+      "b) nevysvětlitelná estrogenní cytologická aktivita v seniu",
+      "c) jádra buněk endometria jsou 2krát větší než jádra intermediárních buněk",
+      "d) špinění nebo krvácení v postmenopauze"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": [
+      "b) nevysvětlitelná estrogenní cytologická aktivita v seniu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Které léze na děložním hrdle mají buňky s neprůhlednými hutnými jádry",
+    "answers": [
+      "a) velkobuněčný nerohovějící karcinom",
+      "b) keratinizující dlaždicový karcinom",
+      "c) malobuněčný karcinom",
+      "d) všechny adenokarcinomy"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["b) keratinizující dlaždicový karcinom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Který úkon v procesu přípravy cytologických preparátů způsobuje největší poškození buňky",
+    "answers": [
+      "a) air drying buněk před jejich fixací",
+      "b) veliký negativní tlak při filtraci",
+      "c) užití silného krycího skla při montování preparátu",
+      "d) buněčné vzorky dlouho uchovávané v konzervačním prostředí"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["a) air drying buněk před jejich fixací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Nejdůležitějším cytologickým znakem, který pomáhá rozlišit maligní buňky od buněk hyperplastických, jsou",
+    "answers": [
+      "a) nepravidelnosti jadérek",
+      "b) atypické mitózy",
+      "c) snížení soudržnosti buněk",
+      "d) zvětšení jádra"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Cytodiagnostika v gynekologii. II. část postgraduální"],
+    "correctAnswers": ["c) snížení soudržnosti buněk"],
     "description": [""],
     "img": [""]
   }

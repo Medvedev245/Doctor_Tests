@@ -3,6 +3,7 @@ import styled from 'styled-components';
 //main container
 export const Container = styled.div`
   background-color: var(--iq-secondary);
+  /* background-color: red; */
 `;
 
 export const MainContainer = styled.main`

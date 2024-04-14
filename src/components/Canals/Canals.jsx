@@ -1,7 +1,7 @@
 // import YouTube from 'react-youtube';
 
 import { Link } from 'react-router-dom';
-import VideoCanals from '../../Files/Video.json';
+import VideoCanals from '../../Files/VideoCanals.json';
 import { CanalLisl, CanalElement, MainText, SmallText } from './Canals.styled';
 import icon from '../../Files/img/youtube-svgrepo-com.png';
 
