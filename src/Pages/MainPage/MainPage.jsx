@@ -31,9 +31,8 @@ const MainPage = () => {
           <ContainerText to="AllTests">
             <MainDescr>All Tests</MainDescr>
             <p>
-              On this page you can familiarize yourself with all the existing
-              tests on the site. View any test in full with correct answers and
-              description.
+              In this tab you can view all existing tests on the site. View any
+              test in full with correct answers and description.
             </p>
           </ContainerText>
           <ContainerText to="video">

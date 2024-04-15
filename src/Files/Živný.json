@@ -8194,5 +8194,2209 @@
     "correctAnswers": ["c) snížení soudržnosti buněk"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Roševní epitel novorozence ženského pohlaví je",
+    "answers": [
+      "a) v proliferační fázi",
+      "b) v sekreční fázi",
+      "c) atrofický",
+      "d) hyperplastický"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) v proliferační fázi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. V ovariu novorozence se nachází přibližně tento počet primordiálních folikulů",
+    "answers": [
+      "a) 500 000-1 000 000",
+      "b) 200 000-300 000",
+      "c) jen ojedinělé",
+      "d) 80 000-100 000"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) 200 000-300 000"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. V novorozeneckém obdobíje poměr velikosti děložního hrdla a děložního těla",
+    "answers": ["a) 1,5 : 1,0", "b) 10: 1,0", "c) 2,5 : 1,0", "d) 10: 2,5"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) 2,5 : 1,0"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Základní struktura gestagenů má",
+    "answers": ["a) 18 uhlíků", "b) 19 uhlíků", "c) 21 uhlíků", "d) 27 uhlíků"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) 21 uhlíků"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Menstruace",
+    "answers": [
+      "a) je často spojena s retencí tekutin",
+      "b) normálně není bolestivá",
+      "c) obvyklá krevní ztráta je 20-80ml",
+      "d) ustává před dosažením 48 roku života"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) obvyklá krevní ztráta je 20-80ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Ovulace obvykle nastává",
+    "answers": [
+      "a) v době nejvyšší hodnoty progesteronu",
+      "b) 14 dní před začátkem menstruace",
+      "c) 1 den před nejvyšší hodnotou folikulostimulačního hormonu (FSH)",
+      "d) 2 dny po nejvyšší hodnotě luteinizačního hormonu (LH)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) 14 dní před začátkem menstruace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. FTH",
+    "answers": [
+      "a) je nezbytně nutný pro udržení funkce corpus luteum",
+      "b) stimuluje tvorbu estradiolu v granulózových buňkách",
+      "c) je zvýšen při syndromu polycystických ovarií",
+      "d) je odpovědný za rupturu folikulu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": [
+      "b) stimuluje tvorbu estradiolu v granulózových buňkách"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Vzorec tohoto steroidu je správný",
+    "answers": [
+      "a) progesteron",
+      "b) 17B-estradiol",
+      "c) estriol",
+      "d) estron"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) progesteron"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Bromooriptin",
+    "answers": [
+      "a) může vyvolat hypertenzi",
+      "b) užívá se к léčení hyperprolaktinémie",
+      "c) je analogem prolaktinu",
+      "d) užívá se к indukci ovulace a je příčinou vícečetných těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) užívá se к léčení hyperprolaktinémie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Prooestooeny se užívvjí přilééhě",
+    "answers": [
+      "a) endometriózy",
+      "b) mnohočetných myomů",
+      "c) endometritidy",
+      "d) habituálních potratů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) endometriózy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Progestogeny se užívají při",
+    "answers": [
+      "a) léčbě hyperprolaktinémie",
+      "b) indukci ovulace",
+      "c) léčbě dysfunkčního krvácení",
+      "d) léčbě kolpitidy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) léčbě dysfunkčního krvácení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Progestogeny se užívají při",
+    "answers": [
+      "a) léčbě erozí na čípku",
+      "b) zahájení indukce porodu",
+      "c) léčbě karcinomu endometria",
+      "d) při léčbě myoma nascens u žen po menopauze"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) léčbě karcinomu endometria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Gonadoiiberin (GnRH)",
+    "answers": [
+      "a) stimuluje sekreci FSH a LH",
+      "b) po aplikaci jedné dávky vyvolá ovulaci",
+      "c) je tvořen v acidofilmch buňkách předního laloku I hypofýzy",
+      "d) jepolypeptid s vysokou molekulární hmotností"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) stimuluje sekreci FSH a LH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Důvodem pro léčbu estrogeny je",
+    "answers": [
+      "a) hrozící potrat",
+      "b) postmenopauzální kolpitida",
+      "c) dystrofické změny na vulvě",
+      "d) děložní myom"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) postmenopauzální kolpitida"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Důvodem (indikací) pro léčbu estrogeny je",
+    "answers": [
+      "a) Steinův-Leventhalův syndrom",
+      "b) syndrom polycystických ovarií",
+      "c) moperabilní karcinom endometria",
+      "d) hypogonadotropni hypogonadismus"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) hypogonadotropni hypogonadismus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Silná, ale pravidelná menstruace svědčí spise pro",
+    "answers": [
+      "a) děložní myom",
+      "b) hypertenzi",
+      "c) karcinom čípku",
+      "d) karcinom endometria"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) děložní myom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Silná, ale pravidelná menstruace svědčí spíše pro",
+    "answers": [
+      "a) hyperprolaktinémii",
+      "b) Steinův-Leventhalův syndrom",
+      "c) myxedém",
+      "d) Ashermanův syndrom"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) myxedém"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Molekulární železo je",
+    "answers": [
+      "a) absorbováno ve ferri formě jako Fe3+",
+      "b) v zásobní formě vázáno reverzibilně na feritin",
+      "c) primárně ukládáno ve slezině",
+      "d) vylučováno močí ve ferro formě jako Fe24"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) v zásobní formě vázáno reverzibilně na feritin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Tento vzorec má",
+    "answers": ["a) vitamin", "b) lipid", "c) cerebrosid", "d) steroid"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) lipid"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Základní struktura vzorce je společná pro tyto látky s výjimkou",
+    "answers": [
+      "a) FSH",
+      "b) estriolu",
+      "c) vitaminu D",
+      "d) žlučové kyseliny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) FSH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Týto hormony jsou produkovány v hypofýze, s výjimkou",
+    "answers": ["a) prolaktinu", "b) 17-OH progesteronu", "c) LH", "d) FSH"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) 17-OH progesteronu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Který z následujících hormonů primárně ovlivňu je vývoj folikulů před ovulací",
+    "answers": [
+      "a) FSH",
+      "b) choriový gonadotropin (hCG)",
+      "c) LH",
+      "d) estradiol"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) FSH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Jaké fázi cyklu odpovídá tloušťka endometria označená šipkou s písmenem X",
+    "answers": [
+      "a) maturaci corpus luteum",
+      "b) časné proliferační fázi",
+      "c) ovulaci",
+      "d) sekreční fázi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) ovulaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Který z údajů o absorpci a metabolismu železa je správný",
+    "answers": [
+      "a) absorpce železa je pasivní proces, závislý na koncentračním gradientu",
+      "b) železo je absorbováno rychle z tenkého střeva",
+      "c) denně je absorbováno okolo 10mg železa",
+      "d) železo je v krvi vázáno na transferin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) železo je v krvi vázáno na transferin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Všechny údaje o progesteronu jsou správné s výjimkou",
+    "answers": [
+      "a) koncentrace v plazmě se zvyšuje po ovulaci",
+      "b) po implantaci plodového vejce se jeho koncentrace nezmění",
+      "c) je produkován v corpus luteum",
+      "d) je produkován v placentě"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": [
+      "b) po implantaci plodového vejce se jeho koncentrace nezmění"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Všechny údaje o účinku estrogenů jsou správné s výjimkou tvrzení",
+    "answers": [
+      "a) způsobují duktální proliferaci v prsní žláze",
+      "b) způsobují glandulámí proliferaci v prsní žláze",
+      "c) ovlivňují kvalitu cervikálního hlenu",
+      "d) způsobují cyklické změny na sliznici poševní a endometriu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) způsobují glandulámí proliferaci v prsní žláze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Testosteron je syntetizován z následujících steroidů s výjimkou",
+    "answers": [
+      "a) androstendionu",
+      "b) dehydroepiandrosteronu",
+      "c) estriolu",
+      "d) cholesterolu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) estriolu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Heparin primárně",
+    "answers": [
+      "a) inaktivuje tromboplastin",
+      "b) způsobuje fibrinolýzu",
+      "c) blokuje konverzi protrombinu na trombin",
+      "d) blokuje účinek trombinu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) blokuje účinek trombinu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Trombocyty produkují",
+    "answers": [
+      "a) fibrinogen",
+      "b) protrombin",
+      "c) plazminogen",
+      "d) tromboplastin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) tromboplastin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Progesteron je tvořen v těchto orgánech s výjimkou",
+    "answers": [
+      "a) ovaria",
+      "b) nadledviny",
+      "c) placenty",
+      "d) corpus luteum"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) nadledviny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Sekrece z předního laloku hypofýzy",
+    "answers": [
+      "a) je způsobena tím, že každý hormon produkovaný v hypofýze má svůj vlastní hypotalamický releasing hormon (tzn. že jeden hypotalamický hormon neovlivňuje sekreci více hypofyzárních hormonů)",
+      "b) závisí na přímém nervovém spojení mezi hypotalamem a předním lalokem hypofýzy",
+      "c) je nezávislá na řízení prostřednictvím CNS, zejména hypotalamu",
+      "d) závisí na sekreci hypotalamických releasing hormonů do kapilárního plexu v eminentia mediana"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": [
+      "d) závisí na sekreci hypotalamických releasing hormonů do kapilárního plexu v eminentia mediana"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Všechny následující údaje o oxytocinu jsou správné s výjimkou jednoho",
+    "answers": [
+      "a) jesecemován přímo z nervových zakončení",
+      "b) jesecemován z předního laloku hypofýzy (z adenoГ hypofýzy)",
+      "c) způsobuje kontrakce hladkého svalu",
+      "d) jesecemován ze zadního laloku hypofýzy (z neuro"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": [
+      "b) jesecemován z předního laloku hypofýzy (z adenoГ hypofýzy)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Ovariální folikuly produkují tyto hormony I s výjimkou",
+    "answers": [
+      "a) gestagenú",
+      "b) gonadotropinů",
+      "c) androgenů",
+      "d) estrogenů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) gonadotropinů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Výsledkem abnormálně nízké koncentrace I estrogenů jsou tyto stavy s výjimkou jednoho",
+    "answers": [
+      "a) snížené nebo pozdě se objevující pubické ochlupení",
+      "b) snížené ukládání tuku v podkoží",
+      "c) zvýšené tělesné hmotnosti",
+      "d) zvýšené retence Na* a H2O"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) zvýšené retence Na* a H2O"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Který z následujících homonů není tvořen v adenohypofýze",
+    "answers": ["a) ACTH", "b) LH", "c) FSH", "d) ADH"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) ADH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. 17-ketosteroidy, které se vylučují močí",
+    "answers": [
+      "a) jsou ukazatelem celkové tvorby androgenů",
+      "b) jsou ukazatelem celkové tvorby pohlavních hormonů",
+      "c) u ženinezjišťujeme",
+      "d) jsou biologicky vysoce aktivní androgeny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) jsou ukazatelem celkové tvorby androgenů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. U ženy s pravidelným 28denním menstruačním cyklem nastává nejpravděpodobněji ovulace",
+    "answers": [
+      "a) 18 den cyklu",
+      "b) II den cyklu",
+      "c) 20 den cyklu",
+      "d) 14 den cyklu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) 14 den cyklu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Vhypotalamu se syntetizuje",
+    "answers": [
+      "a) folikuly stimulující hormon (FSH)",
+      "b) luteinizační hormon (LH)",
+      "c) gonadoliberin (GnRH)",
+      "d) oxytocin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) gonadoliberin (GnRH)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Hypotalamus zajišťuje především",
+    "answers": [
+      "a) rytmické dýchání",
+      "b) homeostázu tělesné teploty",
+      "c) homeostázu krevního tlaku",
+      "d) percepci pachu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) homeostázu tělesné teploty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. V ovariu se tvoří",
+    "answers": [
+      "a) estrogeny. androgeny a gestageny",
+      "b) pouze androgeny",
+      "c) pouze estrogeny",
+      "d) pouze gestageny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) estrogeny. androgeny a gestageny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Ve varlatech se tvoří",
+    "answers": [
+      "a) pouze estrogeny",
+      "b) pouze androgeny",
+      "c) gestageny",
+      "d) estrogeny a androgeny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) estrogeny a androgeny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. V kůře nadledvin se tvoří",
+    "answers": [
+      "a) pouze kortikoidy",
+      "b) estrogeny a androgeny",
+      "c) estrogeny",
+      "d) androgeny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) androgeny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Od puberty do menopauzy (včetně) jsou v měřitelných množstvích produkovány tyto hormony",
+    "answers": [
+      "a) estrogeny",
+      "b) androgeny",
+      "c) estrogeny a androgeny",
+      "d) žádná z výše uvedených látek"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) estrogeny a androgeny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Anabolické účinky na sval a kostní tkáň mají tyto hormony",
+    "answers": [
+      "a) gonadotropiny",
+      "b) estrogeny",
+      "c) estrogeny a androgeny",
+      "d) androgeny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) estrogeny a androgeny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Menstruační cyklus je období od",
+    "answers": [
+      "a) prvního dne menstruačního krvácení do posledního dne před následujícím menstruačním krvácením",
+      "b) posledního dne menstruačního krvácení do posledního dne následujícího menstruačního krvácení",
+      "c) začátku krvácení do konce krvácení",
+      "d) posledního dne menstruačního krvácení do prvního dne následujícího menstruačního krvácení"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": [
+      "a) prvního dne menstruačního krvácení do posledního dne před následujícím menstruačním krvácením"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Průměrná délka normálního menstruačního cyklu je",
+    "answers": ["a) 24 dní", "b) 28 dní", "c) 32 dní", "d) 36 dní"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) 28 dní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Ovulační menstruační cyklus má",
+    "answers": [
+      "a) pouze luteální fázi",
+      "b) prefolikulámí a postfolikulámí fázi",
+      "c) folikulámí a luteální fázi",
+      "d) pouze folikulámí fázi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) folikulámí a luteální fázi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Normální délka menstruačního cyklu může mít maximální rozmezí",
+    "answers": ["a) 23-36 dní", "b) 28-30 dní", "c) 21-39 dní", "d) 15-24 dní"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) 23-36 dní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Ženské pohlaví hormony jsou pouze",
+    "answers": [
+      "a) progestogeny",
+      "b) estrogeny",
+      "c) estrogeny, progestogeny a androgeny",
+      "d) estrogeny a progestogeny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) estrogeny a progestogeny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Biologicky nejaktivnějšíje tento endogenní estrogen",
+    "answers": ["a) estriol", "b) estradiol", "c) estron", "d) estetrol"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) estradiol"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Biologicky nejúčinnější je tento endogenní progestogen",
+    "answers": [
+      "a) pregnantriol",
+      "b) pregnandiol",
+      "c) 21-OH progesteron",
+      "d) progesteron"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) progesteron"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Bezprostředním prekurzorem biosyntézy estrogenů je (jsou)",
+    "answers": [
+      "a) cholesterol",
+      "b) aldosteron",
+      "c) androgeny",
+      "d) progesteron"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) androgeny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Základní struktura pohlavních steroidů je odvozena od",
+    "answers": ["a) pentanu", "b) heptanu", "c) hexanu", "d) steranu"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) steranu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Základní struktura pohlavních steroidů je tvořena",
+    "answers": [
+      "a) 4 cyklohexanovými kruhy",
+      "b) 1 cyklohexanovým a 3 cyklopentanovými kruhy",
+      "c) 3 cyklohexanovýcmi a 1 cyklopentanovým kruhem",
+      "d) 2 cyklohexanovými a 2 cyklopentanovými kruhy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) 3 cyklohexanovýcmi a 1 cyklopentanovým kruhem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Základní steroid pro biosyntézu pohlavních steroidů je",
+    "answers": [
+      "a) dehydroepiandrosteron",
+      "b) cholesterol",
+      "c) kortizol",
+      "d) androstendion"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) cholesterol"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Cholesterol má",
+    "answers": ["a) 25 uhlíků", "b) 27 uhlíků", "c) 26 uhlíků", "d) 24 uhlíků"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) 27 uhlíků"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Základní struktura androgenů má",
+    "answers": ["c) 21 uhlíků", "b) 19 uhlíků", "c) 18 uhlíků", "d) 27 uhlíků"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) 19 uhlíků"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Nejdůležitějším enzymem pro konverzi androgenů na estrogeny je",
+    "answers": [
+      "a) 17,20-lyáza",
+      "b) aromatáza",
+      "c) 17a-hydroxyláza",
+      "d) 17B-reduktáza"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) aromatáza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Na bílkovinný nosič je v plazmě navázáno až",
+    "answers": [
+      "a) 79 % pohlavních steroidů",
+      "b) 99% pohlavních steroidů",
+      "c) 89 % pohlavních steroidů",
+      "d) 69 % pohlavních steroidů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) 99% pohlavních steroidů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Volných (na bílkovinný nosič nevázaných) pohlavních steroidů je v plazmě asi",
+    "answers": ["a) 1%", "b) 7%", "c) 5%", "d) 3%"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) 1%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Hlavní degradační produkt metabolismu estrogenů, který je vylučován ve formě sulfátu nebo glukuronidů je",
+    "answers": [
+      "a) estriol",
+      "b) ethinylestradiol",
+      "c) dienestrol",
+      "d) estetrol"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) estriol"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Hlavní degradační produkt metabolismu progesteronu je",
+    "answers": [
+      "a) pregnantriol",
+      "b) 6-dehydroprogesteron",
+      "c) pregnandiol",
+      "d) 17-hydroxyprogesteron"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) pregnandiol"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Hlavními degradačním produkty metabolismu androgenů, které jsou vylučovány ve formě sulfátu nebo glukuronidu, jsou",
+    "answers": [
+      "a) dihydrotestosteron a androstendion",
+      "b) dihydrotestosteron a androstendiol",
+      "c) androsteron a izoandrosteron",
+      "d) dehydroepiandrosteron a androstendiol"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) androsteron a izoandrosteron"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. V sekreční fázi cyklu produkuje corpus luteum",
+    "answers": [
+      "a) pouze testosteron",
+      "b) pouze progesteron",
+      "c) progesteron a 17B-estradiol",
+      "d) pouze 17B-estradiol"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) progesteron a 17B-estradiol"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Ve folikulární fázi je gonadoliberin (GnRH) uvolňován z hypotalamu v pravidelných intervalech (pulsech), které mají frekvenci okolo",
+    "answers": ["a) 50 minut", "b) 50 sekund", "c) 90 hodin", "d) 90 minut"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) 90 minut"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. V luteální fázi je gonadoliberin (GnRH) uvolňován z hypotalamu v intervalech (pulsech), které mají frekvenci okolo",
+    "answers": [
+      "a) několika sekund",
+      "b) několika dní",
+      "c) několika minut",
+      "d) několika hodin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) několika hodin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Na produkci gonadotropinů v hypofýze mají В estrogen účinek",
+    "answers": [
+      "a) pouze stimulační",
+      "b) žádný",
+      "c) stimulační a inhibiční",
+      "d) pouzeinhibiční"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) stimulační a inhibiční"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Nejvyšší koncentrace estrogenů v séru je",
+    "answers": [
+      "a) na počátku folikulámí fáze",
+      "b) na konci folikulámí fáze",
+      "c) v období menstruace",
+      "d) v luteální fázi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) na konci folikulámí fáze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Průběh menstruačního cyklu ovlivňuje nejvíce",
+    "answers": [
+      "a) uvolňování prolaktinu ze středního laloku hypofýzy",
+      "b) syntéza estrogenů v ovariu",
+      "c) syntéza progesteronu v corpus luteum",
+      "d) pulsatilní sekrece gonadoliberinu (GnRH)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) pulsatilní sekrece gonadoliberinu (GnRH)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Gonadoliberin (GnRH) ovlivňuje syntézu a sekreci těchto látek",
+    "answers": [
+      "a) adrenalinu a noradrenalinu",
+      "b) prolaktinu a dopaminu",
+      "c) FSH a LH",
+      "d) ACTHaTRH"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) FSH a LH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Pro folikulámí fázi menstruačního cyklu není charakteristické",
+    "answers": [
+      "a) různá délka folikulámí fáze",
+      "b) bazální teplota nad 37 °C",
+      "c) vaskularizace endometria",
+      "d) sekrece ovariálních estrogenů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) bazální teplota nad 37 °C"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Pro normální průběh menstruace jsou charakteristické tyto děje s výjimkou",
+    "answers": [
+      "a) konstrikce spirálních arterií",
+      "b) poklesu koncentrace prostaglandinů v endometriu",
+      "c) ischémie endometria",
+      "d) deskvanacc endometria"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) poklesu koncentrace prostaglandinů v endometriu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. Sekreci androgenů stimuluje",
+    "answers": ["a) LH", "b) FSH", "c) STH", "d) FSH a LH"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) LH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Cílové buňky v ovariu jsou stimulovány",
+    "answers": ["a) GnRH", "b) FSHaLH", "c) LH", "d) FSH"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) FSHaLH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Základní struktura estrogenů má",
+    "answers": ["a) 18 uhlíků", "b) 19 uhlíků", "c) 21 uhlíků", "d) 27 uhlíků"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) 18 uhlíků"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. Sekreci prolaktinu stimuluje",
+    "answers": ["a) FSH", "b) LH", "c) FSH a LH", "d) žádný z těchto hormonů"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) žádný z těchto hormonů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Prolaktin",
+    "answers": [
+      "a) stimuluje růst alveolámí složky prsu",
+      "b) zvyšuje tlak v mlékovodech a umožňuje ejekci mléka",
+      "c) má základní význam pro ukládání tuku okolo mlékovodů",
+      "d) stimuluje růst duktálního systému prsu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) stimuluje růst alveolámí složky prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Oxytocin",
+    "answers": [
+      "a) stimuluje růst duktálního systému prsu",
+      "b) má základní význam pro vývoj prsu",
+      "c) zvyšuje tlak v mlékovodech a umožňuje ejakulaci mléka",
+      "d) stimuluje růst alveolámí složky prsu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": [
+      "c) zvyšuje tlak v mlékovodech a umožňuje ejakulaci mléka"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Normální tekutost cirkulující krve je s největší pravděpodobností zajišťována těmito látkami s výjimkou",
+    "answers": [
+      "a) plazmatického antitrombinu",
+      "b) antiplazminu",
+      "c) plazmatického antitromboplastinu",
+      "d) heparinu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) antiplazminu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. Pro receptory steroidních hormonů platí následující údaje s výjimkou",
+    "answers": [
+      "a) jsou lokalizovány v cytosolu",
+      "b) jsou lokalizovány na buněčné membráně",
+      "c) mají relativně malou molekulu -řádově 2000 a méně",
+      "d) jsou lokalizovány v jádře buňky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) mají relativně malou molekulu -řádově 2000 a méně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Steroidní hormony",
+    "answers": [
+      "a) působí velmi rychle, což je typické pro plazmatický receptorový systém",
+      "b) potřebují pro přechod přes buněčnou membránu specifický plazmatický protein transferin",
+      "c) jsou specifické pro membránové receptory",
+      "d) jsou specifické pro cytoplazmatické receptory"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) jsou specifické pro cytoplazmatické receptory"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. Nejdůležitější bílkovinné nosiče pohlavních steroidů jsou",
+    "answers": [
+      "a) protein vázající pohlavní steroidy (SHBG), transkortin, transferin",
+      "b) protein vázající pohlavní steroidy (SHBG), albumin, transkortin",
+      "c) albumin, transkortin, kalmodulin",
+      "d) protein vázající pohlavní steroidy (SHBG), albumin, feritin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": [
+      "b) protein vázající pohlavní steroidy (SHBG), albumin, transkortin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "85. Po menopauze",
+    "answers": [
+      "a) libido stoupá",
+      "b) sekrece gonadotropinů se snižuje",
+      "c) nemění se pH v pochvě",
+      "d) při každém krvácení z rodidel je nutné provést hysteroskopii event, probatomí kyretáž"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": [
+      "d) při každém krvácení z rodidel je nutné provést hysteroskopii event, probatomí kyretáž"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "86. Nucleus arcuatus v hypotalamu ovlivňuje svou sekrecí především",
+    "answers": [
+      "a) ovarium",
+      "b) nadledviny",
+      "c) hypofýzu",
+      "d) štítnou žlázu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) hypofýzu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "87. Hypotalamus secernuje",
+    "answers": [
+      "a) estrogeny",
+      "b) gestageny",
+      "c) androgeny",
+      "d) gonadoliberin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) gonadoliberin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "88. Gonadoliberin ovlivňuje",
+    "answers": [
+      "a) ovarium",
+      "b) neurohypofýzu",
+      "c) adenohypofýzu",
+      "d) endometrium"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) adenohypofýzu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "89. Neurohypofýza secernuje",
+    "answers": [
+      "a) prolaktin",
+      "b) oxytocin",
+      "c) folikulostimulační hormon (FSH)",
+      "d) luteinizační hormon (LH)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) oxytocin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "90. Mezi hypotalamem a hypofýzou existují",
+    "answers": [
+      "a) zpětné vazby negativní",
+      "b) zpětné vazby pozitivní",
+      "c) zpětné vazby pozitivní i negativní",
+      "d) vazby neexistují"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) zpětné vazby pozitivní i negativní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "91. Hypotalamus na podněty ovariálních steroidů",
+    "answers": [
+      "a) reaguje pozitivní zpětnou vazbou",
+      "b) reaguje pozitivní i negativní zpětnou vazbou",
+      "c) nereaguje",
+      "d) reaguje jen negativní zpětnou vazbou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) reaguje pozitivní i negativní zpětnou vazbou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "92. Cyklické změny na děloze jsou přímo ovlivněny",
+    "answers": [
+      "a) estrogeny",
+      "b) estrogeny a gestageny",
+      "c) gonadoliberinem",
+      "d) gonadotropiny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) estrogeny a gestageny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "93. Donošený novorozenec ženského pohlaví se narodí se zvýšenou koncentrací",
+    "answers": [
+      "a) lidského choriového gonadotropinu",
+      "b) progesteronu",
+      "c) gonadotropinů",
+      "d) estrogenů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) estrogenů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "94. Menarche je primárně podmíněna",
+    "answers": [
+      "a) tělesnou hmotností",
+      "b) dozráním sexuálních center v mezimozku",
+      "c) telarche",
+      "d) množstvím tukové tkáně"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) dozráním sexuálních center v mezimozku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "95. Týp pubertální dělohy je vyjádřen poměrem délky děložního hrdla к děložnímu tělu",
+    "answers": ["a) 1 : 3", "b) 1 : 1", "c) 1 :2", "d) 2: 1"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) 1 : 1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "96. Zrání ovariálních folikulů je především pod vlivem",
+    "answers": ["a) FSH", "b) LH", "c) estrogenů", "d) prolaktinu"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) FSH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "97. Za celé období pohlavní zralosti ženy dozraje přibližně tento počet folikulů",
+    "answers": ["a) 100", "b) 400", "c) 1000", "d) 200"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) 400"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "98. Corpus luteum produkuje",
+    "answers": [
+      "a) jen gestageny",
+      "b) lidský choriový gonadotropin",
+      "c) jen estrogeny",
+      "d) gestageny a estrogeny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) gestageny a estrogeny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "99. Endometrium proliferuje vlivem",
+    "answers": [
+      "a) gonadotropinů",
+      "b) lidského choriového gonadotropinu",
+      "c) gestagenů",
+      "d) estrogenů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) estrogenů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "100. Intermenstruální krvácení je způsobeno",
+    "answers": [
+      "a) možnou graviditou",
+      "b) vlivem gestagenů",
+      "c) zánětlivými změnami",
+      "d) poklesem estrogenů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) poklesem estrogenů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "101. Sekrečm fáze endometria se vyvíjí pod vlivem",
+    "answers": [
+      "a) jen estrogenů",
+      "b) jen gestagenů",
+      "c) estrogenů i gestagenů",
+      "d) myometria"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) estrogenů i gestagenů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "102. Při menstruaci se odlučuje",
+    "answers": [
+      "a) stratum functionale",
+      "b) stratum basale",
+      "c) stratum functionale a basale",
+      "d) myometrium"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) stratum functionale"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "103. V proliferační fázi produkují cervikální žlázy",
+    "answers": [
+      "a) hlen, který v této fázi nemá charakteristický vzhled",
+      "b) hustý hlen",
+      "c) zkalený hlen",
+      "d) řídký hlen"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) hustý hlen"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "104. Zevní branka děložního hrdla je během ovulace 114 Menstruatio tarda je menarche",
+    "answers": [
+      "a) rozšířená a) po 14 roce života",
+      "b) zúžená b) po 10 roce života",
+      "c) nemění se c) po 18 roce života",
+      "d) lividní d) po 12 roce života"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) rozšířená a) po 14 roce života"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "105. V období ovulace je relativně maximální sekrece",
+    "answers": [
+      "a) gestagenu",
+      "b) lidského choriového gonadotropinu",
+      "c) oliberinu",
+      "d) otropinu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) otropinu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "106. Кzjištění aktivity gestagenů v cyklu používáme",
+    "answers": [
+      "a) vysetření estriolu v moči za 24 hodin",
+      "b) progesteronový test",
+      "c) vysetření plazmatického progesteronu",
+      "d) vyšetření pregnantriolu v moči za 24 hodin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) vysetření plazmatického progesteronu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "107. Pro zjištění efektivity estrogenů v cyklu je I vhodné vyšetření",
+    "answers": [
+      "a) estetrol u",
+      "b) estriolu",
+      "c) plazmatického 17B-estradiolu",
+      "d) estronu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) plazmatického 17B-estradiolu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "108. Pozitivní progesteronový test znamená, že",
+    "answers": [
+      "a) jde o graviditu",
+      "b) v děloze nejsou přítomny receptory pro gestageny",
+      "c) endometrium je pod vlivem estrogenů",
+      "d) endometrium není schopné proliferace ani sekrece"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) endometrium je pod vlivem estrogenů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "109. Příčinou hypomenorey je nejčastěji",
+    "answers": [
+      "a) myoma uteri",
+      "b) snížená sekrece prolaktinu",
+      "c) porucha výstavby endometria",
+      "d) zvýšená sekrece prolaktinu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) porucha výstavby endometria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "110. Intermenstruační krváceníje",
+    "answers": [
+      "a) způsobeno zánětem",
+      "b) krvácení při ca colli uteri",
+      "c) nepravidelné krvácení způsobené myomem",
+      "d) krvácení v období ovulace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) krvácení v období ovulace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "111. Polymenorea je menstruační krvácení",
+    "answers": [
+      "a) častější než za 28 dnů",
+      "b) častější než za 24 dnů",
+      "c) častější než za 21 dnů",
+      "d) častější než za 35 dnů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) častější než za 21 dnů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "112. Oligomenorea je menstruační krvácení",
+    "answers": [
+      "a) trvající jen 1 den",
+      "b) ifekvencí nad 30 dnů",
+      "c) sfrekvenci nad 35 dnů",
+      "d) napadně slabé krvácení"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) sfrekvenci nad 35 dnů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "113. Menstruatio praecox je označení pro menarche",
+    "answers": [
+      "a) před 7 rokem",
+      "b) před 13 rokem",
+      "c) před 11 rokem",
+      "d) před 9 rokem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) před 7 rokem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "114. Menstruatio tarda je menarche",
+    "answers": [
+      "a) po 14 roce života",
+      "b) po 10 roce života",
+      "c) po 18 roce života",
+      "d) po 12 roce života"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) po 18 roce života"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "115. Hypermenorea je",
+    "answers": [
+      "a) silné krvácení při zachované délce menstruačního cyklu",
+      "b) silné krvácení trvající alespoň do 12 dne cyklu",
+      "c) krvácení při hyperfibrinogenémii",
+      "d) krvácení při uterus myomatosus"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": [
+      "a) silné krvácení při zachované délce menstruačního cyklu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "116. Výskyt amenorey je patologický",
+    "answers": [
+      "a) v menopauze",
+      "b) v období gravidity",
+      "c) kdykoli v generačním období (mimo graviditu a šestinedělí)",
+      "d) v puerperiu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": [
+      "c) kdykoli v generačním období (mimo graviditu a šestinedělí)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "117. Mezi centrální příčiny amenorey nepatří",
+    "answers": [
+      "a) ageneze ovarií",
+      "b) hypotalamické poruchy",
+      "c) hypofyzámí poruchy",
+      "d) psychogenní poruchy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) ageneze ovarií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "118. Ovariální příčina amenorey může být způsobena",
+    "answers": [
+      "a) nepřítomností receptorů v endometriu",
+      "b) neexistují-li pozitivní zpětné vazby pro estrogeny",
+      "c) agenezí ovarií",
+      "d) graviditou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) agenezí ovarií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "119. Pro kterou patologii dělohy je typická amenorea",
+    "answers": [
+      "a) Ashermanův syndrom",
+      "b) myoma uteri",
+      "c) polyp endometria",
+      "d) karcinom endometria"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) Ashermanův syndrom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "120. U Tůrnerova syndromu je typická",
+    "answers": [
+      "a) menoragie",
+      "b) oligomenorea až amenorea",
+      "c) hypermenorea",
+      "d) polymenorea"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) oligomenorea až amenorea"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "121. Primární dysmenorea se projevuje",
+    "answers": [
+      "a) bolestmi po skončení menstruace",
+      "b) bolestmi po celou dobu menstruace",
+      "c) bolestmi během celého menstruačního cyklu",
+      "d) bolestmi před nástupem a na začátku menstruace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) bolestmi před nástupem a na začátku menstruace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "122. Sekundární dysmenorea je typická pro",
+    "answers": [
+      "a) hyperestrogenní syndrom",
+      "b) sníženou koncentraci gonadotropinu",
+      "c) endometriózu",
+      "d) anovulační cyklus"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) endometriózu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "123. Tůrnerův syndrom má genotyp",
+    "answers": ["a) 46,XX", "b) 46,XO", "c) 45,XO", "d) 46.XY"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) 45,XO"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "124. Do obrazu panhypopituitarismu nepatří",
+    "answers": [
+      "a) obezita",
+      "b) amenorea",
+      "c) agalaktie",
+      "d) váhový úbytek"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) obezita"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "125. Jedním z příznaků Steinova-Leventhalova syndromu je",
+    "answers": [
+      "a) hirsutismus",
+      "b) tyreopatie",
+      "c) diabetes mellitus",
+      "d) retardace růstu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) hirsutismus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "126. Do obrazu Steinova-Leventhalova syndromu nepatří",
+    "answers": [
+      "a) oligomenorea",
+      "b) sterilita",
+      "c) hirsutismus",
+      "d) retardace růstu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["d) retardace růstu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "127. Galaktorea je",
+    "answers": [
+      "a) vylučování mléka z prsu(ů) mimo období kojení",
+      "b) vylučování mléka z prsů po porodu",
+      "c) krvavý výtok z prsu",
+      "d) synonymum pro mléčnou pištěl"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) vylučování mléka z prsu(ů) mimo období kojení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "128. Endometrióza se neléčí",
+    "answers": [
+      "a) gestageny",
+      "b) kontraceptivy",
+      "c) antiprostaglandiny",
+      "d) analogy gonadoliberinů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) antiprostaglandiny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "129. Danazol je preparát zejména к léčbě",
+    "answers": [
+      "a) endometritidy",
+      "b) vaginální mykózy",
+      "c) endometriózy",
+      "d) vaginální trichomoniázy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) endometriózy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "130. Mastodynie je",
+    "answers": [
+      "a) benigní tumor prsu",
+      "b) bolest prsů",
+      "c) jednostranné zvětšení prsu",
+      "d) ptóza prsů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) bolest prsů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "131. Clostilbegyt (klomifen citrát) používáme v terapii",
+    "answers": [
+      "a) oligomenorey",
+      "b) premenstruačního syndromu",
+      "c) anovulace",
+      "d) dysmenorey"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) anovulace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "132. Pro anovulační cyklusje charakteristické",
+    "answers": [
+      "a) celkem pravidelný cyklus krvácení",
+      "b) polymenorea",
+      "c) amenorea delší než 3 cykly",
+      "d) amenorea trvající déle než 6 cyklů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["a) celkem pravidelný cyklus krvácení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "133. К diagnostice anovulačních cyklů nepoužíváme",
+    "answers": [
+      "a) biopsii endometria",
+      "b) estrogenový test",
+      "c) měření bazální teploty",
+      "d) vyšetření pregnandiolu v moči"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) estrogenový test"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "134. Pro Steinův-Leventhalův syndrom není typický příznak",
+    "answers": ["a) obezita", "b) virilizace", "c) hypertenze", "d) sterilita"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) hypertenze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "135. U Steinova-Leventhalova syndromu je tunica albuginea",
+    "answers": [
+      "a) pigmentová",
+      "b) ztenčelá",
+      "c) ztluštělá",
+      "d) nepřítomná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["c) ztluštělá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "136. Pseudocyesisje syndromem",
+    "answers": [
+      "a) zvýšené pigmentace stěny břišní v graviditě",
+      "b) zdánlivého těhotenství",
+      "c) poporodní amenorey",
+      "d) spjatým s hypertrichózou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) zdánlivého těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "137. U Steinova-Leventhalova syndromu je nález corpus luteum v ovariu",
+    "answers": [
+      "a) běžný",
+      "b) výjimečný",
+      "c) vyloučen",
+      "d) výrazně častější"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. I část pregraduální"
+    ],
+    "correctAnswers": ["b) výjimečný"],
+    "description": [""],
+    "img": [""]
   }
 ]

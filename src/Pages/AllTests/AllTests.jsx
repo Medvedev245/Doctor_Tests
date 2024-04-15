@@ -16,7 +16,7 @@ import LoadMore from 'components/LoadMore/LoadMore';
 import { FormContainer, WraperForm } from 'Pages/Home/Home.styled';
 import { ButtonDescr } from 'Pages/Tests/Tests.styled';
 import Modal from 'components/Modal/Modal';
-// import Functions from 'Files/Functions';
+import Functions from 'Files/Functions';
 
 const AllTests = () => {
   const [allTests, setAllTests] = useState(Legislativa);
