@@ -99,13 +99,13 @@ const Home = () => {
           >
             <option value="All">All</option>
             <option value="Klener">Klener</option>
-            <option value="Živný">Živný(1-538)</option>
+            <option value="Živný">Živný(1-731)</option>
             <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
             <option value="Medicine_2023">Medicine_2023</option>
           </Select>
         </WraperForm>
         <WraperForm>
-          <label htmlFor="select2">Выбери количество тестов</label>
+          <label htmlFor="select2">Vyberte počet testů</label>
           <Select
             id="select2"
             value={selectedOption2}
@@ -123,14 +123,14 @@ const Home = () => {
         </WraperForm>
 
         {elements3.length > 0 ? (
-          <LinkToStart to={'/tests'}>Начать !</LinkToStart>
+          <LinkToStart to={'/tests'}>Start</LinkToStart>
         ) : (
-          <Button type="submit">Выбрать</Button>
+          <Button type="submit">Vybrat</Button>
         )}
       </FormContainer>
 
       <ChoosenElement>
-        Выбрано - {selectedOption1} {selectedOption2}
+        Vybraný - {selectedOption1} {selectedOption2}
       </ChoosenElement>
       <Bases />
     </>

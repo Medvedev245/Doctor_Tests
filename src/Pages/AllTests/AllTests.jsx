@@ -10,6 +10,7 @@ import {
   ListQuestion,
   Question,
   Select,
+  SpanElemet,
   TopicContainer,
 } from './AllTests.styled';
 import LoadMore from 'components/LoadMore/LoadMore';
@@ -82,7 +83,7 @@ const AllTests = () => {
           <Select id="formBase" onChange={handleOption1Change}>
             <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
             <option value="Klener">Klener</option>
-            <option value="Živný">Živný(1-538)</option>
+            <option value="Živný">Živný(1-731)</option>
             <option value="Medicine_2023">Medicine_2023</option>
           </Select>
         </WraperForm>
@@ -92,8 +93,8 @@ const AllTests = () => {
           {visibleTests.map((test, index) => (
             <Item key={index}>
               <TopicContainer>
-                <span>Book: {test.book}</span>
-                <span>Topic: {test.topic}</span>
+                <SpanElemet>Book: {test.book}</SpanElemet>
+                <SpanElemet>Topic: {test.topic}</SpanElemet>
               </TopicContainer>
 
               <Question>{test.question}</Question>

@@ -36,7 +36,6 @@ const Legislativa = () => {
         </ItemContainer>
       </div>
       <div></div>
-      <span>Пока ничего нет </span>
     </>
   );
 };

@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const List = styled.ul`
+  margin-bottom: 15px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -10,6 +11,7 @@ export const List = styled.ul`
 `;
 
 export const Item = styled.ul`
+  border-radius: 8px;
   display: flex;
   flex-direction: column;
   font-size: 15px;
@@ -45,6 +47,7 @@ export const Question = styled.p`
 `;
 
 export const TopicContainer = styled.div`
+  /* background-color: var(--iq-primary); */
   position: relative;
   padding: 10px 15px;
   display: flex;
@@ -63,4 +66,8 @@ export const TopicContainer = styled.div`
     height: 3px;
     background-color: var(--iq-underlining);
   }
+`;
+
+export const SpanElemet = styled.span`
+  color: black;
 `;

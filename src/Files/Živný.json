@@ -10398,5 +10398,968 @@
     "correctAnswers": ["b) výjimečný"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Následující hormon je převážně estrogen",
+    "answers": [
+      "a) androstendion",
+      "b) norgestrel",
+      "c) dienoestrol",
+      "d) noretynodrel"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) dienoestrol"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Který z následujících hormonů se používá pro estrogenní účinky",
+    "answers": [
+      "a) levonorgestrel",
+      "b) gestoden",
+      "c) tibolon",
+      "d) cyproteron acetát"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) tibolon"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Všechny následující látky se vážou na receptory, které aktivují adenylát cyklázu s výjimkou",
+    "answers": [
+      "a) LH",
+      "b) glukokortikoidů",
+      "c) vazopresinu",
+      "d) glukagonu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) glukokortikoidů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Všechny následující hormony užívají cyklický AMPjako «druhého posla« s výjimkou",
+    "answers": ["a) estrogenů", "b) FSH", "с) glukagonu", "d) LH"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["a) estrogenů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Hlavním zdrojem extracelulárního cholesterolu je",
+    "answers": [
+      "a) VLDL (very low-density lipoprotein)",
+      "b) LDL (low-density lipoprotien)",
+      "c) albumin",
+      "d) HDL (high-density lipoprotein)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) LDL (low-density lipoprotien)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Následující molekuly snižují afinitu hemoglobinu pro kyslík, výjimkou jsou",
+    "answers": [
+      "a) i 2,3-difosfoglycerát",
+      "b) hydroxylové ionty",
+      "c) co2",
+      "d) vodíkové ionty"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) hydroxylové ionty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Principem parakrinního způsobu komunikace mezi buňkami je",
+    "answers": [
+      "a) uvolnění chemických mediátorů do krve a jejich účinek na specifické receptory ve vzdálených I cílových tkáních",
+      "b) uvolnění a difúze chemických mediátorů extracelulární tekutinou do cílových buněk",
+      "c) přímý kontakt buněk, které jsou těsně vedle sebe",
+      "d) uvolnění chemických mediátorů na synaptických I spojeních"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": [
+      "a) uvolnění chemických mediátorů do krve a jejich účinek na specifické receptory ve vzdálených I cílových tkáních"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Nucleus supraopticus v hypotalamu pravděpodobně ovlivňuje sekreci",
+    "answers": [
+      "a) oxytocinu",
+      "b) adrenokortikotropního hormonu (ACTH)",
+      "c) Mmfflnilostimiilačního hormonu (FSH)",
+      "d) antidiuretického hormonu (ADH)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["d) antidiuretického hormonu (ADH)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Všechny údaje o B-endorfinech jsou správné I s výjimkou",
+    "answers": [
+      "a) jsou secemovány z hypofýzy při stresu",
+      "b) snižují práh pro bolestivost",
+      "c) jejich koncentrace se zvyšuje v těhotenství a za porodu",
+      "d) vznikají odštěpením z molekuly, která obsahuje I sekvence pro ACTH"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) snižují práh pro bolestivost"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Všechny údaje o testosteronu jsou správné s výjimkou",
+    "answers": [
+      "a) je intermediálním produktem pří syntéze estrogenů",
+      "b) je syntetizován z cholesterolu",
+      "c) inhibuje sekrecí LH na úrovni hypotalamu",
+      "d) je biologicky méně aktivní po redukci na dihydrotesI tosteron"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": [
+      "d) je biologicky méně aktivní po redukci na dihydrotesI tosteron"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Zvýšené ochlupení v obličeji a ústup vlasové pokrývky z čela nesvědčí pro tuto diagnózu",
+    "answers": [
+      "a) deficit l7B-hydroxylázy",
+      "b) tumor ovaria",
+      "c) familiární hyperlipoproteinémii",
+      "d) tumor nadledvin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) familiární hyperlipoproteinémii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Cholesterol je prekurzorem těchto látek3 s výjimkou",
+    "answers": [
+      "a) tamoxifenu",
+      "b) testosteronu",
+      "c) progesteronu",
+      "d) estradiolu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["a) tamoxifenu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Mechanismus účinku luteinizačního hormonu (LH) nejlépe vysvětluje tato věta",
+    "answers": [
+      "a) váže se na povrchový receptor buňky a stimuluje syntézu cyklických nukleotidů v cytoplazmě",
+      "b) po vazbě na cytoplazmatický receptor se dostává do jádra a přímo stimuluje syntézu proteinů",
+      "c) váže se na povrchový receptor buňky a aktivuje jiný mediátor než cyklické nukleotidy",
+      "d) po vazbě na cytoplazmatický receptor se dále váže na mitochondrie a stimuluje jejich oxidativní metabolismus"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": [
+      "a) váže se na povrchový receptor buňky a stimuluje syntézu cyklických nukleotidů v cytoplazmě"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Progesteron",
+    "answers": [
+      "a) má základní význam pro vývoj prsu",
+      "b) stimuluje růst alveolámí složky prsu",
+      "c) zvyšuje tlak v mlékovodech a umožňuje ejekci mléka",
+      "d) stimuluje růst duktálního systému prsu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) stimuluje růst alveolámí složky prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Estradiol",
+    "answers": [
+      "a) stimuluje růst duktálního systému prsu",
+      "b) stimuluje růst alveolámí složky prsu",
+      "c) má základní význam pro vývoj prsu",
+      "d) zvyšuje tlak v mlékovodech a umožňuje ejekci mléka"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["a) stimuluje růst duktálního systému prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Z hlediska »two-cells« teorie jsou všechnyodpovědi správné kromě",
+    "answers": [
+      "a) LH stimuluje buňky theca interna",
+      "b) estradiol je transportován do buněk theca interna",
+      "c) FSH stimuluje produkci enzymu aromatázy",
+      "d) buňky theca interna produkují androgeny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) estradiol je transportován do buněk theca interna"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Estrogenovým testem zjišťujeme",
+    "answers": [
+      "a) poruchu hypotalamo-hypofyzámí osy",
+      "b) reaktivitu endometria na podaný estrogen",
+      "c) perzistující corpus luteum",
+      "d) poruchu dozrávání corpus luteum"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) reaktivitu endometria na podaný estrogen"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Gonadotropinový test odhaluje",
+    "answers": [
+      "a) chromosomální aberace",
+      "b) reaktivitu ovaria",
+      "c) insuficienci nadledvin",
+      "d) reaktivitu hypotalamu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) reaktivitu ovaria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. LH-Rh test slouží к odhalení reaktivity",
+    "answers": ["a) ovaria", "b) dělohy", "c) mozkové kůry", "d) hypofýzy"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["d) hypofýzy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Do obrazu adrenogenitálního syndromu nepatří",
+    "answers": [
+      "a) hypertrofie klitorisu",
+      "b) akné",
+      "c) hirsutismus",
+      "d) sklon к tvorbě varixů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["d) sklon к tvorbě varixů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Prekurzorem ovariálních steroidů je",
+    "answers": [
+      "a) adenosin 3’-5’- monofosfát",
+      "b) prostaglandiny",
+      "c) cholesterol",
+      "d) kyselina mléčná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) cholesterol"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Na regulaci neuroendokrinních mechanismů se nepodílí",
+    "answers": [
+      "a) serotonin",
+      "b) dopamin",
+      "c) prostaglandiny",
+      "d) noradrenalin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) prostaglandiny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Zvýšená prolaktinémie není typická",
+    "answers": [
+      "a) u adenomu hypofýzy",
+      "b) u Albrightova-Forbesova syndromu",
+      "c) pro puerperium",
+      "d) pro Aschermannův syndrom"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["d) pro Aschermannův syndrom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Idiopatická dysmenorea je vázána na",
+    "answers": [
+      "a) děložní hypoplazii",
+      "b) adenom hypofýzy",
+      "c) ovulační cyklus",
+      "d) anovulační cyklus"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) ovulační cyklus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Klinefelterův syndrom má genotyp",
+    "answers": ["a) 47.XXY", "b) 45,XXX", "c) 45,X0", "d) 46,X0"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["a) 47.XXY"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Sexuálním infantilismem rozumíme",
+    "answers": [
+      "a) setrvání na dětském vývoji psychologickém i anatomickém",
+      "b) psychickou retardaci v sexuálním období",
+      "c) primární amenoreu",
+      "d) pouze řídké pubické a axilámí ochlupení"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": [
+      "a) setrvání na dětském vývoji psychologickém i anatomickém"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Sheehanův syndrom je podmíněn",
+    "answers": [
+      "a) malnutricí",
+      "b) poporodní nekrózou hypofýzy",
+      "c) tyreopatií",
+      "d) diabetes mellitus"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) poporodní nekrózou hypofýzy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Příčinou Chiariho-Frommelova syndromu je",
+    "answers": [
+      "a) tumor adenohypofyzy",
+      "b) tumor bazálních ganglií",
+      "c) tumor hypotalamu",
+      "d) funkční porucha hypotalamu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["d) funkční porucha hypotalamu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Před léčbou polymenorey je zbytečné vyšetřit",
+    "answers": [
+      "a) endometrium",
+      "b) koncentraci gonadotropinů",
+      "c) koncentraci B-hCG",
+      "d) koncentraci 17B-estradiolu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) koncentraci B-hCG"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Intermenstruační krvácení se léčí nejčastěji",
+    "answers": [
+      "a) gestageny",
+      "b) vitaminy skupiny В",
+      "c) estrogeny",
+      "d) gonadotropiny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) estrogeny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. К premenstruačnímu syndromu nepatří",
+    "answers": [
+      "a) mastodynie",
+      "b) retence vody",
+      "c) opakované tromboflebitidy",
+      "d) cefalea"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) opakované tromboflebitidy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Při léčbě retence oocytu v ovariu používáme",
+    "answers": [
+      "a) gestageny",
+      "b) klomifen",
+      "c) estrogeny",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) klomifen"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Klomifen užíváme к terapii",
+    "answers": [
+      "a) mastodynie",
+      "b) anovulačních cyklů",
+      "c) dysmenorey",
+      "d) metroragie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) anovulačních cyklů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Medroxyprogesteron není vhodný pro",
+    "answers": [
+      "a) antikoncepci",
+      "b) léčbu carcinoma colli uteri",
+      "c) inhibici ovulace",
+      "d) léčbu karcinomu endometria"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) léčbu carcinoma colli uteri"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. U zdravé ženy ve fertilním období života se ovaria3 podílejí na tvorbě testosteronu",
+    "answers": ["a) v 25%", "b) ve 40 %", "c) v 15%", "d) v 10%"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) ve 40 %"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Při hirsutismu je zvýšená koncentrace",
+    "answers": [
+      "a) estrogenů",
+      "b) androstendionu",
+      "c) testosteronu",
+      "d) gonadotropinů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) testosteronu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Cyproteron acetát se používá к léčbě",
+    "answers": [
+      "a) hepatopatií",
+      "b) anovulačních cyklů",
+      "c) hirsutismu",
+      "d) sterility"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) hirsutismu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. V etiologii luteální insuflcience se uplatňuje3 nejčastěji",
+    "answers": [
+      "a) porucha neurotransmise v hypotalamu",
+      "b) nedostatek estrogenů",
+      "c) adenom hypofýzy",
+      "d) pubertas tarda"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["a) porucha neurotransmise v hypotalamu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Anorexia nervosa je charakteristická pro věkovou skupinu",
+    "answers": [
+      "a) v menopauze",
+      "b) do 15 let",
+      "c) do 25 let",
+      "d) do nástupu klimakteria: 35^40 let"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) do 25 let"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. U anorexia nervosa je sekrece gonadotropinů",
+    "answers": [
+      "a) kolísavá",
+      "b) snížená",
+      "c) ve fyziologických mezích",
+      "d) zvýšená"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) snížená"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. U Steinova-Leventhalova syndromu je typické",
+    "answers": [
+      "a) výrazné ztluštění theca extema",
+      "b) ztluštění theca interna",
+      "c) ztenčení theca interna",
+      "d) výška theca interna není ovlivněna"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) ztluštění theca interna"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. U Steinova-Leventhalova syndromu je abnormální syntéza androgenů typická pro",
+    "answers": [
+      "a) Leydigovy buňky",
+      "b) theca interna",
+      "c) theca extema",
+      "d) hilové buňky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) theca interna"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Gaiaktorea je spojena s amenoreou",
+    "answers": [
+      "a) vždy",
+      "b) ve 3-15%",
+      "c) není s ní spojena",
+      "d) v méně než 1 %"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) ve 3-15%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. U Chiariho-Frommelova syndromu je typický nástup galaktorey",
+    "answers": [
+      "a) po porodu",
+      "b) v graviditě",
+      "c) v pubertě",
+      "d) před porodem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["a) po porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. U syndromu Argonzova-Del Castillova je typický nástup galaktorey",
+    "answers": [
+      "a) spontánně bez závislosti na graviditě",
+      "b) v raném těhotenství",
+      "c) po porodu",
+      "d) před porodem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["a) spontánně bez závislosti na graviditě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. U Chiariho-Frimmelova syndromu je NMR nález (rtg nález) na sella turcica",
+    "answers": [
+      "a) normální nález",
+      "b) seilajedestruována",
+      "c) sella není patrná",
+      "d) sella je rozšířená"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["a) normální nález"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. U Forbesova-Albrightova syndromu je NMR nález (rtg nález) na sella turcica",
+    "answers": [
+      "a) sella není patrná",
+      "b) sella je destruována",
+      "c) normální nález",
+      "d) sella je rozšířená"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["d) sella je rozšířená"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Sheehanův syndrom vzniká při postižení tkáně předního laloku hypofýzy",
+    "answers": ["a) ve 25 %", "b) nad 90 %", "c) v 10%", "d) v 50%"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) nad 90 %"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Simondsova kachexie je časově vázána na",
+    "answers": [
+      "a) II a III trimestr těhotenství",
+      "b) I trimestr těhotenství",
+      "c) období porodu",
+      "d) není vázána na graviditu a porod"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["d) není vázána na graviditu a porod"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. U Turnérova syndromu jsou hodnoty plazmatického estradiolu",
+    "answers": [
+      "a) snížené",
+      "b) cyklicky kolísají",
+      "c) v normě",
+      "d) zvýšené"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["a) snížené"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. U Tůmerova syndromu jsou hodnoty FSH a LH",
+    "answers": [
+      "a) v normálních mezích",
+      "b) trvale snížené",
+      "c) cyklicky kolísají",
+      "d) trvale zvýšené"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) cyklicky kolísají"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Connův syndrom je",
+    "answers": [
+      "a) agenze vnitřního genitálu",
+      "b) dysgeneze gonád",
+      "c) primární hyperaldosteronismus",
+      "d) sekundární hyperaldosteronismus"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) primární hyperaldosteronismus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Mezi maskulinizující nádory ovaria nepatří",
+    "answers": [
+      "a) tumor z intersticiálních buněk",
+      "b) arhenoblastom",
+      "c) cystadenom",
+      "d) thekom"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["d) thekom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Feminizující nádory ovaria nevyvolávají",
+    "answers": [
+      "a) krvácení v postmenopauze",
+      "b) osteoporózu",
+      "c) dysfunkční krvácení ve fertilním věku",
+      "d) pseudopubertas praecox"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) osteoporózu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Pro odlišení hormonálně aktivních nádorů ovaria a nadledvin při maskulinizaci slouží vyšetření",
+    "answers": [
+      "a) plazmatického progesteronu",
+      "b) estrogenů",
+      "c) frakce 17-ketosteroidů",
+      "d) 17-oxosteroidů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) frakce 17-ketosteroidů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Syndrom testikulární feminizace je determinován3 genotypem",
+    "answers": ["a) 46,X0", "b) 46,XX", "c) 46,XX0", "d) 46,XY"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["d) 46,XY"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. U Rokitanského-Kiisterova-Hauserova syndromu nacházíme",
+    "answers": [
+      "a) monofázickou teplotu",
+      "b) nevyvinuté sekundární znaky",
+      "c) funkčně zdatná ovaria",
+      "d) sníženou koncentraci gonadotropinů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["c) funkčně zdatná ovaria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. U Rokitanského-Kiisterova-Hauserova syndromu je",
+    "answers": [
+      "a) totální ageneze dělohy",
+      "b) ageneze pochvy",
+      "c) ageneze ovarií",
+      "d) ageneze vejcovodů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Gynecologická endokrinologie a fyziologie ženského reprodukčního systému. II část pregraduální"
+    ],
+    "correctAnswers": ["b) ageneze pochvy"],
+    "description": [""],
+    "img": [""]
   }
 ]

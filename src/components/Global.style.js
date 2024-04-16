@@ -24,8 +24,8 @@ code {
 
 :root {
   // Colors
-   --iq-primary: rgba(187,154,230, 1);
-   --iq-secondary: rgba(250,250,250, 1); 
+   --iq-primary: rgba(187,154,230, 1); // лнопка описание
+   --iq-secondary: rgba(214, 210, 210, 0.624); // задний фон
    --iq-underlining: rgba(187, 154, 230, 0.342);
    --iq-cross: rgba(88, 5, 143, 1);
 
