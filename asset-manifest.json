@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Doctor_Tests/static/css/main.10a9149c.css",
-    "main.js": "/Doctor_Tests/static/js/main.783e84ba.js",
+    "main.js": "/Doctor_Tests/static/js/main.ada605f8.js",
     "static/js/686.02c12a62.chunk.js": "/Doctor_Tests/static/js/686.02c12a62.chunk.js",
     "static/js/648.e681a2b5.chunk.js": "/Doctor_Tests/static/js/648.e681a2b5.chunk.js",
     "static/js/589.b10706a2.chunk.js": "/Doctor_Tests/static/js/589.b10706a2.chunk.js",
     "static/js/676.5e508f21.chunk.js": "/Doctor_Tests/static/js/676.5e508f21.chunk.js",
     "static/js/3.b841f2c0.chunk.js": "/Doctor_Tests/static/js/3.b841f2c0.chunk.js",
-    "static/js/307.b2bd0c5a.chunk.js": "/Doctor_Tests/static/js/307.b2bd0c5a.chunk.js",
+    "static/js/307.f3225fff.chunk.js": "/Doctor_Tests/static/js/307.f3225fff.chunk.js",
     "static/js/846.c8bde892.chunk.js": "/Doctor_Tests/static/js/846.c8bde892.chunk.js",
     "static/js/576.5ef58cf6.chunk.js": "/Doctor_Tests/static/js/576.5ef58cf6.chunk.js",
     "static/js/734.1b5d7319.chunk.js": "/Doctor_Tests/static/js/734.1b5d7319.chunk.js",
@@ -16,13 +16,13 @@
     "static/media/youtube-svgrepo-com.png": "/Doctor_Tests/static/media/youtube-svgrepo-com.e20b5577ad958c78bfac.png",
     "index.html": "/Doctor_Tests/index.html",
     "main.10a9149c.css.map": "/Doctor_Tests/static/css/main.10a9149c.css.map",
-    "main.783e84ba.js.map": "/Doctor_Tests/static/js/main.783e84ba.js.map",
+    "main.ada605f8.js.map": "/Doctor_Tests/static/js/main.ada605f8.js.map",
     "686.02c12a62.chunk.js.map": "/Doctor_Tests/static/js/686.02c12a62.chunk.js.map",
     "648.e681a2b5.chunk.js.map": "/Doctor_Tests/static/js/648.e681a2b5.chunk.js.map",
     "589.b10706a2.chunk.js.map": "/Doctor_Tests/static/js/589.b10706a2.chunk.js.map",
     "676.5e508f21.chunk.js.map": "/Doctor_Tests/static/js/676.5e508f21.chunk.js.map",
     "3.b841f2c0.chunk.js.map": "/Doctor_Tests/static/js/3.b841f2c0.chunk.js.map",
-    "307.b2bd0c5a.chunk.js.map": "/Doctor_Tests/static/js/307.b2bd0c5a.chunk.js.map",
+    "307.f3225fff.chunk.js.map": "/Doctor_Tests/static/js/307.f3225fff.chunk.js.map",
     "846.c8bde892.chunk.js.map": "/Doctor_Tests/static/js/846.c8bde892.chunk.js.map",
     "576.5ef58cf6.chunk.js.map": "/Doctor_Tests/static/js/576.5ef58cf6.chunk.js.map",
     "734.1b5d7319.chunk.js.map": "/Doctor_Tests/static/js/734.1b5d7319.chunk.js.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.10a9149c.css",
-    "static/js/main.783e84ba.js"
+    "static/js/main.ada605f8.js"
   ]
 }
