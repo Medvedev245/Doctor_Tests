@@ -40,8 +40,3 @@ export const MainDescr = styled.h3`
   font-weight: bold;
   text-align: center;
 `;
-
-export const SectionDescr = styled.section`
-  /* height: 1000px; */
-  /* background-color: aqua; */
-`;
