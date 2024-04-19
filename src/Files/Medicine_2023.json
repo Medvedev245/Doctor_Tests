@@ -301,29 +301,11 @@
       "vzestup FSH i LH při nezměněné koncentraci progesteronu",
       "pokles progesteronu, vzestup FSH i LH",
       "pokles estradiolu, progesteronu, FSH i LH",
-      "pokles progesteronu, pokles estradiolu",
-
-      "7-11 cm za rok (asi 12 let) za rok před menarche",
-      "13 let",
-      "před menarche",
-      "během menstruace",
-      "po začátku menstruace",
-
-      "produkovaný v hypotalamu",
-      "zrychluje zrání folikulů",
-      "reguluje menstruační cyklus *(naopak menstruační cyklus stimuluje tvorbu FSH)",
-      "produkovaný předním lalokem hypofýzy"
+      "pokles progesteronu, pokles estradiolu"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
-    "correctAnswers": [
-      "pokles progesteronu, vzestup FSH i LH",
-      "7-11 cm za rok (asi 12 let) za rok před menarche",
-      "13 let",
-      "před menarche",
-      "zrychluje zrání folikulů",
-      "produkovaný předním lalokem hypofýzy"
-    ],
+    "correctAnswers": ["pokles progesteronu, vzestup FSH i LH"],
     "description": [""],
     "img": [""]
   },
@@ -22551,11 +22533,7 @@
       "Staphylococcus aureus",
       "K.pneumonie",
       "E.coli",
-      "Streptococcus pneumoniae",
-      "gramnegativní bakterie (Escherichia coli, Klebsiella pneumoniae), streptokoky skupiny B, Listeria monocytogenes, ev. Nozokomiální kmeny.",
-      "respirační viry, Chlamydia trachomatis, Ureaplasma urealyticum, Mycoplasma hominis, cytomegalovirus, Streptococcus pneumoniae, Pneumocystis carinii.",
-      "viry (respirační syncytiální virus, parainfluenza, influenza, adenoviry, rinoviry), méně často bakterie (pneumokoky, stafylokoky, streptokoky, Mycoplasma pneumoniae, Haemophilus influenzae).",
-      "Streptococcus pneumoniae, Mycoplasma pneumoniae, Chlamydophila pneumoniae,"
+      "Streptococcus pneumoniae"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
