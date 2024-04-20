@@ -71,3 +71,43 @@ export const TopicContainer = styled.div`
 export const SpanElemet = styled.span`
   color: black;
 `;
+
+export const ButtonAdd = styled.button`
+  display: flex;
+  width: 120px;
+  height: 50px;
+  flex-direction: column;
+  align-items: center;
+  border: none;
+`;
+
+export const ButtonDescr = styled.button`
+  border-radius: 5px;
+  background: none;
+  display: flex;
+  border: none;
+  width: 120px;
+  height: 50px;
+  flex-direction: column;
+  align-items: center;
+  transition: 0.3s ease; // Плавное изменение фона
+
+  /* Стили для изменения цвета иконки при наведении */
+  svg path {
+    transition: fill 0.3s ease; // Плавное изменение цвета иконки
+  }
+
+  &:hover svg path,
+  &:focus svg path {
+    stroke: rgba(88, 5, 143, 1); // Изменение цвета иконки при наведении
+    stroke-width: 1;
+  }
+`;
+
+export const ButtonContainer = styled.div`
+  /* height: 60px; */
+  margin: 0 15px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+`;
