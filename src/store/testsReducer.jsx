@@ -6,6 +6,7 @@ const defaultState = {
 };
 
 const ADD_OPTIONS = 'ADD_OPTIONS';
+const ADD_RIGHTQUESTIONS = 'ADD_RIGHTQUESTIONS';
 
 export const testsReducer = (state = defaultState, action) => {
   switch (action.type) {
@@ -17,7 +18,7 @@ export const testsReducer = (state = defaultState, action) => {
         questions: action.payload.myTests,
         // rightAnswers: action.payload.myCorrectAnswers,
       };
-    case 'ADD_RIGHTQUESTIONS':
+    case ADD_RIGHTQUESTIONS:
       return {
         ...state,
         rightAnswers: action.payload.myCorrectAnswers,

@@ -3,6 +3,7 @@ import Medicine_2023 from '../../Files/Medicine_2023.json';
 import Klener from '../../Files/ClenerNew.json';
 import Legislativa from '../../Files/Legislativa_Báze_2023.json';
 import Živný from '../../Files/Živný.json';
+
 import {
   Element,
   Item,
@@ -24,6 +25,13 @@ const AllTests = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const [modalActive, setModalActive] = useState(false);
   const [selectedQuestion, setSelectedQuestion] = useState(null); // Состояние для хранения выбранного вопроса
+
+  const storedCollection = localStorage.getItem('myCollection');
+  let collection = [];
+  if (storedCollection) {
+    collection = JSON.parse(storedCollection);
+  }
+  console.log(collection);
 
   const testsPerPage = 30; // Количество тестов на странице
 
@@ -75,6 +83,18 @@ const AllTests = () => {
     document.body.style.overflow = 'auto';
   };
 
+  const addToFavorite = test => {
+    const isAlreadyAdded = collection.some(
+      item => item.question === test.question
+    );
+    console.log(isAlreadyAdded);
+    if (isAlreadyAdded) {
+      return;
+    }
+    collection.push(test);
+    localStorage.setItem('myCollection', JSON.stringify(collection));
+  };
+
   return (
     <>
       <FormContainer action="formBase">
@@ -114,6 +134,7 @@ const AllTests = () => {
                   Show Description
                 </ButtonDescr>
               )}
+              <button onClick={e => addToFavorite(test)}>here</button>
             </Item>
           ))}
         </List>
