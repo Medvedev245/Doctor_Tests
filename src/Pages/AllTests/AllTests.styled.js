@@ -72,15 +72,6 @@ export const SpanElemet = styled.span`
   color: black;
 `;
 
-export const ButtonAdd = styled.button`
-  display: flex;
-  width: 120px;
-  height: 50px;
-  flex-direction: column;
-  align-items: center;
-  border: none;
-`;
-
 export const ButtonDescr = styled.button`
   border-radius: 5px;
   background: none;
