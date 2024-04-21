@@ -36,13 +36,16 @@ export const Header = () => {
       <BurgerComponent onClick={toggleMenu} />
       <ContainerData isOpen={isOpen}>
         <LinkElement to="/" onClick={closeMenu}>
-          MainPage
+          Main Page
         </LinkElement>
         <LinkElement to="page" onClick={closeMenu}>
           Take a tests
         </LinkElement>
         <LinkElement to="AllTests" onClick={closeMenu}>
           All Tests
+        </LinkElement>
+        <LinkElement to="MyBase" onClick={closeMenu}>
+          My Base
         </LinkElement>
         <LinkElement to="video" onClick={closeMenu}>
           Video

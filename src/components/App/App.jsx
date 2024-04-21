@@ -8,6 +8,7 @@ const Video = lazy(() => import('../../Pages/Video/Video'));
 const AllTests = lazy(() => import('../../Pages/AllTests/AllTests'));
 const Tests = lazy(() => import('../../Pages/Tests/Tests'));
 const MainPage = lazy(() => import('../../Pages/MainPage/MainPage'));
+const MyBase = lazy(() => import('../../Pages/MyBase/MyBase'));
 // const Description = lazy(() => import('../Modal/Modal'));
 const AnsweredQuestions = lazy(() =>
   import('../../Pages/AnsweredQuestions/AnsweredQuestions')
@@ -24,6 +25,7 @@ export const App = () => {
 
         <Route path="AnsweredQuestions" element={<AnsweredQuestions />} />
         <Route path="alltests" element={<AllTests />} />
+        <Route path="MyBase" element={<MyBase />} />
       </Route>
       <Route path="*" element={<NotFound />} />
     </Routes>

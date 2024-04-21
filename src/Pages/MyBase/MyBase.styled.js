@@ -1,5 +1,17 @@
 import styled from 'styled-components';
 
+export const Textbase = styled.p`
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 20px;
+
+  // Mobil
+  @media screen and (max-width: 767px) {
+    font-size: 16px;
+  }
+`;
+
 export const List = styled.ul`
   margin-bottom: 15px;
   display: flex;
@@ -10,7 +22,7 @@ export const List = styled.ul`
   align-items: stretch;
 `;
 
-export const Item = styled.ul`
+export const Item = styled.li`
   border-radius: 8px;
   display: flex;
   flex-direction: column;
@@ -19,42 +31,7 @@ export const Item = styled.ul`
   width: 400px;
   padding-bottom: 15px;
   background-color: white;
-`;
-
-export const ListQuestion = styled.ul`
-  margin-bottom: 40px;
-  flex: 1 1 auto;
-  padding: 0 15px;
-  position: relative;
-
-  &:after {
-    content: '';
-    position: absolute;
-    bottom: -30px;
-    left: 25px;
-    width: 85%;
-    height: 3px;
-    background-color: var(--iq-underlining);
-  }
-`;
-
-export const Select = styled.select`
-  background-color: #bb9ae682;
-  border: 0px;
-  border-radius: 5px;
-`;
-
-export const Element = styled.li`
-  list-style: line;
-  margin-left: 10px;
-  line-height: 1.4;
-`;
-
-export const Question = styled.p`
-  padding: 0 15px;
-  font-size: 18px;
-  margin-bottom: 20px;
-  font-weight: bold;
+  /* margin-bottom: 15px; */
 `;
 
 export const TopicContainer = styled.div`
@@ -83,6 +60,44 @@ export const SpanElemet = styled.span`
   color: black;
 `;
 
+export const Question = styled.p`
+  padding: 0 15px;
+  font-size: 18px;
+  margin-bottom: 20px;
+  font-weight: bold;
+`;
+
+export const ListQuestion = styled.ul`
+  margin-bottom: 40px;
+  flex: 1 1 auto;
+  padding: 0 15px;
+  position: relative;
+
+  &:after {
+    content: '';
+    position: absolute;
+    bottom: -30px;
+    left: 25px;
+    width: 85%;
+    height: 3px;
+    background-color: var(--iq-underlining);
+  }
+`;
+
+export const Element = styled.li`
+  list-style: line;
+  margin-left: 10px;
+  line-height: 1.4;
+`;
+
+export const ButtonContainer = styled.div`
+  /* height: 60px; */
+  margin: 0 15px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+`;
+
 export const ButtonDescr = styled.button`
   /* border-radius: 5px; */
   background: none;
@@ -106,12 +121,4 @@ export const ButtonDescr = styled.button`
     stroke: rgba(88, 5, 143, 1); // Изменение цвета иконки при наведении
     stroke-width: 1;
   }
-`;
-
-export const ButtonContainer = styled.div`
-  /* height: 60px; */
-  margin: 0 15px;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
 `;

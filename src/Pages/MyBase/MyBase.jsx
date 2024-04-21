@@ -1,76 +1,24 @@
 import { useState } from 'react';
-import Medicine_2023 from '../../Files/Medicine_2023.json';
-import Klener from '../../Files/ClenerNew.json';
-import Legislativa from '../../Files/Legislativa_Báze_2023.json';
-import Živný from '../../Files/Živný.json';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
-
 import {
-  Element,
-  Item,
+  Textbase,
   List,
-  ListQuestion,
-  Question,
-  Select,
-  SpanElemet,
+  Item,
   TopicContainer,
-  ButtonDescr,
+  SpanElemet,
+  Question,
+  ListQuestion,
+  Element,
   ButtonContainer,
-} from './AllTests.styled';
-import LoadMore from 'components/LoadMore/LoadMore';
-import { FormContainer, WraperForm } from 'Pages/Home/Home.styled';
+  ButtonDescr,
+} from './MyBase.styled';
 import Modal from 'components/Modal/Modal';
 
-const AllTests = () => {
-  const [allTests, setAllTests] = useState(Legislativa);
-  const [currentPage, setCurrentPage] = useState(1);
+const MyBase = () => {
+  const choosenBase = JSON.parse(localStorage.getItem('myCollection'));
+  const [selectedQuestion, setSelectedQuestion] = useState(null);
   const [modalActive, setModalActive] = useState(false);
-  const [selectedQuestion, setSelectedQuestion] = useState(null); // Состояние для хранения выбранного вопроса
-  const [picedQuestions, setPickedQuestions] = useState(
-    JSON.parse(localStorage.getItem('myCollection')) || []
-  );
-
-  const isTestInFavorites = test => {
-    return picedQuestions.some(item => item.question === test.question);
-  };
-  console.log(picedQuestions);
-  const testsPerPage = 30; // Количество тестов на странице
-
-  const renderAnswer = (answer, isCorrect) => {
-    return isCorrect ? (
-      <span style={{ backgroundColor: '#1fa01f6f' }}>{answer}</span>
-    ) : (
-      <span>{answer}</span>
-    );
-  };
-
-  const handleOption1Change = event => {
-    const selectedValue = event.target.value;
-    switch (selectedValue) {
-      case 'Klener':
-        setAllTests(Klener);
-        break;
-      case 'Medicine_2023':
-        setAllTests(Medicine_2023);
-        break;
-      case 'Legislativa_Báze_2023':
-        setAllTests(Legislativa);
-        break;
-      case 'Živný':
-        setAllTests(Živný);
-        break;
-      default:
-        setAllTests(Legislativa);
-    }
-  };
-
-  const startIndex = (currentPage - 1) * testsPerPage;
-  const endIndex = startIndex + testsPerPage;
-  const visibleTests = allTests.slice(startIndex, endIndex);
-
-  const handlePageChange = (event, newPage) => {
-    setCurrentPage(newPage);
-  };
+  const [myQuestions, setMyQuestions] = useState(choosenBase || []);
 
   const openModal = question => {
     // Передаем вопрос в функцию openModal
@@ -83,53 +31,41 @@ const AllTests = () => {
     setModalActive(false);
     document.body.style.overflow = 'auto';
   };
+  const renderAnswer = (answer, isCorrect) => {
+    return isCorrect ? (
+      <span style={{ backgroundColor: '#1fa01f6f' }}>{answer}</span>
+    ) : (
+      <span>{answer}</span>
+    );
+  };
+  const isTestInFavorites = test => {
+    return myQuestions.some(item => item.question === test.question);
+  };
 
   const addToFavorite = test => {
     console.log(test);
-    const isAlreadyAdded = picedQuestions.find(
-      item => item.question === test.question
+
+    // // Если элемент уже добавлен, то удаляем его
+
+    const updatedCollection = myQuestions.filter(
+      item => item.question !== test.question
     );
-
-    // Если элемент уже добавлен, то удаляем его
-    if (isAlreadyAdded) {
-      const updatedCollection = picedQuestions.filter(
-        item => item.question !== test.question
-      );
-      setPickedQuestions(updatedCollection);
-      localStorage.setItem('myCollection', JSON.stringify(updatedCollection));
-      Notify.warning('Test odstraněn z oblíbených');
-      // console.log(updatedCollection.length);
-      return;
-    }
-
-    // Если элемент не добавлен, то добавляем его
-    const updatedCollection = [...picedQuestions, test];
-    setPickedQuestions(updatedCollection);
+    setMyQuestions(updatedCollection);
     localStorage.setItem('myCollection', JSON.stringify(updatedCollection));
-    // console.log(collection.length);
-    Notify.success('Test přidán do oblíbených');
+    Notify.warning('Test odstraněn z oblíbených');
+    return;
   };
-  // localStorage.clear();
+
   return (
     <>
-      <FormContainer action="formBase">
-        <WraperForm>
-          <label htmlFor="formBase">Vyberte testy</label>
-          <Select id="formBase" onChange={handleOption1Change}>
-            <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
-            <option value="Klener">Klener</option>
-            <option value="Živný">Živný(1-731)</option>
-            <option value="Medicine_2023">Medicine_2023</option>
-          </Select>
-        </WraperForm>
-      </FormContainer>
+      <Textbase>My Base</Textbase>
       <div>
         <List>
-          {visibleTests.map((test, index) => (
-            <Item key={index}>
+          {myQuestions.map((test, idx) => (
+            <Item key={idx}>
               <TopicContainer>
-                <SpanElemet>Book: {test.book}</SpanElemet>
-                <SpanElemet>Topic: {test.topic}</SpanElemet>
+                <SpanElemet>Книга: {test.book}</SpanElemet>
+                <SpanElemet>Тема: {test.topic}</SpanElemet>
               </TopicContainer>
 
               <Question>{test.question}</Question>
@@ -141,7 +77,6 @@ const AllTests = () => {
                 ))}
               </ListQuestion>
               <ButtonContainer>
-                {/* {test.description && ( */}
                 <ButtonDescr
                   onClick={() => openModal(test)}
                   disabled={!test.description}
@@ -158,7 +93,7 @@ const AllTests = () => {
                   </svg>
                   Show Description
                 </ButtonDescr>
-                {/* // )} */}
+
                 <ButtonDescr onClick={e => addToFavorite(test)}>
                   <svg
                     width="30"
@@ -179,26 +114,21 @@ const AllTests = () => {
                   </svg>
                   Add to favorite
                 </ButtonDescr>
+                {/* SVG и текст для кнопки Добавить в избрsанное */}
               </ButtonContainer>
             </Item>
           ))}
         </List>
       </div>
-      <LoadMore
-        currentPage={currentPage}
-        testsPerPage={testsPerPage}
-        totalTests={allTests.length}
-        onPageChange={handlePageChange}
-      />
       <Modal
         active={modalActive}
         setActive={setModalActive}
         closeModal={closeModal}
         props={selectedQuestion} // Передаем выбранный вопрос в компонент Modal
       />
-      {/* <Functions></Functions> */}
     </>
   );
 };
+// };
 
-export default AllTests;
+export default MyBase;

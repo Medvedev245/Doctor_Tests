@@ -12,6 +12,12 @@ const MainPage = () => {
     <>
       <SectionPic>
         <MainText>What we do?</MainText>
+        <p style={{ textIndent: '15px', marginBottom: '20px' }}>
+          Всем привет! Сайт создан для врачей в качестве помощника при
+          подготовке к сдаче тестов и экзаменов в целом. С момента создания
+          сайта, им пользовались уже порядка 4 500 раз. На данный момент и в
+          дальнейшем ресурс будет абсолютно бесплатным.
+        </p>
         <ContainerDesc>
           {/* <ContainerText to="/">
             <MainDescr>Lékařské Zkoušky Online</MainDescr>
@@ -30,6 +36,13 @@ const MainPage = () => {
           </ContainerText>
           <ContainerText to="AllTests">
             <MainDescr>All Tests</MainDescr>
+            <p>
+              In this tab you can view all existing tests on the site. View any
+              test in full with correct answers and description.
+            </p>
+          </ContainerText>
+          <ContainerText to="MyBase">
+            <MainDescr>My Base</MainDescr>
             <p>
               In this tab you can view all existing tests on the site. View any
               test in full with correct answers and description.
@@ -62,14 +75,14 @@ const MainPage = () => {
         </ContainerDesc>
       </SectionPic>
       <SectionPic>
-        <h3 style={{ textAlign: 'center', marginBottom: '20px' }}>Описание</h3>
+        {/* <h3 style={{ textAlign: 'center', marginBottom: '20px' }}>Описание</h3>
         <p style={{ textIndent: '15px' }}>
           Всем привет! Сайт создан для врачей в качестве помощника при
           подготовке к сдаче тестов и экзаменов в целом. С момента создания
           сайта, им пользовались уже порядка 4 500 раз. На данный момент и в
           дальнейшем ресурс будет абсолютно бесплатным.
         </p>
-        <br />
+        <br /> */}
         <p style={{ textIndent: '15px' }}>
           В разделе "Take a test" Вы можете пройти тестирование, выбрав базу,
           количество вопросов и узнать результат.
@@ -77,6 +90,10 @@ const MainPage = () => {
         <br />
         <p style={{ textIndent: '15px' }}>
           В разделе "All tests" Можно выбрать базу для изучения и анализа.
+        </p>
+        <br />
+        <p style={{ textIndent: '15px' }}>
+          В разделе "My Base" Хранятся Все выбранные Вами тесты.
         </p>
         <br />
         <p style={{ textIndent: '15px' }}>
