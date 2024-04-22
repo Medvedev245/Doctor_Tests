@@ -13,20 +13,11 @@ const MainPage = () => {
       <SectionPic>
         <MainText>What we do?</MainText>
         <p style={{ textIndent: '15px', marginBottom: '20px' }}>
-          Всем привет! Сайт создан для врачей в качестве помощника при
-          подготовке к сдаче тестов и экзаменов в целом. С момента создания
-          сайта, им пользовались уже порядка 4 500 раз. На данный момент и в
-          дальнейшем ресурс будет абсолютно бесплатным.
+          Ahoj všichni! Stránka byla vytvořena pro lékaře jako pomocník při
+          přípravě na testy a zkoušky obecně. Prozatím i v budoucnu bude tento
+          zdroj zcela zdarma.
         </p>
         <ContainerDesc>
-          {/* <ContainerText to="/">
-            <MainDescr>Lékařské Zkoušky Online</MainDescr>
-            <p>
-              Your Essential Medical Exam Aid. Whether it's exam prep or
-              expanding medical knowledge, find all you need for success at your
-              fingertips.
-            </p>
-          </ContainerText> */}
           <ContainerText to="page">
             <MainDescr>Take a tests</MainDescr>
             <p>
@@ -44,8 +35,8 @@ const MainPage = () => {
           <ContainerText to="MyBase">
             <MainDescr>My Base</MainDescr>
             <p>
-              In this tab you can view all existing tests on the site. View any
-              test in full with correct answers and description.
+              In this tab you can create your own selection of tests from all
+              existing ones. Add or remove tests.
             </p>
           </ContainerText>
           <ContainerText to="video">
@@ -75,14 +66,14 @@ const MainPage = () => {
         </ContainerDesc>
       </SectionPic>
       <SectionPic>
-        {/* <h3 style={{ textAlign: 'center', marginBottom: '20px' }}>Описание</h3>
+        <h3 style={{ textAlign: 'center', marginBottom: '20px' }}>Описание</h3>
         <p style={{ textIndent: '15px' }}>
           Всем привет! Сайт создан для врачей в качестве помощника при
           подготовке к сдаче тестов и экзаменов в целом. С момента создания
           сайта, им пользовались уже порядка 4 500 раз. На данный момент и в
           дальнейшем ресурс будет абсолютно бесплатным.
         </p>
-        <br /> */}
+        <br />
         <p style={{ textIndent: '15px' }}>
           В разделе "Take a test" Вы можете пройти тестирование, выбрав базу,
           количество вопросов и узнать результат.
@@ -93,7 +84,8 @@ const MainPage = () => {
         </p>
         <br />
         <p style={{ textIndent: '15px' }}>
-          В разделе "My Base" Хранятся Все выбранные Вами тесты.
+          В разделе "My Base" Вы можете создать свою собственную выборку тестов
+          из всех существующих. Добавлять или удалять тесты.
         </p>
         <br />
         <p style={{ textIndent: '15px' }}>

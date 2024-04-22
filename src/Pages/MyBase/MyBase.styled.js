@@ -4,11 +4,12 @@ export const Textbase = styled.p`
   text-align: center;
   font-size: 24px;
   font-weight: 500;
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 
   // Mobil
   @media screen and (max-width: 767px) {
     font-size: 16px;
+    margin-bottom: 20px;
   }
 `;
 

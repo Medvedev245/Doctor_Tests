@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
+import debounce from 'lodash/debounce';
 import {
   Textbase,
   List,
@@ -13,13 +14,15 @@ import {
   ButtonDescr,
 } from './MyBase.styled';
 import Modal from 'components/Modal/Modal';
+import FindTest from 'components/OneTest/OneTest';
 
 const MyBase = () => {
   const choosenBase = JSON.parse(localStorage.getItem('myCollection'));
   const [selectedQuestion, setSelectedQuestion] = useState(null);
   const [modalActive, setModalActive] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
   const [myQuestions, setMyQuestions] = useState(choosenBase || []);
-
+  //   console.log(myQuestions);
   const openModal = question => {
     // Передаем вопрос в функцию openModal
     setSelectedQuestion(question); // Устанавливаем выбранный вопрос
@@ -56,12 +59,26 @@ const MyBase = () => {
     return;
   };
 
+  const handleSearchInputChange = debounce(event => {
+    setSearchQuery(event.target.value);
+    console.log(searchQuery);
+  }, 500);
+
+  const filteredQuestions = myQuestions.filter(question =>
+    question.question.toLowerCase().includes(searchQuery.toLowerCase())
+  );
+  console.log(filteredQuestions);
+
   return (
     <>
       <Textbase>My Base</Textbase>
+      <FindTest
+        handleSearchInputChange={handleSearchInputChange}
+        // searchQuery={searchQuery}
+      />
       <div>
         <List>
-          {myQuestions.map((test, idx) => (
+          {filteredQuestions.map((test, idx) => (
             <Item key={idx}>
               <TopicContainer>
                 <SpanElemet>Книга: {test.book}</SpanElemet>
@@ -129,6 +146,5 @@ const MyBase = () => {
     </>
   );
 };
-// };
 
 export default MyBase;
