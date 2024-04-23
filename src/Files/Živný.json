@@ -24274,7 +24274,7 @@
     "answers": ["a) 2", "b) 1", "a) 0,08-0,1", "d) 0,5"],
     "book": ["Živný"],
     "topic": ["11. KONTRACEPCE. I. ČÁST PREGRADUÁLNÍ"],
-    "correctAnswers": ["a) 2a) 0,08-0,1"],
+    "correctAnswers": ["a) 2"],
     "description": [""],
     "img": [""]
   },
@@ -24855,7 +24855,7 @@
     ],
     "book": ["Živný"],
     "topic": ["11. KONTRACEPCE. I. ČÁST PREGRADUÁLNÍ"],
-    "correctAnswers": [""],
+    "correctAnswers": ["d) byla zavedena do klinické praxe roku 1955"],
     "description": [""],
     "img": [""]
   },
