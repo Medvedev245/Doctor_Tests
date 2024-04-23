@@ -15,6 +15,7 @@ import {
 } from './MyBase.styled';
 import Modal from 'components/Modal/Modal';
 import FindTest from 'components/OneTest/OneTest';
+import LoadMore from 'components/LoadMore/LoadMore';
 
 const MyBase = () => {
   const choosenBase = JSON.parse(localStorage.getItem('myCollection'));
@@ -22,7 +23,11 @@ const MyBase = () => {
   const [modalActive, setModalActive] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
   const [myQuestions, setMyQuestions] = useState(choosenBase || []);
-  //   console.log(myQuestions);
+  const [currentPage, setCurrentPage] = useState(1);
+
+  const testsQuantity = myQuestions.length;
+
+  console.log(testsQuantity);
   const openModal = question => {
     // Передаем вопрос в функцию openModal
     setSelectedQuestion(question); // Устанавливаем выбранный вопрос
@@ -67,18 +72,23 @@ const MyBase = () => {
   const filteredQuestions = myQuestions.filter(question =>
     question.question.toLowerCase().includes(searchQuery.toLowerCase())
   );
-  console.log(filteredQuestions);
+
+  const handlePageChange = (event, newPage) => {
+    setCurrentPage(newPage);
+  };
+
+  const testsPerPage = 30; // Количество тестов на странице
+  const startIndex = (currentPage - 1) * testsPerPage;
+  const endIndex = startIndex + testsPerPage;
+  const doneQuestions = filteredQuestions.slice(startIndex, endIndex);
 
   return (
     <>
-      <Textbase>My Base</Textbase>
-      <FindTest
-        handleSearchInputChange={handleSearchInputChange}
-        // searchQuery={searchQuery}
-      />
+      <Textbase>My Base ({testsQuantity})</Textbase>
+      <FindTest handleSearchInputChange={handleSearchInputChange} />
       <div>
         <List>
-          {filteredQuestions.map((test, idx) => (
+          {doneQuestions.map((test, idx) => (
             <Item key={idx}>
               <TopicContainer>
                 <SpanElemet>Книга: {test.book}</SpanElemet>
@@ -131,17 +141,22 @@ const MyBase = () => {
                   </svg>
                   Add to favorite
                 </ButtonDescr>
-                {/* SVG и текст для кнопки Добавить в избрsанное */}
               </ButtonContainer>
             </Item>
           ))}
         </List>
       </div>
+      <LoadMore
+        currentPage={currentPage}
+        testsPerPage={testsPerPage}
+        totalTests={filteredQuestions.length}
+        onPageChange={handlePageChange}
+      />
       <Modal
         active={modalActive}
         setActive={setModalActive}
         closeModal={closeModal}
-        props={selectedQuestion} // Передаем выбранный вопрос в компонент Modal
+        props={selectedQuestion}
       />
     </>
   );

@@ -3,6 +3,8 @@ import Medicine_2023 from '../../Files/Medicine_2023.json';
 import Klener from '../../Files/ClenerNew.json';
 import Legislativa from '../../Files/Legislativa_Báze_2023.json';
 import Živný from '../../Files/Živný.json';
+import debounce from 'lodash/debounce';
+
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 import {
@@ -16,15 +18,19 @@ import {
   TopicContainer,
   ButtonDescr,
   ButtonContainer,
+  TextAllTests,
 } from './AllTests.styled';
 import LoadMore from 'components/LoadMore/LoadMore';
 import { FormContainer, WraperForm } from 'Pages/Home/Home.styled';
 import Modal from 'components/Modal/Modal';
+import FindTest from 'components/OneTest/OneTest';
+import Functions from 'Files/Functions';
 
 const AllTests = () => {
   const [allTests, setAllTests] = useState(Legislativa);
   const [currentPage, setCurrentPage] = useState(1);
   const [modalActive, setModalActive] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
   const [selectedQuestion, setSelectedQuestion] = useState(null); // Состояние для хранения выбранного вопроса
   const [picedQuestions, setPickedQuestions] = useState(
     JSON.parse(localStorage.getItem('myCollection')) || []
@@ -33,8 +39,7 @@ const AllTests = () => {
   const isTestInFavorites = test => {
     return picedQuestions.some(item => item.question === test.question);
   };
-  console.log(picedQuestions);
-  const testsPerPage = 30; // Количество тестов на странице
+  // console.log(picedQuestions);
 
   const renderAnswer = (answer, isCorrect) => {
     return isCorrect ? (
@@ -63,10 +68,6 @@ const AllTests = () => {
         setAllTests(Legislativa);
     }
   };
-
-  const startIndex = (currentPage - 1) * testsPerPage;
-  const endIndex = startIndex + testsPerPage;
-  const visibleTests = allTests.slice(startIndex, endIndex);
 
   const handlePageChange = (event, newPage) => {
     setCurrentPage(newPage);
@@ -109,9 +110,22 @@ const AllTests = () => {
     // console.log(collection.length);
     Notify.success('Test přidán do oblíbených');
   };
-  // localStorage.clear();
+
+  const handleSearchInputChange = debounce(event => {
+    setSearchQuery(event.target.value);
+    // console.log(searchQuery);
+  }, 500);
+
+  const filteredQuestions = allTests.filter(question =>
+    question.question.toLowerCase().includes(searchQuery.toLowerCase())
+  );
+  const testsPerPage = 30; // Количество тестов на странице
+  const startIndex = (currentPage - 1) * testsPerPage;
+  const endIndex = startIndex + testsPerPage;
+  const doneQuestions = filteredQuestions.slice(startIndex, endIndex);
   return (
     <>
+      {/* <TextAllTests>All Tests</TextAllTests>
       <FormContainer action="formBase">
         <WraperForm>
           <label htmlFor="formBase">Vyberte testy</label>
@@ -124,8 +138,9 @@ const AllTests = () => {
         </WraperForm>
       </FormContainer>
       <div>
+        <FindTest handleSearchInputChange={handleSearchInputChange} />
         <List>
-          {visibleTests.map((test, index) => (
+          {doneQuestions.map((test, index) => (
             <Item key={index}>
               <TopicContainer>
                 <SpanElemet>Book: {test.book}</SpanElemet>
@@ -141,7 +156,6 @@ const AllTests = () => {
                 ))}
               </ListQuestion>
               <ButtonContainer>
-                {/* {test.description && ( */}
                 <ButtonDescr
                   onClick={() => openModal(test)}
                   disabled={!test.description}
@@ -158,7 +172,7 @@ const AllTests = () => {
                   </svg>
                   Show Description
                 </ButtonDescr>
-                {/* // )} */}
+
                 <ButtonDescr onClick={e => addToFavorite(test)}>
                   <svg
                     width="30"
@@ -187,16 +201,16 @@ const AllTests = () => {
       <LoadMore
         currentPage={currentPage}
         testsPerPage={testsPerPage}
-        totalTests={allTests.length}
+        totalTests={filteredQuestions.length}
         onPageChange={handlePageChange}
       />
       <Modal
         active={modalActive}
         setActive={setModalActive}
         closeModal={closeModal}
-        props={selectedQuestion} // Передаем выбранный вопрос в компонент Modal
-      />
-      {/* <Functions></Functions> */}
+        props={selectedQuestion}
+      /> */}
+      <Functions></Functions>
     </>
   );
 };

@@ -35,7 +35,6 @@ const Legislativa = () => {
           </ItemElement>
         </ItemContainer>
       </div>
-      <div></div>
     </>
   );
 };

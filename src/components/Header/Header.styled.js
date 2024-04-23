@@ -92,7 +92,7 @@ export const LinkElement = styled(NavLink)`
   padding: 26px 0;
   text-decoration: none;
   color: black;
-  height: 100%;
+  height: 70px;
   &.active {
     transition: all 0.4s ease;
     background-color: rgba(204, 185, 228, 1);
@@ -109,7 +109,7 @@ export const LinkElement = styled(NavLink)`
     width: 75px;
     font-size: 13px;
     padding: 28px 0;
-    height: auto;
+    height: 70px;
   }
 
   // Mobil
