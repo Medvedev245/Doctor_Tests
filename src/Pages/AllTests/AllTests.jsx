@@ -24,7 +24,7 @@ import LoadMore from 'components/LoadMore/LoadMore';
 import { FormContainer, WraperForm } from 'Pages/Home/Home.styled';
 import Modal from 'components/Modal/Modal';
 import FindTest from 'components/OneTest/OneTest';
-import Functions from 'Files/Functions';
+// import Functions from 'Files/Functions';
 
 const AllTests = () => {
   const [allTests, setAllTests] = useState(Legislativa);
@@ -125,7 +125,7 @@ const AllTests = () => {
   const doneQuestions = filteredQuestions.slice(startIndex, endIndex);
   return (
     <>
-      {/* <TextAllTests>All Tests</TextAllTests>
+      <TextAllTests>All Tests</TextAllTests>
       <FormContainer action="formBase">
         <WraperForm>
           <label htmlFor="formBase">Vyberte testy</label>
@@ -209,8 +209,8 @@ const AllTests = () => {
         setActive={setModalActive}
         closeModal={closeModal}
         props={selectedQuestion}
-      /> */}
-      <Functions></Functions>
+      />
+      {/* <Functions></Functions> */}
     </>
   );
 };
