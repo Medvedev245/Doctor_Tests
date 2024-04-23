@@ -24995,5 +24995,608 @@
     "correctAnswers": ["c) paracetamolu"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Konstrukce kombinované hormonální kontracepce může být",
+    "answers": [
+      "a) jednofázová",
+      "b) dvoufázová",
+      "c) třífázová",
+      "d) kombifázová"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) jednofázová",
+      "b) dvoufázová",
+      "c) třífázová",
+      "d) kombifázová"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Antiandrogenní účinek nemá",
+    "answers": [
+      "a) cyproteron-acetát",
+      "b) dienogest",
+      "c) norgestimát",
+      "d) levonorgestrel"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) levonorgestrel"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Částečně estrogenní aktivitu nemá",
+    "answers": [
+      "a) gestoden",
+      "b) dienogest",
+      "c) norethisteron",
+      "d) lynestrenol"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [""],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Širokospektrá antibiotika mohou snížit spolehlivost hormonální kontracepce v důsledku",
+    "answers": [
+      "a) omezení vstřebávání při změně střevní flóry",
+      "b) natriuretického efektu",
+      "c) opakovaného zvracení při nevolnosti",
+      "d) zvýšení aktivity jatemích enzymů"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) omezení vstřebávání při změně střevní flóry",
+      "b) natriuretického efektu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Uživatelky kombinované hormonální kontracepce mají ve srovnání s ženami, které užívají bariérovou antikoncepci",
+    "answers": [
+      "a) vyšší riziko mimoděložního těhotenství",
+      "b) nižší riziko mimoděložního těhotenství",
+      "c) nižší riziko funkčních ovariálních cyst",
+      "d) vyšší riziko funkčních ovariálních cyst"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) nižší riziko mimoděložního těhotenství",
+      "c) nižší riziko funkčních ovariálních cyst"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Přípravky kombinované hormonální kontracepce snižují riziko",
+    "answers": [
+      "a) ovariálních koetánních teratomů",
+      "b) serózních kystadenomů ovaria",
+      "c) korpusluteálních ovariálních cyst",
+      "d) folikulámích ovariálních cyst"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) korpusluteálních ovariálních cyst",
+      "d) folikulámích ovariálních cyst"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Přípravky kombinované hormonální kontracepce lze využít v léčbě",
+    "answers": [
+      "a) dysmenorey",
+      "b) katameniální epilepsie",
+      "c) karcinomu endometria",
+      "d) premenstruálního syndromu"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) dysmenorey",
+      "b) katameniální epilepsie",
+
+      "d) premenstruálního syndromu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Užívání kombinované hormonální kontracepce může způsobit",
+    "answers": [
+      "a) manifestaci akné",
+      "b) zlepšení akné",
+      "c) zvýšenou pigmentaci kůže",
+      "d) zvýšenou fotosenzitivitu kůže"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) manifestaci akné",
+      "b) zlepšení akné",
+      "c) zvýšenou pigmentaci kůže",
+      "d) zvýšenou fotosenzitivitu kůže"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Riziko tromboembolické nemoci při užívání kombinované hormonální kontracepce",
+    "answers": [
+      "a) je nejnižší během prvních tří měsíců užívání",
+      "b) je nejvyšší během prvních tří měsíců užívání",
+      "c) postupně se snižuje s celkovou dobou užívání",
+      "d) postupně se zvyšuje s celkovou dobou užívání"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) je nejvyšší během prvních tří měsíců užívání",
+      "c) postupně se snižuje s celkovou dobou užívání"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Riziko tromboembolické nemoci při užívání kombinované hormonální antikoncepce je závislé na",
+    "answers": [
+      "a) konstrukci přípravku",
+      "b) dávce estrogenů",
+      "c) zvoleném estrogenů",
+      "d) typu progestinu"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) dávce estrogenů", "d) typu progestinu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. »Leidenská mutace«",
+    "answers": [
+      "a) je jednou z vrozených trombofilních stavů",
+      "b) zvyšuje významně riziko tromboembolické nemoci",
+      "c) je relativní kontraindikací kombinované hormonální kontracepce",
+      "d) je absolutní kontraindikací kombinované hormonální kontracepce"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je jednou z vrozených trombofilních stavů",
+      "b) zvyšuje významně riziko tromboembolické nemoci",
+      "c) je relativní kontraindikací kombinované hormonální kontracepce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Riziko infarktu myokardu je při užívání kombinované hormonální antikoncepce",
+    "answers": [
+      "a) sníženo",
+      "b) sníženo, především u mladších žen s rizikem ICHS",
+      "c) zvýšeno, především u starších kuřaček",
+      "d) zvýšeno, především u starších žen s hypertenzí"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) zvýšeno, především u starších kuřaček",
+      "d) zvýšeno, především u starších žen s hypertenzí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Měření krevního tlaku u uživatelek hormonální kontracepce",
+    "answers": [
+      "a) není nutné",
+      "b) je významné především pro riziko kardiovaskulárního onemocnění",
+      "c) se provádí při každé kontrole",
+      "d) se provádí pouze u žen s hypertenzí"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) je významné především pro riziko kardiovaskulárního onemocnění",
+      "c) se provádí při každé kontrole"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Vyšetřeníjatemích testů u uživatelek hormonální antikoncepce",
+    "answers": [
+      "a) u zdravých žen není nutné",
+      "b) se provádí jednou za rok",
+      "c) je doporučené u žen nad 35 let",
+      "d) je doporučené u žen s anamnézou jatemího onemocnění"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) u zdravých žen není nutné",
+      "d) je doporučené u žen s anamnézou jatemího onemocnění"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Riziko karcinomu děložního čípku",
+    "answers": [
+      "a) je mírně zvýšené u uživatelek kombinované hormonální kontracepce",
+      "b) je mírně zvýšené u nositelek nitroděložního tělíska",
+      "c) je mírně zvýšené u žen, které používají pravidelně bariérovou antikoncepci",
+      "d) není ovlivněné tubámí sterilizací"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je mírně zvýšené u uživatelek kombinované hormonální kontracepce",
+
+      "d) není ovlivněné tubámí sterilizací"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Tůbární sterilizaci lze podle platného zákona provést u ženy",
+    "answers": [
+      "a) starší 35 let, pokud má alespoň dvě děti",
+      "b) starší 40 let",
+      "c) starší 30 let, pokud má alespoň tři děti",
+      "d) mladší 30 let, pokud má alespoň čtyři děti"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) starší 40 let",
+      "c) starší 30 let, pokud má alespoň tři děti",
+      "d) mladší 30 let, pokud má alespoň čtyři děti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Kombinovanou hormonální kontracepci můžeme doporučit ženě",
+    "answers": [
+      "a) s léčenou hypertenzí",
+      "b) s anamnézou hluboké žilní trombózy",
+      "c) s varixy",
+      "d) s anamnézou hepatitidy A"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) s léčenou hypertenzí",
+
+      "c) s varixy",
+      "d) s anamnézou hepatitidy A"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Kombinovaná hormonální kontracepce by měla být vysazena",
+    "answers": [
+      "a) při plánované cestě letadlem delší než 10 hodin",
+      "b) při plánovaném větším chirurgickém výkonu",
+      "c) při každé hospitalizaci",
+      "d) při úrazu, jehož důsledkem je dlouhodobá imobilizace"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) při plánovaném větším chirurgickém výkonu",
+
+      "d) při úrazu, jehož důsledkem je dlouhodobá imobilizace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Významným rizikovým faktorem tromboembolické nemoci je",
+    "answers": [
+      "a) antifosfolipidový syndrom",
+      "b) rodinná anamnéza tromboembolické nemoci",
+      "c) deficit proteinu S",
+      "d) osobní anamnéza tromboembolické nemoci"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) antifosfolipidový syndrom",
+      "b) rodinná anamnéza tromboembolické nemoci",
+      "c) deficit proteinu S",
+      "d) osobní anamnéza tromboembolické nemoci"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Mezi ženské bariérové kontracepční metody patří",
+    "answers": [
+      "a) ženský kondom",
+      "b) diafragma",
+      "c) cervikální klobouček",
+      "d) vaginální houba"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) ženský kondom",
+      "b) diafragma",
+      "c) cervikální klobouček",
+      "d) vaginální houba"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Chybění pseudomenstruačního krvácení během užívání kombinované hormonální kontracepce může být důsledkem",
+    "answers": [
+      "a) těhotenství",
+      "b) karcinomu endometria",
+      "c) porušení zpětné vazby",
+      "d) Ashermannova syndromu"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) těhotenství", "c) porušení zpětné vazby"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Mezi používaná nitroděložní tělíska patří",
+    "answers": [
+      "a) tělíska z inertních plastických hmot, nemedikovaná",
+      "b) medikovaná tělíska s obsahem mědi",
+      "c) medikovaná tělíska uvolňující estrogeny",
+      "d) medikovaná tělíska uvolňující gestagen"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) tělíska z inertních plastických hmot, nemedikovaná",
+      "b) medikovaná tělíska s obsahem mědi",
+
+      "d) medikovaná tělíska uvolňující gestagen"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Mezi relativní kontraindikace nitroděložního tělíska s gestagenem patří",
+    "answers": [
+      "a) stav po opakované léčbě ovariálních cyst",
+      "b) intolerance hypomenorey či amenorey",
+      "c) závažná onemocnění jater",
+      "d) dysfunkční děložní krvácení"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) stav po opakované léčbě ovariálních cyst",
+      "b) intolerance hypomenorey či amenorey",
+      "c) závažná onemocnění jater"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Kombinované přípravky hormonální kontracepce mohou",
+    "answers": [
+      "a) snižovat glukózovou toleranci",
+      "b) zvyšovat glukózovou toleranci",
+      "c) snižovat periferní inzulínovou senzitivitu",
+      "d) zvyšovat periferní inzulínovou senzitivitu"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) snižovat glukózovou toleranci",
+
+      "c) snižovat periferní inzulínovou senzitivitu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Vyberte správné odpovědi",
+    "answers": [
+      "a) nuliparita je kontraindikací nitroděložní kontracepce",
+      "b) podmínkou použití nitroděložního tělíska u nuliparje děložní hrdlo prostupné pro zavaděč",
+      "c) z nitroděložních tělísek preferujeme u nulipar medikované tělísko uvolňující gestagen",
+      "d) jako postkoitálm kontracepci lze nitroděložní tělísko zavést do 5 dnů po nechráněném styku"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) podmínkou použití nitroděložního tělíska u nuliparje děložní hrdlo prostupné pro zavaděč",
+      "c) z nitroděložních tělísek preferujeme u nulipar medikované tělísko uvolňující gestagen",
+      "d) jako postkoitálm kontracepci lze nitroděložní tělísko zavést do 5 dnů po nechráněném styku"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Implantace Norplantu zabraňuje otěhotnění po dobu",
+    "answers": ["a) 3 let", "b) 8 let", "c) 1 roku", "d) 5 let"],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) 5 let"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Mezi nekontracepční terapeutické účinky nitroděložního tělíska s levonorgestrelem nepatří vliv na",
+    "answers": [
+      "a) mastodynii",
+      "b) prekancerózy děložního hrdla",
+      "c) hyperplazii endometria",
+      "d) dysfunkční děložní krvácení"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) prekancerózy děložního hrdla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Při přítomnosti cervikálních dysplazií nitroděložní tělísko",
+    "answers": [
+      "a) není možno zavést vůbec",
+      "b) lze zavést po léčbě",
+      "c) lze zavést kdykoliv",
+      "d) lze zavést pouze u CIN I"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) lze zavést po léčbě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Po zavedení nitroděložního tělíska má být jeho vzdálenost od fundu děložního nejvýše",
+    "answers": ["a) lem", "b) 2 cm", "c) 3cm", "d) 4 cm"],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) 2 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Dojde-li к otěhotnění při zavedené nitroděložní kontracepci, je riziko mimoděložního těhotenství",
+    "answers": [
+      "a) obdobné jako u jiných forem kontracepce",
+      "b) zvýšené",
+      "c) zvýšené pouze v prvním roce od zavedení",
+      "d) nižší ve srovnám s jinými kontracepčními metodami"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) zvýšené"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Mezi běžně užívané aplikační cesty gestagenní kontracepce nepatří",
+    "answers": [
+      "a) perorální",
+      "b) injekční",
+      "c) podkožní implantáty",
+      "d) transdermální"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) transdermální"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Nejvhodnější hormonální kontracepci pro ženy s velmi špatnou compliance je forma",
+    "answers": ["a) subkutánní", "b) injekční", "c) perorální", "d) vaginální"],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) subkutánní", "b) injekční"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Amenorea se po roce užívání Depo-Provery objevuje",
+    "answers": ["a) v 10%", "b) ve 25%", "c) v 50%", "d) ve 100%"],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) v 50%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Depotní subkutánní gestagenní systém Norplant obsahuje",
+    "answers": [
+      "a) 4 silastikové kapsle",
+      "b) 6 silastikových kapslí",
+      "c) 8 silastikových kapslí",
+      "d) 12 silastikových kapslí"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) 6 silastikových kapslí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Diafragma se extrahuje z pochvy",
+    "answers": [
+      "a) 1 hodinu po styku",
+      "b) bezprostředně po styku",
+      "c) nejdříve za 6 hodin po styku",
+      "d) 24 hodin po styku"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) nejdříve za 6 hodin po styku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Kontracepční spolehlivost diafragmy zvyšuje",
+    "answers": [
+      "a) použití spermicidních prostředků",
+      "b) její nasazení po styku",
+      "c) výplach pochvy po styku",
+      "d) větší průměr diafragmy"
+    ],
+    "book": ["Živný"],
+    "topic": ["11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) použití spermicidních prostředků"],
+    "description": [""],
+    "img": [""]
   }
 ]

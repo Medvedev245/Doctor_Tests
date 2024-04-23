@@ -31,6 +31,7 @@ export const Item = styled.ul`
   width: 400px;
   padding-bottom: 15px;
   background-color: white;
+  box-shadow: 5px 5px 8px #85b;
 `;
 
 export const ListQuestion = styled.ul`

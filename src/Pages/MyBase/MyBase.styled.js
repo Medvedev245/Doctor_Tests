@@ -32,7 +32,7 @@ export const Item = styled.li`
   width: 400px;
   padding-bottom: 15px;
   background-color: white;
-  /* margin-bottom: 15px; */
+  box-shadow: 5px 5px 8px #85b;
 `;
 
 export const TopicContainer = styled.div`
