@@ -32,7 +32,7 @@ export const Item = styled.li`
   width: 400px;
   padding-bottom: 15px;
   background-color: white;
-  box-shadow: 5px 5px 8px #85b;
+  box-shadow: 5px 5px 8px var(--iq-boxShadow);
 `;
 
 export const TopicContainer = styled.div`
@@ -59,6 +59,7 @@ export const TopicContainer = styled.div`
 
 export const SpanElemet = styled.span`
   color: black;
+  font-weight: 600;
 `;
 
 export const Question = styled.p`

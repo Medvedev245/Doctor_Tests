@@ -27,7 +27,7 @@ const MyBase = () => {
 
   const testsQuantity = myQuestions.length;
 
-  console.log(testsQuantity);
+  // console.log(testsQuantity);
   const openModal = question => {
     // Передаем вопрос в функцию openModal
     setSelectedQuestion(question); // Устанавливаем выбранный вопрос
@@ -84,15 +84,17 @@ const MyBase = () => {
 
   return (
     <>
-      <Textbase>My Base ({testsQuantity})</Textbase>
+      <Textbase>
+        My Base <span style={{ color: 'blue' }}>({testsQuantity})</span>
+      </Textbase>
       <FindTest handleSearchInputChange={handleSearchInputChange} />
       <div>
         <List>
           {doneQuestions.map((test, idx) => (
             <Item key={idx}>
               <TopicContainer>
-                <SpanElemet>Книга: {test.book}</SpanElemet>
-                <SpanElemet>Тема: {test.topic}</SpanElemet>
+                <SpanElemet>Boock: {test.book}</SpanElemet>
+                <SpanElemet>Topic: {test.topic}</SpanElemet>
               </TopicContainer>
 
               <Question>{test.question}</Question>

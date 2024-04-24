@@ -31,7 +31,7 @@ export const Item = styled.ul`
   width: 400px;
   padding-bottom: 15px;
   background-color: white;
-  box-shadow: 5px 5px 8px #85b;
+  box-shadow: 5px 5px 8px var(--iq-boxShadow);
 `;
 
 export const ListQuestion = styled.ul`
@@ -94,6 +94,7 @@ export const TopicContainer = styled.div`
 
 export const SpanElemet = styled.span`
   color: black;
+  font-weight: 600;
 `;
 
 export const ButtonDescr = styled.button`

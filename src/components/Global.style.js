@@ -28,6 +28,7 @@ code {
    --iq-secondary: rgba(214, 210, 210, 0.624); // задний фон
    --iq-underlining: rgba(187, 154, 230, 0.342);
    --iq-cross: rgba(88, 5, 143, 1);
+   --iq-boxShadow: rgba(136, 85, 187, 1); // boxShadow
 
    //Fonts
    --font-size-mobile: 16px; /* Размер шрифта для мобильных устройств */

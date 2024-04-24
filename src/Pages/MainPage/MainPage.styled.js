@@ -20,6 +20,7 @@ export const MainText = styled.h1`
 `;
 
 export const ContainerText = styled(Link)`
+  box-shadow: 5px 5px 8px #85b;
   display: flex;
   background-color: rgba(179, 136, 187, 0.2);
   flex-direction: column;
@@ -31,8 +32,15 @@ export const ContainerText = styled(Link)`
   text-decoration: none;
   color: black;
   cursor: pointer;
-  &:hover {
+  &:hover,
+  &:active {
     background-color: var(--iq-primary);
+  }
+
+  @media (pointer: coarse) {
+    &:hover {
+      color: blue;
+    }
   }
 `;
 
