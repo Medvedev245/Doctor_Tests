@@ -25,6 +25,7 @@ export const ContainerText = styled(Link)`
   background-color: rgba(179, 136, 187, 0.2);
   flex-direction: column;
   width: 320px;
+
   padding: 10px;
   gap: 20px;
   border-radius: 5px;

@@ -28006,5 +28006,1801 @@
     "correctAnswers": ["b) 5-6 % kysličníku uhličitého"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. К zástavě krvácení г dutiny děložní pro menoragii použijeme",
+    "answers": [
+      "a) ostrou kyretu",
+      "b) tupou kyretu",
+      "c) vakuumexhausci",
+      "d) Bummovu kyretu"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) ostrou kyretu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Chirurgickou kastraci u žen provádíme",
+    "answers": [
+      "a) při syndromu polycystických ovarií",
+      "b) к zamezení početí",
+      "c) pň léčbě agresivních sexuálních poruch",
+      "d) při carcinoma mammae"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) při carcinoma mammae"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. К mikroabrazi endometria použijeme",
+    "answers": [
+      "a) Bummovu kyretu",
+      "b) «fine needle« aspiraci",
+      "c) Nowakovu kyretu",
+      "d) ostrou kyretu"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) Nowakovu kyretu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Při supravaginální hysterektomii",
+    "answers": [
+      "a) provádíme tzv. poševní manžetu",
+      "b) ponecháváme děložní hrdlo",
+      "c) ponecháváme děložní hrdlo a dolní děložní segment",
+      "d) odstraňujeme postranní parametria"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) ponecháváme děložní hrdlo"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Zánětlivé adnexální tumory řešíme",
+    "answers": [
+      "a) vždy adnexektomií",
+      "b) ligací a. ovarica",
+      "c) léčbou antibiotiky",
+      "d) s ohledem na věk pacientky, klinický stav a charakter tumoru někdy chirurgicky, někdy konzervativně"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": [
+      "d) s ohledem na věk pacientky, klinický stav a charakter tumoru někdy chirurgicky, někdy konzervativně"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Gravidita je kontraindikována po",
+    "answers": [
+      "a) enukleaci myomu",
+      "b) amputaci děložního hrdla",
+      "c) operaci umbilikální kýly",
+      "d) ablaci endometria"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) ablaci endometria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Empyém Bartholiniho žlázy neléčíme",
+    "answers": [
+      "a) studenými obklady",
+      "b) prostou incizí",
+      "c) incizí a drenáží",
+      "d) chemickou exstirpací"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) studenými obklady"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Colpocleisisje",
+    "answers": [
+      "a) chirurgický uzávěr pochvy",
+      "b) založení poševního pesaru",
+      "c) mikrobiální vyšetření pochvy",
+      "d) reverze pochvy"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) chirurgický uzávěr pochvy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Colpocleisisje vhodná u pacientky",
+    "answers": [
+      "a) s inkontinencí moči",
+      "b) s lézí čípku",
+      "c) s děložním myomem",
+      "d) s prolapsem dělohy"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) s prolapsem dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Colpocleisisje kontraindikovaná při",
+    "answers": [
+      "a) enterokéle",
+      "b) lézi čípku",
+      "c) inkontinencí moči",
+      "d) elongaci hrdla"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) lézi čípku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Miniinterrupci provádíme",
+    "answers": [
+      "a) aplikací vysoké dávky estrogenů",
+      "b) vakuumexhausci",
+      "c) ostrou kyretou",
+      "d) Nowakovou kyretou"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) vakuumexhausci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Amreichova operace je",
+    "answers": [
+      "a) závěs poševního pahýlu",
+      "b) neoplastika pochvy",
+      "c) uzávěr pochvy",
+      "d) synonymum pro operaci enterokély"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) závěs poševního pahýlu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Chemickou exstirpaci děláme u",
+    "answers": [
+      "a) zánětu Bartholiniho žlázy",
+      "b) empyému Bartholiniho žlázy",
+      "c) cysty Bartholiniho žlázy",
+      "d) furunldu vulvy"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) empyému Bartholiniho žlázy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Laparotomie střídavým řezem",
+    "answers": [
+      "a) umožňuje lepší přístup do malé pánve",
+      "b) je vhodná pro apendektomii",
+      "c) je vhodná pro nefrektomii",
+      "d) je vhodná pro operaci hemie v jizvě"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) je vhodná pro apendektomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Pfannenstielovu laparotomii je vhodné užít",
+    "answers": [
+      "a) operací velkých tumorů",
+      "b) operací náhlých příhod břišních",
+      "c) rozšířené hysterektomie s lymfadenektomií",
+      "d) závěsných operací močového měchýře"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) závěsných operací močového měchýře"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Prostá vulvektomie znamená odstranění",
+    "answers": [
+      "a) velkých stydkých pysků",
+      "b) velkých a malých stydkých pysků",
+      "c) velkých a malých stydkých pysků a klitorisu",
+      "d) velkých a malých stydkých pysků, klitorisu a jedné I třetiny uretry"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) velkých a malých stydkých pysků a klitorisu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Radikální vulvektomie znamená odstranění",
+    "answers": [
+      "a) velkých a malých stydkých pysků, klitorisu a ingviI nálních uzlin",
+      "b) velkých a malých stydkých pysků, klitorisu, I ingvinálních a ilických uzlin a jedné třetiny uretry",
+      "c) velkých a malých stydkých pysků, klitorisu, ingvinálních a paraaortálních uzlin",
+      "d) velkých a malých stydkých pysků, klitorisu a celé uretry"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": [
+      "a) velkých a malých stydkých pysků, klitorisu a ingviI nálních uzlin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Pod názvem Hornova operace se rozumí",
+    "answers": [
+      "a) přerušení nervových zakončení v podkoží vulvy u dystrofických onemocnění vulvy",
+      "b) jedna ze závěsných operací močového měchýře",
+      "c) neoplastika pochvy",
+      "d) amputace děložního hrdla s transpozicí ligg. sacrouterina"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": [
+      "a) přerušení nervových zakončení v podkoží vulvy u dystrofických onemocnění vulvy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Konizace hrdla",
+    "answers": [
+      "a) znemožňuje další otěhotnění",
+      "b) má jen kosmetický efekt",
+      "c) umožňuje dokonalé histologické vyšetření",
+      "d) řeší elongaci hrdla"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) umožňuje dokonalé histologické vyšetření"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Adnexektomie je",
+    "answers": [
+      "a) synonymum neostomie",
+      "b) incize a drenáž adnexálního zánětlivého tumoru",
+      "c) odstranění obou ovarií",
+      "d) odstranění ovaria a vejcovodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) odstranění ovaria a vejcovodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Punkcí Douglasova prostoru získáme tmavou hustou krev; o který z uvedených stavů nejde",
+    "answers": [
+      "a) napunktovaná stěna při retroverzi, retroflexi (RVF) dělohy",
+      "b) endometrióza",
+      "c) napunktovaná hemoragická cysta ovaria",
+      "d) tubámí abort"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": [
+      "a) napunktovaná stěna při retroverzi, retroflexi (RVF) dělohy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Na arteriálním zásobení vnitřního genitálu se nepodílí",
+    "answers": [
+      "a) arteria ovarica",
+      "b) a. uterina",
+      "c) a. pudenda",
+      "d) a. obturatoria"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) a. obturatoria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Správný název pro odstranění ovaria a vejcovodu je",
+    "answers": [
+      "a) adnexotomie",
+      "b) adnexektomie",
+      "c) parciální hysterektomie",
+      "d) supravaginální hysterektomie"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) adnexektomie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. К chemické exstirpaci Bartholiniho žlázy užíváme",
+    "answers": [
+      "a) argentum nitricum",
+      "b) 3% kyselinu octovou",
+      "c) nasycený roztok NaCl",
+      "d) kyselinu dusičnou"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) argentum nitricum"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Jako první krok к zástavě krvácení při uterus myomatosus užijeme",
+    "answers": [
+      "a) abdominální hysterektomii",
+      "b) hysteroskopii",
+      "c) kyretáž dutiny děložní",
+      "d) prostaglandiny"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) kyretáž dutiny děložní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Nejčastější komplikaci přední poševní plastiky je",
+    "answers": ["a) anurie", "b) retence moči", "c) obstipace", "d) krvácení"],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) retence moči"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Nowakovu kyretu užíváme pro",
+    "answers": [
+      "a) zástavu krvácení po porodu",
+      "b) odběr endometria к jeho dataci",
+      "c) interrupci do"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) odběr endometria к jeho dataci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Stopkatý polyp děložního hrdla řešíme",
+    "answers": [
+      "a) opakovanou cytologickou kontrolou",
+      "b) amputací hrdla",
+      "c) cerclage hrdla",
+      "d) abtorzí a kyretáží hrdla"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) abtorzí a kyretáží hrdla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Jaký je nejvhodnější dlouhodobý způsob derivace moči po gynekologických operacích",
+    "answers": [
+      "a) intermitentní cévkování",
+      "b) permanentní katétr",
+      "c) suprapubická drenáž",
+      "d) punkční nefrostomie"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) suprapubická drenáž"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Která г následujících operací není operací na vejcovodu",
+    "answers": [
+      "a) ampulolýza",
+      "b) fimbriolýza",
+      "c) tracheloplastika",
+      "d) neostomie"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) tracheloplastika"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Ventrosuspenze se provádí ke korekci",
+    "answers": [
+      "a) elongace děložního hrdla",
+      "b) venter pendulum",
+      "c) RVF dělohy",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) RVF dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Panhysterektomii s pánevní lymfadenektomií provádíme při",
+    "answers": [
+      "a) karcinomu ovarií",
+      "b) karcinomu colli uteri lib",
+      "c) karcinomu endometria Ia",
+      "d) karcinomu colli uteri lb"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) karcinomu colli uteri lb"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Lymfadenektomie paraaortální se nejčastěji provádí u",
+    "answers": [
+      "a) karcinomu ovarií",
+      "b) karcinomu colli uteri",
+      "c) karcinomu endometria",
+      "d) karcinomu vulvy"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) karcinomu ovarií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Při panhysterektomii odstraňujeme",
+    "answers": [
+      "a) dělohu s adnexy",
+      "b) dělohu s adnexy a parametrium",
+      "c) dělohu s adnexy, parametrium a horní část pochvy",
+      "d) dělohu s adnexy, parametrium, část pochvy a část rekta"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) dělohu s adnexy, parametrium a horní část pochvy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Nebezpečí podvázání ureteru nehrozí",
+    "answers": [
+      "a) při opichu krvácení pod měchýřem při hysterektomii",
+      "b) při podvazu lig. suspensorium ovarii vpravo",
+      "c) při podvazu a. uterina u hrany děložní",
+      "d) při podvazu lig. ovarii proprium"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) při podvazu lig. ovarii proprium"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Punkce Douglasova prostoru se prováděla zavedením jehly",
+    "answers": [
+      "a) přes zadní stěnu poševní",
+      "b) mezi sakrouterinními vazy",
+      "c) u čísla 3 a 9 v postranní klenbě poševní",
+      "d) ze suprapubického přístupu"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) mezi sakrouterinními vazy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Omentektomii provádíme u",
+    "answers": [
+      "a) karcinomu colli uteri s metastázami",
+      "b) peritonitidě",
+      "c) karcinomu endometria",
+      "d) karcinomu ovaria"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) karcinomu ovaria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Kolpopexe sec. Burch je operací při",
+    "answers": [
+      "a) prolapsu dělohy",
+      "b) inkontinenci moči",
+      "c) prolapsu poševního pahýlu po hysterektomii",
+      "d) úpravě enterokély"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) inkontinenci moči"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Diagnózu ascitu stanovíme nejlépe",
+    "answers": [
+      "a) punkcí Douglasova prostoru",
+      "b) laparoskopii",
+      "c) poklepem",
+      "d) ultrazvukem"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) ultrazvukem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Přerušení těhotenství na žádost, bez udání důvodu, je možné provést jen do",
+    "answers": [
+      "a) 8 týdne těhotenství",
+      "b) 10 týdne těhotenství",
+      "c) 12 týdne těhotenství",
+      "d) 24 týdne těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) 12 týdne těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Manchesterská operace byla určena",
+    "answers": [
+      "a) léčbě inkontinence moči",
+      "b) к léčbě descenze dělohy",
+      "c) léčbě endometriózy",
+      "d) léčbě sterility"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) к léčbě descenze dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Strassmanova plastika je",
+    "answers": [
+      "a) neoplastika pochvy",
+      "b) operace к úpravě enterokély",
+      "c) operace к odstranění děložního septa",
+      "d) operace ke zprůchodnění vejcovodů"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) operace к odstranění děložního septa"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Drenáž po operaci difúzní peritonitidy",
+    "answers": [
+      "a) zásadně není vhodná pro nebezpečí vzniku píštěle",
+      "b) je nutná ve všech případech",
+      "c) je vhodná podle rozsahu operace",
+      "d) je vhodná jen u komplikovaných případů"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) je nutná ve všech případech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Nejčastější časnou komplikací vaginální hvsterek tomie je",
+    "answers": [
+      "a) inkontinence moči",
+      "b) prolaps poševního pahýlu",
+      "c) retence moči",
+      "d) krvácení z poševního pahýlu"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) retence moči"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. К léčbě do klenby jdoucích ruptur děložního hrdla se užívá",
+    "answers": [
+      "a) Emmetova plastika",
+      "b) Stumdorfova plastika hrdla",
+      "c) konizace hrdla",
+      "d) diatermokoagulace"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) Emmetova plastika"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Metody operačního zprůchodnění uzavřených vejcovodů nejsou příliš úspěšné; největší úspěch můžeme očekávat od",
+    "answers": [
+      "a) resekce neprůchodné části a anastomózy end-to-end",
+      "b) neostomie",
+      "c) resekce neprůchodné části a implantaci tuby do děložního rohu",
+      "d) íimbriolýzy"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) íimbriolýzy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. К interrupci v",
+    "answers": [
+      "a) kyretu",
+      "b) vakuumexhausci",
+      "c) abortové kleště",
+      "d) děložní sondu"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) abortové kleště"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Sondáž dělohy při kyretáži děložní dutiny",
+    "answers": [
+      "a) neprovádíme",
+      "b) provádíme jen při RVF uteri",
+      "c) provádíme vždy",
+      "d) provádíme jen u vrozených vývojových vad dělohy"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) provádíme vždy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Suspektní lézi hrdla neověřujeme",
+    "answers": [
+      "a) cerclage",
+      "b) »punch« biopsií",
+      "c) konizací",
+      "d) excizí"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) cerclage"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Mikroabrazi endometria použijeme",
+    "answers": [
+      "a) к zástavě děložního krvácení",
+      "b) к získání endometria к jeho dataci",
+      "c) jako miniinterrupci",
+      "d) к diagnostice graviditas extrauterina"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) к získání endometria к jeho dataci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. «Punch hiopsii« užijeme",
+    "answers": [
+      "a) к získání tkáně z leze hrdla pro histologické vyšetření",
+      "b) к získání tkáně z endometria pro histologické vyšetření",
+      "c) к cytologickému vyšetření z punktátu z Douglasova prostoru",
+      "d) při výplachové cytologii z dutiny břišní"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": [
+      "a) к získání tkáně z leze hrdla pro histologické vyšetření"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Sterilizace znamená",
+    "answers": [
+      "a) odstranění vaječníků",
+      "b) odstranění vejcovodů",
+      "c) odstranění vejcovodů i vaječníků",
+      "d) přerušení kontinuity vejcovodů u děložních rohů"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) přerušení kontinuity vejcovodů u děložních rohů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Chirurgickou kastrací není",
+    "answers": [
+      "a) odstranění obou ovarií",
+      "b) odstranění obou ovarií i vejcovodů",
+      "c) odstranění dělohy a adnex",
+      "d) koagulace vejcovodů"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) koagulace vejcovodů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Při diagnóze tubární gravidity obvykle",
+    "answers": [
+      "a) provedeme salpingektomii",
+      "b) pacientku sledujeme až do prvých klinických příznaků krvácení do břišní dutiny",
+      "c) podáme postkoitální antikoncepci",
+      "d) podáme prostaglandiny к vyvolání abortu"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) provedeme salpingektomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Prostou nesuspektní cystu u 251eté pacientky operačně nejlépe řešíme",
+    "answers": [
+      "a) laparoskopickou unilaterální adnexektomií",
+      "b) punkcí Douglasova prostoru",
+      "c) laparoskopickou enukleací cysty",
+      "d) laparotomickou ovarektomií"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) laparoskopickou enukleací cysty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. U klinicky nestabilní pacientky s hemoperitoneem volíme",
+    "answers": [
+      "a) laparoskopický přístup",
+      "b) laparotomii",
+      "c) ve spolupráci s hematologem konzervativní postup",
+      "d) odlehčující punkci cavi Douglasi"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) laparotomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Atypickou hyperplazii endometria u žen, které již nechtějí mít dítě, řešíme",
+    "answers": [
+      "a) hormonální terapií s následným histologickým ověřením",
+      "b) hysterektomií",
+      "c) ablací endometria",
+      "d) ultrazvukovými kontrolami výšky endometria"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) hysterektomií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Perforace děložní stěny může způsobit",
+    "answers": [
+      "a) krvácení do břišní dutiny",
+      "b) sterkorální peritonitidu",
+      "c) synechie dutiny děložní",
+      "d) Ashermannův syndrom"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) krvácení do břišní dutiny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Kyretáž dutiny děložníje považována",
+    "answers": [
+      "a) za léčebnou, ale nikoli definitivní metodu při dysfunkčním děložním krvácení",
+      "b) za obsolentní metodu z hlediska diagnostiky děložního krvácení",
+      "c) za jedině možnou v diagnostice děložního krvácení",
+      "d) za metodu kontraindikovanou u žen ve fertilním věku"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": [
+      "a) za léčebnou, ale nikoli definitivní metodu při dysfunkčním děložním krvácení"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. К závěsnému děložnímu aparátu nepatří",
+    "answers": [
+      "a) chordy uteroingvinální",
+      "b) ligg sacrouterina",
+      "c) ligg sacrospinosum",
+      "d) ligg cardinalia"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) ligg sacrospinosum"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Redonova drenáž je",
+    "answers": [
+      "a) drenáž rány spolu s kontraincizí",
+      "b) spádová drenáž",
+      "c) mulová drenáž",
+      "d) odsávací drenáž"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) odsávací drenáž"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Podám atropinu před anestezií",
+    "answers": [
+      "a) neovlivňuje množství podaného anestetika",
+      "b) brání vzniku vagového reflexu při intubaci",
+      "c) usnadňuje ventilaci plic",
+      "d) snižuje tvorbu sekretu v dýchacích cestách"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) neovlivňuje množství podaného anestetika"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Před kyretáží dělohy je vhodné",
+    "answers": [
+      "a) zavést permanentní katétr do močového měchýře",
+      "b) podat klyzma",
+      "c) vycévkovat močový měchýř",
+      "d) provést odběr sekretu z pochvy na kultivaci chlamydií a diplokoků"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) vycévkovat močový měchýř"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Nejrychleji a nejbouřlivěji se rozvíjí šok",
+    "answers": [
+      "a) hemoragický",
+      "b) neurogenní",
+      "c) septický",
+      "d) anafylaktický"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) anafylaktický"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Vyberte, který z uvedených léčebných postupů u pacientky s diagnózou diabetes mellitus je před operací nadbytečný",
+    "answers": [
+      "a) preventivní podání antibiotik",
+      "b) preventivní heparinizace",
+      "c) měření bilance tekutin - příjem a výdej",
+      "d) převedení na krystalický inzulin"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) měření bilance tekutin - příjem a výdej"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Antidotem heparinu je",
+    "answers": [
+      "a) Kanavit",
+      "b) Prothazin",
+      "c) kyselina kapronová",
+      "d) Prothamin"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) Prothamin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Cílem sterilizace nástrojů je",
+    "answers": [
+      "a) zničení všech patogenních zárodků",
+      "b) zneškodnění všech anaerobních zárodků",
+      "c) zneškodnění jakýchkoli choroboplodných zárodků",
+      "d) mechanické odstranění choroboplodných zárodků"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) zničení všech patogenních zárodků"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Velký křížový pokus je reakce mezi",
+    "answers": [
+      "a) krví dárce a krví příjemce",
+      "b) sérem dárce a sérem příjemce",
+      "c) sérem dárce a krvinkami příjemce",
+      "d) sérem příjemce a krvinkami dárce"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["d) sérem příjemce a krvinkami dárce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Jako Schloferův nádor označujeme",
+    "answers": [
+      "a) fibroadenom prsní žlázy",
+      "b) granulom kolem stehu",
+      "c) zhoubný ovariální tumor hormonálně aktivní",
+      "d) benigní tumor močového měchýře"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) granulom kolem stehu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Dilatace hrdla může způsobit jeho rupturu, která může mít za následek krvácení do okolí. Označte kam nekrvácí",
+    "answers": [
+      "a) do parametria",
+      "b) retroperitoneálně až pod ledvinu",
+      "c) do Douglasova prostoru",
+      "d) krev vytéká z pochvy"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["c) do Douglasova prostoru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Perforaci děložní stěny po kyretáži nejčastěji ošetříme",
+    "answers": [
+      "a) hysteroskopicky",
+      "b) laparoskopicky",
+      "c) laparotomicky",
+      "d) vaginálně"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) laparoskopicky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Příčinou srdečního přetížení při rychlých a objemných transfúzích je",
+    "answers": [
+      "a) penízkování erytrocytů",
+      "b) vazokonstrikce ve velkém oběhu po citrátu z konzervy",
+      "c) oslabování srdečního svalu přímým účinkem citrátu cestou věnčitých tepen",
+      "d) rychlost, kterou je transfúze podávána"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": [
+      "c) oslabování srdečního svalu přímým účinkem citrátu cestou věnčitých tepen"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Většina embolizací plicnice po gynekologických operacích je",
+    "answers": [
+      "a) z oblasti dolní duté žíly",
+      "b) z povrchových žil dolních končetin",
+      "c) z oblasti horní duté žíly",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["a) z oblasti dolní duté žíly"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Při rychlých transfúzích velkého množství krve se má podat nitrožilně",
+    "answers": ["a) adrenalin", "b) kalcium", "c) 40% glukóza", "d) kalium"],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. I. CAST PREGRADUALNÍ"],
+    "correctAnswers": ["b) kalcium"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Krvácení při operaci v Retziově prostoru stavíme",
+    "answers": [
+      "a) aplikací fibrinogenu",
+      "b) kompresí horkou rouškou",
+      "c) opichy",
+      "d) elektrokoagulací"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) kompresí horkou rouškou",
+      "c) opichy",
+      "d) elektrokoagulací"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Při nálezu endometriózy u 471eté pacientky volíme",
+    "answers": [
+      "a) hysterektomii s oboustranou adnexektomii",
+      "b) oboustrannou adnexektomii s ponecháním dělohy",
+      "c) hysterektomii bez adnexektomie",
+      "d) hormonální léčbu agonisty GnRH"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) hysterektomii s oboustranou adnexektomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Při podezření na maligní tumor ovaria",
+    "answers": [
+      "a) odešleme pacientku na onkochirurgické pracoviště",
+      "b) na počátku operace odebereme výplachovou cytologu",
+      "c) se vždy snažíme exstirpovat tumor s neporušeným pouzdrem",
+      "d) provedeme oboustrannou adnexektomii"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) odešleme pacientku na onkochirurgické pracoviště",
+      "b) na počátku operace odebereme výplachovou cytologu",
+      "c) se vždy snažíme exstirpovat tumor s neporušeným pouzdrem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Chceme-li při laparotomii vypreparovat ureter, hledáme jej",
+    "answers": [
+      "a) v těsném sousedství a. uterina",
+      "b) na zadním listu plica lata",
+      "c) v retroperitoneu",
+      "d) při vstupu do močového měchýře"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) na zadním listu plica lata", "c) v retroperitoneu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Nejčastější místo možného podvázání ureteru při abdominální hysterektomii je",
+    "answers": [
+      "a) při opichu lig. sacrouterinum",
+      "b) při opichu lig. cardinale uteri",
+      "c) při opichu a. ovarica",
+      "d) při sutuře pochvy"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) při opichu lig. cardinale uteri",
+      "c) při opichu a. ovarica"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Zjistíte-li v průběhu operace, že došlo к podvazu ureteru,",
+    "answers": [
+      "a) zavoláte urologa",
+      "b) uvolníte ligaturu",
+      "c) uložíte do ureteru stent",
+      "d) provedete nefrostomii"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) zavoláte urologa", "b) uvolníte ligaturu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Dojde-li při operaci к poruše kontinuity ureteru,",
+    "answers": [
+      "a) okamžitě ukončíte gynekologickou operaci a zavolát urologa",
+      "b) dokončíte gynekologickou operaci a s urologem ošetříte poranění",
+      "c) s urologem ošetříte poraněni a pak dokončíte gynekologickou operaci",
+      "d) ošetříte poranění a zavoláte urologa"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) dokončíte gynekologickou operaci a s urologem ošetříte poranění"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Boariho plastika je",
+    "answers": [
+      "a) náhrada distální části ureteru lalokem z močového měchýře",
+      "b) náhrada distální části ureteru kličkou tenkého střeva",
+      "c) plastika ureteru",
+      "d) historická metoda uzavření pochvy"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) náhrada distální části ureteru lalokem z močového měchýře",
+
+      "c) plastika ureteru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Pozdní komplikací Burchovy kolpopexe bývá",
+    "answers": [
+      "a) stenóza ureteru",
+      "b) periostitis pubis",
+      "c) enterokéla",
+      "d) rektokéla"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) enterokéla", "d) rektokéla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Když má pacientka týden po abdominální hysterektomii teploty a bolesti v bedrech,",
+    "answers": [
+      "a) provedeme vylučovací urografii",
+      "b) zavoláme urologické konzilium",
+      "c) podáme antibiotika",
+      "d) provedeme ultrasonografii malé pánve a kalichopánvičkového systému ledvin"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) podáme antibiotika",
+      "d) provedeme ultrasonografii malé pánve a kalichopánvičkového systému ledvin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Pacientka udává opožděnou menstruaci a koliko- vitou bolest v podbřišku. Diferenciálně diagnosI ticky lze uvažovat o",
+    "answers": [
+      "a) torzi adnex",
+      "b) abortus in cursu",
+      "c) graviditas extrauterina",
+      "d) adnexitidě"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) torzi adnex",
+      "b) abortus in cursu",
+      "c) graviditas extrauterina"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Pacientka udává několik dní trvajícíjednostran-nou bolest v pravém podbřišku. Při palpačním I vyšetření hmatáme bolestivý tumor vedle dělohy, teplotu má 37,3 °C. Myslíme na",
+    "answers": [
+      "a) torzi adnex",
+      "b) inflamatomí adnextumor",
+      "c) tubární abort",
+      "d) periapendikulární infiltrát"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) torzi adnex",
+      "b) inflamatomí adnextumor",
+      "c) tubární abort",
+      "d) periapendikulární infiltrát"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Ligatura ureteru se obvykle projeví",
+    "answers": [
+      "a) tupou bolestí v bederní krajině",
+      "b) teplotou event, zimnicí a třesavkou",
+      "c) anurií",
+      "d) retencí moči"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) tupou bolestí v bederní krajině",
+      "b) teplotou event, zimnicí a třesavkou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Intrafasciální abdominální hysterektomie má j výhodu",
+    "answers": [
+      "a) v neporušeném cévním zásobení",
+      "b) v neporušeném nervovém zásobení",
+      "c) v neporušeném podpůrném aparátu",
+      "d) ve snížení rizika poranění močovodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) ve snížení rizika poranění močovodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Ligaturu arteria iliaca int a hypogastrica provádíme",
+    "answers": [
+      "a) podbifurkací a. iliaca com.",
+      "b) ipodvazem spolu s lig. suspensorium ovarii",
+      "c) přímo v bifurkaci a. iliaca com.",
+      "d) v bázi postranního parametria"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) podbifurkací a. iliaca com."],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Indikací к ligatuře arteria iliaca int a hypogastI rical je nejčastěji",
+    "answers": [
+      "a) graviditas extrauterina tubaria rupta Ktenorrhagn",
+      "b) ?? tenorrhagn ??",
+      "c) nezvladatelné porodnické krvácení",
+      "d) krvácení z nekrotického karcinomu colli uteri"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) nezvladatelné porodnické krvácení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Při děložní myomatóze indikujeme",
+    "answers": [
+      "a) ve vhodných případech embolizaci uterinních arterií",
+      "b) vaginální nebo abdominální hysterektomii",
+      "c) laparoskopicky asistovanou vaginální hysterektomii",
+      "d) Вenukleaci myomů (při příznivém nálezu)"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) ve vhodných případech embolizaci uterinních arterií",
+      "b) vaginální nebo abdominální hysterektomii",
+      "c) laparoskopicky asistovanou vaginální hysterektomii",
+      "d) Вenukleaci myomů (při příznivém nálezu)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Extrauterinní gravidita může proběhnout",
+    "answers": [
+      "a) asymptomaticky a dojde к její resorpci",
+      "b) nsymptomalicky a dosáhnout velikosti zralého plodu",
+      "c) s výraznými klinickými projevy",
+      "d) současně s graviditou intrauterinní"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) asymptomaticky a dojde к její resorpci",
+      "b) nsymptomalicky a dosáhnout velikosti zralého plodu",
+      "c) s výraznými klinickými projevy",
+      "d) současně s graviditou intrauterinní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Nejnebezpečnější lokalizací extrauterinní gravidity je gravidita",
+    "answers": [
+      "a) intraabdominální",
+      "b) ampulámí",
+      "c) ovariální",
+      "d) v děložním rohu"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) v děložním rohu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Z níže uvedených stavů jsou absolutní indikací к operaci",
+    "answers": [
+      "a) obstrukčm ileus",
+      "b) hemoperitoneum",
+      "c) ovulační krize",
+      "d) endotoxinový šok"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) obstrukčm ileus", "b) hemoperitoneum"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Prevence tromboembolické choroby spočívá",
+    "answers": [
+      "a) v časné pooperační mobilizaci",
+      "b) v miniheparinizaci",
+      "c) v šetrné operační technice",
+      "d) v předoperační infúzi 5000 j. heparinu"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) v časné pooperační mobilizaci",
+      "b) v miniheparinizaci",
+      "c) v šetrné operační technice"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Za dezinfekci operačního pole zodpovídá",
+    "answers": [
+      "a) operatér",
+      "b) staniční sestra operačního sálu",
+      "c) instrumentářka u operace",
+      "d) staniční sestra na předoperačním oddělení"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) operatér"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Po embolizaci uterinních arterií pro děložní myomatózu bývá obvykle",
+    "answers": [
+      "a) krvácení z rodidel",
+      "b) bolest v podbřišku",
+      "c) subfebrilie",
+      "d) retence moči"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) bolest v podbřišku", "c) subfebrilie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Z uvedených operací má největší riziko podvázání ureteru",
+    "answers": [
+      "a) vaginální hysterektomie",
+      "b) abdominální hysterektomie pro endometriózu ovarií",
+      "c) pánevní lymfadenektomie",
+      "d) kolpopexe podle Burche"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) abdominální hysterektomie pro endometriózu ovarií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Při peroperačně zjištěné akutní apendicitidě gynekolog",
+    "answers": [
+      "a) z forenzních důvodů vždy přivolá chirurga",
+      "b) ukončí gynekologickou operaci a pacientku přeloží na chirurgické oddělení",
+      "c) dokončí gynekologickou operaci a do propouštěcí zprávy uvede doporučení к provedení apendektomie",
+      "d) může provést sám apendektomii -tuto operaci musí ovládat"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) může provést sám apendektomii -tuto operaci musí ovládat"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Z níže uvedených stavů jsou absolutní indikací к operaci",
+    "answers": [
+      "a) bolesti v podbřišku nejasné etiologie",
+      "b) pelveoperitonitida",
+      "c) peritonitida",
+      "d) hemoperitoneum"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) peritonitida", "d) hemoperitoneum"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Zmnožení a rozšíření žil na břiše, tzv. caput Medusae, vídáme při",
+    "answers": [
+      "a) masivním hemoperitoneu",
+      "b) cirhóze jater",
+      "c) těžké těhotenské hepatopatii",
+      "d) karcinomu ovaria"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) cirhóze jater"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Monopolární elektrochirurgické výkony smíme provádět při operaci",
+    "answers": [
+      "a) pacientek se zdravým kardiovaskulárním aparátem",
+      "b) pacientek s kardiostimulátorem",
+      "c) pacientek s epilepsií",
+      "d) pacientek na řízené ventilaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) pacientek se zdravým kardiovaskulárním aparátem",
+
+      "c) pacientek s epilepsií",
+      "d) pacientek na řízené ventilaci"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Příměs adrenalinu к lokálnímu znecitlivění je kontraindikovaná",
+    "answers": [
+      "a) u diabetů",
+      "b) u toxické strumy",
+      "c) u těhotných žen",
+      "d) u ranné infekce"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) u toxické strumy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Autotransfúze není indikována při operačním řešení",
+    "answers": [
+      "a) u onkologických pacientek",
+      "b) u pacientek s těžší anémií",
+      "c) u děložní myomatózy",
+      "d) u těhotných žen"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) u pacientek s těžší anémií", "d) u těhotných žen"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Sutura pokračujícím stehem je vhodná",
+    "answers": [
+      "a) к šití střeva",
+      "b) к šití močového měchýře",
+      "c) к šití cévní stěny",
+      "d) к šití fascie"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) к šití střeva",
+      "b) к šití močového měchýře",
+      "c) к šití cévní stěny",
+      "d) к šití fascie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Nevstřebatelný šicí materiál je",
+    "answers": ["a) silon", "b) ethilon", "c) ethibond", "d) nurolon"],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) silon", "b) ethilon", "c) ethibond", "d) nurolon"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Propustnost kapilár ovlivňují",
+    "answers": [
+      "a) vitamin К",
+      "b) trasylol",
+      "c) vitamin C",
+      "d) kortikosteroidy"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) vitamin C", "d) kortikosteroidy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Kolostomii provádíme při gynekologické operaci",
+    "answers": [
+      "a) u pacientek s karcinomem ovaria s inoperabilním tumorem v malé pánvi",
+      "b) při známkách nízkého ileu",
+      "c) při známkách vysokého ileu",
+      "d) při zjištění tumoru střeva"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) při známkách nízkého ileu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Vstřebatelný šicí materiál se používá na suturu",
+    "answers": ["a) fascie", "b) střeva", "c) dělohy", "d) kůže"],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) fascie", "b) střeva", "c) dělohy", "d) kůže"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Transfúze jedné transfúzníjednotky (TU) erymasy zvýší hematokrit asi o",
+    "answers": ["a) 4%", "b) 8%", "c) 10%", "d) 12%"],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) 4%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Při radikální operaci pro karcinom ovarií provádíme apendektomii",
+    "answers": [
+      "a) vždy, kdy je to možné",
+      "b) jen při makroskopickém postižení apendixu",
+      "c) jen u mladších pacientek v dobrém celkovém stavu",
+      "d) provádí ji pouze chirurg"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) vždy, kdy je to možné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Při nádorovém postižení sentinelové uzliny u karcinomu děložního hrdla",
+    "answers": [
+      "a) ukončíme operaci a indikujeme radioterapii",
+      "b) provedeme radikální hysterektomii s pánevní lymfadenektomií",
+      "c) provedeme radikální hysterektomii s pánevní a paraaortální lymfadenektomií",
+      "d) provedeme radikální hysterektomii s pánevní, paraaortální a ingvinální lymfadenektomií"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) provedeme radikální hysterektomii s pánevní a paraaortální lymfadenektomií"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. К radiklání vulvektomii patří",
+    "answers": [
+      "a) odstranění vulvy i s pokožím až na fascii včetně perinea až к řitnímu svěrači a pánevní lymfadenektomie",
+      "b) odstranění ingvinálních uzlin",
+      "c) odstranění uzlin z fossa femoralis",
+      "d) odstranění vulvy i s podkožím až na fascii včetně perinea až řitnímu svěrači"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) odstranění ingvinálních uzlin",
+      "c) odstranění uzlin z fossa femoralis",
+      "d) odstranění vulvy i s podkožím až na fascii včetně perinea až řitnímu svěrači"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Při nádorovém postižení pánevních uzlin při karcinomu děložního těla",
+    "answers": [
+      "a) ukončíme operaci a indikujeme radioterapii",
+      "b) provedeme rozšířenou hysterektomii s pánevní lymfadenektomií",
+      "c) provedeme abdominální hysterektomii s oboustrannou adnexektomií, pánevní a paraaortální lymfadenektomii",
+      "d) provedeme rozšířenou hysterekotomii s pánevní a paraaorální lymfadenektomii"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) provedeme abdominální hysterektomii s oboustrannou adnexektomií, pánevní a paraaortální lymfadenektomii"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Při invazi karcinomu do děložního těla a do děložního hrdla indikujeme",
+    "answers": [
+      "a) primární radioterapii",
+      "b) rozšířenou hysterektromii s pánevní lymfadenektomií",
+      "c) extrafasciální hysterekotmii s oboustrannou adnexektomií",
+      "d) primární radioterapii jen u pacientek neschopných operace"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) rozšířenou hysterektromii s pánevní lymfadenektomií",
+
+      "d) primární radioterapii jen u pacientek neschopných operace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Při radikální operaci pro karcinom ovaria je indikována omentektomie",
+    "answers": [
+      "a) infrakolická a suprakolická vždy, kdy je to možné",
+      "b) jen při prokázaném nádorovém postižení omenta v peroperační histologií",
+      "c) jen infrakolická, u případů bez prokázaného nádorového postižení v peroperační histologii",
+      "d) jen při jeho makroskopickém postižení"
+    ],
+    "book": ["Živný"],
+    "topic": ["13. Gynekologická operativa. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) infrakolická a suprakolická vždy, kdy je to možné"],
+    "description": [""],
+    "img": [""]
   }
 ]

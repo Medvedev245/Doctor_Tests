@@ -24,6 +24,8 @@ const Home = () => {
   const dispatch = useDispatch();
   const elements3 = useSelector(state => state.testsReducer.questions);
 
+  const choosenBase = JSON.parse(localStorage.getItem('myCollection'));
+
   const handleOption1Change = event => {
     setSelectedOption1(event.target.value);
   };
@@ -51,14 +53,23 @@ const Home = () => {
         selectedFile = Živný;
         break;
 
+      case 'My_Base':
+        selectedFile = choosenBase;
+        break;
+
       default:
         selectedFile = Klener;
     }
 
+    if (two >= selectedFile.length) {
+      return selectedFile;
+    }
     const number = [];
     const selectedNamesArray = [];
 
-    // Generate  random numbers
+    console.log('two:', two, 'selectedFile.length:', selectedFile.length);
+
+    // Generate random numbers
     while (number.length < two) {
       const randomNum = Math.floor(Math.random() * selectedFile.length);
       if (!number.includes(randomNum)) {
@@ -78,7 +89,7 @@ const Home = () => {
     event.preventDefault();
 
     const myTests = generateTests(selectedOption1, selectedOption2);
-    console.log(myTests);
+
     // addState(selectedOption1, selectedOption2, myTests);
     dispatch({
       type: 'ADD_OPTIONS',
@@ -102,6 +113,7 @@ const Home = () => {
             <option value="Živný">Živný(1-1615)</option>
             <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
             <option value="Medicine_2023">Medicine_2023</option>
+            <option value="My_Base">My Base</option>
           </Select>
         </WraperForm>
         <WraperForm>

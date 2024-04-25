@@ -62,6 +62,12 @@ export const SpanElemet = styled.span`
   font-weight: 600;
 `;
 
+export const ContainerDescr = styled.div`
+  margin-bottom: 20px;
+  font-weight: 600;
+  text-align: center;
+`;
+
 export const Question = styled.p`
   padding: 0 15px;
   font-size: 18px;
