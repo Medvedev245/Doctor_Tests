@@ -1,38 +1,38 @@
 {
   "files": {
     "main.css": "/Doctor_Tests/static/css/main.10a9149c.css",
-    "main.js": "/Doctor_Tests/static/js/main.241fc857.js",
-    "static/js/686.e834b5d8.chunk.js": "/Doctor_Tests/static/js/686.e834b5d8.chunk.js",
+    "main.js": "/Doctor_Tests/static/js/main.779bd09d.js",
+    "static/js/686.c82e2243.chunk.js": "/Doctor_Tests/static/js/686.c82e2243.chunk.js",
     "static/js/648.e681a2b5.chunk.js": "/Doctor_Tests/static/js/648.e681a2b5.chunk.js",
     "static/js/589.cd0dd5c8.chunk.js": "/Doctor_Tests/static/js/589.cd0dd5c8.chunk.js",
     "static/js/551.759780d0.chunk.js": "/Doctor_Tests/static/js/551.759780d0.chunk.js",
     "static/js/3.b841f2c0.chunk.js": "/Doctor_Tests/static/js/3.b841f2c0.chunk.js",
-    "static/js/307.1721a3bd.chunk.js": "/Doctor_Tests/static/js/307.1721a3bd.chunk.js",
-    "static/js/200.6522126a.chunk.js": "/Doctor_Tests/static/js/200.6522126a.chunk.js",
+    "static/js/307.909e2922.chunk.js": "/Doctor_Tests/static/js/307.909e2922.chunk.js",
+    "static/js/200.ccc9ef3a.chunk.js": "/Doctor_Tests/static/js/200.ccc9ef3a.chunk.js",
     "static/js/846.c8bde892.chunk.js": "/Doctor_Tests/static/js/846.c8bde892.chunk.js",
     "static/js/576.5ef58cf6.chunk.js": "/Doctor_Tests/static/js/576.5ef58cf6.chunk.js",
     "static/js/629.a2b39690.chunk.js": "/Doctor_Tests/static/js/629.a2b39690.chunk.js",
     "static/js/734.1b5d7319.chunk.js": "/Doctor_Tests/static/js/734.1b5d7319.chunk.js",
-    "static/js/638.54c03ad7.chunk.js": "/Doctor_Tests/static/js/638.54c03ad7.chunk.js",
+    "static/js/638.98d4f79b.chunk.js": "/Doctor_Tests/static/js/638.98d4f79b.chunk.js",
     "static/media/youtube-svgrepo-com.png": "/Doctor_Tests/static/media/youtube-svgrepo-com.e20b5577ad958c78bfac.png",
     "index.html": "/Doctor_Tests/index.html",
     "main.10a9149c.css.map": "/Doctor_Tests/static/css/main.10a9149c.css.map",
-    "main.241fc857.js.map": "/Doctor_Tests/static/js/main.241fc857.js.map",
-    "686.e834b5d8.chunk.js.map": "/Doctor_Tests/static/js/686.e834b5d8.chunk.js.map",
+    "main.779bd09d.js.map": "/Doctor_Tests/static/js/main.779bd09d.js.map",
+    "686.c82e2243.chunk.js.map": "/Doctor_Tests/static/js/686.c82e2243.chunk.js.map",
     "648.e681a2b5.chunk.js.map": "/Doctor_Tests/static/js/648.e681a2b5.chunk.js.map",
     "589.cd0dd5c8.chunk.js.map": "/Doctor_Tests/static/js/589.cd0dd5c8.chunk.js.map",
     "551.759780d0.chunk.js.map": "/Doctor_Tests/static/js/551.759780d0.chunk.js.map",
     "3.b841f2c0.chunk.js.map": "/Doctor_Tests/static/js/3.b841f2c0.chunk.js.map",
-    "307.1721a3bd.chunk.js.map": "/Doctor_Tests/static/js/307.1721a3bd.chunk.js.map",
-    "200.6522126a.chunk.js.map": "/Doctor_Tests/static/js/200.6522126a.chunk.js.map",
+    "307.909e2922.chunk.js.map": "/Doctor_Tests/static/js/307.909e2922.chunk.js.map",
+    "200.ccc9ef3a.chunk.js.map": "/Doctor_Tests/static/js/200.ccc9ef3a.chunk.js.map",
     "846.c8bde892.chunk.js.map": "/Doctor_Tests/static/js/846.c8bde892.chunk.js.map",
     "576.5ef58cf6.chunk.js.map": "/Doctor_Tests/static/js/576.5ef58cf6.chunk.js.map",
     "629.a2b39690.chunk.js.map": "/Doctor_Tests/static/js/629.a2b39690.chunk.js.map",
     "734.1b5d7319.chunk.js.map": "/Doctor_Tests/static/js/734.1b5d7319.chunk.js.map",
-    "638.54c03ad7.chunk.js.map": "/Doctor_Tests/static/js/638.54c03ad7.chunk.js.map"
+    "638.98d4f79b.chunk.js.map": "/Doctor_Tests/static/js/638.98d4f79b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10a9149c.css",
-    "static/js/main.241fc857.js"
+    "static/js/main.779bd09d.js"
   ]
 }
