@@ -16,7 +16,10 @@ import { StyleSheetManager } from 'styled-components';
 export const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
 
-  const choosenBase = JSON.parse(localStorage.getItem('myCollection')).length;
+  // Проверяем, существует ли значение 'myCollection' в localStorage и извлекаем его
+  const savedCollection = localStorage.getItem('myCollection');
+  // Проверяем, существует ли значение 'myCollection' и не является ли оно null
+  const choosenBase = savedCollection ? JSON.parse(savedCollection).length : 0;
 
   const toggleMenu = () => {
     setIsOpen(!isOpen);
