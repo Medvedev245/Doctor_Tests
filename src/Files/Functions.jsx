@@ -86,195 +86,394 @@ const Functions = () => {
   //       });
   //   };
   const text = `
-  1. Konstrukce kombinované hormonální kontracepce může být
-  a) jednofázová
-  b) dvoufázová
-  c) třífázová
-  d) kombifázová
-  2. Antiandrogenní účinek nemá
-  a) cyproteron-acetát
-  b) dienogest
-  c) norgestimát
-  d) levonorgestrel
-  3. Částečně estrogenní aktivitu nemá
-  a) gestoden
-  b) dienogest
-  c) norethisteron
-  d) lynestrenol
-  4. Širokospektrá antibiotika mohou snížit spolehlivost hormonální kontracepce v důsledku
-  a) omezení vstřebávání při změně střevní flóry
-  b) natriuretického efektu
-  c) opakovaného zvracení při nevolnosti
-  d) zvýšení aktivity jatemích enzymů
-  5. Uživatelky kombinované hormonální kontracepce mají ve srovnání s ženami, které užívají bariérovou antikoncepci
-  a) vyšší riziko mimoděložního těhotenství
-  b) nižší riziko mimoděložního těhotenství
-  c) nižší riziko funkčních ovariálních cyst
-  d) vyšší riziko funkčních ovariálních cyst
-  6. Přípravky kombinované hormonální kontracepce snižují riziko
-  a) ovariálních koetánních teratomů
-  b) serózních kystadenomů ovaria
-  c) korpusluteálních ovariálních cyst
-  d) folikulámích ovariálních cyst
-  7. Přípravky kombinované hormonální kontracepce lze využít v léčbě
-  a) dysmenorey
-  b) katameniální epilepsie
-  c) karcinomu endometria
-  d) premenstruálního syndromu
-  8. Užívání kombinované hormonální kontracepce může způsobit
-  a) manifestaci akné
-  b) zlepšení akné
-  c) zvýšenou pigmentaci kůže
-  d) zvýšenou fotosenzitivitu kůže
-
-9. Riziko tromboembolické nemoci při užívání kombinované hormonální kontracepce
-a) je nejnižší během prvních tří měsíců užívání
-b) je nejvyšší během prvních tří měsíců užívání
-c) postupně se snižuje s celkovou dobou užívání
-d) postupně se zvyšuje s celkovou dobou užívání
-10. Riziko tromboembolické nemoci při užívání kombinované hormonální antikoncepce je závislé na
-a) konstrukci přípravku
-b) dávce estrogenů
-c) zvoleném estrogenů
-d) typu progestinu
-11. »Leidenská mutace«
-a) je jednou z vrozených trombofilních stavů
-b) zvyšuje významně riziko tromboembolické nemoci
-c) je relativní kontraindikací kombinované hormonální kontracepce
-d) je absolutní kontraindikací kombinované hormonální kontracepce
-12. Riziko infarktu myokardu je při užívání kombinované hormonální antikoncepce
-a) sníženo
-b) sníženo, především u mladších žen s rizikem ICHS
-c) zvýšeno, především u starších kuřaček
-d) zvýšeno, především u starších žen s hypertenzí
-13. Měření krevního tlaku u uživatelek hormonální kontracepce
-a) není nutné
-b) je významné především pro riziko kardiovaskulárního onemocnění
-c) se provádí při každé kontrole
-d) se provádí pouze u žen s hypertenzí
-14. Vyšetřeníjatemích testů u uživatelek hormonální antikoncepce
-a) u zdravých žen není nutné
-b) se provádí jednou za rok
-c) je doporučené u žen nad 35 let
-d) je doporučené u žen s anamnézou jatemího onemocnění
-15. Riziko karcinomu děložního čípku
-a) je mírně zvýšené u uživatelek kombinované hormonální kontracepce
-b) je mírně zvýšené u nositelek nitroděložního tělíska
-c) je mírně zvýšené u žen, které používají pravidelně bariérovou antikoncepci
-d) není ovlivněné tubámí sterilizací
-16. Tůbární sterilizaci lze podle platného zákona provést u ženy
-a) starší 35 let, pokud má alespoň dvě děti
-b) starší 40 let
-c) starší 30 let, pokud má alespoň tři děti
-d) mladší 30 let, pokud má alespoň čtyři děti
-17. Kombinovanou hormonální kontracepci můžeme doporučit ženě
-a) s léčenou hypertenzí
-b) s anamnézou hluboké žilní trombózy
-c) s varixy
-d) s anamnézou hepatitidy A
-18. Kombinovaná hormonální kontracepce by měla být vysazena
-a) při plánované cestě letadlem delší než 10 hodin
-b) při plánovaném větším chirurgickém výkonu
-c) při každé hospitalizaci
-d) při úrazu, jehož důsledkem je dlouhodobá imobilizace
-19. Významným rizikovým faktorem tromboembolické nemoci je
-a) antifosfolipidový syndrom
-b) rodinná anamnéza tromboembolické nemoci
-c) deficit proteinu S
-d) osobní anamnéza tromboembolické nemoci
-20. Mezi ženské bariérové kontracepční metody patří
-a) ženský kondom
-b) diafragma
-c) cervikální klobouček
-d) vaginální houba
-21. Chybění pseudomenstruačního krvácení během užívání kombinované hormonální kontracepce může být důsledkem
-a) těhotenství
-b) karcinomu endometria
-c) porušení zpětné vazby
-d) Ashermannova syndromu
-22. Mezi používaná nitroděložní tělíska patří
-a) tělíska z inertních plastických hmot, nemedikovaná
-b) medikovaná tělíska s obsahem mědi
-c) medikovaná tělíska uvolňující estrogeny
-d) medikovaná tělíska uvolňující gestagen
-23. Mezi relativní kontraindikace nitroděložního tělíska s gestagenem patří
-a) stav po opakované léčbě ovariálních cyst
-b) intolerance hypomenorey či amenorey
-c) závažná onemocnění jater
-d) dysfunkční děložní krvácení
-24. Kombinované přípravky hormonální kontracepce mohou
-a) snižovat glukózovou toleranci
-b) zvyšovat glukózovou toleranci
-c) snižovat periferní inzulínovou senzitivitu
-d) zvyšovat periferní inzulínovou senzitivitu
-25. Vyberte správné odpovědi
-a) nuliparita je kontraindikací nitroděložní kontracepce
-b) podmínkou použití nitroděložního tělíska u nuliparje děložní hrdlo prostupné pro zavaděč
-c) z nitroděložních tělísek preferujeme u nulipar medikované tělísko uvolňující gestagen
-d) jako postkoitálm kontracepci lze nitroděložní tělísko zavést do 5 dnů po nechráněném styku
-26. Implantace Norplantu zabraňuje otěhotnění po dobu
-a) 3 let
-b) 8 let
-c) 1 roku
-d) 5 let
-27. Mezi nekontracepční terapeutické účinky nitroděložního tělíska s levonorgestrelem nepatří vliv na
-a) mastodynii
-b) prekancerózy děložního hrdla
-c) hyperplazii endometria
-d) dysfunkční děložní krvácení
-28. Při přítomnosti cervikálních dysplazií nitroděložní tělísko
-a) není možno zavést vůbec
-b) lze zavést po léčbě
-c) lze zavést kdykoliv
-d) lze zavést pouze u CIN I
-29. Po zavedení nitroděložního tělíska má být jeho vzdálenost od fundu děložního nejvýše
-a) lem
-b) 2 cm
-c) 3cm
-d) 4 cm
-30. Dojde-li к otěhotnění při zavedené nitroděložní kontracepci, je riziko mimoděložního těhotenství
-a) obdobné jako u jiných forem kontracepce
-b) zvýšené
-c) zvýšené pouze v prvním roce od zavedení
-d) nižší ve srovnám s jinými kontracepčními metodami
-31. Mezi běžně užívané aplikační cesty gestagenní kontracepce nepatří
-a) perorální
-b) injekční
-c) podkožní implantáty
-d) transdermální
-32. Nejvhodnější hormonální kontracepci pro ženy s velmi špatnou compliance je forma
-a) subkutánní
-b) injekční
-c) perorální
-d) vaginální
-33. Amenorea se po roce užívání Depo-Provery objevuje
-a) v 10%
-b) ve 25%
-c) v 50%
-d) ve 100%
-34. Depotní subkutánní gestagenní systém Norplant obsahuje
-a) 4 silastikové kapsle
-b) 6 silastikových kapslí
-c) 8 silastikových kapslí
-d) 12 silastikových kapslí
-35. Diafragma se extrahuje z pochvy
-a) 1 hodinu po styku
-b) bezprostředně po styku
-c) nejdříve za 6 hodin po styku
-d) 24 hodin po styku
-36. Kontracepční spolehlivost diafragmy zvyšuje
-a) použití spermicidních prostředků
-b) její nasazení po styku
-c) výplach pochvy po styku
-d) větší průměr diafragmy
-
+1. К zástavě krvácení г dutiny děložní pro menoragii použijeme
+a) ostrou kyretu
+b) tupou kyretu
+c) vakuumexhausci
+d) Bummovu kyretu
+2. Chirurgickou kastraci u žen provádíme
+a) při syndromu polycystických ovarií
+b) к zamezení početí
+c) pň léčbě agresivních sexuálních poruch
+d) při carcinoma mammae
+3. К mikroabrazi endometria použijeme
+a) Bummovu kyretu
+b) «fine needle« aspiraci
+c) Nowakovu kyretu
+d) ostrou kyretu
+4. Při supravaginální hysterektomii
+a) provádíme tzv. poševní manžetu
+b) ponecháváme děložní hrdlo
+c) ponecháváme děložní hrdlo a dolní děložní segment
+d) odstraňujeme postranní parametria
+5. Zánětlivé adnexální tumory řešíme
+a) vždy adnexektomií
+b) ligací a. ovarica
+c) léčbou antibiotiky
+d) s ohledem na věk pacientky, klinický stav a charakter tumoru někdy chirurgicky, někdy konzervativně
+6. Gravidita je kontraindikována po
+a) enukleaci myomu
+b) amputaci děložního hrdla
+c) operaci umbilikální kýly
+d) ablaci endometria
+7. Empyém Bartholiniho žlázy neléčíme
+a) studenými obklady
+b) prostou incizí
+c) incizí a drenáží
+d) chemickou exstirpací
+8. Colpocleisisje
+a) chirurgický uzávěr pochvy
+b) založení poševního pesaru
+c) mikrobiální vyšetření pochvy
+d) reverze pochvy
+9. Colpocleisisje vhodná u pacientky
+a) s inkontinencí moči
+b) s lézí čípku
+c) s děložním myomem
+d) s prolapsem dělohy
+10. Colpocleisisje kontraindikovaná při
+a) enterokéle
+b) lézi čípku
+c) inkontinencí moči
+d) elongaci hrdla
+11. Miniinterrupci provádíme
+a) aplikací vysoké dávky estrogenů
+b) vakuumexhausci
+c) ostrou kyretou
+d) Nowakovou kyretou
+12. Amreichova operace je
+a) závěs poševního pahýlu
+b) neoplastika pochvy
+c) uzávěr pochvy
+d) synonymum pro operaci enterokély
+13. Chemickou exstirpaci děláme u
+a) zánětu Bartholiniho žlázy
+b) empyému Bartholiniho žlázy
+c) cysty Bartholiniho žlázy
+d) furunldu vulvy
+14. Laparotomie střídavým řezem
+a) umožňuje lepší přístup do malé pánve
+b) je vhodná pro apendektomii
+c) je vhodná pro nefrektomii
+d) je vhodná pro operaci hemie v jizvě
+15. Pfannenstielovu laparotomii je vhodné užít
+a) operací velkých tumorů
+b) operací náhlých příhod břišních
+c) rozšířené hysterektomie s lymfadenektomií
+d) závěsných operací močového měchýře
+16. Prostá vulvektomie znamená odstranění
+a) velkých stydkých pysků
+b) velkých a malých stydkých pysků
+c) velkých a malých stydkých pysků a klitorisu
+d) velkých a malých stydkých pysků, klitorisu a jedné I třetiny uretry
+17. Radikální vulvektomie znamená odstranění
+a) velkých a malých stydkých pysků, klitorisu a ingviI nálních uzlin
+b) velkých a malých stydkých pysků, klitorisu, I ingvinálních a ilických uzlin a jedné třetiny uretry
+c) velkých a malých stydkých pysků, klitorisu, ingvinálních a paraaortálních uzlin
+d) velkých a malých stydkých pysků, klitorisu a celé uretry
+18. Pod názvem Hornova operace se rozumí
+a) přerušení nervových zakončení v podkoží vulvy u dystrofických onemocnění vulvy
+b) jedna ze závěsných operací močového měchýře
+c) neoplastika pochvy
+d) amputace děložního hrdla s transpozicí ligg. sacrouterina
+19. Konizace hrdla
+a) znemožňuje další otěhotnění
+b) má jen kosmetický efekt
+c) umožňuje dokonalé histologické vyšetření
+d) řeší elongaci hrdla
+20. Adnexektomie je
+a) synonymum neostomie
+b) incize a drenáž adnexálního zánětlivého tumoru
+c) odstranění obou ovarií
+d) odstranění ovaria a vejcovodu
+21. Punkcí Douglasova prostoru získáme tmavou hustou krev; o který z uvedených stavů nejde
+a) napunktovaná stěna při retroverzi, retroflexi (RVF)  dělohy
+b) endometrióza
+c) napunktovaná hemoragická cysta ovaria
+d) tubámí abort
+22. Na arteriálním zásobení vnitřního genitálu se nepodílí
+a) arteria ovarica
+b) a. uterina
+c) a. pudenda
+d) a. obturatoria
+23. Správný název pro odstranění ovaria a vejcovodu je
+a) adnexotomie
+b) adnexektomie
+c) parciální hysterektomie
+d) supravaginální hysterektomie
+24. К chemické exstirpaci Bartholiniho žlázy užíváme
+a) argentum nitricum
+b) 3% kyselinu octovou
+c) nasycený roztok NaCl
+d) kyselinu dusičnou
+25. Jako první krok к zástavě krvácení při uterus myomatosus užijeme
+a) abdominální hysterektomii
+b) hysteroskopii
+c) kyretáž dutiny děložní
+d) prostaglandiny
+26. Nejčastější komplikaci přední poševní plastiky je
+a) anurie
+b) retence moči
+c) obstipace
+d) krvácení
+27. Nowakovu kyretu užíváme pro
+a) zástavu krvácení po porodu
+b) odběr endometria к jeho dataci
+c) interrupci do 8. týdne
+d) cytologický odběr z cervikální léze
+28. Stopkatý polyp děložního hrdla řešíme
+a) opakovanou cytologickou kontrolou
+b) amputací hrdla
+c) cerclage hrdla
+d) abtorzí a kyretáží hrdla
+29. Jaký je nejvhodnější dlouhodobý způsob derivace moči po gynekologických operacích
+a) intermitentní cévkování
+b) permanentní katétr
+c) suprapubická drenáž
+d) punkční nefrostomie
+30. Která г následujících operací není operací na vejcovodu
+a) ampulolýza
+b) fimbriolýza
+c) tracheloplastika
+d) neostomie
+31. Ventrosuspenze se provádí ke korekci
+a) elongace děložního hrdla
+b) venter pendulum
+c) RVF dělohy
+d) žádná odpověď není správná
+32. Panhysterektomii s pánevní lymfadenektomií provádíme při
+a) karcinomu ovarií
+b) karcinomu colli uteri lib
+c) karcinomu endometria Ia
+d) karcinomu colli uteri lb
+33. Lymfadenektomie paraaortální se nejčastěji provádí u
+a) karcinomu ovarií
+b) karcinomu colli uteri
+c) karcinomu endometria
+d) karcinomu vulvy
+34. Při panhysterektomii odstraňujeme
+a) dělohu s adnexy
+b) dělohu s adnexy a parametrium
+c) dělohu s adnexy, parametrium a horní část pochvy
+d) dělohu s adnexy, parametrium, část pochvy a část rekta
+35. Nebezpečí podvázání ureteru nehrozí
+a) při opichu krvácení pod měchýřem při hysterektomii
+b) při podvazu lig. suspensorium ovarii vpravo
+c) při podvazu a. uterina u hrany děložní
+d) při podvazu lig. ovarii proprium
+36. Punkce Douglasova prostoru se prováděla zavedením jehly
+a) přes zadní stěnu poševní
+b) mezi sakrouterinními vazy
+c) u čísla 3 a 9 v postranní klenbě poševní
+d) ze suprapubického přístupu
+37. Omentektomii provádíme u
+a) karcinomu colli uteri s metastázami
+b) peritonitidě
+c) karcinomu endometria
+d) karcinomu ovaria
+38. Kolpopexe sec. Burch je operací při
+a) prolapsu dělohy
+b) inkontinenci moči
+c) prolapsu poševního pahýlu po hysterektomii
+d) úpravě enterokély
+39. Diagnózu ascitu stanovíme nejlépe
+a) punkcí Douglasova prostoru
+b) laparoskopii
+c) poklepem
+d) ultrazvukem
+40. Přerušení těhotenství na žádost, bez udání důvodu, je možné provést jen do
+a) 8 týdne těhotenství
+b) 10 týdne těhotenství
+c) 12 týdne těhotenství
+d) 24 týdne těhotenství
+41. Manchesterská operace byla určena
+a) léčbě inkontinence moči
+b) к léčbě descenze dělohy
+c) léčbě endometriózy
+d) léčbě sterility
+42. Strassmanova plastika je
+a) neoplastika pochvy
+b) operace к úpravě enterokély
+c) operace к odstranění děložního septa
+d) operace ke zprůchodnění vejcovodů
+43. Drenáž po operaci difúzní peritonitidy
+a) zásadně není vhodná pro nebezpečí vzniku píštěle
+b) je nutná ve všech případech
+c) je vhodná podle rozsahu operace
+d) je vhodná jen u komplikovaných případů
+44. Nejčastější časnou komplikací vaginální hvsterek tomie je
+a) inkontinence moči
+b) prolaps poševního pahýlu
+c) retence moči
+d) krvácení z poševního pahýlu
+45. К léčbě do klenby jdoucích ruptur děložního hrdla se užívá
+a) Emmetova plastika
+b) Stumdorfova plastika hrdla
+c) konizace hrdla
+d) diatermokoagulace
+46. Metody operačního zprůchodnění uzavřených vejcovodů nejsou příliš úspěšné; největší úspěch můžeme očekávat od
+a) resekce neprůchodné části a anastomózy end-to-end
+b) neostomie
+c) resekce neprůchodné části a implantaci tuby do děložního rohu
+d) íimbriolýzy
+47. К interrupci v 8. týdnu těhotenství nepoužijeme
+a) kyretu
+b) vakuumexhausci
+c) abortové kleště
+d) děložní sondu
+48. Sondáž dělohy při kyretáži děložní dutiny
+a) neprovádíme
+b) provádíme jen při RVF uteri
+c) provádíme vždy
+d) provádíme jen u vrozených vývojových vad dělohy
+49. Suspektní lézi hrdla neověřujeme
+a) cerclage
+b) »punch« biopsií
+c) konizací
+d) excizí
+50. Mikroabrazi endometria použijeme
+a) к zástavě děložního krvácení
+b) к získání endometria к jeho dataci
+c) jako miniinterrupci
+d) к diagnostice graviditas extrauterina
+51. «Punch hiopsii« užijeme
+a) к získání tkáně z leze hrdla pro histologické vyšetření
+b) к získání tkáně z endometria pro histologické vyšetření
+c) к cytologickému vyšetření z punktátu z Douglasova prostoru
+d) při výplachové cytologii z dutiny břišní
+52. Sterilizace znamená
+a) odstranění vaječníků
+b) odstranění vejcovodů
+c) odstranění vejcovodů i vaječníků
+d) přerušení kontinuity vejcovodů u děložních rohů
+53. Chirurgickou kastrací není
+a) odstranění obou ovarií
+b) odstranění obou ovarií i vejcovodů
+c) odstranění dělohy a adnex
+d) koagulace vejcovodů
+54. Při diagnóze tubární gravidity obvykle
+a) provedeme salpingektomii
+b) pacientku sledujeme až do prvých klinických příznaků krvácení do břišní dutiny
+c) podáme postkoitální antikoncepci
+d) podáme prostaglandiny к vyvolání abortu
+55. Prostou nesuspektní cystu u 251eté pacientky operačně nejlépe řešíme
+a) laparoskopickou unilaterální adnexektomií
+b) punkcí Douglasova prostoru
+c) laparoskopickou enukleací cysty
+d) laparotomickou ovarektomií
+56. U klinicky nestabilní pacientky s hemoperitoneem volíme
+a) laparoskopický přístup
+b) laparotomii
+c) ve spolupráci s hematologem konzervativní postup
+d) odlehčující punkci cavi Douglasi
+57. Atypickou hyperplazii endometria u žen, které již nechtějí mít dítě, řešíme
+a) hormonální terapií s následným histologickým ověřením
+b) hysterektomií
+c) ablací endometria
+d) ultrazvukovými kontrolami výšky endometria
+58. Perforace děložní stěny může způsobit
+a) krvácení do břišní dutiny
+b) sterkorální peritonitidu
+c) synechie dutiny děložní
+d) Ashermannův syndrom
+59. Kyretáž dutiny děložníje považována
+a) za léčebnou, ale nikoli definitivní metodu při dysfunkčním děložním krvácení
+b) za obsolentní metodu z hlediska diagnostiky děložního krvácení
+c) za jedině možnou v diagnostice děložního krvácení
+d) za metodu kontraindikovanou u žen ve fertilním věku
+60. К závěsnému děložnímu aparátu nepatří
+a) chordy uteroingvinální
+b) ligg sacrouterina
+c) ligg sacrospinosum
+d) ligg cardinalia
+61. Redonova drenáž je
+a) drenáž rány spolu s kontraincizí
+b) spádová drenáž
+c) mulová drenáž
+d) odsávací drenáž
+62. Podám atropinu před anestezií
+a) neovlivňuje množství podaného anestetika
+b) brání vzniku vagového reflexu při intubaci
+c) usnadňuje ventilaci plic
+d) snižuje tvorbu sekretu v dýchacích cestách
+63. Před kyretáží dělohy je vhodné
+a) zavést permanentní katétr do močového měchýře
+b) podat klyzma
+c) vycévkovat močový měchýř
+d) provést odběr sekretu z pochvy na kultivaci chlamydií a diplokoků
+64. Nejrychleji a nejbouřlivěji se rozvíjí šok
+a) hemoragický
+b) neurogenní
+c) septický
+d) anafylaktický
+65. Vyberte, který z uvedených léčebných postupů u pacientky s diagnózou diabetes mellitus je před operací nadbytečný
+a) preventivní podání antibiotik
+b) preventivní heparinizace
+c) měření bilance tekutin - příjem a výdej
+d) převedení na krystalický inzulin
+66. Antidotem heparinu je
+a) Kanavit
+b) Prothazin
+c) kyselina kapronová
+d) Prothamin
+67. Cílem sterilizace nástrojů je
+a) zničení všech patogenních zárodků
+b) zneškodnění všech anaerobních zárodků
+c) zneškodnění jakýchkoli choroboplodných zárodků
+d) mechanické odstranění choroboplodných zárodků
+68. Velký křížový pokus je reakce mezi
+a) krví dárce a krví příjemce
+b) sérem dárce a sérem příjemce
+c) sérem dárce a krvinkami příjemce
+d) sérem příjemce a krvinkami dárce
+69. Jako Schloferův nádor označujeme
+a) fibroadenom prsní žlázy
+b) granulom kolem stehu
+c) zhoubný ovariální tumor hormonálně aktivní
+d) benigní tumor močového měchýře
+70. Dilatace hrdla může způsobit jeho rupturu, která
+může mít za následek krvácení do okolí. Označte
+kam nekrvácí
+a) do parametria
+b) retroperitoneálně až pod ledvinu
+c) do Douglasova prostoru
+d) krev vytéká z pochvy
+71. Perforaci děložní stěny po kyretáži nejčastěji
+ošetříme
+a) hysteroskopicky
+b) laparoskopicky
+c) laparotomicky
+d) vaginálně
+72. Příčinou srdečního přetížení při rychlých
+a objemných transfúzích je
+a) penízkování erytrocytů
+b) vazokonstrikce ve velkém oběhu po citrátu z konzervy
+c) oslabování srdečního svalu přímým účinkem citrátu
+cestou věnčitých tepen
+d) rychlost, kterou je transfúze podávána
+73. Většina embolizací plicnice po gynekologických
+operacích je
+a) z oblasti dolní duté žíly
+b) z povrchových žil dolních končetin
+c) z oblasti horní duté žíly
+d) žádná odpověď není správná
+74. Při rychlých transfúzích velkého množství krve se
+má podat nitrožilně
+a) adrenalin
+b) kalcium
+c) 40% glukóza
+d) kalium
 `;
 
   const answers = `
-  1a,b,c,d 2d 3a,b 4a,d 5b,c 6c,d 7a,b,d 8a,b,c,d 9b,c
-  10b.d 11a,b,c 12c,d 13b,c 14a,d 15a,d 16b,c,d 17a,c,d 18b,d 19a,b,c,d
-  20a,b,c,d 21a,c 22a,b,d 23a,b,c 24a,c 25b,c,d 26d 27b 28b 29b
-  30b 31d 32a,b 33c 34b 35c 36a
+  1a 2d 3c 4b 5d 6d 7a 8a 9d
+10b lib 12a 13b 14b 15d 16c 17a 18a 19c
+20d 21a 22d 23b 24a 25c 26b 27b 28d 29c
+30c 31c 32d 33a 34c 35d 36b 37d 38b 39d
+40c 41b 42c 43b 44c 45a 46d 47c 48c 49a
+50b 51a 52d 53d 54a 55c 56b 57b 58a 59a
+60c 61d 62a 63c 64d 65c 66d 67a 68d 69b
+70c 71b 72c 73a 74b
   `;
   const correctNewAnswers = answers.split(' ');
   //   console.log(correctNewAnswers);
@@ -321,7 +520,7 @@ d) větší průměr diafragmy
         question: `${questionNumber + question}`,
         answers: newAnswers,
         book: ['Živný'], // Пример значения для поля "book"
-        topic: ['11. KONTRACEPCE. II. ČÁST POSTGRADUÁLNÍ'],
+        topic: ['13. Gynekologická operativa. I. CAST PREGRADUALNÍ'],
         correctAnswers: myCorrectNewAnswers, // Массив с правильными ответами
       });
     }

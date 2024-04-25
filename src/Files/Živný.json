@@ -25598,5 +25598,2413 @@
     "correctAnswers": ["a) použití spermicidních prostředků"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Za 1 měsíc se v ovariu dospělé ženy s funkčním menstruačním cyklem nově vytvoří přibližně",
+    "answers": [
+      "a) 100 primordiálních folikulů",
+      "b) 10 primordiálních folikulů",
+      "c) 1 primordiální folikul",
+      "d) žádný primordiální folikul"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) žádný primordiální folikul"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Zdravá žena ve věku 25 roků, která má nechráněI ný pohlavní styk se zdravým mužem ob den, I v průměru otěhotní",
+    "answers": [
+      "a) v prvém menstruačním cyklu",
+      "b) během 3 menstruačních cyklů",
+      "c) během 6 menstruačních cyklů",
+      "d) během 12 menstruačních cyklů"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) během 6 menstruačních cyklů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Pravděpodobnost otěhotnění závisí na věku ženy. Po darování oocytů -in vitro fertilizaci a embryotransferu - otěhotní příjemkyně embryí s pravdě1 podobností odpovídající věku",
+    "answers": [
+      "a) příjemkyně",
+      "b) dárkyně",
+      "c) té starší z nich",
+      "d) té mladší z nich",
+      "4 Při embryotransferu v rámci in vitro fertilizace I vnášíme embrya",
+      "a) do pochvy",
+      "b) do dělohy",
+      "c) do vejcovodu",
+      "d) do vaječníku"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) dárkyněb) do dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Při normospermii nacházíme ve spermatu v 1 ml",
+    "answers": [
+      "a) alespoň 100 milionů spermií",
+      "b) alespoň 1 spermii",
+      "c) alespoň 20 milionů spermií",
+      "d) alespoň 100 spermií"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) alespoň 20 milionů spermií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Za sterilitu považujeme, když při nechráněném t styku 3-4krát týdně nedojde к těhotenství během",
+    "answers": ["a) jednoho roku", "b) 10 let", "c) 1 měsíce", "d) 1 týdne"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) jednoho roku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Nekrospermie znamená",
+    "answers": [
+      "a) nekrotické látky působící na spermie",
+      "b) odběr spermatu z varlete bezprostředně po smrti muže",
+      "c) žádné spermie v ejakulátu se nepohybují",
+      "d) spermie podlehly nekróze"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) žádné spermie v ejakulátu se nepohybují"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Příčinou sterility je všeobecně",
+    "answers": [
+      "a) vliv znečištění pitné vody radioaktivitou",
+      "b) především muž",
+      "c) především žena",
+      "d) někdy muž, někdy žena - oba přibližně stejně často"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) někdy muž, někdy žena - oba přibližně stejně často"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. К oplození oocytu spermií dochází",
+    "answers": [
+      "a) ve vaječníku",
+      "b) ve vejcovodu",
+      "c) v děloze",
+      "d) v pochvě"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) ve vejcovodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Implantace embrya nastává",
+    "answers": [
+      "a) 6-7 minut po oplození",
+      "b) 6-7 dní po oplození",
+      "b) 280 dní, tedy 40 týdnů od poslední menstruace",
+      "c) u člověka implantace nenastává, termín se týká jen myší"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 6-7 dní po oplození"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Po implantaci plodové vejce vytváří signál pro žluté tělísko, takže žluté tělísko nezanikne, produkuje dále estrogeny a progesteron, a tak udržuje endometrium v sekreční fázi. Tento signální hormon je",
+    "answers": [
+      "a) adrenalin",
+      "b) renin",
+      "c) folikulostimulační hormon",
+      "d) choriový gonadotropin"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) choriový gonadotropin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Vzhledem к tomu, že stáří těhotenství počítáme od",
+    "answers": [
+      "a) 0 týdnů",
+      "b) 2 týdny + 0 dní",
+      "c) 4 týdny",
+      "d) 0,5 týdne"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 2 týdny + 0 dní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Denně se ve varlatech zdravého muže vytváří řádově",
+    "answers": [
+      "a) 1 spermie",
+      "b) 10 000 spermií",
+      "c) 1 milion spermií",
+      "d) 10 milionů spermií"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) 10 milionů spermií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Hlavička spermie je veliká asi jako",
+    "answers": [
+      "a) erytrocyt, tedy červená krvinka",
+      "b) oocyt, tedy vajíčko",
+      "c) mravenec rodu Pharaon",
+      "d) velikost je tak rozdílná, že ji nelze к ničemu přirovnat"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) erytrocyt, tedy červená krvinka"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Bičík spermie je asi 10-12krát delší než hlavička spermie, a měří tedy",
+    "answers": ["a) 1-2 pm", "b) 10-20 pm", "c) 60-70 pm", "d) 1-2 pm"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 60-70 pm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Postkoitální test neboli test interakce spermií s hlenem děložního hrdla považujeme za pozitivní, nalezneme-li",
+    "answers": [
+      "a) alespoň 1 nepohyblivou spermii v celém preparátu",
+      "b) alespoň 1 pohyblivou spermii v celém preparátu",
+      "c) řetězec nejméně 10 spermií pohybujících se lineárně jedna za druhou",
+      "d) alespoň 2 spermie vzájemně fixované jedna к druhé"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) alespoň 1 pohyblivou spermii v celém preparátu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Příčinou oligoastenozoospermie je nejčastěji",
+    "answers": [
+      "a) tabakismus",
+      "b) práce s radarem",
+      "c) přehřívání varlat u řidičů nosících těsné slipy",
+      "d) příčinu nelze většinou stanovit"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) příčinu nelze většinou stanovit"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Prognóza sterility z andrologické příčiny je",
+    "answers": [
+      "a) dobrá, otěhotní většina žen",
+      "b) špatná, léčba nemá smysl",
+      "c) špatná, otěhotní sice většina žen, ale více než 50 % plodů má vrozenou vývojovou vadu",
+      "d) špatná, ženy sice otěhotní, ale většinou potratí"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) dobrá, otěhotní většina žen"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Nejčastější příčinou neplodnosti ze strany ženy v Česku je",
+    "answers": [
+      "a) anovulace",
+      "b) endometrióza",
+      "c) vaginismus",
+      "d) protilátky ženy proti spermiím"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) anovulace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Stanovení bazální koncentrace folikulostimulačnílio (FSH) a Iuteinizačního (LH) hormonu a související koncentrace estradiolu v krvi provádíme",
+    "answers": [
+      "a) 2-3 den cyklu, tedy při menstruaci",
+      "b) co nejblíže před ovulací",
+      "c) hned po ovulaci",
+      "d) před menstruací"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 2-3 den cyklu, tedy při menstruaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Stanovíme-П hodnotu prolaktinu ráno, brzy poté, co žena vstane (do 3 hodin po probuzení), nalezneme u téměř všech žen",
+    "answers": [
+      "a) fyziologické hodnoty",
+      "b) falešně vysoké hodnoty imitující hyperprolaktinémii",
+      "c) falešně nízké hodnoty zakrývající hyperprolaktinémii i tam, kde je přítomna",
+      "d) žádný prolaktin v tuto dobu nelze stanovit, jeho koncentrace jsou nulové"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) falešně vysoké hodnoty imitující hyperprolaktinémii"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Příčinu neplodnosti nezjistíme a sterilitu nazveme idiopatickou u",
+    "answers": [
+      "a) 1 % vyšetřovaných párů",
+      "b) 5-10% vyšetřovaných párů",
+      "c) 50-60 % vyšetřovaných párů",
+      "d) příčinu zjistíme vždy, ale mnohdy ji neumíme léčit"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 5-10% vyšetřovaných párů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Vyšetříme-li jeden cyklus u ženy a zjistíme, že ovulace proběhla a koncentrace hormonů jsou v normě, víme že",
+    "answers": [
+      "a) příští cyklus bude také ovulační",
+      "b) příští dva cykly budou ovulační",
+      "c) příštích 5 cyklů bude ovulačních",
+      "d) s pravděpodobností 80-90 % bude příští cyklus také ovulační"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) s pravděpodobností 80-90 % bude příští cyklus také ovulační"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Podle ultrazvukového nálezu na ovariích můžeme usuzovat na ovariální rezervu a na odpověď ovarií na budoucí hormonální stimulaci. Pro toto posouzeníje rozhodující",
+    "answers": [
+      "a) objem ovarií",
+      "b) vzdálenost ovarií od dělohy",
+      "c) počet folikulů velikosti 2—4mm",
+      "d) maximální velikost předovulačního folikulu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) počet folikulů velikosti 2—4mm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Postkoitální test neboli test interakce spermií s hlenem děložního hrdla vede po většinu cyklu к negativnímu výsledku, pouze v případě správných koncentrací hormonů může být pozitivní. Tato příznivá situace nastává",
+    "answers": [
+      "a) těsně po menstruaci",
+      "b) předovulačně, tedy při vysoké koncentraci estrogenůa dosud nízké koncentraci gestagenů",
+      "c) na vrcholu П. fáze cyklu, tedy při střední koncentraci estrogenů a vysoké koncentraci gestagenů",
+      "d) v těhotenství, kdy jsou koncentrace estrogenů a gestagenů vysoké"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) předovulačně, tedy při vysoké koncentraci estrogenůa dosud nízké koncentraci gestagenů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Folikul v ovariu pod vlivem folikulostimulačního hormonu během",
+    "answers": [
+      "a) 1-2mm za den",
+      "b) lOmmzaden",
+      "c) exponenciálně, tedy nejprve lmm za den, pak až, 100mm za den",
+      "d) logaritmicky, tedy nejprve rychle, 100mm za den, a potom postupně méně, až se jeho růst stává neměřitelný"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 1-2mm za den"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Zenu s opakovaným nálezem »sactosalpinx« při ultrazvukovém vyšetření doporučíme к",
+    "answers": [
+      "a) hysterosalpingografii",
+      "b) in vitro fertilizaci",
+      "c) laparoskopickému ověření a salpingektomii postižené tuby nebo jejímu uzavření u děložního rohu",
+      "d) na léčbu neplodnosti rezignujeme"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) laparoskopickému ověření a salpingektomii postižené tuby nebo jejímu uzavření u děložního rohu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Tůbární neprůchodnost léčíme",
+    "answers": [
+      "a) mikrochirurgicky",
+      "b) in vitro fertilizaci",
+      "c) hydrotubací pod vysokým tlakem",
+      "d) antibiotiky"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) in vitro fertilizaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Oocyt člověka můžeme jako jedinou buňku lidského těla vidět prostým okem - bez lupy a mikroskopu, protože jeho průměr je",
+    "answers": ["a) 0,lmm", "b) 1 mm", "c) 10mm", "d) 10cm"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 0,lmm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. К dozrání a uvolnění oocytu z folikulu dochází po LH peaku (či podání indukční dávky hCG) za",
+    "answers": [
+      "a) 1 hodinu",
+      "b) 1,5 dne, tedy za 36 hodin",
+      "c) za 14 dní",
+      "d) uvedené skutečnosti spolu nesouvisejí"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 1,5 dne, tedy za 36 hodin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Léčebná stimulace folikulárního růstu v principu spočívá v",
+    "answers": [
+      "a) zvýšení průtoku krve ovariem",
+      "b) zvýšení sekrece progesteronu",
+      "c) zvýšení koncentrace folikulostimulačního hormonu",
+      "d) snížení vylučování estradiolu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) zvýšení koncentrace folikulostimulačního hormonu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Selekce dominantního folikulu je děj, kdy z kohorty rekrutujících se folikulů zpětnovazebním snížením koncentrace FSH nakonec к ovulaci dospěje jen 1 folikul. Tato selekce probíhá",
+    "answers": [
+      "a) 2-3 měsíce před konkrétním cyklem ženy",
+      "b) během prvých 3 dní cyklu",
+      "c) od 4 dne až do ovulace",
+      "d) od 4 dne až do preovulačního peaku LH"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) od 4 dne až do preovulačního peaku LH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Stimulací ovarií folikulostimulačním hormonem nebo antiestrogeny",
+    "answers": [
+      "a) zachraňujeme folikuly, které by jinak propadly atrézii",
+      "b) rychleji snižujeme ovariální rezervu",
+      "c) vracíme ženě mládí",
+      "d) urychlujeme menopauzu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) zachraňujeme folikuly, které by jinak propadly atrézii"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Genetické vyšetření a stanovení karyotypu představuje pro léčbu neplodnosti",
+    "answers": [
+      "a) žádný přínos",
+      "b) téměř žádný přínos, protože patologický výsledek je velmi zřídkavý a i ten jen málokdy vede ke změně léčby",
+      "c) velký přínos, protože většina lidí má karytyp patologický",
+      "d) je nejdůležitějším vyšetřením, bez kterého nelze vůbec neplodnost vyléčit"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) téměř žádný přínos, protože patologický výsledek je velmi zřídkavý a i ten jen málokdy vede ke změně léčby"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Cystická fibróza je",
+    "answers": [
+      "a) dominantně dědičná",
+      "b) recesivně dědičná s frekvencí vadné alely genu v české populaci 1 : 25",
+      "c) dědičná s vazbou na pohlavní chromozom X",
+      "d) dědičná s vazbou na pohlavní chromozom Y"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) recesivně dědičná s frekvencí vadné alely genu v české populaci 1 : 25"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Odběr folikulární tekutiny provádíme v programu IVF-ET/ICSI",
+    "answers": [
+      "a) laparotomicky",
+      "b) laparoskopicky",
+      "c) vaginální punkcí naslepo",
+      "d) vaginální punkcí pod sonografickou kontrolou"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) vaginální punkcí pod sonografickou kontrolou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Optimální velikost folikulu před odběrem folikulární tekutiny je",
+    "answers": ["a) 3-5 mm", "b) 6-10mm", "c) 11-15 mm", "d) 18-22 mm"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) 18-22 mm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Cílem kontrolované ovariální hyperstimulace v programu IVF-ET/ICSI je",
+    "answers": [
+      "a) zvýšit počet oocytů použitelných к oplození",
+      "b) zvýšit koncentraci estradiolu",
+      "c) zvýšit koncentraci progesteronu",
+      "d) zvýšit koncentraci SHBG"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) zvýšit počet oocytů použitelných к oplození"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Indikací к provedení IVF-ET je",
+    "answers": [
+      "a) tubámí sterilita",
+      "b) endometrióza",
+      "c) imunologická sterilita",
+      "d) všechny uvedené"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny uvedené"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Indikací к provedení IVF-ET/ICSI není",
+    "answers": [
+      "a) nález saktosalpingu",
+      "b) nález děložní myomatózy",
+      "c) patologické parametry spermiogramu",
+      "d) idiopatická sterilita"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) nález děložní myomatózy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Ke kontrolované ovariální hyperstimulaci v programu IVF-ET se nepoužívá",
+    "answers": ["a) klomifencitrát", "b) hMG", "c) FSH", "d) GnRH"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) GnRH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Klomifencitrát je",
+    "answers": [
+      "a) antiestrogen",
+      "b) antigestagen",
+      "c) antagonista GnRH",
+      "d) agonista GnRH"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) antiestrogen"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. GnRH agonisté se od přírodního GnRH liší",
+    "answers": [
+      "a) neliší vůbec",
+      "b) zastoupením jiných aminokyselin",
+      "c) délkou řetězce aminokyselin",
+      "d) nejedná se o peptid, ale o steroid"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) zastoupením jiných aminokyselin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. GnRH agonisté se používají",
+    "answers": [
+      "a) při léčbě zánětu žil",
+      "b) při léčbě děložní myomatózy, endometriózy a v programu in vitro fertilizace",
+      "c) v programu onkologické prevence nádorů děložního čípku",
+      "d) při léčbě angíny"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) při léčbě děložní myomatózy, endometriózy a v programu in vitro fertilizace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Preimplantační genetická diagnostika se v současné době provádí",
+    "answers": [
+      "a) u všech embryí",
+      "b) pouze u těch embryí, která jsou určena к embryotransferu",
+      "c) pouze u embryí, kde jsou přítomny fragmenty",
+      "d) výjimečně, při konkrétní indikaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) výjimečně, při konkrétní indikaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Pro chirurgické zákroky při léčbě neplodnosti neplatí",
+    "answers": [
+      "a) jsou metodou první volby",
+      "b) provádějí se jen v přesně indikovaných případech",
+      "c) nejvhodnější jsou metody minimálně invazivní chirurgie",
+      "d) nález hydrops tubae profluensje indikací к salpingektomii"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) jsou metodou první volby"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Při nálezu oboustranné tubární neprůchodnosti je léčebnou metodou první volby",
+    "answers": [
+      "a) mikrochirurgické zprůchodnění vejcovodů",
+      "b) IVF-ET",
+      "c) stimulace ovulace s následnou intrauterinní inseminací",
+      "d) stimulace ovulace"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) IVF-ET"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Při metodě IVF-ET se embrya transferují",
+    "answers": [
+      "a) do vejcovodů, protože zde normálně dochází к fertilizaci",
+      "b) do dutiny břišní",
+      "c) do dutiny děložní",
+      "d) do děložního hrdla"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) do dutiny děložní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Minimálními hodnota spermiogramu pro použití metody ICSIje",
+    "answers": [
+      "a) přítomnost 100 milionů spermií/ml, minimálně 50% pohyblivých",
+      "b) přítomnost 10 milionů spermií/ml, minimálně 50% pohyblivých",
+      "c) přítomnost 1 milionu spermií/ml, minimálně 50% pohyblivých",
+      "d) v zásadě stačí pro každý oplozovaný oocyt jedna morfologicky normální spermie"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) v zásadě stačí pro každý oplozovaný oocyt jedna morfologicky normální spermie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Inseminace spermatem dárce je v současné době jednoznačně indikovaná",
+    "answers": [
+      "a) při nálezu těžké oligoastenozoospermie",
+      "b) při nálezu obstrukční azoospermie",
+      "c) na doporučení genetika při vysokém riziku přenosu dědičné choroby na plod",
+      "d) pokud žena neotěhotní po"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) na doporučení genetika při vysokém riziku přenosu dědičné choroby na plod"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Inseminace spermatem dárce v České republice se provádí",
+    "answers": ["a) zřídka", "b) často", "c) vždy", "d) nikdy"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) zřídka"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Při kontrolované ovariální hyperstimulaci začínáme s podáváním FSH/hMG",
+    "answers": [
+      "a) ve velmi časné folikulámí fázi",
+      "b) v období očekávané ovulace",
+      "c) rané luteální fázi",
+      "d) před odběrem oocytů"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) ve velmi časné folikulámí fázi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Smyslem podání hCG před odběrem oocytů je",
+    "answers": [
+      "a) nahradit spontánní preovulační vyplavení LH, a tím dokončit maturaci oocytů",
+      "b) ukončit růst folikulu",
+      "c) zamezit předčasné luteinizaci",
+      "d) zamezit předčasnému puknutí folikulu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) nahradit spontánní preovulační vyplavení LH, a tím dokončit maturaci oocytů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Molekula i biologická aktivita hCG je velmi podobná",
+    "answers": ["a) inhibinu", "b) estradiolu", "c) LH", "d) FSH"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) LH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Koncentrace estradiolu ve folikulární fázi kontrolované ovariální hyperstimulace v průběhu podávání FSH/hMG",
+    "answers": [
+      "a) stoupají",
+      "b) klesají",
+      "c) udržují se na konstantní hladině",
+      "d) po přechodném vzestupu klesají"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) stoupají"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Cílem podávání GnRH agonistů v dlouhém stimulačním protokolu je",
+    "answers": [
+      "a) zvýšit koncentrace FSH a LH",
+      "b) zabránit vyplavování endogenního FSH a LH",
+      "c) zvýšit koncentrace estradiolu",
+      "d) zvýšit koncentrace progesteronu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) zabránit vyplavování endogenního FSH a LH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Cílem podávání GnRH antagonists při kontrolované ovariální stimulaci je",
+    "answers": [
+      "a) zvýšit koncentrace FSH a LH",
+      "b) zabránit vyplavení endogenního LH",
+      "c) zvýšit koncentrace estradiolu",
+      "d) zvýšit koncentrace progesteronu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) zabránit vyplavení endogenního LH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. hMG používaný při stimulaci ovarií se získává",
+    "answers": [
+      "a) laboratorní syntézou",
+      "b) z mozků zemřelých žen",
+      "c) z mozků skotu",
+      "d) extrakcí z moči menopauzálních žen"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) extrakcí z moči menopauzálních žen"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. hMG používaný při stimulaci ovarií se podává formou",
+    "answers": [
+      "a) perorálních tablet",
+      "b) injekční",
+      "c) intranazálního spreje",
+      "d) depotní injekce"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) injekční"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Léčebnou metodou první volby u normogonadotropní anovulace je podávání",
+    "answers": ["a) antiestrogenů", "b) hMG", "c) FSH", "d) GnRH"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) antiestrogenů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. L' hypogonadotropní anovulace dojde po provedení progesteronového testu",
+    "answers": [
+      "a) ke krvácení ze spádu",
+      "b) ke krvácení z průniku",
+      "c) к ovulaci",
+      "d) nestane se nic"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) nestane se nic"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. U normogonadotropní anovulace dojde po provedení progesteronového testu",
+    "answers": [
+      "a) ke krvácení ze spádu",
+      "b) ke krvácení z průniku",
+      "c) к ovulaci",
+      "d) nestane se nic"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) ke krvácení ze spádu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Metodou první volby u hyperprolaktinemické anovulace je podávání",
+    "answers": [
+      "a) klomifencitrátu",
+      "b) tamoxifenu",
+      "c) agonistů dopaminu",
+      "d) hMG"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) agonistů dopaminu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. U hypogonadotropní anovulace spojené s velmi nízkou tělesnou hmotnostíje základním léčebným opatřením",
+    "answers": [
+      "a) podávání anabolik",
+      "b) stimulace ovarií hMG",
+      "c) úprava tělesné hmotnosti a následná stimulace ovarií",
+      "d) podávání bromokriptinu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) úprava tělesné hmotnosti a následná stimulace ovarií"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Efektivní léčebnou metodou u hypergonadotropní anovulace je",
+    "answers": [
+      "a) stimulace gonadotropiny",
+      "b) stimulace GnRH",
+      "c) stimulace antiestrogeny",
+      "d) IVF-ET s použitím darovaného oocytu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) IVF-ET s použitím darovaného oocytu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Hypergonadotropní anovulace je způsobena",
+    "answers": [
+      "a) selháním hypotalamu",
+      "b) selháním hypofýzy",
+      "c) selháním ovarií",
+      "d) Ashermannovým syndromem"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) selháním ovarií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Při nálezu anovulace u ženy s hraničně nízkou tělesnou hmotností, která zároveň intenzivně sportuje, myslíme na",
+    "answers": [
+      "a) hyperprolaktinémii",
+      "b) hypotyreózu",
+      "c) hypergonadotropní anovulaci",
+      "d) hypogonadotropní anovulaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) hypogonadotropní anovulaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Nejčastější příčinou normogonadotropní anovulace je",
+    "answers": [
+      "a) útlum hypofýzy",
+      "b) hypotyreóza",
+      "c) hyperandrogenní syndrom seu syndrom polycystických vaječníků",
+      "d) hypertyreóza"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) hyperandrogenní syndrom seu syndrom polycystických vaječníků"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Ovariální hyperstimulační syndrom (OHSS) je způsoben",
+    "answers": [
+      "a) sníženou reakcí ovarií na stimulaci",
+      "b) vysokou koncentrací androgenů před stimulací",
+      "c) zvýšenou reakcí ovarií na stimulaci",
+      "d) hypertyreózou"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) zvýšenou reakcí ovarií na stimulaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Základním léčebným opatřením při ovariálním hyperstimulačním syndromu (OHSS) je",
+    "answers": [
+      "a) podávání kortikoidů",
+      "b) podávám analgetik",
+      "c) vyčkávací postup s kontrolou klinického stavu a laboratorních hodnot",
+      "d) podávání vysokých dávek progesteronu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) vyčkávací postup s kontrolou klinického stavu a laboratorních hodnot"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Embrya se kultivují ve speciálních médiích v inkubátoru při",
+    "answers": ["a) 30 °C", "b) 37 °C", "c) 40 °C", "d) 60 °C"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 37 °C"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Při provedení ICSI se zavádíjedna spermie do oocytu; vybere se",
+    "answers": [
+      "a) jakákoliv, která se pohybuje",
+      "b) ta největší, ale musí se pohybovat",
+      "c) nejrychlejší ze všech",
+      "d) po prohlédnutí několika desítek spermií jedna morfologicky kvalitní pohyblivá spermie"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) po prohlédnutí několika desítek spermií jedna morfologicky kvalitní pohyblivá spermie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Aby došlo к oplození oocytu a následnému příznivému vývoji embrya, je potřeba, aby spermie byly přidány к oocytu",
+    "answers": [
+      "a) v den odběru oocytů",
+      "b) stačí následující den po odběru oocytů",
+      "c) stačí 2 dny po odběru oocytů",
+      "d) stačí 3 dny po odběru oocytů"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) v den odběru oocytů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. První den po oplození má embryo optimálně",
+    "answers": ["a) dvě prvojádra", "b) 4 buňky", "c) 8 buněk", "d) 12 buněk"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) dvě prvojádra"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. Zdravotní postižení u dětí po mimotělním oplozeníje ve srovnání s ostatními dětmi",
+    "answers": [
+      "a) stejně časté",
+      "b) méně časté",
+      "c) více časté",
+      "d) není vůbec"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) stejně časté"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Jako »ICSI« označujeme v asistované reprodukci",
+    "answers": [
+      "a) úspěšný pokus",
+      "b) neúspěšný pokus",
+      "c) injekci spermie do vajíčka",
+      "d) intracytoplazmatickou injekci vajíčka do spermie"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) injekci spermie do vajíčka"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Sperma pacientů podstupujících chemoterapii můžeme zamrazit",
+    "answers": [
+      "a) až po dosažení 15 let věku",
+      "b) až po dosažení 18 let věku",
+      "c) až po dosažení 20 let věku",
+      "d) pokud probíhá spermiogeneze, nezávisle na věku"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) pokud probíhá spermiogeneze, nezávisle na věku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. U onkologického pacienta v reprodukčním věku, u kterého je plánována chemoterapie, je vhodná",
+    "answers": [
+      "a) kryokonzervace spermatu před léčbou",
+      "b) kryokonzervace spermatu během léčby",
+      "c) kryokonzervace spermatu po ukončení léčby",
+      "d) kryokonzervace 3 měsíce po ukončení léčby"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) kryokonzervace spermatu před léčbou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Zárodečné buňky nebo embrya se uchovávají v kryokonzervovaném stavu",
+    "answers": [
+      "a) v kysličníku uhličitém",
+      "b) v kyslíku",
+      "c) v tekutém dusíku",
+      "d) v ledničce"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) v tekutém dusíku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Dárcovství gamet (oocytů, spermií) je v České republice podle zákona",
+    "answers": [
+      "a) pouze anonymní",
+      "b) může, ale nemusí být anonymní",
+      "c) záleží na tom, jak se dárce rozhodne",
+      "d) záleží na tom, jak se rozhodne příjemkyně"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) pouze anonymní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Kryoprezervované spermie lze použít do",
+    "answers": [
+      "a) tří měsíců od zamražení",
+      "b) pěti let od zamražení",
+      "c) není dán limit",
+      "d) do jednoho roku od zamražení"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) není dán limit"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. Oocyty se v současné době kryokonzervují",
+    "answers": [
+      "a) běžně, jako např spermie",
+      "b) u všech žen podstupující odběr oocytů po hormonální stimulaci se kryokonzervují 24 oocyty",
+      "c) výjimečně, metoda kryokonzervace oocytů není zatím rutinní záležitostí",
+      "d) 2krát za týden"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) výjimečně, metoda kryokonzervace oocytů není zatím rutinní záležitostí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Kryokonzerace embryí se v současné době provádí",
+    "answers": [
+      "a) výjimečně",
+      "b) běžně",
+      "c) 2krát za týden",
+      "d) 3krát za týden"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) běžně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. Dárce spermatu musí splňovat tato kritéria",
+    "answers": [
+      "a) měřit nad 180 cm",
+      "b) být štíhlý",
+      "c) mít VŠ vzdělání",
+      "d) být zdravý"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) být zdravý"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "85. Přenos embryí do dělohy ženy se provádí",
+    "answers": [
+      "a) v narkóze",
+      "b) operačně",
+      "c) speciálním katétrem",
+      "d) při hospitalizaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) speciálním katétrem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "86. Pokud se žena rozhodne darovat oocyty, musí počítat s",
+    "answers": [
+      "a) hormonální stimulací",
+      "b) genetickým vyšetřením dětí",
+      "c) genetickým vyšetřením manžela",
+      "d) genetickým vyšetřením rodičů"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) hormonální stimulací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "87. Spermie, oocyty a embrya se dlouhodobě skladují při teplotě",
+    "answers": ["a) 0°C", "b) -30 °C", "c) -196 °C", "d) -282 °C"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) -196 °C"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "88. Je doporučeno, aby věk dárkyně nepřesáhl",
+    "answers": ["a) 25 roků", "b) 30 roků", "c) 35 roků", "d) 40 roků"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 35 roků"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "89. Žena s Turnérovým syndromem",
+    "answers": [
+      "a) může mít biologicky vlastní dítě",
+      "b) po přijetí darovaných oocytů může otěhotnět a porodit dítě",
+      "c) nemůže nikdy otěhotnět, ani po přijetí darovaných oocytů",
+      "d) nemůže mít pohlavní styk"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) po přijetí darovaných oocytů může otěhotnět a porodit dítě"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "90. Obal kolem embrya, ze kterého před nidací do endometria embryo vycestuje, se nazývá",
+    "answers": [
+      "a) zóna pellucida",
+      "b) corona radiata",
+      "c) mitochondriální zóna",
+      "d) folikulární zóna"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) zóna pellucida"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "91. Asistovaný mechanický hatching je metoda, při které",
+    "answers": [
+      "a) se pomocí mikromanipulačních technik »narizne« zóna pellucida",
+      "b) se masáží břicha zvýší schopnost embra vycestovat ze zóna pellucida",
+      "c) opakujeme nasávání 2denního embrya do speciální pipety",
+      "d) opakujeme nasávání 3denního embrya do speciální pipety"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) se pomocí mikromanipulačních technik »narizne« zóna pellucida"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "92. Při zavedení 2 spermií do oocytů by následoval tento vývoj",
+    "answers": [
+      "a) další vývoj by se neuskutečnil",
+      "b) vyvinula by se dvojčata",
+      "c) vyvinula by se trojčata",
+      "d) vzniklo by tzv. triploidní embryo se 3 sadami genetických informací"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) vzniklo by tzv. triploidní embryo se 3 sadami genetických informací"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "93. Pokud hovoříme o diploidním embryu, znamená to, že pod mikroskopem vidíme",
+    "answers": [
+      "a) dvč prvojádra v oplozeném oocytů",
+      "b) dělící se embryo",
+      "c) deformované embryo",
+      "d) degenerované embryo"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) dvč prvojádra v oplozeném oocytů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "94. Pokud žena podstupuje kryoembryotransfer, tedy transfer embryí po jejich zamražení a rozmražení,",
+    "answers": [
+      "a) musí absolvovat hormonální stimulaci vaječníků s odběrem oocytů",
+      "b) mohou se embrya zavést v přirozeném cyklu kdykoliv",
+      "c) mohou se embrya zavést v přirozeném cyklu kdykoliv po ovulaci",
+      "d) mohou se embrya zavést v přirozeném cyklu v přesně stanovený den po ovulaci vzhledem ke stáří embryí"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) mohou se embrya zavést v přirozeném cyklu v přesně stanovený den po ovulaci vzhledem ke stáří embryí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "95. Kryokonzervované spermie, např. onkologických pacientů, jsou ve spermabance uchovávány",
+    "answers": [
+      "a) jeden rok, pak se zničí",
+      "b) standardně 2 roky s možností prodloužení doby na 1-5 let opakovaně, celkově např. i 20 let",
+      "c) standardně 20 let",
+      "d) standardně 100 let"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) standardně 2 roky s možností prodloužení doby na 1-5 let opakovaně, celkově např. i 20 let"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "96. Vzorek ejakulátu к vyšetření získává muž obvykle",
+    "answers": [
+      "a) masturbací",
+      "b) elektroejakulací",
+      "c) po pohlavním styku s běžně zakoupeným prezervativem",
+      "d) po lOdenní pohlavní abstinenci"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) masturbací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "97. Embryotransfer je výkon, při kterém se",
+    "answers": [
+      "a) embrya přenášejí do speciální zkumavky",
+      "b) embrya dále kultivují",
+      "c) embrya přenášejí do mrazicího přístroje",
+      "d) embrya přenášejí do dělohy ženy"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) embrya přenášejí do dělohy ženy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "98. Přítomnost prvního pólového tělíska v oocytů znamená, že",
+    "answers": [
+      "a) oocyt je zralý, schopný oplození",
+      "b) oocyt je nezralý, ještě se musí vyloučit druhé pólové tělísko",
+      "c) oocyt je degenerovaný",
+      "d) oocyt se již začne dělit"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) oocyt je zralý, schopný oplození"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "99. Druhé pólové tělísko se z oocytů vyloučí",
+    "answers": [
+      "a) vždy, i bez oplození",
+      "b) po oplození",
+      "c) nikdy",
+      "d) třetí den dělení buněk embrya"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) po oplození"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "100. Termín kryoembryotransfer se používá pro",
+    "answers": [
+      "a) zmražení embryí",
+      "b) rozmražení embryí",
+      "c) přenos rozmražených embryí do dělohy ženy",
+      "d) přenos zmražených embryí do dělohy ženy"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) přenos rozmražených embryí do dělohy ženy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "101. Kryokonzervovaná embrya se uchovávají v pejetách, na kterých je uvedeno",
+    "answers": [
+      "a) pouze pořadové číslo pejety",
+      "b) pouze jméno pacientky s jejím identifikačním číslem",
+      "c) pouze datum zamražení",
+      "d) všechny výše uvedené údaje"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny výše uvedené údaje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "102. Tekutý dusík se do kontejnerů, kde se uchovávají kryokonzervovaná embrya (nebo spermie), doplňuje průměrně",
+    "answers": [
+      "a) denně",
+      "b) jednou za týden",
+      "c) jednou za 3 měsíce",
+      "d) jednou za rok"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) jednou za týden"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "103. Spermie má mít správně",
+    "answers": [
+      "a) 23 párů chromosomů",
+      "b) 22 párů chromosomů",
+      "c) 23 chromosomů",
+      "d) pouze chromosomY"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 23 chromosomů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "104. Pokud oocyty in vitro v médiu ponecháme 10 minut při pokojové teplotě mimo inkubátor, kde jsou standardně uložena při 37 °C, výsledkem je",
+    "answers": [
+      "a) nic se nestane, po oplození se budou embrya dobře vyvíjet",
+      "b) dojde к degeneraci oocytů, rozpadnou se",
+      "c) jejich vzhled se nezmění, ale nedojde к vývoji kvalitního embrya",
+      "d) dojde к dehydrataci oocytů"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. I ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) jejich vzhled se nezmění, ale nedojde к vývoji kvalitního embrya"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Průchodnost vejcovodů lze zjistit",
+    "answers": [
+      "a) kymoinsuflací",
+      "b) hysterosalpingografií",
+      "c) laparoskopickou chromopertubací",
+      "d) diatermokoagulací"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) kymoinsuflací",
+      "b) hysterosalpingografií",
+      "c) laparoskopickou chromopertubací"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Nejčastější příčinou neplodnosti manželského páru je",
+    "answers": [
+      "a) oligoastenospermie",
+      "b) endometrióza",
+      "c) ageneze dělohy",
+      "d) kolpitida"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) oligoastenospermie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Po transferu embryí v plně substituovaném cyklu podáváme léky nejméně do 9 většinou však až do 12 týdne gravidity. Podáváme",
+    "answers": [
+      "a) androgeny",
+      "b) gestageny",
+      "c) estrogeny a androgeny zároveň",
+      "d) estrogeny a gestageny zároveň"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) estrogeny a gestageny zároveň"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. V teoretickém modelovém cyklu ovulaci přiřazujeme ke 14 dnu cyklu. Ve skutečnosti však téměř jedna čtvrtina žen má ovulaci dříve, a to již",
+    "answers": [
+      "a) 1—2 den cyklu",
+      "b) 7-8 den cyklu",
+      "c) 11-12 den cyklu",
+      "d) žádná odpověď není pravdivá"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) 11-12 den cyklu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Celý proces tvorby spermií ve varleti muže trvá",
+    "answers": ["a) 1 den", "b) 1 týden", "c) 1 měsíc", "d) 2,5 měsíce"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) 2,5 měsíce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Nejúčinnější metodou léčby těžké oligoastenospermie je",
+    "answers": [
+      "a) intracytoplazmatická injekce spermie do oocytu při mimotělním oplodnění",
+      "b) radiační kastrace",
+      "c) použití spermií dárce",
+      "d) dlouhodobá terapie testosteronem"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) intracytoplazmatická injekce spermie do oocytu při mimotělním oplodnění",
+      "c) použití spermií dárce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Při azoospermii, tedy nepřítomnosti spermií (pohyblivých či nepohyblivých) v ejakulátu, pomýšlíme na",
+    "answers": [
+      "a) stav po sterilizaci muže přerušením chámovodů",
+      "b) Klinenfelterův syndrom",
+      "c) vrozenou agenezi ductus deferens při cystické fibróze",
+      "d) pozánětlivou oboustrannou obstrukci vývodných cest či nadvarlete"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) stav po sterilizaci muže přerušením chámovodů",
+      "b) Klinenfelterův syndrom",
+      "c) vrozenou agenezi ductus deferens při cystické fibróze",
+      "d) pozánětlivou oboustrannou obstrukci vývodných cest či nadvarlete"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Řešením azoospermie je",
+    "answers": [
+      "a) použití spermií dárce",
+      "b) chirurgické získání spermií z varlete s následnou intracytoplazmatickou injekcí spermie do oocytu",
+      "c) chirurgické získání spermií z nadvarlete s následnou intracytoplazmatickou injekcí spermie do oocytu",
+      "d) adopce dítěte"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) použití spermií dárce",
+      "b) chirurgické získání spermií z varlete s následnou intracytoplazmatickou injekcí spermie do oocytu",
+      "c) chirurgické získání spermií z nadvarlete s následnou intracytoplazmatickou injekcí spermie do oocytu",
+      "d) adopce dítěte"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. К definitivnímu posouzení spermiogramu potřebujeme jeho vyšetření provést",
+    "answers": [
+      "a) jednou",
+      "b) dvakrát",
+      "c) dvakrát, a pokud se nálezy výrazně liší, pak ještě potřetí",
+      "d) při jednoznačné normospermii jednou"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) dvakrát, a pokud se nálezy výrazně liší, pak ještě potřetí",
+      "d) při jednoznačné normospermii jednou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Vaginismus bránící pohlavnímu styku, a způsobující proto sterilitu, léčíme",
+    "answers": [
+      "a) psychoterapií sexuologem",
+      "b) injekcemi folikulostimulačního hormonu",
+      "c) inseminací",
+      "d) souloží v celkové narkóze ženy"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) psychoterapií sexuologem", "c) inseminací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Neplodnost způsobenou ovariálním selháním (vyčerpáním folikulů v ovariích) léčíme",
+    "answers": [
+      "a) použitím spermií dárce",
+      "b) použitím oocytů dárkyně",
+      "c) podáním hormonální substituční léčby",
+      "d) podáváním GnRH agonistů a antagonistů"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) použitím oocytů dárkyně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Lékař zabývající se neplodností se neobejde bez",
+    "answers": [
+      "a) ultrazvukového vyšetření",
+      "b) vyšetření mikrobního poševního obrazu",
+      "c) měření bazálních teplot",
+      "d) stanovém koncentrace hormonů"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) ultrazvukového vyšetření",
+      "d) stanovém koncentrace hormonů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Bazální teplotu, tedy teplotu za bazálních podmínek - ráno, než žena vstane, můžeme měřit",
+    "answers": ["a) v pochvě", "b) v konečníku", "c) v ústech", "d) v nose"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) v pochvě", "b) v konečníku", "c) v ústech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Nedostatečnost luteální fáze cyklu (tedy nedostatečnou koncentraci progesteronu) můžeme léčit",
+    "answers": [
+      "a) podáním antiestrogenů od 3 či od 4 či od 5 dne cyklu, většinou po dobu 5 dní",
+      "b) podáním choriového gonadotropinu 4-5 dni po ovulaci",
+      "c) podáním progesteronu od ovulace",
+      "d) podáním folikulostimulačího hormonu během folikulámí fáze cyklu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) podáním antiestrogenů od 3 či od 4 či od 5 dne cyklu, většinou po dobu 5 dní",
+      "b) podáním choriového gonadotropinu 4-5 dni po ovulaci",
+      "c) podáním progesteronu od ovulace",
+      "d) podáním folikulostimulačího hormonu během folikulámí fáze cyklu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Cystická fibróza je způsobena poruchou tvorby proteinu CFTR v důsledku bodové mutace genu pro tento protein. Amplifikační metody DNA stanovují vždy jednu konkrétní mutaci daného genu. Protože v populaci je možných mutací genu pro CFTR mnoho, nelze analyzovat každého pacienta na všechny možné mutace CFTR. Běžně se provádí testování na",
+    "answers": [
+      "a) 1 nejčastější mutaci",
+      "b) 2 nejčastější mutace",
+      "c) 10-40 nejčastějších mutací",
+      "d) 200 nejčastějších mutací"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) 10-40 nejčastějších mutací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. GnRH agonisté se neaplikují",
+    "answers": [
+      "a) v krátkém protokolu",
+      "b) v dlouhém protokolu",
+      "c) v ultrakrátkém protokolu",
+      "d) v protokolu CC/hMG (clomifencitrát/humánní menopauzální gonadotropin)"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) v protokolu CC/hMG (clomifencitrát/humánní menopauzální gonadotropin)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Útlum hypofýzy při podávání GnRH agonistů se projevuje",
+    "answers": [
+      "a) nízkými koncentracemi FSH a LH",
+      "b) nízkým endometriem (do 4mm) při vaginálním ultrazvukovém vyšetření",
+      "c) nízkými sérovými koncentracemi estradiolu",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) nízkými koncentracemi FSH a LH",
+      "b) nízkým endometriem (do 4mm) při vaginálním ultrazvukovém vyšetření",
+      "c) nízkými sérovými koncentracemi estradiolu",
+      "d) všechny možnosti jsou správné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Při kontrolované ovariální stimulaci začínáme s podáváním FSH/hMG",
+    "answers": [
+      "a) ve velmi časné folikulámí fázi",
+      "b) v období očekávané ovulace",
+      "c) rané luteální fázi",
+      "d) před odběrem oocytů"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) ve velmi časné folikulámí fázi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Smyslem podání hCG před odběrem oocytů je",
+    "answers": [
+      "a) nahradit spontánní preovulačm vyplavení LH, a tím dokončit maturaci oocytů",
+      "b) ukončit růst folikulu",
+      "c) zamezit předčasné luteinizaci",
+      "d) zamezit předčasnému puknutí folikulu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) nahradit spontánní preovulačm vyplavení LH, a tím dokončit maturaci oocytů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. U sterilní pacientky s amenoreou, nereagující na progesteronový test, můžeme nalézt",
+    "answers": [
+      "a) Ashermannův syndrom",
+      "b) předčasné selhání ovarií",
+      "c) hypogonadotropní stav",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) Ashermannův syndrom",
+      "b) předčasné selhání ovarií",
+      "c) hypogonadotropní stav",
+      "d) všechny možnosti jsou správné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Při subklinické hypotyreóze nacházíme",
+    "answers": [
+      "a) zvýšené hodnoty TSH",
+      "b) normální hodnoty fT4",
+      "c) často hyperprolaktinémii",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) zvýšené hodnoty TSH",
+      "b) normální hodnoty fT4",
+      "c) často hyperprolaktinémii",
+      "d) všechny možnosti jsou správné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Koncentrace estradiolu ve folikulární fázi kontrolované ovariální stimulace v průběhu podávání FSH/hMG",
+    "answers": [
+      "a) stoupají",
+      "b) klesají",
+      "c) udržují se na konstantní hladině",
+      "d) po přechodném vzestupu klesají"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) stoupají"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Cílem podávání GnRH antagonistů při kontrolované ovariální hyperstimulacije",
+    "answers": [
+      "a) zvýšit koncentrace FSH a LH",
+      "b) zabránit vyplavení endogenního LH",
+      "c) zvýšit koncentrace estradiolu",
+      "d) zvýšit koncentrace progesteronu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) zabránit vyplavení endogenního LH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. hMG používaný při stimulaci ovariíje",
+    "answers": [
+      "a) laboratorně upravený hCG",
+      "b) směs FSH a LH v různém poměru udávaném výrobcem",
+      "c) směs FSH, LH a estrogenů",
+      "d) v podstatě čistý FSH se zanedbatelnou příměsí ostatních gonadotropinů"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) směs FSH a LH v různém poměru udávaném výrobcem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Indikací к intrauterinní inseminaci spermatem manžela je",
+    "answers": [
+      "a) negativní postkoitální test",
+      "b) imunologická sterilita",
+      "c) oligoastenozoospermie mírného stupně nebo kolísavý spermiogram manžela",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) negativní postkoitální test",
+      "b) imunologická sterilita",
+      "c) oligoastenozoospermie mírného stupně nebo kolísavý spermiogram manžela",
+      "d) všechny možnosti jsou správné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Při nálezu zvýšených hodnot prolaktinu postupujeme následovně",
+    "answers": [
+      "a) doplníme anamnézu se zaměřením na užívané léky",
+      "b) vyšetříme TSH к vyloučení subklinické hypotyreózy",
+      "c) zopakujeme odběr s důrazem na to, aby byl proveden nejméně 3 hodiny po probuzení",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) doplníme anamnézu se zaměřením na užívané léky",
+      "b) vyšetříme TSH к vyloučení subklinické hypotyreózy",
+      "c) zopakujeme odběr s důrazem na to, aby byl proveden nejméně 3 hodiny po probuzení",
+      "d) všechny možnosti jsou správné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Efektivní léčebnou metodou u hypergonadotropní anovulace je",
+    "answers": [
+      "a) stimulace gonadotropiny",
+      "b) stimulace GnRH",
+      "c) stimulace antiestrogeny",
+      "d) IVF-ET s použitím darovaného oocytů"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) IVF-ET s použitím darovaného oocytů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Při syndromu LUF (luteinizace neprasklého folikulu) koncentrace progesteronu v luteální fázi",
+    "answers": [
+      "a) jsou abnormálně vysoké",
+      "b) jsou normální, spíše při dolní hranici normy",
+      "c) svědčí pro anovulaci",
+      "d) jsou naprosto neměřitelné"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) jsou normální, spíše při dolní hranici normy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Základním léčebným opatřením při ovariálním hyperstimulačním syndromu (OHSS) mírného stupně je",
+    "answers": [
+      "a) podávání kortikoidů",
+      "b) podávání analgetik",
+      "c) vyčkávací postup s kontrolou klinického stavu a laboratorních hodnot",
+      "d) podávám vysokých dávek progesteronu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) vyčkávací postup s kontrolou klinického stavu a laboratorních hodnot"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Kryokonzervace embryí se může provádět po",
+    "answers": [
+      "a) jednodenní kultivaci",
+      "b) třídenní kultivaci",
+      "c) pětidenní kultivaci",
+      "d) desetidenní kultivaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) jednodenní kultivaci",
+      "b) třídenní kultivaci",
+      "c) pětidenní kultivaci"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Třetí den po oplozeníje velikost 8buněčného embrya u konkrétní ženy",
+    "answers": [
+      "a) stejná jako velikost oocytů",
+      "b) 2krát větší než oocyt",
+      "c) 3krát větší než oocyt",
+      "d) 4krát větší než oocyt"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) stejná jako velikost oocytů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Současným zlatým standardem kontrolované ovariální stimulace v programu IVF-ET je",
+    "answers": [
+      "a) ultrakrátký protokol s GnRH",
+      "b) krátký protokol s GnRH",
+      "c) dlouhý protokol s GnRH",
+      "d) protokol CC/hMG (clomifencitrát/humánní menopauzální gonadotropin)"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) dlouhý protokol s GnRH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Metoda ICSI (intracytoplazmatická injekce spermie) není indikovaná",
+    "answers": [
+      "a) u závažného andrologického faktoru",
+      "b) při selhání fertilizace v předchozím cyklu",
+      "c) při imunologické sterilitě",
+      "d) při tubámí sterilitě"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) při tubámí sterilitě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Embrya se obvykle kultivují v médiu",
+    "answers": [
+      "a) ve skleněných pejetách",
+      "b) ve speciálních 10ml zkumavkách",
+      "c) v kapkách pod parafinovým olejem",
+      "d) v čtyřdůlkových plastových miskách"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) v kapkách pod parafinovým olejem",
+      "d) v čtyřdůlkových plastových miskách"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Podání GnRH agonistů způsobuje",
+    "answers": [
+      "a) vzestup inzulínu",
+      "b) vzestup počtu erytrocytů",
+      "c) rychlý pokles koncentrace FSH i LH",
+      "d) po počátečním vzestupu pokles FSH i LH"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) po počátečním vzestupu pokles FSH i LH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Klomifencitrát nezpůsobuje",
+    "answers": [
+      "a) vyřazení negativní zpětné vazby ovarium-hypofýza",
+      "b) zvýšený růst endometria",
+      "c) přechodný vzestup FSH",
+      "d) přechodný vzestup LH"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) zvýšený růst endometria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Optimální počet preovulačmch folikulů na ovariích stimulovaných v programu IVF-ET/ICSI je",
+    "answers": ["a) 1", "b) 3", "c) 10-20", "d) 30"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) 10-20"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Monitorování léčebných cyklů v programu IVF-ET/ICSI se provádí",
+    "answers": [
+      "a) sledováním růstu folikulů ultrazvukovou folikulometrií a/nebo sledováním koncentrace hormonů",
+      "b) s cílem naplánovat optimální čas pro podání hCG a odběr oocytů",
+      "c) s cílem event, upravit dávku podávaného FSH/hMG",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) sledováním růstu folikulů ultrazvukovou folikulometrií a/nebo sledováním koncentrace hormonů",
+      "b) s cílem naplánovat optimální čas pro podání hCG a odběr oocytů",
+      "c) s cílem event, upravit dávku podávaného FSH/hMG",
+      "d) všechny možnosti jsou správné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Odběr folikulámí tekutiny provádíme",
+    "answers": [
+      "a) ihned po podání hCG",
+      "b) za 2 hodiny po podání hCG",
+      "c) za 34—36 hodin po podání hCG",
+      "d) za 2 dny po podání hCG"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) za 34—36 hodin po podání hCG"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Indukce ovulace u hypogonadotropní anovulace se provádí",
+    "answers": [
+      "a) podáváním antiestrogenů",
+      "b) podáváním hMG",
+      "c) pouze podáváním FSH",
+      "d) podáváním tamoxifenu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) podáváním hMG"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Prvojádra - projev oplození oocytů, uvidíme pod mikroskopem po přidání spermií za",
+    "answers": ["a) 2 hodiny", "b) 16 hodin", "c) 20 hodin", "d) 40 hodin"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) 16 hodin", "c) 20 hodin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Embrya zavádíme do dělohy, proto mimoděložní těhotenství",
+    "answers": [
+      "a) nemůže nikdy vzniknout",
+      "b) může vzniknout v 3-5 % případů",
+      "c) může vzniknout až v 50 % případů",
+      "d) je možností při pozitivním těhotenském testu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) může vzniknout v 3-5 % případů",
+      "d) je možností při pozitivním těhotenském testu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Embryotransfer se může provést v určitý den vývoje embrya, např",
+    "answers": [
+      "a) 2 den od oplození",
+      "b) 5 den od oplození",
+      "c) 9 den od oplození",
+      "d) 1 den od oplození"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) 2 den od oplození", "b) 5 den od oplození"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Při koncentraci spermií 3 miliony spermií na 1 ml, může u pacienta jít o",
+    "answers": [
+      "a) normozoospermii",
+      "b) oligozoospermii",
+      "c) oligoastenozoospermii",
+      "d) oligoastenoteratozoospermii"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) oligozoospermii",
+      "c) oligoastenozoospermii",
+      "d) oligoastenoteratozoospermii"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Chirurgické získání spermií se nazývá",
+    "answers": ["a) TESE", "b) MESA", "c) PESA", "d) MFF"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) TESE", "b) MESA", "c) PESA"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Dárce spermií podstupuje řadu vyšetření, např.",
+    "answers": [
+      "a) na HIV",
+      "b) určení karyotypu",
+      "c) BWR",
+      "d) echokardiografii"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) na HIV", "b) určení karyotypu", "c) BWR"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Při výběru dárce pro konkrétní pár dbáme na to, aby",
+    "answers": [
+      "a) žena Rh negativní dostala spermie od dárce Rh negativního",
+      "b) žena Rh negativní dostala spermie od dárce Rh pozitivního",
+      "c) pokud již mají jedno dítě po inseminaci darovaným spermatem, abychom vybrali stejného dárce",
+      "d) pokud již mají jedno dítě po inseminaci darovaným spermatem, abychom vybrali jiného dárce"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) žena Rh negativní dostala spermie od dárce Rh negativního",
+      "b) žena Rh negativní dostala spermie od dárce Rh pozitivního",
+      "c) pokud již mají jedno dítě po inseminaci darovaným spermatem, abychom vybrali stejného dárce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Přijmout darované oocyty může žena, u níž",
+    "answers": [
+      "a) činnost vaječníků samovolně vyhasla",
+      "b) vaječníkyjsou vrozeně neschopné tvořit oocyty",
+      "c) vaječníky byly operativně odstraněny",
+      "d) nechce sama podstoupit hormonální stimulaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) činnost vaječníků samovolně vyhasla",
+      "b) vaječníkyjsou vrozeně neschopné tvořit oocyty",
+      "c) vaječníky byly operativně odstraněny"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Do dělohy ženy při embryotransferu zavádíme po individuálním zhodnocení řady faktorů",
+    "answers": ["a) 1 embryo", "b) 2 embrya", "c) 4 embrya", "d) 5 embryí"],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) 1 embryo", "b) 2 embrya"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Pokud pár již nechce mít další děti a má kryokonzervovaná embrya, může se rozhodnout pro jejich",
+    "answers": [
+      "a) darování",
+      "b) zničení",
+      "c) uchování po dobu 50 let",
+      "d) další uchovám po dobu 100 let"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) darování", "b) zničení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Metodou FISH lze stanovit v rámci preimplantační genetické diagnostiky",
+    "answers": [
+      "a) bodovou mutaci DNA, která způsobuje konkrétní chorobu",
+      "b) pohlaví embrya",
+      "c) trisomii chromosomu 21",
+      "d) monosomii chromosomu 21"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) pohlaví embrya",
+      "c) trisomii chromosomu 21",
+      "d) monosomii chromosomu 21"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Metodou PCR lze stanovit v rámci preimplantační genetické diagnostiky",
+    "answers": [
+      "a) bodovou mutaci DNA, která způsobuje konkrétní chorobu",
+      "b) všechny choroby, které by u dítěte mohly nastat",
+      "c) pohlaví embrya",
+      "d) trisomii 21 chromosomu"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) bodovou mutaci DNA, která způsobuje konkrétní chorobu",
+      "c) pohlaví embrya",
+      "d) trisomii 21 chromosomu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. GnRH agonisté se neaplikují",
+    "answers": [
+      "a) v krátkém protokolu",
+      "b) v dlouhém protokolu",
+      "c) v ultrakrátkém protokolu",
+      "d) v protokolu CC/hMG (clomifencitrát/humánní menopauzální gonadotropin)"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) v protokolu CC/hMG (clomifencitrát/humánní menopauzální gonadotropin)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Pro příznivý vývoj embrya je potřeba běžnou atmosféru v inkubátoru obohatit o",
+    "answers": [
+      "a) 5-6 % kysličníku uhelnatého",
+      "b) 5-6 % kysličníku uhličitého",
+      "c) 5-6% vzácných plynů",
+      "d) 5-6 % kyslíku"
+    ],
+    "book": ["Živný"],
+    "topic": ["12. Sterilita a asistovaná reprodukce. II ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) 5-6 % kysličníku uhličitého"],
+    "description": [""],
+    "img": [""]
   }
 ]
