@@ -300,11 +300,7 @@ d) jen při jeho makroskopickém postižení
 `;
 
   const answers = `
-  1b,c,d 2a 3a,b,c 4b,c 5b,c 6a,b 7b 8a,c 9c,d
-  10c,d 11a,b,c 12a,b,c,d 13a,b 14d 15a 16c 17a,b,c,d 18a,b,c,d 19d
-  20a,b 21a,b,c 22a 23b,c 24b 25d 26c,d 27b 28a,c,d 29b
-  30b,d 31a,b,c,d 32a,b,c,d 33c,d 34b 35a,b,c,d 36a 37a 38c 39b,c,d
-  40c 41b,d 42a
+ GOTOWO
   `;
   const correctNewAnswers = answers.split(' ');
   //   console.log(correctNewAnswers);

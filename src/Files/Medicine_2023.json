@@ -11595,7 +11595,22 @@
     "question": "739. Indikátory cholestázy / Pro cholestázu je charakteristická zvýšená hladina? Гастроэнтерология",
     "answers": [
       "hyperbilerubinémie",
-      "alkalická fosfatáza (ALP) a gama-glutamyltransferáza (GMT)",
+      "alkalická fosfatáza (ALP) a gama-glutamyltransferáza (GMT)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "hyperbilerubinémie",
+      "alkalická fosfatáza (ALP) a gama-glutamyltransferáza (GMT)"
+    ],
+    "description": [""],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczNGMQrtHv2iiliGgVBq6ppnDzrSOdJWs2xf7cDZ0qLJOq6eJoGDX_zrwIqulSCb6DqTxKSNupZKXVfg3HjWODKuHWbcf4aLO5bP5DPfq2IjPFXc52L9P5IiBQoOR3Pj9rTyvVuG2PpyP4zWsDNIaoJz=w391-h352-s-no-gm?authuser=0"
+    ]
+  },
+  {
+    "question": "739.  K labolatornimu nalezu cholestazy nepatri",
+    "answers": [
       "zvýšení ALP",
       "zvýšení nekonjugovaného bilirubinu",
       "zvýšení konjugovaného bilirubinu",
@@ -11603,15 +11618,9 @@
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
-    "correctAnswers": [
-      "hyperbilerubinémie",
-      "alkalická fosfatáza (ALP) a gama-glutamyltransferáza (GMT)",
-      "zvýšení nekonjugovaného bilirubinu"
-    ],
+    "correctAnswers": ["zvýšení nekonjugovaného bilirubinu"],
     "description": [""],
-    "img": [
-      "https://lh3.googleusercontent.com/pw/AP1GczNGMQrtHv2iiliGgVBq6ppnDzrSOdJWs2xf7cDZ0qLJOq6eJoGDX_zrwIqulSCb6DqTxKSNupZKXVfg3HjWODKuHWbcf4aLO5bP5DPfq2IjPFXc52L9P5IiBQoOR3Pj9rTyvVuG2PpyP4zWsDNIaoJz=w391-h352-s-no-gm?authuser=0"
-    ]
+    "img": [""]
   },
 
   {
