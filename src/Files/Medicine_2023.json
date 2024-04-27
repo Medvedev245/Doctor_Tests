@@ -19752,25 +19752,11 @@
       "destributivní",
       "kardiogenní",
       "hypovolemický",
-      "refraktorný . !!!!",
-      "myom dělohy",
-      "těhotenství a porody vaginalní",
-      "vysoký intraabdominální tlak",
-      "hluboký a dlouhodobý zánět orgánů malé pánve",
-      "-Defektní pojivová tkáň -familiární výskyt, Marfanův syndrom, syndrom kloubní hypermobility .",
-      "-deficit estrogenu -postmenopauza",
-      "věk, z věkem incendence stoupa., menopauza",
-      "stav po předchozich hysterektomie - bude sestup klenby poševní",
-      "stav poškození závěsných a podpůrných struktur pánevního dna",
-      "musculus levator ani – hlavní indikator změny tlaku v dutině břišní, nasledně u panvě. Při poruše ho funkcí může dojit k prolapsu."
+      "refraktorný . !!!!"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
-    "correctAnswers": [
-      "restrikční",
-      "těhotenství a porody vaginalní",
-      "vysoký intraabdominální tlak"
-    ],
+    "correctAnswers": ["restrikční", "refraktorný . !!!!"],
     "description": [
       "Z hlediska patogeneze rozlišujeme čtyři hlavní formy šoku: hypovolemický šok příčiny: hemoragický šok (ztráta alespoň 20 % cirkulující krve) a non-hemoragický hypovolemický šok (zvracení, intenzivní průjmy, únik tekutin do třetího prostoru například při pankreatitidě nebo ileu) hemodynamika: pokles CŽT, pokles srdečního výdeje, zvýšení periferní cévní rezistence (pokles srdečního výdeje se zvýšením periferní cévní rezistence vede ke snížení pulzního tlaku), snížení SvO2 kardiogenní šok příčiny: primární porucha kontraktility (např. AIM, kontuze), mechanická abnormalita (např. akutní mitrální regurgitace) nebo hemodynamicky významná arytmie (bradyarytmie i tachyarytmie při překonání kritické frekvence) hemodynamika: vzestup CŽT, pokles srdečního výdeje, zvýšení periferní cévní rezistence, snížení SvO2 obstrukční šok příčiny: tenzní pneumotorax, plicní embolizace, srdeční tamponáda hemodynamika: vzestup CŽT (ale může být snížení PAWP), snížení srdečního výdeje, zvýšení periferní cévní rezistence, snížení SvO2 distribuční šok příčiny: septický šok, anafylaxe, neurogenní šok hemodynamika: pokles CŽT, zvýšení srdečního výdeje, snížení periferní cévní rezistence, zvýšení SvO2 (pro výraznou zkratovou cirkulaci)"
     ],
@@ -22062,37 +22048,32 @@
       "pozorování za klinikou, laboratoř (zvýšení Alaninaminotransferázy, Aspartátaminotransferáza)",
       "ERCP",
       "PCT",
-      "závazná komplikace, musíme okamžitě odstranit",
-      "časně k cyanóze",
-      "k trikuspidalizaci",
-      "k plicní hypertenzi",
-      "k zatížení pravé komory",
-      "Umělá plicní ventilace",
-      "dlouhodobé oteplování",
-      "Bikarbonáty (NaHCO3)",
-      "fyziologicky roztok *solný roztok",
-      "První 1-4 dny od začátku menstruace",
-      "Před ovulací",
-      "Na konci cyklu",
-      "tohle je sama menstruace",
-      "antihypertenziva",
-      "dehydratace",
-      "diuretika"
+      "závazná komplikace, musíme okamžitě odstranit"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
     "correctAnswers": [
       "okamžitě revize",
-      "závazná komplikace, musíme okamžitě odstranit",
-      "k trikuspidalizaci",
-      "Bikarbonáty (NaHCO3)",
-      "Před ovulací",
-      "antihypertenziva",
-      "dehydratace",
-      "diuretika"
+      "závazná komplikace, musíme okamžitě odstranit"
     ],
     "description": [
       "Nejčastěji se objevuje krvácení u pacientů s poruchami hemokoagulace, nebo může být také důsledkem nedostatečného stavění krvácení během operace. Krvácení se může projevit po skončení operace při vzestupu krevního tlaku nebo narušením cévní stěny. Pod kůží se může vytvořit podkožní hematom. Při zjištění krvácení hned po operačním výkonu se provede mírná komprese sterilními čtverci, aplikace sáčku s pískem. Při tepenném krvácení se provádí revize rány, vypuštění hematomu a drenáž rány. Důležité je důsledné stavění krvácení během operačního výkonu a předoperační prevence krvácivých stavů."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "1400. U defektu septa síní NEdochází (Klener) Терапия",
+    "answers": [
+      "časně k cyanóze",
+      "k trikuspidalizaci",
+      "k plicní hypertenzi",
+      "k zatížení pravé komory"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["k trikuspidalizaci"],
+    "description": [
+      "V dětství obvykle bez obtíží. V dospělosti se může (při velkém zkratu) objevit snížená výkonnost, poruchy rytmu (hlavně flutter síní) zvětšení síní, zvětšení pravé komory (až srdeční selhání). Při zvýšení žilního tlaku (např. porodem) může dojít k paradoxní embolizaci (přes defekt do velkého oběhu). Wikiscripta. "
     ],
     "img": [""]
   },
