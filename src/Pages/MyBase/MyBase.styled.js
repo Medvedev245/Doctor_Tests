@@ -36,7 +36,6 @@ export const Item = styled.li`
 `;
 
 export const TopicContainer = styled.div`
-  /* background-color: var(--iq-primary); */
   position: relative;
   padding: 10px 15px;
   display: flex;
@@ -44,7 +43,6 @@ export const TopicContainer = styled.div`
   justify-content: space-between;
   gap: 5px;
   margin-bottom: 10px;
-  /* background-color: var(--iq-primary); */
 
   &:after {
     content: '';
@@ -99,7 +97,6 @@ export const Element = styled.li`
 `;
 
 export const ButtonContainer = styled.div`
-  /* height: 60px; */
   margin: 0 15px;
   display: flex;
   justify-content: space-around;
@@ -107,7 +104,6 @@ export const ButtonContainer = styled.div`
 `;
 
 export const ButtonDescr = styled.button`
-  /* border-radius: 5px; */
   background: none;
   display: flex;
   border: none;
