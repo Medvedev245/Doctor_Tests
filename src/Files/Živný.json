@@ -29802,5 +29802,4005 @@
     "correctAnswers": ["a) infrakolická a suprakolická vždy, kdy je to možné"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Při unipolární koagulaci je vysokofrekvenční proud veden",
+    "answers": [
+      "a) pouze v oblasti pracovního zakončení nástroje",
+      "b) mezi pracovní částí nástroje a neutrální elektrodou",
+      "c) mezi pracovní částí nástroje a povrchem těla",
+      "d) tělem není veden žádný proud"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) mezi pracovní částí nástroje a neutrální elektrodou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Při bipolární koagulaci je vysokofrekvenční proud veden",
+    "answers": [
+      "a) v oblasti pracovního zakončení nástroje",
+      "b) mezi pracovní částí nástroje a neutrální elektrodou",
+      "c) mezi pracovní částí nástroje a povrchem těla",
+      "d) tělem není veden žádný proud"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) v oblasti pracovního zakončení nástroje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Při endokoagulaci je vysokofrekvenční proud veden",
+    "answers": [
+      "a) v oblasti pracovního zakončení nástroje",
+      "b) mezi pracovní částí nástroje a neutrální elektrodou",
+      "c) mezi pracovní částí nástroje a povrchem těla",
+      "d) tělem není veden žádný proud"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) tělem není veden žádný proud"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Při užití harmonického skalpelu je vysokofrekvenční proud veden",
+    "answers": [
+      "a) v oblasti pracovního zakončení nástroje",
+      "b) mezi pracovní částí nástroje a neutrální elektrodou",
+      "c) mezi pracovní částí nástroje a povrchem těla",
+      "d) tělem není veden žádný proud"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) tělem není veden žádný proud"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Mezi endoskopické metody nepatří",
+    "answers": [
+      "a) laparoskopie",
+      "b) hysteroskopie",
+      "c) kontrastní sonografie (SIS -sáhne infusion sonography)",
+      "d) kuldoskopie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) kontrastní sonografie (SIS -sáhne infusion sonography)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Absolutní kontraindikací laparoskopie je",
+    "answers": [
+      "a) předchozí císařský řez",
+      "b) předchozí operace přístupem dolní střední laparotomii",
+      "c) endometrióza stadia III nebo IV",
+      "d) ileus"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) ileus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Absolutní kontraindikací laparoskopie je",
+    "answers": [
+      "a) difúzní peritonitida",
+      "b) cirkumskriptní pelveoperitonitida",
+      "c) zánětlivý adnextumor",
+      "d) předchozí pánevní zánět(y)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) difúzní peritonitida"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Invazivita operačního přístupu se snižuje v pořadí",
+    "answers": [
+      "a) laparotomie, laparoskopie, vaginální přístup, hysteroskopie",
+      "b) laparotomie, vaginální přístup, laparoskopie, hysteroskopie",
+      "c) laparotomie, hysteroskopie, vaginální přístup, laparoskopie",
+      "d) vaginální přístup, laparotomie, laparoskopie, hysteroskopie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) laparotomie, vaginální přístup, laparoskopie, hysteroskopie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Při hemoperitoneu spojeném s nestabilním klinickým stavem pacientky (hemoragickým šokem) a při podezření na rupturu vejcovodu při ektopické graviditě provádíme",
+    "answers": [
+      "a) laparoskopii",
+      "b) punkci Douglasova prostoru",
+      "c) dolní střední laparotomii",
+      "d) laparotomii sec. Pfannenstiel"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) dolní střední laparotomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. К vytvoření prostoru v dutině peritoneální se nejčastěji používá",
+    "answers": ["a) CO2", "b) N2O", "c) O2", "d) vzduch"],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) CO2"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Ke stavění krvácení při laparoskopii můžeme použít",
+    "answers": [
+      "a) unipolární koagulaci",
+      "b) bipolární koagulaci",
+      "c) harmonický skalpel",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Ke stavění krvácení při laparoskopii můžeme použít",
+    "answers": [
+      "a) unipolární koagulaci",
+      "b) bipolární koagulaci",
+      "c) klip",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Ke stavění krvácení při laparoskopii můžeme použít",
+    "answers": [
+      "a) unipolární koagulaci",
+      "b) endoligaturu",
+      "c) exoligaturu",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. К laparoskopickým ligačním technikám patří",
+    "answers": [
+      "a) endoligatura",
+      "b) exoligatura",
+      "c) ligační klička (loop)",
+      "d) všechny výše uvedené"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny výše uvedené"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. К vybavení tkáně z dutiny peritoneální můžeme použít",
+    "answers": [
+      "a) zadní kolpotomii",
+      "b) morcelátor",
+      "c) »endobag«",
+      "d) všechny výše uvedené"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny výše uvedené"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Absolutní kontraindikací laparoskopie je",
+    "answers": [
+      "a) nestabilní klinický stav pacientky v souvislosti s hemoperitoneem",
+      "b) předchozí dolní střední laparotomie",
+      "c) předchozí Pfannenstielův řez",
+      "d) bolest v podbřišku při ultrazvukovém nálezu cysty o průměru větším než 8 cm"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) nestabilní klinický stav pacientky v souvislosti s hemoperitoneem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Pro laparoskopickou pánevní chirurgii preferuje anesteziolog",
+    "answers": [
+      "a) maximální Trendelenburgovu polohu",
+      "b) maximální intraperitoneální tlak pneumoperitonea",
+      "c) maximální intraperitoneální objem pneumoperitonea",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) žádná odpověď není správná"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Při zakládání pneumoperitonea při laparoskopiivolíme průtok distenčního média",
+    "answers": ["a) 2ml/min", "b) 20ml/min", "c) 200ml/min", "d) 2000ml/min"],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) 2000ml/min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Maximální intraperitoneální tlak v průběhu laparoskopie limitujeme",
+    "answers": [
+      "a) 0,12mm Hg",
+      "b) 12mmHg",
+      "c) 120 mmHg",
+      "d) všechny odpovědi jsou špatné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 12mmHg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. К vytvoření pneumoperitonea používáme při laparoskopii nejčastěji",
+    "answers": ["a) vzduch", "b) O2", "c) CO2", "d) N2Ó"],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) CO2"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Laparoskopicky můžeme provést",
+    "answers": [
+      "a) supravaginální amputaci dělohy",
+      "b) totální laparoskopickou hysterektomii",
+      "c) rozšířenou hysterektomii s pánevní lymfadenektomií",
+      "d) všechny výše jmenované operace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny výše jmenované operace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Laparoskopicky nelze provést",
+    "answers": [
+      "a) laparoskopicky asistovanou vaginální hysterektomii",
+      "b) totální laparoskopickou hysterektomii",
+      "c) rozšířenou hysterektomii s pánevní lymfadenektomií",
+      "d) laparoskopicky můžeme provést všechny výše uvedené operace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) laparoskopicky asistovanou vaginální hysterektomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Tkáň z peritoneální dutiny můžeme odstranit",
+    "answers": [
+      "a) minilaparotomií",
+      "b) v »endobagu«",
+      "c) zadní kolpotomii",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Kontraindikací laparoskopie není",
+    "answers": [
+      "a) nestabilní klinický stav pacientky",
+      "b) pánevní zánět",
+      "c) stav pacientky, kdy netoleruje Trendelenburgovu polohu",
+      "d) závažné interní onemocnění, kdy vytvoření pneumoperitonea je rizikem pro pacientku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) pánevní zánět"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Absolutní kontraindikací laparoskopie je",
+    "answers": [
+      "a) peritonitida",
+      "b) cirkumskriptní pelveoperitonitida",
+      "c) adnexální tumor o průměru více než 10 cm",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) peritonitida"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Absolutní kontraindikací laparoskopie je",
+    "answers": [
+      "a) nestabilní stav pacientky v souvislosti s hemoperitoneem",
+      "b) difúzní peritonitida",
+      "c) ileus",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Emfyzém omenta po arteficiální insuflaci CO2 při zakládání kapnoperitonea řešíme",
+    "answers": [
+      "a) laparotomií a omentektomií",
+      "b) laparoskopii s kontrolou krvácení a následným ukončením výkonu",
+      "c) laparoskopii a dokončením výkonu při dobré viditelnosti v operačním poli",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) laparoskopii a dokončením výkonu při dobré viditelnosti v operačním poli"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Před laparoskopickou sterilizací vyžadujeme",
+    "answers": [
+      "a) předoperační interní vyšetření jako před laparotomií",
+      "b) pouze předoperační konzultaci pacientky s anesteziologem",
+      "c) pouze pečlivou negativní anamnézu",
+      "d) pouze zhodnocení EKG, krevního obrazu a nálezu v moči"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) předoperační interní vyšetření jako před laparotomií"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Před plánovanou hysteroskopií a laparoskopii z indikace sterility",
+    "answers": [
+      "a) nevyžadujeme žádné kultivační vyšetření",
+      "b) pouze kultivaci z pochvy",
+      "c) pouze kultivaci z děložního hrdla",
+      "d) kultivaci z pochvy a děložního hrdla"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) kultivaci z pochvy a děložního hrdla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Laparoskop zavádíme do peritoneální dutiny nejčastěji",
+    "answers": [
+      "a) v oblasti pupku",
+      "b) v oblasti nad pupkem",
+      "c) v pravém hypogastriu",
+      "d) v levém hypogastriu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) v oblasti pupku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Při gynekologické laparoskopii primárně vizualizujeme",
+    "answers": [
+      "a) oblast pánve",
+      "b) apendix",
+      "c) podbránični oblast",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Vyšetřovací postup při suspekci na ektopickou graviditu u pacientky v klinicky stabilním stavu začínáme",
+    "answers": [
+      "a) stanovením seriálu hCG a (opakovaným) vyšetřením ultrazvukem",
+      "b) laparoskopii",
+      "c) punkcí Douglasova prostoru jako nejméně invazivní techniky ke zjištění hemoperitonea",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) stanovením seriálu hCG a (opakovaným) vyšetřením ultrazvukem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Operační přístup к řešení ektopické gravidity, tubárního abortu u pacientky v klinicky stabilním stavu je",
+    "answers": [
+      "a) laparoskopii",
+      "b) dolní střední laparotomií",
+      "c) laparotomií podle Pfannenstiela",
+      "d) hysteroskopií"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) laparoskopii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Operační přístup к řešení ampulární ektopické gravidity u pacientky v klinicky stabilním stavu je",
+    "answers": [
+      "a) laparoskopii",
+      "b) dolní střední laparotomií",
+      "c) laparotomií podle Pfannenstiela",
+      "d) hysteroskopií"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) laparoskopii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Operační přístup к řešení istmické ektopické gravidity u pacientky v klinicky stabilním stavu je",
+    "answers": [
+      "a) laparoskopii",
+      "b) dolní střední laparotomií",
+      "c) laparotomií podle Pfannenstiela",
+      "d) hysteroskopií"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) laparoskopii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Při laparoskopické diagnóze istmické tubární gravidity provádíme laparoskopicky nejčastěji",
+    "answers": [
+      "a) odsátí produktu koncepce z vejcovodu s dalším sledováním koncentrace hCG",
+      "b) salpingektomii",
+      "c) incizi vejcovodu s odstraněním produktu koncepce revizí lumen vejcovodu",
+      "d) resekci postižené části vejcovodu a koagulaci jeho istmu v prevenci recidivy ektopické gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) salpingektomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Kontraindikací laparoskopie je",
+    "answers": [
+      "a) ektopická gravidita uložená intramurálně",
+      "b) ektopická gravidita uložená v istmu vejcovodu",
+      "c) ektopická gravidita uložená v ampule vejcovodu",
+      "d) žádná z výše uvedených možností není kontraindikací laparoskopie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) žádná z výše uvedených možností není kontraindikací laparoskopie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Při podezření na ektopickou graviditu u pacientky v šokovém stavu provedeme jako první",
+    "answers": [
+      "a) punkci Douglasova prostoru к ověření hemoperitonea",
+      "b) laparoskopii",
+      "c) dolní střední laparotomii",
+      "d) kanylaci venózního systému"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) kanylaci venózního systému"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Při podezření na ektopickou graviditu u pacientky v šokovém stavu provedeme jako první",
+    "answers": [
+      "a) ultrazvukové vyšetření a stanovení koncentrace hCG",
+      "b) laparoskopii",
+      "c) laparotomii",
+      "d) kanylaci venózního systému"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) kanylaci venózního systému"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Úspěšnost otěhotněníje nejvyšší po",
+    "answers": [
+      "a) peritubámí adheziolýze jemných adhezí",
+      "b) tubokornuální anastomóze",
+      "c) resekci vejcovodu a end-to-end anastomóze",
+      "d) oboustranné salpingektomii a asistované reprodukci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) peritubámí adheziolýze jemných adhezí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Průchodnost vejcovodů při laparoskopii zjišťujeme",
+    "answers": [
+      "a) chromopertubací",
+      "b) infúzní sononografií (SIS - saline infusion sonography)",
+      "c) hysterosalpingografií",
+      "d) podle celkového vzhledu vejcovodů, zvi. jejich ampulámích ústí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) chromopertubací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Při laparoskopii z indikace sterility a nálezu saktosalpingů provádíme nejčastěji",
+    "answers": [
+      "a) oboustrannou salpingektomii",
+      "b) resekci vejcovodů v postižené oblasti",
+      "c) fimbrioplastiku",
+      "d) dilataci distálních ústí vejcovodů a fimbrioplastiku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) oboustrannou salpingektomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Nejčastějším laparoskopickým nálezem při klinické diagnóze adnexitis chronica je",
+    "answers": [
+      "a) zánětlivý adnextumor",
+      "b) endometrióza",
+      "c) ovariální/parovariální cysta",
+      "d) ektopická gravidita"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) endometrióza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Funkční asymptomatickou ovariální cystu řešíme",
+    "answers": [
+      "a) observací",
+      "b) punkcí cysty",
+      "c) laparoskopickým přístupem",
+      "d) laparotomickým přístupem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) observací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Benigní ovariální cystický novotvar řešíme",
+    "answers": [
+      "a) dolní střední laparotomií",
+      "b) punkcí pod kontrolou ultrazvukem",
+      "c) laparoskopii",
+      "d) laparotomií podle Pfannenstiela"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) laparoskopii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Koetánní teratom ovaria primárně řešíme přístupem",
+    "answers": [
+      "a) dolní střední laparotomií",
+      "b) punkcí pod kontrolou ultrazvukem",
+      "c) laparoskopií",
+      "d) laparotomií podle Pfannenstiela"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) laparoskopií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Endometrioidní ovariální cystu primárně řešíme",
+    "answers": [
+      "a) laparoskopickou punkcí cysty s odsátím obsahu",
+      "b) laparoskopickou fenestrací cysty s koagulací spodiny cysty",
+      "c) enukleací cysty",
+      "d) ovarektomií"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) enukleací cysty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Při extrakci laparoskopií enukleovaného/ exstirpovaného koetánního teratomu preferujeme",
+    "answers": [
+      "a) odstranění zadní kolpotomií",
+      "b) odstranění laparotomií",
+      "c) morcelaci a opakované výplachy pánve do vymizení mastných skvm při opakovaných výplaších pánve",
+      "d) vyjmutí koetánního teratomu v endobagu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) vyjmutí koetánního teratomu v endobagu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Sterilizaci ženy můžeme provést",
+    "answers": [
+      "a) per laparotomiam",
+      "b) per laparoscopiam",
+      "c) per hysteroscopiam",
+      "d) všemi výše uvedenými způsoby"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všemi výše uvedenými způsoby"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Při laparoskopické sterilizaci ženy provádíme",
+    "answers": [
+      "a) přerušení lumen vejcovodů",
+      "b) oboustrannou ovarektomii",
+      "c) oboustrannou adnexektomii",
+      "d) všechny předchozí odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) přerušení lumen vejcovodů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Při laparoskopické tubární sterilizaci přerušujeme lumen vejcovodu v jeho části",
+    "answers": [
+      "a) intramurální",
+      "b) istmické",
+      "c) ampulámí",
+      "d) podle zvyku a volby operatéra"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) istmické"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Při cystickém adnexálním novotvaru předoperačně suspektním z malignity u žen s ukončenou repodukcí volíme",
+    "answers": [
+      "a) odběr pro cytologické vyšetření, laparoskopickou exstirpaci tumoru/adnexektomii, vyjmutí tkáně v »endobagu«, peroperačm histologické vyšetření",
+      "b) laparoskopickou punkci s okamžitým cytologickým vyšetřením",
+      "c) laparoskopickou punkci s okamžitým cytologickým vyšetřením, fenestrací cysty a inspekcí jejího lumen",
+      "d) primární »staging« laparotomii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) primární »staging« laparotomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Před laparoskopickou operační léčbou cystického ovariálního novotvaru, který není zcela zřejmě prostou funkční cystou, vyžadujeme",
+    "answers": [
+      "a) palpační gynekologické vyšetření",
+      "b) vyšetření tumorových markérů",
+      "c) vyšetření ultrazvukem",
+      "d) všechna předchozí vyšetření"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechna předchozí vyšetření"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Laparoskopicky lze provést",
+    "answers": [
+      "a) sampling« pánevních uzlin",
+      "b) pánevní lyfadenektomii",
+      "c) paraaortální lymfadenektomii",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Při laparoskopicky asistované vaginální hysterektomii neprovádíme nikdy",
+    "answers": [
+      "a) uvolnění intestina rekta ze srůstů",
+      "b) eliberaci adnex ze srůstů",
+      "c) sesunutí pliky močového měchýře",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) žádná odpověď není správná"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. К hysterektomii pro submukózní myom o průměru 3 cm můžeme provést",
+    "answers": [
+      "a) laparoskopicky asistovanou vaginální hysterektomii",
+      "b) vaginální hysterektomii",
+      "c) abdominálm hysterektomii",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. К hysterektomii pro myom o průměru 10 cm můžeme provést",
+    "answers": [
+      "a) laparoskopicky asistovanou vaginální hysterektomii",
+      "b) vaginální hysterektomii",
+      "c) totální laparoskopickou hysterektomii",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. U sterilní pacientky s myomem preferujeme",
+    "answers": [
+      "a) laparoskopickou supracervikální amputaci dělohy (CISH)",
+      "b) totální laparoskopickou hysterektomii (TLH)",
+      "c) laparoskopicky asistovanou hysterektomii (LAVH)",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) žádná odpověď není správná"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Do kolika stadií r-AFS klasifikace dělíme endometriózu podle laparoskopického nálezu",
+    "answers": ["a) do dvou", "b) do tří", "c) do čtyř", "d) do pěti"],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) do čtyř"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Laparoskopicky konzervativním přístupem neléčíme",
+    "answers": [
+      "a) endometriosis genitalis intema/adenomyosis",
+      "b) endometriosis genitalis extema ovarii",
+      "c) endometriosis genitalis extema tubae uterinae",
+      "d) endometriosis extragenitalis"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) endometriosis genitalis intema/adenomyosis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Allanův-Mastersův syndrom je příznakem",
+    "answers": [
+      "a) endometriózy",
+      "b) chronického pánevního zánětu",
+      "c) časného stadia karcinomu ovaria",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) endometriózy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Allanův-Mastersův syndrom je (jsou)",
+    "answers": [
+      "a) defekt pánevního peritonea",
+      "b) chronické změny po ruptuře pánevní cysty s vylitím jejího obsahu",
+      "c) endometrióza peritonea a močového měchýře",
+      "d) děloha dislokovaná srůsty vzniklými v souvislosti s endometriózou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) defekt pánevního peritonea"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Při laparoskopii nalézáme endometriózu nejčastěji na",
+    "answers": [
+      "a) ovariích",
+      "b) vejcovodech",
+      "c) sakrouterinních vazech",
+      "d) děloze"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) sakrouterinních vazech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Při pánevní bolesti nalézáme endometriózu nejčastěji na",
+    "answers": [
+      "a) ovariích",
+      "b) vejcovodech",
+      "c) sakrouterinních vazech",
+      "d) děloze"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) sakrouterinních vazech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Při sterilitě nalézáme endometriózu nejčastěji na",
+    "answers": [
+      "a) ovariích",
+      "b) vejcovodech",
+      "c) sakrouterinních vazech",
+      "d) děloze"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) ovariích"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Při dysmenoree je nejčastější endometriózou",
+    "answers": [
+      "a) endometrióza sakrouterinních vazů",
+      "b) endometriosis genitalis extema ovarii et tubae",
+      "c) endometriosis genitali intema/adenomyosis",
+      "d) endometrióza rektovaginálního septa"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) endometriosis genitali intema/adenomyosis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. V léčbě sterility v souvislosti s endometriózou je možná",
+    "answers": [
+      "a) asistovaná reprodukce",
+      "b) minimálně invazivní chirurgie",
+      "c) operační léčba přístupem laparotomií",
+      "d) všechny uvedené postupy jsou možné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny uvedené postupy jsou možné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Při dyspareunii s podezřením na endometriózu sakrouterinních vazů a rektovaginálního septa provádíme",
+    "answers": [
+      "a) eradikaci viditelných ložisek endometriózy a adhezí",
+      "b) eradikaci viditelných ložisek endometriózy a adhezí a laparoskopickou uterinní nervovou ablaci",
+      "c) eradikaci viditelných ložisek endometriózy a adhezí a laparoskopickou presakrální neurektomii",
+      "d) eradikaci viditelných ložisek endometriózy a adhezí, preparaci rektovaginálního septa s operační léčbou takto ozřejměných ložisek"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) eradikaci viditelných ložisek endometriózy a adhezí, preparaci rektovaginálního septa s operační léčbou takto ozřejměných ložisek"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Při cyklické centrální pánevní bolesti a potvrzení adenomyózy (laparoskopii, ultrazvukem) u žen plánujících graviditu provádíme primárně léčbu",
+    "answers": [
+      "a) laparoskopii",
+      "b) hysteroskopií",
+      "c) kombinací laparoskopie a hysteroskopie",
+      "d) medikamentózní"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) medikamentózní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. К potvrzení diagnózy endometriózy se nejčastěji užívá",
+    "answers": [
+      "a) hysteroskopie",
+      "b) laparoskopie",
+      "c) dolní střední laparotomie",
+      "d) laparotomia sec. Pfannenstiel"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) laparoskopie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Stresovou inkontinenci moči můžeme operačně řešit přístupem",
+    "answers": [
+      "a) laparotomickým",
+      "b) laparoskopickým",
+      "c) vaginálním",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Laparoskopicky řešíme nejčastěji myom",
+    "answers": [
+      "a) subserózní",
+      "b) intramurální",
+      "c) submukózní",
+      "d) žádný z výše uvedených"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) subserózní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Předoperačně ovlivňujeme velikost a strukturu myomů nejlépe",
+    "answers": [
+      "a) estrogeny",
+      "b) gestageny",
+      "c) GnRH a analogy",
+      "d) antikoncepčními preparáty"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) GnRH a analogy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Submukózní myom operujeme přístupem",
+    "answers": [
+      "a) laparoskopii",
+      "b) laparotomií",
+      "c) hysteroskopií",
+      "d) neoperujeme, léčíme konzervativně, hormonálně, popřípadě volíme observaci pacientky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) hysteroskopií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. Hysteroskopií neprovádíme nikdy při",
+    "answers": [
+      "a) UZ nálezu submukózního myomů",
+      "b) nálezu endometriálního polypu",
+      "c) silném děložním krvácení",
+      "d) při četných intrauterinních adhezích"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) silném děložním krvácení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Kyretáž provádíme",
+    "answers": [
+      "a) při suspekci na submukózní myom",
+      "b) při silném děložním krvácení",
+      "c) při suspekci na děložní polyp",
+      "d) při podezření na deformaci děložní dutiny adhezemi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) při silném děložním krvácení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Indikací к hysteroskopii je",
+    "answers": [
+      "a) suspektní nález při hysterografii",
+      "b) suspektní intrauterinní nález při ultrazvukovém vyšetření",
+      "c) recidivující abnormální krvácení",
+      "d) všechny předešlé indikace jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny předešlé indikace jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. Hysteroskop »Versascope« spolu s expandovatelnou pochvou к zavádění nástrojů má průměr",
+    "answers": ["a) 2,1 mm", "b) 3,2 mm", "c) 4,3 mm", "d) 5,4 mm"],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 3,2 mm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Nástroje pro »studenou« hysteroskopickou chirurgii jsou",
+    "answers": [
+      "a) nůžky",
+      "b) bioptické kleště",
+      "c) extrakční kleště",
+      "d) všechny výše uvedené"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny výše uvedené"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Nástroje pro operační hysteroskopii jsou konstruovány jako",
+    "answers": [
+      "a) flexibilní",
+      "b) semirigidní",
+      "c) rigidní",
+      "d) žádné z výše uvedených"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) semirigidní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. К dostatečné distenzi děložní dutiny je většinou potřeba intrauterinního tlaku",
+    "answers": [
+      "a) 15-35 mmHg",
+      "b) 60-75 mm Hg",
+      "c) 90-105 mm Hg",
+      "d) 115-140mmHg"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 60-75 mm Hg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. Mezi indikace к hysteroskopické myomektomii nepatří",
+    "answers": [
+      "a) recidivující menoragie",
+      "b) dysmenorea",
+      "c) pánevní bolest",
+      "d) к indikacím patří všechny předchozí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) к indikacím patří všechny předchozí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Mezi indikace к hysteroskopické myomektomii nepatří",
+    "answers": [
+      "a) akutní menoragie",
+      "b) dysmenorea",
+      "c) pánevní bolest",
+      "d) к indikacím patří všechny předchozí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) к indikacím patří všechny předchozí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. Mezi indikace к hysteroskopické myomektomii nepatří",
+    "answers": [
+      "a) sterilita",
+      "b) infertilita",
+      "c) předčasný porod v anamnéze",
+      "d) к indikacím patří všechny předchozí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) к indikacím patří všechny předchozí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "85. Myom EHS 0 st. do myometria",
+    "answers": [
+      "a) nezasahuje vůbec",
+      "b) zasahuje méně než 25 %",
+      "c) zasahuje méně než 50 %",
+      "d) zasahuje více než 50 %"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) nezasahuje vůbec"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "86. Myom EHS I st. do myometria",
+    "answers": [
+      "a) nezasahuje vůbec",
+      "b) zasahuje méně než 25 %",
+      "c) zasahuje méně než 50 %",
+      "d) zasahuje více než 50 %"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) zasahuje méně než 50 %"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "87. Myom EHS II st. do myometria",
+    "answers": [
+      "a) nezasahuje vůbec",
+      "b) zasahuje méně než 25 %",
+      "c) zasahuje méně než 50 %",
+      "d) zasahuje více než 50 %"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) zasahuje více než 50 %"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "88. Při operaci endometriálního polypu při recidivující metroragii preferujeme",
+    "answers": [
+      "a) hysteroskopickou biopsii z polypu к vyloučení malignity a následnou hysterektomii",
+      "b) odstřižení polypu hysteroskopickými nůžkami a jeho extrakci extrakčními kleštěmi",
+      "c) kyretáž celé dutiny děložní",
+      "d) resekci polypu do úrovně myometria"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) resekci polypu do úrovně myometria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "89. Při ultrazvukovém nálezu vysokého nesuspektního endometria v postmenopauze je hysteroskopie",
+    "answers": [
+      "a) indikována",
+      "b) kontraindikována",
+      "c) méně vhodná než kyretáž",
+      "d) méně vhodná než frakcionovaná kyretáž"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) indikována"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "90. Mezi kontraindikace hysteroskopie nepatří",
+    "answers": [
+      "a) nezkušený operatér",
+      "b) akutní pánevní infekce",
+      "c) karcinom hrdla děložního",
+      "d) krvácení charakteru končících menses"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) krvácení charakteru končících menses"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "91. Mezi kontraindikace hysteroskopie nepatří",
+    "answers": [
+      "a) těhotenství",
+      "b) nedávná děložní perforace",
+      "c) akutní krvácení charakteru silných menses",
+      "d) akutní krvácení charakteru končících menses"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) akutní krvácení charakteru končících menses"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "92. Při krvácení vzniklém po diagnostické hysteroskopii musíme především vyloučit",
+    "answers": [
+      "a) krvácení z děložního hrdla v místě vpichu amerických kleští",
+      "b) děložní perforaci",
+      "c) DIC v důsledku »fluid overload« syndromu",
+      "d) poranění vulvy či pochvy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) děložní perforaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "93. Největší riziko »fluid overload« syndromu vzniká při",
+    "answers": [
+      "a) hysteroskopické ablaci endometria kličkou",
+      "b) hysteroskopické ablaci endometria kuličkou",
+      "c) hysteroskopické resekci myomu",
+      "d) globálních metodách (metodách"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) hysteroskopické resekci myomu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "94. Mezi první generaci ablace endometria patří",
+    "answers": [
+      "a) koagulace endometria kuličkou (roller ball)",
+      "b) resekce endometria kličkou (loop), tj transcervikální resekce endometria",
+      "c) kombinovaná technika koagulace a resekce",
+      "d) všechny metody výše uvedené"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny metody výše uvedené"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "95. Hysteroskopie představuje v intrauterinní diagnostice",
+    "answers": [
+      "a) screening",
+      "b) evaluaci",
+      "c) konfirmaci",
+      "d) žádnou z výše uvedených možností"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) evaluaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "96. Ultrazvukové vyšetření představuje v intrauterinní diagnostice",
+    "answers": [
+      "a) screening",
+      "b) evaluaci",
+      "c) konfirmaci",
+      "d) žádnou z výše uvedených možností"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) screening"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "97. Histologie představuje v intrauterinní diagnostice",
+    "answers": [
+      "a) screening",
+      "b) evaluaci",
+      "c) konfirmaci",
+      "d) žádnou z výše uvedených možností"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) konfirmaci"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. V laparoskopii se užívá nejčastěji laser",
+    "answers": ["a) CO,", "b) argon", "c) Nd:YAG", "d) KTP"],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["a) CO,"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Zlatým standardem« koagulačních technik je",
+    "answers": [
+      "a) laser",
+      "b) unipolámí koagulace",
+      "c) bipolámí koagulace",
+      "d) harmonický skalpel"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["c) bipolámí koagulace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Laser používáme v laparoskopii nejčastěji к operační léčbě",
+    "answers": [
+      "a) chronického pánevního zánětu",
+      "b) endometriózy",
+      "c) ovariálních a parovariálních cyst",
+      "d) děložních myomů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["b) endometriózy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Pro laparoskopickou pánevní chirurgii preferuje operatér",
+    "answers": [
+      "a) maximální Trendelenburgovu polohu (sklon pacientky)",
+      "b) maximální intraperitoneální tlak pneumoperitonea",
+      "c) maximální intraperitoneální objem pneumoperitonea",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "a) maximální Trendelenburgovu polohu (sklon pacientky)",
+
+      "c) maximální intraperitoneální objem pneumoperitonea"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Při průniku insuflačm jehlou do peritoneální dutiny směřujeme vpich",
+    "answers": [
+      "a) kolmo ke stěně břišní",
+      "b) směrem na dělohu",
+      "c) do oblasti adnex",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["a) kolmo ke stěně břišní", "b) směrem na dělohu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. К vytvoření »arteficiálního ascitu« к prevenci adhezí užíváme nejlépe",
+    "answers": [
+      "a) fyziologický roztok",
+      "b) Ringerův laktát",
+      "c) Dextran",
+      "d) žádný z výše uvedených"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["b) Ringerův laktát"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Riziko poranění nebo závažnosti poranění intraperitoneálních orgánů můžeme pozitivně ovlivnit",
+    "answers": [
+      "a) mappingem, tj opakovanými punkcemi peritoneální dutiny břišní stěnou s aplikací roztoku a zpětným nasáváním obsahu",
+      "b) užitím optického trokáru",
+      "c) užitím miniskopu",
+      "d) trokárem s bezpečnostním hrotem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "a) mappingem, tj opakovanými punkcemi peritoneální dutiny břišní stěnou s aplikací roztoku a zpětným nasáváním obsahu",
+      "b) užitím optického trokáru",
+      "c) užitím miniskopu",
+      "d) trokárem s bezpečnostním hrotem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Preperitoneální insuflace CO2 je komplikací, která indikuje",
+    "answers": [
+      "a) ukončení laparoskopie",
+      "b) kontrolu preperitonea laparotomií",
+      "c) kontrolu preperitonea a dutiny peritoneální laparotomií",
+      "d) dovoluje pokračovat v laparoskopii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) dovoluje pokračovat v laparoskopii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Poranění arteria iliaca externa v průběhu laparoskopie řešíme",
+    "answers": [
+      "a) laparoskopickou koagulací poranění",
+      "b) laparoskopickou suturou poranění",
+      "c) laparoskopickým naložením klipu s uzavřením cévy",
+      "d) dolní střední laparotomií se suturou poranění"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) dolní střední laparotomií se suturou poranění"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Poranění vena cava inferior v průběhu laparoskopie můžeme řešit",
+    "answers": [
+      "a) uzavřením poranění klipem v průběhu laparoskopie",
+      "b) uzavřením poranění klipem v průběhu laparotomie",
+      "c) laparotomií a suturou poranění",
+      "d) všechny předchozí odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "a) uzavřením poranění klipem v průběhu laparoskopie",
+      "b) uzavřením poranění klipem v průběhu laparotomie",
+      "c) laparotomií a suturou poranění",
+      "d) všechny předchozí odpovědi jsou správné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Intramurální děložní myom u sterilní ženy je možno řešit",
+    "answers": [
+      "a) chirurgicky enukleací myomu",
+      "b) embolizací děložních tepen",
+      "c) chirurgicky uzávěrem děložních tepen",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Primárně konzervativně můžeme řešit",
+    "answers": [
+      "a) perforaci střevní kličky insuflační jehlou",
+      "b) perforaci střevní kličky trokárem maximálního průměru 5 mm",
+      "c) perforaci střevní kličky trokárem průměru 10 mm s bezpečnostním hrotem",
+      "d) perforaci střeva miniskopem průměru 5 mm"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["a) perforaci střevní kličky insuflační jehlou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Poranění střeva při laparoskopii",
+    "answers": [
+      "a) nikdy neřešíme per laparoscopiam",
+      "b) můžeme řešit suturou poranění střeva per laparoscopiam",
+      "c) můžeme řešit naložením klipu na perforační otvor",
+      "d) můžeme řešit ošetřením harmonickým skalpelem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "b) můžeme řešit suturou poranění střeva per laparoscopiam"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Poranění žaludku při laparoskopii",
+    "answers": [
+      "a) nikdy neřešíme per laparoscopiam",
+      "b) můžeme řešit suturou poranění žaludku per laparoscopiam",
+      "c) můžeme řešit naložením klipu na perforační otvor",
+      "d) můžeme řešit ošetřením harmonickým skalpelem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "b) můžeme řešit suturou poranění žaludku per laparoscopiam"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Laparoskop můžeme zavést do dutiny peritoneální",
+    "answers": [
+      "a) v oblasti pupku",
+      "b) v oblasti nad pupkem",
+      "c) v pravém hypogastriu",
+      "d) v levém hypogastriu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "a) v oblasti pupku",
+      "b) v oblasti nad pupkem",
+      "c) v pravém hypogastriu",
+      "d) v levém hypogastriu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Při gynekologické laparoskopii primárně vizualizujeme",
+    "answers": [
+      "a) oblast pánve",
+      "b) apendix",
+      "c) podbrániční oblast",
+      "d) retroperitoneum"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "a) oblast pánve",
+      "b) apendix",
+      "c) podbrániční oblast"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Pomocné operační nástroje můžeme zavést",
+    "answers": [
+      "a) kdekoli, kde nehrozí poranění, zvi. cév břišní stěny a intraperitoneálních orgánů",
+      "b) v oblasti pomyslných pólů Pfannenstielova řezu",
+      "c) v pravém mezogastriu",
+      "d) v levém mezogastriu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "a) kdekoli, kde nehrozí poranění, zvi. cév břišní stěny a intraperitoneálních orgánů",
+      "b) v oblasti pomyslných pólů Pfannenstielova řezu",
+      "c) v pravém mezogastriu",
+      "d) v levém mezogastriu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Do dutiny peritoneální můžeme zavést nástroje o průměru",
+    "answers": [
+      "a) 5 mm",
+      "b) 10mm",
+      "c) 32mm",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Při laparoskopii manipulujeme dělohou",
+    "answers": [
+      "a) speciálním děložním manipulátorem",
+      "b) uterinní kanylou spojenou s jednozubými americkými kleštěmi",
+      "c) speciálními kleštěmi uchopujícími zároveň přední pysk děložního hrdla a mající sondu zavedenou do dutiny děložní",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "a) speciálním děložním manipulátorem",
+      "b) uterinní kanylou spojenou s jednozubými americkými kleštěmi",
+      "c) speciálními kleštěmi uchopujícími zároveň přední pysk děložního hrdla a mající sondu zavedenou do dutiny děložní",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Operační přístup к řešení intramurální či kornuální ektopické gravidity u pacientky v klinicky stabilním stavu je",
+    "answers": [
+      "a) laparoskopii",
+      "b) dolní střední laparotomií",
+      "c) laparotomií podle Pfannenstiela",
+      "d) hysteroskopií"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["a) laparoskopii", "c) laparotomií podle Pfannenstiela"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Při laparoskopické diagnóze ektopické tubární gravidity nebo tubárního abortu můžeme laparoskopicky provést",
+    "answers": [
+      "a) odsátí produktu koncepce z vejcovodu s dalším sledováním koncentrace hCG",
+      "b) salpingektomii",
+      "c) incizi vejcovodu s odstraněním produktu koncepce revizí lumen vejcovodu",
+      "d) resekci postižené části vejcovodu a koagulaci jeho istmu v prevenci recidivy ektopické gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "a) odsátí produktu koncepce z vejcovodu s dalším sledováním koncentrace hCG",
+      "b) salpingektomii",
+      "c) incizi vejcovodu s odstraněním produktu koncepce revizí lumen vejcovodu",
+      "d) resekci postižené části vejcovodu a koagulaci jeho istmu v prevenci recidivy ektopické gravidity"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Při laparoskopické diagnóze ampulární tubární gravidity provádíme laparoskopicky nejčastěji",
+    "answers": [
+      "a) odsátí produktu koncepce z vejcovodu s dalším sledováním koncentrace hCG",
+      "b) salpingektomii",
+      "c) incizi vejcovodu s odstraněním produktu koncepce revizí lumen vejcovodu",
+      "d) resekci postižené části vejcovodu a koagulaci jeho istmu v prevenci recidivy ektopické gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["b) salpingektomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Do kolika stadií dělíme pánevní zánět a pozánětlivé stavy podle laparoskopické klasifikace",
+    "answers": [
+      "a) jednoho až dvou",
+      "b) dvou až tří",
+      "c) tří až čtyř",
+      "d) čtyř až pěti"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["c) tří až čtyř"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Úspěšnost otěhotněníje nejvyšší po",
+    "answers": [
+      "a) rozrušení adhezí v distálním ústí vejcovodu a fimbrioplastice",
+      "b) tubokomuální anastomóze",
+      "c) resekci vejcovodu a end-to-end anastomóze",
+      "d) oboustranné salpingektomii a asistované reprodukci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) oboustranné salpingektomii a asistované reprodukci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Při klinické diagnóze adnexitis chronica je laparoskopie",
+    "answers": [
+      "a) indikována",
+      "b) kontraindikována",
+      "c) nevhodná",
+      "d) zbytečnou zátěží pacientky bez současné hysteroskopie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["a) indikována"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Při laparoskopickém nálezu akutního pánevního zánětu u nulipary provádíme",
+    "answers": [
+      "a) odběr materiálu na kultivaci",
+      "b) adheziolýzu",
+      "c) oboustrannou salpingektomii",
+      "d) totální laparoskopickou hysterektomii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["a) odběr materiálu na kultivaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Folikulární ovariální cystu spojenou s bolestí nejčastěji řešíme",
+    "answers": [
+      "a) observací",
+      "b) punkcí pod kontrolou ultrazvukem",
+      "c) laparoskopii",
+      "d) laparotomií"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "b) punkcí pod kontrolou ultrazvukem",
+      "c) laparoskopii"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Torzi adnex pri benigním ovariálním novotvaru a reverzibilních změnách na adnexech můžeme řešit",
+    "answers": [
+      "a) laparoskopii, enukleací cysty a detorzí",
+      "b) laparoskopii a adnexektomií",
+      "c) laparotomií a resekci ovaria",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Torzi adnex při benigním ovariálním novotvaru a ireverzibilních změnách na adnexech řešíme",
+    "answers": [
+      "a) laparoskopii, enukleací cysty a detorzí",
+      "b) laparoskopii a adnexektomií",
+      "c) laparotomií a resekci ovaria",
+      "d) laparotomií a ovarektomií"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["b) laparoskopii a adnexektomií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Při nálezu koetánního teratomu u nuligravidy preferujeme",
+    "answers": [
+      "a) enukleaci či exstirpací koetánního teratomu s ponecháním zbytku ovaria",
+      "b) ovarektomii",
+      "c) adnexektomii",
+      "d) hysterektomii s adnexektomii a s ponecháním kontralaterálních nepostižených adnex"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "a) enukleaci či exstirpací koetánního teratomu s ponecháním zbytku ovaria"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Přerušení vejcovodů při sterilizaci je nešetrnější při použití",
+    "answers": [
+      "a) unipolámí koagulace",
+      "b) bipolámí koagulace",
+      "c) harmonického skalpelu",
+      "d) svorek"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) svorek"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Přerušení vejcovodů při sterilizaci je nešetrnější při použití",
+    "answers": [
+      "a) bipolámí koagulace",
+      "b) harmonického skalpelu",
+      "c) svorek",
+      "d) není rozdíl v devastaci vejcovodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["c) svorek"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Naprosto spolehlivou zábranou otěhotnění je",
+    "answers": [
+      "a) sterilizace",
+      "b) kastrace",
+      "c) hysterektomie",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["b) kastrace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. К řešení karcinomu ovaria stadia Tib a Tle přistupujeme primárně",
+    "answers": [
+      "a) laparoskopii a adnexektomii",
+      "b) laparoskopii, výplachovou cytologií a následnou laparoskopicky asistovanou vaginální hysterektomiis oboustrannou adnexektomii",
+      "c)i laparoskopii, separovanými výplachy к cytologické1 mu vyšetření, laparoskopicky asistovanou vaginální hysterektomii s oboustrannou adnexektomii, apendektomií, biopsií z omenta",
+      "d) l»staging« laparotomií"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) l»staging« laparotomií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Kontraindikací vaginální hysterektomie či laparoskopicky asistované vaginální hysterekto- mie je",
+    "answers": [
+      "a) nuligravidita",
+      "b) jlmyom o průměru 10 cm a větší",
+      "c) myomatózní děloha sahající к pupku",
+      "d) úzká pochva"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["b) jlmyom o průměru 10 cm a větší"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Kontraindikací vaginální hysterektomie či laparoskopicky asistované vaginální hysterektomie je",
+    "answers": [
+      "a) nuligravidita",
+      "b) bedchozí jeden císařský řez",
+      "c) předchozí dva císařské řezy",
+      "d) pmobilní děloha"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) pmobilní děloha"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. U sterilní pacientky s myomem je vhodná",
+    "answers": [
+      "a) laparoskopická enukleace myomů s laparoskopickou suturou defektu",
+      "d) embolizace uterinní arterie",
+      "e) hysteroskopická resekce myomů",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "d) embolizace uterinní arteried) všechny odpovědi jsou správné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Jako endometriózu v laparoskopickém obrazu hodnotíme",
+    "answers": [
+      "a) nález typických ložisek endometriózy",
+      "b) nález adhezí nejasného původu",
+      "c) nález peritoneálních defektů",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Nejtěžší obtíže ve smyslu dyspareunie nalézáme Při",
+    "answers": [
+      "a) endometriosis genitalis extema ovarii et tubae",
+      "b) endometriosis genitalis intema/adenomyosis",
+      "c) endometriosis vaginalis",
+      "d) endometriosis per laparoscopiam nalezená na sakrouterinních vazech"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["c) endometriosis vaginalis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Transmurální postižení stěny střeva endometriózou bude nejčastější při symptomatologii",
+    "answers": [
+      "a) dyspareunie",
+      "b) algopareunie",
+      "c) dyschezie",
+      "d) sterility"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["c) dyschezie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Konzervativní operační léčbou endometriózy u nulipary je nejčastěji",
+    "answers": [
+      "a) adheziolýza a eradikace viditelných ložisek endometriózy",
+      "b) laparoskopická uterinní nervová ablace, popřípadě presakrální neurektomie",
+      "c) laparoskopická hysterektomie bez adnexektomie",
+      "d) laparoskopická hysterektomie s adnexektomii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "a) adheziolýza a eradikace viditelných ložisek endometriózy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Konzervativní operační léčbou endometriózy u multipary bez přání další gravidity je",
+    "answers": [
+      "a) adheziolýza a eradikace viditelných ložisek endometriózy",
+      "b) laparoskopická uterinní nervová ablace, popřípadě presektální neurektomie",
+      "c) laparoskopická hysterektomie bez adnexektomie",
+      "d) laparoskopická hysterektomie s adnexektomii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "a) adheziolýza a eradikace viditelných ložisek endometriózy",
+      "b) laparoskopická uterinní nervová ablace, popřípadě presektální neurektomie",
+      "c) laparoskopická hysterektomie bez adnexektomie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Radikální operační léčbou endometriózy je",
+    "answers": [
+      "a) adheziolýza a eradikace viditelných ložisek endometriózy",
+      "b) laparoskopická uterinní nervová ablace, popřípadě presektální neurektomie",
+      "c) laparoskopická hysterektomie bez adnexektomie",
+      "d) laparoskopická hysterektomie s adnexektomii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) laparoskopická hysterektomie s adnexektomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Definitivní operační léčbou endometriózy je",
+    "answers": [
+      "a) laparoskopická hysterektomie bez adnexektomie",
+      "b) laparoskopická hysterektomie s oboustrannou adnexektomií a eradikací všech adhezí a viditelných ložisek endometriózy",
+      "c) laparoskopická hysterektomie s adnexektomií",
+      "d) adheziolýza a eradikace viditelných ložisek endometriózy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "b) laparoskopická hysterektomie s oboustrannou adnexektomií a eradikací všech adhezí a viditelných ložisek endometriózy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. К určení diagnózy endometriózy je nutná (postačující)",
+    "answers": [
+      "a) hysteroskopie",
+      "b) laparoskopie",
+      "c) laparotomie",
+      "d) znalost odpovědi na konzervativní (hormonální) terapii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "d) znalost odpovědi na konzervativní (hormonální) terapii"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Mezi nepřímé známky endometriózy při laparoskopii patří",
+    "answers": [
+      "a) zmnožená peritoneální tekutina",
+      "b) adheze nejasného původu",
+      "c) peritoneální defekty",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Při chronické pánevní bolesti můžeme provést následný laparoskopický operační výkon",
+    "answers": [
+      "a) laparoskopickou uterinní nervovou ablaci",
+      "b) presakrální neurektomii",
+      "c) eliberaci dělohy a její ventrosuspenzi jako prevenci adhezí zadní děložní stěny a fundu děložního к peritoneu Douglasova prostoru s operační konzervativní léčbou endometriózy",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. V hysteroskopii používáme nejčastěji",
+    "answers": [
+      "a) CO, laser",
+      "b) argon laser",
+      "c) Nd:YAG laser",
+      "d) KTP laser"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["c) Nd:YAG laser"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Diagnostickou hysteroskopii můžeme provést",
+    "answers": [
+      "a) bez anestezie",
+      "b) v paracervikálním bloku",
+      "c) v celkové anestezii",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Jako distenční médium pro hysteroskopii je preferován",
+    "answers": [
+      "a) sorbitol",
+      "b) manitol",
+      "c) fyziologický roztok",
+      "d) glycin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["c) fyziologický roztok"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Pochvou hysteroskopu »Versascope« se zavádějí bipolární elektrody o průměru",
+    "answers": ["a) 5 Fr", "b) 7 Fr", "c) 9 Fr", "d) 11 Fr"],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["a) 5 Fr"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Pochvou hysteroskopu »Versascope« se zavádějí «studené nástroje® (bioptické kleště, nůžky, extrakční kleště) o průměru",
+    "answers": ["a) 5 Fr", "b) 7 Fr", "c) 9 Fr", "d) 11 Fr"],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["b) 7 Fr"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Elektrody к transcervikální (hysteroskopické) resektoskopii při bipolární operativě jsou konstruovány jako",
+    "answers": [
+      "a) »Ball«",
+      "b) «Zero degree«",
+      "c) »Loop«",
+      "d) žádná z výše uvedených"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["b) «Zero degree«", "c) »Loop«"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Bipolární technologie к hysteroskopické operativě může tkáň",
+    "answers": [
+      "a) vaporizovat",
+      "b) řezat",
+      "c) desikovat",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Ambulantní výkon neprovádíme u pacientky",
+    "answers": [
+      "a) která si výkon nepřeje",
+      "b) která slabě krvácí",
+      "c) která neměla předchozí intrauterinní výkon",
+      "d) která nerodila"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["a) která si výkon nepřeje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Volba ambulantního výkonu závisí",
+    "answers": [
+      "a) na přání pacientky",
+      "b) na stavu děložního hrdla",
+      "c) na rozsahu intrauterinního nálezu",
+      "d) na všech výše uvedených"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) na všech výše uvedených"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Adenomyózu či endometriosis genitalis interna můžeme příznivě ovlivnit nejspíše",
+    "answers": [
+      "a) ablaci endometria",
+      "b) resekcí submukózního myomu",
+      "c) resekcí recidivujícího polypu minimálně do úrovně myometria",
+      "d) medikamentózmThormonální terapií"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["d) medikamentózmThormonální terapií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Intramurální expanzi myomu určíme nejlépe",
+    "answers": [
+      "a) kontrastní sonografií (SIS - saline infusion sonography)",
+      "b) ultrasonografickým vyšetřením",
+      "c) ultrasonografickým vyšetřením provedeným transabdominálně",
+      "d) diagnostickou hysteroskopii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["b) ultrasonografickým vyšetřením"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Při perforaci dělohy aktivní elektrodou je nutné",
+    "answers": [
+      "a) okamžitě ukončit výkon",
+      "b) zkontrolovat hysteroskopicky krvácení a perforační otvor",
+      "c) provést laparoskopii ke zhodnocení poranění dělohy",
+      "d) provést laparotomii a revizi dutiny peritoneální pro možné přímé nebo nepřímé mechanické nebo termické poranění"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "a) okamžitě ukončit výkon",
+
+      "d) provést laparotomii a revizi dutiny peritoneální pro možné přímé nebo nepřímé mechanické nebo termické poranění"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Mezi globální metody (metody",
+    "answers": [
+      "a) kryoablace endometria",
+      "b) termoablace endometria",
+      "c) ablace endometria Nd:YAG laserem",
+      "d) «roller ball« koagulace endometria"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": [
+      "c) ablace endometria Nd:YAG laserem",
+      "d) «roller ball« koagulace endometria"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Mezi první generaci ablace endometria patří",
+    "answers": [
+      "a) užití mikrovln",
+      "b) užití termálního balonu",
+      "c) kombinovaná technika koagulace a resekce",
+      "d) užití trojrozměrné bipolámí síťky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Endoskopické metody v gynekologii-laparoskopie a hysteroskopie. II. ČÁST POSTGRADUÁLNI"
+    ],
+    "correctAnswers": ["c) kombinovaná technika koagulace a resekce"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Standardní anesteziologické peroperační sledování zahrnuje",
+    "answers": [
+      "a) EKG, pulsovou frekvenci, neinvazivně měřený krevní tlak, pulsní oxymetrii",
+      "b) EKG, pulsovou frekvenci",
+      "c) pulsní oxymetrii, EKG, kapnometrii",
+      "d) dechovou a pulsovou frekvenci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) EKG, pulsovou frekvenci, neinvazivně měřený krevní tlak, pulsní oxymetrii"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Ke standardnímu sledování u laparoskopických výkonů je nutné přiřadit",
+    "answers": [
+      "a) sledování hodnot intrapulmonálního tlaku",
+      "b) měření centrálního žilního tlaku",
+      "c) kapnometrii a měření intraabdominálního tlaku",
+      "d) sledování se neliší od laparotomických výkonů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) kapnometrii a měření intraabdominálního tlaku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Premedikace, celková, epidurální a spinální anestezie vyřazuje ortostatické mechanismy regulace krevního oběhu, proto",
+    "answers": [
+      "a) je nutné veškeré změny polohy pacientky provádět co nejpomaleji",
+      "b) je nutné volit polohu pacientky s ohledem na tělesnou hmotnost pacientky",
+      "c) premedikaci nepodáváme pacientkám s ortostatickými kolapsy v anamnéze",
+      "d) premedikaci nepodáváme pacientkám s hypotenzí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) je nutné veškeré změny polohy pacientky provádět co nejpomaleji"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. TUR syndrom",
+    "answers": [
+      "a) je vyvolán přetížením krevního oběhu přechodem tekutiny užité к vyplachování operačního pole u hysteroskopie či transuretrálních výkonů",
+      "b) je vyvolán při poloze těhotné na zádech",
+      "c) je neurologickou komplikací po svodné anestezii",
+      "d) je důvodem к předoperační kontraindikaci výkonu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) je vyvolán přetížením krevního oběhu přechodem tekutiny užité к vyplachování operačního pole u hysteroskopie či transuretrálních výkonů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Laparoskopické výkony provádíme",
+    "answers": [
+      "a) vždy v celkové anestezii s tracheální intubací a umělou plicní ventilací",
+      "b) v epidurálním znecitlivění u pacientek s komplikujícím kardiálním onemocněním",
+      "c) v celkové anestezii, intubace není vždy nutná",
+      "d) výhradně s použitím laryngeální masky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) vždy v celkové anestezii s tracheální intubací a umělou plicní ventilací"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Laparoskopické výkony v porovnání s výkony »klasické« chirurgie zatěžují pacienta kardiopulmonálně peroperačně",
+    "answers": ["a) stejně", "b) méně", "c) nelze to porovnat", "d) více"],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) více"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Při kapnoperitoneu se CO2 rychle vstřebává, proto je nutná peroperačně",
+    "answers": [
+      "a) mírná hypoventilace",
+      "b) mírná hyperventilace",
+      "c) postupné snižování příkonu plynu do dutiny к vyrovnání jeho vylučování",
+      "d) podávat současně bikarbonát к alkalizaci vnitřního prostředí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) mírná hyperventilace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. К nejzávažnějším a potenciálně letálním komplikacím laparoskopie patří",
+    "answers": [
+      "a) cévní mozková příhoda",
+      "b) pneumomediastinum, pneumotorax a plynová embolie",
+      "c) TUR syndrom",
+      "d) poranění močového měchýře"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) pneumomediastinum, pneumotorax a plynová embolie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Léčba toxické reakce při předávkování lokálními anestetiky zahrnuje",
+    "answers": [
+      "a) podání kyslíku maskou a antihistaminik intravenózně",
+      "b) podání kyslíku maskou, antikonvulziv, vazoaktivních látek a eventuálně kardiopulmonální resuscitaci",
+      "c) podání kyslíku maskou a kortikoidů v megadávkách",
+      "d) podání kyslíku maskou a přechod na celkovou anestezii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) podání kyslíku maskou, antikonvulziv, vazoaktivních látek a eventuálně kardiopulmonální resuscitaci"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Bupivacain (Marcain) je ve srovnání s Mesocainem",
+    "answers": [
+      "a) méně kardiotoxický",
+      "b) stejně kardiotoxický",
+      "c) kardiotoxicitu nelze určit",
+      "d) výrazně kardiotoxický"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) stejně kardiotoxický"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Krystaloidy zůstávají v krevním řečišti",
+    "answers": [
+      "a) nezůstávají, ale unikají do intracelulámího prostoru",
+      "b) přibližně z poloviny, zbytek uniká do celého extracelulámího prostoru",
+      "c) zcela a neunikají do extracelulámího prostoru",
+      "d) přibližné zůstává jedna čtvrtina až jedna třetina, zbytek uniká do celého extracelulámího prostoru"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) přibližné zůstává jedna čtvrtina až jedna třetina, zbytek uniká do celého extracelulámího prostoru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Koloidní roztoky dextrany a hydroxyetylškrob",
+    "answers": [
+      "a) aktivují trombolýzu",
+      "b) způsobují hyperkoagulační stav a nebezpečí tromboembolie",
+      "c) snižují agregaci destiček a ovlivňují krevní srážlivost",
+      "d) neovlivňují agregaci destiček a krevní srážlivost"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) snižují agregaci destiček a ovlivňují krevní srážlivost"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Želatinové náhradní roztoky (Gelafundin, Gelifundol) setrvají v krevním řečišti",
+    "answers": [
+      "a) asi 1,5 až 3 hodiny",
+      "b) asi 4 až 6 hodin",
+      "c) asi 24 hodin",
+      "d) asi 12 hodin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) asi 1,5 až 3 hodiny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Pro opiátový dechový útlum je charakteristická",
+    "answers": [
+      "a) snížená dechová frekvence a hypertenze",
+      "b) snížená dechová frekvence a periodické dýchání",
+      "c) zvýšená dechová frekvence",
+      "d) vpadávání jugula při nádechu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) snížená dechová frekvence a periodické dýchání"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Normální hodnoty kalémie jsou",
+    "answers": [
+      "a) 3,6-5,4 mmol/1",
+      "b) 135-145 mmol/1",
+      "c) 97-109 mmol/1",
+      "d) 2-2,9 mmol/1"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 3,6-5,4 mmol/1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Podáním koncentrovaného roztoku kalia rychle intravenózně způsobíme",
+    "answers": [
+      "a) katétrovou sepsi",
+      "b) průjem pacientky",
+      "c) farmakologickou kardioverzi",
+      "d) komorovou fibrilaci a zástavu oběhu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) komorovou fibrilaci a zástavu oběhu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Průměrně tvoří krevní objem",
+    "answers": [
+      "a) 8-10% tělěsné hmotnosti pacienta",
+      "b) 2-5 % tělěsné hmotnosti pacienta",
+      "c) 6-8 % tělěsné hmotnosti pacienta",
+      "d) 10-12% tělěsné hmotnosti pacienta"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 6-8 % tělěsné hmotnosti pacienta"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Hemolytická reakce po podání krevní transfúze vzniká většinou",
+    "answers": [
+      "a) při ABO inkompatibilitě",
+      "b) při podání chladného krevního derivátu",
+      "c) při bakteriální kontaminaci krevní konzervy",
+      "d) při podání krevního derivátu febrilnímu pacientovi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) při ABO inkompatibilitě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Frekvence kompresí hrudníku u kardiopulmonální resuscitace je u dospělého pacienta",
+    "answers": ["a) 150/min", "b) 100/min", "c) 70/min", "d) 50/min"],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 100/min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Nadměrný strach pacientky předoperačně",
+    "answers": [
+      "a) vede ke zvýšené spotřebě anestetik a častějším komplikacím při úvodu do anestezie",
+      "b) nemá vliv na úvod do anestezie",
+      "c) usnadní spolupráci s pacientkou peroperačně",
+      "d) usnadní úvod do anestezie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) vede ke zvýšené spotřebě anestetik a častějším komplikacím při úvodu do anestezie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Před podáním celkové anestezie u plánovaného operačního výkonu",
+    "answers": [
+      "a) pacientka nejí nejméně 6 hodin před operací",
+      "b) pacientka nejí nejméně 2 hodiny před operací",
+      "c) pokud se neoperuje trávicí ústrojí, nemusí lačnět",
+      "d) pacientka nejí nejméně 12 hodin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) pacientka nejí nejméně 6 hodin před operací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Pooperační ploténkové atelektázy",
+    "answers": [
+      "a) mohou předcházet dalším plicním komplikacím",
+      "b) nevznikají během anestezie ani v bezprostředním pooperačním období",
+      "c) neovlivníme, nelze jim předejít ani je léčit",
+      "d) jsou nejčastější příčinou pneumotoraxu v pooperačním období"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) mohou předcházet dalším plicním komplikacím"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Při projevu alergie po i.v. aplikaci trasfúze nebo antibiotik",
+    "answers": [
+      "a) ihned přerušíme infúzi, podáme Ca2+, hydrokortizon, antihistaminika či adrenalin",
+      "b) ihned přerušíme infúzi a podáme noradrenalin",
+      "c) infúzi nepřerušujeme, je-li řádně indikována, podáme Ca2+ a hydrokortizon a vyčkáme",
+      "d) infúzi nepřerušujeme a okamžitě se spojíme s transfúzním oddělením nebo s antibiotickým centrem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) ihned přerušíme infúzi, podáme Ca2+, hydrokortizon, antihistaminika či adrenalin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Esmarchův hmat",
+    "answers": [
+      "a) použijeme na zaškrcení paže při odběru krve",
+      "b) je hmat na uvolnění horních cest dýchacích u bezvědomého pacienta",
+      "c) je manévr na uložení pacientky do stabilizované polohy",
+      "d) je manévr na zavedení nazogastrické sondy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) je hmat na uvolnění horních cest dýchacích u bezvědomého pacienta"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Denní diuréza u pacientky v sepsi má být",
+    "answers": [
+      "a) asi 1000 ml",
+      "b) asi 3000-4000ml",
+      "c) asi 7000-8000 ml",
+      "d) asi 500 ml"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) asi 3000-4000ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Fyzioterapeutické výkony po operaci",
+    "answers": [
+      "a) jsou zaměřeny na posílení kognitivních funkcí",
+      "b) jsou zaměřeny proti hemostáze v dolních končetinách a na dechová cvičení",
+      "c) jsou zaměřeny na rozvoj kloubní pohyblivosti",
+      "d) jsou vyhrazeny pouze pro operované ženy vyššího věku a s anamnézou tromboembolické nemoci (TEN)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) jsou zaměřeny proti hemostáze v dolních končetinách a na dechová cvičení"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Obvyklé složení premedikace je",
+    "answers": [
+      "a) analgetikum, anxiolytikum, vagolytikum",
+      "b) antiarytmikum, antiemetikum",
+      "c) prokinetikum, bronchodilatans",
+      "d) antiemetikum, lokální anestetikum"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) analgetikum, anxiolytikum, vagolytikum"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Po operaci pacientku",
+    "answers": [
+      "a) nabádáme к hlubokým vdechům а к pohybu na lůžku",
+      "b) nabádáme ke klidu na lůžku, aby nedošlo ke krvácivým komplikacím",
+      "c) vyzveme, aby se trochu napila, abychom předešli vzniku pooperačních atelektazií",
+      "d) nabádáme ke klidu na lůžku, aby nedošlo к trombembolické komplikaci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) nabádáme к hlubokým vdechům а к pohybu na lůžku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Rehydrataci první pooperační den",
+    "answers": [
+      "a) provádíme výhradně parenterálně",
+      "b) provádíme parenterálně a částečně i perorálně",
+      "c) u pacientek po vaginálních operacích provádíme pouze perorálně",
+      "d) provádíme pouze enterálně nazogastrickou sondou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) provádíme parenterálně a částečně i perorálně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Profylaktické podávání antibiotik operovaným pacientkám",
+    "answers": [
+      "a) je zaměřeno u vaginálních operací pouze na anaeroby",
+      "b) se týká pouze gynekologických operací, ne porodnických",
+      "c) je prevence pooperačních pánevních zánětů",
+      "d) je prevencí pouze u operovaných pacientek s anamnézou pánevních zánětů a zánětů endometria"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) je prevence pooperačních pánevních zánětů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. К prevenci tromboembolických pooperačních komplikací patří",
+    "answers": [
+      "a) podání nízkomolekulámího heparinu, dostatečná hydratace a časná mobilizace",
+      "b) správně volený typ anestezie",
+      "c) podání dihydroergotaminu",
+      "d) podání premedikace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) podání nízkomolekulámího heparinu, dostatečná hydratace a časná mobilizace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Nejčastější gynekologickou indikací operační léčby u těhotné ženy jsou",
+    "answers": [
+      "a) operace pro ovariální tumory",
+      "b) operace pro myomy",
+      "c) operace pro karcinomy hrdla děložního",
+      "d) operace pro sactosalpinx"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) operace pro ovariální tumory"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Frekvenci pooperačních zánětů močových cest snížíme",
+    "answers": [
+      "a) instilací antibiotika do močových cest",
+      "b) časným odstraněním močového katétru a dostatečnou spontánní diurézou",
+      "c) výplachy močového měchýře dezinfekčními roztoky",
+      "d) pokud včas zahájíme léčbu asymptomatické bakteriurie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) časným odstraněním močového katétru a dostatečnou spontánní diurézou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Která z těchto tvrzení nejsou pravdivá",
+    "answers": [
+      "a) při operaci těhotné ženy z gynekologické indikace podáváme po operaci tokolytika",
+      "b) těhotné ženy snášejí operační výkon stejně jako ženy netěhotné, není více pooperačních komplikací",
+      "c) nejvhodnější doba к provedení operace je první trimestr gravidity",
+      "d) nejčastější indikací к operaci v prvním trimestru je podezření na mimoděložní těhotenství (GEU)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) nejvhodnější doba к provedení operace je první trimestr gravidity"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Pooperační hypotermie ohrožuje pacientku",
+    "answers": [
+      "a) častější nauzeou a zvracením pooperačně",
+      "b) svalovým třesem se zvýšenou spotřebou kyslíku s nebezpečím hypoxie",
+      "c) větší spotřebou hypnotik",
+      "d) retencí moči"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) svalovým třesem se zvýšenou spotřebou kyslíku s nebezpečím hypoxie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Třetí prostor je",
+    "answers": [
+      "a) intracelulámí",
+      "b) extracelulámí",
+      "c) transcelulární",
+      "d) intersticiální"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) transcelulární"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Transcelulární prostor",
+    "answers": [
+      "a) je tekutina ve střevech a močových cestách",
+      "b) nezahrnuje tekutinu ve žlučových cestách",
+      "c) nezahrnuje tekutinu v perikardu",
+      "d) nezahrnuje peritoneální tekutinu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) je tekutina ve střevech a močových cestách"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Hodnota Na 35 mmol/1 а К 115 mmol/1 je",
+    "answers": [
+      "a) intracelulámí",
+      "b) intravazální",
+      "c) je nesmysl",
+      "d) znamená metabolickou acidózu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) intracelulámí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Hypovolemický šok u pacientky s normálními renálními funkcemi je charakterizován",
+    "answers": [
+      "a) tachykardií, hypotenzí, chladnými akry, oligoanurií",
+      "b) bradykardií, hypotenzí, chladnými akry, oligoanurií",
+      "c) tachykardií, hypertenzí, chladnými akry, oligoanurií",
+      "d) tachykardií, hypotenzí. chladnými akry, polyurií"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) tachykardií, hypotenzí, chladnými akry, oligoanurií"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Oligurie nastává při diuréze nižší než",
+    "answers": [
+      "a) 500 ml/den",
+      "b) 50 ml/den",
+      "c) 2000 ml/den",
+      "d) 1000 ml/den"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 500 ml/den"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Při neodkladné resuscitaci je ve směsi",
+    "answers": ["a) 21% O,", "b) 70% O’", "c) 100% Ó,", "d) 50% O,"],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 100% Ó,"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Při trojhmatu ke zprůchodnění horních dýchacích cest provedeme",
+    "answers": [
+      "a) předklon hlavy, pootevření úst, předsunutí dolní čelisti",
+      "b) záklon hlavy, pootevření úst. předsunutí dolní čelisti",
+      "c) předklon hlavy, povytažení jazyka, ucpání nosních křídel",
+      "d) záklon hlavy, povytažení jazyka, ucpání nosních křídel"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) záklon hlavy, pootevření úst. předsunutí dolní čelisti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Po celkové anestezii s endotracheální intubací",
+    "answers": [
+      "a) může pacientka mít bolesti v krku a chrapot",
+      "b) nemůže mít otok hlasivek při použití lokálního anestetika",
+      "c) nemůže mít chrapot",
+      "d) nedochází к traumatu epitelu při použití vysokoobjemové nízkotlaké manžety"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) může pacientka mít bolesti v krku a chrapot"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Ui Denní diuréza po operaci u ženy má být",
+    "answers": [
+      "a) nejméně 1000 ml",
+      "b) nejméně 500 ml",
+      "c) nejméně 5000ml",
+      "d) № individuální podle délky anestezie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) nejméně 1000 ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Drenáž močového měchýře u operovaných žen se provádí",
+    "answers": [
+      "a) jystoskopicky",
+      "b) není třeba měřit diurézu",
+      "c) jtansuretrálně Foleyovým katétrem s balónkem nebo uprapubickou epicystostomií",
+      "d) tansuretrální kovovou cévkou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) jtansuretrálně Foleyovým katétrem s balónkem nebo uprapubickou epicystostomií"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Komplikací suprapubické drenáže močového měchýře nejsou",
+    "answers": [
+      "a) ntravezikální krvácení",
+      "b) infekce v místě vpichu",
+      "c) poranění střeva",
+      "d) íetence moči"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) íetence moči"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. mendelenburgova poloha způsobuje",
+    "answers": [
+      "a) pokles vitální kapacity plic, pokles plicní compliance poddajnost)",
+      "b)kvýšení návratu krve z dolních končetin s nebezpečím řetížení srdce u kardiaček",
+      "c)bvýšené nebezpečí vzduchové embolie při operačním poli nad úrovní procházející srdcem výšený nitrobřišní tlak a zvýšené nebezpečí",
+      "d) egurgitace a aspirace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) pokles vitální kapacity plic, pokles plicní compliance poddajnost)",
+      "b)kvýšení návratu krve z dolních končetin s nebezpečím řetížení srdce u kardiaček",
+      "c)bvýšené nebezpečí vzduchové embolie při operačním poli nad úrovní procházející srdcem výšený nitrobřišní tlak a zvýšené nebezpečí",
+      "d) egurgitace a aspirace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Gynekologická poloha",
+    "answers": [
+      "a) cvyšuje nitrobřišní tlak, a tím omezuje žilní návrat",
+      "b) «zvyšuje nitrobřišní tlak, a tím stoupá i nebezpečí egurgitace",
+      "c) nemá vliv na nitrobřišní tlak a frekvenci regurgitace (Ijomezuje pohyb bránice a ohrožuje dechovou",
+      "d)isuficiencí hlavně obézní pacientky a pacientky s obnikční bronchopulmonální chorobou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) «zvyšuje nitrobřišní tlak, a tím stoupá i nebezpečí egurgitace",
+      "d)isuficiencí hlavně obézní pacientky a pacientky s obnikční bronchopulmonální chorobou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. při TUR syndromu může dojít",
+    "answers": [
+      "a) kpřetížení oběhu izotonickou tekutinou",
+      "b) khypoosmolámímu syndromu (otrava vodou) při užití",
+      "c) beziontové výplachové tekutiny",
+      "d) suficiencí hlavně obézní pacientky a pacientky s obnikční bronchopulmonální chorobou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) kpřetížení oběhu izotonickou tekutinou",
+      "b) khypoosmolámímu syndromu (otrava vodou) při užití",
+
+      "d) suficiencí hlavně obézní pacientky a pacientky s obnikční bronchopulmonální chorobou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Klinické příznaky TUR syndromu jsou",
+    "answers": [
+      "a) k Hhypertenze, bradykardie",
+      "b) kHhypotenze a porucha střevní peristaltiky",
+      "c) zmatenost, nauzea, křeče, kóma",
+      "d) dyspnoe, plicní otok"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) k Hhypertenze, bradykardie",
+      "c) zmatenost, nauzea, křeče, kóma",
+      "d) dyspnoe, plicní otok"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Varovné známky před křečemi při toxické reakci při předávkování lokálními anestetiky jsou",
+    "answers": [
+      "a) tupý pocit na jazyku a rtech",
+      "b) kovová pachuť v ústech",
+      "c) ospalost, opilost, smazaná řeč",
+      "d) svalový třes"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) tupý pocit na jazyku a rtech",
+      "b) kovová pachuť v ústech",
+      "c) ospalost, opilost, smazaná řeč",
+      "d) svalový třes"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Nejčastější pozdní komplikace po subarachnoidální anestezii jsou",
+    "answers": [
+      "a) snížená hybnost dolních končetin",
+      "b) retence moči a postpunkční bolesti hlavy",
+      "c) poruchy sluchu a vizu",
+      "d) poruchy motility trávicího ústrojí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) retence moči a postpunkční bolesti hlavy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Pro vzácnou komplikaci epidurální nebo subarachnoidální anestezie pro epidurální hematom svědčí",
+    "answers": [
+      "a) bolesti v zádech nebo dolních končetinách nebo slabost či obrna dolních končetin",
+      "b) bolesti na hrudi, palpitace, hypotenze",
+      "c) svalový třes, smazaná řeč",
+      "d) porucha pasáže trávicím ústrojím trvající asil2 hodin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) bolesti v zádech nebo dolních končetinách nebo slabost či obrna dolních končetin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Podezření na dehydrataci u pacienta máme u následujících stavů",
+    "answers": [
+      "a) průjem, střevní příprava",
+      "b) zvracení, střevní píštěle",
+      "c) teplota",
+      "d) hyperglykémie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) průjem, střevní příprava",
+      "b) zvracení, střevní píštěle",
+      "c) teplota",
+      "d) hyperglykémie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Ke klinickému obrazu dehydratace patří",
+    "answers": [
+      "a) apatie, poruchy vědomí",
+      "b) suché sliznice",
+      "c) tachykardie, hypotenze",
+      "d) oligurie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) apatie, poruchy vědomí",
+      "b) suché sliznice",
+      "c) tachykardie, hypotenze",
+      "d) oligurie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Hypokalémie vede",
+    "answers": [
+      "a) к poruchám srdečního rytmu",
+      "b) к atonii střevní a žaludeční",
+      "c) ke svalové slabosti",
+      "d) к hypoventilaci až zástavě dechu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) к poruchám srdečního rytmu",
+      "b) к atonii střevní a žaludeční",
+      "c) ke svalové slabosti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Konzervativní léčba akutní hyperkalémie zahrnuje",
+    "answers": [
+      "a) infúzní léčbu koncentrovaného roztoku glukózy a inzulínu",
+      "b) intravenózní podání iontů kalcia",
+      "c) alkalizaci vnitřního prostředí bikarbonátem",
+      "d) léčbu kličkovými diuretiky (Furosemid)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) infúzní léčbu koncentrovaného roztoku glukózy a inzulínu",
+      "b) intravenózní podání iontů kalcia",
+      "c) alkalizaci vnitřního prostředí bikarbonátem",
+      "d) léčbu kličkovými diuretiky (Furosemid)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Varovné příznaky hemolytické potransfúzní reakce jsou",
+    "answers": [
+      "a) pálení a bolest v průběhu žíly, do které je aplikováno",
+      "b) sevření na hrudi, neklid, nevolnost, oprese, bolest v bedrech",
+      "c) třesavka, teplota, studený pot, bolesti hlavy",
+      "d) tachykardie, hypotenze, tachypnoe"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) pálení a bolest v průběhu žíly, do které je aplikováno",
+      "b) sevření na hrudi, neklid, nevolnost, oprese, bolest v bedrech",
+      "c) třesavka, teplota, studený pot, bolesti hlavy",
+      "d) tachykardie, hypotenze, tachypnoe"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Léčba potransfúzní hemolytické reakce zahrnuje",
+    "answers": [
+      "a) přerušení transfúze",
+      "b) volumoterapii a vazopresory",
+      "c) kortikoidy ve vysokých dávkách",
+      "d) forsírovanou diurézu s alkalizací moči"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) přerušení transfúze",
+      "b) volumoterapii a vazopresory",
+      "c) kortikoidy ve vysokých dávkách",
+      "d) forsírovanou diurézu s alkalizací moči"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Pooperačně špatně tlumená bolest může vést",
+    "answers": [
+      "a) к sníženému dechovému objemu, snížené vitální kapacitě, špatné toaletě dýchacích cest a atelektázám",
+      "b) к hypertenzi a tachykardii a zvýšené srdeční práci a ischémii myokardu",
+      "c) к poruše motility trávicího ústrojí s nauzeou a zvracením a subileózním stavem",
+      "d) к retenci moči"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) к sníženému dechovému objemu, snížené vitální kapacitě, špatné toaletě dýchacích cest a atelektázám",
+      "b) к hypertenzi a tachykardii a zvýšené srdeční práci a ischémii myokardu",
+      "c) к poruše motility trávicího ústrojí s nauzeou a zvracením a subileózním stavem",
+      "d) к retenci moči"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Parenterálně podaný pethidin (Dolsin)",
+    "answers": [
+      "a) má střední délku účinku 2—4 hodin",
+      "b) je vhodný ke kontinuálnímu podání",
+      "c) při opakovaném podání se kumuluje jeho neurotoxický metabolit, který může vést к halucinacím, myoklonu a křečím",
+      "d) má střední délku účinku 6-8 hodin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) má střední délku účinku 2—4 hodin",
+      "c) při opakovaném podání se kumuluje jeho neurotoxický metabolit, který může vést к halucinacím, myoklonu a křečím"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Známky zástavy oběhu jsou",
+    "answers": [
+      "a) nehmatný tep na velkých cévách (a. carotis, a. femoralis)",
+      "b) bezvědomí",
+      "c) lapavé dechy či bezdeší",
+      "d) mrtvolný vzhled pacienta"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) nehmatný tep na velkých cévách (a. carotis, a. femoralis)",
+      "b) bezvědomí",
+      "c) lapavé dechy či bezdeší",
+      "d) mrtvolný vzhled pacienta"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Pooperační drobné atelektázy léčíme",
+    "answers": [
+      "a) farmakologicky (bronchodilatanciemi, mukoiytiky, inhalacemi)",
+      "b) kvalitní analgezií",
+      "c) rehabilitací dechovou (hluboké vdechy, dýchám proti odporu, poklepovou masáží)",
+      "d) proto, abychom zabránili vzniku bronchopneumonie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) farmakologicky (bronchodilatanciemi, mukoiytiky, inhalacemi)",
+      "b) kvalitní analgezií",
+      "c) rehabilitací dechovou (hluboké vdechy, dýchám proti odporu, poklepovou masáží)",
+      "d) proto, abychom zabránili vzniku bronchopneumonie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Nedostatečná pooperační analgezie způsobuje",
+    "answers": [
+      "a) neklid, nespolupráci, nespavost",
+      "b) nedostatečnou ventilaci, neschopnost odkašlat, hypoxémii",
+      "c) menší útlum a časnější rehabilitaci pacientky",
+      "d) tachykardii, hypertenzi, asymptomatickou ischémii myokardu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) neklid, nespolupráci, nespavost",
+      "b) nedostatečnou ventilaci, neschopnost odkašlat, hypoxémii",
+      "d) tachykardii, hypertenzi, asymptomatickou ischémii myokardu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Drenáž močového měchýře u operovaných žen se provádí",
+    "answers": [
+      "a) transuretrálně Foleyovým permanentním katétrem s balónkem",
+      "b) transuretrálně polyetylenovou cévkou bez balónku",
+      "c) suprapubicky epicystostomií",
+      "d) cystoskopicky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) transuretrálně Foleyovým permanentním katétrem s balónkem",
+      "b) transuretrálně polyetylenovou cévkou bez balónku",
+      "c) suprapubicky epicystostomií"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Komplikací suprapubické drenáže je",
+    "answers": [
+      "a) intravezikální krvácení",
+      "b) infekce místa vpichu",
+      "c) poranění střeva",
+      "d) retence moči"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) intravezikální krvácení",
+      "b) infekce místa vpichu",
+      "c) poranění střeva"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Neodkladnou resuscitaci ve fakultní nemocnici",
+    "answers": [
+      "a) zahajujeme v případě nutnosti vždy",
+      "b) nezahajujeme při hypovolemickém šoku a intoxikaci",
+      "c) zahajujeme přivoláním anesteziologického týmu",
+      "d) nezahajujeme u pacientů s prokázaným terminálním stadiem nevyléčitelného onemocnění nebo jasnými známkami smrti (posmrtné skvrny, ztuhlost)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) nezahajujeme u pacientů s prokázaným terminálním stadiem nevyléčitelného onemocnění nebo jasnými známkami smrti (posmrtné skvrny, ztuhlost)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Při asystolii u dospělého člověka je indikováno podání",
+    "answers": [
+      "a) Mesocainu",
+      "b) kalcia",
+      "c) adrenalinu",
+      "d) noradrenalinu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) adrenalinu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. První deflbrilační výboj při fibrilaci komor nebo komorové tachykardii provedeme energií při monofázické defibrilaci",
+    "answers": ["a) 12 J", "b) 400J", "c) 200 J", "d) 100 J"],
+    "book": ["Živný"],
+    "topic": [
+      "15. Anestezie, pooperační péče a základy resuscitace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 200 J"],
+    "description": [""],
+    "img": [""]
   }
 ]
