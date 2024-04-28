@@ -13,6 +13,7 @@ import {
   ButtonDescr,
 } from './Tests.styled';
 import Modal from '../../components/Modal/Modal';
+import Timer from 'components/Timer/Timer';
 
 const Tests = () => {
   const [modalActive, setModalActive] = useState(false);
@@ -22,6 +23,7 @@ const Tests = () => {
   const [count, setCount] = useState(1);
   const [myCorrectAnswers, setMyCorrectAnswers] = useState([]); // Хранение правильных ответов
   const [addColor, setAddColor] = useState(false); // Состояние для подсветки правильных ответов
+  const [time, setTime] = useState({ minutes: 0, seconds: 0 }); // состояние таймера
 
   const dispatch = useDispatch();
   const questions = useSelector(state => state.testsReducer.questions);
@@ -135,6 +137,7 @@ const Tests = () => {
       {count <= questions.length ? (
         <AnswerBlock>
           <AnswerControl>
+            <Timer time={time} setTime={setTime} />
             <Button onClick={handleNextQuestion}>Next Question</Button>
             <span>
               {count} из {questions.length}
@@ -144,7 +147,8 @@ const Tests = () => {
         </AnswerBlock>
       ) : (
         <LinkContainer>
-          <h3>{`Правильных ответов - ${correctCount} из ${questions.length}`}</h3>
+          <h3>{`Correct answers - ${correctCount} из ${questions.length}`}</h3>
+          <h3>{`Testing time ${time.minutes} : ${time.seconds}`}</h3>
           <LinkToPage to="/AnsweredQuestions">
             Перейти к разбору тестов
           </LinkToPage>
