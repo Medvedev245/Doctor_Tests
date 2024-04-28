@@ -22077,6 +22077,52 @@
     ],
     "img": [""]
   },
+  {
+    "question": "1400. U defektu septa síní NEdochází (Klener) Терапия",
+    "answers": [
+      "časně k cyanóze",
+      "k trikuspidalizaci",
+      "k plicní hypertenzi",
+      "k zatížení pravé komory"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["k trikuspidalizaci"],
+    "description": [
+      "V dětství obvykle bez obtíží. V dospělosti se může (při velkém zkratu) objevit snížená výkonnost, poruchy rytmu (hlavně flutter síní) zvětšení síní, zvětšení pravé komory (až srdeční selhání). Při zvýšení žilního tlaku (např. porodem) může dojít k paradoxní embolizaci (přes defekt do velkého oběhu). Wikiscripta. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "1401. Metabolická acidóza, šokový stav. Léčba? / Jak normalizovat stav pacienta s metabolickou acidozou? (apelace – správně) Терапия ",
+    "answers": [
+      "Umělá plicní ventilace ",
+      "dlouhodobé oteplování ",
+      "Bikarbonáty (NaHCO3)",
+      "fyziologicky roztok *solný roztok "
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Bikarbonáty (NaHCO3)"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1402. Fáze proliferace / Poliferáční (folikularní) fáze menstruačního cyklu:� Гинекология.",
+    "answers": [
+      "První 1-4 dny od začátku menstruace  ",
+      "Před ovulací ",
+      "Na konci cyklu ",
+      "tohle je sama menstruace"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Před ovulací "],
+    "description": [
+      "Fáze proliferační (folikulární) 5.–14. den cyklu. Probíhá pod vlivem estrogenů z rostoucího a zrajícího folikulu ovaria. Stratum functionale endometria se obnovuje hyperplázií (dělením buněk) a prokrvuje se. Epitel žlázek a buňky vaziva proliferují, zmnožují se mezibuněčná hmota a vazivová vlákna. Wikiscripta. "
+    ],
+    "img": [""]
+  },
 
   {
     "question": "1405. Percentily, norma: Педиатрия",
