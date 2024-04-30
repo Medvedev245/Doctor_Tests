@@ -33802,5 +33802,5163 @@
     "correctAnswers": ["c) 200 J"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Před plastickou augmentací prsu silikonovými implantáty je nezbytné žadatelce starší 30 let provést",
+    "answers": [
+      "a) jen palpační vyšetření prsů",
+      "b) důkladné vyšetření mléčné žlázy počítačovou komografií",
+      "c) běžné mamografické vyšetření",
+      "d) postačí ultrazvukové vyšetření prsů"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) běžné mamografické vyšetření"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Pacientky se silikonovými prsními implantáty",
+    "answers": [
+      "a) není třeba vyšetřovat mamograficky",
+      "b) nutné je jen pravidelné vyšetření prsů ultrazvukem",
+      "c) je třeba pravidelně vyšetřovat magnetickou rezonancí",
+      "d) při věku nad 40 letje vhodné doplnit mamografii [ultrazvukovým vyšetřením"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) při věku nad 40 letje vhodné doplnit mamografii [ultrazvukovým vyšetřením"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Mamografické vyšetření prsů se standardně provádí",
+    "answers": [
+      "a) v předozadní projekci",
+      "b) se dvou na sebe kolmých projekcích (kraniokaudální amediolaterální)",
+      "c) se dvou projekcích (kraniokaudální a šikmé)",
+      "d) ve dvou projekcích (mediolaterální a dorzoanteriomí)"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) se dvou projekcích (kraniokaudální a šikmé)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Mléčná lišta má základ",
+    "answers": [
+      "a) v mezenchymu",
+      "b) ventodermu",
+      "c) vektodermu",
+      "d) vneuroektodermu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) vektodermu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Ultrazvukové vyšetřeníje suverénní metoda v zobrazení",
+    "answers": [
+      "a) Mystických útvarů v prsu (cysta, absces) nikrokalcifikací",
+      "b) Eetrahovaných jizev po úrazech či operacích",
+      "c) nreinvazivních stadií karcinomu prsu pomocí",
+      "d) Dopplerova efektu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) Mystických útvarů v prsu (cysta, absces) nikrokalcifikací"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Nález suspektních mikrokalcifikací na mamografii svědčí s největší pravděpodobností pro",
+    "answers": [
+      "a) IDCIS",
+      "b) jLCIS",
+      "c) ukládání vápníku ve stěně arterií",
+      "d) vazivově přeměněný hematom po traumatu nebo po chirurgickém výkonu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) IDCIS"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. V terapii puerperální mastitidy užíváme nejčastěji",
+    "answers": ["a) ampicilin", "b) oxacilin", "c) gentamycin", "d) amikacin"],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) oxacilin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Pacientce s puerperální mastitidou",
+    "answers": [
+      "a) zakážeme kojení",
+      "b) doporučíme dále kojit nebo alespoň odstříkávat",
+      "c) doporučíme alespoň 14 dní nekojit",
+      "d) doporučíme zástavu laktace"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) doporučíme dále kojit nebo alespoň odstříkávat"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Zánět prsu mimo období laktace je",
+    "answers": [
+      "a) velmi častý",
+      "b) spíše vzácný",
+      "c) obvyklý u mladých žen",
+      "d) obvyklý u starších žen"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) spíše vzácný"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Při léčbě puerperální mastitidy preskribujeme antibiotika",
+    "answers": [
+      "a) jakákoli s ohledem na alergii matky, protože nepronikají do mléka",
+      "b) jen cefalosporiny, pro jejich výhodnou tkáňovou koncentraci a účinek proti chlamydiím",
+      "c) lékem první volby je oxacilin pro vysokou účinnost proti stafylokokům",
+      "d) chinolony pro vysokou účinnost proti streptokokům"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) lékem první volby je oxacilin pro vysokou účinnost proti stafylokokům"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Nejčastějším původcem puerperální mastitidy jsou",
+    "answers": [
+      "a) laktobacily",
+      "b) chlamydie",
+      "c) streptokoky",
+      "d) stafylokoky"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) stafylokoky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Nejčastějším nádorem prsu u mladých žena do 30 let je",
+    "answers": [
+      "a) lipom",
+      "b) hamartom",
+      "c) fibroadenom",
+      "d) mikroprolaktinom"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) fibroadenom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. U symptomatické simplexní tenkostěnné cysty prsu v průměru 2,5 cm je účinná léčba",
+    "answers": [
+      "a) chirurgická s odstraněním pouzdra cysty s výstelkou",
+      "b) hormonální, podáním analoga gonadoliberinu (GnRH)",
+      "c) jednorázovým ozářením prsu v dávce 1 Gy",
+      "d) punkce cysty tenkou jehlou"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) punkce cysty tenkou jehlou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Přibližné celoživotní riziko karcinomu prsu v naší populaci je",
+    "answers": [
+      "a) 2 % (onemocní jedna žena z padesáti)",
+      "b) menší než 1 % (onemocní méně než jedna žena ze sta)",
+      "c) 10% (onemocní každá desátá žena)",
+      "d) 30% (onemocní přibližně každá třetí žena)"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 10% (onemocní každá desátá žena)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Geneticky podmíněné onemocnění karcinomem prsu je přibližně",
+    "answers": [
+      "a) v 50% případů všech onemocnění",
+      "b) v 30 % případů všech onemocnění",
+      "c) v 15 % případů všech onemocnění",
+      "d) v 5 % případů všech onemocnění"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) v 5 % případů všech onemocnění"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Mezi nejvýraznější rizikové faktory pro vznik karcinomu prsu nepatří",
+    "answers": [
+      "a) věk přes šedesát let a neplodnost",
+      "b) mutace BRCA 1 nebo BRCA 2 genů",
+      "c) karcinom prsu v osobní anamnéze",
+      "d) karcinom prsu u babičky pacientky v 80 letech věku"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) karcinom prsu u babičky pacientky v 80 letech věku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Mléčná žláza vznikla ze zárodečného listu",
+    "answers": [
+      "a) ektodermu",
+      "b) entodermu",
+      "c) mezodermu",
+      "d) ektodermu a entodermu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) ektodermu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Každoročně v České republice onemocní karcinomem prsu přibližně",
+    "answers": ["a) 2500 žen", "b) 4500 žen", "c) 7000 žen", "d) 8000 žen"],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 4500 žen"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Samovyšetření prsů je nejlépe provádět",
+    "answers": [
+      "a) v době ovulace",
+      "b) po menstruaci",
+      "c) před menstruací",
+      "d) kdykoli během cyklu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) po menstruaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Ke screeningu karcinomu prsu se používá",
+    "answers": [
+      "a) ultrazvuk",
+      "b) mamograf",
+      "c) ultrazvuk i mamograf",
+      "d) magnetická rezonance"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) mamograf"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Nejčastější zhoubný nádor u žen je",
+    "answers": [
+      "a) karcinom vaječníků",
+      "b) karcinom prsu",
+      "c) karcinom děložního těla",
+      "d) karcinom děložního hrdla"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) karcinom prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Nejčastěji je karcinom prsu lokalizován",
+    "answers": [
+      "a) v centru prsu",
+      "b) v dolním vnitřním kvadrantu prsu",
+      "c) v dolním zevním kvadrantu prsu",
+      "d) v horním zevním kvadrantu prsu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) v horním zevním kvadrantu prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Při užívání hormonální substituční terapie by mělo být provedeno vyšetření",
+    "answers": [
+      "a) ultrazvukemjednou ročně",
+      "b) mamografické každý rok",
+      "c) střídavě mamografie a ultrazvuk",
+      "d) ultrazvuk nebo mamografie jednou ročně"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) mamografické každý rok"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Mezi benigní léze prsu nepatří",
+    "answers": [
+      "a) fibroadenom",
+      "b) papilom",
+      "c) duktektazie",
+      "d) duktální carcinoma in situ"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) duktální carcinoma in situ"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Postavení magnetické rezonance v diagnostice karcinomu prsu je",
+    "answers": [
+      "a) domimantní",
+      "b) používá se v ojedinělých případech, kdy je třeba diferenciálně diagnosticky odlišit např. jizvu od karcinomu",
+      "c) používá se jen u pacientek s prsními implantáty",
+      "d) nepoužívá se vůbec"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) používá se v ojedinělých případech, kdy je třeba diferenciálně diagnosticky odlišit např. jizvu od karcinomu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Mezi prekancerózy prsu patří",
+    "answers": [
+      "a) apokrinní metaplazie",
+      "b) fibroadenom",
+      "c) gynekomastie",
+      "d) atypická hyperplazie"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) atypická hyperplazie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. К diagnóze papilomu mlékovodu může pomoci",
+    "answers": [
+      "a) ultrazvuk prsu",
+      "b) biopsie prsu",
+      "c) duktografie",
+      "d) mamografie"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) duktografie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Cyklická mastodynie se vyskytuje nejčastěji",
+    "answers": [
+      "a) u děvčat před menarche",
+      "b) u žen v reprodukčním věku",
+      "c) u žen po menopauze",
+      "d) v těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) u žen v reprodukčním věku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Tamoxifen je",
+    "answers": [
+      "a) antigestagen",
+      "b) antiestrogen",
+      "c) gestagen",
+      "d) estrogen"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) antiestrogen"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Tamoxifen působí proti estrogenům na úrovni",
+    "answers": [
+      "a) syntézy",
+      "b) degradace",
+      "c) receptorů",
+      "d) interakce s buněčnou membránou"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) receptorů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. ivodcem puerperální mastitidy je nejčastěji",
+    "answers": [
+      "a) ??ococra.v aureus",
+      "b) wtococcus agalactiae",
+      "c) therichia coli",
+      "d) udomonas aeruginosa"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) ??ococra.v aureus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. hlpační vyšetření prsů u žen ve věku vyšším než 30 let",
+    "answers": [
+      "a) jesoučástí komplexního vyšetření pacientky praktického i ženského lékaře",
+      "b) je prováděno jen ve specializovaných mamologických Kbulancich",
+      "c) není součástí komplexního vyšetření",
+      "d) musi provádět jen specialista, lékař-mamolog"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) jesoučástí komplexního vyšetření pacientky praktického i ženského lékaře"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Pojem mastodynie označuje",
+    "answers": [
+      "a) pocit napětí v prsou",
+      "b) Mrestezie v oblasti bradavek při kojení",
+      "c) podpůrnou léčbu dynilovými proudy",
+      "d) bolest v prsou"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) bolest v prsou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. pentineiová uzlina je označení pro",
+    "answers": [
+      "a) Imfatickou uzlinu ve vrcholu axily",
+      "b)ednu uzlinu, která obsahuje metastázy",
+      "c) první spádovou uzlinu, která drénuje nádor",
+      "d) Minu, která jediná neobsahuje metastázy"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) první spádovou uzlinu, která drénuje nádor"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. buněk karcinomu prsu se stanovují",
+    "answers": [
+      "a) estragenové receptory",
+      "b) ogenové a progesteronové receptory",
+      "c) laktinové receptory",
+      "d) Konadotropinové receptory"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) ogenové a progesteronové receptory"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Příčinou krvavého výtoku z prsu je ze skupiny benigních nádorů nejčastěji",
+    "answers": [
+      "a) Broadenom",
+      "b) phyllodes tumor",
+      "c) tibulární adenom",
+      "d) papilon"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) papilon"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Galaktorea může být příznakem",
+    "answers": [
+      "a) Вadenomu hypofýzy",
+      "b)radenomu nadledvin",
+      "c) kdenomu prsu",
+      "d) iádoru hypotalamu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) Вadenomu hypofýzy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. G prs zachovávajících operací s disekcí axily pro",
+    "answers": [
+      "a) karcinom prsu je vždy nedílnou součástí",
+      "b) adjuvantní léčby",
+      "c) radioterapie prsu",
+      "d) radioterapie prsu a axily"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) radioterapie prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Mléčná žláza je",
+    "answers": [
+      "a) tuboalveolámí",
+      "b) mazová",
+      "c) vnitřně sekretorická",
+      "d) duktulokavernózní"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) tuboalveolámí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Svalový podklad tělesa mléčné žlázy tvoří",
+    "answers": [
+      "a) m pectoralis minor",
+      "b) m pectoralis maior a m. serratus anterior",
+      "c) m pectoralis maior a m. serratus posterior",
+      "d) m coracobrachialis a m. pectoralis maior"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) m pectoralis maior a m. serratus anterior"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Alveoly mléčné žlázy",
+    "answers": [
+      "a) jsou přítomny již při narození",
+      "b) vyvíjejí se až v pubertě",
+      "c) vyvíjejí se až v těhotenství",
+      "d) vyvíjejí se až při první laktaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) vyvíjejí se až v pubertě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Nástup laktace je podmíněn",
+    "answers": [
+      "a) snížením koncentrace estrogenů a progesteronu",
+      "b) zvýšením koncentrace estrogenů a progesteronu",
+      "c) snížením koncentrace oxytocinu",
+      "d) zvýšením koncentrace oxytocinu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) snížením koncentrace estrogenů a progesteronu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Prolaktin se tvoří",
+    "answers": [
+      "a) v zadním laloku hypofýzy",
+      "b) ve střením laloku hypofýzy",
+      "c) v hypotalamu",
+      "d) v předním laloku hypofýzy"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) v předním laloku hypofýzy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Sekrece z mléčné žlázy u novorozenců je způsobena vlivem",
+    "answers": [
+      "a) fetálního prolaktinu",
+      "b) aldosteronu",
+      "c) mateřských estrogenů",
+      "d) mateřského choriogonadotropinu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) mateřských estrogenů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Geny BRCA 1 a BRCA 2 se podílejí na",
+    "answers": [
+      "a) přenosu signálu růstových faktorů do nitra buňky",
+      "b) reparaci poškození DNA",
+      "c) regulaci metabolismu glukózy",
+      "d) signalizační cestě steroidních hormonů"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) reparaci poškození DNA"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Pokud u příbuzné nositelky mutace genu BRCA 1 tuto mutaci nezjistíme, pak je u ní riziko karcinomu prsu",
+    "answers": [
+      "a) 20-25%",
+      "b) větší než 80 %",
+      "c) stejné jako populační",
+      "d) 5krát vyšší než v populaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) stejné jako populační"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Receptory pro steroidní hormony se nacházejí",
+    "answers": [
+      "a) v cytoplazmě buňky",
+      "b) v endoplazmatickém retikulu",
+      "c) v mitochondriích",
+      "d) v jádru"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) v jádru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Mléčná žláza plně dozrává",
+    "answers": [
+      "a) již při narození",
+      "b) v pubertě",
+      "c) při první laktaci",
+      "d) po šestinedělí"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) při první laktaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Nejčastější histologický typ karcinomu prsu je",
+    "answers": [
+      "a) lobulámí",
+      "b) duktální",
+      "c) smíšený",
+      "d) nediferencovaný"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) duktální"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Přítomnost steroidních receptorů u buněk karcinomu prsu svědčí pro",
+    "answers": [
+      "a) větší pravděpodobnost léčebné odpovědi na chemoterapii",
+      "b) menší pravděpodobnost léčebné odpovědi na chemoterapii",
+      "c) větší pravděpodobnost léčebné odpovědi na hormonoterapii",
+      "d) větší pravděpodobnost rezistence na radioterapii"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) větší pravděpodobnost léčebné odpovědi na hormonoterapii"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. U 451eté pacientky s biopticky (core-cut biopsie) ověřeným karcinomem prsu, který má palpačně i mamograficky velikost 1 cm a je lokalizován v horním zevním kvadrantu pravého prsu, dáme přednost chirurgickému výkonu v rozsahu",
+    "answers": [
+      "a) mastektomie s disekcí axily v úrovni I. a II. etáže",
+      "b) prs zachovávající operace bez disekce axily v úrovni I a II etáže",
+      "c) prs zachovávající operace s disekcí axily v úrovni I a II etáže",
+      "d) simplexní mastektomie"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) prs zachovávající operace s disekcí axily v úrovni I a II etáže"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "52 Mutace genu BRCA 1 a BRCA 2 zvyšuje u nosičky riziko karcinomu prsu",
+    "answers": [
+      "a) nezvyšuje riziko",
+      "b) na 10-20%",
+      "c) na 60-80 %",
+      "d) 100%"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) na 60-80 %"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Lepší prognózu mají postmenopauzální pacientky s karcinomem prsu, jehož buňky vykazují",
+    "answers": [
+      "a) vysokou mitotickou aktivitu",
+      "b) vysoký grading (jsou nízce diferencované)",
+      "c) velký počet steroidních receptorů",
+      "d) velký počet HER-2 neu (c-erb) receptorů"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) velký počet steroidních receptorů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Které z následujících hormonů nemají vliv na mléčnou žlázu",
+    "answers": [
+      "a) estrogeny",
+      "b) laktiny",
+      "c) gestageny",
+      "d) gonadotropiny"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) laktiny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Intraduktální papilom se nejčastěji projevuje",
+    "answers": [
+      "a) bolestí postiženého prsu",
+      "b) zarudnutím postiženého prsu",
+      "c) sekrecí z postiženého prsu",
+      "d) retrakcí bradavky postiženého prsu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) sekrecí z postiženého prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Mamografii musíme provést",
+    "answers": [
+      "a) po úrazu prsu",
+      "b) před nasazením hormonální antikoncepce",
+      "c) před nasazením hormonální substituce",
+      "d) po skončení hormonální substituce"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) před nasazením hormonální substituce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Chemoterapie nádorů prsu je",
+    "answers": [
+      "a) vždy monoterapií",
+      "b) podávána vždy zároveň s aplikací radioterapie",
+      "c) vždy součástí léčby",
+      "d) většinou kombinovaná"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) většinou kombinovaná"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Geny BRCA 1 a BRCA 2 patří do skupiny",
+    "answers": [
+      "a) onkogenů",
+      "b) tumorsupresorových genů",
+      "c) mismatch repair genů",
+      "d) cyklin dependentních kináz"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) tumorsupresorových genů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Do ambulance se dostaví 631etá pacientka, která si stěžuje na mokvavou afekci areoly pravého prsu velikosti 2x1 cm, která začala před šesti měsíci a intermitentně se zmírňuje po lokální léčbě různými mastmi. Poslední mamografické vyšetření bylo provedeno před 2 lety, bez známek maligních změn. Pacientce doporučíme",
+    "answers": [
+      "a) návštěvu kožní ambulance",
+      "b) antimykotickou léčbu",
+      "c) mamografické vyšetření a následné vyšetření kožním lékařem",
+      "d) odběr kultivace z afekce"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) mamografické vyšetření a následné vyšetření kožním lékařem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Pacientka, 261etá primigravida v 32. týdnu těhotenství, přichází se stížností na sekreci nejprve z pravého, poté z obou prsů. Má obavu z nádorového onemocnění, protože její babička zemřela v 73 letech na karcinom prsu. Proto pacientce",
+    "answers": [
+      "a) vysvětlíme, že se jedná o fyziologickou sekreci kolostra, popřípadě doplníme UZ vyšetřením",
+      "b) zajistíme urychleně mamografické vyšetření, bude-li negativní, pak duktografii",
+      "c) odebereme cytologii sekretu",
+      "d) zajistíme magnetickou rezonanci prsů, aby plod nebyl vystaven rtg záření"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) vysvětlíme, že se jedná o fyziologickou sekreci kolostra, popřípadě doplníme UZ vyšetřením"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Na pohotovostní službu se dostaví nedělka pět týdnů po spontánním porodu s typickými známkami neabscedující puerperální mastitidv. Navrhneme tento léčebný postup",
+    "answers": [
+      "a) antibiotika, antipyretika, zástava laktace",
+      "b) antibiotika, antipyretika, dále kojit nebo odstříkávat mléko",
+      "c) antibiotika, chirurgická incize a drenáž prsu",
+      "d) antibiotika, Priessnitzův obklad prsů"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) antibiotika, antipyretika, dále kojit nebo odstříkávat mléko"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Do ambulance přijde 551etá dělnice, která si stěžuje na opakující se zánět pravého prsu (podruhé během dvou měsíců). Anamnesticky udává, že 2krát spontánně porodila a vždy v šestinedělí měla zánět prsu. Rozvaha bude",
+    "answers": [
+      "a) pacientku poučím o tělesné hygieně a doporučím nošení lehkého bavlněného prádla",
+      "b) budu se snažit odebrat kultivaci z prsu, zajistím odběr zánětových markérů a s výsledky zahájím cílenou antibiotickou léčbou",
+      "c) podrobně se vyptám na anamnézu a budu pátrat po systémovém autoimunitním onemocnění",
+      "d) pacientce zajistím mamografické vyšetření, protože budu mít podezření na zhoubný nádor prsu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) pacientce zajistím mamografické vyšetření, protože budu mít podezření na zhoubný nádor prsu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Nádor vycházející z epidermis bradavky a dvorce infiltrující tkáně prsu, zvaný Pagetův nádor, se projevuje",
+    "answers": [
+      "a) spontánně i expresí vylučovanými žlutavými hmotami ze žlázových vývodů",
+      "b) mokváním, zčervenáním a erozí bradavky a dvorce provázenými svěděním a pálením",
+      "c) pseudozánětlivou reakcí",
+      "d) velkým zvětšením celého prsu a bolestmi v oblasti bradavky"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) mokváním, zčervenáním a erozí bradavky a dvorce provázenými svěděním a pálením"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Bioptický nález atypické duktální hyperplazie",
+    "answers": [
+      "a) je běžný u žen v perimenopauze",
+      "b) patří mezi prekancerózy a je třeba ženu dále sledovat",
+      "c) je typický pro silné kuřačky",
+      "d) je indikací к cílenému vyšetření prsů mamografem"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) patří mezi prekancerózy a je třeba ženu dále sledovat"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Mastopathia cystica je",
+    "answers": [
+      "a) maligní pseudotumor prsu",
+      "b) forma fibroepiteliální dysplazie prsu",
+      "c) zánětové onemocnění prsu",
+      "d) zvětšení prsu podmíněné přítomností cysty"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) forma fibroepiteliální dysplazie prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Obrovských rozměrů (až 15 kg hmotnosti) dosahuje",
+    "answers": [
+      "a) cancer en cuirasse",
+      "b) fibroma intracanaliculare cellulare (cystosarcoma phylloides)",
+      "c) karcinom prsu",
+      "d) lipom prsu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) fibroma intracanaliculare cellulare (cystosarcoma phylloides)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Podezření na karcinom prsu je při",
+    "answers": [
+      "a) zarudnutí kůže prsu provázeném zvýšenou teplotou",
+      "b) bolestivosti jednoho prsu",
+      "c) retrakci bradavky",
+      "d) asymetrické velikosti prsů"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) retrakci bradavky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Mamografie je",
+    "answers": [
+      "a) zakreslení ozařovacích polí před plánovanou aktinoterapií prsů",
+      "b) zvýrazněná cévní kresba na povrchu prsů",
+      "c) radiodiagnostická vyšetřovací metoda prsů",
+      "d) zakreslení požadovaného tvaru prsů při plánované plastické operaci prsů"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) radiodiagnostická vyšetřovací metoda prsů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Obraz «pomerančové kůry« kůže prsu je charakteristický pro",
+    "answers": [
+      "a) lobulámí karcinom",
+      "b) Pagetův karcinom",
+      "c) erysipeloidní karcinom",
+      "d) Mondorovu nemoc"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) erysipeloidní karcinom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Samovyšetřování prsů by měla žena provádět",
+    "answers": [
+      "a) jednou měsíčně, nejlépe po skončení menses (při zachované menstruaci)",
+      "b) jednou ročně",
+      "c) denně",
+      "d) po každém těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) jednou měsíčně, nejlépe po skončení menses (při zachované menstruaci)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Involující prsní žláza (involuční prs) je charakteristická pro",
+    "answers": [
+      "a) stav prsu po náhlém úbytku hmotnosti",
+      "b) postklimakterické období",
+      "c) geneticky podmíněnou hypoplazii prsů",
+      "d) stav prsu po iradiaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) postklimakterické období"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Z níže uvedených metod se při léčbě zhoubných nádorů prsu neuplatňuje",
+    "answers": [
+      "a) termoterapie",
+      "b) radiační terapie",
+      "c) chirurgická terapie",
+      "d) hormonoterapie"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) termoterapie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Ovarektomie je při zhoubném nádoru prsu indikována",
+    "answers": [
+      "a) u žen se zachovaným menstruačním cyklem s nádorem prsu a pozitivními estrogenovými receptory",
+      "b) jen při prokazatelně metastaticky postižených ovariích",
+      "c) nikdy, jde o již zastaralý a překonaný postup",
+      "d) vždy při zjištění nádoru prsu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) u žen se zachovaným menstruačním cyklem s nádorem prsu a pozitivními estrogenovými receptory"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Užívání antikoncepčních hormonálních preparátů",
+    "answers": [
+      "a) zvyšuje možnost vzniku maligních lézí prsu",
+      "b) je součástí hormonoterapie u maligních nádorů prsu",
+      "c) nemá žádný vliv na vznik benigních ani maligních lézí prsu",
+      "d) je kontraindikováno u pacientek s karcinomem prsu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) je kontraindikováno u pacientek s karcinomem prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. Přítomnost estrogenních hormonálních receptorů v nádoru prsu",
+    "answers": [
+      "a) naznačuje větší pravděpodobnost léčebné odpovědi na hormonoterapii",
+      "b) naznačuje větší pravděpodobnost léčebné odpovědi na hormonoterapii jen u menoaktivních žen",
+      "c) léčebný efektjejich přítomnost nijak ovlivnit nemůže",
+      "d) naznačuje větší pravděpodobnost léčebné odpovědi na hormonoterapii jen při odpovídajícím zastoupení i progesteronových receptorů"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) naznačuje větší pravděpodobnost léčebné odpovědi na hormonoterapii"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Krvavá sekrece z prsů mimo laktační období",
+    "answers": [
+      "a) je typická pro nodulámí karcinom",
+      "b) se považuje za rizikový faktor a je nutno vyšetřitjejí příčinu",
+      "c) je obvyklá u hormonálních dysbalancí poměru estrogeny/gestageny",
+      "a) objevuje-li se pouze po ránu, není třeba věnovat jí zvláštní pozornost"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) se považuje za rizikový faktor a je nutno vyšetřitjejí příčinu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Bolest prsní žlázy bez patologickoanatomického podkladu nazýváme",
+    "answers": [
+      "a) mastodynie",
+      "b) mastopatie",
+      "c) mastitida",
+      "d) gynekomastie"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) mastodynie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. Při palpačním vyšetření prsů je součástí vyšetření palpační kontrola",
+    "answers": [
+      "a) axilámích a mediastinálních lymfatických uzlin",
+      "b) axilámích a submandibulámích lymfatických uzlin",
+      "c) axilámích a supraklavikulárních lymfatických uzlin",
+      "d) axilámích a okcipitálních lymfatických uzlin"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) axilámích a supraklavikulárních lymfatických uzlin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Cyklus mléčné žlázy je",
+    "answers": [
+      "a) obecný název pro vývoj mléčné žlázy v době těhotenství",
+      "b) cyklickou změnou mléčné žlázy vyvolanou aplikací hormonální antikoncepce",
+      "c) odpovědí mléčné žlázy na ovariální cyklus",
+      "d) název pro vývoj mléčné žlázy v průběhu života ženy"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) odpovědí mléčné žlázy na ovariální cyklus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Atelie znamená",
+    "answers": [
+      "a) chybějící bradavky",
+      "b) vzdálenost mezi prsními bradavkami",
+      "c) přídatná mléčná žláza nebo jen prsní bradavka obvykle v axile",
+      "d) zpomalený růst prsní žlázy na podkladě hormonálním"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) chybějící bradavky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Při mamograflckém vyšetřeníjsou jednou z charakteristických známek malignity u suspektního ložiska v prsu",
+    "answers": [
+      "a) shluky kalcifikací v ložisku",
+      "b) četná cystická projasnění",
+      "c) hladká kontura ložiska",
+      "d) transparentní stín ohraničující ložisko"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) shluky kalcifikací v ložisku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. Absolutní kontraindikací konzervativní chirurgické terapie karcinomu prsu je",
+    "answers": [
+      "a) předchozí ozáření prsu",
+      "b) více než jedno nádorové ložisko v prsu",
+      "c) těhotenství",
+      "d) všechny uvedené možnosti jsou absolutní kontraindikací"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) všechny uvedené možnosti jsou absolutní kontraindikací"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Pruhovité, pásovité zduření kůže strunovitě napjaté a probíhající po přední straně hrudníku se nazývá",
+    "answers": [
+      "a) Mondorova choroba",
+      "b) Sheenova-Simondsova choroba",
+      "c) Pagetova choroba",
+      "d) Aschermannova choroba"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) Mondorova choroba"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Hormonální léčbou karcinomu prsu u postmenopauzálních žen je",
+    "answers": [
+      "a) tamoxifen",
+      "b) LH-RH agonisté",
+      "c) ovarektomie",
+      "d) použití inhibitorů aromatázy"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) tamoxifen", "b) LH-RH agonisté"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Pooperační radioterapii provádíme u",
+    "answers": [
+      "a) konzervativního chirurgického výkonu",
+      "b) při nádorovém postižení více než 4 axilámích uzlin",
+      "c) radikálního výkonu - ablace a exenterace axily u stadia I, ve věku nad 65 let",
+      "d) carcinoma in situ po prosté ablaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) konzervativního chirurgického výkonu",
+      "b) při nádorovém postižení více než 4 axilámích uzlin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Lobulární karcinom in situ je často",
+    "answers": [
+      "a) dobře klinicky diagnostikovatelný",
+      "b) unicentrický",
+      "c) multicentrický",
+      "d) přítomen oboustranně"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) multicentrický", "d) přítomen oboustranně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Karcinomy prsu metastazují",
+    "answers": [
+      "a) lymfatickými cestami do axilámích uzlin",
+      "b) hematogenními cestami do skeletu",
+      "c) lymfatickými cestami do nadklíčkových uzlin",
+      "d) hematogenními cestami do jater a plic"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) lymfatickými cestami do axilámích uzlin",
+      "b) hematogenními cestami do skeletu",
+      "c) lymfatickými cestami do nadklíčkových uzlin",
+      "d) hematogenními cestami do jater a plic"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Lokoregionální terapií karcinomu prsu rozumíme",
+    "answers": [
+      "a) chemoterapii",
+      "b) hormonoterapii",
+      "c) chirurgickou terapii",
+      "d) radioterapii"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) chirurgickou terapii", "d) radioterapii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Mezi nežádoucí účinky antracyklinů limitující jejich dávku patří",
+    "answers": [
+      "a) kardiotoxicita",
+      "b) alopecie",
+      "c) nefrotoxicita",
+      "d) neurotoxicita"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) kardiotoxicita"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Mezi cytostatika, které mají vysoký emetogenní potenciál, patří",
+    "answers": [
+      "a) paklitaxel",
+      "b) metotrexát",
+      "c) cisplatina",
+      "d) 5-fluorouracil"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) cisplatina"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Léčba pokročilého karcinomu prsu může být po histologické verifikaci následující",
+    "answers": [
+      "a) je zahájena neoadjuvantní chemoterapie, pak chirurgická léčba, ev. radioterapie",
+      "b) radikální chirurgický výkon, podle histologie ev. adjuvantní chemoterapie s radioterapií",
+      "c) paliativní radioterapie",
+      "d) hormonoterapie"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je zahájena neoadjuvantní chemoterapie, pak chirurgická léčba, ev. radioterapie",
+      "b) radikální chirurgický výkon, podle histologie ev. adjuvantní chemoterapie s radioterapií",
+      "c) paliativní radioterapie",
+      "d) hormonoterapie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Medikamaútózní zástavu laktace podpoří",
+    "answers": [
+      "a) omezení příjmu tekutin",
+      "b) přikládá-li se na prsa studený tvaroh",
+      "c) vyvážou-li se prsy",
+      "d) přestane-li se dítě přikládat к prsu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) vyvážou-li se prsy",
+      "d) přestane-li se dítě přikládat к prsu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Medikamentózní zástava laktace se standardně provádí aplikací preparátů ze skupiny",
+    "answers": [
+      "a) antagonistů dopaminu",
+      "b) agonistů dopaminu",
+      "c) antagonistů prolaktinu",
+      "d) agonistů prolaktin inhibujícho hormonu (PIH)"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) agonistů dopaminu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Při zástavě laktace ergolinovými deriváty musíme pacientky upozornit",
+    "answers": [
+      "a) na zvýšenou nervosvalovou dráždivost",
+      "b) na sníženou schopnost řídit vozidla a ovládat stroje",
+      "c) na možnost vzniku posturální hypotenze",
+      "d) na gastrointestinální dyskomfort a zvracení"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) na sníženou schopnost řídit vozidla a ovládat stroje",
+      "c) na možnost vzniku posturální hypotenze",
+      "d) na gastrointestinální dyskomfort a zvracení"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Při vysoké koncentraci prolaktinu je nutné provést",
+    "answers": [
+      "a) neurologické vyšetření",
+      "b) stimulační test",
+      "c) rtg lebky",
+      "d) magnetickou rezonanci tureckého sedla"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) magnetickou rezonanci tureckého sedla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Dispozice ke vzniku nádoru se v případě genů BRCA 1 a BRCA 2 dědí",
+    "answers": [
+      "a) autosomálně dominantně",
+      "b) autosomálně recesivně",
+      "c) gonosomálně dominantně",
+      "d) gonosomálně recesivně"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) autosomálně dominantně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Amazie či amastie je",
+    "answers": [
+      "a) snížená produkce mateřského mléka",
+      "b) destruktivní zánět mléčné žlázy",
+      "c) obstrukce vývodů mléčné žlázy",
+      "d) vrozené chybění prsu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) vrozené chybění prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Účinek prolaktinu je v těhotenství blokován na receptorové úrovni",
+    "answers": [
+      "a) estrogenem",
+      "b) progesteronem",
+      "c) oxytocinem",
+      "d) methylergometrinem"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) progesteronem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Mondorova choroba je",
+    "answers": [
+      "a) triáda: zarudnutí prsu, sekrece z prsu, zvýšená teplota",
+      "b) tetráda: asymetrie prsů, rezistence v prsu, vysoké teploty a nauzea",
+      "c) pruhovité zduření kůže na přední hrudní stěně, většinou shodné s průběhem větší podkožní žíly",
+      "d) zarudnutí a retrakce bradavky spolu ze sangvinolentní sekrecí"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) pruhovité zduření kůže na přední hrudní stěně, většinou shodné s průběhem větší podkožní žíly"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. U 561eté pacientky, která si stěžuje na serózní sekreci z pravého prsu, jež se objevila před měsícem a neustává,je indikováno",
+    "answers": [
+      "a) stanovení koncentrace prolaktinu",
+      "b) palpační vyšetření prsů",
+      "c) mamografie a duktografie",
+      "d) cytologie sekretu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) palpační vyšetření prsů",
+      "c) mamografie a duktografie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Podezření na karcinom prsu u 551eté pacientky budeme mít při",
+    "answers": [
+      "a) bolestivosti jednoho prsu",
+      "b) retrakci bradavky",
+      "c) asymetrii velikosti prsů",
+      "d) krvavé sekreci z jednoho prsu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) retrakci bradavky",
+      "d) krvavé sekreci z jednoho prsu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Při nálezu suspektních mikrokalcifikací na mamografiije indikováno",
+    "answers": [
+      "a) histologické ověření nálezu",
+      "b) stereotakticky řízená biopsie",
+      "c) kontrolní mamografie do 3 měsíců",
+      "d) ihned ultrazvukové vyšetření"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) histologické ověření nálezu",
+      "b) stereotakticky řízená biopsie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Při invazivním karcinomu prsu do stadia T2 je standardně indikována tato chirurgická léčba",
+    "answers": [
+      "a) excize tumoru",
+      "b) parciální mastektomie s disekcí axily",
+      "c) modifikovaná radikální mastektomie",
+      "d) tumorektomie s kvadrantektomií"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) parciální mastektomie s disekcí axily",
+      "c) modifikovaná radikální mastektomie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Mezi možné symptomy karcinomu prsu nepatří",
+    "answers": [
+      "a) mokvavý zánět dvorce",
+      "b) bolest v postiženém prsu",
+      "c) známky zánětu prsu po skončení laktace",
+      "d) oboustranná sekrece z prsů před"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) bolest v postiženém prsu",
+      "d) oboustranná sekrece z prsů před"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Klinická diagnóza mastopatie zahrnuje",
+    "answers": [
+      "a) mnoho hormonálně závislých proliferativních a regresivních změn v parenchymu prsní žlázy",
+      "b) bolest prsů",
+      "c) jakékoliv onemocnění mléčné žlázy",
+      "d) vytváření mikrocyst i makrocyst, fibrosklerózu tkání, hyperplazii epitelu, edém, přestavbu architektury žlázy"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) mnoho hormonálně závislých proliferativních a regresivních změn v parenchymu prsní žlázy",
+      "b) bolest prsů",
+      "d) vytváření mikrocyst i makrocyst, fibrosklerózu tkání, hyperplazii epitelu, edém, přestavbu architektury žlázy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. V indikaci hormonální terapie u časných stadií karcinomu prsu se používají",
+    "answers": [
+      "a) androgeny",
+      "b) antiestrogeny",
+      "c) GnRH-analoga",
+      "d) gestageny"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) antiestrogeny", "c) GnRH-analoga"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. К nejčastějším komplikacím po disekci axily pro karcinom prsu řadíme",
+    "answers": [
+      "a) obrnu ipsilaterální horní končetiny",
+      "b) krvácení a tvorbu hematomu",
+      "c) serom axily",
+      "d) parestezie v oblasti zadní strany paže"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) serom axily",
+      "d) parestezie v oblasti zadní strany paže"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Lymfedém horní končetiny u pacientek po chirurgické léčbě karcinomu prsu se zhoršuje",
+    "answers": [
+      "a) aplikací chemoterapie",
+      "b) v důsledku nešetrné nebo pozdní rehabilitace po operaci",
+      "c) aplikací radioterapie axily",
+      "d) špatnou compliance pacientky"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) v důsledku nešetrné nebo pozdní rehabilitace po operaci",
+      "c) aplikací radioterapie axily",
+      "d) špatnou compliance pacientky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Asymetrie velikosti prsů",
+    "answers": [
+      "a) je do jisté míry fyziologická",
+      "b) je způsobena nevhodným tělesným cvičením",
+      "c) je řešitelná plastickou operací",
+      "d) zvyšuje riziko karcinomu prsu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je do jisté míry fyziologická",
+      "c) je řešitelná plastickou operací"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Bilaterální ovarektomie u pacientek s karcinomem prsu je indikována",
+    "answers": [
+      "a) raritně, jde o obsolentní přístup",
+      "b) vždy po stanovení diagnózy",
+      "c) u premenopauzálních pacientek s pozitivními steroidními receptory v nádorových buňkách",
+      "d) u pacientek s karcinomem prsu a mutací genu BRCA 1 a BRCA 2"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) u premenopauzálních pacientek s pozitivními steroidními receptory v nádorových buňkách",
+      "d) u pacientek s karcinomem prsu a mutací genu BRCA 1 a BRCA 2"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Radioterapie karcinomu prsu",
+    "answers": [
+      "a) vždy předchází chirurgickou léčbu",
+      "b) většinou následuje po chirurgické léčbě",
+      "c) je určena pro inoperabilní lokálně pokročilé onemocnění",
+      "d) je určena jen pro inoperabilní lokálně pokročilé onemocnění"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) většinou následuje po chirurgické léčbě",
+      "c) je určena pro inoperabilní lokálně pokročilé onemocnění"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Pro adekvátní staging karcinomu prsu je třeba histologicky vyšetřit",
+    "answers": [
+      "a) nejméně 10 axilámích lymfatických uzlin",
+      "b) alespoň jednu uzlinu",
+      "c) 5 axilámích lymfatických uzlin",
+      "d) není potřeba vyšetřit ani jednu uzlinu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. MAMOLOGIE. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) nejméně 10 axilámích lymfatických uzlin"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Pokud jde o gynekologickou operaci, je věk 80 let",
+    "answers": [
+      "a) absolutní kontraindikací",
+      "b) relativní kontraindikací - operace je možná jen I z vitální indikace",
+      "c) přístup je vždy individuální, věk sám o sobě nerozhoduje",
+      "d) věk nebereme vůbec v úvahu"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) přístup je vždy individuální, věk sám o sobě nerozhoduje"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Jako prevenci tromboembolické choroby podáváme v souvislosti s hysterektomii",
+    "answers": [
+      "a) kyselinu acetylsalicylovou",
+      "b) venotonika",
+      "c) streptokinázu",
+      "d) heparin"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) heparin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. V době akutní infekce horních cest dýchacích kyretáž",
+    "answers": [
+      "a) provádíme v cloně antibiotik",
+      "b) neprovádíme, není-li nebezpečí z prodlení",
+      "c) nikdy neprovádíme",
+      "d) můžeme provést bez obav, jedná-li se pouze o virózu"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) neprovádíme, není-li nebezpečí z prodlení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Po hysterektomii při nekomplikovaném průběhu vstává nemocná z lůžka",
+    "answers": [
+      "a) první pooperační den",
+      "b) třetí pooperační den",
+      "c) druhý pooperační den",
+      "d) večer po operaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) první pooperační den"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Miniheparinizaci nebo podávání nízkomolekulární heparinu (LMWH) jako preventivní opatření proti rozvoji tromboembolických komplikací po »velkých« gynekologických operacích provádíme obvykle",
+    "answers": ["a) 2 dny", "b) 3 dny", "c) 7-10 dnů", "d) 1 den"],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 7-10 dnů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Nutnost doplnit krevní řečiště krví či náhradními roztoky nastává při krevní ztrátě",
+    "answers": ["a) nad 20 %", "b) nad 40%", "c) nad 10%", "d) nad 30%"],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) nad 20 %"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Při rozvoji pooperační povrchové flebitidy žil dolních končetin ponecháme klid na lůžku",
+    "answers": [
+      "a) 3 dny",
+      "b) 1 den",
+      "c) týden",
+      "d) klid na lůžku není nutný"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) klid na lůžku není nutný"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. К příznakům plicní embolie nepatří",
+    "answers": [
+      "a) bronchospazmus",
+      "b) úzkost",
+      "c) tachykardie",
+      "d) horečka"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) horečka"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. U nemocných dlouhodobě užívajících kortikoidy je třeba před operací",
+    "answers": [
+      "a) lék vysadit",
+      "b) lék ponechat v nezměněném dávkování",
+      "c) dávku léku zvýšit",
+      "d) dávku léku snížit"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) dávku léku zvýšit"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Při dlouhodobé antikoagulační léčbě kumarinovými deriváty je třeba počítat s ovlivněním koagulačních parametrů po vysazení léku",
+    "answers": [
+      "a) nejméně 3 hodiny",
+      "b) nejméně 3 dny",
+      "c) nejméně 5 dnů",
+      "d) nejméně 2 dny"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) nejméně 5 dnů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Při heparinizaci je třeba počítat s ovlivněním hemostázy po vysazení heparinu",
+    "answers": [
+      "a) ještě hodinu",
+      "b) ještě 3 dny",
+      "c) ještě 8 hodin",
+      "d) ještě 30 minut"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) ještě 8 hodin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Při dlouhodobé léčbě kumarinovými deriváty musíme před plánovanou hysterektomii",
+    "answers": [
+      "a) dávku léku snížit",
+      "b) dávku léku zvýšit",
+      "c) ponecháme dávku bez změny",
+      "d) lék je nutno vysadit a nahradit heparinem nebo nízkomolekulámím heparinem (LMWH)"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) lék je nutno vysadit a nahradit heparinem nebo nízkomolekulámím heparinem (LMWH)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Při rozvoji flebotrombózy v pooperačním obdobídoporučíme antikoagulační léčbu",
+    "answers": [
+      "a) nejméně 1 rok",
+      "b) nejméně 2 týdny",
+      "c) nejméně 3 měsíce",
+      "d) 6-9 měsíců"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) nejméně 3 měsíce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Po klimakteriu je žena více ohrožena rozvojem",
+    "answers": [
+      "a) osteoporózy",
+      "b) osteodystrofie",
+      "c) osteomalacie",
+      "d) hyperparatyreózy"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) osteoporózy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Před rozvojem osteoporózy je žena chráněna",
+    "answers": [
+      "a) dostatečnou koncentrací estrogenu",
+      "b) dostatečnou koncentrací gestagenu",
+      "c) dostatečnou koncentrací androgenu",
+      "d) dostatečnou koncentrací inzulínu"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) dostatečnou koncentrací estrogenu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Infúzní léčba je po hysterektomii míněnapředevším jako",
+    "answers": [
+      "a) úplná parenterální výživa",
+      "b) nutná dodávka vitaminů",
+      "c) nutná dodávka stopových prvků",
+      "d) rehydratační terapie"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) rehydratační terapie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Zona reticularis nadledvin je místem produkce zejména",
+    "answers": [
+      "a) estrogenů",
+      "b) glukokortikoidů",
+      "c) androgenů",
+      "d) mineralokortikoidů"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) androgenů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Profylaxi bakteriální endokarditidy (např. u srdeční vady chlopní) v případě invazivního zákroku provádíme",
+    "answers": [
+      "a) přeléčením plnou dávkou antibiotik zahájenou v den zákroku",
+      "b) krátkodobým podáním antibiotik v den zákroku",
+      "c) přeléčením plnou dávkou antibiotik týden před zákrokem",
+      "d) vyhojením všech fokusů před zákrokem"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) krátkodobým podáním antibiotik v den zákroku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. U diabetiček počítáme s častějším výskytem",
+    "answers": ["a) kapavky", "b) syfilis", "c) mykózy", "d) trichomoniázy"],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) mykózy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. HIV se přenáší",
+    "answers": [
+      "a) hlavně orálním kontaktem",
+      "b) jen heterosexuálním pohlavním stykem",
+      "c) jen homosexuálním pohlavním stykem",
+      "d) jakýmkoli nechráněným pohlavním stykem"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) jakýmkoli nechráněným pohlavním stykem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Amenoreou se neprojevuje",
+    "answers": [
+      "a) obezita",
+      "b) mentální anorexie",
+      "c) těžká podvýživa",
+      "d) dysfunkce štítné žlázy"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) obezita"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Prolaktinom se neprojevuje",
+    "answers": [
+      "a) oligomenoreou",
+      "b) galaktoreou",
+      "c) cefalalgií",
+      "d) hubnutím"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) hubnutím"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Plná heparinizace má účinky",
+    "answers": [
+      "a) fibrinolytické",
+      "b) jen antiagregační",
+      "c) antikoagulační",
+      "d) venotonické"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) antikoagulační"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Preventivním fyzikálním opatřením proti rozvoji tromboembolismu není",
+    "answers": [
+      "a) časná pooperační mobilizace",
+      "b) kompresivm punčochy",
+      "c) dorzální a plantámí flexe v kotníku",
+      "d) klid na lůžku"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) klid na lůžku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Nejčastější příčinou šoku v pooperačním obdobíje",
+    "answers": [
+      "a) psychický stres",
+      "b) krevní ztráta",
+      "c) infarkt myokardu",
+      "d) crush syndrom"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) krevní ztráta"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Mezi rizikové faktory, pro které zvažujeme vhodnost podávání hormonální antikoncepce, nepatří",
+    "answers": [
+      "a) interrupce v anamnéze",
+      "b) kouření cigaret",
+      "c) trombóza žil v anamnéze",
+      "d) plicní embolie v anamnéze"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) interrupce v anamnéze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Podávání hormonální terapie v klimakteriu ženu nechrání",
+    "answers": [
+      "a) před osteoporózou",
+      "b) před akcelerací rozvoje aterosklerózy",
+      "c) před vegetativní symtomatologií nazývanou »návaly«",
+      "d) rozvojem karcinomu prsu"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) rozvojem karcinomu prsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Před plánovanou operací doporučujeme nemocné",
+    "answers": [
+      "a) vysadit veškerou chronickou medikaci",
+      "b) užívat i nadále všechny léky",
+      "c) vysadit jen hormonální antikoncepci",
+      "d) vysadit hormonální antikoncepci a léky obsahující kyselinu acetylsalicylovou"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) vysadit hormonální antikoncepci a léky obsahující kyselinu acetylsalicylovou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Před plánovanou operací u hypertoniček",
+    "answers": [
+      "a) akcentujeme léčbu hypotenzivy s cílem snížit tlak krve pod normu",
+      "b) tlak neměříme",
+      "c) nikdy hypotenziva nevysazujeme, dbáme na udržení tlaku krve ve fyziologickém rozmezí",
+      "d) vysadíme hypotenziva"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) nikdy hypotenziva nevysazujeme, dbáme na udržení tlaku krve ve fyziologickém rozmezí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. К nutným kontrolám v průběhu užívání hormonální antikoncepce patří",
+    "answers": [
+      "a) kontroly jatemích testů každý měsíc",
+      "b) kontroly jatemích testů každých 6 měsíců",
+      "c) úvodní vyšetření jatemích testů před zahájením podávání antikoncepce u žen s anamnézou onemocnění jater",
+      "d) kontroly jatemích testů každých 12 měsíců"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) úvodní vyšetření jatemích testů před zahájením podávání antikoncepce u žen s anamnézou onemocnění jater"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Záchyt chtěné gravidity u astmatičky je důvodem",
+    "answers": [
+      "a) k přerušení gravidity ze zdravotní indikace matky",
+      "b) k okamžitému vysazení všech bronchodilatačních léků",
+      "c) k okamžité hospitalizaci",
+      "d) k odeslání k plicními specialistovi"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) k odeslání k plicními specialistovi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Záchyt chtěné gravidity u žen s anamnézou dysfunkce štítné žlázy je důvodem",
+    "answers": [
+      "a) k okamžitému odběru TSH s účelem vyloučit hypotyroidismus, který může zavinit kretenismus u plodu",
+      "b) k naplánování odběrů TSH před porodem",
+      "c) k okamžitému zahájení diabetické diety",
+      "d) k přerušení gravidity ze zdravotní indikace matky"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) k okamžitému odběru TSH s účelem vyloučit hypotyroidismus, který může zavinit kretenismus u plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Gravidita není rizikovým faktorem rozvoje",
+    "answers": [
+      "a) cholelitiázy",
+      "b) tromboembolické nemoci",
+      "c) žilní trombózy",
+      "d) bronchiálního astmatu"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) bronchiálního astmatu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Hysterektomie patří k operačním výkonům",
+    "answers": [
+      "a) snižujícím riziko tromboembolie",
+      "b) zvyšujícím riziko tromboembolie",
+      "c) neovlivňujícím riziko tromboembolie",
+      "d) zvyšujícím riziko tromboembolie na trojnásobek"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) zvyšujícím riziko tromboembolie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Nebezpečné životu jsou krevní ztráty",
+    "answers": [
+      "a) nad 500ml",
+      "b) nad 300ml",
+      "c) nad 1500 ml",
+      "d) nad 800 ml"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) nad 1500 ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. U šoku dochází k poruchám cirkulace v tzv. šokových orgánech, mezi které nepatří",
+    "answers": ["a) ledviny", "b) játra", "c) slezina", "d) pankreas"],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) pankreas"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Mezi klinické stavy vyvolávající diseminovanou orgánovou koagulaci nepatří",
+    "answers": [
+      "a) embolie plodovou vodou",
+      "b) fyziologické těhotenství",
+      "c) mrtvý plod",
+      "d) abrupce placenty"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) fyziologické těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Estrogeny chrání ženu před rozvojem osteoporózy",
+    "answers": [
+      "a) zvýšením aktivity osteoklastů",
+      "b) zvýšením aktivity osteoblastů",
+      "c) snížením aktivity osteoblastů",
+      "d) snížením aktivity osteoklastů"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) snížením aktivity osteoklastů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Hlavním faktorem zpětné vazby pro FSH jsou",
+    "answers": ["a) prolaktin", "b) gestageny", "c) androgeny", "d) estrogeny"],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) estrogeny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Příčinou sterility nebývá",
+    "answers": [
+      "a) hypertyreóza",
+      "b) hyperparatyreóza",
+      "c) mentální anorexie",
+      "d) hypotyreóza"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) hyperparatyreóza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Mezi příznaky hemoragického šoku nepatří",
+    "answers": [
+      "a) tachykardie",
+      "b) vzestup systolického a pokles diastolického tlaku",
+      "c) nitkovitý puls",
+      "d) pokles krevního tlaku"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) vzestup systolického a pokles diastolického tlaku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Pro přesnou diagnózu osteoporózy je rozhodující",
+    "answers": [
+      "a) nález nízké koncentrace fosforu v krvi",
+      "b) nález nízké koncentrace kalcia v krvi",
+      "c) scintigrafie kostí",
+      "d) rtg nález na kostech"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) rtg nález na kostech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Ideální rozpětí hodnot glykémií v den operace u diabetiček je",
+    "answers": [
+      "a) 3-6 mmol/1",
+      "b) 5-7 mmol/1",
+      "c) 8-12 mmol/1",
+      "d) 3-11 mmol/1"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 5-7 mmol/1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Septický šok bývá často vyvolán",
+    "answers": [
+      "a) exotoxiny při bakteriální infekci",
+      "b) antimykotickými drúzami",
+      "c) virovou infekcí",
+      "d) endotoxiny při bakteriální infekci"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) endotoxiny při bakteriální infekci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. U «syndromu mrtvého plodu» nejvíce ohrožuje nemocnou",
+    "answers": [
+      "a) selhání ledvin",
+      "b) selhání jater",
+      "c) selhání srdce",
+      "d) diseminovaná intravaskulámí koagulace"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v gynekologii. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) diseminovaná intravaskulámí koagulace"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Sok při abrupci placenty bývá způsoben",
+    "answers": [
+      "a) bolestmi a drážděním peritonea",
+      "b) proniknutím velkého množství tromboplastických látek do oběhu matky a následným krvácením",
+      "c) selháním ledvin",
+      "d) vyčerpáním rodičky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "b) proniknutím velkého množství tromboplastických látek do oběhu matky a následným krvácením"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Septický šok bývá vyvolán",
+    "answers": [
+      "a) exotoxiny při bakteriální infekci",
+      "b) antimykotickými drúzami",
+      "c) virovou infekcí",
+      "d) endotoxiny při bakteriální infekci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["d) endotoxiny při bakteriální infekci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. U šoku dochází к poruchám cirkulace v tzv šokových orgánech, mezi které nepatří",
+    "answers": ["a) ledviny", "b) játra", "c) mozek", "d) pankreas"],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["c) mozek", "d) pankreas"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Životu nebezpečné jsou akutní krevní ztráty",
+    "answers": [
+      "a) nad 800 ml",
+      "b) nad 500 ml",
+      "c) nad 1500ml",
+      "d) nad 300 ml"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["c) nad 1500ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Mezi příznaky hemoragického šoku nepatří",
+    "answers": [
+      "a) vzestup systolického tlaku a pokles tlaku diastolického",
+      "b) tachykardie",
+      "c) nitkovitý puls",
+      "d) pokles krevního tlaku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "a) vzestup systolického tlaku a pokles tlaku diastolického"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "6. Na Úbytku tibrinogenu při abrupci placenty se nepodílí",
+    "answers": [
+      "a) zevní koagulační systém",
+      "b) ztráta tibrinogenu v retroplacentámím hematomu",
+      "c) uvolnění tkáňové trombokinázy do oběhu",
+      "d) aktivace fibrinolytického procesu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["a) zevní koagulační systém"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Mezi klinické stavy vyvolávající diseminovanou intravaskulámí koagulaci nepatří",
+    "answers": [
+      "a) ektopická gravidita",
+      "b) embolie plodovou vodou",
+      "c) mrtvý plod",
+      "d) abrupce placenty"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["a) ektopická gravidita"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. U syndromu mrtvého plodu nejvíce těhotnou ohrožuje",
+    "answers": [
+      "a) infekce",
+      "b) diseminovaná intravaskulámí koagulace",
+      "c) selhání ledvin",
+      "d) jatemí selhání"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["b) diseminovaná intravaskulámí koagulace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. V iniciální fázi akutního selhání ledvin dochází к oligurii až anurii, což je",
+    "answers": [
+      "a) méně než 10ml res 2 ml moči za hodinu",
+      "b) méně než 50ml resp 25 ml moči za hodinu",
+      "c) méně než 16 ml resp 4 ml moči za hodinu",
+      "d) méně než 30 ml resp 15 ml moči za hodinu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["c) méně než 16 ml resp 4 ml moči za hodinu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Morbus Sheehan II. je",
+    "answers": [
+      "a) hepatolentikulámí degenerace",
+      "b) akutní těhotenská steatóza jater",
+      "c) cholestatická steatóza",
+      "d) chronická těhotenská steatóza jater"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["b) akutní těhotenská steatóza jater"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. V předoperační přípravě diabetiček užívajících antidiabetika postupujeme tak, že",
+    "answers": [
+      "a) u menších výkonů vysadíme lék až v den výkonu",
+      "b) u velkých operací předem převádíme na krátce působící inzulín",
+      "c) vždy převádíme na depotní formu inzulínu",
+      "d) podáme antidiabetikum i v den operace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "a) u menších výkonů vysadíme lék až v den výkonu",
+      "b) u velkých operací předem převádíme na krátce působící inzulín"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Ideální rozpětí hodnot glykémií v den operace u diabetiček je",
+    "answers": [
+      "a) 3-6 mmol/1",
+      "b) 5-7 mmol/1",
+      "c) 8-12 mmol/1",
+      "d) 3-11 mmol/1"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["b) 5-7 mmol/1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Estrogeny chrání ženu před rozvojem osteoporózy",
+    "answers": [
+      "a) zvýšením aktivity osteoklastů",
+      "b) zvýšením aktivity osteoblastů",
+      "c) snížením aktivity osteoblastů",
+      "d) snížením aktivity osteoklastů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["d) snížením aktivity osteoklastů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Pro přesnou diagnózu typu osteoporózy je rozhodující",
+    "answers": [
+      "a) nález nízké koncentrace fosforu v krvi",
+      "b) nález nízké koncentrace kalcia v krvi",
+      "c) nález z denzitometrie",
+      "d) nález rtg kostí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["d) nález rtg kostí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Při pooperačním podávání infúzí kryjeme 10% glukózu přidáním inzulínu",
+    "answers": [
+      "a) pouze u diabetiček",
+      "b) u všech pacientek",
+      "c) v žádném případě",
+      "d) jen u obézních"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["a) pouze u diabetiček"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Hlavním faktorem zpětné vazby pro FSH jsou",
+    "answers": ["a) prolaktin", "b) gestageny", "c) androgeny", "d) estrogeny"],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["d) estrogeny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Jako prevenci tromboembolismu podáváme v pooperačním období rutinně",
+    "answers": [
+      "a) heparin 5000 j. s.c. jednorázově",
+      "b) nízkomolekulámí heparin s.c.v dávce doporučené výrobcem podle druhu preparátu",
+      "c) heparin v dávce 2 x 5000 j s c",
+      "d) heparin 10 000 j jednorázově"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "b) nízkomolekulámí heparin s.c.v dávce doporučené výrobcem podle druhu preparátu",
+      "c) heparin v dávce 2 x 5000 j s c"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. V době akutní infekce horních cest dýchacích kyretáž",
+    "answers": [
+      "a) nikdy neprovádíme",
+      "b) neprovádíme, není-li riziko z prodlení",
+      "c) provádíme v cloně antibiotik, je-li výkon neodkladný",
+      "c) můžeme provést bez obav, jedná-li se jen o virózu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "b) neprovádíme, není-li riziko z prodlení",
+      "c) provádíme v cloně antibiotik, je-li výkon neodkladný"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Miniheparinizaci po operaci podáváme",
+    "answers": [
+      "a) 5-10 dnů podle stavu nemocné a její pohyblivosti",
+      "b) jen 1 pooperační den",
+      "c) jen 2 dny",
+      "d) jen 3 dny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["a) 5-10 dnů podle stavu nemocné a její pohyblivosti"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Nutnost doplnit krevní řečiště krví či náhradními roztoky nastává při krevní ztrátě",
+    "answers": ["a) nad 20%", "b) nad 40%", "c) nad 10%", "d) nad 30%"],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["a) nad 20%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Při rozvoji pooperační povrchové flebitidy žil dolních končetin ponecháme klid na lůžku",
+    "answers": [
+      "a) 3 dny",
+      "b) klid na lůžku není nutný",
+      "c) 1 den",
+      "d) týden"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["b) klid na lůžku není nutný"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. К příznakům plicní embolie nepatří",
+    "answers": [
+      "a) bolest hlavy",
+      "b) bronchospazmus",
+      "c) tachykardie",
+      "d) horečka"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["a) bolest hlavy", "d) horečka"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. U nemocných dlouhodobě užívajících kortikoidy je třeba před operací",
+    "answers": [
+      "a) lék vysadit",
+      "b) lék ponechat ve stejné dávce",
+      "c) dávku léku zvýšit",
+      "d) dávku léku snížit"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["c) dávku léku zvýšit"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Při dlouhodobé antikoagulační léčbě warfarinem je třeba počítat s ovlivněním koagulačních parametrů po vysazení léku",
+    "answers": ["a) asi 3 hodiny", "b) 24 hodin", "c) 5-7dnů", "d) 1 den"],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["c) 5-7dnů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Při heparinizaci je třeba počítat s ovlivněním hemostázy po jeho vysazení",
+    "answers": ["a) 8 hodin", "b) 2 hodiny", "c) 24 hodin", "d) 1 den"],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["a) 8 hodin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Příčinou sterility nebývá",
+    "answers": [
+      "a) hypertyreóza",
+      "b) hyperparatyreóza",
+      "c) mentální anorexie",
+      "d) hypotyreóza"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["b) hyperparatyreóza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Při antikoagulační léčbě udržujeme hladinu Quickova testu na",
+    "answers": [
+      "a) 5-10% normy",
+      "b) 90% normy",
+      "c) 150-300% normy",
+      "d) 50-60 % normy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["c) 150-300% normy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Těhotenství při mitrální stenóze",
+    "answers": [
+      "a) doporučujeme přerušit v případě anamanestických projevů srdečního selhávání",
+      "b) doporučujeme přerušit jen v případě akutního ohrožení života matky",
+      "c) v žádném případě nedoporučujeme",
+      "d) ponecháváme bez dalšího sledování"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "a) doporučujeme přerušit v případě anamanestických projevů srdečního selhávání"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Absolutní kontraindikací hysterektomie je",
+    "answers": [
+      "a) ketonurie",
+      "b) glykémie nad 10 mmol/1",
+      "c) dlouhodobá glykosurie",
+      "d) diabetické kóma a těžká ketoacidóza"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["d) diabetické kóma a těžká ketoacidóza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Při rozvoji flebotrombózy v pooperačním období doporučíme antikoagulační léčbu trvající",
+    "answers": [
+      "a) nejméně jeden rok",
+      "b) pouze týden",
+      "c) nejméně 3 měsíce",
+      "d) maximálně 1 měsíc"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["c) nejméně 3 měsíce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Po klimakteriu je žena ohrožena",
+    "answers": [
+      "a) rozvojem osteoporózy",
+      "b) akcelerací aterosklerózy",
+      "c) rozvojem osteomalacie",
+      "d) rozvojem hypertyreózy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "a) rozvojem osteoporózy",
+      "b) akcelerací aterosklerózy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Prevence osteoporózy po klimakteriu spočívá",
+    "answers": [
+      "a) v podávání fosforu",
+      "b) v podávání hormonální substituční terapie",
+      "c) součástí prevence je pohybová aktivita",
+      "d) pohybová aktivita není podstatná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "b) v podávání hormonální substituční terapie",
+      "c) součástí prevence je pohybová aktivita"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Infúzní léčba po hysterektomii je míněna především jako",
+    "answers": [
+      "a) parentcrální výživa",
+      "b) nutná dodávka vitaminů",
+      "c) nutná dodávka stopových prvků",
+      "d) rehydratační terapie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["d) rehydratační terapie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Profylaxi bakteriální endokarditidy v případě provádění invazivního výkonu zajistíme",
+    "answers": [
+      "a) přeléčením plnou dávkou antibiotik zahájeným v den výkonu",
+      "b) krátkodobým podáváním antibiotik",
+      "c) přeléčením plnou dávkou antibiotik týden před výkonem",
+      "d) podáváním heparinu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["b) krátkodobým podáváním antibiotik"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. U diabetiček je nutné počítat s častějším výskytem",
+    "answers": [
+      "a) všech zánětlivých afekcí",
+      "b) zejména kapavky",
+      "c) zejména syfilis",
+      "d) zejména mykózy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["a) všech zánětlivých afekcí", "d) zejména mykózy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Prolaktinom se neprojevuje",
+    "answers": [
+      "a) oligomenoreou",
+      "b) galaktoreou",
+      "c) cefalalgií",
+      "d) hubnutím"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["d) hubnutím"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Preventivní fyzikální opatření proti rozvoji pooperační trombózy žil dolních končetin nejsou",
+    "answers": [
+      "a) časná pooperační mobilizace",
+      "b) kompresivní punčochy",
+      "c) dorzální a plantární flexe v kotníku",
+      "d) klid na lůžku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["d) klid na lůžku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Plná heparinizace má účinky",
+    "answers": [
+      "a) jen antiagregační",
+      "b) jen venotonické",
+      "c) antikoagulační",
+      "d) fibrinolytické"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["c) antikoagulační"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Při dlouhodobé antikoagulační terapii musíme před plánovanou operací",
+    "answers": [
+      "a) lék vysadit a nahradit heparinem",
+      "b) zvýšit dávku léku",
+      "c) snížit dávku léku",
+      "d) ponechat lék ve stejné dávce"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v gynekologii. II. ČÁST POSTGRADUÁLN"
+    ],
+    "correctAnswers": ["a) lék vysadit a nahradit heparinem"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Synechia vulvae infantum je",
+    "answers": [
+      "a) slepení až srůst laterálních okrajů sliznice poševního vchodu a malých stydkých pysků",
+      "b) vrozená vývojová vada velkých stydkých pysků",
+      "c) vrozená vývojová vada malých stydkých pysků",
+      "d) stav vulvy při adrenogenitálním syndromu u děvčátek"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) slepení až srůst laterálních okrajů sliznice poševního vchodu a malých stydkých pysků"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Co je příčinou synechie vulvy",
+    "answers": [
+      "a) příčina této vrozené vady rodidel není známa",
+      "b) je způsobena nesprávnou technikou hygieny zevních Kodidel",
+      "c) působí ji zánět poševní sliznice a vchodu poševního",
+      "d) je způsobena zvýšenou koncentrací pohlavních hormonů v organismu"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) je způsobena nesprávnou technikou hygieny zevních Kodidel"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Syndrom testikulární feminizace je charakterizoB ván karyotypem",
+    "answers": ["a)K,XX", "b) 47xXY", "c) 45/xo", "d) 46xY"],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) 46xY"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Synechia vulvae infantům se vyskytuje",
+    "answers": [
+      "a) íejčastěji v pubertě",
+      "b) zásadně v klidovém období děvčátka",
+      "c) pouze u novorozených děvčátek",
+      "d) typicky u gynatrézií"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) zásadně v klidovém období děvčátka"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Mezi příčiny krvácení z pochvy v klidovém období iěvčátka nepatří",
+    "answers": [
+      "a) ánět sliznice pochvy a děložního hrdla",
+      "b) ádor pochvy a děložního hrdla",
+      "c) tetrorrhagia juvenilis",
+      "d) řítomnost cizího tělesa v pochvě"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) tetrorrhagia juvenilis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Itevřená poranění zevních rodidel u dívek yšetřujeme",
+    "answers": [
+      "a) v lokální anestezii",
+      "b) necitlivění není v tomto případě potřeba",
+      "c) zásadné v celkové anestezii",
+      "d) používáme regionální anestezii"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) zásadné v celkové anestezii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Kryté poranění zevních rodidel (hematom) ošetříme",
+    "answers": [
+      "a) včasnou incizí a drenáží",
+      "b) časnou incizí, zjištěním zdroje krvácení a jeho podvazem",
+      "c) hematom v této lokalitě nikdy neincidujeme, necháváme jej vstřebat",
+      "d) nejprve postupujeme konzervativně, až po několika dnech přistupujeme к incizi, evakuaci a drenáži"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) nejprve postupujeme konzervativně, až po několika dnech přistupujeme к incizi, evakuaci a drenáži"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Při podezření na cizí těleso v pochvě u dítěte mezi příznaky nepatří",
+    "answers": [
+      "a) dlouhotrvající a na léčbu rezistentní výtok",
+      "b) krvavý výtok z pochvy",
+      "c) obstipace",
+      "d) údaj matky o masturbaci dítěte"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) obstipace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Uplatnit paragraf 242 trestního zákona (pohlavní zneužití) je možné do věku",
+    "answers": [
+      "a) 10 let dívky",
+      "b) 15 let dívky",
+      "c) 16 let dívky",
+      "d) 18 let dívky"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 15 let dívky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Pohlavním zneužitím se rozumí",
+    "answers": [
+      "a) vykonání soulože nebo pokus o ni s osobou mladší 15 let",
+      "b) zneužití jinými způsoby - ohmatáváním a olizováním rodidel či prsů a jinými formami koitů (orální, anální, inter femora, inter mammae, in axillam) osoby mladší 15 let",
+      "c) zneužití jinými způsoby osoby mladší 18 let",
+      "d) vykonání soulože či pokus o ni, ale i zneužití jinými způsoby u osoby mladší 15 let"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) vykonání soulože či pokus o ni, ale i zneužití jinými způsoby u osoby mladší 15 let"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Kdy se při adrenogenitálním syndromu provádí korekce malformace zevních rodidel",
+    "answers": [
+      "a) krátce po narození",
+      "b) v pubertě",
+      "c) v předškolním věku",
+      "d) při zahájení pohlavního života"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) v předškolním věku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Gynatrézie se operačně řeší",
+    "answers": [
+      "a) v 15 letech",
+      "b) hned po zjištění vady, tj. zpravidla u novorozence",
+      "c) při počátku rozvoje sekundárních pohlavních znaků",
+      "d) při prvních známkách retence menstruačního krvácení"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) při prvních známkách retence menstruačního krvácení"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Hymenální atrézie je",
+    "answers": [
+      "a) absence otvoru v hymenu",
+      "b) zúžení otvoru v hymenu",
+      "c) slepení stydkých pysků",
+      "d) nevyvinutí dolní třetiny pochvy"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) absence otvoru v hymenu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Kryptomenorea je podmíněna",
+    "answers": [
+      "a) aplazií dělohy",
+      "b) atrézií rodidel",
+      "c) hypergonadotropním hypogonadismem",
+      "d) hypogonadotropním hypogonadismem"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) atrézií rodidel"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Syndrom Rokitanského-Kiisterův-Hauserův je",
+    "answers": [
+      "a) prostá aplazie pochvy",
+      "b) aplazie pochvy a dělohy",
+      "c) srůst malých stydkých pysků a protilehlých partií sliznice poševního vchodu",
+      "d) inkompletní zdvojení vnitřních rodidel"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) aplazie pochvy a dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. U syndromu Rokitanského-Kíisterova-Hauserova",
+    "answers": [
+      "a) jsou sekundární pohlavní znaky dobře vyvinuté",
+      "b) chybí rozvoj prsní žlázy",
+      "c) sekundární pohlavní znaky nejsou vyvinuté vůbec",
+      "d) chybí axilámí a pubické ochlupení"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) jsou sekundární pohlavní znaky dobře vyvinuté"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Nejčastejším gynekologickým onemocněním v dětském věku je",
+    "answers": [
+      "a) pubertas praecox",
+      "b) nádory ovarií",
+      "c) thelarche praecox",
+      "d) vulvovaginitida"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) vulvovaginitida"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Léčba vulvovaginitidy u dětí se ordinuje podle",
+    "answers": [
+      "a) mikroskopického obrazu",
+      "b) mikrobiologického vyšetření",
+      "c) klinického stavu",
+      "d) mikroskopického a současně mikrobiologického vyšetření"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) mikroskopického a současně mikrobiologického vyšetření"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Jednou z nejčastějších příčin vulvovaginitidy u děvčátek je",
+    "answers": [
+      "a) omývání zevních rodidel mýdlem",
+      "b) enuresis diuma",
+      "c) appendicitis acuta",
+      "d) přítomnost střevních parazitů"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) přítomnost střevních parazitů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Vulvovaginitidu u děvčátek léčíme",
+    "answers": [
+      "a) lokálně vaginálně a současně celkově antibiotiky",
+      "b) vždy jen celkově antibiotiky",
+      "c) vždy lokálně vaginálně, celkově jen v případech prokázaných infekcí v dalších ložiscích",
+      "d) pouze lokálně vaginálně"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) vždy lokálně vaginálně, celkově jen v případech prokázaných infekcí v dalších ložiscích"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Mezi příznaky adnexitidy u mladistvých nepatří",
+    "answers": [
+      "a) subfebrilie",
+      "b) nepravidelné krvácení",
+      "c) pobolívání v podbřišku",
+      "d) mírně zvýšená sedimentace erytrocytů"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) nepravidelné krvácení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Kultivační nálezy z pochvy a děložního hrdla bývají totožné s kultivačními nálezy na adnexech",
+    "answers": ["a) v 50-70%", "b) ve 20%", "c) ve 40 %", "d) v 90%"],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) v 50-70%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Za hranici primární amenorey považujeme věk",
+    "answers": ["a) 14 let", "b) 15 let", "c) 16 let", "d) 18 let"],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 15 let"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Průměrná hmotnost dívky při nástupu menarche je",
+    "answers": ["a) 45 kg", "b) 55 kg", "c) 47,5 kg", "d) 50 kg"],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 47,5 kg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Lékařské vyšetření dívky do 15 let v souvislosti s trestným činem či podezřením na něj je",
+    "answers": [
+      "a) nutno provádět bezpodmínečně za přítomnosti další osoby zdravotnického pracoviště",
+      "b) možno provést pouze se souhlasem vyšetřované",
+      "c) možno provést kdykoli bez jakéhokoli souhlasu",
+      "d) možné jen se souhlasem obou rodičů"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) nutno provádět bezpodmínečně za přítomnosti další osoby zdravotnického pracoviště"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. První dva roky po menarche jsou menstruační cykly",
+    "answers": [
+      "a) většinou ovulační",
+      "b) většinou anovulační",
+      "c) všechny ovulační",
+      "d) všechny anovulační"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) většinou anovulační"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Hormonální léčbu poruch menstruace v pubertě řídí dětský gynekolog podle",
+    "answers": [
+      "a) opakovaně provedené hormonální cytologie v průběhu cyklu",
+      "b) cyklického vyšetření estrogenů a progesteronu z krve (RIA)",
+      "c) cyklického vyšetření FSH, LH a prolaktinu z krve (RIA)",
+      "d) ultrazvukového sledování růstu folikulu v ovariu během menstruačního cyklu"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) opakovaně provedené hormonální cytologie v průběhu cyklu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Metrorrhagia juvenilisje",
+    "answers": [
+      "a) krvácení v dětském věku způsobené nádorovým onemocněním",
+      "b) ovulační krvácení v pubertě",
+      "c) dysfunkční děložní krvácení v pubertě a postpubertě",
+      "d) krvácení při hormonální novorozenecké reakci"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) dysfunkční děložní krvácení v pubertě a postpubertě"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Při juvenilní metroragii je správnou terapií",
+    "answers": [
+      "a) podání dostatečné dávky estrogenů per os",
+      "b) kombinované podání malých dávek estrogenů a gestagenu",
+      "c) ihned provedená nitroděložní aspirace podle Dolhaye",
+      "d) podání dostatečné dávky gestagenu intramuskulámě"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) kombinované podání malých dávek estrogenů a gestagenu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Mezi časté příčiny sekundární amenorey v adolescenci nepatří",
+    "answers": [
+      "a) anorexia mentalis",
+      "b) zkouškové období",
+      "c) fyzická zátěž při sportu",
+      "d) předčasné vyhasínání ovariální funkce"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) předčasné vyhasínání ovariální funkce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Gonadotropiny jsou secernovány",
+    "answers": [
+      "a) od 1 roku pulsní tvorbou do puberty, poté kontinuálně",
+      "b) pouze v dospělosti, a to pulsní tvorbou",
+      "c) v dětském věku i v období před pubertou v nízkých koncentracích",
+      "d) kontinuálně po celý život"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) v dětském věku i v období před pubertou v nízkých koncentracích"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Nejzávažnějším a ireverzibilním důsledkem předčasné puberty je",
+    "answers": [
+      "a) osteoporóza",
+      "b) nízká tělesná výška",
+      "c) psychotické poruchy",
+      "d) nedokonalý vývoj sekundárních pohlavních znaků"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) nízká tělesná výška"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Pubertas praecox heterosexualis není způsobena",
+    "answers": [
+      "a) adrenogenitálním syndromem",
+      "b) ovariálním nádorem produkujícím androgeny",
+      "c) virilizujícím nádorem nadledvin",
+      "d) feminizujícím nádorem ovaria"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) feminizujícím nádorem ovaria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Součástí McCuneho-Albrightova syndromu není",
+    "answers": [
+      "a) fibrózně cystická dysplazie kostí",
+      "b) pubertas praecox",
+      "C) hyperpigmentované skvrny barvy bílé kávy",
+      "d) hyperprolaktinémie"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) hyperprolaktinémie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Uterus pubertalis má poměr délky čípku a délky těla děložního",
+    "answers": ["a) 1 : 1", "b) 2: 1", "c) 3: 1", "d) 1:2"],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 1 : 1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Pubertas praecox vera je způsobena",
+    "answers": [
+      "a) podáváním hormonů iatrogenně",
+      "b) hormonálně aktivním nádorem ovaria",
+      "c) hypotalamo-hypofyzámí patologií",
+      "d) hormonálně aktivním nádorem nadledvin"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) hypotalamo-hypofyzámí patologií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Typickým nálezem pro thelarche praecox je",
+    "answers": [
+      "a) zvětšení prsních žláz",
+      "b) zvýšení koncentrace FSH a LH",
+      "c) zvětšení dělohy a ovarií",
+      "d) vše výše uvedené"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) zvětšení prsních žláz"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. U pubertas praecox ovariogenes nacházíme",
+    "answers": [
+      "a) vysoké koncentrace FSH a LH",
+      "b) extrémně vysoké koncentrace estrogenů",
+      "c) koncentrace FSH a LH jsou stejné jako u zdravých dívek",
+      "d) vysokou koncentraci progesteronu"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) extrémně vysoké koncentrace estrogenů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Při karyotypu s Y chromosomem u dívky gonády",
+    "answers": [
+      "a) není třeba odstraňovat",
+      "b) odstraňujeme ihned po zjištění karyotypu",
+      "c) odstraňujeme v 18 letech",
+      "d) odstraňujeme jen při zvětšení gonády"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) odstraňujeme ihned po zjištění karyotypu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Týpické u Tůrnerova syndromu je",
+    "answers": [
+      "a) aplazie dělohy",
+      "b) vysoký vzrůst",
+      "c) infantilní vnitřní a zevní genitál",
+      "d) normálně fungující ovaria"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) infantilní vnitřní a zevní genitál"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Nejčastějšími nádory rodidel v dětském věku jsou",
+    "answers": [
+      "a) nádory vulvy",
+      "b) nádory ovaria",
+      "c) nádory děložního hrdla",
+      "d) nádory děložního těla"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) nádory ovaria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Při podezření na nádorové onemocnění vaječníků u dívky nesmíme při diagnostice použít",
+    "answers": [
+      "a) arteriografii",
+      "b) rtg nativní snímek břicha",
+      "c) punkci cysty vaginálně pod kontrolou ultrazvuku",
+      "d) ultrazvukové vyšetření malé pánve"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) punkci cysty vaginálně pod kontrolou ultrazvuku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Adenosis vaginae je prekancerózou pochvy; vzniká",
+    "answers": [
+      "a) transformací dlaždicového v cylindrický epitel",
+      "b) ze zbytků Wolffova vývodu v pochvě",
+      "c) zc zbytků Muiierových vývodů během vývoje pochvy působením estrogenů",
+      "d) metaplazii dlaždicového epitelu"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) zc zbytků Muiierových vývodů během vývoje pochvy působením estrogenů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. К typickým nádorům dětského věku nepatří",
+    "answers": [
+      "a) nádory zárodečných tkání",
+      "b) nádory z krvetvorné tkáně",
+      "c) nádory nervové tkáně",
+      "d) karcinomy"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) karcinomy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Embryonální rabdomyosarkom (sarcoma botryoides)",
+    "answers": [
+      "a) vyskytuje se pouze ve fertilní věku",
+      "b) je to typický nádor klimakteria",
+      "c) je nádorem vyskytujícím se nejčastěji mezi 60.-",
+      "d) patří mezi nádory vyskytující se převážně v dětském věku"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) patří mezi nádory vyskytující se převážně v dětském věku"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "46. Mezi pseudotumory vyskytující se na vulvě u dětí nepatří",
+    "answers": [
+      "a) ulcus vulvae acutum",
+      "b) hemangiom",
+      "c) condylomata lata",
+      "d) posttraumatický hematom"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) hemangiom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Folikulámí cysty ovaria u novorozence",
+    "answers": [
+      "a) operujeme ihned po předchozí pečlivé diagnostice",
+      "b) operujeme co nejdříve po narození",
+      "c) neoperujeme nikdy",
+      "d) indikací к operaci je pouze značná velikost cysty a hrozící či proběhlá torze adnex s cysticky zvětšeným ovariem"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) indikací к operaci je pouze značná velikost cysty a hrozící či proběhlá torze adnex s cysticky zvětšeným ovariem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Pevný, již kožovitý srůst při synechii vulvy řešíme",
+    "answers": [
+      "a) elektrokauterem bez předchozí dezinfekce vulvy rozetneme, poté přiložíme krytí s epitelizační mastí",
+      "b) termokauterem po předchozí dezinfekci alkoholem přepálíme a přiložíme krytí s epitelizační mastí",
+      "c) termokauterem bez předchozí dezinfekce vulvy přepálíme, popálíme okraje a přiložíme krytí s epitelizační mastí",
+      "d) ostře skalpelem rozetneme, okraje popálíme a přiložíme sterilní krytí s epitelizační mastí"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) termokauterem bez předchozí dezinfekce vulvy přepálíme, popálíme okraje a přiložíme krytí s epitelizační mastí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Dobrovolný nebo vynucený pohlavní styk mezi dvěma osobami mladšími 15 let",
+    "answers": [
+      "a) naplňuje skutkovou podstatu trestného činu pohlavního zneužívání podle § 242 trestního zákona",
+      "b) je trestně nepostižitelný",
+      "c) naplňuje skutkovou podstatu trestného činu znásilnění podle § 241 trestního zákona",
+      "d) je hodnocen jako omezování osobní svobody"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) je trestně nepostižitelný"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Pro mladistvé dívky po",
+    "answers": [
+      "a) prezervativ",
+      "b) spermicidní lokální látky",
+      "C) IUD",
+      "d) hormonální"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["C) IUD"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Souhlas rodičů při předpisu hormonální antikoncepce je nutný do věku",
+    "answers": ["a) 15 let", "b) 16 let", "c) 17 let", "d) 18 let"],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 15 let"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Kombinovanou hormonální antikoncepci nelze v adolescenci použít při léčbě",
+    "answers": [
+      "a) juvenilní metroragie",
+      "b) recidivujících ovariálnich cyst",
+      "c) hyperandrogenních stavů",
+      "d) kryptomenorey"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) kryptomenorey"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. U androgenrezistentního mužského hermafroditismu vedeme další vývoj směrem",
+    "answers": [
+      "a) podle cítění pacienta",
+      "b) jednoznačně mužským",
+      "c) ženským",
+      "d) podle zápisu v matrice"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) ženským"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Syndrom testikulámí feminizace (androgen insensivity syndrome) odpovídá diagnóze",
+    "answers": [
+      "a) pseudohermafroditismus femininus",
+      "b) hermafroditismua verus",
+      "c) pseudohermafroditismus masculinus s dělohou",
+      "d) pseudohermafroditismus masculinus bez dělohy"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) pseudohermafroditismus masculinus bez dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Které »neantikoncepční« účinky hormonální antikoncepce využíváme v adolescenci",
+    "answers": [
+      "a) snížení krevních ztrát při menstruaci",
+      "b) zlepšení dysmenorey",
+      "c) zmírnění projevů hyperandrogenémie",
+      "d) navození pravidelného menstruačního cyklu"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) snížení krevních ztrát při menstruaci",
+      "b) zlepšení dysmenorey",
+      "c) zmírnění projevů hyperandrogenémie",
+      "d) navození pravidelného menstruačního cyklu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Jaké jsou symptomy nádorů rodidel u dívek",
+    "answers": [
+      "a) výrazná, pravidelně se opakující ostrá bolest břicha, nejčastěji kolem pupku",
+      "b) krvácení nebo krvavý výtok z rodidel v klidovém období",
+      "c) příznaky předčasné puberty izosexuální i heterosexuální",
+      "d) nemusí být žádné, většina je diagnostikována náhodně"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) krvácení nebo krvavý výtok z rodidel v klidovém období",
+      "c) příznaky předčasné puberty izosexuální i heterosexuální",
+      "d) nemusí být žádné, většina je diagnostikována náhodně"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Mezi inkompletní formy pohlavního dospívání řadíme",
+    "answers": [
+      "a) adrenarche praecox",
+      "b) thelarche praecox",
+      "c) pubarche praecox",
+      "d) koitarche praecox"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) adrenarche praecox",
+      "b) thelarche praecox",
+      "c) pubarche praecox"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Nejčastěji prokázáná etiologická agens způsobující vulvovaginitidu u dětíjsou",
+    "answers": [
+      "a) streptokoky",
+      "a) stafylokoky",
+      "c) leptotrichy",
+      "d) bakterie střevní flóry"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) streptokoky",
+      "a) stafylokoky",
+      "d) bakterie střevní flóry"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Mezi způsoby přenosu nákazy u vulvovaginitidy patří",
+    "answers": [
+      "a) nesprávná a nedostatečná toaleta rodidel po stolici",
+      "b) výskyt střevních parazitů",
+      "c) přenos cizími tělesy",
+      "d) přenos krevní cestou"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) nesprávná a nedostatečná toaleta rodidel po stolici",
+      "b) výskyt střevních parazitů",
+      "c) přenos cizími tělesy",
+      "d) přenos krevní cestou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Při hymenální atrézii můžeme pozorovat",
+    "answers": [
+      "a) hematokolpos",
+      "b) hemihematometru",
+      "c) hematosalpingy",
+      "d) hematometru"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) hematokolpos",
+      "c) hematosalpingy",
+      "d) hematometru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. V dětské a dorostové gynekologii využíváme metodu poševní hormonální cytologie z těchto důvodů",
+    "answers": [
+      "a) je ekonomicky výhodná",
+      "b) podává zprávu o reakci periferní cílové tkáně",
+      "c) je jednoduchá, výsledek je rychle dostupný",
+      "d) odebírá ji kterýkoli lékař"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je ekonomicky výhodná",
+      "b) podává zprávu o reakci periferní cílové tkáně",
+      "c) je jednoduchá, výsledek je rychle dostupný"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Reakce dělohy na estrogeny je následující",
+    "answers": [
+      "a) hrdlo reaguje výrazně, tělo nepatrně",
+      "b) hrdlo reaguje nepatrně, tělo výrazně",
+      "c) obě části dělohy reagují stejně",
+      "d) působení estrogenů způsobuje proporcionálnínpřestavbu dělohy"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) hrdlo reaguje nepatrně, tělo výrazně",
+      "d) působení estrogenů způsobuje proporcionálnínpřestavbu dělohy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Přenos infekce do rodidel novorozence se děje",
+    "answers": [
+      "a) během porodu z porodních cest matky",
+      "b) postnatálně zanedbáním hygienických pravidel",
+      "c) u předčasně narozených dětí při celkové infekcinorganismu",
+      "d) nejčastěji z ústí uretry při infekci močových cest"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) během porodu z porodních cest matky",
+      "b) postnatálně zanedbáním hygienických pravidel",
+      "c) u předčasně narozených dětí při celkové infekcinorganismu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Krvácení z rodidel v klidovém období dívky můženbýt způsobeno",
+    "answers": [
+      "a) zhoubným nádorem děložního hrdla nebo pochvy",
+      "b) cizím tělesem v pochvě",
+      "c) předčasnou pubertou",
+      "d) pohlavním zneužitím dítěte"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) zhoubným nádorem děložního hrdla nebo pochvy",
+      "b) cizím tělesem v pochvě",
+      "c) předčasnou pubertou",
+      "d) pohlavním zneužitím dítěte"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Způsoby přestupu infekce z apendixu na adnexa",
+    "answers": [
+      "a) per continuitatem z apendixu v positio pelvina",
+      "b) lymfatickými cestami v tzv. Cladově-Durandově řase",
+      "c) hematogenně přes arteria appendicalis a její větevnramus tuboovarialis",
+      "d) zatékáním výpotku zánětlivě změněné serózynapendixu do malé pánve"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) per continuitatem z apendixu v positio pelvina",
+      "b) lymfatickými cestami v tzv. Cladově-Durandově řase",
+      "d) zatékáním výpotku zánětlivě změněné serózynapendixu do malé pánve"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Chronickou adnexitidu léčíme",
+    "answers": [
+      "a) enzymoterapií",
+      "b) imunizační terapií vakcínami",
+      "c) lázeňskou léčbou",
+      "d) antibiotiky"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) enzymoterapií",
+      "b) imunizační terapií vakcínami",
+      "c) lázeňskou léčbou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Příčinou primární amenorey je",
+    "answers": [
+      "a) premature ovarian failure (POF)",
+      "b) aplazie či dysgeneze gonád",
+      "c) gynatrézie",
+      "d) syndrom Rokitanského-Kusterův-Hauserův"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) aplazie či dysgeneze gonád",
+      "c) gynatrézie",
+      "d) syndrom Rokitanského-Kusterův-Hauserův"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Mezi hypergonadotropní hypogonadismy patří",
+    "answers": [
+      "a) ageneze gonád",
+      "b) dysgeneze gonád",
+      "c) dysgeneze ovarií",
+      "d) kastrace před nástupem puberty"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) ageneze gonád",
+      "b) dysgeneze gonád",
+      "c) dysgeneze ovarií",
+      "d) kastrace před nástupem puberty"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Pubertas praecox heterosexualis může býtnzpůsoben",
+    "answers": [
+      "a) adrenogenitálním syndromem",
+      "b) nádorem nadledvin",
+      "c) hormonálně aktivním nádorem ovaria",
+      "d) juvenilní hypotyreózou"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) adrenogenitálním syndromem",
+      "b) nádorem nadledvin",
+      "c) hormonálně aktivním nádorem ovaria"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Mezi zvláštnosti nádorů v dětském věku řadíme",
+    "answers": [
+      "a) jinou etiologii",
+      "b) odlišný histogenetický původ",
+      "c) rozdílné biologické chování",
+      "d) dominanci jiných příznaků v klinickém obrazu"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) jinou etiologii",
+      "b) odlišný histogenetický původ",
+      "c) rozdílné biologické chování",
+      "d) dominanci jiných příznaků v klinickém obrazu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Hermaphroditismus verus lze diagnostikovat",
+    "answers": [
+      "a) pouze histologickým ověřením gonád",
+      "b) na základě karyotypu",
+      "c) podle vyjádřeného fenotypu",
+      "d) porovnáním karyotypu s fenotypem"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) pouze histologickým ověřením gonád"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Definitivní určení pohlaví jedince se provádí",
+    "answers": [
+      "a) nejdéle do 2-3 let věku dítěte",
+      "b) stanovením karyotypu",
+      "c) syntézou kritérií chromosomálního, neuroregulačního, gonádového a fenotypového pohlaví",
+      "d) jednoznačně podle fenotypu"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) nejdéle do 2-3 let věku dítěte",
+      "c) syntézou kritérií chromosomálního, neuroregulačního, gonádového a fenotypového pohlaví"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Nitroděložní aspirace podle Dolhaye je metoda,nkterá se používá",
+    "answers": [
+      "a) к diagnostice sekrečního endometria ve 2. polovině cyklu u dospívajících",
+      "b) к diagnostice proliferacc endometria v 1. polovině cyklu u dospívajících",
+      "c) jako náhrada kyretáže u mladistvých",
+      "d) je získám choriových klků na genetické vyšetření"
+    ],
+    "book": ["Živný"],
+    "topic": ["18. Dětská a dorostová gynekologie. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) jako náhrada kyretáže u mladistvých"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Při akutních zánětech adnex jako podpůrnou léčbu nelze použít",
+    "answers": [
+      "a) Priessnitzův obklad na podbřišek",
+      "b) krátkovlnnou diatermii",
+      "c) nízkovýkonný terapeutický laser",
+      "d) horký slatinný zábal"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) horký slatinný zábal"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Talasoterapie je léčba",
+    "answers": [
+      "a) světlem",
+      "b) slunečním teplem",
+      "C) ultrazvukem",
+      "d) krátkovlnnou diatermii"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) slunečním teplem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Kontraindikací diatermie není",
+    "answers": [
+      "a) dysmenorea",
+      "b) maligní nádory",
+      "c) pelveoperitonitis acuta",
+      "d) gravidita"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) dysmenorea"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Plynové gynekologické lázně doporučujeme",
+    "answers": [
+      "a) jen u dětských pacientek",
+      "b) s výhodou u dorostenek",
+      "c) pouze u dospělých žen",
+      "d) lze je využít u všech věkových kategorií"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) lze je využít u všech věkových kategorií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Kinezioterapií, tj. léčbou pohybem, nelze příznivě ovlivnit",
+    "answers": [
+      "a) inkontinencí moči",
+      "b) poporodní involuci dělohy a dislokaci poševních stěn",
+      "c) retroverzi dělohy",
+      "d) dysfunkční metroragii"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) dysfunkční metroragii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Při peloidoterapii se používá slatina к zábalům v teplotě",
+    "answers": ["a) 36 °C", "b) 40-44 °C", "c) 50 °C", "d) 60 °C"],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 40-44 °C"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Využívanou fyzikální vlastností slatiny je",
+    "answers": [
+      "a) menší tepelná vodivost, než má voda",
+      "b) stejná tepelná vodivost, jako má voda",
+      "c) vyšší tepelná vodivost, než má voda",
+      "d) tepelná nevodivost"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) menší tepelná vodivost, než má voda"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. V souvislosti s lázeňskou léčbou po apendektomii se u děvčat procento zachování plodnosti",
+    "answers": [
+      "a) zvýšilo",
+      "b) snížilo",
+      "c) zůstalo stejné",
+      "d) snížil se pouze výskyt mimoděložních těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) zvýšilo"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Součástí balneoterapie nejsou",
+    "answers": [
+      "a) perličkové koupele",
+      "b) uhličité koupele",
+      "c) masážní terapie",
+      "d) aplikace autovakcín"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) aplikace autovakcín"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Slatinné koupele jsou aplikovány",
+    "answers": [
+      "a) denně o teplotě 40-42 °C při délce trvám 5 minut",
+      "b) ob den o teplotě 45 °C při délce trvání 30 minut",
+      "c) 2-3krát týdně o teplotě 40-42 °C s délkou trvání 10 až 20 minut",
+      "d) záleží individuálně na pacientovi, jak často a v jakc délce koupele snáší"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) 2-3krát týdně o teplotě 40-42 °C s délkou trvání 10 až 20 minut"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Uhličité koupele (v minerální vodě prosycené přírodním kysličníkem uhličitým) se aplikují",
+    "answers": [
+      "a) zásadně před slatinnou koupelí",
+      "b) vždy jen po slatinné koupeli",
+      "c) denně v jakoukoli dobu bez souvislosti se slatinou",
+      "d) 2krát týdně střídavě mezi aplikací slatiny"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) 2krát týdně střídavě mezi aplikací slatiny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Kontraindikací gynekologické lázeňské léčby v dětském věku je",
+    "answers": [
+      "a) adnexitis chronica",
+      "b) parametritis chronica",
+      "c) appendicitis chronica",
+      "d) endometritis chronica"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) appendicitis chronica"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Krátkovlnná diatermie působí",
+    "answers": [
+      "a) na povrchové tkáně, aniž by byly zatěžovány okolní struktury",
+      "b) pouze na omezené ploše kůže",
+      "c) na hluboké tkáně bez jakékoli zátěže povrchových a okolních struktur",
+      "d) na hluboké tkáně a samozřejmě jsou přiměřeně I zatíženy povrchové a okolní struktury"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) na hluboké tkáně bez jakékoli zátěže povrchových a okolních struktur"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Nízkovýkonný terapeutický laser se nepoužívá к léčbě",
+    "answers": [
+      "a) entezopati í",
+      "b) hypertrofických jizev",
+      "c) pooperačních zánětlivých komplikací v ráně",
+      "d) nádorových onemocnění"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) nádorových onemocnění"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Indikací к aplikaci biostimulačního laseru není",
+    "answers": [
+      "a) ípierpes genitalis",
+      "b) frigidita a anorgasmie",
+      "c) lolestivé jizvy",
+      "d) londylomata accuminata"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) londylomata accuminata"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. К nejčastěji používaným fyzikálním metodám v balneoterapii nepatří",
+    "answers": [
+      "a) ainiatermie",
+      "b) [fototerapie",
+      "c) helioterapie",
+      "d) luminiscence"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) luminiscence"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Peloidoterapie je použití",
+    "answers": [
+      "a) hypertermie aplikací infračervených paprsků",
+      "b) léčebné gymnastiky",
+      "c) bahenních kúr",
+      "d) dietoterapie"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) bahenních kúr"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Mezi kontraindikace biostimulačního soft laseru patří",
+    "answers": [
+      "a) endometrióza",
+      "b) stav po jednostranné adnexektomii",
+      "c) akutní zánět adnex",
+      "d) stav po laparoskopické operaci mimoděložního těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) akutní zánět adnex"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Pooperační lázeňskou terapii doporučujeme pro",
+    "answers": [
+      "a) koncentraci před nástupem do pracovního procesu",
+      "b) odstranění stresových situací běžného života",
+      "c) resorpci pooperačního infiltrátu a zamezení tvorby srůstů",
+      "d) prevenci nepravidelností menstruačního cyklu"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) resorpci pooperačního infiltrátu a zamezení tvorby srůstů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Léčebná fyzioterapie po operacích descensů rodidel má zajistit",
+    "answers": [
+      "a) kontrolu pevnosti rekonstrukční operace",
+      "b) zpevnění břišní stěny",
+      "c) rychlejší návrat do pracovního procesu",
+      "d) trvalý efekt operace a posílení podpůrných struktur pánevního dna"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) trvalý efekt operace a posílení podpůrných struktur pánevního dna"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Principem diatermie je",
+    "answers": [
+      "a) snížení metabolismu v zánětlivé oblasti",
+      "b) aplikací tepla lokálně zvýšit prokrvení a reflexní cestou zvýšit i orgánové prokrvení",
+      "c) aplikací slunečního záření prohřát vystavenou oblast těla",
+      "d) omezení mobility postižené oblasti"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) aplikací tepla lokálně zvýšit prokrvení a reflexní cestou zvýšit i orgánové prokrvení"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Sirnoželezitá slatina ve Františkových Lázních se vyznačuje chemickou reakcí",
+    "answers": [
+      "a) kyselou",
+      "b) zásaditou",
+      "c) neutrální",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) kyselou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Zřídelní plyn je z největší části tvořen",
+    "answers": [
+      "a) dusíkem",
+      "b) kysličníkem uhličitým",
+      "c) kyslíkem",
+      "d) sirovodíkem"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) kysličníkem uhličitým"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Slatinný zábal se aplikuje na podbřišek a sakrogluteální krajinu",
+    "answers": ["a) 40 minut", "b) 45 minut", "c) 10-20 minut", "d) 30 minut"],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 10-20 minut"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Mezi obecné kontraindikace lázeňské léčby nepatří",
+    "answers": [
+      "a) kompenzovaný diabetes mellitus",
+      "b) klinické známky oběhového selhání",
+      "c) infekční onemocnění přenosné na člověka a bacilonosičství",
+      "d) nehojící se defekty jakéhokoli původu"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) kompenzovaný diabetes mellitus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Kterou z léčebných procedur nezařazujeme к elektroléčbě",
+    "answers": [
+      "a) krátkovlnnou diatermii",
+      "b) galvanickou iontoforézu",
+      "c) magnetoterapii",
+      "d) biostimulační laser"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) biostimulační laser"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. К resorpční léčbě pooperačních infiltrátů využíváme",
+    "answers": [
+      "a) chladovou terapii",
+      "b) nízkovýkonný terapeutický laser",
+      "c) balneoterapii",
+      "d) Priessnitzův obklad"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) nízkovýkonný terapeutický laser",
+      "c) balneoterapii",
+      "d) Priessnitzův obklad"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Mezi lázeňská města, kde jsou léčeny ženy s gynekologickou diagnózou, patří",
+    "answers": [
+      "a) Františkovy Lázně",
+      "b) Mariánské Lázně",
+      "c) Klimkovice",
+      "d) Karlovy Vary"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) Františkovy Lázně",
+      "b) Mariánské Lázně",
+      "c) Klimkovice",
+      "d) Karlovy Vary"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. К léčení gynekologických onemocnění se využívá",
+    "answers": [
+      "a) simoželezité slatiny",
+      "b) minerálních pramenů",
+      "c) zřídelního plynu",
+      "d) žádného ze tří jmenovaných přírodních léčivých zdrojů"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) simoželezité slatiny",
+      "b) minerálních pramenů",
+      "c) zřídelního plynu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Slatina se využívá ve Františkových Lázních v těchto aplikačních formách",
+    "answers": [
+      "a) poševní čípky",
+      "b) celotělové koupele",
+      "c) slatinné zábaly",
+      "d) intravaginální tampony"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) celotělové koupele",
+      "c) slatinné zábaly",
+      "d) intravaginální tampony"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Terapeutický mechanismus fyzikálního a chemického působení slatiny spočívá",
+    "answers": [
+      "a) v silně hyperemickém účinku v oblasti splanchniku a malé pánve",
+      "b) v pozitivním ovlivnění funkce vnitřních pohlavních orgánů prostřednictvím většího krevního zásobení a urychlením resorpčních pochodů",
+      "c) v antimikrobiálním účinku",
+      "d) v optimalizaci imunologických pochodů, a to místních i celkových"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) v silně hyperemickém účinku v oblasti splanchniku a malé pánve",
+      "b) v pozitivním ovlivnění funkce vnitřních pohlavních orgánů prostřednictvím většího krevního zásobení a urychlením resorpčních pochodů",
+      "c) v antimikrobiálním účinku",
+      "d) v optimalizaci imunologických pochodů, a to místních i celkových"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. К hlavním účinkům uhličitých koupelí patří",
+    "answers": [
+      "a) úprava vegetativní rovnováhy",
+      "b) lokální stimulace příslušných vaginálních receptorů",
+      "c) senzibilizace sexuálního centra",
+      "d) zvýšení hormonální aktivity ve smyslu senzibilizace tkání pro estrogenní podněty"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) úprava vegetativní rovnováhy",
+      "c) senzibilizace sexuálního centra",
+      "d) zvýšení hormonální aktivity ve smyslu senzibilizace tkání pro estrogenní podněty"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Mezi obecné kontraindikace lázeňské léčby patří",
+    "answers": [
+      "a) těhotenství",
+      "b) závislost na alkoholu a návykových látkách",
+      "c) inkontinence moči a stolice",
+      "d) často se opakující profúzní krvácení všeho druhu"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) těhotenství",
+      "b) závislost na alkoholu a návykových látkách",
+      "c) inkontinence moči a stolice",
+      "d) často se opakující profúzní krvácení všeho druhu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Lokální kontraindikací biostimulačního laseru je",
+    "answers": [
+      "a) oblast nad voperovaným kardiostimulátorem",
+      "b) oblast nad štítnou žlázou",
+      "c) oblast nad těhotnou dělohou",
+      "d) oblast ranné infekce laparotomické sutury"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) oblast nad voperovaným kardiostimulátorem",
+      "b) oblast nad štítnou žlázou",
+      "c) oblast nad těhotnou dělohou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Slatinné intravaginální tampony se podávají",
+    "answers": [
+      "a) v kombinaci se slatinnými koupelemi",
+      "b) v kombinaci se slatinnými zábaly",
+      "c) samostatně",
+      "d) nepodávají se vůbec"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) v kombinaci se slatinnými koupelemi",
+      "b) v kombinaci se slatinnými zábaly",
+      "c) samostatně"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Biostimulační laser se v porodnictví využívá",
+    "answers": [
+      "a) při hojení bolestivé sutury epiziotomie",
+      "b) při hojení sutur u ruptur perinea",
+      "c) při resorpci hematomu na hrázi",
+      "d) u ranných infekcí jakékoli sutury poranění po porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) při hojení bolestivé sutury epiziotomie",
+      "b) při hojení sutur u ruptur perinea",
+      "c) při resorpci hematomu na hrázi",
+      "d) u ranných infekcí jakékoli sutury poranění po porodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. К fyzioterapeutickým metodám patří",
+    "answers": [
+      "a) přeformované fyzikální prostředky akustické, elektrické aj",
+      "b) přírodní zdroje těchto energií atmosférick tlak, gravitace aj",
+      "c) manuálně mechanické výkony masáže, manipulace aj",
+      "d) aktivní pohybová cvičení"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) přeformované fyzikální prostředky akustické, elektrické aj",
+      "b) přírodní zdroje těchto energií atmosférick tlak, gravitace aj",
+      "c) manuálně mechanické výkony masáže, manipulace aj",
+      "d) aktivní pohybová cvičení"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Specifické soubory léčebného cvičeníjsou využívány u",
+    "answers": [
+      "a) sterility s funkčními poruchami",
+      "b) močové inkontinence",
+      "c) deviací dělohy",
+      "d) klimakterického syndromu"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Fyzikální a lázeňská léčba. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) sterility s funkčními poruchami",
+      "b) močové inkontinence",
+      "c) deviací dělohy",
+      "d) klimakterického syndromu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Pro Kallmanův syndrom platí",
+    "answers": [
+      "a) je to vrozená vada",
+      "b) koncentrace gonadotropinů je zvýšená",
+      "c) koncentrace prolaktinu je zvýšená",
+      "d) koncentrace estrogenů je snížená"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) koncentrace gonadotropinů je zvýšená",
+      "d) koncentrace estrogenů je snížená"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Po traumatickém přerušení stopky hypofýzy",
+    "answers": [
+      "a) stoupne koncentrace estrogenů",
+      "b) stoupne koncentrace gonadotropinů",
+      "c) stoupne koncentrace prolaktinu",
+      "d) plodnost ženy není narušena"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) stoupne koncentrace prolaktinu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Schizofrenie",
+    "answers": [
+      "a) vzestup koncentrace prolaktinu je dobrým prediktorem účinku farmakoterapie",
+      "b) neléčená je často provázena amenoreou",
+      "c) v těhotenství je provázena vyšším výskytem preeklampsie",
+      "d) je častější u žen s pozdní menarché"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) vzestup koncentrace prolaktinu je dobrým prediktorem účinku farmakoterapie",
+      "b) neléčená je často provázena amenoreou",
+      "d) je častější u žen s pozdní menarché"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. U 181eté dívky s hmotností 40 kg a amenoreou očekáváme",
+    "answers": [
+      "a) nízkou koncentraci FSH",
+      "b) vysokou koncentraci LH",
+      "c) nízkou nebo normální koncentraci prolaktinu",
+      "d) nízkou koncentraci estrogenů"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) nízkou koncentraci FSH",
+      "c) nízkou nebo normální koncentraci prolaktinu",
+      "d) nízkou koncentraci estrogenů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Při tzv amenoree sportovkyň je",
+    "answers": [
+      "a) zvýšená koncentrace kortizolu",
+      "b) zvýšená koncentrace katecholestrogenů",
+      "c) vzestup pulsní sekrece gonadoliberinu",
+      "d) snížená koncentrace estradiolu"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) zvýšená koncentrace kortizolu",
+      "b) zvýšená koncentrace katecholestrogenů",
+      "d) snížená koncentrace estradiolu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Pacientky s Túrnerovým syndromem",
+    "answers": [
+      "a) mají nižší inteligenci",
+      "b) mají horší matematickou schopnost",
+      "c) mají horší zrakovou pamět",
+      "d) jsou častěji homosexuální"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) mají horší matematickou schopnost",
+      "c) mají horší zrakovou pamět"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. V diagnóze pelvipatie (pelipatie) (pánevní bolesti bez organické patologie) je laparoskopická metoda",
+    "answers": [
+      "a) nutná, ale nepostačující",
+      "b) doporučená, ale ne nutná",
+      "c) nutná a postačující",
+      "d) zbytečná, stačí gynekologické vyšetření doplněné ultrazvukem s vaginální sondou a psychologické vyšetření"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) nutná a postačující"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Mezi možné příčiny nevysvětlitelné pánevní bolesti patří",
+    "answers": [
+      "a) deprese",
+      "b) schizofrenie",
+      "c) opakovaná hyperémie pánve při coitus interruptus",
+      "d) endometrióza"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) deprese", "b) schizofrenie", "d) endometrióza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. V terapii pelvipatie (pelipatie) se uplatní",
+    "answers": [
+      "a) inhibitory zpětného vychytávání serotoninu",
+      "b) analoga gonadoliberinu",
+      "c) benzodiazepiny",
+      "d) kombinovaná hormonální kontraceptiva"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) inhibitory zpětného vychytávání serotoninu",
+      "d) kombinovaná hormonální kontraceptiva"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Tzv psychogenní sterilita",
+    "answers": [
+      "a) diagnostikuje se při normálních výsledcích somatického a laboratorního vyšetření na základě psychologického vyšetření",
+      "b) v terapii se uplatní metody asistované reprodukce",
+      "c) v terapii je vhodná kognitivně-racionální psychoterapie",
+      "d) v terapii je vhodná hypnóza"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) v terapii se uplatní metody asistované reprodukce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Předoperační úzkost",
+    "answers": [
+      "a) u mladších žen je vyšší než u starších žen",
+      "b) u hysterektomie je vyšší než u mastektomie",
+      "c) u operace většího rozsahu je vyšší než u menšího výkonu",
+      "d) u žen je vyšší než u mužů"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) u mladších žen je vyšší než u starších žen",
+      "d) u žen je vyšší než u mužů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Pooperační delirium",
+    "answers": [
+      "a) dlouhodobá prognóza kognitivní výkonnosti je špatná",
+      "b) v terapii se uplatní haloperidol",
+      "c) může být prvním projevem pneumonie",
+      "d) v patogenezi je důležitý adrenergní systém"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) v terapii se uplatní haloperidol",
+      "c) může být prvním projevem pneumonie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Posthysterektomická deprese",
+    "answers": [
+      "a) je běžnou, ale dočasnou komplikací hysterektomie",
+      "b) je jen metodologický artefakt - depresivním ženám se hysterektomie provádí častěji",
+      "c) je častější po abdominální než po vaginální operaci",
+      "d) je častější u žen s psychiatrickou anamnézou"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) je jen metodologický artefakt - depresivním ženám se hysterektomie provádí častěji",
+      "c) je častější po abdominální než po vaginální operaci",
+      "d) je častější u žen s psychiatrickou anamnézou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Vliv hormonů na psychiku ženy je následující",
+    "answers": [
+      "a) progesteron působí antidepresivně",
+      "b) estradiol působí antidepresivně",
+      "c) progesteron působí anxiolyticky",
+      "d) testosteron snižuje libido"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) estradiol působí antidepresivně",
+      "c) progesteron působí anxiolyticky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Primární dysmenorea",
+    "answers": [
+      "a) je způsobena nevědomým konfliktem s matkou, mateřskou rolí nebo nevědomou protestní reakcí proti přísnému otci",
+      "b) je způsobena zvýšenou produkcí oxytocinu",
+      "c) je způsobena zvýšenou produkcí prostaglandinů",
+      "d) je známkou anovulačního cyklu (a s nástupem ovulace mizí)"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) je způsobena zvýšenou produkcí prostaglandinů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Která z těchto žen splňuje podmínky pro diagnózu premenstruační dysforické poruchy (ve všech případech symptomy interferují s denními aktivitami)",
+    "answers": [
+      "a) afektivní labilita, podrážděnost, špatná koncentrace, insomnie",
+      "b) afektivní labilita, podrážděnost, špatná koncentrace, insomnie, bolesti prsů",
+      "c) únava, poruchy koncentrace, bolesti prsů, přejídání, insomnie",
+      "d) úzkost, špatná koncentrace, hypersomnie, únava, nadýmání"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) afektivní labilita, podrážděnost, špatná koncentrace, insomnie, bolesti prsů",
+      "d) úzkost, špatná koncentrace, hypersomnie, únava, nadýmání"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. V terapii premenstruačního syndromu mají ve srovnání s placebem účinek",
+    "answers": [
+      "a) progestiny",
+      "b) estrogeny",
+      "c) inhibitory zpětného vychytávání serotoninu",
+      "d) pyridoxin"
+    ],
+    "book": ["Živný"],
+    "topic": ["20. PSYCHOSOMATIKA V GYNEKOLOGII . II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) inhibitory zpětného vychytávání serotoninu"],
+    "description": [""],
+    "img": [""]
   }
 ]

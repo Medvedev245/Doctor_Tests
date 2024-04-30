@@ -136,14 +136,14 @@ const Tests = () => {
 
       {count <= questions.length ? (
         <AnswerBlock>
+          <Timer time={time} setTime={setTime} />
           <AnswerControl>
-            <Timer time={time} setTime={setTime} />
             <Button onClick={handleNextQuestion}>Next Question</Button>
-            <span>
+            <span style={{ width: '67px' }}>
               {count} из {questions.length}
             </span>
+            <Button onClick={comparison}>Check</Button>
           </AnswerControl>
-          <Button onClick={comparison}>Check</Button>
         </AnswerBlock>
       ) : (
         <LinkContainer>

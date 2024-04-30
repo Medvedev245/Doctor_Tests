@@ -67,7 +67,7 @@ const Home = () => {
     const number = [];
     const selectedNamesArray = [];
 
-    console.log('two:', two, 'selectedFile.length:', selectedFile.length);
+    // console.log('two:', two, 'selectedFile.length:', selectedFile.length);
 
     // Generate random numbers
     while (number.length < two) {
@@ -110,7 +110,7 @@ const Home = () => {
           >
             <option value="All">All</option>
             <option value="Klener">Klener</option>
-            <option value="Živný">Živný(1-2117)</option>
+            <option value="Živný">Živný(1-2441)</option>
             <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
             <option value="Medicine_2023">Medicine_2023</option>
             <option value="My_Base">My Base</option>

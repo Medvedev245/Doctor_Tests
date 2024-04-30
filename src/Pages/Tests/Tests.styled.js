@@ -34,6 +34,7 @@ export const Button = styled.button`
 
 export const LinkContainer = styled.div`
   margin-top: 50px;
+  margin-bottom: 30px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -50,11 +51,12 @@ export const LinkToPage = styled(Link)`
 `;
 
 export const AnswerBlock = styled.div`
-  /* gap: 20px; */
+  gap: 20px;
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  width: 435px;
+  /* width: 435px; */
   margin-bottom: 30px;
   margin: auto;
 
@@ -74,6 +76,7 @@ export const AnswerBlock = styled.div`
 `;
 
 export const AnswerControl = styled.div`
+  /* flex-direction: column; */
   display: flex;
   gap: 20px;
   align-items: center;
