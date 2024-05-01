@@ -14,6 +14,7 @@ import {
 } from './Tests.styled';
 import Modal from '../../components/Modal/Modal';
 import Timer from 'components/Timer/Timer';
+import { ADD_RIGHTQUESTIONS } from 'store/testsReducer';
 
 const Tests = () => {
   const [modalActive, setModalActive] = useState(false);
@@ -26,7 +27,7 @@ const Tests = () => {
   const [time, setTime] = useState({ minutes: 0, seconds: 0 }); // состояние таймера
 
   const dispatch = useDispatch();
-  const questions = useSelector(state => state.testsReducer.questions);
+  const questions = useSelector(state => state.tests.questions);
 
   const handleAnswerSelect = answer => {
     if (selectedAnswers.includes(answer)) {
@@ -76,10 +77,15 @@ const Tests = () => {
       setCurrentQuestion(currentQuestion + 1);
     } else {
       if (count === questions.length) {
-        dispatch({
-          type: 'ADD_RIGHTQUESTIONS',
-          payload: { myCorrectAnswers },
-        });
+        dispatch(
+          ADD_RIGHTQUESTIONS({
+            myCorrectAnswers,
+          })
+        );
+        // dispatch({
+        //   type: 'ADD_RIGHTQUESTIONS',
+        //   payload: { myCorrectAnswers },
+        // });
       }
       // console.log(correctCount);
       // alert(`Правильных ответов - ${correctCount} из ${questions.length}`);

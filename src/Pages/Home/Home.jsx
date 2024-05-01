@@ -17,12 +17,13 @@ import {
 import { Button } from 'Pages/Tests/Tests.styled';
 import Bases from 'components/Bases/Bases';
 import { Select } from 'Pages/AllTests/AllTests.styled';
+import { ADD_OPTIONS } from 'store/testsReducer';
 
 const Home = () => {
   const [selectedOption1, setSelectedOption1] = useState('');
   const [selectedOption2, setSelectedOption2] = useState('');
   const dispatch = useDispatch();
-  const elements3 = useSelector(state => state.testsReducer.questions);
+  const elements3 = useSelector(state => state.tests.questions);
 
   const choosenBase = JSON.parse(localStorage.getItem('myCollection'));
 
@@ -91,10 +92,17 @@ const Home = () => {
     const myTests = generateTests(selectedOption1, selectedOption2);
 
     // addState(selectedOption1, selectedOption2, myTests);
-    dispatch({
-      type: 'ADD_OPTIONS',
-      payload: { selectedOption1, selectedOption2, myTests },
-    });
+    dispatch(
+      ADD_OPTIONS({
+        selectedOption1,
+        selectedOption2,
+        myTests,
+      })
+    );
+    // dispatch({
+    //   type: 'ADD_OPTIONS',
+    //   payload: { selectedOption1, selectedOption2, myTests },
+    // });
   };
 
   return (

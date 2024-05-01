@@ -12,8 +12,9 @@ import {
 } from './AnsweredQuestions.styled';
 
 const AnsweredQuestions = () => {
-  const allQuestion = useSelector(state => state.testsReducer.questions);
-  const rightQuestion = useSelector(state => state.testsReducer.rightAnswers);
+  const allQuestion = useSelector(state => state.tests.questions);
+  const rightQuestion = useSelector(state => state.tests.rightAnswers);
+  console.log(allQuestion, rightQuestion);
 
   const updatedQuestions = allQuestion.map(question => {
     const updatedAnswers = question.answers.map(answer => {
@@ -36,7 +37,11 @@ const AnsweredQuestions = () => {
 
   return (
     <div>
-      <TextPage>Зеленым отмечены Ваши правельные ответы</TextPage>
+      <TextPage>
+        Correct answers <br /> {rightQuestion.length} out of{' '}
+        {allQuestion.length}
+      </TextPage>
+      <TextSpan>Зеленым отмечены Ваши правельные ответы</TextSpan>
       <TextSpan>Правильный ответ в тесте помечен - (Правильно)</TextSpan>
       <List>
         {updatedQuestions.map((question, index, arr) => (

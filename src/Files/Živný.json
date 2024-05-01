@@ -38960,5 +38960,4687 @@
     "correctAnswers": ["c) inhibitory zpětného vychytávání serotoninu"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. lucinatio pelvis u stojici zeny je",
+    "answers": ["a) 60 stupnu", "b) 45 stupnu", "c) 20 stupnu", "d) 80 stupnu"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 60 stupnu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Diameter Baudelocque je totéž jako",
+    "answers": [
+      "a) conjugata externa",
+      "b) conjugata vera anatomica",
+      "c) diameter bicristalis",
+      "d) conjugata vera obstetrica"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) conjugata externa"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Přímý průměr pánevní šíře je vzdálenost mezi",
+    "answers": [
+      "a) středem zadní stěny spony a středem těla obratle S,",
+      "b) promontoriem a horním okrajem spony",
+      "c) středem těla obratle S3 a homím okrajem spony",
+      "d) středem těla obratle S3 a dolním obratlem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) středem zadní stěny spony a středem těla obratle S,"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Příčný průměr pánevní úžiny je vzdálenost",
+    "answers": [
+      "a) mezi sedacími hrboly",
+      "b) mezi vnitřními plochami kyčelních kloubů",
+      "c) mezi tmy sedacích kostí",
+      "d) mezi spinae iliacae dorsales craniales"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) mezi tmy sedacích kostí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Která pánevní plocha není geometrickou rovinou",
+    "answers": [
+      "a) pánevní vchod",
+      "b) pánevní šíře",
+      "c) pánevní úžina",
+      "d) pánevní východ"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) pánevní východ"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Conjugata diagonalisje vzdálenost mezi",
+    "answers": [
+      "a) mezi dolním okrajem stydké spony a hrotem kostrče",
+      "b) mezi dolním okrajem stydké spony a promontoriem",
+      "c) mezi trnem pátého bederního obratle a homím okrajem stydké spony",
+      "d) mezi horním okrajem stydké spony a kostrčí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) mezi dolním okrajem stydké spony a promontoriem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Conjugata diagonalis u hraničně zúžené pánve měří",
+    "answers": ["a) < 11 cm", "b) < 12 cm", "c) < 10 cm", "d) > 13 cm"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) < 12 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Nálevkovitá pánev je charakterizována",
+    "answers": [
+      "a) zkrácením conjugata vera obstetrica",
+      "b) oploštěním křížové kosti",
+      "c) prominencí spinae ischiadicae",
+      "d) zdvojeným promontoriem (promunturium spurium)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) prominencí spinae ischiadicae"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Příčný pánevní průměr je nejmenší",
+    "answers": [
+      "a) v pánevním vchodu",
+      "b) v pánevní šíři",
+      "c) v pánevní úžině",
+      "d) v pánevním východu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) v pánevní úžině"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. První šikmý pánevní průměr probíhá",
+    "answers": [
+      "a) zprava vpředu doleva dozadu",
+      "b) souběžně s pánevní osou",
+      "c) kolmo na přímý pánevní průměr",
+      "d) zleva vpředu doprava dozadu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) zleva vpředu doprava dozadu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Mezi ohraničení Michaelisovy routy nepatří",
+    "answers": [
+      "a) spinae iliacae posteriores superiores",
+      "b) cristae ossis ilii",
+      "c) tm posledního bederního obratle",
+      "d) sakrokokcygeální spojení"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) cristae ossis ilii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Do měkkých porodních cest nepatří",
+    "answers": [
+      "a) ligamentum teres uteri",
+      "b) pochva",
+      "c) diaphragma pelvis",
+      "d) dolní děložní segment"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) ligamentum teres uteri"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Do svalstva diaphragma urogenitale nepatří",
+    "answers": [
+      "a) musculus transversus perinei superficialis",
+      "b) musculus levator ani",
+      "c) musculus tranversus perinei profundus",
+      "d) musculus sphincter urethtrae"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) musculus levator ani"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Nervus pudendus senzitivně neinervuje",
+    "answers": [
+      "a) musculus levator ani",
+      "b) musculus ischiocavernosus",
+      "c) přední část hráze",
+      "d) zadní část hráze"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) přední část hráze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Mezi orgány zevního genitálu nepatří",
+    "answers": [
+      "a) bulbus vestibuli",
+      "b) clitoris",
+      "c) labia minora",
+      "d) vagina"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) vagina"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Kolik se přibližně nachází ve vaječnících primárních folikulů",
+    "answers": ["a) 500 000", "b) 450", "c) 6000", "d) 1 000 000"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 500 000"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Ve kterých týdnech těhotenstvíje corpus luteum graviditatis hlavním zdrojem hCG",
+    "answers": [
+      "a) od 13. týdne těhotenství",
+      "b) do 10. týdne těhotenství",
+      "c) ve třetím trimestru těhotenství",
+      "d) intra partům"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) do 10. týdne těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Polární tělísko",
+    "answers": [
+      "a) je zvláštní druh leukocytu",
+      "b) je hmatový senzor na klitorisu",
+      "c) nachází se v perivitelinním prostoru zóna pellucida po prvním meiotickém dělení",
+      "d) je zmrazený oocyt pro fertilizaci in vitro"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) nachází se v perivitelinním prostoru zóna pellucida po prvním meiotickém dělení"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Kolik má zralé vajíčko chromosomů",
+    "answers": ["a) 23", "b) 46", "c) 92", "d) 10"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 23"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Fundus děložní v",
+    "answers": [
+      "a) к žebemímu oblouku",
+      "b) tři prsty nad sponu",
+      "c) do výše pupeční jizvy",
+      "d) к mečovitému výběžku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) do výše pupeční jizvy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Součástí mléčné žlázy nejsou (není)",
+    "answers": [
+      "a) lobi glandulae mammariae",
+      "b) premamámí tuk",
+      "c) ductus lactiferi",
+      "d) corpus mammae"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) premamámí tuk"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Diameter soboccipitobregmaticus u zralého plodu měří",
+    "answers": ["a) 13 cm", "b) 8 cm", "c) 11 cm", "d) 9,5 cm"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) 9,5 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Circumferentia suboccipitobregmatica měří",
+    "answers": ["a) 28 cm", "b) 32 cm", "c) 30 cm", "d) 35 cm"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 32 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Circumferentia maxilloparietalis je obvod, kterým se hlavička rodí při poloze",
+    "answers": ["a) čelní", "b) obličejové", "c) předhlavím", "d) záhlavím"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) čelní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Circumferentia suboccipitobregmatica měří stejně jako",
+    "answers": [
+      "a) circumferentia maxilloparietalis",
+      "b) circumferentia frontooccipitalis",
+      "c) circumferentia submentobregmatica",
+      "d) diameter Baudelocque"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) circumferentia submentobregmatica"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Diameter biacromialis zralého plodu měří",
+    "answers": ["a) 35 cm", "b) 27 cm", "c) 9 cm", "d) 12 cm"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) 12 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Diameter biilica zralého plodu měří",
+    "answers": ["a) 9 cm", "b) 25 cm", "c) 12 cm", "d) 20-24 cm"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 9 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Velká fontanela je ohraničena",
+    "answers": [
+      "a) parietálními kostmi a okcipitální kostí",
+      "b) frontálními kostmi a okcipitální kostí",
+      "c) kostmi frontálními a parietálními",
+      "d) kostí parietální a temporální"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) kostmi frontálními a parietálními"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Velká fontanela má tvar",
+    "answers": ["a) trojúhelníku", "b) oválu", "c) deltoidu", "d) kosodélníku"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) deltoidu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Malá fontanela je ohraničena",
+    "answers": [
+      "a) parietálními a frontálními kostmi",
+      "b) kostí okcipitální a parietálními kostmi",
+      "c) kostí okcipitální a temporální",
+      "d) kostmi frontálními a okcipitální kostí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) kostí okcipitální a parietálními kostmi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Malá fontanela má mimo porod tvar",
+    "answers": [
+      "a) kosočtverce",
+      "b) deltoidu",
+      "c) trojúhelníku",
+      "d) obdélníku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) trojúhelníku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Za porodu je malá fontanela štěrbinovitě stlačen: a je hmatná v místě střetu",
+    "answers": [
+      "a) sutura coronaria a sutura sagitalis",
+      "b) sutura frontalis a sutura sagitalis",
+      "c) sutura lambdoidea a sutura sagitalis",
+      "d) sutura coronaria a sutura temporalis"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) sutura lambdoidea a sutura sagitalis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Biparietální průměr u donošeného plodu měří",
+    "answers": ["a) 6,5 cm", "b) 10 cm", "c) 7,5 cm", "d) 9,5 cm"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) 9,5 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Nejčastější tvar hlavičky plodu je",
+    "answers": [
+      "a) dolichocefalie",
+      "b) brachycefalie",
+      "c) hypsicefalie",
+      "d) turicefalie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) dolichocefalie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Malgaigneovu fontanelu hledáme",
+    "answers": [
+      "a) v oblasti čelní sutury",
+      "b) na okcipitální kosti",
+      "c) v šípovém švu mezi parietálními kostmi",
+      "d) v oblasti koronární sutury"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) v šípovém švu mezi parietálními kostmi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Mezi známky nezralosti plodu nepatří",
+    "answers": [
+      "a) hmotnost < 2500 g",
+      "b) délka < 47 cm",
+      "c) placentami infarkty",
+      "d) nesestouplá varlata"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) placentami infarkty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Délka plodu je nesprávná, pokud měří",
+    "answers": [
+      "a) 30 cm na konci 6. lunárního měsíce",
+      "b) 35 cm na konci 9. lunárního měsíce",
+      "c) 16 cm na konci 4. lunárního měsíce",
+      "d) 25 cm na konci 5. lunárního měsíce"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 35 cm na konci 9. lunárního měsíce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Mezi známky porodního nádoru na hlavičce plodu nepatří, když",
+    "answers": [
+      "a) přesahuje linie lebečních švů",
+      "b) otok mizí během 1-2 dnů",
+      "c) nepřesahuje linie lebečních kostí",
+      "d) nejeví známky fluktuace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) nepřesahuje linie lebečních kostí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Za donošený se považuje plod nad",
+    "answers": ["a) 1800 g", "b) 3000 g", "c) 2500 g", "d) 1000 g"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 2500 g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Poloha plodu je určena",
+    "answers": [
+      "a) vztahem podélné osy plodu к podélné ose dělohy",
+      "b) vztahem hřbetu plodu к děložní hraně",
+      "c) vztahem naléhající části plodu к pánevnímu vchodu",
+      "d) vztahem hřbetu plodu к podélné ose dělohy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) vztahem podélné osy plodu к podélné ose dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Postavení plodu při podélné poloze je určeno",
+    "answers": [
+      "a) vztahem podélné osy plodu к podélné ose dělohy",
+      "b) vztahem pánevního konce plodu к pánevnímu vchodu",
+      "c) vztahem hřbetu plodu к děložní hraně",
+      "d) vztahem hlavičky plodu к děložní hraně"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) vztahem hřbetu plodu к děložní hraně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Která jsou nejčastější postavení plodu při podélných polohách",
+    "answers": [
+      "a) pravé přední",
+      "b) levé zadní",
+      "c) levé přední",
+      "d) pravé zadní"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) levé přední"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Co není fyziologické naléhání hlavičky plodu",
+    "answers": [
+      "a) centrické",
+      "b) asynklitické",
+      "c) indiferentní",
+      "d) synklitické"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) asynklitické"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Při excentrickém naléhání hlavička plodu",
+    "answers": [
+      "a) naléhá větší plochou jedné z parietálních kostí",
+      "b) naléhá na střed pánevního vchodu",
+      "c) svou částí přesahuje laterální okraj pánevního vchodu",
+      "d) naléhá v deflexi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) svou částí přesahuje laterální okraj pánevního vchodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Při předním asynklitismu sec. Naegele hlavička plodu",
+    "answers": [
+      "a) naléhá větší plochou své vpředu uložené parietální kosti, šípový šev je blíže к promontoriu",
+      "b) šípový šev je uložen blíže stydké sponě",
+      "c) naléhá větší plochou své vzadu uložené parietální kosti",
+      "d) šípový šev probíhá ve středu vzdálenosti mezi sponou a promontoriem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) naléhá větší plochou své vpředu uložené parietální kosti, šípový šev je blíže к promontoriu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Indiferentní naléhání plodu znamená, že",
+    "answers": [
+      "a) malá a velká fontanela jsou stejně vysoko nad rovinou pánevního vchodu",
+      "b) hlavička po iniciální flexi má níže uloženou malou fontanelu",
+      "c) hlavička má níže uloženou velkou fontanelu",
+      "d) hlavička naléhá na střed pánve"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) malá a velká fontanela jsou stejně vysoko nad rovinou pánevního vchodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Šikmá příznivá poloha plodu znamená, že",
+    "answers": [
+      "a) hlavička naléhá na pánevní vchod centricky",
+      "b) hlavička svým předhlavím přesahuje laterální okraj pánevního vchodu",
+      "c) hlavička vstupuje v deflexi",
+      "d) do pánevního vchodu je přivráceno břicho plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) hlavička svým předhlavím přesahuje laterální okraj pánevního vchodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Která deflexní poloha má nejhorší prognózu",
+    "answers": [
+      "a) obličejová poloha",
+      "b) poloha temenem",
+      "c) poloha čelní",
+      "d) poloha předhlavím"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) poloha čelní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Při hlavičce vstouplé velkým oddílem je",
+    "answers": [
+      "a) krční rýha 3 prsty nad sponou",
+      "b) hmatná celá zadní stěna stydké spony",
+      "c) krční rýha 2 prsty nad sponou",
+      "d) hlavičku lze vysunout z pánevního vchodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) krční rýha 2 prsty nad sponou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Hlavička není vstouplá malým oddílem",
+    "answers": [
+      "a) hmatáme-li dvě třetiny zadní stěny stydké spony",
+      "b) při krční rýze 3 prsty nad sponou",
+      "c) pokud lze hlavičku vysunout z pánevního vchodu",
+      "d) hmatáme-li kaudální třetinu zadní stěny stydké spony"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) hmatáme-li dvě třetiny zadní stěny stydké spony"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Při poloze plodu podélné záhlavím a postavení levém předním, při vstupu hlavičky do pánve",
+    "answers": [
+      "a) probíhá šípový šev v 2. šikmém pánevním průměru",
+      "b) hmatáme obvykle malou fontanelu vlevo vpředu",
+      "c) hmatáme malou fontanelu vpravo vzadu",
+      "d) hmatáme velkou fontanelu vpravo vpředu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) hmatáme obvykle malou fontanelu vlevo vpředu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. К normálnímu držení plodu nepatří",
+    "answers": [
+      "a) semiflektovaná hlavička",
+      "b) ohnuté a zkřížené ruce a nožky plodu",
+      "c) deflexe hlavičky",
+      "d) obloukovité prohnutí páteře plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) deflexe hlavičky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Při Pawlikově hmatu neurčujeme",
+    "answers": [
+      "a) asynklitismus",
+      "b) polohu plodu",
+      "c) výšku krční rýhy",
+      "d) centrické naléhání hlavičky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) asynklitismus"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Ramus pubicus anastomoticus (corona mortis Hesselbachi) je spojka mezi",
+    "answers": [
+      "a) arteria obturatoria a epigastrica inferior",
+      "b) a uterina a a. obturatoria",
+      "c) a pudenda interna a epigastrica inferior",
+      "d) mezi jinými tepnami, než je výše uvedeno"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) arteria obturatoria a epigastrica inferior"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Vzdálenost mezi spinae ischiadicae je zmenšena",
+    "answers": [
+      "a) u pánve ploché rachitické",
+      "b) u pánve všeobecně stejnoměrně zúžené",
+      "c) u pánve luxační",
+      "d) u pánve nálevkovité"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) u pánve všeobecně stejnoměrně zúžené",
+      "d) u pánve nálevkovité"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Michaelisova routa je ohraničena",
+    "answers": [
+      "a) spinae iliacae posteriores superiores",
+      "b) trnem 5 bederního obratle",
+      "c) sakrokokcigeálním spojením",
+      "d) eminentia ileopectinea"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) spinae iliacae posteriores superiores",
+      "b) trnem 5 bederního obratle",
+      "c) sakrokokcigeálním spojením"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Přední poševní klenba je na konci těhotenství",
+    "answers": [
+      "a) prázdná při poloze příčné",
+      "b) plná nevyvinutá při naléhající velké části plodu",
+      "c) plná vyvinutá při hlavičce vstouplé velkým oddílem",
+      "d) prázdná při naléhajícím konci pánevním"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) prázdná při poloze příčné",
+      "b) plná nevyvinutá při naléhající velké části plodu",
+      "c) plná vyvinutá při hlavičce vstouplé velkým oddílem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Cervix score je za normálního těhotenství",
+    "answers": [
+      "a) 8-10 po 39 týdnu těhotenství",
+      "b) 7 v 36 týdnu těhotenství",
+      "c) 3 ve 28 týdnu těhotenství",
+      "d) 6 ve 40 týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) 8-10 po 39 týdnu těhotenství",
+      "c) 3 ve 28 týdnu těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Levá uteroingvinální chorda je lépe hmatná než pravá",
+    "answers": [
+      "a) při děložní sinistrotorzi",
+      "b) u podélných poloh při postavení levém předním",
+      "c) při děložní dextrotorzi",
+      "d) u podélných poloh při postavení pravém zadním"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) u podélných poloh při postavení levém předním",
+      "c) při děložní dextrotorzi",
+      "d) u podélných poloh při postavení pravém zadním"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Při Budínově hmatu zjišťujeme u podélných poloh",
+    "answers": [
+      "a) polohu plodu",
+      "b) uložení malých částí plodu",
+      "c) postavení plodu",
+      "d) naléhání plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) uložení malých částí plodu", "c) postavení plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Pawlikovým hmatem zjišťujeme",
+    "answers": [
+      "a) výšku krční rýhy nad sponou",
+      "b) děložní verzi a torzi",
+      "c) tvar a konzistenci naléhající části plodu",
+      "d) centrické naléhání hlavičky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) výšku krční rýhy nad sponou",
+      "c) tvar a konzistenci naléhající části plodu",
+      "d) centrické naléhání hlavičky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Zevní pánevní nepoměr je charakterizován",
+    "answers": [
+      "a) délkou conjugata diagonalis",
+      "b) schodovitým vyklenutím dolního děložního segmentu nad úrovní horního okraje spony",
+      "c) konformací hlavičky",
+      "d) výškou krční rýhy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) schodovitým vyklenutím dolního děložního segmentu nad úrovní horního okraje spony"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Při poloze příčné zjišťujeme",
+    "answers": [
+      "a) při Pawlikově hmatu prázdný dolní děložní segment",
+      "b) prázdnou poševní klenbu",
+      "c) maximum ozev plodu v dolních kvadrantech břicha",
+      "d) hruškovitý tvar dělohy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) při Pawlikově hmatu prázdný dolní děložní segment",
+      "b) prázdnou poševní klenbu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Při poloze plodu koncem pánevním zjišťujeme",
+    "answers": [
+      "a) při Pawlikově hmatu chybění krční rýhy",
+      "b) maximum ozev plodu v dolních kvadrantech břicha těhotné",
+      "c) hlavičku plodu v oblasti děložního fundu",
+      "d) při neúplném konci pánevním řitním genitoanální rýhu plodu během vaginálního vyšetření"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) při Pawlikově hmatu chybění krční rýhy",
+      "c) hlavičku plodu v oblasti děložního fundu",
+      "d) při neúplném konci pánevním řitním genitoanální rýhu plodu během vaginálního vyšetření"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Dextroverze a dextrotorze dělohy je podmíněna",
+    "answers": [
+      "a) částečným přesunem těhotné dělohy do pravé kyčelní jámy",
+      "b) v důsledku situs viscerum inversus",
+      "c) úponem radix mesenterii a levostranným uložením kliček tenkého střeva",
+      "d) polohou a postavením plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) částečným přesunem těhotné dělohy do pravé kyčelní jámy",
+      "c) úponem radix mesenterii a levostranným uložením kliček tenkého střeva"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Normální akce srdce plodu na konci těhotenství",
+    "answers": [
+      "a) je v pásmu 120-150 tepů za minutu",
+      "b) je v oscilačním pásmu od 10 do 25 tepů za minutu",
+      "c) jsou akcelerace srdeční akce při pohybu plodu",
+      "d) jsou saltatomí oscilace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) je v pásmu 120-150 tepů za minutu",
+      "b) je v oscilačním pásmu od 10 do 25 tepů za minutu",
+      "c) jsou akcelerace srdeční akce při pohybu plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Určete relativně nejpřesnější metodu na propočet porodního termínu",
+    "answers": [
+      "a) podle ultrazvukové biometrie na začátku těhotenství",
+      "b) podle prvního dne poslední menstruace",
+      "c) podle výšky děložního fundu",
+      "d) podle prvních pohybů plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) podle ultrazvukové biometrie na začátku těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Michaelisovu routu neohraničuje",
+    "answers": [
+      "a) tm obratle L5",
+      "b) spinae iliacae posteriores superiores",
+      "c) sakrokokcygeální spojení",
+      "d) pecten ossis pubis"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) pecten ossis pubis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Pelvis minor má tvar",
+    "answers": [
+      "a) lichoběžníku",
+      "b) kužele",
+      "c) válce",
+      "d) přesýpacích hodin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) válce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Výrazu aditus pelvis odpovídá také",
+    "answers": [
+      "a) amplitudo pelvis",
+      "b) apertura pelvis superior",
+      "c) angustia pelvis",
+      "d) apertura pelvis inferior"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) apertura pelvis superior"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Exitus pelvis má tvar",
+    "answers": [
+      "a) trojúhelníku",
+      "b) čtverce",
+      "c) jeho tvar nelze popsat",
+      "d) kosočtverce"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) kosočtverce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Musculus compressor vaginae je součástí",
+    "answers": [
+      "a) m bulbocavemosus",
+      "b) m transversus perinei profundus",
+      "c) m levator ani К",
+      "d) m sphincter uretrae"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) m levator ani К"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Dolní děložní segment patří",
+    "answers": [
+      "a) к tzv uzávěrovému aparátu",
+      "b) к tzv podpůrnému aparátu",
+      "c) к měkkým cestám porodním",
+      "d) к tzv závěsnému aparátu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) к měkkým cestám porodním"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Isthmus uteri spojuje",
+    "answers": [
+      "a) corpus a cervix uteri",
+      "b) corpus uteri s ligamentum teres uteri",
+      "c) corpus uteri a salpinx",
+      "d) cervix uteri a fomices vaginae"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) corpus a cervix uteri"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Bazi ligamentum latum uteri tvoří",
+    "answers": [
+      "a) ligamentum sacrouterinum",
+      "b) ligamentum cardinale",
+      "c) ligamentum infundibulopelvicum",
+      "d) ligametum teres uteri"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) ligamentum cardinale"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Musculus subareolaris je",
+    "answers": [
+      "a) příčně pruhovaný sval tvořící součást diaphragma pelvis",
+      "b) součást musculus pectoralis major",
+      "c) hladký sval, jehož kontrakcí dochází к erekci bradavky",
+      "d) neexistuje"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) hladký sval, jehož kontrakcí dochází к erekci bradavky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Sorgiusova uzlina leží",
+    "answers": [
+      "a) na 1 zubu musculus serratus anterior",
+      "b) na 3 zubu musculus serratus anterior",
+      "c) v horní třetině mediastina",
+      "d) ve fossa obturatoria"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) na 3 zubu musculus serratus anterior"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Circulus venosus Halleri tvoří",
+    "answers": [
+      "a) žíly pod prsním dvorcem",
+      "b) žíly v oblasti děložní hrany",
+      "c) žíly při úponu pupečníku",
+      "d) vena dorsalis clitoridis supercifialis a vena dorsalis",
+      "clitoridis profunda"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) žíly pod prsním dvorcem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Nehty a vlasy jsou u plodu vytvořeny",
+    "answers": [
+      "a) po 10 týdnu gravidity",
+      "b) po 16 týdnu gravidity",
+      "c) po 18 týdnu gravidity",
+      "d) po 22 týdnu gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) po 16 týdnu gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Valvula Eustachi je řasa, která se nachází",
+    "answers": [
+      "a) v a umbilicalis",
+      "b) v pravé síni",
+      "c) v urachu",
+      "d) v hlubokém žilním systému dolních končetin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) v pravé síni"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Progesteron působí",
+    "answers": [
+      "a) proliferaci děložní sliznice",
+      "b) senzitivizaci dělohy na oxytocin",
+      "c) relaxaci buněk hladké svaloviny",
+      "d) poruchu placentace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) relaxaci buněk hladké svaloviny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Jako Můllerův kontrakční kruh označujeme",
+    "answers": [
+      "a) laterální ohraničení dolního děložního systému",
+      "b) laterální snopce musculus sphincter ani",
+      "c) kraniální ohraničení dolního děložního segmentu",
+      "d) strangulační cirkuiární rýhu v oblasti krčku plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) kraniální ohraničení dolního děložního segmentu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Amnion tvoří následující počet vrstev",
+    "answers": ["a) 4", "b) 5", "c) 3", "d) 2"],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 5"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Jaký je český ekvivalent pro latinský výraz introitus vaginae",
+    "answers": [
+      "a) poševní vchod",
+      "b) poševní klenba",
+      "c) vulvámí kruh",
+      "d) nic z uvedeného"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) poševní vchod"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. К produkci lidského choriového gonadotropinu (hCG) dochází",
+    "answers": [
+      "a) v kůře ovaria",
+      "b) v oblasti hilu ovaria",
+      "c) v Langhanzových buňkách syncytiotrofoblastu",
+      "d) v hypofýze"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) v Langhanzových buňkách syncytiotrofoblastu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Biparietální průměr hlavičky plodu (BPD) stanovujeme od",
+    "answers": [
+      "a) 8-9 týdne gravidity",
+      "b) 11 -12 týdne gravidity",
+      "c) 18-19 týdne gravidity",
+      "d) 22-24 týdne gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "1. Anatomie ženského reprodukčního systému se zaměřením na porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 11 -12 týdne gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Polytelieje",
+    "answers": [
+      "a) typická pouze pro muže",
+      "b) výskyt akcesomí mléčné žlázy",
+      "c) typická pro amastii",
+      "d) výskyt akcesomích prsních bradavek"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) výskyt akcesomích prsních bradavek"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Uterus duplex",
+    "answers": [
+      "a) je charakteristický pro Turnérův syndrom",
+      "b) je charakteristický pro pravý hermafroditismus",
+      "c) vzniká nespojením Miillerových vývodů",
+      "d) vzniká nespojením Wolffových vývodů"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) vzniká nespojením Miillerových vývodů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Testosteron ve fetálním varleti produkují",
+    "answers": [
+      "a) všechny buňky varlete",
+      "b) Sertoliho buňky",
+      "c) Leydigovy buňky",
+      "d) gonocyty"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) Leydigovy buňky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Na změnu indiferentní gonády ve varleti má rozhodující vliv",
+    "answers": [
+      "a) chybění estrogenů",
+      "b) testosteron",
+      "c) gonocyty",
+      "d) autosomy"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) gonocyty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. К Fallotově tetralogii nepatří",
+    "answers": [
+      "a) defekt septi ventriculorum",
+      "b) hypertrofie levé komory",
+      "c) transpozice aorty",
+      "d) stenosa trunci pulmonalis"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) hypertrofie levé komory"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Oocyt si po ovulaci uchová schopnost oplození",
+    "answers": ["a) 24 hodin", "b) 12 hodin", "c) 48 hodin", "d) 1 týden"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 24 hodin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. První rýhovací dělení zygoty se děje po oplození přibližně za",
+    "answers": [
+      "a) 30 hodin",
+      "b) ihned",
+      "c) za více než 48 hodin",
+      "d) 30 minut"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 30 hodin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Blastocysta se dostane do dělohy obvykle",
+    "answers": [
+      "a) 7 den po oplození",
+      "b) 2 den po oplození",
+      "c) 4 den po oplození",
+      "d) 14 den po oplození"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 4 den po oplození"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Zóna pellucida mizí po okamžiku oplodnění asi za",
+    "answers": ["a) 5 dní", "b) 3 dny", "c) 1 den", "d) 1 týden"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 5 dní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Nidace blastocysty do děložní sliznice je ukončena v průběhu",
+    "answers": [
+      "a) 1 týdne po oplození",
+      "b) 2 týdne po oplození",
+      "c) 7 týdne po oplození",
+      "d) 10 týdne po oplození"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 2 týdne po oplození"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Počet folikulů v obou ovariích novorozeného děvčete je",
+    "answers": [
+      "a) 6 milionů",
+      "b) 700 tisíc - 2 miliony",
+      "c) 400 tisíc",
+      "d) 600 tisíc"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 400 tisíc"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Tůba uterina se vyvíjí",
+    "answers": [
+      "a) z paraoophoron",
+      "b) z Můllerova vývodu",
+      "c) z Wolffova vývodu",
+      "d) z canalis Gartneri"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) z Můllerova vývodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Hypoplazie ovaria je typická pro",
+    "answers": [
+      "a) testikulární feminizaci",
+      "b) adrenogenitální syndrom",
+      "c) Turnérův syndrom",
+      "d) Klinefelterův syndrom"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) Turnérův syndrom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. К oplození dochází nejčastěji",
+    "answers": [
+      "a) v děloze",
+      "b) v dutině břišní",
+      "c) v ovariu",
+      "d) v ampulámí části vejcovodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) v ampulámí části vejcovodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Aktivní element při nidaci embrya je",
+    "answers": [
+      "a) myometrium",
+      "b) cytotrofoblast",
+      "c) špitální tepna",
+      "d) syncytiotrofoblast"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) syncytiotrofoblast"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Decidualizací označujeme",
+    "answers": [
+      "a) určitou fázi nidace",
+      "b) poruchu nidace",
+      "c) reakci myometria na implantaci vejce",
+      "d) reakci endometria na těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) reakci endometria na těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Chorion frondosum se vytváří v místě",
+    "answers": [
+      "a) decidua parietalis",
+      "b) decidua capsularis",
+      "c) decidua basalis",
+      "d) decidua vera"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) decidua basalis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Žloutkový váček je lokalizován",
+    "answers": [
+      "a) v extraembryonálním prostoru",
+      "b) v choriu",
+      "c) vamniální dutině",
+      "d) v deciduální tkáni"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) v extraembryonálním prostoru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. V kterém stadiu embryonálního vývoje označuje me produkt koncepce plodem",
+    "answers": [
+      "a) v 8 týdnu gravidity",
+      "b) v 11—12 týdnu gravidity",
+      "c) v 15 týdnu gravidity",
+      "d) ve 28 týdnu gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) v 11—12 týdnu gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Žloutkový váček lze bezpečně vizualizovat ultrasonograflí",
+    "answers": [
+      "a) 5 týdnu gravidity",
+      "b) 6-7 týdnu gravidity",
+      "c) ve 12 týdnu gravidity",
+      "d) iv 16 týdnu gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 6-7 týdnu gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Trofoblastická invaze je kompletní kolem",
+    "answers": [
+      "a) 6 týdne gravidity",
+      "b) 12 týdne",
+      "c) 20 týdne",
+      "d) 28 týdne"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 20 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Růst placenty pokračuje do",
+    "answers": [
+      "a) 28 týdne",
+      "b) 36 týdne",
+      "c) 40 týdne",
+      "d) pokračuje ještě po termínu porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 36 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. V které části ovaria jsou produkovány androgeny",
+    "answers": [
+      "a) zona cortocalis",
+      "b) zona medularis",
+      "c) ovariální hilus",
+      "d) stratum granulosum"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) ovariální hilus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Rovina pánevní šíře je vymezena čarou",
+    "answers": [
+      "a) mezi S2 a S3",
+      "b) mezi Lj-Sj",
+      "c) mezi L2-L3",
+      "d) je daná vyhloubením kosti křížové"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) mezi S2 a S3"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Umbilikální arterie plodu odstupují",
+    "answers": [
+      "a) z aa hypogastricae",
+      "b) z a thoracica interna",
+      "c) z aorty",
+      "d) z a uterina"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) z aa hypogastricae"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Ductus arteriosus Botalli se napojuje na",
+    "answers": [
+      "a) aorta descendens",
+      "b) pravou komoru srdeční",
+      "c) levou komoru srdeční",
+      "d) pulmonalis"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) aorta descendens"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Limitem pro prostup látek placentou je molekulární hmotnost",
+    "answers": ["a) 100", "b) 300", "c) 500", "d) 1000"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) 1000"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Amnion vzniká",
+    "answers": [
+      "a) z ektodermu",
+      "b) z mezodermu",
+      "c) kavitací mezi ektodermem a trofoblastem",
+      "d) z choria"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) kavitací mezi ektodermem a trofoblastem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Stěna pochvy neobsahuje",
+    "answers": [
+      "a) hladkou svalovinu",
+      "b) kolagenní vlákna",
+      "c) žlázy",
+      "d) podslizniční vazivo"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) žlázy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Od děložního rohu к tříselnému kanálu směřuje",
+    "answers": [
+      "a) ligamentum sacrouterinum",
+      "b) lig cardinale uteri",
+      "c) lig vesicouterinum",
+      "d) lig teres uteri"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) lig teres uteri"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Který sval hráze nesmí být při epiziotomii porušen",
+    "answers": [
+      "a) m bulbocavemosus",
+      "b) m ischiocavemosus",
+      "c) sphincter ani",
+      "d) m transverus perinei profundus"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) sphincter ani"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Oligohydramnion může souviset",
+    "answers": [
+      "a) s oboustrannou agenezí ledvin",
+      "b) s otevřeným defektem neurální trubice",
+      "c) s fetální makrosomií",
+      "d) s hydropsem plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) s oboustrannou agenezí ledvin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Polyhydramnion může souviset",
+    "answers": [
+      "a) s agenezí ledvin",
+      "b) s intrauterinní růstovou retardací (IUGR) plodu",
+      "c) s otevřeným defektem neurální trubice",
+      "d) často se diagnostikuje bez objektivní příčiny"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) s otevřeným defektem neurální trubice"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Hmotnost plodu v 6 lunárním měsíci je přibližně",
+    "answers": ["a) 250-280 g", "b) 500-700 g", "c) 1100-1300g", "d) 1500g"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 500-700 g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Podle Haase je délka plodu v 5 lunárním měsíci",
+    "answers": ["a) 15 cm", "b) 20 cm", "c) 25 cm", "d) 30 cm"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 25 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Aa umbilicales vedou krev",
+    "answers": [
+      "a) okysličenou",
+      "b) smíšenou",
+      "c) odkysličenou",
+      "d) mateřskou"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) odkysličenou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Foramen ovale je umístěno",
+    "answers": [
+      "a) v septu předsíní",
+      "b) v septu komor",
+      "c) v ductus arteriosus",
+      "d) při odstupu ascendentní aorty"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) v septu předsíní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Průtok krve dělohou na konci těhotenstvíje",
+    "answers": [
+      "a) 300 ml/min",
+      "b) 500-700 ml/min",
+      "c) 1000 ml/min",
+      "d) 2500 ml/min"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 500-700 ml/min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Dolní děložní segment je anatomicky vymezen od děložního těla",
+    "answers": [
+      "a) úponem lig Teres",
+      "b) úponem sakrouterinních vazů",
+      "c) Miillerovým kontrakčním pruhem",
+      "d) širokým vazem"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) Miillerovým kontrakčním pruhem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Minutový srdeční objem matky se zvyšuje v těhotenství o",
+    "answers": ["a) 20%", "b) 30%", "c) 40%", "d) 100%"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 40%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Fyziologické množství plodové vody v 16 týdnu je",
+    "answers": ["a) 50 ml", "b) 150 ml", "c) 250 ml", "d) 500 ml"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 150 ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Základní mlékotvomý hormon po porodu je",
+    "answers": ["a) estrogen", "b) progesteron", "c) prolaktin", "d) oxytocin"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) prolaktin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Nejdůležitějším laktokinetikem je",
+    "answers": ["a) prolaktin", "b) kortizol", "c) progesteron", "d) oxytocin"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) oxytocin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Které imunoglobuliny se prokazují v mateřském mléce",
+    "answers": ["a) IgG", "b) IgM", "c) IgA", "d) anti-D"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) IgA"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Jednou z hlavních složek mateřského mléka je",
+    "answers": ["a) glukóza", "b) fruktóza", "c) laktóza", "d) glykogen"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) laktóza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Při ABO izoimunizaci je plod ohrožen",
+    "answers": [
+      "a) v těhotenství",
+      "b) za porodu",
+      "c) po porodu",
+      "d) ohrožen není"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) po porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Vyšetření na TORCH neobsahuje sérologické vyšetření na",
+    "answers": [
+      "a) toxoplazmózu",
+      "b) listeriózu",
+      "c) rubeolu",
+      "d) cytomegalovirus"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) listeriózu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Novorozenec je hypotrofický, váží-li po porodu v 38 týdnu",
+    "answers": [
+      "a) 2800 g",
+      "b) 2600g",
+      "c) méně než 2400 g",
+      "d) při uvedených hmotnostech není hypotrofický"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) méně než 2400 g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Cliffordovo schéma klasifikuje novorozence jako",
+    "answers": [
+      "a) nedonošeného",
+      "b) přenášeného",
+      "c) hypotrofického",
+      "d) hypoxického"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) přenášeného"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Perinatologické centrum je klasifikováno jako nemocnice",
+    "answers": [
+      "a) nejvyšší kategorie s JINP",
+      "b) okresní porodnice",
+      "c) s návazností na další medicínské obory",
+      "d) s dětským oddělením"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) nejvyšší kategorie s JINP"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Jaký počet chromosomů obsahuje triploidie",
+    "answers": ["a) 45", "b) 47", "c) 49", "d) 69"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) 69"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Jaký počet chromosomů obsahuje tetraploidie",
+    "answers": ["a) 52", "b) 69", "c) 92", "d) 16"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 92"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Jaká je frekvence chromosomálmch aberací",
+    "answers": ["v době koncepce", "a) 4%", "b) 5%", "c) 10%", "d) 25%"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 10%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Jaká je frekvence chromosomálních aberací v době porodu",
+    "answers": ["a) 0,6%", "b) 1%", "c) 2-3 %", "d) 4%"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 0,6%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Klinefelterův syndrom má karyotyp",
+    "answers": ["a) 47 XXX", "b) 47 XXY", "c) 45 XO", "d) 48 XXXX"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 47 XXY"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Super female syndrom má karyotyp",
+    "answers": ["a) 48 XXXX", "b) 47 XYY", "c) 47 XXX", "d) 47 XXY"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 47 XXX"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Fetocida je",
+    "answers": [
+      "a) selektivní arteficiální usmrcení postiženého dvojčete",
+      "b) usmrcení malformovaného plodu",
+      "c) podání KC1 do srdce plodu",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Fenylketonurie je",
+    "answers": [
+      "a) deficit fenylalanin hydroxylázy",
+      "b) deficit cystathionin B-syntetázy",
+      "c) deficit karboxyhydrogenázy",
+      "d) deficit adenosyl transferázy"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) deficit fenylalanin hydroxylázy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Hemofilie je deficit faktoru",
+    "answers": ["a) VIII", "b) IX", "c) Xll", "d) XIII"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) VIII"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Cystická fibróza je",
+    "answers": [
+      "a) autosomálně dominantní choroba",
+      "b) autosomálně recesivní onemocnění",
+      "c) onemocnění vázané na X chromosom",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) žádná odpověď není správná"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Výskyt defektu neurální trubice u plodu je spojován s deficitem",
+    "answers": [
+      "a) kyseliny listové",
+      "b) vitaminu C",
+      "c) vitaminu D",
+      "d) bílkovin"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) kyseliny listové"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Pravý hermafroditismus znamená",
+    "answers": [
+      "a) přítomnost obou zevních genitálií u jednoho jedince",
+      "b) přítomnost ovaria i testes u jednoho jedince",
+      "c) přítomnost ovotestis i genitálií",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) přítomnost ovaria i testes u jednoho jedince"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Mužský pseudohermafroditismus znamená",
+    "answers": [
+      "a) hypoplastické testes, zevní genitál spíše ženský",
+      "b) normální testes + ženský genitál",
+      "c) zevní genitál mužský a malformovaný",
+      "d) mužský genitál + ovaria"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) hypoplastické testes, zevní genitál spíše ženský"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Testikulámí feminizace znamená, že jsou přítomny(a)",
+    "answers": [
+      "a) testes + mužský genitál",
+      "b) hypoplastické testes + normální ženský genitál",
+      "c) ovaria i testes",
+      "d) ovaria + ženský genitál"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) hypoplastické testes + normální ženský genitál"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Ženský pseudohermafroditismus znamená, že jsou přítomna(y)",
+    "answers": [
+      "a) ovaria + mužský zevní genitál",
+      "b) ovaria + ženský zevní genitál",
+      "c) testes + ženský genitál",
+      "d) ovaria i testes"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) ovaria + mužský zevní genitál"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Adrenogenitální syndrom je deficit",
+    "answers": ["a) ACTH", "b) kalia", "c) 21-hydroxylázy", "d) estrogenů"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 21-hydroxylázy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Součástí Mayerova-Rokitanského-Kůstnerova syndromu je",
+    "answers": [
+      "a) hypoplastické nebo aplastická vagina",
+      "b) malformace zevního genitálu",
+      "c) vnitřní genitál je mužský",
+      "d) normální menstruace"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) hypoplastické nebo aplastická vagina"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Hlavní symptom vrozené syfilis u novorozence je",
+    "answers": [
+      "a) anémie",
+      "b) osteochondritida",
+      "c) vřed na zevním genitálu",
+      "d) projeví se v pozdějším věku"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) osteochondritida"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Mezi antropozoonózy nepatří",
+    "answers": [
+      "a) brucelóza",
+      "b) listerióza",
+      "c) leptospiróza",
+      "d) ureaplazma"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) ureaplazma"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Onemocnění rubeolou u ženy v I trimestru prokazuje pozitivita",
+    "answers": ["a) IgG", "b) IgM", "c) IgA", "d) amniocentéza"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) IgM"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Onemocnění cytomegalovirovou infekcí prokazuje",
+    "answers": [
+      "a) přítomnost periventrikulámích kalcifikací v CNS",
+      "b) malformace srdce",
+      "c) adnátní pneumonie",
+      "d) anémie"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) přítomnost periventrikulámích kalcifikací v CNS"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Součástí vrozeného syndromu AIDS je",
+    "answers": [
+      "a) lymfadenopatie",
+      "b) hepatosplenomegalie",
+      "c) horečka, kandidóza",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Mezi symptomy vrozené toxoplazmózy nepatří",
+    "answers": [
+      "a) hydrocefalus",
+      "b) mikrocefalus",
+      "c) deformity končetin",
+      "d) kalcifikace CNS"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) deformity končetin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Diabetická fetopatie znamená",
+    "answers": [
+      "a) malformace CNS u plodu",
+      "b) makrosomie plodu",
+      "c) malformace horních končetin plodu",
+      "d) malformace genitálu plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) makrosomie plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. Kefalhematom je",
+    "answers": [
+      "a) krvácení v kůži a podkoží hlavy",
+      "b) subperiostální hemoragie",
+      "c) krvácení do komor",
+      "d) parenchymatózní krvácení"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) subperiostální hemoragie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Subdurálm hematom u novorozence znamená",
+    "answers": [
+      "a) poranění cévy v kůži hlavy",
+      "b) krvácení do páteřního kanálu",
+      "c) roztržené tentorium nebo falx cerebri",
+      "d) krvácení do komor mozku"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) roztržené tentorium nebo falx cerebri"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Nejčastější intrakraniální krvácení u nedonošeného plodu je",
+    "answers": [
+      "a) intra-, periventrikulámí",
+      "b) z choriálního plexu",
+      "c) parenchymatózní",
+      "d) subdurální"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) intra-, periventrikulámí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. Fetus papyraceus je",
+    "answers": [
+      "a) autolýza u jednočetného těhotenství",
+      "b) autolýza a mumifikace plodu (obvykle jednoho plodu při vícečetné graviditě)",
+      "c) název pro mizející dvojče v I trimestru",
+      "d) při těžké IUGR"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) autolýza a mumifikace plodu (obvykle jednoho plodu při vícečetné graviditě)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Termín malformace znamená, že defekt vznikl",
+    "answers": [
+      "a) v embryonálním období",
+      "b) ve fetálním období",
+      "c) před porodem",
+      "d) podle genetických zákonů"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) v embryonálním období"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Termín deformace znamená defekt, který vznikl",
+    "answers": [
+      "a) v embryonálním období",
+      "b) ve fetálním období in utero",
+      "c) při porodu",
+      "d) postnatálně"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) ve fetálním období in utero"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Termín disrupce znamená inzult do vývoje plodu",
+    "answers": [
+      "a) endogenní",
+      "b) exogenní",
+      "c) kombinovaný",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) exogenní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. Termín incidence onemocnění znamená",
+    "answers": [
+      "a) výskyt nových případů onemocnění v daném období",
+      "b) výskyt všech případů v daném období",
+      "c) výskyt na počet obyvatel",
+      "d) výskyt na počet zemřelých"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) výskyt nových případů onemocnění v daném období"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Termín prevalence znamená",
+    "answers": [
+      "a) výskyt onemocnění za 1 rok",
+      "b) výskyt všech případů onemocnění v daném období a dané oblasti",
+      "c) výskyt nových případů v dané oblasti",
+      "d) výskyt nových případů v daném období"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) výskyt všech případů onemocnění v daném období a dané oblasti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. Termín primární prevence znamená",
+    "answers": [
+      "a) úplná eliminace výskytu onemocnění",
+      "b) eliminace výskytu onemocnění po léčbě",
+      "c) cílená léčba",
+      "d) označení rizika"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) úplná eliminace výskytu onemocnění"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "85. Impotentia generandi znamená",
+    "answers": [
+      "a) neschopnost erekce",
+      "b) gonády jsou přítomny, chybí zárodečné buňky",
+      "c) infertilitu u ženy",
+      "d) spazmus vchodu poševního"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) gonády jsou přítomny, chybí zárodečné buňky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "86. Impotentia coeundi znamená",
+    "answers": [
+      "a) nemožnost soulože",
+      "b) defektní zárodečné buňky",
+      "c) defektní vývoj gonád",
+      "d) všechny poruchy se uplatňují"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) nemožnost soulože"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "87. Při homocystinurii je nutná dietní restrikce",
+    "answers": [
+      "a) proteinu",
+      "b) galaktózy",
+      "c) methioninu",
+      "d) cholesterolu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) methioninu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "88. Vezikoamniální shunt je indikován při",
+    "answers": [
+      "a) oboustranné hydronefróze",
+      "b) obstrukci uretry",
+      "c) detekci oboustranných hydroureterů",
+      "d) při všech jmenovaných stavech"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) při všech jmenovaných stavech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "89. Indikace prenatální diagnostiky pro pokročilý I věk matky je",
+    "answers": [
+      "a) věk vyšší než 30 let",
+      "b) 35-40 let",
+      "c) věk vyšší než 40 let",
+      "d) věk vyšší než 45 let"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 35-40 let"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "90. Genealogie znamená",
+    "answers": [
+      "a) anamnestické hodnocení rodokmenu jedince, včetně výskytu VVV",
+      "b) etiologie onemocnění",
+      "c) patogeneze onemocnění",
+      "d) výskyt VVV v rodině"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) anamnestické hodnocení rodokmenu jedince, včetně výskytu VVV"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Amniální dutina se začíná formovat",
+    "answers": [
+      "a) 7 den po fertlizaci",
+      "b) 14 dnů po fertilizaci",
+      "c) 21 dnů po fertilizaci",
+      "d) ve 3 týdnech gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 7 den po fertlizaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Při choriové biopsii lze diagnózu stanovit z buněk",
+    "answers": [
+      "a) vrstvy cytotrofoblastu",
+      "b) fibroblastů mezenchymální vrstvy",
+      "c) decidua basalis",
+      "d) chorion laeve"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) vrstvy cytotrofoblastu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Uniparentální disomie je",
+    "answers": [
+      "a) m Down",
+      "b) trisomie v placentě",
+      "c) chromosomální aberace u matky",
+      "d) je příčinou intrauterinní smrti plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) trisomie v placentě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Uteroplacentární průtok ve III. trimestru dosahuje hodnot",
+    "answers": [
+      "a) 500 ml/min",
+      "b) 1000 ml/min",
+      "c) 2000 ml/min",
+      "d) 5000 ml/min"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 1000 ml/min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Tlak v intervilózním prostoru je asi",
+    "answers": ["a) 5 mm Hg", "b) 10 mm Hg", "c) 25 mm Hg", "d) > 25 mm Hg"],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 10 mm Hg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Ortoskelie je",
+    "answers": [
+      "a) osifikace symfýzy",
+      "b) základní fyziologický sklon pánve",
+      "c) osifikace sakrokokcygeálního skloubení",
+      "d) deformace jednoho segmentu páteře"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) základní fyziologický sklon pánve"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Gap junctions jsou",
+    "answers": [
+      "a) nervové pleteně kolem dělohy",
+      "b) nervová vlákna hladké svaloviny",
+      "c) vazivová vlákna hladkého svalu",
+      "d) proteinové můstky mezi myocyty"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) proteinové můstky mezi myocyty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Víčka plodu se otvírají",
+    "answers": [
+      "a) v 16-18 týdnu gravidity",
+      "b) po porodu",
+      "c) ve 21-25 týdnu gravidity",
+      "d) ve 31-33 týdnu gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) ve 21-25 týdnu gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Vernix caseosa je totéž jako",
+    "answers": [
+      "a) Whartonův rosol",
+      "b) ochlupení plodu",
+      "c) mázek",
+      "d) hnědý tuk plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) mázek"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Jako morula se označuje stadium rýhování embrya na",
+    "answers": [
+      "a) 12-16 blastomer",
+      "b) 20-30 blastomer",
+      "c) více než 1000 blastomer",
+      "d) méně než 10 blastomer"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 12-16 blastomer"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Třetí zárodečný list -intraembryonální mezoderm - vzniká",
+    "answers": [
+      "a) ve 2 týdnu",
+      "b) v II trimestru gravidity",
+      "c) v 6 týdnu",
+      "d) ve 3 týdnu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) ve 3 týdnu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Ductus paramesonefroticusje totéž jako",
+    "answers": [
+      "a) paraoophoron",
+      "b) epoophoron",
+      "c) ductus Mulleri",
+      "d) canalis Gartneri"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) ductus Mulleri"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Luminizace vaginální ploténky začíná u fetu ve věku",
+    "answers": [
+      "a) 11 týdnů",
+      "b) ke konci těhotenství",
+      "c) 26 týdnů",
+      "d) 7 týdnů"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 11 týdnů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. V okamžiku oplozeníje plodové vejce",
+    "answers": [
+      "a) nedělené",
+      "b) v anafázi 2 zracího dělení",
+      "c) v metafázi 2 zracího dělení",
+      "d) v telofázi 2 zracího dělení"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) v metafázi 2 zracího dělení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Mělká nidace placenty způsobuje",
+    "answers": [
+      "a) redukci perfúze v intervilózním prostoru",
+      "b) zvyšuje průtok v placentě",
+      "c) nemění průtok v placentě",
+      "d) potrat plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) redukci perfúze v intervilózním prostoru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Circulus venosus Halleri je",
+    "answers": [
+      "a) venózní pleteň v oblasti pupku",
+      "b) venózní pleteň v oblasti ovaria",
+      "c) venózní pleteň pod prsním dvorcem",
+      "d) venózní pleteň v okolí močového měchýře"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) venózní pleteň pod prsním dvorcem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Pawlikův trojúhelník je část poševní stěny blíže ke",
+    "answers": [
+      "a) klenbě poševní",
+      "b) trigonum vesicae urinariae",
+      "c) močové trubici",
+      "d) děložnímu čípku"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) trigonum vesicae urinariae"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Twin-twin transfusion syndrom způsobuje",
+    "answers": [
+      "a) dysproporcionální růst dvojčat",
+      "b) arteriovenózní anastomózy v placentě monozygotních dvojčat",
+      "c) krvácení při vasa praevia",
+      "d) smrt jednoho dvojčete"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) arteriovenózní anastomózy v placentě monozygotních dvojčat"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Duchennova svalová dystrofie je",
+    "answers": [
+      "a) autosomálně dominantní onemocnění",
+      "b) autosomálně recesivní onemocnění",
+      "c) onemocnění vázané na X chromosom",
+      "d) polygenně dědičné onemocnění"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) onemocnění vázané na X chromosom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Syndrom kongenitální rubeoly neobsahuje",
+    "answers": [
+      "a) mikrocefalii",
+      "b) retinopatii",
+      "c) žloutenku",
+      "d) hluchotu"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) žloutenku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Nejčastější malformace plodu při nekontrolovaném diabetů je",
+    "answers": [
+      "a) syndrom kaudální regrese",
+      "b) chromosomální aberace",
+      "c) ageneze končetin",
+      "d) malformace urogenitální"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) syndrom kaudální regrese"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Nejzávažnější komplikací ischémie CNS intra partům je",
+    "answers": [
+      "a) ischemické krvácení",
+      "b) hypoplazie CNS",
+      "c) periventrikulámí leukomalacie",
+      "d) hydrocefalus"
+    ],
+    "book": ["Živný"],
+    "topic": ["2. Embryologie. II. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) periventrikulámí leukomalacie"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Lividita se projevuje v těhotenství",
+    "answers": [
+      "a) na kůži břicha",
+      "b) naděložním hrdle",
+      "c) na děložním hrdle, pochvě a vulvě",
+      "d) na očních spojivkách"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) na děložním hrdle, pochvě a vulvě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Děložní sliznice po vzniku těhotenství",
+    "answers": [
+      "a) hyperproliferuje",
+      "b) odloučí se a přeroste decidua",
+      "c) deciduálně se přeměňuje",
+      "d) atrofuje"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) deciduálně se přeměňuje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Koncem 2 měsíce gravidity je uterus velikosti I přibližně",
+    "answers": [
+      "a) husího vejce",
+      "b) slepičího vejce",
+      "c) 3-4 cm nad sponou",
+      "d) kokosového ořechu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) husího vejce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Hmotnost srdce matky v těhotenství",
+    "answers": [
+      "a) se zmenšuje asi o 50 g",
+      "b) se nemění",
+      "c) se zvětšuje asi o 25 g",
+      "d) se zvětšuje asi o 300 g"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) se zvětšuje asi o 25 g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Leží-li těhotná žena na zádech, tlačí často zvětšený ureterus na vena cava, a zpomaluje tak žilní návrat к srdci - žena může zkolabovat. Tento syndrom nazýváme",
+    "answers": [
+      "a) syndrom ortostatický",
+      "b) syndrom parkinsonský",
+      "c) syndrom horní duté žíly",
+      "d) syndrom dolní duté žíly"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) syndrom dolní duté žíly"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Na začátku těhotenství se objevují mimo jiné také",
+    "answers": [
+      "a) vypadávání vlasů",
+      "b) zvláštní chutě na některá jídla",
+      "c) zvýšení růstu ochlupení",
+      "d) zvýšení inteligenčního koeficientu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) zvláštní chutě na některá jídla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. hCG s cílem průkazu těhotenství stanovujeme",
+    "answers": [
+      "a) ve slinách matky",
+      "b) v krvi plodu",
+      "c) v krvi matky",
+      "d) v plodové vodě"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) v krvi matky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Vitální kapacita plic na konci těhotenství",
+    "answers": [
+      "a) je zcela individuálně rozdílně změněná",
+      "b) klesá",
+      "c) stoupá",
+      "d) nemění se"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) stoupá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. V těhotenství snáze vzniká",
+    "answers": [
+      "a) infekce chřipkou",
+      "b) žaludeční vřed",
+      "c) fraktura femuru",
+      "d) zubní kaz"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) zubní kaz"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Těhotenská glykosurie se vyskytuje",
+    "answers": [
+      "a) u všech těhotných",
+      "b) u většiny starších primipar",
+      "c) u žádné těhotné, pokud není diabetičkou",
+      "d) u 20 % těhotných"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) u 20 % těhotných"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Chloasma uterinum je způsobeno zvýšenou sekrecí",
+    "answers": ["a) TRH", "b) FSH", "c) MSH", "d) LH"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) MSH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Počet kotyledonů lidské placenty je přibližně",
+    "answers": ["a) 40", "b) 16", "c) 8", "d) 2"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 16"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Placenta donošeného plodu váží přibližně",
+    "answers": ["a) 500 g", "b) 1000 g", "c) 100 g", "d) 2500 g"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 500 g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Příčinou tonogenní dilatace ureterů těhotné ženy je",
+    "answers": [
+      "a) účinek progesteronu",
+      "b) účinek hCG",
+      "c) účinek estrogenů",
+      "d) tlak způsobený těhotnou dělohou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) účinek progesteronu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Glomerulární filtrace v těhotenství",
+    "answers": [
+      "a) klesá",
+      "b) mění se individuálně",
+      "c) nemění se",
+      "d) stoupá"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) stoupá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. К pravděpodobným známkám těhotenství patří",
+    "answers": [
+      "a) zvýšené vylučování protilátek proti hCG",
+      "b) trismus",
+      "c) krvácení z rodidel",
+      "d) lividita děložního hrdla a pochvy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) lividita děložního hrdla a pochvy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. К posouzení stavu fetoplacentární jednotky můžeme koncem těhotenství vyšetřovat",
+    "answers": [
+      "a) stanovení L/S indexu",
+      "b) množství estriolu v moči těhotné",
+      "c) koncentraci hemoglobinu v krvi těhotné",
+      "d) koncentraci testosteronu v moči těhotné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) množství estriolu v moči těhotné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Choriové klky placenty jsou v intervilózních prostorách omývány",
+    "answers": [
+      "a) plodovou vodou",
+      "b) krví plodu",
+      "c) mateřskou krví",
+      "d) mateřským sérem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) mateřskou krví"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Bez účasti plodu je v placentě vytvářen",
+    "answers": ["a) estriol", "b) estron", "c) estradiol", "d) progesteron"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) progesteron"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Fyziologicky je největší množství plodové vody přítomno ve 35 týdnu těhotenství, a to",
+    "answers": ["a) 33 ml", "b) 1000 ml", "c) 330 ml", "d) 100 ml"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 1000 ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Polyhydramnion znamená",
+    "answers": [
+      "a) přítomnost dvou vaků blan u dvojčat",
+      "b) předčasný odtok plodové vody",
+      "c) snížené množství plodové vody",
+      "d) zvýšené množství plodové vody"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) zvýšené množství plodové vody"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Chorion je histologicky",
+    "answers": [
+      "a) sliznice",
+      "b) svalová tkáň",
+      "c) převážně vazivo",
+      "d) epitel"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) převážně vazivo"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Pupečníkem probíhají",
+    "answers": [
+      "a) 1 tepna a 2 žíly",
+      "b) 3 tepny",
+      "c) 1 žíla a 1 tepna",
+      "d) 2 tepny a 1 žíla"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) 2 tepny a 1 žíla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Whartonův rosol se nachází",
+    "answers": [
+      "a) v pupečníku",
+      "b) na povrchu plodu v době těsně před porodem",
+      "c) v placentě",
+      "d) mezi plodovými obaly"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) v pupečníku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Koncentrace FSH v těhotenstvíje",
+    "answers": [
+      "a) individuálně různá",
+      "b) vysoká",
+      "c) nízká",
+      "d) kolísavá"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) nízká"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Koncentrace prolaktinu v těhotenství",
+    "answers": [
+      "a) je individuálně rozdílná",
+      "b) se zvyšuje",
+      "c) se snižuje",
+      "d) kolísá"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) se zvyšuje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Žílou v pupečníku protéká krev",
+    "answers": [
+      "a) bohatá kyslíkem",
+      "b) směrem к placentě",
+      "c) odkysličená",
+      "d) teplejší než v pupeční tepně"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) bohatá kyslíkem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Koncentrace progesteronu v krvi matky během těhotenstvíje",
+    "answers": [
+      "a) vysoká",
+      "b) žádný progesteron se nevyskytuje",
+      "c) nízká",
+      "d) kolísavá"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) vysoká"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Koncentrace estrogenů je v průběhu těhotenství v krvi matky",
+    "answers": [
+      "a) střídavě vysoká a nízká",
+      "b) vysoká",
+      "c) žádné estrogenně účinné hormony nejsou přítomny",
+      "d) nízká"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) vysoká"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Funiculus umbilicalis má většinou délku",
+    "answers": ["a) 20 cm", "b) 80 cm", "c) 40 cm", "d) 55 cm"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) 55 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Atypický úpon pupečníku v blanách nazýváme",
+    "answers": [
+      "a) takový stav nemůže nastat, došlo by к okamžitému úmrtí plodu",
+      "b) insertio velamentosa",
+      "c) insertio centralis",
+      "d) insertio marginalis"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) insertio velamentosa"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Za dolní hranici normy koncentrace hemoglobinu v krvi těhotné považujeme",
+    "answers": ["a) 75 g/1", "b) 115 g/1", "c) 125 g/1", "d) 150 g/1"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 115 g/1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Fibrinogenémie na konci těhotenství",
+    "answers": [
+      "a) klesá",
+      "b) stoupá",
+      "c) fibrinogen vymizí",
+      "d) nemění se"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) stoupá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Největší koncentrace hCG je v těhotenství",
+    "answers": [
+      "a) v 1 měsíci",
+      "b) na konci těhotenství",
+      "c) v 6 měsíci",
+      "d) ve 3 měsíci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) ve 3 měsíci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Mezi subjektivní příznaky těhotenství u ženy patří",
+    "answers": [
+      "a) diplopie",
+      "b) vzestup hCG",
+      "c) přírůstek na váze",
+      "d) ranní nauzea a zvracení"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) ranní nauzea a zvracení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Chloasma uterinum se projevuje jako",
+    "answers": [
+      "a) akutní stav vyžadující intenzivní péči",
+      "b) zvýšená pigmentace těhotné ženy na obličeji",
+      "c) selhání nadledvin vlivem těhotné dělohy",
+      "d) tanec svátého Víta"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) zvýšená pigmentace těhotné ženy na obličeji"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Mezi jisté známky těhotenství nepatří",
+    "answers": [
+      "a) průkaz kostry plodu rentgenovým vyšetřením",
+      "b) srdeční akce plodu viditelná ultrazvukem",
+      "c) kardiotokografický záznam srdeční akce plodu",
+      "d) zvětšená a prosáklá děloha"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) zvětšená a prosáklá děloha"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Hmotnost svaloviny dělohy se v průběhu těhotenství zvětší",
+    "answers": [
+      "a) z 1000 na 2000 g",
+      "b) z 10 na 100 g",
+      "c) z 70 na 1000 g",
+      "d) ze 100 na 2000 g"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) z 70 na 1000 g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Po umělém přerušení těhotenství v I a II trimestru klesá koncentrace lidského choriového gonadotropinu v séru matky к neměřitelným hodnotám za",
+    "answers": ["a) lOdní", "b) 20 dní", "c) 40 dní", "d) 60 dní"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 40 dní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Koncentrace a-fetoproteinu v plazmě matky je zvýšena při těchto vrozených onemocněních plodu",
+    "answers": [
+      "a) defektu neurální trubice",
+      "b) hypotrofii",
+      "c) hydrocefalu",
+      "d) chondrodystrofii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) hypotrofii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. U ležící těhotné ženy dosahuje děložní fundus do výše pupku v tomto týdnu těhotenství",
+    "answers": ["a) ve 24", "b) v 10", "c) v 17", "d) ve 36"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) ve 24"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Proti stavu před těhotenstvím stoupá objem cirkulující krve nejvíce mezi 32 a 36 týdnem gravidity, a to o",
+    "answers": ["a) 30%", "b) 5%", "c) 15%", "d) 20 %"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 30%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Prekurzorem estrogenů u těhotné ženy není",
+    "answers": [
+      "a) androstendion",
+      "b) cholesterol",
+      "c) dehydroepiandrosteron",
+      "d) norethisteron"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) norethisteron"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Změny ve vylučování estriolu mateřskou močí podávají",
+    "answers": [
+      "a) nepřímou informaci o stavu fetoplacentámí jednotky",
+      "b) přímou informaci o blížícím se porodu",
+      "c) nepřímou informaci o stavu placenty",
+      "d) přímou informaci o stavu plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) nepřímou informaci o stavu fetoplacentámí jednotky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Při vyšetřování estriolu v moči těhotné hodnotíme",
+    "answers": [
+      "a) vyšetření ze vzorku moči kdykoli v průběhu dne",
+      "b) vývojový trend",
+      "c) pouze jedno vyšetření",
+      "d) vyšetření z ranní moči"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) vývojový trend"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. DHEAS test byl zaveden jako",
+    "answers": [
+      "a) test zralosti placenty",
+      "b) test zralosti plodu",
+      "c) test funkce fetoplacentámí jednotky",
+      "d) test plicní zralosti plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) test funkce fetoplacentámí jednotky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Relaxin je",
+    "answers": [
+      "a) steroidní hormon",
+      "b) hormon ovlivňující psychiku těhotných žen",
+      "c) hormon tvořený ve žlutém tělísku ovlivňující pevnost kloubních spojení",
+      "d) polypetidový hormon tvořený v adenohypofýze"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) hormon tvořený ve žlutém tělísku ovlivňující pevnost kloubních spojení"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Progesteron je",
+    "answers": [
+      "a) hormon produkovaný v adenohypofýze",
+      "b) steroidní hormon produkovaný žlutým tělískem a placentou",
+      "c) hormon produkovaný v neurohypofýze",
+      "d) téměř nedetekovatelný v plazmě těhotných žen"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) steroidní hormon produkovaný žlutým tělískem a placentou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Hlavním účinkem prolaktinu je",
+    "answers": [
+      "a) spuštění a regulace laktace",
+      "b) řízení menstruačního cyklu",
+      "c) řízení ovulace",
+      "d) řízem růstu organismu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) spuštění a regulace laktace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Nutriční požadavky organismu se v těhotenství",
+    "answers": [
+      "a) nemění",
+      "b) zvyšují",
+      "c) snižují",
+      "d) snižují ke konci III trimestru"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) zvyšují"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Motilita trávicího ústrojí se v těhotenství",
+    "answers": [
+      "a) snižuje",
+      "b) nemění",
+      "c) je ovlivněna evakuace jen tlustého střeva",
+      "d) je ovlivněna evakuace jen tenkého střeva"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) snižuje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Žlučník v těhotenství",
+    "answers": [
+      "a) bývá často zvětšený",
+      "b) snáze dochází к evakuaci jeho obsahu",
+      "c) netvoří se ve větší míře žlučové kameny",
+      "d) jeho funkce není těhotenstvím ovlivněna"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) bývá často zvětšený"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Játra v těhotenství",
+    "answers": [
+      "a) se zvětšují až o 30 %",
+      "b) jejich morfologie není těhotenstvím ovlivněna",
+      "c) funkce jater není ovlivněna",
+      "d) jsou zdrojem progesteronu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) jejich morfologie není těhotenstvím ovlivněna"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Ledviny v těhotenství",
+    "answers": [
+      "a) se zvětšují až o 1,5 cm",
+      "b) nedilatuje se kalicho-pánvičkový systém",
+      "c) glomerulámí filtrace se snižuje",
+      "d) se zmenšují až o 1,5 cm"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) se zvětšují až o 1,5 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Renální funkce v těhotenství",
+    "answers": [
+      "a) glomerulámí filtrace je nižší",
+      "b) se nemění",
+      "c) se mění u těhotných již v I. trimestru",
+      "d) snižuje se průtok plazmy ledvinami"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) se mění u těhotných již v I. trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Lehká glykosurie v těhotenství",
+    "answers": [
+      "a) je vždy známkou diabetes mellitus",
+      "b) glukóza je přítomna v moči u 50 % těhotných a nevyžaduje zvláštní opatření",
+      "c) může být známkou diabetes mellitus, taková těhotná vyžaduje další sledování",
+      "d) není v souvislosti s infekcemi močových cest"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) může být známkou diabetes mellitus, taková těhotná vyžaduje další sledování"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Kapacita močového měchýře se v těhotenství",
+    "answers": [
+      "a) snižuje",
+      "b) nemění",
+      "c) zvyšuje až na 1500 ml",
+      "d) zvyšuje až na 3000 ml"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) zvyšuje až na 1500 ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Objem cirkulující krve v těhotenství",
+    "answers": [
+      "a) se snižuje",
+      "b) se zvyšuje",
+      "c) nemění se",
+      "d) je ovlivněn hlavně zvýšeným počtem erytrocytů v mateřské krvi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) se zvyšuje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Základní příznaky, které mohou ukázat na těhotnou s hrozící preeklampsií, jsou",
+    "answers": [
+      "a) elevace teploty, glukóza v moči, edémy",
+      "b) elevace krevního tlaku, bílkovina v moči, edémy",
+      "c) nižší krevní tlak, nižší koncentrace albuminu v plazmě, edémy",
+      "d) elevace krevního tlaku, krev v moči, anémie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) elevace krevního tlaku, bílkovina v moči, edémy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. U ženy po transplantaci ledviny",
+    "answers": [
+      "a) je těhotenství kontraindikováno",
+      "b) v případě, že otěhotní, musí bezpodmínečně vysadit všechna imunosupresiva chránící štěp",
+      "c) během těhotenství ji častěji sledujeme, není vyloučen spontánní porod",
+      "d) není nutný zvláštní přístup během těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) během těhotenství ji častěji sledujeme, není vyloučen spontánní porod"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Sekrečně změněné endometrium je připravené к implantaci blastocysty od",
+    "answers": [
+      "a) 19 dne cyklu",
+      "b) 23 dne cyklu",
+      "c) 25 dne cyklu",
+      "d) 27 dne cyklu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 23 dne cyklu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. hCG dosahuje nejvyšších koncentrací v sérumatky",
+    "answers": [
+      "a) v 6-8 týdnu těhotenství",
+      "b) v 9-11 týdnu těhotenství",
+      "c) ve 12-13 týdnu těhotenství",
+      "d) ve II trimestru"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) v 9-11 týdnu těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Zvýšenou koncentraci hCG nezjišťujeme",
+    "answers": [
+      "a) u vícečetného těhotenství",
+      "b) u molámího těhotenství",
+      "c) u choriokarcinomu",
+      "d) u abortus imminens"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) u abortus imminens"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Lidský placentámí laktogen (lidský choriový somatomamotropin) dosahuje nejvyšších koncentrací v séru matky",
+    "answers": [
+      "a) v 9-11 týdnu těhotenství",
+      "b) ve 20-22 týdnu těhotenství",
+      "c) ve 30-32 týdnu těhotenství",
+      "d) ve 36^40 týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) ve 36^40 týdnu těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. V těhotenství se prolaktin tvoří kromě hypofýzy matky také",
+    "answers": [
+      "a) v ovariu",
+      "b) v nadledvině",
+      "c) v decidualizovaném endometriu",
+      "d) v cytotrofoblastu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) v decidualizovaném endometriu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Koncentrace a-fetoproteinu je v plazmě matky snížena při těchto onemocněních plodu",
+    "answers": [
+      "a) defekt neurální trubice",
+      "b) vrozená nefróza",
+      "c) hypotrofie",
+      "d) Downův syndrom"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) Downův syndrom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Do 8 týdne »menstruačního« stáří plodu je progesteron tvořen převážně",
+    "answers": [
+      "a) v corpus luteum",
+      "b) v placentě",
+      "c) v endometriu",
+      "d) v nadledvinách"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) v corpus luteum"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Který z uvedených účinků v těhotenství nemá H progesteron",
+    "answers": [
+      "a) inhibuje funkci T-lymfocytů",
+      "b) tlumí účinky estrogenů a zajišťuje relaxaci myometria",
+      "c) stimuluje produkci prostaglandinů",
+      "d) inhibuje produkci prostaglandinů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) stimuluje produkci prostaglandinů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Který z uvedených hormonů je nezbytně nutný pro zahájení laktace",
+    "answers": [
+      "a) estradiol",
+      "b) progesteron",
+      "c) oxytocin",
+      "d) iprolaktin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) iprolaktin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Ranní nevolnost a zvracení v těhotenství",
+    "answers": [
+      "a) není možno léčit antiemetiky",
+      "b) inikdy nevyžaduje hospitalizaci",
+      "c) se objevuje typicky v I trimestru",
+      "d) se přičítá častějším dietním chybám v těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) se objevuje typicky v I trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Který z uvedených hormonů vyvolává kontrakce В myoepitelových buněk, které obklopují alveolv, a podporuje tak vypuzování mléka z alveolů i a alveolárních duktů směrem к bradavce",
+    "answers": ["a) estradiol", "b) rorogesteron", "c) tocin", "d) prolaktin"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) tocin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. V době kojení se zvyšuje sekrece oxytocinu a v důsledku toho se",
+    "answers": [
+      "a) lzvyšují kontrakce dělohy, které šestinedělka pociťuje",
+      "b) zvyšuje minutový srdeční výdej",
+      "c) [zvyšuje minutová plicní ventilace",
+      "d) zvyšuje glomerulámí filtrace a tubulámí resorpce"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) lzvyšují kontrakce dělohy, které šestinedělka pociťuje"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Kolostrumje secernováno do alveolů od II trimestru těhotenství, vlastní sekrece mléka začíná",
+    "answers": [
+      "a) ve 40 týdnu těhotenství",
+      "b) ihned po porodu",
+      "c) 1 den po porodu",
+      "d) 2-3 den po porodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) 2-3 den po porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Jaké změny na děložním hrdle zjišťujeme častěji u těhotných ve srovnání s netěhotnými ženami",
+    "answers": [
+      "a) atypickou glandulámí hyperplazii",
+      "b) dysplazii",
+      "c) metaplazii",
+      "d) neoplazii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) metaplazii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. V 5 měsíci fyziologického těhotenství hmatáme děložní fundus",
+    "answers": [
+      "a) úrovni symfýzy",
+      "b) v polovině vzdálenosti pupek - symfýza",
+      "c) v úrovní pupku",
+      "d) v polovině vzdálenosti pupek - procesus xiphoideus"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) v úrovní pupku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Nejdůležitější hemostatický mechanismus, který zabraňuje závažnému poporodnímu krvácení je",
+    "answers": [
+      "a) zvýšení aktivity koagulačních faktorů",
+      "b) vazokonstrikce terminálních částí uterinních cév",
+      "c) retrakce a kontrakce dělohy",
+      "d) inhibice fibrinolýzy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) retrakce a kontrakce dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Průměrná délka těhotenstvíje",
+    "answers": ["a) 260 dní", "b) 270 dní", "c) 280 dní", "d) 290 dní"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 280 dní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. Hmotnost dělohy v době termínu porodu je okolo",
+    "answers": ["a) 500 g", "b) lOOOg", "c) 1500g", "d) 2000 g"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) lOOOg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Intrauterinní objem dělohy v době termínu porodu je",
+    "answers": ["a) 1000ml", "b) 3000ml", "c) 5000ml", "d) 8000 ml"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 5000ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Objem svaloviny dělohy se v průběhu těhotenství zvětšuje procesem, který nazýváme",
+    "answers": [
+      "a) atypická hyperplazie",
+      "b) anaplazie",
+      "c) hypertofie a hyperplazie",
+      "d) involuce"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) hypertofie a hyperplazie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Průměrná denní produkce progesteronu ve III trimestru je okolo",
+    "answers": ["a) 300 pg", "b) 300 ng", "c) 300 pg", "d) 300mg"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) 300mg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. Pro těhotenství je charakteristická",
+    "answers": [
+      "a) bederní lordóza",
+      "b) hrudní kyfóza",
+      "c) skolióza",
+      "d) hrudní kyfóza a bederní lordóza"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) hrudní kyfóza a bederní lordóza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Symptom zvýšené tvorby slin, který se může vyskytnout v těhotenství, nazýváme",
+    "answers": ["a) deglutice", "b) emesis", "c) ptyalismus", "d) pruritus"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) ptyalismus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. V průběhu fyziologického těhotenství se zvyšuje",
+    "answers": [
+      "a) koncentrace tyroxin-binding globulinu v plazmě",
+      "b) koncentrace kreatininu v plazmě",
+      "c) hematokrit",
+      "d) motilita tenkého střeva"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) koncentrace tyroxin-binding globulinu v plazmě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "85. Ke změnám trávicího ústrojí v průběhu fyziologického těhotenství patří",
+    "answers": [
+      "a) komprese a vytlačení apendixu těhotnou dělohou směrem kaudálním",
+      "b) zvýšení tonu a motility střev",
+      "c) zrychlené vyprazdňování žaludku",
+      "d) vysunutí žaludku směrem kraniálním"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) vysunutí žaludku směrem kraniálním"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "86. Změny ve vylučovacím systému v průběhu fyziologického těhotenství způsobují",
+    "answers": [
+      "a) zvýšení glomerulámí filtrace",
+      "b) snížení průtoku plazmy ledvinami",
+      "c) zvýšení koncentrace nebílkovinného dusíku a kreatininu v plazmě",
+      "d) zvýšení tonu vývodných cest močových"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) zvýšení glomerulámí filtrace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "87. Při vylučovací urografii ve III trimestru fyziologického těhotenství můžeme zjistit",
+    "answers": [
+      "a) oboustranné zmenšení ledvin v důsledku útlaku zvětšenou dělohou",
+      "b) zúžení event, obstrukci pravého ureteru způsobené tlakem zvětšené dělohy v dextrotorzi",
+      "c) zúžení obou ureterů způsobené zvýšeným tonem hladkého svalstva při zvýšených koncentracích estrogenů",
+      "d) dilataci ureterů způsobenou zvýšenou sekrecí progesteronu a kompresí kaudální části vývodných cest močových zvětšenou dělohou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) dilataci ureterů způsobenou zvýšenou sekrecí progesteronu a kompresí kaudální části vývodných cest močových zvětšenou dělohou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "88. Hlavní příčinou snížené koncentrace hemoglobinu v průběhu fyziologického těhotenstvíje",
+    "answers": [
+      "a) snížení mobilizovatelných zásob železa",
+      "b) transport železa matky do plodu a placenty",
+      "c) zvýšení objemu plazmy",
+      "d) zvýšená destrukce erytrocytů při hyperkinetické cirkulaci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) zvýšení objemu plazmy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "89. Pro metabolismus železa v těhotenstvíje charakteristické",
+    "answers": [
+      "a) zvýšení zásob železa ve srovnání s netěhotnými ženami",
+      "b) zvýšení absorpce železa z trávicího ústrojí",
+      "c) snížení absorpce železa z trávicího ústrojí",
+      "d) zvýšená spotřeba železa v první polovině těhotenství, větší než v druhé polovině"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) zvýšení absorpce železa z trávicího ústrojí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "90. Celkový objem krve se v těhotenství zvyšuje v důsledku",
+    "answers": [
+      "a) zvětšení objemu plazmy",
+      "b) zvětšení objemu erytrocytámí masy",
+      "c) zvětšení objemu plazmy a erytrocytámí masy, kdy zvětšení objemu plazmy je významně vyšší než zvýšení erytrocytámí masy",
+      "d) zvětšení objemu plazmy a erytrocytámí masy, kdy zvětšení objemu erytrocytámí masy je významně vyšší než zvětšení objemu plazmy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) zvětšení objemu plazmy a erytrocytámí masy, kdy zvětšení objemu plazmy je významně vyšší než zvýšení erytrocytámí masy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "91. Které prohlášení týkající se imunitního systému v těhotenstvíje správné",
+    "answers": [
+      "a) humorální imunita proti spalničkám, herpes simplex a chřipce typu A se snižuje",
+      "b) interferon a v tkáních matky se snižuje к neměřitelným hodnotám",
+      "c) chemotaxe a adherence polymorfonukleámích leukocytů se zvyšuje od П. trimestru ve srovnání s netěhotnými ženami",
+      "d) leukocytóza v těhotenství je laboratorní známkou zvýšené imunity matky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) humorální imunita proti spalničkám, herpes simplex a chřipce typu A se snižuje"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "92. Které prohlášení týkající se C-reaktivního proteinu v těhotenstvíje správné",
+    "answers": [
+      "a) u většiny těhotných je mírně zvýšený, významné zvýšení zjišťujeme zejména v průběhu porodu",
+      "b) jeho hodnoty se významně zvyšují v závislosti na délce gestace",
+      "c) v těhotenství ztrácí svůj význam jako marker infekce",
+      "d) dvojnásobné zvýšení jeho normální hodnoty je již spolehlivý ukazatel infekce v těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) u většiny těhotných je mírně zvýšený, významné zvýšení zjišťujeme zejména v průběhu porodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "93. V těhotenstvíje nejvíce estrogenů tvořeno",
+    "answers": [
+      "a) v ovariích matky",
+      "b) v nadledvinách matky",
+      "c) v placentě",
+      "d) u plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) v placentě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "94. Který z uvedených údajů týkající se respiračního systému v těhotenství je správný",
+    "answers": [
+      "a) dechový objem se zvyšuje",
+      "b) snižuje se minutová ventilace",
+      "c) funkční reziduální kapacita je zvýšená",
+      "d) celková kapacita plic je zvýšená"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) dechový objem se zvyšuje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "95. Ve srovnání s netěhotnou těhotná žena hyperventiluje, což je kompenzováno",
+    "answers": [
+      "a) zvýšením dechového objemu",
+      "b) respirační alkalózou",
+      "c) snížením koncentrace bikarbonátu v plazmě",
+      "d) snížením pCO, v krvi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) snížením koncentrace bikarbonátu v plazmě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "96. V průběhu fyziologického těhotenství nenastává",
+    "answers": [
+      "a) zvýšení minutového výdeje srdečního",
+      "b) zvýšení celkového objemu krve",
+      "c) zvýšení renální perfúze",
+      "d) zvýšení funkčního reziduálního objemu plic"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) zvýšení funkčního reziduálního objemu plic"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "97. V průběhu fyziologického těhotenství nastávají u matky tyto změny v metabolismu kalcia",
+    "answers": [
+      "a) snižuje se koncentrace parathormonu v plazmě",
+      "b) zvyšuje se koncentrace ionizovaného kalcia v plazmě",
+      "c) snižuje se koncentrace celkového kalcia v plazmě",
+      "d) snižuje se absorpce kalcia ze střeva"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) snižuje se koncentrace celkového kalcia v plazmě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "98. Glomerulární filtrace se může v průběhu fyziologického těhotenství zvýšit až o",
+    "answers": ["a) 10%", "b) 25 %", "c) 50%", "d) 75 %"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 50%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "99. Hodnoty angiotenzinu I а П jsou v těhotenství pětkrát vyšší než u netěhotných žen, přesto nenastává významné zvýšení krevního tlaku. Příčinou tohoto jevu je",
+    "answers": [
+      "a) I snížení koncentrace aldosteronu",
+      "b) snížení koncentrace katecholaminů",
+      "c) zvýšení aktivity leucin - aminopeptidázy",
+      "d) snížení aktivity endotelinu-1"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) zvýšení aktivity leucin - aminopeptidázy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "100. Příčinou zvýšené sekrece inzulínu v těhotenství",
+    "answers": [
+      "a) lprogesteron",
+      "b) estriol",
+      "c) růstový hormon",
+      "d) lidský choriový somatomamotropin/placentámí laktogen"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) lidský choriový somatomamotropin/placentámí laktogen"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "101. Lidský choriový gonadotropin (hCG) se tvoří",
+    "answers": [
+      "a) lve žlutém tělísku",
+      "b) v syncytiotrofoblastu",
+      "c) vhypofyzeplodu",
+      "d) v játrech plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) v syncytiotrofoblastu"],
+    "description": [""],
+    "img": [""]
   }
 ]
