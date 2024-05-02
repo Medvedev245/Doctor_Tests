@@ -1,4 +1,4 @@
-import { useSelector } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import {
   List,
   TextPage,
@@ -10,11 +10,13 @@ import {
   TextSpan,
   LinkToPage,
 } from './AnsweredQuestions.styled';
+import { CLEAR_STATE } from 'store/testsReducer';
 
 const AnsweredQuestions = () => {
   const allQuestion = useSelector(state => state.tests.questions);
   const rightQuestion = useSelector(state => state.tests.rightAnswers);
   console.log(allQuestion, rightQuestion);
+  const dispatch = useDispatch();
 
   const updatedQuestions = allQuestion.map(question => {
     const updatedAnswers = question.answers.map(answer => {
@@ -30,6 +32,10 @@ const AnsweredQuestions = () => {
       answers: updatedAnswers,
     };
   });
+
+  const clearState = () => {
+    dispatch(CLEAR_STATE({}));
+  };
 
   const isRightQuestion = question => {
     return rightQuestion.some(rightQ => rightQ.question === question.question);
@@ -71,7 +77,9 @@ const AnsweredQuestions = () => {
           </Item>
         ))}
       </List>
-      <LinkToPage to="/">На Главную</LinkToPage>
+      <LinkToPage onClick={clearState} to="/">
+        На Главную
+      </LinkToPage>
     </div>
   );
 };

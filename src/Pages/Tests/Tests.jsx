@@ -15,6 +15,7 @@ import {
 import Modal from '../../components/Modal/Modal';
 import Timer from 'components/Timer/Timer';
 import { ADD_RIGHTQUESTIONS } from 'store/testsReducer';
+import { CLEAR_STATE } from 'store/testsReducer';
 
 const Tests = () => {
   const [modalActive, setModalActive] = useState(false);
@@ -94,6 +95,10 @@ const Tests = () => {
     setSelectedAnswers([]);
   };
 
+  const clearState = () => {
+    dispatch(CLEAR_STATE({}));
+  };
+
   const openModal = () => {
     setModalActive(true);
     document.body.style.overflow = 'hidden';
@@ -158,7 +163,9 @@ const Tests = () => {
           <LinkToPage to="/AnsweredQuestions">
             Перейти к разбору тестов
           </LinkToPage>
-          <LinkToPage to="/">На Главную</LinkToPage>
+          <LinkToPage onClick={clearState} to="/">
+            На Главную
+          </LinkToPage>
         </LinkContainer>
       )}
       <Modal

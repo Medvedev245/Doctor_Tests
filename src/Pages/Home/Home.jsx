@@ -5,6 +5,7 @@ import Medicine_2023 from '../../Files/Medicine_2023.json';
 import Klener from '../../Files/ClenerNew.json';
 import Živný from '../../Files/Živný.json';
 import Legislativa from '../../Files/Legislativa_Báze_2023.json';
+import { ADD_OPTIONS } from 'store/testsReducer';
 
 // import Olomouc from '../../Files/Clener.json';
 // import Živný from '../../Files/Clener.json';
@@ -17,7 +18,6 @@ import {
 import { Button } from 'Pages/Tests/Tests.styled';
 import Bases from 'components/Bases/Bases';
 import { Select } from 'Pages/AllTests/AllTests.styled';
-import { ADD_OPTIONS } from 'store/testsReducer';
 
 const Home = () => {
   const [selectedOption1, setSelectedOption1] = useState('');
@@ -91,7 +91,6 @@ const Home = () => {
 
     const myTests = generateTests(selectedOption1, selectedOption2);
 
-    // addState(selectedOption1, selectedOption2, myTests);
     dispatch(
       ADD_OPTIONS({
         selectedOption1,
@@ -99,10 +98,6 @@ const Home = () => {
         myTests,
       })
     );
-    // dispatch({
-    //   type: 'ADD_OPTIONS',
-    //   payload: { selectedOption1, selectedOption2, myTests },
-    // });
   };
 
   return (

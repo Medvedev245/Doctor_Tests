@@ -52,9 +52,13 @@ const testsSlice = createSlice({
     ADD_RIGHTQUESTIONS(state, action) {
       state.rightAnswers = action.payload.myCorrectAnswers;
     },
+    CLEAR_STATE(state, action) {
+      return initialState;
+    },
   },
 });
 
-export const { ADD_OPTIONS, ADD_RIGHTQUESTIONS } = testsSlice.actions;
+export const { ADD_OPTIONS, ADD_RIGHTQUESTIONS, CLEAR_STATE } =
+  testsSlice.actions;
 
 export default testsSlice.reducer;
