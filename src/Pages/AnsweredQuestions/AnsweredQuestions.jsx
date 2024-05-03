@@ -48,7 +48,6 @@ const AnsweredQuestions = () => {
         {allQuestion.length}
       </TextPage>
       <TextSpan>Vaše správné odpovědi jsou označeny zeleně</TextSpan>
-      {/* Správná odpověď v testu je označena - (Správně) */}
       <TextSpan>Správná odpověď v testu je označena - (Správně)</TextSpan>
       <List>
         {updatedQuestions.map((question, index, arr) => (

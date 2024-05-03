@@ -43642,5 +43642,4066 @@
     "correctAnswers": ["b) v syncytiotrofoblastu"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Deciduálm přestavba endometria, která umožňuje implantaci blastocysty je vyvolána působením prostaglandinu E a pravděpodobně i histaminu. Tyto látky se tvoří v",
+    "answers": [
+      "a) žlutém tělísku",
+      "b) játrech",
+      "c) endometriu",
+      "d) blastocystě"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) endometriu", "d) blastocystě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Hlavním místem tvorby placentárních hormonů podobných hormonům hypotalamu (corticotro- pin-releasing hormon, somatostatin a další) na základě výsledků cytochemického vyšetřeníje převážně",
+    "answers": [
+      "a) cytotrofoblast",
+      "b) syncytiotrofoblast",
+      "c) decidua",
+      "d) amnion"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) cytotrofoblast"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Early pregnancy faktor (EPF) je protein, má imunosupresivní účinky a tvoří se",
+    "answers": [
+      "a) v deciduálně změněném endometriu",
+      "b) v blastocystě",
+      "c) v cytotrofoblastu",
+      "d) v ovariu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) v ovariu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. hCG se skládá ze 2 podjednotek, а а В; a podjednotka je nositelem druhové specificity a je společná pro tyto hormony",
+    "answers": ["a) prolaktin", "b) FSH", "c) LH", "d) TSH"],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) FSH", "c) LH", "d) TSH"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Lidský placentami laktogen (lidský choriový somatomamotropin)",
+    "answers": [
+      "a) mobilizuje volné mastné kyseliny z tukových zásob matky",
+      "b) inhibuje účinky inzulínu a utilizaci glukózy",
+      "c) metabolizuje kyselinu arachidonovou na prostaglandiny",
+      "d) stimuluje steroidogenezi v ovariu a placentě"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) mobilizuje volné mastné kyseliny z tukových zásob matky",
+      "b) inhibuje účinky inzulínu a utilizaci glukózy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Prolaktin má následující účinek, s výjimkou",
+    "answers": [
+      "a) stimuluje růst nadledvin plodu",
+      "b) ovlivňuje transport extracelulámí tekutiny a elektrolytů fetálními membránami",
+      "c) redukuje permeabilitu amnia ve směru od plodu к matce",
+      "d) chrání plod před dehydratací"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) ovlivňuje transport extracelulámí tekutiny a elektrolytů fetálními membránami",
+      "d) chrání plod před dehydratací"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Mezi fetální proteiny patří",
+    "answers": [
+      "a) pregnancy associated plasma protein А-D (PAPP A-D)",
+      "b) pregnancy specific B-l-glykoprotein (SP 1)",
+      "c) relaxin",
+      "d) a-fetoprotein (AFP)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) a-fetoprotein (AFP)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Koncentrace prolaktinu v séru matky",
+    "answers": [
+      "a) je nejvyšší v posledních 5 týdnech těhotenství",
+      "b) několik hodin před porodem klesá",
+      "c) po porodu se při kojení zvyšuje",
+      "d) je stejná jako v plodové vodě"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) je nejvyšší v posledních 5 týdnech těhotenství",
+      "b) několik hodin před porodem klesá",
+      "c) po porodu se při kojení zvyšuje"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. V průběhu fyziologického těhotenství mohou vznikat na kůži tyto změny charakteristické pro graviditu",
+    "answers": [
+      "a) chloasma",
+      "b) strie",
+      "c) palmámí erytém",
+      "d) veruca vulgaris"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) chloasma", "b) strie", "c) palmámí erytém"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. V průběhu fyziologického těhotenství se zvyšuje koncentrace",
+    "answers": [
+      "a) B-globulinů",
+      "b) lipidů",
+      "c) tyroxinu",
+      "d) tyroxin-binding globulinu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) B-globulinů",
+      "b) lipidů",
+      "c) tyroxinu",
+      "d) tyroxin-binding globulinu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Změny jaterních funkcí v průběhu fyziologického těhotenství způsobují",
+    "answers": [
+      "a) snížení albumino-globulinového kvocientu",
+      "b) snížení koncentrace alkalické fosfatázy v séru",
+      "c) zvýšení rizika tvorby žlučových kamenů",
+      "d) zvýšení koncentrace fibrinogenu v plazmě"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) snížení albumino-globulinového kvocientu",
+      "b) snížení koncentrace alkalické fosfatázy v séru",
+      "c) zvýšení rizika tvorby žlučových kamenů",
+      "d) zvýšení koncentrace fibrinogenu v plazmě"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. V těhotenství nastávají v koagulačním systému tyto změny",
+    "answers": [
+      "a) koncentrace fibrinogenu v plazmě se zvyšuje",
+      "b) hodnoty protrombinu zůstávají nezměněné nebo se mírně snižují",
+      "c) počet trombocytů se významně nemění",
+      "d) plazminogen se zvyšuje"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) koncentrace fibrinogenu v plazmě se zvyšuje",
+      "b) hodnoty protrombinu zůstávají nezměněné nebo se mírně snižují",
+      "c) počet trombocytů se významně nemění",
+      "d) plazminogen se zvyšuje"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. V těhotenství nastávají u matky tyto změny steroidních hormonů nadledvin",
+    "answers": [
+      "a) zvyšuje se koncentrace volného a vázaného kortizolu",
+      "b) zvyšuje se pouze koncentrace volného kortizolu",
+      "c) zvyšuje se pouze koncentrace vázaného kortizolu",
+      "d) snižuje se koncentrace aldosteronu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) zvyšuje se koncentrace volného a vázaného kortizolu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. V těhotenství nastávají v respiračním systému tyto změny",
+    "answers": [
+      "a) bránice se zvyšuje o 4 cm",
+      "b) bránice se snižuje o 4 cm",
+      "c) příčný průměr hrudníku se prodlužuje o 2 cm",
+      "d) příčný průměr hrudníku se zkracuje o 2 cm"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) bránice se zvyšuje o 4 cm",
+      "c) příčný průměr hrudníku se prodlužuje o 2 cm"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. V těhotenství nastávají tyto změny plicních objemů",
+    "answers": [
+      "a) dechový objem se zvyšuje",
+      "b) expirační rezervní objem se snižuje",
+      "c) alveolámí ventilace se snižuje",
+      "d) minutová ventilace se zvyšuje"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) dechový objem se zvyšuje",
+      "b) expirační rezervní objem se snižuje",
+      "d) minutová ventilace se zvyšuje"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Která z hodnot uvedených laboratorních vyšetřeníje obvykle zvýšena ve fyziologickém těhotenství",
+    "answers": [
+      "a) albumin v séru",
+      "b) fibrinogen v plazmě",
+      "c) nebílkovinný dusík v séru",
+      "d) sedimentace erytrocytů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) fibrinogen v plazmě", "d) sedimentace erytrocytů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Který z uvedených údajů týkající se laktace po porodu je správný",
+    "answers": [
+      "a) přibližně u jedné třetiny kojících žen nastává menstruace za 3 měsíce po porodu",
+      "b) u kojících žen může nastat ovulace již za 6 týdnů po porodu",
+      "c) u nekojících žen může nastat menstruace již za 6-8 týdnů po porodu",
+      "d) u žen, u kterých je zastavena laktace ihned po porodu bromokriptinem, může nastat ovulace již ve 2-3 týdnu po porodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) přibližně u jedné třetiny kojících žen nastává menstruace za 3 měsíce po porodu",
+      "b) u kojících žen může nastat ovulace již za 6 týdnů po porodu",
+      "c) u nekojících žen může nastat menstruace již za 6-8 týdnů po porodu",
+      "d) u žen, u kterých je zastavena laktace ihned po porodu bromokriptinem, může nastat ovulace již ve 2-3 týdnu po porodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Po přiložení novorozence к prsu a po začátku kojení nastává u matky",
+    "answers": [
+      "a) zvýšení sekrece oxytocinu",
+      "b) snížení tvorby prolaktin inhibujícího faktoru",
+      "c) snížení tvorby dopaminu v hypofýze",
+      "d) zvýšení tvorby gonadoliberinu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) zvýšení sekrece oxytocinu",
+      "b) snížení tvorby prolaktin inhibujícího faktoru",
+      "c) snížení tvorby dopaminu v hypofýze"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Alfa-fetoprotein se tvoří",
+    "answers": [
+      "a) v syncytiotrofoblastu",
+      "b) ve žloudkovém váčku",
+      "c) v trávicím ústrojí plodu",
+      "d) v játrech plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) ve žloudkovém váčku",
+      "c) v trávicím ústrojí plodu",
+      "d) v játrech plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Objem krve se v průběhu těhotenství",
+    "answers": [
+      "a) mění již v I trimestru",
+      "b) zvyšuje",
+      "c) snižuje",
+      "d) tento parametr se během těhotenství nemění"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) mění již v I trimestru", "b) zvyšuje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Objem plazmy se v těhotenství",
+    "answers": [
+      "a) zvyšuje o 400-900 ml",
+      "b) snižuje o 400-900 ml",
+      "c) zvyšuje již časně po koncepci s maximem mezi 8 a 16 týdnem gestace",
+      "d) nemění"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) zvyšuje o 400-900 ml",
+      "c) zvyšuje již časně po koncepci s maximem mezi 8 a 16 týdnem gestace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Fyziologická těhotenská anémie je způsobena",
+    "answers": [
+      "a) zvětšením objemu plazmy a absolutní počet erytrocytů se nezvyšuje",
+      "b) rychlým zvětšením objemu plazmy, doprovázeným pomalejším nárůstem absolutního počtu erytrocytů",
+      "c) snížením absolutního počtu erytrocytů při neměnném objemu plazmy",
+      "d) za fyziologických podmínek se anémie v těhotenství nevyskytuje"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) rychlým zvětšením objemu plazmy, doprovázeným pomalejším nárůstem absolutního počtu erytrocytů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Množství tělesné vody se v těhotenství",
+    "answers": [
+      "a) progresivně zvyšuje",
+      "b) zvyšuje hlavně z důvodu zvětšení objemu extracelulámí vody",
+      "c) zvyšuje z důvodu retence sodíku",
+      "d) zvyšuje následkem zvýšené koncentrace aldosteronu v krvi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) progresivně zvyšuje",
+      "b) zvyšuje hlavně z důvodu zvětšení objemu extracelulámí vody",
+      "c) zvyšuje z důvodu retence sodíku",
+      "d) zvyšuje následkem zvýšené koncentrace aldosteronu v krvi"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Stav u těhotné s kardiopatií se z hlediska kardiovaskulárního systému",
+    "answers": [
+      "a) může dekompenzovat již koncem I. trimestru, kdy se signifikantně zvyšuje srdeční výdej",
+      "b) v těhotenství většinou zlepšuje",
+      "c) může zhoršit během porodu",
+      "d) může dekompenzovat hlavně ve II. trimestru, kdy se maximálně zvyšuje ejekční srdeční frakce, a to až o 30 %"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) může dekompenzovat již koncem I. trimestru, kdy se signifikantně zvyšuje srdeční výdej",
+      "c) může zhoršit během porodu",
+      "d) může dekompenzovat hlavně ve II. trimestru, kdy se maximálně zvyšuje ejekční srdeční frakce, a to až o 30 %"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Tepová frekvence se v těhotenství",
+    "answers": [
+      "a) zvyšuje jen při těžší anémii nebo zánětu",
+      "b) fyziologicky zvyšuje o 10-15 %",
+      "c) může zvýšit za fyziologických podmínek až na 90 tepů/min",
+      "d) zvyšuje a spolu se zvětšením ejekční frakce vede ke zvětšení minutového srdečního výdeje"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) fyziologicky zvyšuje o 10-15 %",
+      "c) může zvýšit za fyziologických podmínek až na 90 tepů/min",
+      "d) zvyšuje a spolu se zvětšením ejekční frakce vede ke zvětšení minutového srdečního výdeje"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Minutová plicní ventilace těhotné ženy",
+    "answers": [
+      "a) se zvyšuje o více než 30 %",
+      "b) se nemění",
+      "c) klesá vlivem progesteronu",
+      "d) stoupá již v průběhu I trimestru"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) se zvyšuje o více než 30 %",
+      "d) stoupá již v průběhu I trimestru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Frekvence dýchání se u těhotné",
+    "answers": [
+      "a) nemění",
+      "b) zvyšuje",
+      "c) snižuje",
+      "d) nemění se, ale zvětšuje se dechový objem, což vede ke zvýšení minutové plicní ventilace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) nemění",
+      "d) nemění se, ale zvětšuje se dechový objem, což vede ke zvýšení minutové plicní ventilace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Vzhledem ke změnám parametrů respirace i u těhotných žen se jejich pH krve",
+    "answers": [
+      "a) mírně zvyšuje",
+      "b) mírně snižuje",
+      "c) je kompenzováno vylučováním bikarbonátů ledvinami",
+      "d) odpovídá lehké respirační alkalóze"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) mírně zvyšuje",
+      "c) je kompenzováno vylučováním bikarbonátů ledvinami",
+      "d) odpovídá lehké respirační alkalóze"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Průtok plazmy ledvinami",
+    "answers": [
+      "a) se maximálně zvyšuje již v I trimestru",
+      "b) od П. trimestru postupně klesá",
+      "c) ke konci těhotenství se mírně snižuje oproti hodnoI tám ve II trimestru",
+      "d) není ovlivněn, protože se zvyšuje rezistence renálních cév"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) se maximálně zvyšuje již v I trimestru",
+      "d) není ovlivněn, protože se zvyšuje rezistence renálních cév"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Glomerulární filtrace jev těhotenství",
+    "answers": [
+      "a) zvýšena",
+      "b) zvyšuje se brzy po koncepci",
+      "c) snižuje se",
+      "d) maxima dosahuje ve II trimestru"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) zvýšena",
+      "b) zvyšuje se brzy po koncepci",
+      "d) maxima dosahuje ve II trimestru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Mírná dilatace kalicho-pánvičkového systému ledvin je v těhotenství",
+    "answers": [
+      "a) jasná známka patologie",
+      "b) fyziologická, jejich objem dosahuje až 60 ml v jedné ledvině",
+      "c) fyziologická spolu s hydroureterem mírného stupně",
+      "d) způsobena snížením peristaltické aktivity ureterů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) fyziologická, jejich objem dosahuje až 60 ml v jedné ledvině",
+      "c) fyziologická spolu s hydroureterem mírného stupně",
+      "d) způsobena snížením peristaltické aktivity ureterů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Leukocyty u těhotných žen",
+    "answers": [
+      "a) jsou v periferní krvi fyziologicky ve vyšším počtu",
+      "b) v periferní krvi se zvyšuje počet jejich nezralých forem",
+      "c) se používají jako zcela jasný marker probíhajícího zánětu",
+      "d) jsou jen pomocným markérem zánětu, jejich početje variabilní"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) jsou v periferní krvi fyziologicky ve vyšším počtu",
+      "b) v periferní krvi se zvyšuje počet jejich nezralých forem",
+      "d) jsou jen pomocným markérem zánětu, jejich početje variabilní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Zvýšená koncentrace plazmatických koagulačmch faktorů u těhotných",
+    "answers": [
+      "a) se normálně nevyskytuje",
+      "b) je zapříčiněna stimulačním vlivem estrogenů na jejich jatemí syntézu",
+      "c) přispívá ke zvýšení koagulačního potenciálu plazmy",
+      "d) mění hodnoty běžně měřených koagulačních parametrů (APTT, INR)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) je zapříčiněna stimulačním vlivem estrogenů na jejich jatemí syntézu",
+      "c) přispívá ke zvýšení koagulačního potenciálu plazmy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Koncentrace celkové bílkoviny v plazmě v těhotenství",
+    "answers": [
+      "a) klesá s maximem v polovině II. trimestru",
+      "b) klesá z důvodu diluce plazmy",
+      "c) klesá hlavně vzhledem к poklesu koncentrace albuminu v plazmě",
+      "d) zůstává nezměněna"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) klesá s maximem v polovině II. trimestru",
+      "b) klesá z důvodu diluce plazmy",
+      "c) klesá hlavně vzhledem к poklesu koncentrace albuminu v plazmě"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Lipidémie v těhotenství",
+    "answers": [
+      "a) stoupá na 10 g/1",
+      "b) stoupá, aby kryla energetické potřeby matky hlavně ve 2 polovině těhotenství",
+      "c) klesá na 5 g/1",
+      "d) stoupá vlivem estrogenů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) stoupá na 10 g/1",
+      "b) stoupá, aby kryla energetické potřeby matky hlavně ve 2 polovině těhotenství",
+      "d) stoupá vlivem estrogenů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Žlučník v těhotenství",
+    "answers": [
+      "a) je fyziologicky relaxovaný (zvětšený) účinkem progesteronu na hladká svalová vlákna",
+      "b) nemění se jeho velikost ani kontraktilita",
+      "c) je predisponován к tvorbě cholesterových kamenů",
+      "d) není predisponován к tvorbě cholesterových kamenů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) je fyziologicky relaxovaný (zvětšený) účinkem progesteronu na hladká svalová vlákna",
+      "c) je predisponován к tvorbě cholesterových kamenů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Období těhotenství",
+    "answers": [
+      "a) je potenciálně diabetogenní",
+      "b) je charakterizováno hyperglykémií a zvýšenou rezistencí tkáně na inzulín",
+      "c) není charakterizováno hyperglykémií a zvýšenou rezistencí tkáně na inzulín",
+      "d) se vyznačuje výraznější hypoglykémií nalačno"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) je potenciálně diabetogenní",
+      "b) je charakterizováno hyperglykémií a zvýšenou rezistencí tkáně na inzulín",
+      "d) se vyznačuje výraznější hypoglykémií nalačno"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Během těhotenství",
+    "answers": [
+      "a) je regulace glykémie plodu plně závislá na mateřském inzulínu",
+      "b) plod není závislý na inzulínu matky, produkuje ho sám již v I trimestru",
+      "c) glykémie plodu je primárně závislá na transportu glukózy od matky",
+      "d) glykémie plodu není primárně závislá na transportu glukózy od matky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) plod není závislý na inzulínu matky, produkuje ho sám již v I trimestru",
+      "c) glykémie plodu je primárně závislá na transportu glukózy od matky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Štítná žláza během těhotenství",
+    "answers": [
+      "a) bývá zvětšená",
+      "b) se následkem větších ztrát jodu ledvinami kompenzatomě zvětšuje",
+      "c) se zvětšuje jen při nedostatečném množství jodu v potravě",
+      "d) není ovlivněna těhotenstvím"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) bývá zvětšená",
+      "b) se následkem větších ztrát jodu ledvinami kompenzatomě zvětšuje"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Množství kalcia, které musí matka během těhotenství dodat plodu,",
+    "answers": [
+      "a) se odhaduje na 25-30g",
+      "b) je zajištěno hlavně zvýšenou absorpcí kalcia z trávicího ústrojí",
+      "c) je hrazeno hlavně resorpcí kalcia z kostí matky prostřednictvím kalcitoninu, jehož koncentrace až 1Okřát stoupá",
+      "d) je zajišťováno prostřednictvím vyšší koncentrace parathormonu a kalcium vázajícího proteinu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) se odhaduje na 25-30g",
+      "b) je zajištěno hlavně zvýšenou absorpcí kalcia z trávicího ústrojí",
+      "d) je zajišťováno prostřednictvím vyšší koncentrace parathormonu a kalcium vázajícího proteinu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Adenohypofýza v těhotenství",
+    "answers": [
+      "a) se 2-3krát zvětšuje",
+      "b) zmnožují se v ní hlavně prolaktin secernující buňky",
+      "c) produkuje velké množství FSH a LH",
+      "d) se nezvětšuje a ke zvětšení dojde až po porodu s nástupem laktace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) se 2-3krát zvětšuje",
+      "b) zmnožují se v ní hlavně prolaktin secernující buňky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Prolaktin",
+    "answers": [
+      "a) jeho koncentrace se v těhotenství zvyšuje pod vlivem estrogenů",
+      "b) jeho koncentrace po porodu klesá a jen periodicky stoupá při kojení",
+      "c) jeho produkce není ovlivněna dopaminem",
+      "d) jeho produkce je inhibována hlavně dopaminem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) jeho koncentrace se v těhotenství zvyšuje pod vlivem estrogenů",
+      "b) jeho koncentrace po porodu klesá a jen periodicky stoupá při kojení",
+      "d) jeho produkce je inhibována hlavně dopaminem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Laktace během těhotenství",
+    "answers": [
+      "a) je fyziologicky zablokována vlivem estrogenů a progesteronu",
+      "b) nemůže být známkou patologie plodu",
+      "c) může být známkou některých patologií plodu (např. anencephalus)",
+      "d) může být příznakem nádoru mateřské hypofýzy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) je fyziologicky zablokována vlivem estrogenů a progesteronu",
+      "c) může být známkou některých patologií plodu (např. anencephalus)",
+      "d) může být příznakem nádoru mateřské hypofýzy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Fyziologický přírůstek tělesné hmotnosti během těhotenství je",
+    "answers": [
+      "a) ll-12kg",
+      "b) 15-20 kg",
+      "c) způsoben hlavně zvýšenou tvorbou tuku",
+      "d) ve II a III trimestru, vždy asi 5kg (celkově 10kg)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) ll-12kg",
+      "d) ve II a III trimestru, vždy asi 5kg (celkově 10kg)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. V šestinedělí",
+    "answers": [
+      "a) žena ztratí až 4 kg váhy vlivem snížení objemu celkové tělesné vody",
+      "b) mizí diluční těhotenská anémie (pokud nedošlo к větším krevním ztrátám během porodu)",
+      "c) diluční těhotenská anémie přetrvává",
+      "d) přetrvávají adaptační změny organismu ženy navozené těhotenstvím"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) žena ztratí až 4 kg váhy vlivem snížení objemu celkové tělesné vody",
+      "b) mizí diluční těhotenská anémie (pokud nedošlo к větším krevním ztrátám během porodu)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Riziko tromboemholické komplikace",
+    "answers": [
+      "a) je vyšší v těhotenství",
+      "b) je vyšší v šestinedělí",
+      "c) je vyšší jen v šestinedělí",
+      "d) není v těhotenství ani v šestinedělí zvýšeno"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) je vyšší v těhotenství",
+      "b) je vyšší v šestinedělí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Nadměrná hyperventilace rodičky během porodu",
+    "answers": [
+      "a) vede к respirační acidóze",
+      "b) způsobí hypokapnii matky, která indukuje vazokonstrikci děložních arterií a vede к fetální hypoxii",
+      "c) způsobí mírnou respirační alkalózu, která není pro matku ani pro plod nebezpečná",
+      "d) vede к respirační alkalóze"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) způsobí hypokapnii matky, která indukuje vazokonstrikci děložních arterií a vede к fetální hypoxii",
+      "d) vede к respirační alkalóze"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Koncentrace estrogenů a progesteronu po porodu",
+    "answers": [
+      "a) prudce klesá",
+      "b) klesá jen pozvolna",
+      "c) má zásadní regulační vliv na počátek laktace",
+      "d) nemá žádny regulační vliv na laktaci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "3. Fyziologie a endokrinologie těhotenství a laktace. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) prudce klesá",
+      "c) má zásadní regulační vliv na počátek laktace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Amnioskopem se hodnotí",
+    "answers": [
+      "a) ložení plodu",
+      "b) motnost plodu",
+      "c) inkce placenty",
+      "d) abarvení plodové vody"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) abarvení plodové vody"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Saltatomí oscilace kardiotokografie (CTG) patří ftmezi",
+    "answers": [
+      "a)rátkodobé frekvenční jevy",
+      "b) dlouhodobé frekvenční jevy",
+      "c) Středně dlouhé frekvenční jevy",
+      "d) Bev, který se nehodnotí"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a)rátkodobé frekvenční jevy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. llndulatorní oscilace CTG patří mezi",
+    "answers": [
+      "a) krátkodobé frekvenční jevy",
+      "b) dlouhodobé frekvenční jevy",
+      "c) středně dlouhé frekvenční jevy",
+      "d) jevy, které se nehodnotí"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) krátkodobé frekvenční jevy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Undulatorní oscilace CTG patří mezi",
+    "answers": [
+      "a) patologické jevy",
+      "b) dlouhodobé frekvenční jevy",
+      "c) středně dlouhé frekvenční jevy",
+      "d) fyziologické jevy"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) fyziologické jevy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Undulatorní oscilace CTG",
+    "answers": [
+      "a) jsou indikací к ukončení porodu",
+      "b) neregistruje",
+      "c) jsou středně dlouhé frekvenční jevy",
+      "d) nejsou indikací к ukončení porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) nejsou indikací к ukončení porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Silentní/sinusoidní CTG záznam je",
+    "answers": [
+      "a) fyziologický záznam",
+      "b) suspektní záznam",
+      "c) jednoznačně patologický záznam",
+      "d) fyziologický u předčasného porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) jednoznačně patologický záznam"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Silentní/sinusoidní CTG záznam znamená",
+    "answers": [
+      "a) fyziologický záznam dvojčat",
+      "b) suspektní záznam u předčasného porodu",
+      "c) indikaci к porodu per forcipem jen v I. době porodní",
+      "d) indikaci к ukončení porodu/těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) indikaci к ukončení porodu/těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Aortokavální kompresivní syndrom se na CTG projeví",
+    "answers": [
+      "a) bradykardií plodu",
+      "b) tachykardií plodu",
+      "c) silentním záznamem",
+      "d) asystolií plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) bradykardií plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Aortokavální kompresivní syndrom způsobí u matky",
+    "answers": [
+      "a) vyplavení oxytocinu",
+      "b) snížení minutového srdečního výdeje",
+      "c) hypertenzi v dolních končetinách",
+      "d) dilataci pyloru"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) snížení minutového srdečního výdeje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Aortokavální kompresivní syndrom vzniká u matky",
+    "answers": [
+      "a) v I trimestru",
+      "b) zejména ve III trimestru",
+      "c) zejména ve II trimetru",
+      "d) zejména ve IV trimestru"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) zejména ve III trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Periodické akcelerace v CTG obraze svědčí",
+    "answers": [
+      "a) pro začátek porodu",
+      "b) pro polohu plodu koncem pánevním napřed",
+      "c) o febrilním stavu rodičky",
+      "d) o projevech kompenzatorních mechanismů plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) o projevech kompenzatorních mechanismů plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Vstupní fenomén při CTG monitoringu",
+    "answers": [
+      "a) představuje indikaci к operačnímu ukončení porodu",
+      "b) může být zaměněn za syndrom dolní duté žíly",
+      "c) představuje riziko po podání kyslíku",
+      "d) představuje ohrožení matky embolizací do plic"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) může být zaměněn za syndrom dolní duté žíly"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Periodické akcelerace v CTG jsou indikací",
+    "answers": [
+      "a) к okamžitému ukončení porodu",
+      "b) к obratu plodu zevními hmaty",
+      "c) nejsou indikací к ukončení porodu",
+      "d) к ukončení porodu per forcipem"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) nejsou indikací к ukončení porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Při hodnocení CTG záznamu není třeba respektovat",
+    "answers": [
+      "a) zralost plodu",
+      "b) aplikaci farmak matce",
+      "c) uložení plodu",
+      "d) charakter plodové vody"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) uložení plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Při hodnocení CTG záznamu je třeba respektovat",
+    "answers": [
+      "a) výsledek oGTT",
+      "b) útlum plodu po podání medikace",
+      "c) uložení placenty",
+      "d) názor rodičky"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) útlum plodu po podání medikace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Při patologickém CTG záznamu během porodu",
+    "answers": [
+      "a) okamžitě volíme způsob porodu v relaxační vaně",
+      "b) vypneme CTG přístroj, abychom rodičce nenarušili klidnou atmosféru",
+      "c) podáme pethidin a počkáme na reakci plodu",
+      "d) použijeme jinou metodu pro intrauterinní sledování plodu nebo ukončíme bez časové prodlevy porod"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) použijeme jinou metodu pro intrauterinní sledování plodu nebo ukončíme bez časové prodlevy porod"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Mikroodběr krve z hlavičky plodu během porodu",
+    "answers": [
+      "a) se provádí pro určení karyotypu plodu",
+      "b) se provádí pro určení karyotypu pouze u porodu plodu koncem pánevním napřed",
+      "c) je metoda zavedená E Salingem na začátku 60 let minulého století",
+      "d) se provádí pro určení karyotypu při podezření na m Down"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) je metoda zavedená E Salingem na začátku 60 let minulého století"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Mikroodběr krve z hlavičky u plodu je",
+    "answers": [
+      "a) rutinní porodnická metoda",
+      "b) z hlediska matky invazivní metoda",
+      "c) výhodná metoda, protože dovoluje kontinuální sledování glykémie plodu",
+      "d) metoda z hlediska plodu invazivní a z porodnického hlediska metoda technicky náročná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) metoda z hlediska plodu invazivní a z porodnického hlediska metoda technicky náročná"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Mikroodběr krve z hlavičky plodu slouží",
+    "answers": [
+      "a) к vyšetření plodu na TORCH",
+      "b) zejména к určení glykémie plodu",
+      "c) к určení acidobazické rovnováhy plodu",
+      "d) к určení acidobazické rovnováhy plodu pouze u nezralých plodů"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) к určení acidobazické rovnováhy plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Mikroodběr krve hlavičky plodu se provádí",
+    "answers": [
+      "a) amnioskopem pouze z velké fontanely",
+      "b) amnioskopem pouze z malé fontanely",
+      "c) amnioskopem pouze z velké nebo malé fontaleny",
+      "d) pomocí amnioskopu, šetrnou incizí skalpu plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) pomocí amnioskopu, šetrnou incizí skalpu plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Intrapartální fetální pulsní oxymetrie se provádí",
+    "answers": [
+      "a) po puknutí vaku blan a po odtoku plodové vody",
+      "b) před odtokem plodové vody; je zajištěna lepší elektrická vodivost",
+      "c) jen za přítomnosti u porodu",
+      "d) skalpovou elektrodou a pomocí CTG přístroje"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) po puknutí vaku blan a po odtoku plodové vody"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Intrapartální fetální pulsní oxymetrie",
+    "answers": [
+      "a) je metoda, která se 100% spolehlivostí určí diagnózu hypoxie plodu",
+      "b) je metoda, která se již dnes nepoužívá",
+      "c) pomáhá hodnotit saturaci krve kyslíkem u novorozence",
+      "d) je metoda z hlediska plodu neinvanzivní"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) je metoda z hlediska plodu neinvanzivní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Intrapartální fetální pulsní oxymetrie vyhodnocuje",
+    "answers": [
+      "a) pO,",
+      "b) intenzitu zvuku, kterou pohltila zkoumaná tkáň plodu",
+      "c) acidobazickou rovnováhu plodu",
+      "d) saturaci uterinní krve kyslíkem"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) pO,"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Hemoglobin i deoxyhemoglobin",
+    "answers": [
+      "a) absorbují shodně světlo",
+      "b) nelze fyzikálně u plodu vyhodnotit",
+      "c) absorbují odlišně světlo",
+      "d) absorbují odlišně světlo pouze u plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) absorbují odlišně světlo"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Systém STAN je",
+    "answers": [
+      "a) firemní název pro fetální oxymetr",
+      "b) název pro fetální elektrokardiografii a hodnocení ST úseku",
+      "c) název metody podle Stanleye Angoly",
+      "d) akronym pro stanovení acidobazické nerovnováhy"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) název pro fetální elektrokardiografii a hodnocení ST úseku"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Elevace ST úseku EKG u plodu je způsobena",
+    "answers": [
+      "a) pouze hypokalémií plodu",
+      "b) anaerobním metabolismem plodu",
+      "c) zkalenou plodovou vodu",
+      "d) vcestným lůžkem"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) anaerobním metabolismem plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Deprese ST úseku u plodu je způsobena",
+    "answers": [
+      "a) pouze hypokalémií plodu",
+      "b) těžkou formou hypoxie plodu",
+      "c) zkalenou plodovou vodou",
+      "d) vcestným lůžkem"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) těžkou formou hypoxie plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Hypoxémie způsobuje u plodu",
+    "answers": [
+      "a) sekreci adrenalinu",
+      "b) zvýšenou kontrakční aktivitu myokardu",
+      "c) glykogenolýzu",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Předčasný odtok plodové vody nastává",
+    "answers": [
+      "a) před 38 týdnem těhotenství",
+      "b) před 40 týdnem těhotenství",
+      "c) před příchodem těhotné do porodnického zařízení",
+      "d) před nástupem děložních kontrakcí"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) před nástupem děložních kontrakcí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Porodní nádor je",
+    "answers": [
+      "a) edém kůže a podkoží hlavičky plodu, který není ohraničený švy lebečních kostí",
+      "b) vedoucí část plodu",
+      "c) kostní tumor os parietum",
+      "d) všechny odpovědi jsou správně"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) edém kůže a podkoží hlavičky plodu, který není ohraničený švy lebečních kostí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Zeleně zkalená plodová voda znamená",
+    "answers": [
+      "a) pozdní symptom pro intrauterinně odumřelý plod",
+      "b) odchod mekonia plodu",
+      "c) podezření na chorobu krve plodu",
+      "d) podezření na poruchu trávicího ústrojí plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) odchod mekonia plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Žlutavě zakalená plodová voda znamená",
+    "answers": [
+      "a) podezření na Rh izoimunizaci plodu",
+      "b) hypoxii plodu",
+      "c) podezření na utažený pupečník kolem krku plodu",
+      "d) poloha podélná plodu koncem pánevním"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) podezření na Rh izoimunizaci plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Polyhydramnion představuje",
+    "answers": [
+      "a) více amniálních dutin",
+      "b) cysty v amniálním vaku",
+      "c) nadměrné množství mozkomíšního moku v CNS plodu",
+      "d) zvýšené množství plodové vody"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) zvýšené množství plodové vody"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Ahlfeldovo znamení představuje",
+    "answers": [
+      "a) začátek porodu - pravidelnou děložní činnost po 10 minutách",
+      "b) utažený pupečník kolem krku plodu, nadměrné pohyby plodu",
+      "c) odloučenou placentu, označené místo na pupečníku se posouvá směrem od vulvy",
+      "d) ani jedna odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) odloučenou placentu, označené místo na pupečníku se posouvá směrem od vulvy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Patologická inzerce placenty je v případě",
+    "answers": [
+      "a) placenta adhaerens",
+      "b) placenta accreta",
+      "c) placenta increta",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Placentu adhaerens nejčastěji diagnostikujeme",
+    "answers": [
+      "a) klinicky, teprve při manuálním vybavování placenty",
+      "b) biochemicky",
+      "c) ultrazvukem",
+      "d) podle vyšetření koagulačních parametrů"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) klinicky, teprve při manuálním vybavování placenty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Placenta incarcerate vzniká",
+    "answers": [
+      "a) při poruše děložní motility",
+      "b) při poruše placentám! inzerce",
+      "c) po předchozím císařském řezu",
+      "d) při spazmu děložní branky"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) při spazmu děložní branky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Naléhání pupečníku znamená, že",
+    "answers": [
+      "a) se pupečník dotýká plodu, naléhá na plod",
+      "b) se pupečník otočí, naléhá na krk plodu",
+      "c) pupečník probíhá pod dolní částí plodu, je hmatný pupečníkový tep, ale je zachovaný vak blan",
+      "d) pupečník probíhá pod dolní částí plodu, je hmatný pupečníkový tep, ale není zachovaný vak blan"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) pupečník probíhá pod dolní částí plodu, je hmatný pupečníkový tep, ale je zachovaný vak blan"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Vysoký přímý stav hlavičky plodu je",
+    "answers": [
+      "a) indikací к porodu per forcipem",
+      "b) indikací к nasazení vakuumextraktoru",
+      "c) indikací к císařskému řezu",
+      "d) ani jedna odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) indikací к císařskému řezu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Když zevním vyšetřením palpujeme krční rýhu 4 prsty nad sponou, je hlavička",
+    "answers": [
+      "a) v pánevním východu",
+      "b) v pánevní úžině",
+      "c) je hlavička již porozena",
+      "d) hlavička volně naléhá na pánevní vchod"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) hlavička volně naléhá na pánevní vchod"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Výskyt přirozených dvojčatje v poměru к jednočetným těhotenstvím",
+    "answers": [
+      "a) 2 : 85",
+      "b) 3 : 85",
+      "c) 1 : 85",
+      "d) ani jedna odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 1 : 85"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. U porodního děje rozlišujeme",
+    "answers": [
+      "a) porodní cesty",
+      "b) porodní objekt (plod)",
+      "c) porodní síly",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Pokud hlavička při levém předním postavení pravidelně (normálně) rotuje, pak rotuje o",
+    "answers": ["a) 135 stupňů", "b) 45 stupňů", "c) 90 stupňů", "d) nerotuje"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 45 stupňů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Pokud hlavička při pravém zadním postavení pravidelně (normálně) rotuje, pak rotuje o",
+    "answers": ["a) 135 stupňů", "b) 45 stupňů", "c) 90 stupňů", "d) nerotuje"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 135 stupňů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Pokud hlavička abnormálně rotuje při pravém zadním postavení, pak rotuje o",
+    "answers": ["a) 135 stupňů", "b) 45 stupňů", "c) 90 stupňů", "d) nerotuje"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 45 stupňů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Konec pánevní neúplný zamená, že",
+    "answers": [
+      "a) na pánevní vchod naléhají nožky plodu",
+      "b) na pánevní vchod naléhají hýždě plodu",
+      "c) na pánevní vchod naléhají kolínka plodu",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Plod je v poloze podélné koncem pánevním, podle UZ vyšetření je odhad hmotnosti plodu 3000 g a rodička je zcela zdráva, pak následuje pokus o",
+    "answers": [
+      "a) spontánní vedení porodu",
+      "b) pokus o vedení porodu per sectionem Caesaream",
+      "c) pokus o vedení porodu per forcipem Simpson",
+      "d) ani jedna odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) spontánní vedení porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Rizika a komplikace porodnických operacíjsou",
+    "answers": [
+      "a) hemoragické",
+      "b) trombembolické",
+      "c) infekční",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Inkompabilita v АВ0 systému",
+    "answers": [
+      "a) neovlivňuje výskyt Rh izoimunizace",
+      "b) zvyšuje riziko Rh izoimunizace",
+      "c) projeví se po porodu",
+      "d) izoimunizace není v tomto případě možná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) projeví se po porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Amnioskopii lze provést",
+    "answers": [
+      "a) do 35 týdne gravidity",
+      "b) jsou-li pravidelné kontrakce",
+      "c) vždy",
+      "d) je-li prostupné hrdlo děložní"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) je-li prostupné hrdlo děložní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Fyziologickou příměsí plodové vody jsou",
+    "answers": [
+      "a) nemá fyziologické příměsi",
+      "b) mázkové vločky",
+      "b) částečky šmolky",
+      "d) částečky hlenu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) mázkové vločky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Fyziologická barva vody plodové je",
+    "answers": ["a) čirá", "b) šedomodrá", "c) zelenkavá", "d) nažloutlá"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) čirá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Amnioskopii lze diagnostikovat",
+    "answers": [
+      "a) délku děložního hrdla",
+      "b) zánět plodových blan",
+      "c) hypoxii plodu",
+      "d) množství plodové vody"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) hypoxii plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Fetoskopie je",
+    "answers": [
+      "a) rtg vyšetření plodu",
+      "b) endoskopické vyšetření plodu",
+      "c) sonografické vyšetření plodu",
+      "d) vyšetření plodu computerovým tomografem"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) endoskopické vyšetření plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Fetoskopii provádíme",
+    "answers": [
+      "a) po 20 týdnu gravidity",
+      "b) mezi 13-15 týdnem gravidity",
+      "c) do 12 týdne gravidity",
+      "d) mezi 15 a 20 týdnem gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) mezi 13-15 týdnem gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Komplikací souvisejících s fetoskopiije",
+    "answers": ["a) méně než 5 %", "b) 5-10%", "c) 25%", "d) více než 25 %"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 5-10%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Poměrné zastoupení Rh pozitivních к Rh negativním v bílé populaci ie",
+    "answers": ["a) 60:40%", "b) 85 : 15%", "c) 50:50%", "d) 75 : 25%"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 85 : 15%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Jestliže Rh negativní matce proniknou do oběhu erytrocyty Rh pozitivního plodu, vytvoří se v mateřském organismu protilátky typu",
+    "answers": ["a) IgA", "b) žádné", "c) anti-D, anti-C, Kell", "d) IgG"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) anti-D, anti-C, Kell"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. К nejzávažnější feto-maternální transfúzi dochází",
+    "answers": [
+      "a) v průběhu П trimestru",
+      "b) ve III trimestru",
+      "c) při porodu",
+      "d) v I trimestru"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) při porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Amniocentéza je vhodná při titru protilátek",
+    "answers": [
+      "a) 1 : 16 až 1 : 32",
+      "b) při jakémkoliv titru protilátek",
+      "c) nezávisí na výskytu protilátek",
+      "d) 1 : 8"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 1 : 16 až 1 : 32"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Největší význam při amniocentéze к vyšetření stupně Rh izoimunizace připisujeme",
+    "answers": [
+      "a) koncentraci kreatininu",
+      "b) L-S indexu",
+      "c) počtu oranžových buněk",
+      "d) hodnotám bilirubinoidů"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) hodnotám bilirubinoidů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Aplikace anti-D protilátky (Rhega) je nutná",
+    "answers": [
+      "a) do 24 hodin po porodu",
+      "b) do 48 hodin po porodu",
+      "c) ihned po porodu či umělém přerušení těhotenství",
+      "d) do 72 hodin po porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) do 72 hodin po porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Při vyšetření AFP v séru matky",
+    "answers": [
+      "a) vyšetření není významné",
+      "b) mají význam jen snížené hodnoty",
+      "c) jsou zvýšené i snížené hodnoty významné",
+      "d) mají význam jen zvýšené hodnoty"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) jsou zvýšené i snížené hodnoty významné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Zvýšené hodnoty AFP v séru matky se obvykle nevyskytují",
+    "answers": [
+      "a) u ezofageální a duodenální atrézie",
+      "b) u spina bifida",
+      "c) u anencefalie",
+      "d) u Downova syndromu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) u Downova syndromu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Vynechání menstruace a UZ nepřítomnost plodového vejce v dutině děložní nás nutí v první řadě vyloučit",
+    "answers": [
+      "a) ektopickou graviditu",
+      "b) hormonální poruchu",
+      "c) ovariální cystu",
+      "d) hrozící potrat"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) ektopickou graviditu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Ektopická gravidita je nejčastěji lokalizována",
+    "answers": [
+      "a) ve vejcovodu",
+      "b) ve vaječníku",
+      "c) volně v peritoneální dutině",
+      "d) v děložním rohu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) ve vejcovodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Při ektopické graviditě ženu nejvíce ohrožuje",
+    "answers": [
+      "a) děložní ruptura",
+      "b) metroragie",
+      "c) septický šok",
+      "d) hemoragický šok"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) hemoragický šok"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. V histologickém obraze endometria je pro ektopickou graviditu příznačné",
+    "answers": [
+      "a) hypersekreční endometrium",
+      "b) hyperproliferační endometrium",
+      "c) navikulámí buňky",
+      "d) fenomén Arias Stella"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) fenomén Arias Stella"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Pro apendicitidu v rané graviditě není typické",
+    "answers": [
+      "a) slabé krvácení z děložního hrdla",
+      "b) urychlení tepové frekvence nad 90-100/min",
+      "c) pozitivní Blumbergův příznak",
+      "d) pozitivní Rovsinův příznak"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) slabé krvácení z děložního hrdla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Náhle vzniklá bolest na hrudi, dusnost, kašel, úzkost, krvavé sputum je příznakem",
+    "answers": [
+      "a) eklampsie",
+      "b) plicní embolie",
+      "c) infarktu myokardu",
+      "d) angíny pectoris"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) plicní embolie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Příčinou plicní embolie není",
+    "answers": [
+      "a) vmetek vzduchové bubliny",
+      "b) vmetek částečky placentámí tkáně",
+      "c) vmetek plodové vody",
+      "d) vmetek sražené krve do plicnice"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) vmetek částečky placentámí tkáně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Amniocentézu z věkové indikace provádíme u žen",
+    "answers": [
+      "a) nad 40 let",
+      "b) nad 42 let",
+      "c) nad 35 let",
+      "d) nad30let"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) nad 35 let"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Ke zjištění plicní zralosti plodu je nutno vyšetřit",
+    "answers": [
+      "a) kreatinin z plodové vody",
+      "b) ultrazvukově plicní tkáň plodu",
+      "c) bilirubinoidy z plodové vody",
+      "d) L/S index z plodové vody"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) L/S index z plodové vody"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Mezi klinické a laboratorní příznaky ektopické gravidity nepatří",
+    "answers": [
+      "a) zvětšená děloha",
+      "b) leukocytóza",
+      "c) pozitivita hCG",
+      "d) febrilní stav"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) febrilní stav"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. Biopsie choria (CVS)",
+    "answers": [
+      "a) může poskytnout prvé výsledky do 15 minut po odběru",
+      "b) může vzácně vést к redukčním defektům končetin plodu",
+      "c) nemá se provádět před 15 týdnem gravidity",
+      "d) výsledek přímé preparace se nemusí potvrzovat dlouhodobou kultivací"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) může vzácně vést к redukčním defektům končetin plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Prenatální biopsie jater",
+    "answers": [
+      "a) byla pro minimální diagnostický přínos opuštěna",
+      "b) se nyní provádí výhradně punkcí pomocí ultrazvuko- vé vizualizace",
+      "c) většinou se odběr provádí až po 30 týdnu těhotenství",
+      "d) provádí se v 9 týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) se nyní provádí výhradně punkcí pomocí ultrazvuko- vé vizualizace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Rezistentní perioda, kdy v důsledku působení teratogenního agens buď embryo zhyne, nebo přežije bez poškození, trvá",
+    "answers": [
+      "a) od 0 do 21 dne po ovulaci",
+      "b) rezistentní období neexistuje",
+      "c) od 0 do 11 dne po poslední menstruaci",
+      "d) od 0 do 11 dne po ovulaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) od 0 do 11 dne po ovulaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. Období maximální vnímavosti na teratogenní činitele (embryonální období) trvá",
+    "answers": [
+      "a) od 11 do 57 dne po ovulaci",
+      "b) od 11 do 57 dne po poslední menstruaci",
+      "c) od 0 dne do 10 dne po ovulaci",
+      "d) od 21 do 70 dne po ovulaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) od 11 do 57 dne po ovulaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Období snížené vnímavosti na teratogenní činitele (fetální období)",
+    "answers": [
+      "a) trvá od 70 dne po poslední menstruaci do porodu",
+      "b) trvá od 57 dne po poslední menstruaci do porodu",
+      "c) trvá od 57 dne po ovulaci do porodu",
+      "d) je v П а III trimestru"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) trvá od 57 dne po ovulaci do porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Teratogen působící ve fetálním období může vyvolat",
+    "answers": [
+      "a) rozštěp páteře či břišní stěny plodu",
+      "b) úmrtí plodu",
+      "c) růstovou retardaci, zmenšení velikosti orgánů, funkční změny",
+      "d) nemá vliv na plod"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) úmrtí plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Lokalizaci placenty určujeme nejčastěji pomocí",
+    "answers": [
+      "a) ultrazvuku",
+      "b) izotopové placentografie",
+      "c) termografie",
+      "d) magnetické rezonance"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) ultrazvuku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. O nízko nasedajícím lůžku mluvíme, pokud",
+    "answers": [
+      "a) placenta přesahuje přes vnitřní branku",
+      "b) placenta zasahuje pod vezikouterinní pliku",
+      "c) ani magnetickou rezonancí nenalezneme placentu v děložním fundu",
+      "d) se ultrazvukem nedaří zobrazit placentu na přední či zadní stěně"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) placenta zasahuje pod vezikouterinní pliku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Normální hodnoty pO, v pupečníkových cévách",
+    "answers": [
+      "a) tepna 40, žíla 14",
+      "b) tepna 27, žíla 15",
+      "c) tepna 20, žíla 60",
+      "d) tepna 15, žíla 27"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) tepna 15, žíla 27"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. Normální hodnoty pCO2 (mm Hg) v pupečníkových cévách",
+    "answers": [
+      "a) tepna 48, žíla 43",
+      "b) tepna 43, žíla 48",
+      "c) tepna 20, žíla 35",
+      "d) tepna 20, žíla 20"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) tepna 48, žíla 43"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "85. Normální hodnoty pH v pupečníkových cévách",
+    "answers": [
+      "a) tepna 7,35, žíla 7,38",
+      "b) tepna 7,34, žíla 7,36",
+      "c) tepna 7,24, žíla 7,30",
+      "d) tepna 7,38, žíla 7,35"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) tepna 7,35, žíla 7,38"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "86. pO2 u plodu za porodu je normálně",
+    "answers": ["a) 50mm Hg", "b) 16mm Hg", "c) 60mm Hg", "d) 40 mm Hg"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 50mm Hg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "87. Těžká fetální hypoxie je charakterizovaná hodnotou pO2 nižší než",
+    "answers": [
+      "a) 16 mm Hg, trvající déle než 15 min",
+      "b) 6mm Hg, trvající déle než 15 min",
+      "c) 30 mm Hg, trvající déle než 10 min",
+      "d) 40mm Hg, trvající déle než 15 min"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 30 mm Hg, trvající déle než 10 min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "88. Beta-hemolytické streptokoky skupiny В",
+    "answers": [
+      "a) u plodu vyvolávají prchavý exantém",
+      "b) mohou se u matky manifestovat jako chorioamnionitida, septický potrat, puerperální sepse",
+      "c) až na výjimky nejsou vyvolavateli porodnických infekcí",
+      "d) jsou nejčastějším vyvolavatelem novorozeneckých průjmových onemocnění"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) mohou se u matky manifestovat jako chorioamnionitida, septický potrat, puerperální sepse"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "89. Nejčastějším původcem novorozeneckých průjmových onemocnění jsou",
+    "answers": [
+      "a) Neisseria gonorrhoeae",
+      "b) B-hemolytický streptokok",
+      "c) enteropatogenní Escherichia coli, Salmonella, organismy Shigella",
+      "d) vibrio fetus"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) enteropatogenní Escherichia coli, Salmonella, organismy Shigella"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "90. Tloušťka placenty",
+    "answers": [
+      "a) během těhotenství se lineárně zvětšuje do 30 týdne gravidity",
+      "b) tloušťka placenty dosahuje obvykle 5-7 cm",
+      "c) produkce hormonů je úměrná tloušťce placenty",
+      "d) se během těhotenství lineárně zvětšuje až do 40 týdne gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) během těhotenství se lineárně zvětšuje do 30 týdne gravidity"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "91. Která z těchto metod umožňuje nejčasnější získání DNA к prenatální diagnostice",
+    "answers": [
+      "a) fetoskopie",
+      "b) amniocentéza",
+      "c) biopsie choria",
+      "d) punkce pupečníku"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) biopsie choria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "92. Jaké je riziko opakování trisomie 21 u 251eté ženy, které má jedno dítě postižené trisomií",
+    "answers": ["a) 3%", "b) 1,50%", "c) 4,50%", "d) 6%"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 1,50%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "93. Pro asymetrickou intrauterinní růstovou retardaci plodu je charakteristické, že",
+    "answers": [
+      "a) poměr velikosti hlavy a trupu je snížen vzhledem к délce gravidity",
+      "b) poměr velikosti hlavy a trupu je nesignifikantní",
+      "c) poměr velikosti hlavy a trupu je zvýšen vzhledem к délce gravidity",
+      "d) poměr velikosti hlavy a trupu odpovídá délce gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) poměr velikosti hlavy a trupu je zvýšen vzhledem к délce gravidity"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "94. 381etá Rh negativní žena prodělala amniocentézu v 18 týdnu gravidity. Protože měla negativní Coombsův test, dostala 300 mikrogramů RhO (anti-D) imunoglobulinu. Po 8 týdnech byl nepřímý Coombsův test pozitivní s titrem 1:4 Nejpravděpodobnější vysvětleníje, že",
+    "answers": [
+      "a) к imunizaci došlo po amniocentéze",
+      "b) nebylo aplikováno dostatečné množství imunoglobulinu po amniocentéze",
+      "c) titr reprezentuje Rh imunoglobin, který přetrvává v mateřské cirkulaci",
+      "d) nepřímý Coombsův test s titrem 1:4 je falešně pozitivní a může být ignorován"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) titr reprezentuje Rh imunoglobin, který přetrvává v mateřské cirkulaci"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "95. Pro stanovení diagnózy vcestného lůžka je rozhodující",
+    "answers": [
+      "a) vyšetření ultrazvukem",
+      "b) zevní palpační vyšetření",
+      "c) vnitřní vaginální vyšetření",
+      "d) amnioskopie"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) vyšetření ultrazvukem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "96. Při stanovení diagnózy abrupce placenty u pacientky ve 36 týdnu gravidity je správné řešení",
+    "answers": [
+      "a) okamžité ukončení gravidity",
+      "b) léčba uterotoniky",
+      "c) léčba hemostatiky společně s klidovým režimem",
+      "d) absolutní klid na lůžku a tišící prostředky"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) okamžité ukončení gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "97. U syndromu mrtvého plodu těhotnou nejvíce ohrožuje",
+    "answers": [
+      "a) infekce",
+      "b) jatemí selhání",
+      "c) diseminovaná intravaskulámí koagulace (DIC)",
+      "d) ruptura děložní"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) diseminovaná intravaskulámí koagulace (DIC)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "98. Prodělá-li těhotná hepatitidu В blízko termínu porodu nebo je chronickou nosičkou viru hepatitidy B, je třeba",
+    "answers": [
+      "a) léčit novorozence výměnnou transfúzí",
+      "b) není třeba léčit",
+      "c) podat antibiotika",
+      "d) aplikovat bezprostředně po porodu hepatitis В imunoglobulin"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) aplikovat bezprostředně po porodu hepatitis В imunoglobulin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "99. Lékem volby při onemocnění listeriózou jsou",
+    "answers": [
+      "a) salvarzan",
+      "b) ampicilin",
+      "c) vitaminová léčba",
+      "d) sulfonamidy"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) ampicilin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "100. Oční vyšetření u preeklampsie vyžadujeme, abychom zjistili",
+    "answers": [
+      "a) kataraktu",
+      "b) poruchu vizu",
+      "c) změny na očním pozadí",
+      "d) zánět rohovky"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) změny na očním pozadí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "101. Která z následujících infekcí se obvykle diagnostikuje kultivací infekčního agens",
+    "answers": [
+      "a) toxoplazmóza",
+      "b) rubeola",
+      "c) listerióza",
+      "d) hepatitidaA"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) listerióza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "102. Genitální infekce Chlamydia trachomatis v těhotenství může být příčinou nejčastěji",
+    "answers": [
+      "a) prodlouženého těhotenství",
+      "b) předčasného odtoku plodové vody s následným předčasným porodem",
+      "c) krvácení do trávicího ústrojí",
+      "d) anémie u plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) předčasného odtoku plodové vody s následným předčasným porodem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "103. Vstup hlavičky do pánve se určuje hmatem",
+    "answers": [
+      "a) Pawlikovým",
+      "b) Rubeškovým",
+      "c) Boudinovým",
+      "d) Credeho"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) Pawlikovým"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "104. V těhotenství se při akutním onemocnění toxoplazmózou léčí",
+    "answers": [
+      "a) Pyrimethaminem a Sulfadiazinem",
+      "b) Spiramycinem, Pyrimethaminem a Sulfadiazinem s doplněním kyselinou listovou",
+      "c) Spiramycinem",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "105. Nejpřesnější hodnotu intenzity děložní kontrakce přináší",
+    "answers": [
+      "a) zevní tokometrie mechanickou sondou",
+      "b) zevní tokometrie měřená balónkem",
+      "c) tokometrie měřením změny tlaku v konečníku",
+      "d) vnitřní tokometrie"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) vnitřní tokometrie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "106. Těhotná děloha se uchyluje do",
+    "answers": [
+      "a) dextroverze a torze",
+      "b) anteflexe",
+      "c) retroverze",
+      "d) sinistropozice"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) dextroverze a torze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "107. Kontrolami hmotnosti těhotné ženy v prenatální poradně zjistíme",
+    "answers": [
+      "a) velikost plodu",
+      "b) odtékající plodovou vodu",
+      "c) retenci tekutiny při počínajících edémech",
+      "d) těhotenskou bulimii"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) retenci tekutiny při počínajících edémech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "108. Kyselina močová se v těhotenství vyšetřuje",
+    "answers": [
+      "a) při krvácení",
+      "b) u diabetické fetopatie",
+      "c) u preeklampsie",
+      "d) při hrozícím předčasném porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) u preeklampsie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "109. Kyselina močová se v těhotenství vyšetřuje",
+    "answers": [
+      "a) ze séra matky",
+      "b) z ranní moči",
+      "c) z celé krve",
+      "d) z moči matky za 24 hodin"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) ze séra matky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "110. К obrazu HELLP syndromu patří",
+    "answers": [
+      "a) dilatace pravého srdce",
+      "b) koarktace aorty",
+      "c) insuficience mitrální chlopně",
+      "d) porucha jatemích funkcí a nízký počet destiček"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) porucha jatemích funkcí a nízký počet destiček"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "111. Děložní fundus v 10 měsíci gravidity",
+    "answers": [
+      "a) uchyluje se do levé poloviny břicha",
+      "b) sahá níže než v 9 měsíci",
+      "c) sahá stejně vysoko",
+      "d) sahá výše než v 9 měsíci"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) sahá níže než v 9 měsíci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "112. Děloha v 6 měsíci gravidity u těhotné ženy",
+    "answers": [
+      "v poloze vleže na zádech sahá fundem",
+      "a) do dvou třetin vzdálenosti spona - pupek",
+      "b) do výše pupku",
+      "c) do poloviny vzdálenosti pupek - processus xiphoideus",
+      "d) do dvou třetin vzdálenosti pupek - processus",
+      "xiphoideus"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) do výše pupku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "113. Koncentrace acetylcholinesterázy v plodové vodě se vyšetřuje к predikci",
+    "answers": [
+      "a) defektu neurální trubice",
+      "b) amniitidy",
+      "c) hrozícího nitroděložního odumření",
+      "d) infekce plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) defektu neurální trubice"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "114. Který z laboratorních testů v plodové vodě má nejvyšší výpovědní hodnotu při defektu neurální trubice",
+    "answers": [
+      "a) alkalická fosfáza",
+      "b) a-fetoprotein",
+      "c) acetylcholinesteráza",
+      "d) amyláza"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) acetylcholinesteráza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "115. Pro zjištění, že jde o oligohydramnion, svědčí nejpřesněji",
+    "answers": [
+      "a) vyšetření UZ",
+      "b) hysterometrie",
+      "c) měření objemu břicha",
+      "d) palpace"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) vyšetření UZ"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "116. Celkové množství plodové vody se vymění na konci těhotenství během",
+    "answers": ["a) 36 hodin", "b) 1 dne", "c) 2 hodin", "d) 2 dnů"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 2 hodin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "117. Množství plodové vody je během těhotenství největší",
+    "answers": [
+      "a) v 36 týdnu",
+      "b) v 16 týdnu",
+      "c) v 40 týdnu",
+      "d) v 28 týdnu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) v 36 týdnu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "118. Koncentraci močového estriolu vyšetřujeme",
+    "answers": [
+      "a) z ranní moči",
+      "b) v moči za 24 hodin",
+      "c) ze středního proudu moči",
+      "d) ze vzorku čerstvé moči kdykoli během dne"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) v moči za 24 hodin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "119. O polyhydramnion či hydramnion jde,je-li na konci těhotenství",
+    "answers": [
+      "a) 750 ml plodové vody",
+      "b) 900 ml plodové vody",
+      "c) 1000 ml plodové vody",
+      "d) 2000 ml plodové vody"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) 2000 ml plodové vody"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "120. Reaktivní záznam při non-stress testuje,",
+    "answers": [
+      "a) zvýší-li se TK matky",
+      "b) reaguje-li děložní hrdlo dilatací",
+      "c) zvýší-li se frekvence ozev při pohybech plodu",
+      "d) dojde-li к děložním kontrakcím"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) zvýší-li se frekvence ozev při pohybech plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "121. Oxytocinový zátěžový test slouží",
+    "answers": [
+      "a) ke zjištění, jak reaguje srdeční frekvence plodu při kontrakcích dělohy",
+      "b) к vyvolání ovulace",
+      "c) к indukci porodu",
+      "d) к vyvolání ejekce mléka"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) ke zjištění, jak reaguje srdeční frekvence plodu při kontrakcích dělohy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "122. Non-stress testje",
+    "answers": [
+      "a) reakce ozev plodu po půlhodinovém klidu na lůžku",
+      "b) reakce ozev plodu po aplikaci Diazepamu",
+      "c) sledování změny frekvence ozev plodu v těhotenství v závislosti na pohybech plodu",
+      "d) reakce ozev plodu po akustickém podnětu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) sledování změny frekvence ozev plodu v těhotenství v závislosti na pohybech plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "123. Montevidejské jednotky vyjadřují",
+    "answers": [
+      "a) délku trvání porodu v cm porodní křivky",
+      "b) kvantitu porodní činnosti",
+      "c) nevztahují se к porodní činnosti",
+      "d) intervaly mezi jednotlivými kontrakcemi"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) kvantitu porodní činnosti"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "124. Při tachysystolii tonus dělohy v intervalech mezi kontrakcemi nejčastěji",
+    "answers": [
+      "a) pomalu klesá",
+      "b) je nezměněný",
+      "c) je snížený",
+      "d) je zvýšený"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) je zvýšený"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "125. Při step testu sledujeme",
+    "answers": [
+      "a) frekvenci děložních kontrakcí",
+      "b) vitální kapacitu plic",
+      "c) kardiovaskulární aparát ženy",
+      "d) srdeční frekvenci plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) srdeční frekvenci plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "126. Step test ovlivňuje distribuci krve v mateřském organismu tak, že",
+    "answers": [
+      "a) zvyšuje přítok krve od plodu к placentě",
+      "b) nemění distribuci krve v mateřském organismu",
+      "c) snižuje přítok krve к děloze redistribucí do kosterního svalstva",
+      "d) způsobuje vykrvácení do splanchnické oblasti"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) snižuje přítok krve к děloze redistribucí do kosterního svalstva"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "127. Kyslíkový test je pozitivní, pokud po přerušení inhalace kyslíku",
+    "answers": [
+      "a) zůstanou ozvy plodu nezměněny",
+      "b) dojde к bradykardii u plodu",
+      "c) dojde к nástupu děložních kontrakcí",
+      "d) dojde к tachykardii u plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) dojde к bradykardii u plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "128. Pacientka si ve 32 týdnu těhotenství stěžuje, že méně cítí pohyby plodu, a je zjištěno, že plod je menší, než odpovídá délce těhotenství. Na jakou patologii myslíte",
+    "answers": [
+      "a) na pupečníkovou komplikaci",
+      "b) na sníženou koncentraci estriolu",
+      "c) na intrauterinm růstovou retardaci (IUGR) a placentám! insuficienci",
+      "d) na etnicky podmíněný menší plod"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) na intrauterinm růstovou retardaci (IUGR) a placentám! insuficienci"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "129. Časná decelerace přichází při",
+    "answers": [
+      "a) tlaku na hlavičku při jejím vstupu do pánve",
+      "b) kompresi pupečníku",
+      "c) výhřezu pupečníku",
+      "d) je výrazem těžké hypoxie plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) tlaku na hlavičku při jejím vstupu do pánve"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "130. U které z následujících situací nedochází к poklesu variability",
+    "answers": [
+      "a) použití hypnotik a barbiturátů",
+      "b) chronická hypoxie",
+      "c) stimulace plodu palpací",
+      "d) spánek plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) stimulace plodu palpací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "131. Modré zbarvení po přidání bromthymolové modři (Temessvaryho zkouška) к plodové vodě na vložce je způsobeno",
+    "answers": [
+      "a) alkalickou reakcí plodové vody",
+      "b) buněčnými elementy v ní obsaženými",
+      "c) kyselou reakcí plodové vody",
+      "d) bílkovinou obsaženou v plodové vodě"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) alkalickou reakcí plodové vody"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "132. Rozšíření krevního řečiště v těhotenství je kompenzováno expanzí krevního volumu a je způsobeno",
+    "answers": [
+      "a) hemolýzou",
+      "b) expanzí plazmy",
+      "c) snížením počtu krevních elementů",
+      "d) únikem krve do splanchnické oblasti"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) expanzí plazmy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "133. Když se rozhodujeme pro indukci porodu při nitroděložním odumření plodu, vyšetřujeme vždy",
+    "answers": [
+      "a) acidobazickou rovnováhu matky",
+      "b) koncentraci kyseliny močové",
+      "c) tenzi kyslíku",
+      "d) koncentraci fibrinogenu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) koncentraci fibrinogenu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "134. Pro určení plicní zralosti plodu se určuje v plodové vodě",
+    "answers": [
+      "a) množství minerálů",
+      "b) poměr lecitinu a sfingomyelinu",
+      "c) poměr albuminu a globulinu",
+      "d) počet buněčných elementů"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) poměr lecitinu a sfingomyelinu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "135. Pánev všeobecně stejnoměrně zúžená má užší",
+    "answers": [
+      "a) jen přímý průměr pánevního vchodu, šíře, úžiny i východu",
+      "b) jen příčný průměr pánevního vchodu, úžiny a východu",
+      "c) všechny průměry pánve",
+      "d) jen přímý průměr pánevního vchodu, úžiny a šíře"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) všechny průměry pánve"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "136. Pelvimetrem nelze měřit",
+    "answers": [
+      "a) příčný průměr pánevního východu",
+      "b) conjugata vera obstetrica",
+      "c) diameter bispinalis",
+      "d) conjugata diagonalis"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) conjugata vera obstetrica"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "137. Conjugata diagonalis interna se měří",
+    "answers": [
+      "a) vnitřním vyšetřením v centimetrech od dolního okraje spony к promontoriu",
+      "b) hmatem za sponou",
+      "c) pelvimetrem",
+      "d) zavedením sondy do pochvy"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) vnitřním vyšetřením v centimetrech od dolního okraje spony к promontoriu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "138. Pravděpodobnou známkou těhotenstvíje",
+    "answers": [
+      "a) změna chuti к jídlu",
+      "b) přibýváni na váze",
+      "c) proměnlivost nálad",
+      "d) vynechání menstruace"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) vynechání menstruace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "139. Jistou známkou těhotenstvíje",
+    "answers": [
+      "a) srdeční akce plodu",
+      "b) zvětšení dělohy",
+      "c) vynechání měsíčků",
+      "d) prosáknutí a překrvení vulvy"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) srdeční akce plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "140. U těhotné, kde je podezření, že šlo o rubeolu, je možno potvrdit po kožní erupci diagnózu akutního onemocnění hemaglutinační reakcí za",
+    "answers": ["a) 3 dny", "b) týden", "c) později", "d) 3 týdny"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) 3 týdny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "141. Nejčastější postižení plodu při akutním onemocněním těhotné rubeolou je",
+    "answers": [
+      "a) spina bifida",
+      "b) rozštěp břišní stěny",
+      "c) slepota jako následek katarakty",
+      "d) fokomelie"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) slepota jako následek katarakty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "142. Imunita ženy po prodělaném onemocnění rubeolou chrání plod",
+    "answers": ["a) celoživotně", "b) 1 rok", "c) 10 let", "d) 3 roky"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) celoživotně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "143. Pro laboratorní průkaz akutní primoinfekce rubeolou je rozhodující zjištění protilátek",
+    "answers": [
+      "a) ve skupině IgM",
+      "b) ve skupině IgG",
+      "c) průkaz nelze stanovením protilátek provést",
+      "d) jiných protilátek"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) ve skupině IgM"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "144. Toxoplazmóza je na člověka přenášena nejčastěji",
+    "answers": [
+      "a) stykem s postiženou osobou",
+      "b) kapénkovou infekcí",
+      "c) transfúzí",
+      "d) alimentární cestou"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) alimentární cestou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "145. К postižení plodu toxoplazmózou dochází pouze",
+    "answers": [
+      "a) u chronického onemocnění ženy",
+      "b) nedochází vůbec",
+      "c) při primoinfekci v těhotenství",
+      "d) u infekce proběhlé nejméně 2 roky před otěhotněním"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) při primoinfekci v těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "146. Sérologický průkaz protilátek na toxoplazmózu ve skupině IgG je u žen ve fertilním věku pozitivní",
+    "answers": ["a) ve 100%", "b) v 5%", "c) není možný", "d) až 30%"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) až 30%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "147. Braxtonovy-Hicksovy kontrakce začínají obvykle od",
+    "answers": [
+      "a) 28 týdne gravidity",
+      "b) 12 týdne gravidity",
+      "c) 20 týdne gravidity",
+      "d) 36 týdne gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 20 týdne gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "148. Nitroděložní tlak během Braxtonových-Hicksových kontrakcí po 20 týdnu gravidity je",
+    "answers": [
+      "a) 5-10 mm Hg",
+      "b) 10-20 mm Hg",
+      "c) 20-30 mm Hg",
+      "d) 30-40 mm Hg"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 10-20 mm Hg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "149. Při hrozícím potratu nebo předčasném porodu neprovedeme cerclage, když",
+    "answers": [
+      "a) v anamnéze byl předčasný porod",
+      "b) zjistíme ojedinělé děložní kontrakce",
+      "c) nenalezneme u plodu srdeční akci",
+      "d) cervikální skóre je větší než 4"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) nenalezneme u plodu srdeční akci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "150. Stimulace bradavek na konci těhotenství",
+    "answers": [
+      "a) způsobí relaxaci děložního svalu",
+      "b) vyvolá děložní kontrakce jako následek vylučování oxytocinu v hypofýze",
+      "c) nemůže vyvolat děložní kontrakce pro vysokou koncentraci prolaktinu",
+      "d) nemá žádný vliv na děložní kontraktibilitu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) vyvolá děložní kontrakce jako následek vylučování oxytocinu v hypofýze"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "151. Stimulaci bradavek na konci těhotenství",
+    "answers": [
+      "a) lze použít jako non-stress test",
+      "b) lze použít jako stresový test",
+      "c) není žádným testem",
+      "d) je neodůvodněná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) lze použít jako stresový test"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "152. Hypofibrinogenémie se po odumření plodu objeví nejčastěji",
+    "answers": [
+      "a) za 4 až 5 týdnů",
+      "b) za 6 hodin",
+      "c) za týden",
+      "d) za 24 hodin"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) za týden"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "153. Tlak mezi porodnickou brankou a hlavou plodu v oblasti prostupujícího obvodu na vrcholu kontrakce je",
+    "answers": [
+      "a) nižší než intraamniální tlak",
+      "b) dosahuje až 200 mm Hg",
+      "c) nejvýše dvojnásobný",
+      "d) stejný jako tlak intraamniální"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) dosahuje až 200 mm Hg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "154. Zažloutlé zbarvení plodové vody při amnioskopii svědčí pro obsah",
+    "answers": [
+      "a) bilirubinu při Rh inkompatibilitě",
+      "b) šmolky při zvýšené peristaltice plodu",
+      "c) krve při abrupci placenty",
+      "d) fosfolipidů při prodlouženém těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) bilirubinu při Rh inkompatibilitě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "155. Falešně pozitivní imunologický těhotenský test bývá následek",
+    "answers": [
+      "a) zvýšené koncentrace luteinizačního hormonu",
+      "b) špatného sběru moči",
+      "c) zvýšené koncentrace prolaktinu",
+      "d) zvýšené koncentrace estrogenů"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) zvýšené koncentrace luteinizačního hormonu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "156. Cerclage »a chaude« (akutní) znamená, že provádíme operaci",
+    "answers": [
+      "a) při zvýšené teplotě matky",
+      "b) při odteklé plodové vodě",
+      "c) při pokročilém nálezu na hrdle (prolapsu vaku blan) bez obvyklé přípravy",
+      "d) při krvácení z děložního hrdla"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) při pokročilém nálezu na hrdle (prolapsu vaku blan) bez obvyklé přípravy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "157. Nejprůkaznější záznam srdeční akce při kardiotokografii dostaneme",
+    "answers": [
+      "a) zevním záznamem na podkladě EKG",
+      "b) vnitřním záznamem na podkladě EKG",
+      "c) zevním záznamem na podkladě fonokardiografie",
+      "d) zevním záznamem na podkladě Dopplerova principu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) vnitřním záznamem na podkladě EKG"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "158. Při vnitřním monitorování umístěním sondy na hlavičku plodu je záznam získáván pomocí EKG plodu. V které fázi porodu lze tuto metodu užít",
+    "answers": [
+      "a) při zachovaném vaku blan a brance 3 cm",
+      "b) po odtoku plodové vody, brance prostupné alespoň pro prst",
+      "c) od prvních děložních stahů",
+      "d) v těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) po odtoku plodové vody, brance prostupné alespoň pro prst"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "159. Zevní měření děložních kontrakcí je možné na podkladě",
+    "answers": [
+      "a) změn svalového napětí břišní stěny",
+      "b) mechanického tlaku na sondu, který vzniká změnou tvaru břicha při děložní kontrakci",
+      "c) na zvětšení lordózy u plodu při děložní kontrakci",
+      "d) na podkladě pletyzmografie"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) mechanického tlaku na sondu, který vzniká změnou tvaru břicha při děložní kontrakci"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "160. Normální CTG nesmí obsahovat",
+    "answers": [
+      "a) akcelerace",
+      "b) decelerace",
+      "c) srdeční frekvenci > 110 úderů/min",
+      "d) oscilace 10-25 úderů/min"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) decelerace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "161. Akcelerace v CTG záznamu znamená",
+    "answers": [
+      "a) > 15 úderů po více než 15 sekundách v závislosti na pohybu",
+      "b) > 15 úderů v závislosti na kontrakci",
+      "c) zvýšení srdeční frekvence ve II době porodní",
+      "d) hodnotí se jen při začátku porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) > 15 úderů po více než 15 sekundách v závislosti na pohybu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "162. Suspektní CTG záznam charakterizuje",
+    "answers": [
+      "a) chybí akcelerace během 40minutového záznamu",
+      "b) bazální frekvence 150-170/min",
+      "c) sporadické decelerace",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "163. Nereaktivní záznam CTG nemusí znamenat ohrožení plodu",
+    "answers": [
+      "a) při aplikaci neuroplegické analgezie",
+      "b) při podání peridurální analgezii matce",
+      "c) při fyziologickém spánku plodu",
+      "d) ve П. době porodní"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) při fyziologickém spánku plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "164. Patologický CTG záznam neobsahuje",
+    "answers": [
+      "a) decelerace",
+      "b) akcelerace",
+      "c) silentní záznam",
+      "d) sinusoidní křivku"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) akcelerace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "165. Který CTG záznam je nejčastěji spojen s postnatálním handicapem novorozence",
+    "answers": [
+      "a) pozdní decelerace",
+      "b) variabilní decelerace",
+      "c) tachykardie + decelerace",
+      "d) sinusoida"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) tachykardie + decelerace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "166. Bradykardii plodu trvající déle než 10 minut řešíme",
+    "answers": [
+      "a) podáním O2 matce",
+      "b) infúzí 10% glukózy matce",
+      "c) polohováním matky",
+      "d) podáním tokolýzy a ukončením porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) podáním tokolýzy a ukončením porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "167. Kontinuální monitorování plodu je nutné",
+    "answers": [
+      "a) při neklidu rodičky",
+      "b) u rodičky v termínu porodu",
+      "c) při bazální frekvenci nad 120/min",
+      "d) při suspektním a patologickém vstupním CTG"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) při suspektním a patologickém vstupním CTG"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "168. Patologický CTG záznam za porodu obsahuje",
+    "answers": [
+      "a) časné decelerace",
+      "b) pozdní decelerace",
+      "c) zvýšení bazální frekvence o 10 úderů/min",
+      "d) mělké variabilní decelerace < 60/min"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) pozdní decelerace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "169. Jasnou známkou dobrého stavu plodu je",
+    "answers": [
+      "a) akcelerace v závislosti na pohybech plodu",
+      "b) bazální frekvence 110-150/min",
+      "c) žádné decelerace",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) akcelerace v závislosti na pohybech plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "170. Fetální pulsní oxymetrie se používá",
+    "answers": [
+      "a) v těhotenství",
+      "b) za porodu",
+      "c) jen ve П době porodní",
+      "d) jako vstupní vyšetření na začátku porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) za porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "171. Senzor fetální pulsní oxymetrie se nakládá na",
+    "answers": [
+      "a) temenní část plodu",
+      "b) krční krajinu plodu",
+      "c) tvář plodu",
+      "d) trup plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) tvář plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "172. Fetální pulsní oxymetrie prokazuje ohrožení plodu hypoxií, pokud saturace O2 poklesne pod",
+    "answers": [
+      "a) 50% nebo méně",
+      "b) 40% nebo méně",
+      "c) 30% nebo méně",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 30% nebo méně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "173. Fetální pulsní oxymetrie se hodnotí společně",
+    "answers": [
+      "a) s pH ze skalpu plodu",
+      "b) s pohyby plodu",
+      "c) v závislosti na kontrakci",
+      "d) s CTG plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) s CTG plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "174. Která z metod diagnostiky fetální hypoxie je nejméně spolehlivá",
+    "answers": ["a) CTG", "b) FpO,", "c) STAŇ", "d) stetoskop"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) stetoskop"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "175. Která z placentárních patologií nejvíce (ne však nejčastěji) ohrožuje plod",
+    "answers": [
+      "a) placenta praevia",
+      "b) placenta marginalis",
+      "c) placenta succenturiata",
+      "d) vasa praevia"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) vasa praevia"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "176. Ruptura dělohy se klinicky projeví nejdříve",
+    "answers": [
+      "a) vymizením děložních kontrakcí",
+      "b) akutní hypoxií plodu",
+      "c) subjektivní úlevou rodičky",
+      "d) všechny tyto skutečnosti jsou přítomny"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny tyto skutečnosti jsou přítomny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "177. Aktokardiografie",
+    "answers": [
+      "a) znázorní akcelerace",
+      "b) znázorní bazální frekvence plodu",
+      "c) hodnotí CTG v závislosti na pohybech",
+      "d) znázorní dýchací pohyby plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) hodnotí CTG v závislosti na pohybech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "178. Monitorovat dvojčata za porodu můžeme",
+    "answers": [
+      "a) plod A skalpovou elektrodou, plod В UZ sondou",
+      "b) oba plody zevní UZ sondou",
+      "c) dvěma monitory",
+      "d) všechny tyto možnosti lze použít"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny tyto možnosti lze použít"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "179. Hypoxémie je",
+    "answers": [
+      "a) snížená saturace O2 v centrálních orgánech plodu",
+      "b) sražená saturace O2 v arteriální krvi",
+      "c) snížená saturace O2 v žilní krvi",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) sražená saturace O2 v arteriální krvi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "180. Při hypoxémii plod",
+    "answers": [
+      "a) redukuje pohybovou aktivitu",
+      "b) redukuje dýchací pohyby",
+      "c) zpomaluje růst",
+      "d) všechny se uplatňují"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny se uplatňují"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "181. Hypoxie ploduje",
+    "answers": [
+      "a) snížení saturace O, v periferních tkáních",
+      "b) snížení saturace O2 jen v žilním systému",
+      "c) snížení saturace O2 v ledvinách",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) snížení saturace O, v periferních tkáních"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "182. Při hypoxii plod",
+    "answers": [
+      "a) vyplavuje stresové hormony (adrenalin, noradrenalin)",
+      "b) zvyšuje koncentraci kyseliny uhličité",
+      "c) zvyšuje bazální metabolismus",
+      "d) zvyšuje pohybovou aktivitu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) vyplavuje stresové hormony (adrenalin, noradrenalin)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "183. Asfyxie plodu je",
+    "answers": [
+      "a) snížená saturace O2 v centrálních orgánech plodu",
+      "b) snížená saturace O2 v periferii plodu",
+      "c) snížené prokrvení v končetinách",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) snížená saturace O2 v centrálních orgánech plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "184. Tachykardii plodu způsobuje",
+    "answers": [
+      "a) nedostatek kyslíku v periferních orgánech plodu",
+      "b) podráždění sympatiku",
+      "c) podráždění parasympatiku",
+      "d) zvýšení kyseliny mléčné v oběhu plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) podráždění sympatiku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "185. Na změnách srdeční frekvence plodu se podílí",
+    "answers": [
+      "a) změna placentámího průtoku",
+      "b) zevní stimul",
+      "c) zvýšená tělesná teplota matky",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "186. STAN analýza hodnotí",
+    "answers": [
+      "a) QRS interval",
+      "b) ST úsek EKG",
+      "c) R-R interval",
+      "d) vlnu P"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) ST úsek EKG"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "187. Hlavička vstouplá malým oddílem znamená,",
+    "answers": [
+      "a) že malá fontanela je nad rovinou pánevního vchodu",
+      "b) že malá fontanela je v rovině pánevního vchodu",
+      "c) že malá fontanela je pod rovinou pánevního vchodu",
+      "d) vedoucí bod v pánevní šíři"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) že malá fontanela je pod rovinou pánevního vchodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "188. Při hlavičce vstouplé v pánevní šíři palpujeme",
+    "answers": [
+      "a) horní zadní okraj spony stydké",
+      "b) celé vyhloubení kosti křížové",
+      "c) jen horní třetinu zadní stěny spony stydké",
+      "d) jen dolní třetinu zadní stěny spony stydké"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) jen dolní třetinu zadní stěny spony stydké"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "189. Při vakuumextrakci nemusí být podmínkou",
+    "answers": [
+      "a) hlavička vstouplá velkým oddílem",
+      "b) branka zašlá",
+      "c) plod živý",
+      "d) pánev prostorná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) branka zašlá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "190. Amniocentézu je vhodné provést",
+    "answers": [
+      "a) na začátku II trimestru",
+      "b) v 8 týdnu těhotenství",
+      "c) transvaginálně",
+      "d) na konci těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) na začátku II trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "191. Nejčastější komplikace po amniocentéze",
+    "answers": [
+      "a) poranění střeva těhotné",
+      "b) poranění děložních cév",
+      "c) poranění močového měchýře těhotné",
+      "d) potrat"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) potrat"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "192. Biofyzikální profil neobsahuje",
+    "answers": [
+      "a) dýchací pohyby",
+      "b) pohyby končetin",
+      "c) množství plodové vody",
+      "d) CTG"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) CTG"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "193. Nuchální translucence se měří u plodu",
+    "answers": [
+      "a) v 16-17 týdnu gravidity",
+      "b) v 11-13 týdnu gravidity",
+      "c) ve 2 polovině gravidity",
+      "d) před porodem"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) v 11-13 týdnu gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "194. Edwardsův syndrom znamená",
+    "answers": [
+      "a) karyotyp plodu obsahuje trisomii 18 chromosomů",
+      "b) karyotyp plodu je 45 chromosomů",
+      "c) novorozenec má snížený intelekt",
+      "d) novorozenec má mnohočetné malformace"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) karyotyp plodu obsahuje trisomii 18 chromosomů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "195. Tůmerův syndrom znamená",
+    "answers": [
+      "a) karyotyp jedince je 47 chromosomů",
+      "b) karyotyp jedince je 45,X0",
+      "c) je přítomen mentální handicap",
+      "d) žena je infertilní"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) karyotyp jedince je 45,X0"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "196. IUGR při placentám! insuficienci souvisí",
+    "answers": [
+      "a) s asymetrickým vývojem plodu",
+      "b) s chromosomální vadou",
+      "c) s vyšší váhou plodu",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) s asymetrickým vývojem plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "197. Funneling je",
+    "answers": [
+      "a) rozšíření vnitřní branky děložního hrdla",
+      "b) dilatace zevní branky děložního hrdla",
+      "c) vyklenutí děložní stěny",
+      "d) náplň děložní dutiny při hysteroskopií"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) rozšíření vnitřní branky děložního hrdla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "198. Incidence předčasného porodu je",
+    "answers": ["a) 5-6%", "b) 1%", "c) 10%", "d) > 10%"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 5-6%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "199. Nejčastější příčinou předčasného porodu je",
+    "answers": [
+      "a) špatná životospráva těhotné",
+      "b) malá návštěvnost poradny",
+      "c) infekce",
+      "d) úraz"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) infekce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "200. Sexuálně přenosné patogeny jsou",
+    "answers": [
+      "a) mykoplazmata",
+      "b) ureaplazmata",
+      "c) chlamydie",
+      "d) všechny vyjmenované"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny vyjmenované"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "201. Chorioamnionitis je infekce",
+    "answers": [
+      "a) chorioamniálního prostoru",
+      "b) plodových obalů",
+      "c) plodové vody",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "202. Které bakteriální agens se rutinně vyšetřuje u těhotných ve 36 týdnu gravidity",
+    "answers": [
+      "a) stafylokoky",
+      "b) skupina streptokoků В (GBS)",
+      "c) Escherichia colli",
+      "d) chlamydie"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) skupina streptokoků В (GBS)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "203. Bakteriální vaginóza",
+    "answers": [
+      "a) způsobuje u ženy svědivý fluor",
+      "b) mění pH poševního sekretu",
+      "c) nemá souvislost s předčasným porodem",
+      "d) způsobuje horečky u ženy"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) mění pH poševního sekretu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "204. Mezi cytokiny nepatří",
+    "answers": ["a) IL-6", "b) TNF-a", "c) IL-8", "d) fetální fibronektin"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) fetální fibronektin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "205. Cervix skóre nehodnotí",
+    "answers": [
+      "a) tvar děložního hrdla",
+      "b) dilataci hrdla",
+      "c) konzistenci čípku",
+      "d) zkrácení čípku"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) tvar děložního hrdla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "206. Budínův hmat hodnotí",
+    "answers": [
+      "a) tvar dělohy",
+      "b) sklon krční rýhy",
+      "c) umístění hřbetu a malých částí plodu v děložních hranách",
+      "d) dolní děložní segment"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) umístění hřbetu a malých částí plodu v děložních hranách"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "207. Conjugate diagonalis měří",
+    "answers": ["a) 11 cm", "b) 12cm", "c) 13cm", "d) 15 cm"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 13cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "208. Při Fergussonově reflexu se vyplavuje",
+    "answers": [
+      "a) prostaglandin",
+      "b) oxytocin",
+      "c) oxytocináza",
+      "d) estriol"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) oxytocin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "209. Kíistnerův manévr používáme při",
+    "answers": [
+      "a) porodu hlavičky",
+      "b) extrakci koncem pánevním",
+      "c) hodnocení odlučování placenty",
+      "d) revizi dutiny děložní"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) hodnocení odlučování placenty"],
+    "description": [""],
+    "img": [""]
   }
 ]

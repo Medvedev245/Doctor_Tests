@@ -86,526 +86,1058 @@
 //   };
 const Functions = () => {
   const text = `
-  1. Lividita se projevuje v těhotenství
-  a) na kůži břicha
-  b) naděložním hrdle
-  c) na děložním hrdle, pochvě a vulvě
-  d) na očních spojivkách
-  2. Děložní sliznice po vzniku těhotenství
-  a) hyperproliferuje
-  b) odloučí se a přeroste decidua
-  c) deciduálně se přeměňuje
-  d) atrofuje
-  3. Koncem 2 měsíce gravidity je uterus velikosti I přibližně
-  a) husího vejce
-  b) slepičího vejce
-  c) 3-4 cm nad sponou
-  d) kokosového ořechu
-  4. Hmotnost srdce matky v těhotenství
-  a) se zmenšuje asi o 50 g
-  b) se nemění
-  c) se zvětšuje asi o 25 g
-  d) se zvětšuje asi o 300 g
-  5. Leží-li těhotná žena na zádech, tlačí často zvětšený ureterus na vena cava, a zpomaluje tak žilní návrat к srdci - žena může zkolabovat. Tento syndrom nazýváme
-  a) syndrom ortostatický
-  b) syndrom parkinsonský
-  c) syndrom horní duté žíly
-  d) syndrom dolní duté žíly
-  6. Na začátku těhotenství se objevují mimo jiné také
-  a) vypadávání vlasů
-  b) zvláštní chutě na některá jídla
-  c) zvýšení růstu ochlupení
-  d) zvýšení inteligenčního koeficientu
-  7. hCG s cílem průkazu těhotenství stanovujeme
-  a) ve slinách matky
-  b) v krvi plodu
-  c) v krvi matky
-  d) v plodové vodě
-  8. Vitální kapacita plic na konci těhotenství
-  a) je zcela individuálně rozdílně změněná
-  b) klesá
-  c) stoupá
-  d) nemění se
-  9. V těhotenství snáze vzniká
-  a) infekce chřipkou
-  b) žaludeční vřed
-  c) fraktura femuru
-  d) zubní kaz
-  10. Těhotenská glykosurie se vyskytuje
-  a) u všech těhotných
-  b) u většiny starších primipar
-  c) u žádné těhotné, pokud není diabetičkou
-  d) u 20 % těhotných
-  11. Chloasma uterinum je způsobeno zvýšenou sekrecí
-  a) TRH
-  b) FSH
-  c) MSH
-  d) LH
-  12. Počet kotyledonů lidské placenty je přibližně
-  a) 40
-  b) 16
-  c) 8
-  d) 2
-  13. Placenta donošeného plodu váží přibližně
-  a) 500 g
-  b) 1000 g
-  c) 100 g
-  d) 2500 g
-  14. Příčinou tonogenní dilatace ureterů těhotné ženy je
-  a) účinek progesteronu
-  b) účinek hCG
-  c) účinek estrogenů
-  d) tlak způsobený těhotnou dělohou
-15. Glomerulární filtrace v těhotenství
-a) klesá
-b) mění se individuálně
-c) nemění se
-d) stoupá
-16. К pravděpodobným známkám těhotenství patří
-a) zvýšené vylučování protilátek proti hCG
-b) trismus
-c) krvácení z rodidel
-d) lividita děložního hrdla a pochvy
-17. К posouzení stavu fetoplacentární jednotky můžeme koncem těhotenství vyšetřovat
-a) stanovení L/S indexu
-b) množství estriolu v moči těhotné
-c) koncentraci hemoglobinu v krvi těhotné
-d) koncentraci testosteronu v moči těhotné
-18. Choriové klky placenty jsou v intervilózních prostorách omývány
-a) plodovou vodou
-b) krví plodu
-c) mateřskou krví
-d) mateřským sérem
-19. Bez účasti plodu je v placentě vytvářen
-a) estriol
-b) estron
-c) estradiol
-d) progesteron
-20. Fyziologicky je největší množství plodové vody přítomno ve 35 týdnu těhotenství, a to
-a) 33 ml
-b) 1000 ml
-c) 330 ml
-d) 100 ml
-21. Polyhydramnion znamená
-a) přítomnost dvou vaků blan u dvojčat
-b) předčasný odtok plodové vody
-c) snížené množství plodové vody
+  1. Amnioskopem se hodnotí
+  a) ložení plodu
+  b) motnost plodu
+  c) inkce placenty
+  d) abarvení plodové vody
+  2. Saltatomí oscilace kardiotokografie (CTG) patří ftmezi
+  a)rátkodobé frekvenční jevy
+  b) dlouhodobé frekvenční jevy
+  c) Středně dlouhé frekvenční jevy
+  d) Bev, který se nehodnotí
+  3. llndulatorní oscilace CTG patří mezi
+  a) krátkodobé frekvenční jevy
+  b) dlouhodobé frekvenční jevy
+  c) středně dlouhé frekvenční jevy
+  d) jevy, které se nehodnotí
+  4. Undulatorní oscilace CTG patří mezi
+  a) patologické jevy
+  b) dlouhodobé frekvenční jevy
+  c) středně dlouhé frekvenční jevy
+  d) fyziologické jevy
+  5. Undulatorní oscilace CTG
+  a) jsou indikací к ukončení porodu
+  b) neregistruje
+  c) jsou středně dlouhé frekvenční jevy
+  d) nejsou indikací к ukončení porodu
+  8. Silentní/sinusoidní CTG záznam je
+  a) fyziologický záznam
+  b) suspektní záznam
+  c) jednoznačně patologický záznam
+  d) fyziologický u předčasného porodu
+  9. Silentní/sinusoidní CTG záznam znamená
+  a) fyziologický záznam dvojčat
+  b) suspektní záznam u předčasného porodu
+  c) indikaci к porodu per forcipem jen v I. době porodní
+  d) indikaci к ukončení porodu/těhotenství
+  10. Aortokavální kompresivní syndrom se na CTG projeví
+  a) bradykardií plodu
+  b) tachykardií plodu
+  c) silentním záznamem
+  d) asystolií plodu
+  11. Aortokavální kompresivní syndrom způsobí u matky
+  a) vyplavení oxytocinu
+  b) snížení minutového srdečního výdeje
+  c) hypertenzi v dolních končetinách
+  d) dilataci pyloru
+  12. Aortokavální kompresivní syndrom vzniká u matky
+  a) v I trimestru
+  b) zejména ve III trimestru
+  c) zejména ve II trimetru
+  d) zejména ve IV trimestru
+  6. Periodické akcelerace v CTG obraze svědčí
+  a) pro začátek porodu
+  b) pro polohu plodu koncem pánevním napřed
+  c) o febrilním stavu rodičky
+  d) o projevech kompenzatorních mechanismů plodu
+  13. Vstupní fenomén při CTG monitoringu
+  a) představuje indikaci к operačnímu ukončení porodu
+  b) může být zaměněn za syndrom dolní duté žíly
+  c) představuje riziko po podání kyslíku
+  d) představuje ohrožení matky embolizací do plic
+  7. Periodické akcelerace v CTG jsou indikací
+  a) к okamžitému ukončení porodu
+  b) к obratu plodu zevními hmaty
+  c) nejsou indikací к ukončení porodu
+  d) к ukončení porodu per forcipem
+  14. Při hodnocení CTG záznamu není třeba respektovat
+  a) zralost plodu
+  b) aplikaci farmak matce
+  c) uložení plodu
+  d) charakter plodové vody
+  15. Při hodnocení CTG záznamu je třeba respektovat
+a) výsledek oGTT
+b) útlum plodu po podání medikace
+c) uložení placenty
+d) názor rodičky
+16. Při patologickém CTG záznamu během porodu
+a) okamžitě volíme způsob porodu v relaxační vaně
+b) vypneme CTG přístroj, abychom rodičce nenarušili klidnou atmosféru
+c) podáme pethidin a počkáme na reakci plodu
+d) použijeme jinou metodu pro intrauterinní sledování plodu nebo ukončíme bez časové prodlevy porod
+17. Mikroodběr krve z hlavičky plodu během porodu
+a) se provádí pro určení karyotypu plodu
+b) se provádí pro určení karyotypu pouze u porodu plodu koncem pánevním napřed
+c) je metoda zavedená E Salingem na začátku 60 let minulého století
+d) se provádí pro určení karyotypu při podezření na m Down
+18. Mikroodběr krve z hlavičky u plodu je
+a) rutinní porodnická metoda
+b) z hlediska matky invazivní metoda
+c) výhodná metoda, protože dovoluje kontinuální sledování glykémie plodu
+d) metoda z hlediska plodu invazivní a z porodnického hlediska metoda technicky náročná
+19. Mikroodběr krve z hlavičky plodu slouží
+a) к vyšetření plodu na TORCH
+b) zejména к určení glykémie plodu
+c) к určení acidobazické rovnováhy plodu
+d) к určení acidobazické rovnováhy plodu pouze u nezralých plodů
+20. Mikroodběr krve hlavičky plodu se provádí
+a) amnioskopem pouze z velké fontanely
+b) amnioskopem pouze z malé fontanely
+c) amnioskopem pouze z velké nebo malé fontaleny
+d) pomocí amnioskopu, šetrnou incizí skalpu plodu
+21. Intrapartální fetální pulsní oxymetrie se provádí
+a) po puknutí vaku blan a po odtoku plodové vody
+b) před odtokem plodové vody; je zajištěna lepší elektrická vodivost
+c) jen za přítomnosti u porodu
+d) skalpovou elektrodou a pomocí CTG přístroje
+22. Intrapartální fetální pulsní oxymetrie
+a) je metoda, která se 100% spolehlivostí určí diagnózu hypoxie plodu
+b) je metoda, která se již dnes nepoužívá
+c) pomáhá hodnotit saturaci krve kyslíkem u novorozence
+d) je metoda z hlediska plodu neinvanzivní
+23. Intrapartální fetální pulsní oxymetrie vyhodnocuje
+a) pO,
+b) intenzitu zvuku, kterou pohltila zkoumaná tkáň plodu
+c) acidobazickou rovnováhu plodu
+d) saturaci uterinní krve kyslíkem
+24. Hemoglobin i deoxyhemoglobin
+a) absorbují shodně světlo
+b) nelze fyzikálně u plodu vyhodnotit
+c) absorbují odlišně světlo
+d) absorbují odlišně světlo pouze u plodu
+25. Systém STAN je
+a) firemní název pro fetální oxymetr
+b) název pro fetální elektrokardiografii a hodnocení ST úseku
+c) název metody podle Stanleye Angoly
+d) akronym pro stanovení acidobazické nerovnováhy
+26. Elevace ST úseku EKG u plodu je způsobena
+a) pouze hypokalémií plodu
+b) anaerobním metabolismem plodu
+c) zkalenou plodovou vodu
+d) vcestným lůžkem
+27. Deprese ST úseku u plodu je způsobena
+a) pouze hypokalémií plodu
+b) těžkou formou hypoxie plodu
+c) zkalenou plodovou vodou
+d) vcestným lůžkem
+28. Hypoxémie způsobuje u plodu
+a) sekreci adrenalinu
+b) zvýšenou kontrakční aktivitu myokardu
+c) glykogenolýzu
+d) všechny odpovědi jsou správné
+29. Předčasný odtok plodové vody nastává
+a) před 38 týdnem těhotenství
+b) před 40 týdnem těhotenství
+c) před příchodem těhotné do porodnického zařízení
+d) před nástupem děložních kontrakcí
+30. Porodní nádor je
+a) edém kůže a podkoží hlavičky plodu, který není ohraničený švy lebečních kostí
+b) vedoucí část plodu
+c) kostní tumor os parietum
+d) všechny odpovědi jsou správně
+31. Zeleně zkalená plodová voda znamená
+a) pozdní symptom pro intrauterinně odumřelý plod
+b) odchod mekonia plodu
+c) podezření na chorobu krve plodu
+d) podezření na poruchu trávicího ústrojí plodu
+32. Žlutavě zakalená plodová voda znamená
+a) podezření na Rh izoimunizaci plodu
+b) hypoxii plodu
+c) podezření na utažený pupečník kolem krku plodu
+d) poloha podélná plodu koncem pánevním
+33. Polyhydramnion představuje
+a) více amniálních dutin
+b) cysty v amniálním vaku
+c) nadměrné množství mozkomíšního moku v CNS plodu
 d) zvýšené množství plodové vody
-22. Chorion je histologicky
-a) sliznice
-b) svalová tkáň
-c) převážně vazivo
-d) epitel
-23. Pupečníkem probíhají
-a) 1 tepna a 2 žíly
-b) 3 tepny
-c) 1 žíla a 1 tepna
-d) 2 tepny a 1 žíla
-24. Whartonův rosol se nachází
-a) v pupečníku
-b) na povrchu plodu v době těsně před porodem
-c) v placentě
-d) mezi plodovými obaly
-25. Koncentrace FSH v těhotenstvíje
-a) individuálně různá
-b) vysoká
-c) nízká
-d) kolísavá
-26. Koncentrace prolaktinu v těhotenství
-a) je individuálně rozdílná
-b) se zvyšuje
-c) se snižuje
-d) kolísá
-27. Žílou v pupečníku protéká krev
-a) bohatá kyslíkem
-b) směrem к placentě
-c) odkysličená
-d) teplejší než v pupeční tepně
-28. Koncentrace progesteronu v krvi matky během těhotenstvíje
-a) vysoká
-b) žádný progesteron se nevyskytuje
-c) nízká
-d) kolísavá
-29. Koncentrace estrogenů je v průběhu těhotenství v krvi matky
-a) střídavě vysoká a nízká
-b) vysoká
-c) žádné estrogenně účinné hormony nejsou přítomny
-d) nízká
-30. Funiculus umbilicalis má většinou délku
-a) 20 cm
-b) 80 cm
-c) 40 cm
-d) 55 cm
-31. Atypický úpon pupečníku v blanách nazýváme
-a) takový stav nemůže nastat, došlo by к okamžitému úmrtí plodu
-b) insertio velamentosa
-c) insertio centralis
-d) insertio marginalis
-32. Za dolní hranici normy koncentrace hemoglobinu v krvi těhotné považujeme
-a) 75 g/1
-b) 115 g/1
-c) 125 g/1
-d) 150 g/1
-33. Fibrinogenémie na konci těhotenství
-a) klesá
-b) stoupá
-c) fibrinogen vymizí
-d) nemění se
-34. Největší koncentrace hCG je v těhotenství
-a) v 1 měsíci
-b) na konci těhotenství
-c) v 6 měsíci
-d) ve 3 měsíci
-35. Mezi subjektivní příznaky těhotenství u ženy patří
-a) diplopie
-b) vzestup hCG
-c) přírůstek na váze
-d) ranní nauzea a zvracení
-36. Chloasma uterinum se projevuje jako
-a) akutní stav vyžadující intenzivní péči
-b) zvýšená pigmentace těhotné ženy na obličeji
-c) selhání nadledvin vlivem těhotné dělohy
-d) tanec svátého Víta
-37. Mezi jisté známky těhotenství nepatří
-a) průkaz kostry plodu rentgenovým vyšetřením
-b) srdeční akce plodu viditelná ultrazvukem
-c) kardiotokografický záznam srdeční akce plodu
-d) zvětšená a prosáklá děloha
-38. Hmotnost svaloviny dělohy se v průběhu těhotenství zvětší
-a) z 1000 na 2000 g
-b) z 10 na 100 g
-c) z 70 na 1000 g
-d) ze 100 na 2000 g
-39. Po umělém přerušení těhotenství v I a II trimestru klesá koncentrace lidského choriového gonadotropinu v séru matky к neměřitelným hodnotám za
-a) lOdní
-b) 20 dní
-c) 40 dní
-d) 60 dní
-40. Koncentrace a-fetoproteinu v plazmě matky je zvýšena při těchto vrozených onemocněních plodu
+34. Ahlfeldovo znamení představuje
+a) začátek porodu - pravidelnou děložní činnost po 10 minutách
+b) utažený pupečník kolem krku plodu, nadměrné pohyby plodu
+c) odloučenou placentu, označené místo na pupečníku se posouvá směrem od vulvy
+d) ani jedna odpověď není správná
+35. Patologická inzerce placenty je v případě
+a) placenta adhaerens
+b) placenta accreta
+c) placenta increta
+d) všechny odpovědi jsou správné
+36. Placentu adhaerens nejčastěji diagnostikujeme
+a) klinicky, teprve při manuálním vybavování placenty
+b) biochemicky
+c) ultrazvukem
+d) podle vyšetření koagulačních parametrů
+37. Placenta incarcerate vzniká
+a) při poruše děložní motility
+b) při poruše placentám! inzerce
+c) po předchozím císařském řezu
+d) při spazmu děložní branky
+38. Naléhání pupečníku znamená, že
+a) se pupečník dotýká plodu, naléhá na plod
+b) se pupečník otočí, naléhá na krk plodu
+c) pupečník probíhá pod dolní částí plodu, je hmatný pupečníkový tep, ale je zachovaný vak blan
+d) pupečník probíhá pod dolní částí plodu, je hmatný pupečníkový tep, ale není zachovaný vak blan
+39. Vysoký přímý stav hlavičky plodu je
+a) indikací к porodu per forcipem
+b) indikací к nasazení vakuumextraktoru
+c) indikací к císařskému řezu
+d) ani jedna odpověď není správná
+40. Když zevním vyšetřením palpujeme krční rýhu 4 prsty nad sponou, je hlavička
+a) v pánevním východu
+b) v pánevní úžině
+c) je hlavička již porozena
+d) hlavička volně naléhá na pánevní vchod
+41. Výskyt přirozených dvojčatje v poměru к jednočetným těhotenstvím
+a) 2 : 85
+b) 3 : 85
+c) 1 : 85
+d) ani jedna odpověď není správná
+42. U porodního děje rozlišujeme
+a) porodní cesty
+b) porodní objekt (plod)
+c) porodní síly
+d) všechny odpovědi jsou správné
+43. Pokud hlavička při levém předním postavení pravidelně (normálně) rotuje, pak rotuje o
+a) 135 stupňů
+b) 45 stupňů
+c) 90 stupňů
+d) nerotuje
+44. Pokud hlavička při pravém zadním postavení pravidelně (normálně) rotuje, pak rotuje o
+a) 135 stupňů
+b) 45 stupňů
+c) 90 stupňů
+d) nerotuje
+45. Pokud hlavička abnormálně rotuje při pravém zadním postavení, pak rotuje o
+a) 135 stupňů
+b) 45 stupňů
+c) 90 stupňů
+d) nerotuje
+46. Konec pánevní neúplný zamená, že
+a) na pánevní vchod naléhají nožky plodu
+b) na pánevní vchod naléhají hýždě plodu
+c) na pánevní vchod naléhají kolínka plodu
+d) všechny odpovědi jsou správné
+47. Plod je v poloze podélné koncem pánevním, podle UZ vyšetření je odhad hmotnosti plodu 3000 g a rodička je zcela zdráva, pak následuje pokus o
+a) spontánní vedení porodu
+b) pokus o vedení porodu per sectionem Caesaream
+c) pokus o vedení porodu per forcipem Simpson
+d) ani jedna odpověď není správná
+48. Rizika a komplikace porodnických operacíjsou
+a) hemoragické
+b) trombembolické
+c) infekční
+d) všechny odpovědi jsou správné
+49. Inkompabilita v АВ0 systému
+a) neovlivňuje výskyt Rh izoimunizace
+b) zvyšuje riziko Rh izoimunizace
+c) projeví se po porodu
+d) izoimunizace není v tomto případě možná
+50. Amnioskopii lze provést
+a) do 35 týdne gravidity
+b) jsou-li pravidelné kontrakce
+c) vždy
+d) je-li prostupné hrdlo děložní
+51. Fyziologickou příměsí plodové vody jsou
+a) nemá fyziologické příměsi
+b) mázkové vločky
+b) částečky šmolky
+d) částečky hlenu
+52. Fyziologická barva vody plodové je
+a) čirá
+b) šedomodrá
+c) zelenkavá
+d) nažloutlá
+53. Amnioskopii lze diagnostikovat
+a) délku děložního hrdla
+b) zánět plodových blan
+c) hypoxii plodu
+d) množství plodové vody
+54. Fetoskopie je
+a) rtg vyšetření plodu
+b) endoskopické vyšetření plodu
+c) sonografické vyšetření plodu
+d) vyšetření plodu computerovým tomografem
+55. Fetoskopii provádíme
+a) po 20 týdnu gravidity
+b) mezi 13-15 týdnem gravidity
+c) do 12 týdne gravidity
+d) mezi 15 a 20 týdnem gravidity
+56. Komplikací souvisejících s fetoskopiije
+a) méně než 5 %
+b) 5-10%
+c) 25%
+d) více než 25 %
+57. Poměrné zastoupení Rh pozitivních к Rh negativním v bílé populaci ie
+a) 60:40%
+b) 85 : 15%
+c) 50:50%
+d) 75 : 25%
+58. Jestliže Rh negativní matce proniknou do oběhu erytrocyty Rh pozitivního plodu, vytvoří se v mateřském organismu protilátky typu
+a) IgA
+b) žádné
+c) anti-D, anti-C, Kell
+d) IgG
+59. К nejzávažnější feto-maternální transfúzi dochází
+a) v průběhu П trimestru
+b) ve III trimestru
+c) při porodu
+d) v I trimestru
+60. Amniocentéza je vhodná při titru protilátek
+a) 1 : 16 až 1 : 32
+b) při jakémkoliv titru protilátek
+c) nezávisí na výskytu protilátek
+d) 1 : 8
+61. Největší význam při amniocentéze к vyšetření stupně Rh izoimunizace připisujeme
+a) koncentraci kreatininu
+b) L-S indexu
+c) počtu oranžových buněk
+d) hodnotám bilirubinoidů
+62. Aplikace anti-D protilátky (Rhega) je nutná
+a) do 24 hodin po porodu
+b) do 48 hodin po porodu
+c) ihned po porodu či umělém přerušení těhotenství
+d) do 72 hodin po porodu
+63. Při vyšetření AFP v séru matky
+a) vyšetření není významné
+b) mají význam jen snížené hodnoty
+c) jsou zvýšené i snížené hodnoty významné
+d) mají význam jen zvýšené hodnoty
+64. Zvýšené hodnoty AFP v séru matky se obvykle nevyskytují
+a) u ezofageální a duodenální atrézie
+b) u spina bifida
+c) u anencefalie
+d) u Downova syndromu
+65. Vynechání menstruace a UZ nepřítomnost plodového vejce v dutině děložní nás nutí v první řadě vyloučit
+a) ektopickou graviditu
+b) hormonální poruchu
+c) ovariální cystu
+d) hrozící potrat
+66. Ektopická gravidita je nejčastěji lokalizována
+a) ve vejcovodu
+b) ve vaječníku
+c) volně v peritoneální dutině
+d) v děložním rohu
+67. Při ektopické graviditě ženu nejvíce ohrožuje
+a) děložní ruptura
+b) metroragie
+c) septický šok
+d) hemoragický šok
+68. V histologickém obraze endometria je pro ektopickou graviditu příznačné
+a) hypersekreční endometrium
+b) hyperproliferační endometrium
+c) navikulámí buňky
+d) fenomén Arias Stella
+69. Pro apendicitidu v rané graviditě není typické
+a) slabé krvácení z děložního hrdla
+b) urychlení tepové frekvence nad 90-100/min
+c) pozitivní Blumbergův příznak
+d) pozitivní Rovsinův příznak
+70. Náhle vzniklá bolest na hrudi, dusnost, kašel, úzkost, krvavé sputum je příznakem
+a) eklampsie
+b) plicní embolie
+c) infarktu myokardu
+d) angíny pectoris
+71. Příčinou plicní embolie není
+a) vmetek vzduchové bubliny
+b) vmetek částečky placentámí tkáně
+c) vmetek plodové vody
+d) vmetek sražené krve do plicnice
+72. Amniocentézu z věkové indikace provádíme u žen
+a) nad 40 let
+b) nad 42 let
+c) nad 35 let
+d) nad30let
+73. Ke zjištění plicní zralosti plodu je nutno vyšetřit
+a) kreatinin z plodové vody
+b) ultrazvukově plicní tkáň plodu
+c) bilirubinoidy z plodové vody
+d) L/S index z plodové vody
+74. Mezi klinické a laboratorní příznaky ektopické gravidity nepatří
+a) zvětšená děloha
+b) leukocytóza
+c) pozitivita hCG
+d) febrilní stav
+75. Biopsie choria (CVS)
+a) může poskytnout prvé výsledky do 15 minut po odběru
+b) může vzácně vést к redukčním defektům končetin plodu
+c) nemá se provádět před 15 týdnem gravidity
+d) výsledek přímé preparace se nemusí potvrzovat dlouhodobou kultivací
+76. Prenatální biopsie jater
+a) byla pro minimální diagnostický přínos opuštěna
+b) se nyní provádí výhradně punkcí pomocí ultrazvuko- vé vizualizace
+c) většinou se odběr provádí až po 30 týdnu těhotenství
+d) provádí se v 9 týdnu těhotenství
+77. Rezistentní perioda, kdy v důsledku působení teratogenního agens buď embryo zhyne, nebo přežije bez poškození, trvá
+a) od 0 do 21 dne po ovulaci
+b) rezistentní období neexistuje
+c) od 0 do 11 dne po poslední menstruaci
+d) od 0 do 11 dne po ovulaci
+78. Období maximální vnímavosti na teratogenní činitele (embryonální období) trvá
+a) od 11 do 57 dne po ovulaci
+b) od 11 do 57 dne po poslední menstruaci
+c) od 0 dne do 10 dne po ovulaci
+d) od 21 do 70 dne po ovulaci
+79. Období snížené vnímavosti na teratogenní činitele (fetální období)
+a) trvá od 70 dne po poslední menstruaci do porodu
+b) trvá od 57 dne po poslední menstruaci do porodu
+c) trvá od 57 dne po ovulaci do porodu
+d) je v П а III trimestru
+80. Teratogen působící ve fetálním období může vyvolat
+a) rozštěp páteře či břišní stěny plodu
+b) úmrtí plodu
+c) růstovou retardaci, zmenšení velikosti orgánů, funkční změny
+d) nemá vliv na plod
+81. Lokalizaci placenty určujeme nejčastěji pomocí
+a) ultrazvuku
+b) izotopové placentografie
+c) termografie
+d) magnetické rezonance
+82. O nízko nasedajícím lůžku mluvíme, pokud
+a) placenta přesahuje přes vnitřní branku
+b) placenta zasahuje pod vezikouterinní pliku
+c) ani magnetickou rezonancí nenalezneme placentu v děložním fundu
+d) se ultrazvukem nedaří zobrazit placentu na přední či zadní stěně
+83. Normální hodnoty pO, v pupečníkových cévách
+a) tepna 40, žíla 14
+b) tepna 27, žíla 15
+c) tepna 20, žíla 60
+d) tepna 15, žíla 27
+84. Normální hodnoty pCO2 (mm Hg) v pupečníkových cévách
+a) tepna 48, žíla 43
+b) tepna 43, žíla 48
+c) tepna 20, žíla 35
+d) tepna 20, žíla 20
+85. Normální hodnoty pH v pupečníkových cévách
+a) tepna 7,35, žíla 7,38
+b) tepna 7,34, žíla 7,36
+c) tepna 7,24, žíla 7,30
+d) tepna 7,38, žíla 7,35
+86. pO2 u plodu za porodu je normálně
+a) 50mm Hg
+b) 16mm Hg
+c) 60mm Hg
+d) 40 mm Hg
+87. Těžká fetální hypoxie je charakterizovaná hodnotou pO2 nižší než
+a) 16 mm Hg, trvající déle než 15 min
+b) 6mm Hg, trvající déle než 15 min
+c) 30 mm Hg, trvající déle než 10 min
+d) 40mm Hg, trvající déle než 15 min
+88. Beta-hemolytické streptokoky skupiny В
+a) u plodu vyvolávají prchavý exantém
+b) mohou se u matky manifestovat jako chorioamnionitida, septický potrat, puerperální sepse
+c) až na výjimky nejsou vyvolavateli porodnických infekcí
+d) jsou nejčastějším vyvolavatelem novorozeneckých průjmových onemocnění
+89. Nejčastějším původcem novorozeneckých průjmových onemocnění jsou
+a) Neisseria gonorrhoeae
+b) B-hemolytický streptokok
+c) enteropatogenní Escherichia coli, Salmonella, organismy Shigella
+d) vibrio fetus
+90. Tloušťka placenty
+a) během těhotenství se lineárně zvětšuje do 30 týdne gravidity
+b) tloušťka placenty dosahuje obvykle 5-7 cm
+c) produkce hormonů je úměrná tloušťce placenty
+d) se během těhotenství lineárně zvětšuje až do 40 týdne gravidity
+91. Která z těchto metod umožňuje nejčasnější získání DNA к prenatální diagnostice
+a) fetoskopie
+b) amniocentéza
+c) biopsie choria
+d) punkce pupečníku
+92. Jaké je riziko opakování trisomie 21 u 251eté ženy, které má jedno dítě postižené trisomií
+a) 3%
+b) 1,50%
+c) 4,50%
+d) 6%
+93. Pro asymetrickou intrauterinní růstovou retardaci plodu je charakteristické, že
+a) poměr velikosti hlavy a trupu je snížen vzhledem к délce gravidity
+b) poměr velikosti hlavy a trupu je nesignifikantní
+c) poměr velikosti hlavy a trupu je zvýšen vzhledem к délce gravidity
+d) poměr velikosti hlavy a trupu odpovídá délce  gravidity
+94. 381etá Rh negativní žena prodělala amniocentézu v 18 týdnu gravidity. Protože měla negativní Coombsův test, dostala 300 mikrogramů RhO (anti-D) imunoglobulinu. Po 8 týdnech byl nepřímý Coombsův test pozitivní s titrem 1:4 Nejpravděpodobnější vysvětleníje, že
+a) к imunizaci došlo po amniocentéze
+b) nebylo aplikováno dostatečné množství imunoglobulinu po amniocentéze
+c) titr reprezentuje Rh imunoglobin, který přetrvává v mateřské cirkulaci
+d) nepřímý Coombsův test s titrem 1:4 je falešně pozitivní a může být ignorován
+95. Pro stanovení diagnózy vcestného lůžka je rozhodující
+a) vyšetření ultrazvukem
+b) zevní palpační vyšetření
+c) vnitřní vaginální vyšetření
+d) amnioskopie
+96. Při stanovení diagnózy abrupce placenty u pacientky ve 36 týdnu gravidity je správné řešení
+a) okamžité ukončení gravidity
+b) léčba uterotoniky
+c) léčba hemostatiky společně s klidovým režimem
+d) absolutní klid na lůžku a tišící prostředky
+97. U syndromu mrtvého plodu těhotnou nejvíce ohrožuje
+a) infekce
+b) jatemí selhání
+c) diseminovaná intravaskulámí koagulace (DIC)
+d) ruptura děložní
+98. Prodělá-li těhotná hepatitidu В blízko termínu porodu nebo je chronickou nosičkou viru hepatitidy B, je třeba
+a) léčit novorozence výměnnou transfúzí
+b) není třeba léčit
+c) podat antibiotika
+d) aplikovat bezprostředně po porodu hepatitis В imunoglobulin
+99. Lékem volby při onemocnění listeriózou jsou
+a) salvarzan
+b) ampicilin
+c) vitaminová léčba
+d) sulfonamidy
+100. Oční vyšetření u preeklampsie vyžadujeme, abychom zjistili
+a) kataraktu
+b) poruchu vizu
+c) změny na očním pozadí
+d) zánět rohovky
+101. Která z následujících infekcí se obvykle diagnostikuje kultivací infekčního agens
+a) toxoplazmóza
+b) rubeola
+c) listerióza
+d) hepatitidaA
+102. Genitální infekce Chlamydia trachomatis v těhotenství může být příčinou nejčastěji
+a) prodlouženého těhotenství
+b) předčasného odtoku plodové vody s následným předčasným porodem
+c) krvácení do trávicího ústrojí
+d) anémie u plodu
+103. Vstup hlavičky do pánve se určuje hmatem
+a) Pawlikovým
+b) Rubeškovým
+c) Boudinovým
+d) Credeho
+104. V těhotenství se při akutním onemocnění toxoplazmózou léčí
+a) Pyrimethaminem a Sulfadiazinem
+b) Spiramycinem, Pyrimethaminem a Sulfadiazinem s doplněním kyselinou listovou
+c) Spiramycinem
+d) všechny odpovědi jsou správné
+105. Nejpřesnější hodnotu intenzity děložní kontrakce přináší
+a) zevní tokometrie mechanickou sondou
+b) zevní tokometrie měřená balónkem
+c) tokometrie měřením změny tlaku v konečníku
+d) vnitřní tokometrie
+106. Těhotná děloha se uchyluje do
+a) dextroverze a torze
+b) anteflexe
+c) retroverze
+d) sinistropozice
+107. Kontrolami hmotnosti těhotné ženy v prenatální poradně zjistíme
+a) velikost plodu
+b) odtékající plodovou vodu
+c) retenci tekutiny při počínajících edémech
+d) těhotenskou bulimii
+108. Kyselina močová se v těhotenství vyšetřuje
+a) při krvácení
+b) u diabetické fetopatie
+c) u preeklampsie
+d) při hrozícím předčasném porodu
+109. Kyselina močová se v těhotenství vyšetřuje
+a) ze séra matky
+b) z ranní moči
+c) z celé krve
+d) z moči matky za 24 hodin
+110. К obrazu HELLP syndromu patří
+a) dilatace pravého srdce
+b) koarktace aorty
+c) insuficience mitrální chlopně
+d) porucha jatemích funkcí a nízký počet destiček
+111. Děložní fundus v 10 měsíci gravidity
+a) uchyluje se do levé poloviny břicha
+b) sahá níže než v 9 měsíci
+c) sahá stejně vysoko
+d) sahá výše než v 9 měsíci
+112. Děloha v 6 měsíci gravidity u těhotné ženy
+v poloze vleže na zádech sahá fundem
+a) do dvou třetin vzdálenosti spona - pupek
+b) do výše pupku
+c) do poloviny vzdálenosti pupek - processus xiphoideus
+d) do dvou třetin vzdálenosti pupek - processus
+xiphoideus
+113. Koncentrace acetylcholinesterázy v plodové vodě se vyšetřuje к predikci
 a) defektu neurální trubice
-b) hypotrofii
-c) hydrocefalu
-d) chondrodystrofii
-41. U ležící těhotné ženy dosahuje děložní fundus do výše pupku v tomto týdnu těhotenství
-a) ve 24
-b) v 10
-c) v 17
-d) ve 36
-42. Proti stavu před těhotenstvím stoupá objem cirkulující krve nejvíce mezi 32 a 36 týdnem gravidity, a to o
-a) 30%
-b) 5%
-c) 15%
-d) 20 %
-43. Prekurzorem estrogenů u těhotné ženy není
-a) androstendion
-b) cholesterol
-c) dehydroepiandrosteron
-d) norethisteron
-44. Změny ve vylučování estriolu mateřskou močí podávají
-a) nepřímou informaci o stavu fetoplacentámí jednotky
-b) přímou informaci o blížícím se porodu
-c) nepřímou informaci o stavu placenty
-d) přímou informaci o stavu plodu
-45. Při vyšetřování estriolu v moči těhotné hodnotíme
-a) vyšetření ze vzorku moči kdykoli v průběhu dne
-b) vývojový trend
-c) pouze jedno vyšetření
-d) vyšetření z ranní moči
-46. DHEAS test byl zaveden jako
-a) test zralosti placenty
-b) test zralosti plodu
-c) test funkce fetoplacentámí jednotky
-d) test plicní zralosti plodu
-47. Relaxin je
-a) steroidní hormon
-b) hormon ovlivňující psychiku těhotných žen
-c) hormon tvořený ve žlutém tělísku ovlivňující pevnost kloubních spojení
-d) polypetidový hormon tvořený v adenohypofýze
-48. Progesteron je
-a) hormon produkovaný v adenohypofýze
-b) steroidní hormon produkovaný žlutým tělískem a placentou
-c) hormon produkovaný v neurohypofýze
-d) téměř nedetekovatelný v plazmě těhotných žen
-49. Hlavním účinkem prolaktinu je
-a) spuštění a regulace laktace
-b) řízení menstruačního cyklu
-c) řízení ovulace
-d) řízem růstu organismu
-50. Nutriční požadavky organismu se v těhotenství
-a) nemění
-b) zvyšují
-c) snižují
-d) snižují ke konci III trimestru
-51. Motilita trávicího ústrojí se v těhotenství
-a) snižuje
-b) nemění
-c) je ovlivněna evakuace jen tlustého střeva
-d) je ovlivněna evakuace jen tenkého střeva
-52. Žlučník v těhotenství
-a) bývá často zvětšený
-b) snáze dochází к evakuaci jeho obsahu
-c) netvoří se ve větší míře žlučové kameny
-d) jeho funkce není těhotenstvím ovlivněna
-53. Játra v těhotenství
-a) se zvětšují až o 30 %
-b) jejich morfologie není těhotenstvím ovlivněna
-c) funkce jater není ovlivněna
-d) jsou zdrojem progesteronu
-54. Ledviny v těhotenství
-a) se zvětšují až o 1,5 cm
-b) nedilatuje se kalicho-pánvičkový systém
-c) glomerulámí filtrace se snižuje
-d) se zmenšují až o 1,5 cm
-55. Renální funkce v těhotenství
-a) glomerulámí filtrace je nižší
-b) se nemění
-c) se mění u těhotných již v I. trimestru
-d) snižuje se průtok plazmy ledvinami
-56. Lehká glykosurie v těhotenství
-a) je vždy známkou diabetes mellitus
-b) glukóza je přítomna v moči u 50 % těhotných a nevyžaduje zvláštní opatření
-c) může být známkou diabetes mellitus, taková těhotná vyžaduje další sledování
-d) není v souvislosti s infekcemi močových cest
-57. Kapacita močového měchýře se v těhotenství
-a) snižuje
-b) nemění
-c) zvyšuje až na 1500 ml
-d) zvyšuje až na 3000 ml
-58. Objem cirkulující krve v těhotenství
-a) se snižuje
-b) se zvyšuje
-c) nemění se
-d) je ovlivněn hlavně zvýšeným počtem erytrocytů v mateřské krvi
-59. Základní příznaky, které mohou ukázat na těhotnou s hrozící preeklampsií, jsou
-a) elevace teploty, glukóza v moči, edémy
-b) elevace krevního tlaku, bílkovina v moči, edémy
-c) nižší krevní tlak, nižší koncentrace albuminu v plazmě, edémy
-d) elevace krevního tlaku, krev v moči, anémie
-60. U ženy po transplantaci ledviny
-a) je těhotenství kontraindikováno
-b) v případě, že otěhotní, musí bezpodmínečně vysadit všechna imunosupresiva chránící štěp
-c) během těhotenství ji častěji sledujeme, není vyloučen spontánní porod
-d) není nutný zvláštní přístup během těhotenství
-61. Sekrečně změněné endometrium je připravené к implantaci blastocysty od
-a) 19 dne cyklu
-b) 23 dne cyklu
-c) 25 dne cyklu
-d) 27 dne cyklu
-62. hCG dosahuje nejvyšších koncentrací v sérumatky
-a) v 6-8 týdnu těhotenství
-b) v 9-11 týdnu těhotenství
-c) ve 12-13 týdnu těhotenství
-d) ve II trimestru
-63. Zvýšenou koncentraci hCG nezjišťujeme
-a) u vícečetného těhotenství
-b) u molámího těhotenství
-c) u choriokarcinomu
-d) u abortus imminens
-64. Lidský placentámí laktogen (lidský choriový somatomamotropin) dosahuje nejvyšších koncentrací v séru matky
-a) v 9-11 týdnu těhotenství
-b) ve 20-22 týdnu těhotenství
-c) ve 30-32 týdnu těhotenství
-d) ve 36^40 týdnu těhotenství
-65. V těhotenství se prolaktin tvoří kromě hypofýzy matky také
-a) v ovariu
-b) v nadledvině
-c) v decidualizovaném endometriu
-d) v cytotrofoblastu
-66. Koncentrace a-fetoproteinu je v plazmě matky snížena při těchto onemocněních plodu
-a) defekt neurální trubice
-b) vrozená nefróza
-c) hypotrofie
-d) Downův syndrom
-67. Do 8 týdne »menstruačního« stáří plodu je progesteron tvořen převážně
-a) v corpus luteum
-b) v placentě
-c) v endometriu
-d) v nadledvinách
-68. Který z uvedených účinků v těhotenství nemá H progesteron
-a) inhibuje funkci T-lymfocytů
-b) tlumí účinky estrogenů a zajišťuje relaxaci myometria
-c) stimuluje produkci prostaglandinů
-d) inhibuje produkci prostaglandinů
-69. Který z uvedených hormonů je nezbytně nutný pro zahájení laktace
-a) estradiol
-b) progesteron
-c) oxytocin
-d) iprolaktin
-70. Ranní nevolnost a zvracení v těhotenství
-a) není možno léčit antiemetiky
-b) inikdy nevyžaduje hospitalizaci
-c) se objevuje typicky v I trimestru
-d) se přičítá častějším dietním chybám v těhotenství
-71. Který z uvedených hormonů vyvolává kontrakce В myoepitelových buněk, které obklopují alveolv, a podporuje tak vypuzování mléka z alveolů i a alveolárních duktů směrem к bradavce
-a) estradiol
-b) rorogesteron
-c) jxytocin
-d) prolaktin
-72. V době kojení se zvyšuje sekrece oxytocinu a v důsledku toho se
-a) lzvyšují kontrakce dělohy, které šestinedělka pociťuje
-b) zvyšuje minutový srdeční výdej
-c) [zvyšuje minutová plicní ventilace
-d) zvyšuje glomerulámí filtrace a tubulámí resorpce
-73. Kolostrumje secernováno do alveolů od II trimestru těhotenství, vlastní sekrece mléka  začíná
-a) ve 40 týdnu těhotenství
-b) ihned po porodu
-c) 1 den po porodu
-d) 2-3 den po porodu
-74. Jaké změny na děložním hrdle zjišťujeme častěji u těhotných ve srovnání s netěhotnými ženami
-a) atypickou glandulámí hyperplazii
-b) dysplazii
-c) metaplazii
-d) neoplazii
-75. V 5 měsíci fyziologického těhotenství hmatáme děložní fundus
-a) úrovni symfýzy
-b) v polovině vzdálenosti pupek - symfýza
-c) v úrovní pupku
-d) v polovině vzdálenosti pupek - procesus xiphoideus
-76. Nejdůležitější hemostatický mechanismus, který zabraňuje závažnému poporodnímu krvácení je
-a) zvýšení aktivity koagulačních faktorů
-b) vazokonstrikce terminálních částí uterinních cév
-c) retrakce a kontrakce dělohy
-d) inhibice fibrinolýzy
-77. Průměrná délka těhotenstvíje
-a) 260 dní
-b) 270 dní
-c) 280 dní
-d) 290 dní
-78. Hmotnost dělohy v době termínu porodu je okolo
-a) 500 g
-b) lOOOg
-c) 1500g
-d) 2000 g
-79. Intrauterinní objem dělohy v době termínu porodu je
-a) 1000ml
-b) 3000ml
-c) 5000ml
-d) 8000 ml
-80. Objem svaloviny dělohy se v průběhu těhotenství zvětšuje procesem, který nazýváme
-a) atypická hyperplazie
-b) anaplazie
-c) hypertofie a hyperplazie
-d) involuce
-81. Průměrná denní produkce progesteronu ve III trimestru je okolo
-a) 300 pg
-b) 300 ng
-c) 300 pg
-d) 300mg
-82. Pro těhotenství je charakteristická
-a) bederní lordóza
-b) hrudní kyfóza
-c) skolióza
-d) hrudní kyfóza a bederní lordóza
-83. Symptom zvýšené tvorby slin, který se může vyskytnout v těhotenství, nazýváme
-a) deglutice
-b) emesis
-c) ptyalismus
-d) pruritus
-84. V průběhu fyziologického těhotenství se zvyšuje
-a) koncentrace tyroxin-binding globulinu v plazmě
-b) koncentrace kreatininu v plazmě
-c) hematokrit
-d) motilita tenkého střeva
-85. Ke změnám trávicího ústrojí v průběhu fyziologického těhotenství patří
-a) komprese a vytlačení apendixu těhotnou dělohou směrem kaudálním
-b) zvýšení tonu a motility střev
-c) zrychlené vyprazdňování žaludku
-d) vysunutí žaludku směrem kraniálním
-86. Změny ve vylučovacím systému v průběhu fyziologického těhotenství způsobují
-a) zvýšení glomerulámí filtrace
-b) snížení průtoku plazmy ledvinami
-c) zvýšení koncentrace nebílkovinného dusíku a kreatininu v plazmě
-d) zvýšení tonu vývodných cest močových
-87. Při vylučovací urografii ve III trimestru fyziologického těhotenství můžeme zjistit
-a) oboustranné zmenšení ledvin v důsledku útlaku zvětšenou dělohou
-b) zúžení event, obstrukci pravého ureteru způsobené tlakem zvětšené dělohy v dextrotorzi
-c) zúžení obou ureterů způsobené zvýšeným tonem hladkého svalstva při zvýšených koncentracích estrogenů
-d) dilataci ureterů způsobenou zvýšenou sekrecí progesteronu a kompresí kaudální části vývodných cest močových zvětšenou dělohou
-88. Hlavní příčinou snížené koncentrace hemoglobinu v průběhu fyziologického těhotenstvíje
-a) snížení mobilizovatelných zásob železa
-b) transport železa matky do plodu a placenty
-c) zvýšení objemu plazmy
-d) zvýšená destrukce erytrocytů při hyperkinetické cirkulaci
-89. Pro metabolismus železa v těhotenstvíje charakteristické
-a) zvýšení zásob železa ve srovnání s netěhotnými ženami
-b) zvýšení absorpce železa z trávicího ústrojí
-c) snížení absorpce železa z trávicího ústrojí
-d) zvýšená spotřeba železa v první polovině těhotenství, větší než v druhé polovině
-90. Celkový objem krve se v těhotenství zvyšuje v důsledku
-a) zvětšení objemu plazmy
-b) zvětšení objemu erytrocytámí masy
-c) zvětšení objemu plazmy a erytrocytámí masy, kdy zvětšení objemu plazmy je významně vyšší než zvýšení erytrocytámí masy
-d) zvětšení objemu plazmy a erytrocytámí masy, kdy zvětšení objemu erytrocytámí masy je významně vyšší než zvětšení objemu plazmy
-91. Které prohlášení týkající se imunitního systému v těhotenstvíje správné
-a) humorální imunita proti spalničkám, herpes simplex a chřipce typu A se snižuje
-b) interferon a v tkáních matky se snižuje к neměřitelným hodnotám
-c) chemotaxe a adherence polymorfonukleámích leukocytů se zvyšuje od П. trimestru ve srovnání s netěhotnými ženami
-d) leukocytóza v těhotenství je laboratorní známkou zvýšené imunity matky
-92. Které prohlášení týkající se C-reaktivního proteinu v těhotenstvíje správné
-a) u většiny těhotných je mírně zvýšený, významné zvýšení zjišťujeme zejména v průběhu porodu
-b) jeho hodnoty se významně zvyšují v závislosti na délce gestace
-c) v těhotenství ztrácí svůj význam jako marker infekce
-d) dvojnásobné zvýšení jeho normální hodnoty je již spolehlivý ukazatel infekce v těhotenství
-93. V těhotenstvíje nejvíce estrogenů tvořeno
-a) v ovariích matky
-b) v nadledvinách matky
-c) v placentě
-d) u plodu
-94. Který z uvedených údajů týkající se respiračního systému v těhotenství je správný
-a) dechový objem se zvyšuje
-b) snižuje se minutová ventilace
-c) funkční reziduální kapacita je zvýšená
-d) celková kapacita plic je zvýšená
-95. Ve srovnání s netěhotnou těhotná žena hyperventiluje, což je kompenzováno
-a) zvýšením dechového objemu
-b) respirační alkalózou
-c) snížením koncentrace bikarbonátu v plazmě
-d) snížením pCO, v krvi
-96. V průběhu fyziologického těhotenství nenastává
-a) zvýšení minutového výdeje srdečního
-b) zvýšení celkového objemu krve
-c) zvýšení renální perfúze
-d) zvýšení funkčního reziduálního objemu plic
-97. V průběhu fyziologického těhotenství nastávají u matky tyto změny v metabolismu kalcia
-a) snižuje se koncentrace parathormonu v plazmě
-b) zvyšuje se koncentrace ionizovaného kalcia v plazmě
-c) snižuje se koncentrace celkového kalcia v plazmě
-d) snižuje se absorpce kalcia ze střeva
-98. Glomerulární filtrace se může v průběhu fyziologického těhotenství zvýšit až o
-a) 10%
-b) 25 %
-c) 50%
-d) 75 %
-99. Hodnoty angiotenzinu I а П jsou v těhotenství pětkrát vyšší než u netěhotných žen, přesto nenastává významné zvýšení krevního tlaku.  Příčinou tohoto jevu je
-a) I snížení koncentrace aldosteronu
-b) snížení koncentrace katecholaminů
-c) zvýšení aktivity leucin - aminopeptidázy
-d) snížení aktivity endotelinu-1
-100. Příčinou zvýšené sekrece inzulínu v těhotenství
-a) lprogesteron
-b) estriol
-c) růstový hormon
-d) lidský choriový somatomamotropin/placentámí laktogen
-101. Lidský choriový gonadotropin (hCG) se tvoří
-a) lve žlutém tělísku
-b) v syncytiotrofoblastu
-c) vhypofyzeplodu
-d) v játrech plodu
-  
+b) amniitidy
+c) hrozícího nitroděložního odumření
+d) infekce plodu
+114. Který z laboratorních testů v plodové vodě má nejvyšší výpovědní hodnotu při defektu neurální trubice
+a) alkalická fosfáza
+b) a-fetoprotein
+c) acetylcholinesteráza
+d) amyláza
+115. Pro zjištění, že jde o oligohydramnion, svědčí nejpřesněji
+a) vyšetření UZ
+b) hysterometrie
+c) měření objemu břicha
+d) palpace
+116. Celkové množství plodové vody se vymění na konci těhotenství během
+a) 36 hodin
+b) 1 dne
+c) 2 hodin
+d) 2 dnů
+117. Množství plodové vody je během těhotenství největší
+a) v 36 týdnu
+b) v 16 týdnu
+c) v 40 týdnu
+d) v 28 týdnu
+118. Koncentraci močového estriolu vyšetřujeme
+a) z ranní moči
+b) v moči za 24 hodin
+c) ze středního proudu moči
+d) ze vzorku čerstvé moči kdykoli během dne
+119. O polyhydramnion či hydramnion jde,je-li na konci těhotenství
+a) 750 ml plodové vody
+b) 900 ml plodové vody
+c) 1000 ml plodové vody
+d) 2000 ml plodové vody
+120. Reaktivní záznam při non-stress testuje,
+a) zvýší-li se TK matky
+b) reaguje-li děložní hrdlo dilatací
+c) zvýší-li se frekvence ozev při pohybech plodu
+d) dojde-li к děložním kontrakcím
+121. Oxytocinový zátěžový test slouží
+a) ke zjištění, jak reaguje srdeční frekvence plodu při kontrakcích dělohy
+b) к vyvolání ovulace
+c) к indukci porodu
+d) к vyvolání ejekce mléka
+122. Non-stress testje
+a) reakce ozev plodu po půlhodinovém klidu na lůžku
+b) reakce ozev plodu po aplikaci Diazepamu
+c) sledování změny frekvence ozev plodu v těhotenství v závislosti na pohybech plodu
+d) reakce ozev plodu po akustickém podnětu
+123. Montevidejské jednotky vyjadřují
+a) délku trvání porodu v cm porodní křivky
+b) kvantitu porodní činnosti
+c) nevztahují se к porodní činnosti
+d) intervaly mezi jednotlivými kontrakcemi
+124. Při tachysystolii tonus dělohy v intervalech mezi kontrakcemi nejčastěji
+a) pomalu klesá
+b) je nezměněný
+c) je snížený
+d) je zvýšený
+125. Při step testu sledujeme
+a) frekvenci děložních kontrakcí
+b) vitální kapacitu plic
+c) kardiovaskulární aparát ženy
+d) srdeční frekvenci plodu
+126. Step test ovlivňuje distribuci krve v mateřském organismu tak, že
+a) zvyšuje přítok krve od plodu к placentě
+b) nemění distribuci krve v mateřském organismu
+c) snižuje přítok krve к děloze redistribucí do kosterního svalstva
+d) způsobuje vykrvácení do splanchnické oblasti
+127. Kyslíkový test je pozitivní, pokud po přerušení inhalace kyslíku
+a) zůstanou ozvy plodu nezměněny
+b) dojde к bradykardii u plodu
+c) dojde к nástupu děložních kontrakcí
+d) dojde к tachykardii u plodu
+128. Pacientka si ve 32 týdnu těhotenství stěžuje, že méně cítí pohyby plodu, a je zjištěno, že plod je menší, než odpovídá délce těhotenství. Na jakou patologii myslíte
+a) na pupečníkovou komplikaci
+b) na sníženou koncentraci estriolu
+c) na intrauterinm růstovou retardaci (IUGR) a placentám! insuficienci
+d) na etnicky podmíněný menší plod
+129. Časná decelerace přichází při
+a) tlaku na hlavičku při jejím vstupu do pánve
+b) kompresi pupečníku
+c) výhřezu pupečníku
+d) je výrazem těžké hypoxie plodu
+130. U které z následujících situací nedochází к poklesu variability
+a) použití hypnotik a barbiturátů
+b) chronická hypoxie
+c) stimulace plodu palpací
+d) spánek plodu
+131. Modré zbarvení po přidání bromthymolové modři (Temessvaryho zkouška) к plodové vodě na vložce je způsobeno
+a) alkalickou reakcí plodové vody
+b) buněčnými elementy v ní obsaženými
+c) kyselou reakcí plodové vody
+d) bílkovinou obsaženou v plodové vodě
+132. Rozšíření krevního řečiště v těhotenství je kompenzováno expanzí krevního volumu a je způsobeno
+a) hemolýzou
+b) expanzí plazmy
+c) snížením počtu krevních elementů
+d) únikem krve do splanchnické oblasti
+133. Když se rozhodujeme pro indukci porodu při nitroděložním odumření plodu, vyšetřujeme vždy
+a) acidobazickou rovnováhu matky
+b) koncentraci kyseliny močové
+c) tenzi kyslíku
+d) koncentraci fibrinogenu
+134. Pro určení plicní zralosti plodu se určuje v plodové vodě
+a) množství minerálů
+b) poměr lecitinu a sfingomyelinu
+c) poměr albuminu a globulinu
+d) počet buněčných elementů
+135. Pánev všeobecně stejnoměrně zúžená má užší
+a) jen přímý průměr pánevního vchodu, šíře, úžiny i východu
+b) jen příčný průměr pánevního vchodu, úžiny a východu
+c) všechny průměry pánve
+d) jen přímý průměr pánevního vchodu, úžiny a šíře
+136. Pelvimetrem nelze měřit
+a) příčný průměr pánevního východu
+b) conjugata vera obstetrica
+c) diameter bispinalis
+d) conjugata diagonalis
+137. Conjugata diagonalis interna se měří
+a) vnitřním vyšetřením v centimetrech od dolního okraje spony к promontoriu
+b) hmatem za sponou
+c) pelvimetrem
+d) zavedením sondy do pochvy
+138. Pravděpodobnou známkou těhotenstvíje
+a) změna chuti к jídlu
+b) přibýváni na váze
+c) proměnlivost nálad
+d) vynechání menstruace
+139. Jistou známkou těhotenstvíje
+a) srdeční akce plodu
+b) zvětšení dělohy
+c) vynechání měsíčků
+d) prosáknutí a překrvení vulvy
+140. U těhotné, kde je podezření, že šlo o rubeolu, je možno potvrdit po kožní erupci diagnózu akutního onemocnění hemaglutinační reakcí za
+a) 3 dny
+b) týden
+c) později
+d) 3 týdny
+141. Nejčastější postižení plodu při akutním onemocněním těhotné rubeolou je
+a) spina bifida
+b) rozštěp břišní stěny
+c) slepota jako následek katarakty
+d) fokomelie
+142. Imunita ženy po prodělaném onemocnění rubeolou chrání plod
+a) celoživotně
+b) 1 rok
+c) 10 let
+d) 3 roky
+143. Pro laboratorní průkaz akutní primoinfekce rubeolou je rozhodující zjištění protilátek
+a) ve skupině IgM
+b) ve skupině IgG
+c) průkaz nelze stanovením protilátek provést
+d) jiných protilátek
+144. Toxoplazmóza je na člověka přenášena nejčastěji
+a) stykem s postiženou osobou
+b) kapénkovou infekcí
+c) transfúzí
+d) alimentární cestou
+145. К postižení plodu toxoplazmózou dochází pouze
+a) u chronického onemocnění ženy
+b) nedochází vůbec
+c) při primoinfekci v těhotenství
+d) u infekce proběhlé nejméně 2 roky před otěhotněním
+146. Sérologický průkaz protilátek na toxoplazmózu ve skupině IgG je u žen ve fertilním věku pozitivní
+a) ve 100%
+b) v 5%
+c) není možný
+d) až 30%
+147. Braxtonovy-Hicksovy kontrakce začínají obvykle od
+a) 28 týdne gravidity
+b) 12 týdne gravidity
+c) 20 týdne gravidity
+d) 36 týdne gravidity
+148. Nitroděložní tlak během Braxtonových-Hicksových kontrakcí po 20 týdnu gravidity je
+a) 5-10 mm Hg
+b) 10-20 mm Hg
+c) 20-30 mm Hg
+d) 30-40 mm Hg
+149. Při hrozícím potratu nebo předčasném porodu neprovedeme cerclage, když
+a) v anamnéze byl předčasný porod
+b) zjistíme ojedinělé děložní kontrakce
+c) nenalezneme u plodu srdeční akci
+d) cervikální skóre je větší než 4
+150. Stimulace bradavek na konci těhotenství
+a) způsobí relaxaci děložního svalu
+b) vyvolá děložní kontrakce jako následek vylučování oxytocinu v hypofýze
+c) nemůže vyvolat děložní kontrakce pro vysokou koncentraci prolaktinu
+d) nemá žádný vliv na děložní kontraktibilitu
+151. Stimulaci bradavek na konci těhotenství
+a) lze použít jako non-stress test
+b) lze použít jako stresový test
+c) není žádným testem
+d) je neodůvodněná
+152. Hypofibrinogenémie se po odumření plodu objeví nejčastěji
+a) za 4 až 5 týdnů
+b) za 6 hodin
+c) za týden
+d) za 24 hodin
+153. Tlak mezi porodnickou brankou a hlavou plodu v oblasti prostupujícího obvodu na vrcholu kontrakce je
+a) nižší než intraamniální tlak
+b) dosahuje až 200 mm Hg
+c) nejvýše dvojnásobný
+d) stejný jako tlak intraamniální
+154. Zažloutlé zbarvení plodové vody při amnioskopii svědčí pro obsah
+a) bilirubinu při Rh inkompatibilitě
+b) šmolky při zvýšené peristaltice plodu
+c) krve při abrupci placenty
+d) fosfolipidů při prodlouženém těhotenství
+155. Falešně pozitivní imunologický těhotenský test bývá následek
+a) zvýšené koncentrace luteinizačního hormonu
+b) špatného sběru moči
+c) zvýšené koncentrace prolaktinu
+d) zvýšené koncentrace estrogenů
+156. Cerclage »a chaude« (akutní) znamená, že provádíme operaci
+a) při zvýšené teplotě matky
+b) při odteklé plodové vodě
+c) při pokročilém nálezu na hrdle (prolapsu vaku blan) bez obvyklé přípravy
+d) při krvácení z děložního hrdla
+157. Nejprůkaznější záznam srdeční akce při kardiotokografii dostaneme
+a) zevním záznamem na podkladě EKG
+b) vnitřním záznamem na podkladě EKG
+c) zevním záznamem na podkladě fonokardiografie
+d) zevním záznamem na podkladě Dopplerova principu
+158. Při vnitřním monitorování umístěním sondy na hlavičku plodu je záznam získáván pomocí EKG plodu. V které fázi porodu lze tuto metodu užít
+a) při zachovaném vaku blan a brance 3 cm
+b) po odtoku plodové vody, brance prostupné alespoň pro prst
+c) od prvních děložních stahů
+d) v těhotenství
+159. Zevní měření děložních kontrakcí je možné na podkladě
+a) změn svalového napětí břišní stěny
+b) mechanického tlaku na sondu, který vzniká změnou tvaru břicha při děložní kontrakci
+c) na zvětšení lordózy u plodu při děložní kontrakci
+d) na podkladě pletyzmografie
+160. Normální CTG nesmí obsahovat
+a) akcelerace
+b) decelerace
+c) srdeční frekvenci > 110 úderů/min
+d) oscilace 10-25 úderů/min
+161. Akcelerace v CTG záznamu znamená
+a) > 15 úderů po více než 15 sekundách v závislosti na pohybu
+b) > 15 úderů v závislosti na kontrakci
+c) zvýšení srdeční frekvence ve II době porodní
+d) hodnotí se jen při začátku porodu
+162. Suspektní CTG záznam charakterizuje
+a) chybí akcelerace během 40minutového záznamu
+b) bazální frekvence 150-170/min
+c) sporadické decelerace
+d) všechny odpovědi jsou správné
+163. Nereaktivní záznam CTG nemusí znamenat ohrožení plodu
+a) při aplikaci neuroplegické analgezie
+b) při podání peridurální analgezii matce
+c) při fyziologickém spánku plodu
+d) ve П. době porodní
+164. Patologický CTG záznam neobsahuje
+a) decelerace
+b) akcelerace
+c) silentní záznam
+d) sinusoidní křivku
+165. Který CTG záznam je nejčastěji spojen s postnatálním handicapem novorozence
+a) pozdní decelerace
+b) variabilní decelerace
+c) tachykardie + decelerace
+d) sinusoida
+166. Bradykardii plodu trvající déle než 10 minut řešíme
+a) podáním O2 matce
+b) infúzí 10% glukózy matce
+c) polohováním matky
+d) podáním tokolýzy a ukončením porodu
+167. Kontinuální monitorování plodu je nutné
+a) při neklidu rodičky
+b) u rodičky v termínu porodu
+c) při bazální frekvenci nad 120/min
+d) při suspektním a patologickém vstupním CTG
+168. Patologický CTG záznam za porodu obsahuje
+a) časné decelerace
+b) pozdní decelerace
+c) zvýšení bazální frekvence o 10 úderů/min
+d) mělké variabilní decelerace < 60/min
+169. Jasnou známkou dobrého stavu plodu je
+a) akcelerace v závislosti na pohybech plodu
+b) bazální frekvence 110-150/min
+c) žádné decelerace
+d) žádná odpověď není správná
+170. Fetální pulsní oxymetrie se používá
+a) v těhotenství
+b) za porodu
+c) jen ve П době porodní
+d) jako vstupní vyšetření na začátku porodu
+171. Senzor fetální pulsní oxymetrie se nakládá na
+a) temenní část plodu
+b) krční krajinu plodu
+c) tvář plodu
+d) trup plodu
+172. Fetální pulsní oxymetrie prokazuje ohrožení plodu hypoxií, pokud saturace O2 poklesne pod
+a) 50% nebo méně
+b) 40% nebo méně
+c) 30% nebo méně
+d) žádná odpověď není správná
+173. Fetální pulsní oxymetrie se hodnotí společně
+a) s pH ze skalpu plodu
+b) s pohyby plodu
+c) v závislosti na kontrakci
+d) s CTG plodu
+174. Která z metod diagnostiky fetální hypoxie je nejméně spolehlivá
+a) CTG
+b) FpO,
+c) STAŇ
+d) stetoskop
+175. Která z placentárních patologií nejvíce (ne však nejčastěji) ohrožuje plod
+a) placenta praevia
+b) placenta marginalis
+c) placenta succenturiata
+d) vasa praevia
+176. Ruptura dělohy se klinicky projeví nejdříve
+a) vymizením děložních kontrakcí
+b) akutní hypoxií plodu
+c) subjektivní úlevou rodičky
+d) všechny tyto skutečnosti jsou přítomny
+177. Aktokardiografie
+a) znázorní akcelerace
+b) znázorní bazální frekvence plodu
+c) hodnotí CTG v závislosti na pohybech
+d) znázorní dýchací pohyby plodu
+178. Monitorovat dvojčata za porodu můžeme
+a) plod A skalpovou elektrodou, plod В UZ sondou
+b) oba plody zevní UZ sondou
+c) dvěma monitory
+d) všechny tyto možnosti lze použít
+179. Hypoxémie je
+a) snížená saturace O2 v centrálních orgánech plodu
+b) sražená saturace O2 v arteriální krvi
+c) snížená saturace O2 v žilní krvi
+d) žádná odpověď není správná
+180. Při hypoxémii plod
+a) redukuje pohybovou aktivitu
+b) redukuje dýchací pohyby
+c) zpomaluje růst
+d) všechny se uplatňují
+181. Hypoxie ploduje
+a) snížení saturace O, v periferních tkáních
+b) snížení saturace O2 jen v žilním systému
+c) snížení saturace O2 v ledvinách
+d) žádná odpověď není správná
+182. Při hypoxii plod
+a) vyplavuje stresové hormony (adrenalin, noradrenalin)
+b) zvyšuje koncentraci kyseliny uhličité
+c) zvyšuje bazální metabolismus
+d) zvyšuje pohybovou aktivitu
+183. Asfyxie plodu je
+a) snížená saturace O2 v centrálních orgánech plodu
+b) snížená saturace O2 v periferii plodu
+c) snížené prokrvení v končetinách
+d) žádná odpověď není správná
+184. Tachykardii plodu způsobuje
+a) nedostatek kyslíku v periferních orgánech plodu
+b) podráždění sympatiku
+c) podráždění parasympatiku
+d) zvýšení kyseliny mléčné v oběhu plodu
+185. Na změnách srdeční frekvence plodu se podílí
+a) změna placentámího průtoku
+b) zevní stimul
+c) zvýšená tělesná teplota matky
+d) všechny odpovědi jsou správné
+186. STAN analýza hodnotí
+a) QRS interval
+b) ST úsek EKG
+c) R-R interval
+d) vlnu P
+187. Hlavička vstouplá malým oddílem znamená,
+a) že malá fontanela je nad rovinou pánevního vchodu
+b) že malá fontanela je v rovině pánevního vchodu
+c) že malá fontanela je pod rovinou pánevního vchodu
+d) vedoucí bod v pánevní šíři
+188. Při hlavičce vstouplé v pánevní šíři palpujeme
+a) horní zadní okraj spony stydké
+b) celé vyhloubení kosti křížové
+c) jen horní třetinu zadní stěny spony stydké
+d) jen dolní třetinu zadní stěny spony stydké
+189. Při vakuumextrakci nemusí být podmínkou
+a) hlavička vstouplá velkým oddílem
+b) branka zašlá
+c) plod živý
+d) pánev prostorná
+190. Amniocentézu je vhodné provést
+a) na začátku II trimestru
+b) v 8 týdnu těhotenství
+c) transvaginálně
+d) na konci těhotenství
+191. Nejčastější komplikace po amniocentéze
+a) poranění střeva těhotné
+b) poranění děložních cév
+c) poranění močového měchýře těhotné
+d) potrat
+192. Biofyzikální profil neobsahuje
+a) dýchací pohyby
+b) pohyby končetin
+c) množství plodové vody
+d) CTG
+193. Nuchální translucence se měří u plodu
+a) v 16-17 týdnu gravidity
+b) v 11-13 týdnu gravidity
+c) ve 2 polovině gravidity
+d) před porodem
+194. Edwardsův syndrom znamená
+a) karyotyp plodu obsahuje trisomii 18 chromosomů
+b) karyotyp plodu je 45 chromosomů
+c) novorozenec má snížený intelekt
+d) novorozenec má mnohočetné malformace
+195. Tůmerův syndrom znamená
+a) karyotyp jedince je 47 chromosomů
+b) karyotyp jedince je 45,X0
+c) je přítomen mentální handicap
+d) žena je infertilní
+196. IUGR při placentám! insuficienci souvisí
+a) s asymetrickým vývojem plodu
+b) s chromosomální vadou
+c) s vyšší váhou plodu
+d) žádná odpověď není správná
+197. Funneling je
+a) rozšíření vnitřní branky děložního hrdla
+b) dilatace zevní branky děložního hrdla
+c) vyklenutí děložní stěny
+d) náplň děložní dutiny při hysteroskopií
+198. Incidence předčasného porodu je
+a) 5-6%
+b) 1%
+c) 10%
+d) > 10%
+199. Nejčastější příčinou předčasného porodu je
+a) špatná životospráva těhotné
+b) malá návštěvnost poradny
+c) infekce
+d) úraz
+200. Sexuálně přenosné patogeny jsou
+a) mykoplazmata
+b) ureaplazmata
+c) chlamydie
+d) všechny vyjmenované
+201. Chorioamnionitis je infekce
+a) chorioamniálního prostoru
+b) plodových obalů
+c) plodové vody
+d) všechny odpovědi jsou správné
+202. Které bakteriální agens se rutinně vyšetřuje u těhotných ve 36 týdnu gravidity
+a) stafylokoky
+b) skupina streptokoků В (GBS)
+c) Escherichia colli
+d) chlamydie
+203. Bakteriální vaginóza
+a) způsobuje u ženy svědivý fluor
+b) mění pH poševního sekretu
+c) nemá souvislost s předčasným porodem
+d) způsobuje horečky u ženy
+204. Mezi cytokiny nepatří
+a) IL-6
+b) TNF-a
+c) IL-8
+d) fetální fibronektin
+205. Cervix skóre nehodnotí
+a) tvar děložního hrdla
+b) dilataci hrdla
+c) konzistenci čípku
+d) zkrácení čípku
+206. Budínův hmat hodnotí
+a) tvar dělohy
+b) sklon krční rýhy
+c) umístění hřbetu a malých částí plodu v děložních hranách
+d) dolní děložní segment
+207. Conjugate diagonalis měří
+a) 11 cm
+b) 12cm
+c) 13cm
+d) 15 cm
+208. Při Fergussonově reflexu se vyplavuje
+a) prostaglandin
+b) oxytocin
+c) oxytocináza
+d) estriol
+209. Kíistnerův manévr používáme při
+a) porodu hlavičky
+b) extrakci koncem pánevním
+c) hodnocení odlučování placenty
+d) revizi dutiny děložní
+
 `;
 
   const answers = `
-  1c 2c 3a 4c 5d 6b 7c 8c 9d
-10d 11c 12b 13a 14a 15d 16d 17b 18c 19d
-20b 21d 22c 23d 24a 25c 26b 27a 28a 29b
-30d 31b 32b 33b 34d 35d 36b 37d 38c 39c
-40b 41a 42a 43d 44a 45b 46c 47c 48b 49a
-50b 51a 52a 53b 54a 55c 56c 57c 58b 59b
-60c 61b 62b 63d 64d 65c 66d 67a 68c 69d
-70c 71c 72a 73d 74c 75c 76c 77c 78b 79c
-80c 81d 82d 83c 84a 85d 86a 87d 88c 89b
-90c 91a 92a 93c 94a 95c 96d 97c 98c 99c
-100d 101b
+done
   `;
   const correctNewAnswers = answers.split(' ');
   //   console.log(correctNewAnswers);
@@ -652,9 +1184,7 @@ d) v játrech plodu
         question: `${questionNumber + question}`,
         answers: newAnswers,
         book: ['Živný'], // Пример значения для поля "book"
-        topic: [
-          '3. Fyziologie a endokrinologie těhotenství a laktace. I. ČÁST PREGRADUÁLNÍ',
-        ],
+        topic: ['4. Vyšetřovací metody v porodnictví. I. ČÁST PREGRADUÁLNÍ'],
         correctAnswers: myCorrectNewAnswers, // Массив с правильными ответами
       });
     }
