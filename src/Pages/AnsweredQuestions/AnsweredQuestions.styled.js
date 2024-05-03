@@ -7,8 +7,13 @@ export const TextPage = styled.h2`
   text-align: center;
 `;
 
-export const TextSpan = styled.h3`
+export const TextSpan = styled.p`
+  font-weight: 500;
+  margin-bottom: 15px;
   text-align: center;
+  @media screen and (max-width: 767px) {
+    font-size: 12px;
+  }
 `;
 
 export const TopicList = styled.div`

@@ -1,4 +1,5 @@
 import { Path, SvgIcons } from 'components/Footer/Footer.styled';
+import { useDispatch } from 'react-redux';
 import {
   SectionPic,
   MainDescr,
@@ -6,8 +7,13 @@ import {
   MainText,
   ContainerDesc,
 } from './MainPage.styled';
+import { CLEAR_STATE } from 'store/testsReducer';
 
 const MainPage = () => {
+  const dispatch = useDispatch();
+  const clearState = () => {
+    dispatch(CLEAR_STATE({}));
+  };
   return (
     <>
       <SectionPic>
@@ -18,7 +24,7 @@ const MainPage = () => {
           zdroj zcela zdarma.
         </p>
         <ContainerDesc>
-          <ContainerText to="page">
+          <ContainerText onClick={clearState} to="page">
             <MainDescr>Take a tests</MainDescr>
             <p>
               On this page you can take a test on the selected topic. Preview

@@ -16,6 +16,7 @@ import Modal from '../../components/Modal/Modal';
 import Timer from 'components/Timer/Timer';
 import { ADD_RIGHTQUESTIONS } from 'store/testsReducer';
 import { CLEAR_STATE } from 'store/testsReducer';
+import { Progressbar } from 'components/Progressbar/Progressbar';
 
 const Tests = () => {
   const [modalActive, setModalActive] = useState(false);
@@ -26,6 +27,13 @@ const Tests = () => {
   const [myCorrectAnswers, setMyCorrectAnswers] = useState([]); // Хранение правильных ответов
   const [addColor, setAddColor] = useState(false); // Состояние для подсветки правильных ответов
   const [time, setTime] = useState({ minutes: 0, seconds: 0 }); // состояние таймера
+  // const [persent, setPersent] = useState('0');
+
+  // const calculatePersent = () => {
+  //   return setPersent(
+  //     Math.round((correctCount / questions.length) * 100) + '%'
+  //   );
+  // };
 
   const dispatch = useDispatch();
   const questions = useSelector(state => state.tests.questions);
@@ -150,7 +158,7 @@ const Tests = () => {
           <Timer time={time} setTime={setTime} />
           <AnswerControl>
             <Button onClick={handleNextQuestion}>Next Question</Button>
-            <span style={{ width: '67px' }}>
+            <span style={{ width: '70px' }}>
               {count} из {questions.length}
             </span>
             <Button onClick={comparison}>Check</Button>
@@ -158,6 +166,11 @@ const Tests = () => {
         </AnswerBlock>
       ) : (
         <LinkContainer>
+          <Progressbar
+            correctCount={correctCount}
+            questions={questions.length}
+          />
+          {/* <h3>{persent}</h3> */}
           <h3>{`Correct answers - ${correctCount} из ${questions.length}`}</h3>
           <h3>{`Testing time ${time.minutes} : ${time.seconds}`}</h3>
           <LinkToPage to="/AnsweredQuestions">

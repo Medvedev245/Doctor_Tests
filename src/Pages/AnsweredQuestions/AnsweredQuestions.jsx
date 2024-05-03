@@ -21,7 +21,7 @@ const AnsweredQuestions = () => {
   const updatedQuestions = allQuestion.map(question => {
     const updatedAnswers = question.answers.map(answer => {
       if (question.correctAnswers.includes(answer)) {
-        return `${answer} (Правильно)`;
+        return `${answer} (Správně)`;
       } else {
         return answer;
       }
@@ -47,8 +47,9 @@ const AnsweredQuestions = () => {
         Correct answers <br /> {rightQuestion.length} out of{' '}
         {allQuestion.length}
       </TextPage>
-      <TextSpan>Зеленым отмечены Ваши правельные ответы</TextSpan>
-      <TextSpan>Правильный ответ в тесте помечен - (Правильно)</TextSpan>
+      <TextSpan>Vaše správné odpovědi jsou označeny zeleně</TextSpan>
+      {/* Správná odpověď v testu je označena - (Správně) */}
+      <TextSpan>Správná odpověď v testu je označena - (Správně)</TextSpan>
       <List>
         {updatedQuestions.map((question, index, arr) => (
           <Item

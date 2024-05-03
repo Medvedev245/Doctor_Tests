@@ -9,6 +9,8 @@ import {
 } from './Header.styled';
 import image from '../../Files/img/favicon-32x32.png';
 import { useState } from 'react';
+import { CLEAR_STATE } from 'store/testsReducer';
+import { useDispatch } from 'react-redux';
 import { BurgerComponent } from 'components/BurgerComponent/BurgerComponent';
 import { BlurBackground } from 'components/BlurBackground/BlurBackground';
 import { StyleSheetManager } from 'styled-components';
@@ -16,6 +18,7 @@ import { StyleSheetManager } from 'styled-components';
 export const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
 
+  const dispatch = useDispatch();
   // Проверяем, существует ли значение 'myCollection' в localStorage и извлекаем его
   const savedCollection = localStorage.getItem('myCollection');
   // Проверяем, существует ли значение 'myCollection' и не является ли оно null
@@ -29,6 +32,11 @@ export const Header = () => {
   const closeMenu = () => {
     setIsOpen(false);
     document.body.style.overflow = 'auto';
+  };
+
+  const clearState = () => {
+    closeMenu();
+    dispatch(CLEAR_STATE({}));
   };
 
   return (
@@ -45,7 +53,7 @@ export const Header = () => {
           <LinkElement to="/" onClick={closeMenu}>
             Main Page
           </LinkElement>
-          <LinkElement to="page" onClick={closeMenu}>
+          <LinkElement to="page" onClick={clearState}>
             Take a tests
           </LinkElement>
           <LinkElement to="AllTests" onClick={closeMenu}>
