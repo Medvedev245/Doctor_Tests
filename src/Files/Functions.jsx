@@ -86,585 +86,517 @@
 //   };
 const Functions = () => {
   const text = `
-  1. Obvod hlavičky plodu značíme zkratkou
-  a) HC
-  b) HL
-  c) HV
-  d) HK
-  2. Průměr hlavičky plodu značíme zkratkou
-  a) DCP
-  b) BPH
-  c) BPD
-  d) CPD
-  3. Obvod trupu plodu značíme zkratkou
-  a) AV
-  b) AM
-  c) AC
-  d) BL
-  4. Při rutinní biometrii neměříme obvykle tuto část plodu
-  a) obvod trupu
-  b) obvod hlavy
-  c) průměr hlavičky
-  d) délku tibie
-  5. Délku femuru značíme zkratkou
-  a) F1
-  c) Fc
-  d) Fv
-  e) FD
-  6. V kterém týdnu těhotenství lze ultrazvukem (UZ) zobrazit srdeční akci
-  a) 8 týdnu gestace
-  b) 7 týdnu gestace
-  c) 6 týdnu gestace
-  d) 10 týdnu gestace
-  7. Od kterého týdne gestace lze ultrazvukem  bezpečně zobrazit čtyřdutinový obraz srdeční
-  a) od 14 týdne gestace
-  b) od 18 týdne gestace
-  c) od 16 týdne gestace
-  d) od 7 týdne gestace
-  8. Temenokostrční vzdálenost se označuje zkratkou
-  a) CRL
-  b) CRP
-  c) CRV
-  d) CSV
-  9. V kterém časovém rozmezí se provádí první ultrazvukový screening
-  a) v 18-22 týdnu gestace
-  b) v 16-18 týdnu gestace
-  c) ve 22-24 týdnu gestace
-  d) ve 20-22 týdnu gestace
-  10. V kterém časovém rozmezí se provádí druhý ultrazvukový screening
-  a) ve 33-35 týdnu gestace
-  b) ve 32-34 týdnu gestace
-  c) ve 30-32 týdnu gestace
-  d) ve 26 týdnu gestace
-  11. V kterém časovém úseku nejčastěji diagnostikujeme symetrickou růstovou retardaci plodu
-  a) v I trimestru
-  b) ve II trimestru
-  c) ve III trimestru
-  d) kdykoli
-  12. V kterém časovém úseku nejčastěji diagnostikujeme asymetrickou růstovou retardaci plodu
-  a) ve III trimestru
-  b) ve II trimestru
-  c) v I trimestru
-  d) kdykoli
-  13. Která z příčin obvykle nevede к symetrické růstové retardaci
-  a) preeklampsie
-  b) chromosomální aberace
-  c) vrozené vývojové vady
-  d) exogenní noxy - alkohol, drogy
-  14. Která z příčin obvykle nevede к asymetrické růstové retardaci
-  a) preeklampsie
-  b) porucha funkce placenty
-  c) exogenní noxy - alkohol, drogy
-  d) renální/cévní onemocnění matky
-  15. Které cévy jsou v pupečníku
-  a) 2 žíly a 1 tepna
-  b) 1 žíla a 1 tepna
-  c) 1 žíla a 2 tepny
-  d) 2 žíly a 2 tepny
-  16. Při nálezu oligohydramnia nebo anhydramnia nepátráme po
-  a) předčasném odtoku plodové vody
-  b) nitroděložní růstové retardaci u plodu
-  c) normální anatomii ledvin a vývodných močových  cest u plodu
-  d) gestačním diabetů u matky
-  17. Mezi příčiny polyhydramnia jistě nepatří
-  a) atrézie GIT
-  b) gestační diabetes matky
-  c) srdeční vada plodu
-  d) ageneze ledvin
-  18. V kterém gestačním týdnu se provádí měření nuchální translucence (šíjového projasnění, NT)
-  a) ve 12-14 týdnu
-  b) ve 20 týdnu
-  c) v 6 týdnu
-  d) před porodem
-  19. Od kolika mm je nuchální translucence patologická
-  a) od 10mm
-  b) od 3 mm
-  c) od 1 mm
-  d) od 20mm
-  20. Kolik ml plodové vody se obvykle odebírá při amniocentéze
-  a) množství vody plodové v ml odpovídá délce gravidity
-  v týdnech - max 20 ml
-  b) 24 ml
-  c) 10 ml
-  d) 5 ml
-  21. Jaké je riziko spontánního potratu po amniocentéze
-  a) 10%
-  b) 20%
-  c) 0,5-1 %
-  d) není žádné riziko
-  22. Od kterého gestačního týdne se amniocentéza nejčastěji provádí
-  a) od 30 týdne
-  b) od 10 týdne
-  c) od 7 týdne
-  d) od 15 týdne
-  23. Co je cervikometrie
-  a) ultrazvukové měření délky děložního hrdla
-  b) ultrazvukové zobrazování tvaru vnitřní branky
-  c) zjišťování inkompetence hrdla děložního
-  d) vše je správné
-  24. Do kterého gestačního týdne je indikována cervikometrie
-  a) do 20 týdne
-  b) do 28 týdne
-  c) do porodu
-  d) do 32 týdne
-  25. Od kolika centimetrů je patologická tlouštka placenty (měřeno u úponu pupečníku)
-  a) od 8 cm
-  b) od 6 cm
-  c) od 12cm
-  d) od 15 cm
-  26. Hygroma colli cysticum bývá obvykle při
-  a) chromosomálních aberacích (trisomie 21, 13, 18)
-  b) imunologických defektech
-  c) chromosomální aberaci (45,X - Turnérův syndrom)
-  a) gestačním diabetů matky
-  27. Omfalokélu charakterizuje
-  a) přemístění orgánů před stěnu břišní
-  b) orgán nebo skupina orgánů před stěnou břišní jsou kryty kýlním vakem - amniem
-  c) v kýlním vaku je vzat i pupečník
-  d) všechny varianty jsou správné
-  28. Která z atrézií jícnu je nejčastější
-  a) izolovaná atrézie
-  b) atrézie jícnu s pištěli spojující jeho proximální část s tracheou
-  c) atrézie jícnu s pištěli spojující jeho distální část s tracheou
-  d) atrézie jícnu s dvojitou pištěli mezi tracheou a jícnem
-  29. Která z atréziíjícnu je nejvzácnější
-  a) izolovaná atrézie
-  b) atrézie jícnu s pištěli spojující jeho proximální část s tracheou
-  c) atrézie jícnu s pištěli spojující jeho distální část s tracheou
-  d) atrézie jícnu s dvojitou pištěli mezi tracheou a jícnem
-  30. Brániční hernie je charakterizována
-  a) vznikem v 8 týdnu těhotenství
-  b) dělením na pravostrannou a levostrannou
-  c) žaludek se nezobrazuje na stejné straně jako srdeční hrot
-  d) všechny varianty jsou správné
-  31. Mezi sonografické známky charakteristické pro chromosomální aberaci nepatří
-  a) ageneze nosní kosti u plodu
-  b) dilatace pánviček ledvinných u plodu
-  c) hyperechogenní střevo plodu
-  d) čtyřdutinový obraz srdce
-  32. Bilaterální ageneze ledvin
-  a) diagnostikuje se obtížně a pozdě (obvykle po 20 týdnu gravidity)
-  b) je pro plod infaustní
-  c) je charakterizována anhydramniem
-  d) všechny varianty jsou správné
-  33. Pro vrozenou vývojovou vadu spina bifida neplatí
-  a) nejčastěji bývá v oblasti lumbosakrální
-  b) nejlépe je diagnostikovatelná při prvním ultrazvukovém screeningu
-  c) u plodu lze zobrazit »lemon sign«
-  d) nelze ji diagnostikovat ultrazvukem, ale pouze biochemickým vyšetřením
-  34. Od kterého týdne lze u plodu prokázat jednotlivé části končetin
-  a) od 12 týdne
-  b) od 16 týdne
-  c) od 20 týdne
-  d) od 10 týdne
-  35. V kterém rozmezí se obvykle provádí biopsie choria (CVS)
-  a) ve 20 týdnu
-  b) ve 25 týdnu
-  c) mezi 11-12 týdnem
-  d) ve 30 týdnu
-  36. Je gastroschíza krytá
-  a) ano
-  b) někdy
-  c) ne
-  d) vždy
-  37. Jaký je sonografický obraz VVV mola hydatidosa
-  a) obraz sněhové bouře
-  b) obraz není typický
-  c) obraz anechogenní dutiny děložní
-  d) obraz hyperechogenní dutiny děložní
-  38. Který marker je zvýšen u VVV spina bifida ve vodě plodové
-  a) ALT
-  b) AST
-  c) žádný
-  d) AFP
-  39. Do kterého týdne lze pozorovat tzv. placentámí migraci v ultrazvukovém obrazu
-  a) do 32 týdne
-  b) do 15 týdne
-  c) do 25 týdne
-  d) nikdy к ní nedochází
-  40. Infarkty na placentě se zobrazujíjako
-  a) hyperechogenní ložiska
-  b) hypoechogenní ložiska
-  c) anechogenní ložiska
-  d) nedají se ultrazvukem zobrazit
-  41. Kolik je povinných ultrazvukových vyšetření u fyziologické gravidity
-  a) jedno vyšetření
-  b) při každé návštěvě v prenatální poradně
-  c) dvě vyšetření
-  d) vyšetření nejsou povinná
-  42. Cervikometrie se provádí nejčastěji
-  a) vaginální sondou
-  b) abdominální sondou
-  c) cervikometrem
-  d) nejedná se o UZ vyšetření
-  43. Mezi indikace к amniocentéze obvykle nepatří
-  a) věk matky nad 35 let
-  b) pozitivní triple test
-  c) UZ zjištění morfologických odchylek u plodu, tzv »soft markerů«
-  d) přání matky
-  44. Kordocentéza se provádí od
-  a) 30 týdne gestace
-  b) od 15 týdne gestace
-  c) lze ji provést pouze těsně před porodem
-  d) od 20 týdne
-  45. Riziko potratu po kordocentéze je
-  a) 0,5-1%
-  b) 20%
-  c) 10%
-  d) žádné
-  46. Při kordocentéze odebíráme obvykle fetální krve
-  a) 2-5 ml
-  b) 10ml
-  c) pod 1 ml
-  d) 15 ml
-  47. Amniocentéza se provádí
-  a) v analgosedaci
-  b) v lokální anestezii
-  c) bez anestezie
-  d) v celkové anestezii
-48. Co platí pro kordocentézu
-a) provádí se po 20 týdnu gravidity
-b) odebírá se krev z vena umbilicalis
-c) odebírá se asi 2-5 ml fetální krve
-d) všechny varianty jsou správné
-49. Který UZ parametr se při podezření na hypotrofizaci plodu nevyšetřuje
-a) biometrie
-b) průtoky v a umbilicalis
-c) množství plodové vody
-d) cervikometrie
-50. U defektu neurální trubice (NTD) riziko postižení
-a) stoupá s hodnotou sérového a-fetoproteinu (MS AFP)
-b) klesá s rostoucí hodnotou MS AFP
-c) klesá s rostoucí hodnotou hCG
-d) stoupá s hodnotou hCG
-51. Indikací к provedení amniocentézy je věk těhotné v době porodu
-a) nad 30 let
-b) nad 33 let
-c) nad 35 let
-d) pouze věk není indikací к provedení invazivní prenatální diagnostiky
-52. Zvýšení hodnoty nuchální translucence (NT) je mimo jiné také spojeno s rizikem
-a) spontánního potratu
-b) makrosomie plodu
-c) předčasného porodu
-d) defektu obličeje novorozence
-53. Koncentrace PAPP-A jsou v I trimestru u plodu s trisomií 21 nebo 18 chromosomů
-a) zvýšené
-b) snížené
-c) PAPP-A se měří pouze ve II trimestru
-d) není signifikantní rozdíl jeho koncentrace ve srovnám se zdravými plody
-54. Co nepatří mezi tzv »soft« (minor) markéry trisomie 21
-a) cysty choroidálního plexu
-b) pyelektazie
-c) hyperechogenní střevo
-d) zkrácený femur
-55. Mezi povinná sonografická vyšetření v porodnictví patří
-a) sonografický screening ve 20 a 38-40 týdnu gravidity
-b) sonografický screening v 18-20 týdnu gravidity
-c) sonografický screening v I trimestru, 18-20 a 30-32 týdnu gravidity
-d) sonografický screening v 20-22 a 30-32 týdnu gravidity
-56. V jakém týdnu gravidity provádíme první UZ screening
-a) v 10-12
-b) ve 14
-c) ve 20-22
-d) ve 30-32
-57. V jakém týdnu gravidity provádíme druhý UZ screening
-a) v 18-20
-b) ve 24-26
-c) ve 30-32
-d) ve 38-40
-58. Pseudogestační váček vzniká
-a) nahromaděním tekutiny mezi vrstvami deciduy při mimoděložním těhotenství
-b) při neprosperujícím nitroděložním těhotenství
-c) u syndromu mizejícího dvojčete
-d) ani jedna z uvedených odpovědí není správná
-59. Mezi nepřímé známky vitality gravidity nepatří
-a) normálně rostoucí a dobře tonizovaný plodový váček
-b) dobře tonizovaný a normálně velký žloutkový váček
-c) subtrofoblastický průtok
-d) normálně velký plod
-60. Kdy můžeme poprvé při ultrazvukovém vyšetření vaginální sondou vizualizovat srdeční akci plodu (jako pulsaci septum primům)
-a) ve 4 týdnu gravidity
-b) v 5-6 týdnu gravidity
-c) v 7-8 týdnu gravidity
-d) v 9-10 týdnu gravidity
-61. Hyperechogenní dvouvrstvý obal (DDS - double decidual sac) je charakteristický pro
-a) gestační váček
-b) pseudogestační váček
-c) žloutkový váček
-d) dvoučetnou graviditu
-62. V 9 týdnu gravidity provádíme biometrii měřením
-a) BPD
-b) GS
-c) HC
-d) CRL
-63. Anhydramnion vídáme při
-a) obstrukci GIT
-b) makrosomii plodu
-c) agenezi ledvin
-d) rozštěpu rtu i patra
-64. Polyhydramnion vídáme zejména při
-a) obstrukci GIT
-b) agenezi ledvin
-c) IUGR
-d) rozštěpu rtu i patra
-65. Funkční délka hrdla děložního při cervikometrii
-a) má měřit alespoň 15 mm
-b) ultrazvukově nelze změřit
-c) je synonymum pro celkovou délku čípku
-d) je měření nedilatované části cervikálního kanálu
-66. Normální nález při cervikometrii je
-a) délka hrdla 20-25 mm
-b) délka hrdla nad 30 mm
-c) šířka hrdla nad 30mm
-d) dilatace vnitřní branky více než 10mm
-67. Jaké množství vody plodové ve Ш trimestru hodnotíme jako oligohydramnion
-a) < 100ml
-b) < 300ml
-c) 300-1000 ml
-d) >1000ml
-68. Jaké množství vody plodové ve III trimestru hodnotíme jako normohydramnion
-a) 300-1000 ml
-b) < 300 ml
-c) 1000-2000 ml
-d) > 2000 ml
-69. Při hodnocení množství vody plodové metodou
-měření největšího depa je oligohydramnion při
-a) vertikálním rozměru největšího depa < 10mm
-b) vertikálním rozměru největšího depa < 30mm
-c) vertikálním rozměru největšího depa 30-100mm
-d) vertikálním rozměru největšího depa > 100mm
-70. Při hodnocení množství vody plodové metodou měření největšího depa je polyhydramnion při
-a) vertikálním rozměru největšího depa < 30mm
-b) vertikálním rozměru největšího depa 30-100mm
-c) vertikálním rozměru největšího depa > 100 mm
-d) touto metodou nelze polyhydramnion určit
-71. Co to je NT
-a) měření délky nosní kosti plodu
-b) měření délky stehenní kosti plodu
-c) měření šíjového projasnění plodu v I trimestru
-d) ani jedna odpověď není správná
-72. Monozygotická dvojčata jsou nejčastěji
-a) bichoriální, biamniální
-b) monochoriální, biamniální
-c) monochoriální monoamniální
-d) bichoriální, monoamniální
-73. Kdy je nejlepší doba pro ultrazvukové vyšetření s cílem stanovení typu chorionicity a amnionicity u dvojčat
-a) v I trimestru
-b) při prvním UZ screeningu v 18-20 týdnu gravidity
-c) při druhém UZ screeningu ve 30-32 týdnu gravidity
-d) nejlépe těsně před porodem
-74. Při ultrazvukovém vyšetření v I trimestru gravidity dáváme přednost vyšetření
-a) transabdominální sondou
-b) vysokofrekvenční vaginální sondou
-c) je jedno, zda vyšetřujeme abdominální či vaginální sondou, jelikož obě vyšetření mají stejnou rozlišovací schopnost
-d) raději se vyhýbáme vyšetření vaginální sondou pro  nebezpečí krvácení
-75. U bichoriálních biamniálních dvojčat jsou odděleny obě amniové dutiny membránou skládající se
-a) ze dvou vrstev choria a jedné vrstvy amnia
-b) pouze ze dvou vrstev amnia
-c) z jedné vrstvy choria a jedné vrstvy amnia
-d) ze dvou vrstev choria a dvou vrstev amnia
-76. Znak »lambda«
-a) slouží ke stanovení chorionicity u dvojčat
-b) absence tohoto znaku není charakteristická pro monochoriální dvojčata
-c) absence tohoto znaku je charakteristická pro bichoriální dvojčata
-d) bývá patrný na hlavičce při hydrocefalu plodu
-77. Fyziologická omfalokéla se ztrácí do
-a) 12-13 týdne gravidity
-b) 20 týdne gravidity
-c) 30 týdne gravidity
-d) 8 týdne gravidity
-78. Hygroma colli cysticum může být nejdříve diagnostikována
-a) v I trimestru
-b) ve П trimestru
-c) ve III trimestru
-d) většinou se nedaří ultrazvukově diagnostikovat
-79. Hydrops plodu může být součástí některých patologických jevů, jako jsou
-a) Rh inkompatibilita
-b) jiné příčiny anémie plodu
-c) některé srdeční vady plodu
-d) všechny odpovědi jsou správné
-80. Co je příčinou ultrazvukového obrazu double bubble
-a) atrézie jícnu
-b) pylorostenóza
-c) ageneze žaludku
-d) diafragmatická hemie
-81. Strawberry haed můžeme vidět u
-a) trisomie 21 chromosomu
-b) trisomie 13 chromosomu
-c) Turnérova syndromu
-d) trisomie 18 chromosomu
-82. Pro horní hranici dolního děložního segmentu při UZ klasifikaci uložení placenty se využívá zobrazení
-a) symfýzy
-b) vnitřní branky
-c) vezikouterinní pliky při mírné náplni močového měchýře
-d) spina iliaca anterior superior
-83. Co nepatří mezi rizikové faktory pro Downův syndrom
-a) věk ženy nad 35 let
-b) pozitivní screening PAPP-A a free B-hCG
-c) větší AC
-d) přítomnost nuchálního edému
-84. Od jakého týdne gravidity je uložení placenty definitivní, pokud jde o vztah к dolnímu děložnímu segmentu
-a) od 12 týdne
-b) od 20 týdne
-c) od 32 týdne
-d) od 37 týdne
-85. Placenta praevia I stupně je při UZ klasifikaci definována, pokud
-a) překračuje honu hranici dolního děložního segmentu nejvýše o 50mm
-b) zasahuje 20 mm nad йроп pliky vezikouterinní
-c) překračuje horní hranici dolního děložního segmentu o více než 50mm
-d) odpovídá klinické diagnóze placenta praevia centralis
-86. Jaká je prevalence Downova syndromu v populaci
-a) 1 : 1000
-b) 1 : 5000
-c) 1 : 10 000
-d) 1 : 350
-87. Za hranici významného zvýšení koncentrace sérového a-fetoproteinu při biochemickém screeningu u jednočetného těhotenstvíje považováno
-a) l,5násobku mediánu (MoM)
-b) 2,5násobku mediánu
-c) 3,5násobku mediánu
-d) 4,5násobku mediánu
-88. Biometrický parametr, který lze využít к určení délky těhotenství v I trimestru je měření
-a) délky femuru (FL)
-b) obvodu hlavičky (HC)
-c) šíjového projasnění (NT)
-d) temeno-kostrční vzdálenosti (CRL)
-89. Nuchální translucence měřená v I trimestru je
-a) patrná pouze u plodů s chromosomální aberací
-b) hypoechogenní oblast lokalizovaná mezi kůží a měkkými tkáněmi plodu v oblasti krční páteře
-c) hypoechogenní oblast lokalizovaná mezi kůží plodu v oblasti krční páteře a amniem
-d) u zdravých plodů vždy více než 3 mm
-90. Co znamená termín fetální echokardiografíe
-a) zjišťování srdeční frekvence plodu
-b) je to metoda snímání ozev plodu při kardiotokografu
-c) UZ vyšetření srdce plodu specialistou
-d) vyšetření srdce novorozence
-91. Co je to zobrazení v šedé škále
-a) zhoršení obrazu šumem
-b) různě silnému echu odpovídá stupeň šedé barvy
-c) výskyt šedých artefaktů v UZ obrazu
-d) šedý obraz u starého monitoru
-92. Akci srdeční embrya detekujeme bezpečně
-a) v 6 menstruačním týdnu těhotenství
-b) ve 12 menstruačním týdnu těhotenství
-c) v 8 menstruačním týdnu těhotenství
-d) v 10 menstruačním týdnu těhotenství
-93. Ultrazvukové vlnění se vytváří pomocí
-a) cívky
-b) speciálního reproduktoru
-c) piezoelektrických krystalů
-d) integrovaného obvodu
-94. Dopplerův jev znamená
-a) pravidelně se opakující zatmění měsíce
-b) popis slapových sil
-c) posun frekvence zvuku při odrazu od pohyblivé překážky
-d) odraz ultrazvukového vlnění od překážky
-95. Používané frekvence ultrazvukových sond v porodnictví
-a) 200-350 kHz
-b) 2,5-8 MHz
-c) 250-800 kHz
-d) 2,5-5 kHz
-96. Hmotnostní odhad plodu v poloze koncem pánevním
-a) provádíme stejně jako u plodu v poloze podélné hlavičkou
-b) neprovádíme
-c) není vzhledem к poloze plodu možný
-d) je sice nejméně přesnou metodou odhadu, ale přesto jej provádíme
-97. Biometrie plodu se využívá též
-a) к měření průtoku v arteria umbilicalis
-b) ke stanovení hmotnostního odhadu plodu
-c) ke zhodnocení množství vody plodové
-d) к změření bazální frekvence srdce plodu
-98. Ke stanovenístáří těhotenství před 12 týdnem gestace používáme
-a) délku femuru (FL)
-b) měření srdeční frekvence
-c) měření temeno-kostrční délky (CRL)
-d) zhodnocení morfologie vývoje mozkových struktur
-99. Hmotnost plodu běžně odhadujeme
-a) výpočtem z UZ měření BPD, KP a FL
-b) odhadem podle CRL
-c) nejpřesnější je odhad podle měření vzdálenosti spona -fundus děložní
-d) výpočtem z UZ měření BPD, AC a FL
-100. Při screeningovém vyšetření ve 20-22 týdnu standardně neprovádíme
-a) zhodnocení morfologie srdce
-b) zjištění počtu plodů
-c) karyotypizaci
-d) zhodnocení morfologie končetin
-101. V rámci ultrazvukového screeningu ve 20-22 týdnu těhotenství běžně neprovádíme
-a) biometrii plodu
-b) zhodnocení množství plodové vody
-c) flowmetrii - měření průtoků v arteria umbilicalis
-d) zhodnocení uložení placenty
-102. Co není běžnou součástí prvního screeningového ultrazvukového vyšetření
-a) kontrola kontinuity horního rtu plodu
-b) zhodnocení morfologie srdce plodu
-c) kontrola morfologie a počtu prstů končetin plodu
-d) stanovení pohlaví plodu
-103. Co platí pro ultrazvukové screeningové vyšetření ve 30-32 týdnu těhotenství
-a) biometrii již neprovádíme
-b) zhodnocení srdeční anatomie již není možné
-c) ověřujeme mimo jiné i polohu plodu a množství plodové vody
-d) mozek plodu ještě není plně vyvinut
-104. Co běžně neprovádíme při vyšetření ve 20-22 týdnu těhotenství
-a) hodnocení šíře postranních mozkových komor plodu
-b) zhodnocení srdeční anatomie plodu
-c) ověření počtu plodů
-d) měření délky plosky nohy plodu
-105. Měření délky děložního hrdla je
-a) standardní a povinnou součástí ultrazvukového screeningového vyšetření
-b) měření délky děložního hrdla a zhodnocení tvaru vnitřní branky v těhotenství
-c) měření obvodu krčku plodu
-d) součástí onkologického screeningu
-106. Jaká je poloha a uložení plodu při ultrazvukovém vyšetření ve 20-22 týdnu
-a) již téměř stabilní, u 95 % plodů zjištěná poloha plodu přetrvá až do porodu
-b) u naprosté většiny plodů je poloha koncem pánevním
-c) poloha plodu je volná
-d) ještě není zjistitelná
-107. Ultrazvukový screening u nás provádíme standardně
-a) ve 20-22 týdnu a ve 30-32 týdnu těhotenství
-b) v 11 -13 týdnu a 22-24 týdnu těhotenství
-c) jen u rizikových těhotných
-d) screeningový program není plošně zaveden
-108. Které z následujících měřeníje nejpřesnější pro určení gestačního stáří podle ultrazvuku
-a) transvaginální měření gestačního váčku v 5 týdnu těhotenství
-b) měření FL (femuru) ve 20 týdnu těhotenství
-c) měření CRL (crown-rump length) v 7 týdnu
-d) měření BPD (bipatrietálního průměru) ve 24 týdnu těhotenství
-109. Která z následujících metod je nejpřesnější pro stanovení gestačního stáří resp termínu porodu
-a) měření vzdálenosti SF (symfýza -fundus)
-b) stanovení podle PM (poslední menstruace)
-c) ultrazvukové měření vzdálenosti CRL (crown-rump length) v I trimestru těhotenství
-d) ultrazvukové měření průměru gestačního váčku
-110. Co je zvláště důležité při ultrazvukovém vyšetření plodu v poloze koncem pánevním
-a) stanovení postavení plodu
-b) popis uložení ruček plodu
-c) přesný hmotnostní odhad plodu
-d) pohlaví plodu
-111. Stanovení chorionicity vícečetného těhotenství
-a) neprovádíme ultrazvukem
-b) je možné provést ultrazvukem, nejpřesněji v I trimestru
-c) je možné provést ultrazvukem, nejpřesněji ve П trimestru
-d) je možné až při porodu
-112. Indikací к provedení flowmetrie (měření průtoku v arteria umbilicalis) je
-a) podezření na růstovou retardaci plodu
-b) nadměrné množství plodové vody
-c) volná poloha plodu v 16 týdnu těhotenství
-d) nález zkalené plodové vody na UZ
+  1. Na porodné má nárok
+  a) každá matka
+  b) matka rodící maximálně druhé dítě
+  c) jen matka řádně navštěvující těhotenskou poradnu
+  d) matka z rodiny sociálně slabé
+  2. Porodné je
+  a) vydáváno automaticky s rodným listem
+  b) vydáno na základě žádosti na matričním úřadě
+  c) se uplatňuje na úřadu práce či referátu státní sociální podpory podle místa bydliště matky
+  d) se uplatňuje na místním úřadě příslušném bydlišti  jednoho z rodičů
+  3. Peněžitá pomoc v mateřství je
+  a) paušálně stanovena na 3635,- Kč
+  b) činí 69 % hrubého měsíčního příjmu
+  c) činí 69 % minimální mzdy
+  d) činí 69 % hrubého měsíčního příjmu, nejvýše však 12 500,-Kč
+  4. Peněžitá pomoc v mateřství se čerpá
+  a) po celé těhotenství
+  b) po celé těhotenství a šestinedělí
+  c) po dobu 28 týdnů, případně 37 týdnů u matek svobodných nežijících ve společné domácnosti s otcem dítěte
+  d) po dobu 40 týdnů a do věku 3 let dítěte u svobodných matek
+  5. Mateřská dovolená je jiný název pro
+  a) pracovní neschopnost v těhotenství
+  b) pracovní neschopnost při kojení
+  c) peněžitou pomoc v mateřství
+  d) dovolenou s dětmi
+  6. Rodičovský příspěvek
+  a) se vypočítává z průměrné mzdy matky
+  b) se vypočítává z celkového příjmu rodiny
+  c) činí trojnásobek životního minima
+  d) lze pobírat do 4 let dítěte
+  7. Předpokládaná hmotnost zdravého plodu ve 24 týdnu je přibližně
+  a) 350 g
+  b) 500-700g
+  c) 900 g
+  d) 1200g
+  8. Předpokládaná hmotnost plodu v 32 týdnu těhotenstvíje
+  a) 500 g
+  b) 500-700g
+  c) 1500-1900g
+  d) 2200g
+  9. Nerizikové těhotenství sledujeme do 36 týdne v pravidelných intervalech minimálně každé
+  a) 2 týdny
+  b) 3 týdny
+  c) 4 týdny
+  d) 5 týdnů
+  10. Nerizikové těhotenství sledujeme od 36 týdne těhotenství minimálně každé
+  a) 3 dny
+  b) 5 dní
+  c) 7 dní
+  d) lOdní
+  11. Nerizikové těhotenství sleduje praktický gynekolog nejdéle do
+  a) 36 týdne
+  b) 38 týdne
+  c) 40 týdne
+  d) až do porodu
+  12. Klinická a laboratorní vyšetření v těhotenství dělíme na
+  a) pravidelná a nepravidelná
+  b) řádná a mimořádná
+  c) povinná a nepovinná
+  d) důležitá a zbytečná
+  13. Mezi pravidelná vyšetření nepatří
+  a) zevní vyšetření těhotné, určení krevního tlaku a hmotnosti
+  b) chemická analýza moči
+  c) stanovení cervix skóre
+  d) zevní vyšetření těhotné a změření jejího pulsu
+  14. těhotenská průkazka by měla být vystavena do
+  a) porodu
+  b) 20 týdne
+  c) 16 týdne
+  d) 12 týdne
+  15. Detekce známek vitality plodu je povinná od
+  a) 12 týdne
+  b) 18 týdne
+  c) 24 týdne
+  d) 34 týdne
+  16. К nepravidelným vyšetřením v 16 týdnu nepatří
+  a) stanovení krevní skupiny a protilátek
+  b) vyšetření krevního obrazu
+  c) vyšetření protilátek proti rubeole
+  d) vyšetření protilátek proti syfilis
+  17. Kontrolní vyšetření erytrocytárních protilátek provádíme
+  a) ve 24 týdnu
+  b) ve 28 týdnu
+  c) ve 32 týdnu
+  d) ve 36 týdnu
+  18. Dvě vyšetření titru erytrocytárních protilátek jsou povinné u žen
+  a) s anamnézou krevní transfúze
+  b) s anamnézou porodu či potratu
+  c) s krevní skupinou 0 a Rh negativních
+  d) všech
+  19. Kardiotokografický non-stress test je povinnou součástí vyšetření od
+  a) 32 týdne
+  b) 34 týdne
+  c) 36 týdne
+  d) 38 týdne
+  20. Screening poruch glukózové tolerance neprovádíme zdravým ženám
+  a) mladším 20 let
+  b) mladším 25 let
+  c) mladším 30 let
+  d) mladším 35 let
+  21. Screening poruch glukózové tolerance provádíme
+  a) v 12-16. týdnu
+  b) v 20 - 24 týdnu
+  c) v 24-28 týdnu
+  d) v 28-32 týdnu
+  22. К určení stáří těhotenstvíje nejdůležitější
+  a) datum oplozující soulože
+  b) první ultrazvukové vyšetření
+  c) datum poslední menstruace
+  d) aktuální ultrazvukové vyšetření
+  23. V prodloužené graviditě je nutné pravidelné vyšetření
+  a) každý den
+  b) každý druhý den
+  c) dvakrát týdně
+  d) jednou týdně
+  24. Kardiotokografický non-stress test má trvat
+  a) 10 minut
+  b) 20 minut
+  c) 30 minut
+  d) 40 minut
+  25. Kradiotokografický test hodnotíme podle
+  a) WHO
+  b) profesora Srpa
+  c) UNICEF
+  d) CGPS
+  26. Primipara cítí pohyby plodu obvykle od
+  a) 12 týdne
+  b) 14 týdne
+  c) 16 týdne
+  d) 18 týdne
+  27. Normální délka trvání těhotenstvíje
+  a) 200 dnů
+  b) 250 dnů
+  c) 280 dnů
+  d) 300 dnů
+  28. Hmotnost dělohy se během těhotenství zvětší na
+  a) 200 g
+  b) 500g
+  c) 750 g
+  d) lOOOg
+  29. Kapacita děložní dutiny se zvětšuje u donošeného těhotenství
+  a) lOOkrát
+  b) 200krát
+  c) 500krát
+  d) lOOOkrát
+  30. Průtok krve dělohou se zvyšuje z 50ml/min na
+  a) 500-700 ml
+  b) 200-400 ml
+  c) 150-300 ml
+  d) 750-1000 ml
+  31. pH metrie má zjistit
+a) kyselost moči těhotné
+b) snížení pH jako známku vaginální infekce
+c) zvýšení pH jako známku vaginální infekce
+d) přesnou hodnotu pH poševního prostředí
+32. Těhotenská nauzea se vyskytuje nejčastěji
+a) mezi 4 a 10 týdnem
+b) mezi 6 a 14 týdnem
+c) mezi 10 a 20 týdnem
+d) mezi 30 a 40 týdnem
+33. Pálení žáhy je příznakem
+a) gestačního diabetů
+b) raného těhotenství
+c) běžným v II trimestru
+d) obvyklým v III trimestru
+34. Tvorba žaludeční šťávy a motilita žaludku se v těhotenství
+a) nemění
+b) snižují
+c) zvyšují
+d) v prvním trimestru zvyšují a v třetím snižují
+35. Motilita střev se v těhotenství
+a) nemění
+b) snižuje
+c) zvyšuje
+d) v prvním trimestru snižuje a v třetím zvyšuje
+36. Zácpa v těhotenstvíje způsobena
+a) progesteronem
+b) estrogenem
+c) oxytocinem
+d) prostaglandiny
+37. Zácpa v těhotenství není způsobena
+a) zvýšením progesteronu
+b) zvýšením reabsorpce sodíku a vody v tlustém střevě
+c) fyziologickými těhotenskými změnami
+d) zvětšením dělohy
+38. Pica syndrom je
+a) zvýšení chuti к jídlu u těhotných
+b) zvracení u těhotných
+c) chuť na neobvyklé látky u těhotných
+d) nechuť к masu u těhotných
+39. Asymptomatická bakteriurie je v těhotenství
+a) běžná a nepotřebuje léčbu
+b) výjimečná
+c) výjimečná a nepotřebuje léčbu
+d) častější a je vhodněji léčit
+40. Stáza moči v těhotenství je
+a) častější vlevo
+b) častější vpravo
+c) stejně častá oboustranně
+d) příznakem urolitiázy
+41. V těhotenství se průtok krve ledvinami
+a) snižuje z důvodu zvýšení prokrvení dělohy
+b) snižuje pro zachovám minerálů
+c) zvyšuje
+d) nemění
+42. Glomerulámí filtrace v těhotenství
+a) se nemění
+b) se snižuje
+c) se zvyšuje
+d) se snižuje až od 32 týdne
+43. V průběhu těhotenství stoupá tvorba
+a) prolaktinu, tyreotropního hormonu (TSH), adenokortikotropního hormonu (ACTH), hormonu stimulujícího melanocyty (MSH)
+b) gonadotropinů a prolaktinu
+c) ACTH a testosteronu
+d) MSH
+44. Štítná žláza se v těhotenství
+a) nemění
+b) zvětšuje 2krát
+c) zvětšuje 4krát
+d) zmenšuje
+45. Sekrece z prsů na počátku těhotenstvíje
+a) příznakem poruchy hypofýzy
+b) vyžaduje cytologické vyšetření
+c) je indikací к mamografii
+d) je nejistou známkou těhotenství
+46. Chloasma gravidarum jsou důsledkem
+a) zvýšení množství podkožního tuku
+b) zvýšení koncentrace progesteronu
+c) zvýšení koncentrace hormonu stimulujícího melanocyty (MSH)
+d) snížení koncentrace gonadotropinů
+47. Strie je jiné označení pro
+a) chloasma gravidarum
+b) pajizévky
+c) linea fusca
+d) flíčky
+48. Průměrné zvýšení tělesné hmotnosti v těhotenstvíje
+a) 6kg
+b) 9 kg
+c) 12kg
+d) 15kg
+49. Fyziologické umístění placenty není
+a) na přední stěně
+b) na zadní stěně
+c) ve fundu
+d) v dolním děložní segmentu
+50. Fyziologický pupečník má
+a) 2 cévy
+b) 3 cévy
+c) 2 žíly
+d) 1 tepnu
+51. Průměrná tloušťka pupečníku je
+a) 1-2 cm
+b) 5-lOcm
+c) 25 cm
+d) 50 cm
+52. Průměrná délka pupečníku je
+a) 20cm
+b) 150 cm
+c) 70cm
+d) 50cm
+53. Pupečník je tvořen takto
+a) 1 žíla, 2 tepny, Whartonův rosol
+b) 2 žíly, 1 tepna, Whartonův rosol
+c) 1 žíla, 2 tepny, Warholův rosol
+d) 2 žíly, 1 tepna, Warholův rosol
+54. Humánní choriogonadotropin je
+a) steroidní hormon
+b) glykoprotein
+c) mukopolysacharid
+d) aminoglykan
+55. Nejvyšší koncentrace choriogonadotropinu je dosažena v
+a) 6 týdnu těhotenství
+b) 10 týdnu těhotenství
+c) 18 týdnu těhotenství
+d) 24 týdnu těhotenství
+56. Choriogonadotropin je tvořen
+a) trofoblastem
+b) nadledvinami plodu
+c) žlutým tělískem
+d) žloutkovým váčkem
+57. Placenta přebírá funkci žlutého tělíska
+a) v 6 týdnu
+b) v 9 týdnu
+c) v 12 týdnu
+d) v 16 týdnu
+58. Objem plodové vody dosahuje maxima kolem
+a) 20 týdne
+b) 30 týdne
+c) 38 týdne
+d) 41 týdne
+59. Výměna plodové vody je koncem těhotenství
+a) 20ml/24h
+b) 100ml/24h
+c) 250ml/24h
+d) 500ml/24h
+60. Poloha (situs) plodu je
+a) vztah podélné osy plodu к podélné ose dělohy
+b) určena uložením hřbetu plodu nebo vztahem hlavičky к lopatě kyčelní kosti
+c) vzájemný vztah částí plodu к sobě
+d) vztah hlavičky к pánevnímu vchodu
+61. Postavení (presentatio) ploduje
+a) vztah podélné osy plodu к podélné ose dělohy
+b) určeno uložením hřbetu plodu nebo vztahem hlavičky к lopatě kyčelní kosti
+c) vzájemný vztah částí plodu к sobě
+d) vztah hlavičky к pánevnímu vchodu
+62. Poloha koncem pánevním úplná znamená, že naléhají
+a) nožky plodu
+b) kolínka plodu
+c) hýždě plodu
+d) obě nožky a hýždě plodu
+63. Poloha podélná koncem pánevním je na konci těhotenství asi v
+a) 3%
+b) 13%
+c) 23%
+d) 33%
+64. Poloha podélná hlavičkou deflexní má na konci těhotenství četnost
+a) 0,5%
+b) 1,5%
+c) 2%
+d) 2,5%
+65. Nejčastější postavení plodu v podélné poloze je
+a) pravé přední
+b) levé zadní
+c) pravé zadní
+d) levé přední
+66. U polohy příčné je levé postavení charakterizováno
+a) zadečkem na levé lopatě kyčelní kosti
+b) hlavičkou na levé lopatě kyčelní kosti
+c) pravým raménkem na levé lopatě kyčelní kosti
+d) dorzoanteriomím postavením plodu
+67. Hlavička naléhá na střed pánevního vchodu při naléhám
+a) centrickém
+b) excentrickém
+c) předním asynklitismu
+d) zadním asynklitismu
+68. Hlavička naléhá na vchod pánevní větší plochou své přední pánevní parietální kosti při naléhám
+a) synklitickém
+b) asynklitickém podle Naegeleho
+c) asynklitickém podle Litzmana
+d) zadním asynklitismu
+69. Hlavička je vstouplá velkým oddílem, pokud
+a) krční rýha je 3 prsty nad sponou
+b) je hmatná celá zadní stěna stydké spony
+c) krční rýha je 4 prsty nad sponou
+d) krční rýha je 2 prsty nad sponou
+70. Hlavička není vstouplá velkým oddílem, pokud
+a) krční rýha je 2 prsty nad sponou
+b) horní třetina zadní stěny stydké spony není hmatná
+c) je hmatná celá zadní stěna stydké spony
+d) prošla biparietálním průměrem rovinou pánevního vchodu
+71. Při nadměrném váhovém přírůstku v těhotenství ordinujeme
+a) přísnou redukční dietu
+b) bezzbytkovou dietu
+c) vyšetření glukózové tolerance
+d) vyšetření clearance
+72. Doporučený denní přísun bílkovin ve stravě těhotné ženy je
+a) 0,5g/kg
+b) l,3g/kg
+c) 2,5g/kg
+d) 5g/kg
+73. Denní příjem železa v těhotenství by měl dosahovat
+a) 5 mg
+b) 30 mg
+c) 50 mg
+d) 80 mg
+74. Pohlavní styk u těhotné je
+a) možný v celé délce těhotenství
+b) možný jen v druhém trimestru těhotenství
+c) je příznakem poruchy sexuální orientace
+d) je přísně zakázán
+75. Masturbace u těhotné ženy
+a) je nejčastější příčinou předčasného porodu
+b) je důvodem pro psychiatrické vyšetření
+c) je doporučenou náhražkou partnerského sexu
+d) se neliší od masturbace mimo těhotenství
+76. Užívání multivitaminových preparátů
+a) je obchodní trik
+b) způsobuje makrosomii plodu
+c) může vhodně doplnit potřeby organismu
+d) je naprosto nevhodné před otěhotněním
+77. Podávání prostaglandinů ambulantně
+a) umožní těhotné porodit v příjemném prostředí domova
+b) sníží náklady na péči o přenášející rodičky
+c) je postupem non lege artis
+d) je nutné spojit se s kontrolním kardiotokografem za 1 hodinu po aplikaci
+78. Těhotná žena má spát
+a) 6 hodin denně
+b) 8 hodin denně
+c) 8 hodin v noci a 2 hodiny po obědě
+d) 10 hodin v noci a 2 hodiny po obědě
+79. Z hlediska vývoje a růstu plodu je nejhorší drogou
+a) marihuana
+b) kokain
+c) kofein
+d) nikotin
+80. Těhotná nesmí podle vyhlášky ministerstva zdravotnictví zvedat břemena těžší než
+a) 5 kg
+b) 10kg
+c) 15kg
+d) 20 kg
+81. Objem krve u těhotné se zvyšuje o
+a) 500ml
+b) 1-1,51
+c) 21
+d) 2,51
+82. Anémie vyžadující perorální podávání železa je charakterizována
+a) hodnotou hemoglobinu pod 80g/1
+b) hodnotou hemoglobinu pod 115 g/1
+c) hodnotou hemoglobinu pod 60 g/1
+d) hodnotou hemoglobinu pod 140 g/1
+83. Piskáčkovo znamení je
+a) vyklenutí rohu děložního ve 4-8 týdnu těhotenství
+b) změknutí dělohy v místě nidace
+c) změknutí istmu děložního
+d) možnost vytvořit příčnou řasu na přední stěně děložní
+84. Mezi známky časného těhotenství nepatří
+a) Dickinsonovo-Braunovo znamení
+b) Gaussovo znamení
+c) Hegarovo znamení
+d) Chvostkův příznak
+85. Friedmanova reakce byla prováděna na
+a) infantilních myškách
+b) králících
+c) samcích skokana
+d) morčatech
+86. V těhotenské cytologiije příznakem blížícího se porodu
+a) nárůst počtu navikulámích buněk
+b) převaha navikulámích buněk nad intermediálními
+c) převaha intermediálních buněk nad navikulámími
+d) Arias-Stella fenomén
+87. Nositelky mutace MTHFR jsou v těhotenství ohroženy zejména
+a) diseminovanou intravaskulámí koagulopatií
+b) předčasným porodem
+c) trombembolickou nemocí
+d) preeklampsií
+88. Amnioskopie je
+a) obsoletní metoda
+b) metoda zjišťující množství plodové vody
+c) metoda verifikující podezření na vrozenou vadu plodu
+d) metoda hodnocení plodové vody
+89. Při potermínové graviditě musí být
+a) vyšetření každý druhý den
+b) preventivní hospitalizace
+c) proveden biofyzikální profil
+d) tato ukončena do 42. ukončeného týdne
+90. Součástí pravidelných vyšetření v těhotenství není
+a) měření tlaku krve
+b) chemické vyšetření moči
+c) pH metrie
+d) stanovení cervix skóre
+91. Cervikální skóre nezahrnuje
+a) délku hrdla
+b) konzistenci hrdla
+c) prostupnost hrdla
+d) míru vyklenutí vaku blan
+92. Součástí laboratorních vyšetření v těhotenství není
+a) stanovení HIV
+b) stanovém BWR
+c) stanovení krevní skupiny matky
+d) stanovení krevní skupiny otce
+93. Měření zevních pánevních rozměrů je
+a) překonané vyšetření
+b) součástí vyšetření v I trimestru
+c) součástí vyšetření před porodem
+d) nahrazeno vnitřním vyšetřením
+94. Conjugate externa je
+a) vzdálenost mezi středem horního okraje spony stydké a trnem 5 bederního obratle
+b) vzdálenost mezi středem dolního okraje spony stydké a trnem 5 bederního obratle
+c) vzdálenost mezi středem dolního okraje spony stydké a tělem 5 bederního obratle
+d) vzdálenost mezi středem horního okraje spony stydké a tělem 5 bederního obratle
+96. První Pawlikův hmat hodnotí
+a) výšku děložního fundu
+b) největší objem hlavičky plodu
+c) výšku krční rýhy plodu
+d) držení malých částí plodu
+97. Conjugata externa má fyziologickou hodnotu
+a) 17cm
+b) 20 cm
+c) 25-26cm
+d) 31-32 cm
+98. Obligatorní vyšetřovací metodou při prodlouženém těhotenstvíje
+a) amnioskopie
+b) ultrazvuková biometrie
+c) ílowmetrie
+d) non-stress test
+99. Vyberte správné tvrzení
+a) Streptococcus agalactiae může způsobit novorozeneckou sepsi
+b) výskyt streptokoků skupiny В v porodních cestách může být spojen s výskytem vrozených vývojových vad plodu
+c) výskyt streptokoků skupiny В v porodních cestách není spojen s výskytem předčasného porodu
+d) screeningovou kultivaci z porodních cest se zaměřením na výskyt streptokoků skupiny В provádíme několikrát za těhotenství
+100. Vyberte chybné tvrzení
+a) výskyt streptokoků skupiny В v porodních cestách může být spojen s předčasným porodem
+b) výskyt streptokoků skupiny В v porodních cestách může být spojen s výskytem novorozenecké sepse
+c) výskyt streptokoků skupiny В v porodních cestách není spojen s předčasným porodem
+d) výskyt streptokoků skupiny В v moči může být spojen s předčasným porodem
+101. Mezi základní infekční choroby sledované screeningem v těhotenství patří
+a) syfilis
+b) černý kašel
+c) žlutá zimnice
+d) borrelióza
+102. Mezi základní infekční choroby sledované screeningem v těhotenství nepatří
+a) spalničky
+b) infekční žloutenka typu В
+c) syfilis
+d) AIDS
 
 
 `;
 
   const answers = `
-  1a 2c 3c 4d 5a 6c 7a 8a 9d
-10c 11b 12a 13a 14c 15c 16d 17d 18a 19b
-20a 21c 22d 23d 24d 25c 26c 27d 28c 29a
-30d 31d 32d 33d 34d 35c 36c 37a 38d 39a
-40a 41c 42a 43d 44d 45a 46a 47c 48d 49d
-50a 51c 52a 53b 54a 55d 56c 57c 58a 59c
-60b 61a 62d 63c 64a 65d 66b 67b 68a 69b
-70c 71c 72b 73a 74b 75d 76a 77a 78a 79d
-80b 81d 82c 83c 84c 85a 86a 87b 88d 89b
-90c 91b 92a 93c 94c 95b 96a 97b 98c 99d
-100c 101c 102d 103c 104d 105b 106c 107a 108c 109c
-110c 111b 112a
+done
   `;
   const correctNewAnswers = answers.split(' ');
   //   console.log(correctNewAnswers);
@@ -711,7 +643,9 @@ d) nález zkalené plodové vody na UZ
         question: `${questionNumber + question}`,
         answers: newAnswers,
         book: ['Živný'], // Пример значения для поля "book"
-        topic: ['5. Ultrasonografie v porodnictví. I. ČÁST pregraduální'],
+        topic: [
+          '6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN',
+        ],
         correctAnswers: myCorrectNewAnswers, // Массив с правильными ответами
       });
     }

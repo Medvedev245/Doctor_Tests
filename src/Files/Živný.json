@@ -49993,5 +49993,2597 @@
     "correctAnswers": ["a) podezření na růstovou retardaci plodu"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. V 7 týdnu gravidity provádíme biometrii měřením",
+    "answers": ["a) CRL", "b) BPD", "c) GS", "d) HC"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) CRL", "c) GS"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. První nepřímé známky gravidity při ultrazvukovém vyšetření jsou",
+    "answers": [
+      "a) vysoká děložní sliznice hyperechogenního charakteru",
+      "b) děložní sliznice s triple-line",
+      "c) rozšířené aa. arcuatae v myometriu",
+      "d) srdeční akce plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) vysoká děložní sliznice hyperechogenního charakteru",
+      "c) rozšířené aa. arcuatae v myometriu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Ultrazvukové vyšetření vaginální sondou je ve II a III trimestru preferováno při",
+    "answers": [
+      "a) přesnějším určení množství vody plodové",
+      "b) cervikometrii",
+      "c) vyšetření dolního děložního segmentu",
+      "d) vyšetření placenta praevia"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) cervikometrii",
+      "c) vyšetření dolního děložního segmentu",
+      "d) vyšetření placenta praevia"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Polyhydramnion může být přítomný při",
+    "answers": [
+      "a) diabetů (DM) matky",
+      "b) obstrukci GIT plodu",
+      "c) agenezi ledvin plodu",
+      "d) Rh inkompatibilitě"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) diabetů (DM) matky",
+      "b) obstrukci GIT plodu",
+      "d) Rh inkompatibilitě"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Monozygotická dvojčata mohou být",
+    "answers": [
+      "a) bichoriální, biamniální",
+      "b) monochoriální, biamniální",
+      "c) monochoriální, monoamniální",
+      "d) bichoriální, monoamniální"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) bichoriální, biamniální",
+      "b) monochoriální, biamniální",
+      "c) monochoriální, monoamniální"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Při agenezi ledvin plodu vidíme",
+    "answers": [
+      "a) oligohydramnion až anhydramnion",
+      "b) polyhydramnion",
+      "c) prázdný močový měchýř",
+      "d) hydrops plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) oligohydramnion až anhydramnion",
+      "c) prázdný močový měchýř"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Normální nález při cervikometrii je",
+    "answers": [
+      "a) délka děložního hrdla více než 30 mm",
+      "b) šířka hrdla méně než 30 mm",
+      "c) cervikální kanál jako tenký hypoechogenní proužek",
+      "d) šířka hrdla více než 30 mm"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) délka děložního hrdla více než 30 mm",
+      "b) šířka hrdla méně než 30 mm",
+      "c) cervikální kanál jako tenký hypoechogenní proužek"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Tloušťku placenty více než 50 mm můžeme vidět Při",
+    "answers": [
+      "a) těžké Rh inkompatibilitě",
+      "b) IUGR",
+      "c) je normální nález ve III. trimestru",
+      "d) diabetes mellitus"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) těžké Rh inkompatibilitě", "d) diabetes mellitus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Měření nuchální translucence má význam jako predikční marker pro",
+    "answers": [
+      "a) makrosomii plodu",
+      "b) řadu strukturálních abnormalit, zejména vrozených srdečních vad",
+      "c) fetální aneuploidie",
+      "d) ani jedna odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) řadu strukturálních abnormalit, zejména vrozených srdečních vad",
+      "c) fetální aneuploidie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. U trisomie 18 lze v I trimestru prokázat",
+    "answers": [
+      "a) vyšší hodnotu šíjového projasnění",
+      "b) nižší hodnotu PAPP-A",
+      "c) vyšší hodnotu sérového a-fetoproteinu",
+      "d) nižší hodnotu CRL"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) vyšší hodnotu šíjového projasnění",
+      "b) nižší hodnotu PAPP-A",
+      "d) nižší hodnotu CRL"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Které z těchto sonografických nálezů mohou být spojeny s chromosomální aberací",
+    "answers": [
+      "a) nepřítomnost žloutkového váčku",
+      "b) vícečetný výskyt žloutkového váčku",
+      "c) odchylka ve velikosti žloutkového váčku",
+      "d) neukončená amniochoriální disociace po I trimestru"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) nepřítomnost žloutkového váčku",
+      "b) vícečetný výskyt žloutkového váčku",
+      "c) odchylka ve velikosti žloutkového váčku",
+      "d) neukončená amniochoriální disociace po I trimestru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Co je to fokusace ultrazvukového vlnění",
+    "answers": [
+      "a) změna zesílení vysílače",
+      "b) zaostření obrazu v určité hloubce",
+      "c) výskyt artefaktů v UZ obrazu",
+      "d) změna citlivosti přijímače"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) zaostření obrazu v určité hloubce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Rychlost šíření ultrazvuku ve vodě je",
+    "answers": ["a) 250m/s", "b) 1480 m/s", "c) 1900 m/s", "d) 3500 m/s"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) 1480 m/s"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Které typy zobrazení využíváme v současnosti v ultrazvuku",
+    "answers": [
+      "a) A obraz",
+      "b) В obraz",
+      "c) 4D zobrazení",
+      "d) 3D zobrazení"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) В obraz", "c) 4D zobrazení", "d) 3D zobrazení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Co je to snímková frekvence UZ obrazu",
+    "answers": [
+      "a) počet obnovených snímků během jedné sekundy",
+      "b) počet fotek, které stihneme vyfotit za 1 minutu",
+      "c) počet UZ vyšetření za 1 hodinu",
+      "d) počet snímků uložených během hodiny na pevný disk ultrazvukového přístroje"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) počet obnovených snímků během jedné sekundy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Diagnostickou známkou pro určení chorionicity vícečetného těhotenství může být",
+    "answers": [
+      "a) změření BPD obou plodů",
+      "b) stanovení počtu placent a amniálních dutin",
+      "c) stanovení poloh plodů",
+      "d) nálezem přepážky dělící amniální dutiny"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) stanovení počtu placent a amniálních dutin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Charakteristickou známkou bichorionicity je",
+    "answers": [
+      "a) lemon sign",
+      "b) golf ball sign",
+      "c) lambda sign",
+      "d) banana sign"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) lambda sign"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Ve kterém týdnu gravidity je optimální měřit nuchální translucenci plodu (NT)",
+    "answers": [
+      "a) v 8-10 týdnu",
+      "b) ve 12-14 týdnu",
+      "c) v 18-20 týdnu",
+      "d) ve 30-32 týdnu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) ve 12-14 týdnu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Mezi markéry při screeningu vrozených vývojových vad v I trimestru gravidity patří",
+    "answers": [
+      "a) ultrazvuková nuchální translucence plodu (NT)",
+      "b) těhotenský plazmatický protein A (PAPP-A)",
+      "c) volná B-podjednotka hCG (free B-hCG)",
+      "d) všechny uvedené odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny uvedené odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Prenatální biochemický screening vrozených vývojových vad ve II trimestru gravidity je zejména zaměřen na zjištění rizika",
+    "answers": [
+      "a) defektů kožního krytí plodu",
+      "b) chromosomálních aberací plodu",
+      "c) porodnických komplikací ve III. trimestru",
+      "d) všechny uvedené odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) chromosomálních aberací plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Které z následujících výroků o měření HC (obvodu hlavičky) jsou pravdivé",
+    "answers": [
+      "a) je prováděno na úrovni cerebela",
+      "b) je většinou považováno za méně přesné než BPD (biparietální průměr)",
+      "c) je většinou považováno za přesnější než BPD",
+      "d) je prováděno na úrovni cavum septi pellucidum"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) je většinou považováno za přesnější než BPD",
+      "d) je prováděno na úrovni cavum septi pellucidum"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Co se posuzuje ve čtyřdutinové projekci srdeční",
+    "answers": [
+      "a) pozice srdce a velikosti komor",
+      "b) průchodnost ventrikuloarteriálmch chlopní",
+      "c) průchodnost atrioventrikulámích chlopní",
+      "d) relativní šířka odstupu aortálního kmene z levé komory"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) pozice srdce a velikosti komor",
+      "c) průchodnost atrioventrikulámích chlopní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Co není možno diagnostikovat ve čtyřdutinové projekci srdeční",
+    "answers": [
+      "a) transpozici velkých cév (TGA)",
+      "b) Ebsteinovu anomálii",
+      "c) hypoplastické levé srdce",
+      "d) patentní ductus arteriosus"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) transpozici velkých cév (TGA)",
+      "d) patentní ductus arteriosus"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Který ze srdečních oddílů se v čtyřdutinové projekci zobrazuje nejblíže к páteři",
+    "answers": [
+      "a) levá komora",
+      "b) pravá síň",
+      "c) pravá komora",
+      "d) levá síň"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) levá síň"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Ve čtyřdutinové projekci srdce plodu v 20-22 týdnu těhotenství platí",
+    "answers": [
+      "a) velikost levé a pravé srdeční komory je přibližně stejná",
+      "b) velikost pravé komory je zřetelně větší než komory levé",
+      "c) interventrikulámí septum je kontinuální (intaktní)",
+      "d) úpon trojcípé chlopně na interventrikulámí septum je asi ve dvou třetinách vzdálenosti mezi hrotem srdce a úponem chlopně dvojcípé"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) velikost levé a pravé srdeční komory je přibližně stejná",
+      "b) velikost pravé komory je zřetelně větší než komory levé",
+      "c) interventrikulámí septum je kontinuální (intaktní)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Křížení velkých cév můžeme hodnotit",
+    "answers": [
+      "a) ve čtyřdutinové projekci",
+      "b) v krátké srdeční ose",
+      "c) v dlouhé srdeční ose",
+      "d) v jakékoli projekci, ale nejdříve v 22 týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) v krátké srdeční ose", "c) v dlouhé srdeční ose"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Za ultrazvukový marker Downova syndromu považujeme",
+    "answers": [
+      "a) nepřítomnost nebo zkrácení nosní kosti plodu",
+      "b) patologický nález srdeční anatomie typu A-V kanál",
+      "c) patologický nález srdeční anatomie typu septum primům",
+      "d) sandal gap"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) nepřítomnost nebo zkrácení nosní kosti plodu",
+      "b) patologický nález srdeční anatomie typu A-V kanál",
+      "d) sandal gap"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Při nálezu lemon sign na hlavičce plodu máme podezření na",
+    "answers": [
+      "a) zvýšenou kyselost vnitřního prostředí plodu",
+      "b) rozštěp neurální trubice - NTD",
+      "c) defekt přední stěny břišní",
+      "d) meningomyelokélu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) rozštěp neurální trubice - NTD",
+      "d) meningomyelokélu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Která z následujících tvrzení o normální noze plodu v 19 týdnu těhotenstvíjsou pravdivá",
+    "answers": [
+      "a) ploska nohy je viditelná ve stejné rovině jako tibie",
+      "b) femurje o trochu delší než humerus",
+      "c) ještě není možno zhodnotit počet prstů",
+      "d) je již možné zobrazit fibulu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) femurje o trochu delší než humerus",
+      "d) je již možné zobrazit fibulu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Která z tvrzení o placentě jsou pravdivá",
+    "answers": [
+      "a) úpon pupečníku není možno zobrazit",
+      "b) tloušťka normální placenty je l,5-4cm",
+      "c) placenta může být uložena kdekoli v děloze",
+      "d) matemální žíly drénující krev z oblasti placenty jsou uloženy při placentámím okraji"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) tloušťka normální placenty je l,5-4cm",
+      "c) placenta může být uložena kdekoli v děloze"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Při přítomnosti pouze jedné umbilikální arterie (single umbilical artery) je vyšší riziko vývojových vad v systému",
+    "answers": [
+      "a) uropoetickém",
+      "b) centrálním nervovém",
+      "c) gastrointestinálním",
+      "d) kardiovaskulárním"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) uropoetickém",
+      "b) centrálním nervovém",
+      "d) kardiovaskulárním"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Hemiace střeva do úponu pupečníku u plodu vil týdnu těhotenstvíje nejspíše",
+    "answers": [
+      "a) gastroschíza",
+      "b) omfalokéla",
+      "c) fyziologická hemiace",
+      "d) peristaltika"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) fyziologická hemiace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Přítomnost bilaterálního notch v časné diastole a uterina je",
+    "answers": [
+      "a) normální nález v celém průběhu těhotenství",
+      "b) normální před 16 týdnem, ale abnormální po 20 týdnu",
+      "c) abnormální celé těhotenství",
+      "d) běžně přítomen po 20 týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) normální před 16 týdnem, ale abnormální po 20 týdnu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Ve kterém týdnu gravidity je optimální měřit nuchální translucenci plodu (NT)",
+    "answers": [
+      "a) v 8-10 týdnu",
+      "b) ve 12-14 týdnu",
+      "c) v 18-20 týdnu",
+      "d) ve 30-32 týdnu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) ve 12-14 týdnu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Co se posuzuje ve čtyřdutinové projekci srdeční",
+    "answers": [
+      "a) pozice srdce a velikosti komor",
+      "b) průchodnost ventrikuloarteriálmch chlopní",
+      "c) průchodnost atrioventrikulámích chlopní",
+      "d) relativní šířka odstupu aortálního kmene z levé komory"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) pozice srdce a velikosti komor",
+      "c) průchodnost atrioventrikulámích chlopní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Co není možno diagnostikovat ve čtyřdutinové projekci srdeční",
+    "answers": [
+      "a) transpozici velkých cév (TGA)",
+      "b) Ebsteinovu anomálii",
+      "c) hypoplastické levé srdce",
+      "d) patentní ductus arteriosus"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) transpozici velkých cév (TGA)",
+      "d) patentní ductus arteriosus"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Který ze srdečních oddílů se v čtyřdutinové projekci zobrazuje nejblíže к páteři",
+    "answers": [
+      "a) levá komora",
+      "b) pravá síň",
+      "c) pravá komora",
+      "d) levá síň"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) levá síň"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Ve čtyřdutinové projekci srdce plodu v 20-22 týdnu těhotenství platí",
+    "answers": [
+      "a) velikost levé a pravé srdeční komory je přibližně stejná",
+      "b) velikost pravé komory je zřetelně větší než komory levé",
+      "c) interventrikulámí septum je kontinuální (intaktní)",
+      "d) úpon trojcípé chlopně na interventrikulámí septum je asi ve dvou třetinách vzdálenosti mezi hrotem srdce a úponem chlopně dvojcípé"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) velikost levé a pravé srdeční komory je přibližně stejná",
+      "c) interventrikulámí septum je kontinuální (intaktní)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Křížení velkých cév můžeme hodnotit",
+    "answers": [
+      "a) ve čtyřdutinové projekci",
+      "b) v krátké srdeční ose",
+      "c) v dlouhé srdeční ose",
+      "d) v jakékoli projekci, ale nejdříve v 22 týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) v krátké srdeční ose", "c) v dlouhé srdeční ose"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Za ultrazvukový marker Downova syndromu považujeme",
+    "answers": [
+      "a) nepřítomnost nebo zkrácení nosní kosti plodu",
+      "b) patologický nález srdeční anatomie typu A-V kanál",
+      "c) patologický nález srdeční anatomie typu septum primům",
+      "d) sandal gap"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) nepřítomnost nebo zkrácení nosní kosti plodu",
+      "b) patologický nález srdeční anatomie typu A-V kanál",
+      "d) sandal gap"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Při nálezu lemon sign na hlavičce plodu máme podezření na",
+    "answers": [
+      "a) zvýšenou kyselost vnitřního prostředí plodu",
+      "b) rozštěp neurální trubice - NTD",
+      "c) defekt přední stěny břišní",
+      "d) meningomyelokélu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) rozštěp neurální trubice - NTD",
+      "d) meningomyelokélu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Která z následujících tvrzení o normální noze plodu v 19 týdnu těhotenstvíjsou pravdivá",
+    "answers": [
+      "a) ploska nohy je viditelná ve stejné rovině jako tibie",
+      "b) femurje o trochu delší než humerus",
+      "c) ještě není možno zhodnotit počet prstů",
+      "d) je již možné zobrazit fibulu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) femurje o trochu delší než humerus",
+      "d) je již možné zobrazit fibulu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Která z tvrzení o placentě jsou pravdivá",
+    "answers": [
+      "a) úpon pupečníku není možno zobrazit",
+      "b) tloušťka normální placenty je l,5-4cm",
+      "c) placenta může být uložena kdekoli v děloze",
+      "d) matemální žíly drénující krev z oblasti placenty jsou uloženy při placentámím okraji"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) tloušťka normální placenty je l,5-4cm",
+      "c) placenta může být uložena kdekoli v děloze"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Při přítomnosti pouze jedné umbilikální arterie (single umbilical artery) je vyšší riziko vývojových vad v systému",
+    "answers": [
+      "a) uropoetickém",
+      "b) centrálním nervovém",
+      "c) gastrointestinálním",
+      "d) kardiovaskulárním"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) uropoetickém",
+      "b) centrálním nervovém",
+      "d) kardiovaskulárním"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Hemiace střeva do úponu pupečníku u plodu vil týdnu těhotenstvíje nejspíše",
+    "answers": [
+      "a) gastroschíza",
+      "b) omfalokéla",
+      "c) fyziologická hemiace",
+      "d) peristaltika"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) fyziologická hemiace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Přítomnost bilaterálního notch v časné diastole a uterina je",
+    "answers": [
+      "a) normální nález v celém průběhu těhotenství",
+      "b) normální před 16 týdnem, ale abnormální",
+      "po 20 týdnu",
+      "c) abnormální celé těhotenství",
+      "d) běžně přítomen po 20 týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) normální před 16 týdnem, ale abnormální"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "34. Jaké výroky o fetálním dopplerovském vyšetření jsou pravdivé",
+    "answers": [
+      "a) u fyziologického plodu není nikdy přítomen pozitivní tok v enddiastole",
+      "b) nízký pulsatilní index (PI) v arteria umbilicalisje známkou intrauterinního stresu plodu",
+      "c) přítomnost pulsace v umbilikální véně je známkou dobrého stavu plodu",
+      "d) dýchací pohyby plodu ovlivňují křivku průtoku v umbilikální véně"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) dýchací pohyby plodu ovlivňují křivku průtoku v umbilikální véně"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Ultrazvukový nález u předčasného odloučení placenty může být",
+    "answers": [
+      "a) retroplacentámí hypoechogenní ložisko",
+      "b) ztluštění placenty",
+      "c) retroplacentámí ložisko různé echogenity",
+      "d) normální"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) retroplacentámí hypoechogenní ložisko",
+      "b) ztluštění placenty",
+      "c) retroplacentámí ložisko různé echogenity",
+      "d) normální"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Který z následujících nálezů často provází hypotrofizaci plodu",
+    "answers": [
+      "a) výrazně snížené HC/AC ratio",
+      "b) polyhydramnion",
+      "c) oligohydramnion",
+      "d) snížený diastolický tok v arteria umbilicalis"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) oligohydramnion",
+      "d) snížený diastolický tok v arteria umbilicalis"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Nález zvýšené rezistence v aretria umbilicalis je často provázen",
+    "answers": [
+      "a) symetrickou růstovou retardací plodu",
+      "b) asymetrickou růstovou retardací plodu",
+      "c) sníženou rezistencí v arteria cerebri media",
+      "d) zvýšenou rezistencí v arteria cerebri media"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) asymetrickou růstovou retardací plodu",
+      "c) sníženou rezistencí v arteria cerebri media"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Při anencefalii plodu",
+    "answers": [
+      "a) je vždy přítomen lemon sign",
+      "b) BPD není možno změřit",
+      "c) chybí obličejová část lebky",
+      "d) vývoj mozku plodu je až do porodu normální"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) BPD není možno změřit"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Pro ultrazvuk neplatí",
+    "answers": [
+      "a) je to zvuk s frekvencí vyšší než 30 000 kHz",
+      "b) vyšší frekvence neumožňují vyšší rozlišení",
+      "c) porodnické aplikace využívají frekvence 2-7,5 kHz",
+      "d) nižší frekvence umožňují zobrazení ve větší hloubce"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) vyšší frekvence neumožňují vyšší rozlišení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Určete, kdy se nejčastěji užívá dopplerovské zobrazení v porodnictví",
+    "answers": [
+      "a) dopplerovská ílowmetrie nahrazuje kardiotokografické vyšetření",
+      "b) nejčastěji se v porodnictví měří průtok arteria cerebri media",
+      "c) dopplerovskou flowmetrii provádíme jako screeening ve 32 týdnu gravidity",
+      "d) nejčastěji se měří průtok krve pupečníkem"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) nejčastěji se měří průtok krve pupečníkem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Dopplerovská ílowmetrie",
+    "answers": [
+      "a) pracuje s pulsatilním indexem (PI)",
+      "b) se obvykle provádí jen u plodů s podezřením na růstovou retardaci",
+      "c) záporný tok v enddiastole znamená uzel na pupečníku",
+      "d) při vyšetření arteria umbilicalis je záporný tok v enddiastole známkou ohrožení plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) pracuje s pulsatilním indexem (PI)",
+      "b) se obvykle provádí jen u plodů s podezřením na růstovou retardaci",
+      "d) při vyšetření arteria umbilicalis je záporný tok v enddiastole známkou ohrožení plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Vrozená vada detektovatelná ultrazvukem je",
+    "answers": [
+      "a) mikrocefalie",
+      "b) vrozená hluchota",
+      "c) hypospadie",
+      "d) metabolická vada"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) mikrocefalie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Diabetickou fetopatii v sonografickém obraze charakterizuje, že poměr velikosti hlavy a trupu",
+    "answers": [
+      "a) je zvýšen vzhledem к délce gravidity",
+      "b) je nesignifikantní",
+      "c) odpovídá délce gravidity",
+      "d) je snížen vzhledem к délce gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) je snížen vzhledem к délce gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Pro hydrocefalus ve 38 týdnu těhotenstvíje charakteristické, že poměr velikosti hlavy a trupu",
+    "answers": [
+      "a) odpovídá délce gravidity",
+      "b) je snížen vzhledem к délce gravidity",
+      "c) je zvýšen к délce gravidity",
+      "d) je nesignifikantní"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) je zvýšen к délce gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Pro plod s trisomií 21 a duodenální atréziíje charakteristické, že poměr velikosti hlavy a trupu",
+    "answers": [
+      "a) je nesignifikantní",
+      "b) je snížen vzhledem к délce gravidity",
+      "c) odpovídá délce gravidity",
+      "d) je zvýšen vzhledem к délce gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) je snížen vzhledem к délce gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Pro plod s diafragmatickou hemií v termínu porodu je charakteristické, že poměr velikosti hlavy a trupu",
+    "answers": [
+      "a) je snížen vzhledem к délce gravidity",
+      "b) odpovídá délce gravidity",
+      "c) je zvýšen vzhledem к délce gravidity",
+      "d) je nesignifikantní"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) je zvýšen vzhledem к délce gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Ultrazvukové vyšetření nevzbuzující podezření z Rh izoimunizace",
+    "answers": [
+      "a) ascites plodu",
+      "b) ztluštění placenty",
+      "c) prosáknutí měkkých tkání, které se projevuje jejich ztluštěním",
+      "d) ohnutí femuru plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) ohnutí femuru plodu"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Na porodné má nárok",
+    "answers": [
+      "a) každá matka",
+      "b) matka rodící maximálně druhé dítě",
+      "c) jen matka řádně navštěvující těhotenskou poradnu",
+      "d) matka z rodiny sociálně slabé"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) každá matka"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Porodné je",
+    "answers": [
+      "a) vydáváno automaticky s rodným listem",
+      "b) vydáno na základě žádosti na matričním úřadě",
+      "c) se uplatňuje na úřadu práce či referátu státní sociální podpory podle místa bydliště matky",
+      "d) se uplatňuje na místním úřadě příslušném bydlišti jednoho z rodičů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "c) se uplatňuje na úřadu práce či referátu státní sociální podpory podle místa bydliště matky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Peněžitá pomoc v mateřství je",
+    "answers": [
+      "a) paušálně stanovena na 3635,- Kč",
+      "b) činí 69 % hrubého měsíčního příjmu",
+      "c) činí 69 % minimální mzdy",
+      "d) činí 69 % hrubého měsíčního příjmu, nejvýše však 12 500,-Kč"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "d) činí 69 % hrubého měsíčního příjmu, nejvýše však 12 500,-Kč"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Peněžitá pomoc v mateřství se čerpá",
+    "answers": [
+      "a) po celé těhotenství",
+      "b) po celé těhotenství a šestinedělí",
+      "c) po dobu 28 týdnů, případně 37 týdnů u matek svobodných nežijících ve společné domácnosti s otcem dítěte",
+      "d) po dobu 40 týdnů a do věku 3 let dítěte u svobodných matek"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "c) po dobu 28 týdnů, případně 37 týdnů u matek svobodných nežijících ve společné domácnosti s otcem dítěte"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Mateřská dovolená je jiný název pro",
+    "answers": [
+      "a) pracovní neschopnost v těhotenství",
+      "b) pracovní neschopnost při kojení",
+      "c) peněžitou pomoc v mateřství",
+      "d) dovolenou s dětmi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) peněžitou pomoc v mateřství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Rodičovský příspěvek",
+    "answers": [
+      "a) se vypočítává z průměrné mzdy matky",
+      "b) se vypočítává z celkového příjmu rodiny",
+      "c) činí trojnásobek životního minima",
+      "d) lze pobírat do 4 let dítěte"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) lze pobírat do 4 let dítěte"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Předpokládaná hmotnost zdravého plodu ve 24 týdnu je přibližně",
+    "answers": ["a) 350 g", "b) 500-700g", "c) 900 g", "d) 1200g"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) 500-700g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Předpokládaná hmotnost plodu v 32 týdnu těhotenstvíje",
+    "answers": ["a) 500 g", "b) 500-700g", "c) 1500-1900g", "d) 2200g"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) 1500-1900g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Nerizikové těhotenství sledujeme do 36 týdne v pravidelných intervalech minimálně každé",
+    "answers": ["a) 2 týdny", "b) 3 týdny", "c) 4 týdny", "d) 5 týdnů"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) 4 týdny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Nerizikové těhotenství sledujeme od 36 týdne těhotenství minimálně každé",
+    "answers": ["a) 3 dny", "b) 5 dní", "c) 7 dní", "d) lOdní"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) 7 dní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Nerizikové těhotenství sleduje praktický gynekolog nejdéle do",
+    "answers": ["a) 36 týdne", "b) 38 týdne", "c) 40 týdne", "d) až do porodu"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) 40 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Klinická a laboratorní vyšetření v těhotenství dělíme na",
+    "answers": [
+      "a) pravidelná a nepravidelná",
+      "b) řádná a mimořádná",
+      "c) povinná a nepovinná",
+      "d) důležitá a zbytečná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) pravidelná a nepravidelná"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Mezi pravidelná vyšetření nepatří",
+    "answers": [
+      "a) zevní vyšetření těhotné, určení krevního tlaku a hmotnosti",
+      "b) chemická analýza moči",
+      "c) stanovení cervix skóre",
+      "d) zevní vyšetření těhotné a změření jejího pulsu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) zevní vyšetření těhotné a změření jejího pulsu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. těhotenská průkazka by měla být vystavena do",
+    "answers": ["a) porodu", "b) 20 týdne", "c) 16 týdne", "d) 12 týdne"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) 12 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Detekce známek vitality plodu je povinná od",
+    "answers": ["a) 12 týdne", "b) 18 týdne", "c) 24 týdne", "d) 34 týdne"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) 24 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. К nepravidelným vyšetřením v 16 týdnu nepatří",
+    "answers": [
+      "a) stanovení krevní skupiny a protilátek",
+      "b) vyšetření krevního obrazu",
+      "c) vyšetření protilátek proti rubeole",
+      "d) vyšetření protilátek proti syfilis"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) vyšetření protilátek proti rubeole"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Kontrolní vyšetření erytrocytárních protilátek provádíme",
+    "answers": [
+      "a) ve 24 týdnu",
+      "b) ve 28 týdnu",
+      "c) ve 32 týdnu",
+      "d) ve 36 týdnu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) ve 32 týdnu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Dvě vyšetření titru erytrocytárních protilátek jsou povinné u žen",
+    "answers": [
+      "a) s anamnézou krevní transfúze",
+      "b) s anamnézou porodu či potratu",
+      "c) s krevní skupinou 0 a Rh negativních",
+      "d) všech"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) s krevní skupinou 0 a Rh negativních"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Kardiotokografický non-stress test je povinnou součástí vyšetření od",
+    "answers": ["a) 32 týdne", "b) 34 týdne", "c) 36 týdne", "d) 38 týdne"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) 38 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Screening poruch glukózové tolerance neprovádíme zdravým ženám",
+    "answers": [
+      "a) mladším 20 let",
+      "b) mladším 25 let",
+      "c) mladším 30 let",
+      "d) mladším 35 let"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) mladším 25 let"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Screening poruch glukózové tolerance provádíme",
+    "answers": [
+      "a) v 12-16 týdnu",
+      "b) v 20 - 24 týdnu",
+      "c) v 24-28 týdnu",
+      "d) v 28-32 týdnu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) v 24-28 týdnu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. К určení stáří těhotenstvíje nejdůležitější",
+    "answers": [
+      "a) datum oplozující soulože",
+      "b) první ultrazvukové vyšetření",
+      "c) datum poslední menstruace",
+      "d) aktuální ultrazvukové vyšetření"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) první ultrazvukové vyšetření"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. V prodloužené graviditě je nutné pravidelné vyšetření",
+    "answers": [
+      "a) každý den",
+      "b) každý druhý den",
+      "c) dvakrát týdně",
+      "d) jednou týdně"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) dvakrát týdně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Kardiotokografický non-stress test má trvat",
+    "answers": ["a) 10 minut", "b) 20 minut", "c) 30 minut", "d) 40 minut"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) 20 minut"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Kradiotokografický test hodnotíme podle",
+    "answers": ["a) WHO", "b) profesora Srpa", "c) UNICEF", "d) CGPS"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) WHO"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Primipara cítí pohyby plodu obvykle od",
+    "answers": ["a) 12 týdne", "b) 14 týdne", "c) 16 týdne", "d) 18 týdne"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) 18 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Normální délka trvání těhotenstvíje",
+    "answers": ["a) 200 dnů", "b) 250 dnů", "c) 280 dnů", "d) 300 dnů"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) 280 dnů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Hmotnost dělohy se během těhotenství zvětší na",
+    "answers": ["a) 200 g", "b) 500g", "c) 750 g", "d) lOOOg"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) lOOOg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Kapacita děložní dutiny se zvětšuje u donošeného těhotenství",
+    "answers": ["a) lOOkrát", "b) 200krát", "c) 500krát", "d) lOOOkrát"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) 500krát"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Průtok krve dělohou se zvyšuje z 50ml/min na",
+    "answers": [
+      "a) 500-700 ml",
+      "b) 200-400 ml",
+      "c) 150-300 ml",
+      "d) 750-1000 ml"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) 500-700 ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. pH metrie má zjistit",
+    "answers": [
+      "a) kyselost moči těhotné",
+      "b) snížení pH jako známku vaginální infekce",
+      "c) zvýšení pH jako známku vaginální infekce",
+      "d) přesnou hodnotu pH poševního prostředí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) zvýšení pH jako známku vaginální infekce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Těhotenská nauzea se vyskytuje nejčastěji",
+    "answers": [
+      "a) mezi 4 a 10 týdnem",
+      "b) mezi 6 a 14 týdnem",
+      "c) mezi 10 a 20 týdnem",
+      "d) mezi 30 a 40 týdnem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) mezi 6 a 14 týdnem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Pálení žáhy je příznakem",
+    "answers": [
+      "a) gestačního diabetů",
+      "b) raného těhotenství",
+      "c) běžným v II trimestru",
+      "d) obvyklým v III trimestru"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) obvyklým v III trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Tvorba žaludeční šťávy a motilita žaludku se v těhotenství",
+    "answers": [
+      "a) nemění",
+      "b) snižují",
+      "c) zvyšují",
+      "d) v prvním trimestru zvyšují a v třetím snižují"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) snižují"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Motilita střev se v těhotenství",
+    "answers": [
+      "a) nemění",
+      "b) snižuje",
+      "c) zvyšuje",
+      "d) v prvním trimestru snižuje a v třetím zvyšuje"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) snižuje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Zácpa v těhotenstvíje způsobena",
+    "answers": [
+      "a) progesteronem",
+      "b) estrogenem",
+      "c) oxytocinem",
+      "d) prostaglandiny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) progesteronem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Zácpa v těhotenství není způsobena",
+    "answers": [
+      "a) zvýšením progesteronu",
+      "b) zvýšením reabsorpce sodíku a vody v tlustém střevě",
+      "c) fyziologickými těhotenskými změnami",
+      "d) zvětšením dělohy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) zvětšením dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Pica syndrom je",
+    "answers": [
+      "a) zvýšení chuti к jídlu u těhotných",
+      "b) zvracení u těhotných",
+      "c) chuť na neobvyklé látky u těhotných",
+      "d) nechuť к masu u těhotných"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) chuť na neobvyklé látky u těhotných"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Asymptomatická bakteriurie je v těhotenství",
+    "answers": [
+      "a) běžná a nepotřebuje léčbu",
+      "b) výjimečná",
+      "c) výjimečná a nepotřebuje léčbu",
+      "d) častější a je vhodněji léčit"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) častější a je vhodněji léčit"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Stáza moči v těhotenství je",
+    "answers": [
+      "a) častější vlevo",
+      "b) častější vpravo",
+      "c) stejně častá oboustranně",
+      "d) příznakem urolitiázy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) častější vpravo"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. V těhotenství se průtok krve ledvinami",
+    "answers": [
+      "a) snižuje z důvodu zvýšení prokrvení dělohy",
+      "b) snižuje pro zachovám minerálů",
+      "c) zvyšuje",
+      "d) nemění"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) zvyšuje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Glomerulámí filtrace v těhotenství",
+    "answers": [
+      "a) se nemění",
+      "b) se snižuje",
+      "c) se zvyšuje",
+      "d) se snižuje až od 32 týdne"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) se zvyšuje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. V průběhu těhotenství stoupá tvorba",
+    "answers": [
+      "a) prolaktinu, tyreotropního hormonu (TSH), adenokortikotropního hormonu (ACTH), hormonu stimulujícího melanocyty (MSH)",
+      "b) gonadotropinů a prolaktinu",
+      "c) ACTH a testosteronu",
+      "d) MSH"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "a) prolaktinu, tyreotropního hormonu (TSH), adenokortikotropního hormonu (ACTH), hormonu stimulujícího melanocyty (MSH)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Štítná žláza se v těhotenství",
+    "answers": [
+      "a) nemění",
+      "b) zvětšuje 2krát",
+      "c) zvětšuje 4krát",
+      "d) zmenšuje"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) zvětšuje 2krát"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Sekrece z prsů na počátku těhotenstvíje",
+    "answers": [
+      "a) příznakem poruchy hypofýzy",
+      "b) vyžaduje cytologické vyšetření",
+      "c) je indikací к mamografii",
+      "d) je nejistou známkou těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) je nejistou známkou těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Chloasma gravidarum jsou důsledkem",
+    "answers": [
+      "a) zvýšení množství podkožního tuku",
+      "b) zvýšení koncentrace progesteronu",
+      "c) zvýšení koncentrace hormonu stimulujícího melanocyty (MSH)",
+      "d) snížení koncentrace gonadotropinů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "c) zvýšení koncentrace hormonu stimulujícího melanocyty (MSH)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Strie je jiné označení pro",
+    "answers": [
+      "a) chloasma gravidarum",
+      "b) pajizévky",
+      "c) linea fusca",
+      "d) flíčky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) pajizévky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Průměrné zvýšení tělesné hmotnosti v těhotenstvíje",
+    "answers": ["a) 6kg", "b) 9 kg", "c) 12kg", "d) 15kg"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) 12kg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Fyziologické umístění placenty není",
+    "answers": [
+      "a) na přední stěně",
+      "b) na zadní stěně",
+      "c) ve fundu",
+      "d) v dolním děložní segmentu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) v dolním děložní segmentu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Fyziologický pupečník má",
+    "answers": ["a) 2 cévy", "b) 3 cévy", "c) 2 žíly", "d) 1 tepnu"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) 3 cévy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Průměrná tloušťka pupečníku je",
+    "answers": ["a) 1-2 cm", "b) 5-lOcm", "c) 25 cm", "d) 50 cm"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) 1-2 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Průměrná délka pupečníku je",
+    "answers": ["a) 20cm", "b) 150 cm", "c) 70cm", "d) 50cm"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) 50cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Pupečník je tvořen takto",
+    "answers": [
+      "a) 1 žíla, 2 tepny, Whartonův rosol",
+      "b) 2 žíly, 1 tepna, Whartonův rosol",
+      "c) 1 žíla, 2 tepny, Warholův rosol",
+      "d) 2 žíly, 1 tepna, Warholův rosol"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) 1 žíla, 2 tepny, Whartonův rosol"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Humánní choriogonadotropin je",
+    "answers": [
+      "a) steroidní hormon",
+      "b) glykoprotein",
+      "c) mukopolysacharid",
+      "d) aminoglykan"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) glykoprotein"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Nejvyšší koncentrace choriogonadotropinu je dosažena v",
+    "answers": [
+      "a) 6 týdnu těhotenství",
+      "b) 10 týdnu těhotenství",
+      "c) 18 týdnu těhotenství",
+      "d) 24 týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) 10 týdnu těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Choriogonadotropin je tvořen",
+    "answers": [
+      "a) trofoblastem",
+      "b) nadledvinami plodu",
+      "c) žlutým tělískem",
+      "d) žloutkovým váčkem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) trofoblastem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Placenta přebírá funkci žlutého tělíska",
+    "answers": [
+      "a) v 6 týdnu",
+      "b) v 9 týdnu",
+      "c) v 12 týdnu",
+      "d) v 16 týdnu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) v 12 týdnu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Objem plodové vody dosahuje maxima kolem",
+    "answers": ["a) 20 týdne", "b) 30 týdne", "c) 38 týdne", "d) 41 týdne"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) 38 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Výměna plodové vody je koncem těhotenství",
+    "answers": ["a) 20ml/24h", "b) 100ml/24h", "c) 250ml/24h", "d) 500ml/24h"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) 500ml/24h"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Poloha (situs) plodu je",
+    "answers": [
+      "a) vztah podélné osy plodu к podélné ose dělohy",
+      "b) určena uložením hřbetu plodu nebo vztahem hlavičky к lopatě kyčelní kosti",
+      "c) vzájemný vztah částí plodu к sobě",
+      "d) vztah hlavičky к pánevnímu vchodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) vztah podélné osy plodu к podélné ose dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Postavení (presentatio) ploduje",
+    "answers": [
+      "a) vztah podélné osy plodu к podélné ose dělohy",
+      "b) určeno uložením hřbetu plodu nebo vztahem hlavičky к lopatě kyčelní kosti",
+      "c) vzájemný vztah částí plodu к sobě",
+      "d) vztah hlavičky к pánevnímu vchodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "b) určeno uložením hřbetu plodu nebo vztahem hlavičky к lopatě kyčelní kosti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Poloha koncem pánevním úplná znamená, že naléhají",
+    "answers": [
+      "a) nožky plodu",
+      "b) kolínka plodu",
+      "c) hýždě plodu",
+      "d) obě nožky a hýždě plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) obě nožky a hýždě plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Poloha podélná koncem pánevním je na konci těhotenství asi v",
+    "answers": ["a) 3%", "b) 13%", "c) 23%", "d) 33%"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) 3%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Poloha podélná hlavičkou deflexní má na konci těhotenství četnost",
+    "answers": ["a) 0,5%", "b) 1,5%", "c) 2%", "d) 2,5%"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) 1,5%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Nejčastější postavení plodu v podélné poloze je",
+    "answers": [
+      "a) pravé přední",
+      "b) levé zadní",
+      "c) pravé zadní",
+      "d) levé přední"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) levé přední"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. U polohy příčné je levé postavení charakterizováno",
+    "answers": [
+      "a) zadečkem na levé lopatě kyčelní kosti",
+      "b) hlavičkou na levé lopatě kyčelní kosti",
+      "c) pravým raménkem na levé lopatě kyčelní kosti",
+      "d) dorzoanteriomím postavením plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) hlavičkou na levé lopatě kyčelní kosti"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Hlavička naléhá na střed pánevního vchodu při naléhám",
+    "answers": [
+      "a) centrickém",
+      "b) excentrickém",
+      "c) předním asynklitismu",
+      "d) zadním asynklitismu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) centrickém"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Hlavička naléhá na vchod pánevní větší plochou své přední pánevní parietální kosti při naléhám",
+    "answers": [
+      "a) synklitickém",
+      "b) asynklitickém podle Naegeleho",
+      "c) asynklitickém podle Litzmana",
+      "d) zadním asynklitismu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) asynklitickém podle Naegeleho"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Hlavička je vstouplá velkým oddílem, pokud",
+    "answers": [
+      "a) krční rýha je 3 prsty nad sponou",
+      "b) je hmatná celá zadní stěna stydké spony",
+      "c) krční rýha je 4 prsty nad sponou",
+      "d) krční rýha je 2 prsty nad sponou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) krční rýha je 2 prsty nad sponou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Hlavička není vstouplá velkým oddílem, pokud",
+    "answers": [
+      "a) krční rýha je 2 prsty nad sponou",
+      "b) horní třetina zadní stěny stydké spony není hmatná",
+      "c) je hmatná celá zadní stěna stydké spony",
+      "d) prošla biparietálním průměrem rovinou pánevního vchodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) je hmatná celá zadní stěna stydké spony"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Při nadměrném váhovém přírůstku v těhotenství ordinujeme",
+    "answers": [
+      "a) přísnou redukční dietu",
+      "b) bezzbytkovou dietu",
+      "c) vyšetření glukózové tolerance",
+      "d) vyšetření clearance"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) vyšetření glukózové tolerance"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Doporučený denní přísun bílkovin ve stravě těhotné ženy je",
+    "answers": ["a) 0,5g/kg", "b) l,3g/kg", "c) 2,5g/kg", "d) 5g/kg"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) l,3g/kg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Denní příjem železa v těhotenství by měl dosahovat",
+    "answers": ["a) 5 mg", "b) 30 mg", "c) 50 mg", "d) 80 mg"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) 80 mg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Pohlavní styk u těhotné je",
+    "answers": [
+      "a) možný v celé délce těhotenství",
+      "b) možný jen v druhém trimestru těhotenství",
+      "c) je příznakem poruchy sexuální orientace",
+      "d) je přísně zakázán"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) možný v celé délce těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. Masturbace u těhotné ženy",
+    "answers": [
+      "a) je nejčastější příčinou předčasného porodu",
+      "b) je důvodem pro psychiatrické vyšetření",
+      "c) je doporučenou náhražkou partnerského sexu",
+      "d) se neliší od masturbace mimo těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) se neliší od masturbace mimo těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Užívání multivitaminových preparátů",
+    "answers": [
+      "a) je obchodní trik",
+      "b) způsobuje makrosomii plodu",
+      "c) může vhodně doplnit potřeby organismu",
+      "d) je naprosto nevhodné před otěhotněním"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) může vhodně doplnit potřeby organismu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Podávání prostaglandinů ambulantně",
+    "answers": [
+      "a) umožní těhotné porodit v příjemném prostředí domova",
+      "b) sníží náklady na péči o přenášející rodičky",
+      "c) je postupem non lege artis",
+      "d) je nutné spojit se s kontrolním kardiotokografem za 1 hodinu po aplikaci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) je postupem non lege artis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. Těhotná žena má spát",
+    "answers": [
+      "a) 6 hodin denně",
+      "b) 8 hodin denně",
+      "c) 8 hodin v noci a 2 hodiny po obědě",
+      "d) 10 hodin v noci a 2 hodiny po obědě"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) 8 hodin denně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Z hlediska vývoje a růstu plodu je nejhorší drogou",
+    "answers": ["a) marihuana", "b) kokain", "c) kofein", "d) nikotin"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) nikotin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Těhotná nesmí podle vyhlášky ministerstva zdravotnictví zvedat břemena těžší než",
+    "answers": ["a) 5 kg", "b) 10kg", "c) 15kg", "d) 20 kg"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) 5 kg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Objem krve u těhotné se zvyšuje o",
+    "answers": ["a) 500ml", "b) 1-1,51", "c) 21", "d) 2,51"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) 1-1,51"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. Anémie vyžadující perorální podávání železa je charakterizována",
+    "answers": [
+      "a) hodnotou hemoglobinu pod 80g/1",
+      "b) hodnotou hemoglobinu pod 115 g/1",
+      "c) hodnotou hemoglobinu pod 60 g/1",
+      "d) hodnotou hemoglobinu pod 140 g/1"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) hodnotou hemoglobinu pod 115 g/1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Piskáčkovo znamení je",
+    "answers": [
+      "a) vyklenutí rohu děložního ve 4-8 týdnu těhotenství",
+      "b) změknutí dělohy v místě nidace",
+      "c) změknutí istmu děložního",
+      "d) možnost vytvořit příčnou řasu na přední stěně děložní"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) vyklenutí rohu děložního ve 4-8 týdnu těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. Mezi známky časného těhotenství nepatří",
+    "answers": [
+      "a) Dickinsonovo-Braunovo znamení",
+      "b) Gaussovo znamení",
+      "c) Hegarovo znamení",
+      "d) Chvostkův příznak"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) Chvostkův příznak"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "85. Friedmanova reakce byla prováděna na",
+    "answers": [
+      "a) infantilních myškách",
+      "b) králících",
+      "c) samcích skokana",
+      "d) morčatech"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) králících"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "86. V těhotenské cytologiije příznakem blížícího se porodu",
+    "answers": [
+      "a) nárůst počtu navikulámích buněk",
+      "b) převaha navikulámích buněk nad intermediálními",
+      "c) převaha intermediálních buněk nad navikulámími",
+      "d) Arias-Stella fenomén"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) převaha intermediálních buněk nad navikulámími"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "87. Nositelky mutace MTHFR jsou v těhotenství ohroženy zejména",
+    "answers": [
+      "a) diseminovanou intravaskulámí koagulopatií",
+      "b) předčasným porodem",
+      "c) trombembolickou nemocí",
+      "d) preeklampsií"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) trombembolickou nemocí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "88. Amnioskopie je",
+    "answers": [
+      "a) obsoletní metoda",
+      "b) metoda zjišťující množství plodové vody",
+      "c) metoda verifikující podezření na vrozenou vadu plodu",
+      "d) metoda hodnocení plodové vody"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) metoda hodnocení plodové vody"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "89. Při potermínové graviditě musí být",
+    "answers": [
+      "a) vyšetření každý druhý den",
+      "b) preventivní hospitalizace",
+      "c) proveden biofyzikální profil",
+      "d) tato ukončena do"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) tato ukončena do"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "90. Součástí pravidelných vyšetření v těhotenství není",
+    "answers": [
+      "a) měření tlaku krve",
+      "b) chemické vyšetření moči",
+      "c) pH metrie",
+      "d) stanovení cervix skóre"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["c) pH metrie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "91. Cervikální skóre nezahrnuje",
+    "answers": [
+      "a) délku hrdla",
+      "b) konzistenci hrdla",
+      "c) prostupnost hrdla",
+      "d) míru vyklenutí vaku blan"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) míru vyklenutí vaku blan"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "92. Součástí laboratorních vyšetření v těhotenství není",
+    "answers": [
+      "a) stanovení HIV",
+      "b) stanovém BWR",
+      "c) stanovení krevní skupiny matky",
+      "d) stanovení krevní skupiny otce"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) stanovení krevní skupiny otce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "93. Měření zevních pánevních rozměrů je",
+    "answers": [
+      "a) překonané vyšetření",
+      "b) součástí vyšetření v I trimestru",
+      "c) součástí vyšetření před porodem",
+      "d) nahrazeno vnitřním vyšetřením"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) součástí vyšetření v I trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "94. Conjugate externa je",
+    "answers": [
+      "a) vzdálenost mezi středem horního okraje spony stydké a trnem 5 bederního obratle",
+      "b) vzdálenost mezi středem dolního okraje spony stydké a trnem 5 bederního obratle",
+      "c) vzdálenost mezi středem dolního okraje spony stydké a tělem 5 bederního obratle",
+      "d) vzdálenost mezi středem horního okraje spony stydké a tělem 5 bederního obratle"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "a) vzdálenost mezi středem horního okraje spony stydké a trnem 5 bederního obratle"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "96. První Pawlikův hmat hodnotí",
+    "answers": [
+      "a) výšku děložního fundu",
+      "b) největší objem hlavičky plodu",
+      "c) výšku krční rýhy plodu",
+      "d) držení malých částí plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) výšku děložního fundu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "97. Conjugata externa má fyziologickou hodnotu",
+    "answers": ["a) 17cm", "b) 20 cm", "c) 25-26cm", "d) 31-32 cm"],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["b) 20 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "98. Obligatorní vyšetřovací metodou při prodlouženém těhotenstvíje",
+    "answers": [
+      "a) amnioskopie",
+      "b) ultrazvuková biometrie",
+      "c) ílowmetrie",
+      "d) non-stress test"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["d) non-stress test"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "99. Vyberte správné tvrzení",
+    "answers": [
+      "a) Streptococcus agalactiae může způsobit novorozeneckou sepsi",
+      "b) výskyt streptokoků skupiny В v porodních cestách může být spojen s výskytem vrozených vývojových vad plodu",
+      "c) výskyt streptokoků skupiny В v porodních cestách není spojen s výskytem předčasného porodu",
+      "d) screeningovou kultivaci z porodních cest se zaměřením na výskyt streptokoků skupiny В provádíme několikrát za těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "a) Streptococcus agalactiae může způsobit novorozeneckou sepsi"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "100. Vyberte chybné tvrzení",
+    "answers": [
+      "a) výskyt streptokoků skupiny В v porodních cestách může být spojen s předčasným porodem",
+      "b) výskyt streptokoků skupiny В v porodních cestách může být spojen s výskytem novorozenecké sepse",
+      "c) výskyt streptokoků skupiny В v porodních cestách není spojen s předčasným porodem",
+      "d) výskyt streptokoků skupiny В v moči může být spojen s předčasným porodem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": [
+      "c) výskyt streptokoků skupiny В v porodních cestách není spojen s předčasným porodem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "101. Mezi základní infekční choroby sledované screeningem v těhotenství patří",
+    "answers": [
+      "a) syfilis",
+      "b) černý kašel",
+      "c) žlutá zimnice",
+      "d) borrelióza"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) syfilis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "102. Mezi základní infekční choroby sledované screeningem v těhotenství nepatří",
+    "answers": [
+      "a) spalničky",
+      "b) infekční žloutenka typu В",
+      "c) syfilis",
+      "d) AIDS"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "6. Fyziologické těhotenství, prenatální péče, očkování v těhotenství. I. ČÁST PREGRADUÁLN"
+    ],
+    "correctAnswers": ["a) spalničky"],
+    "description": [""],
+    "img": [""]
   }
 ]
