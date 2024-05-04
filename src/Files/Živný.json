@@ -47703,5 +47703,2295 @@
     "correctAnswers": ["c) hodnocení odlučování placenty"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Normální CTG záznam je",
+    "answers": [
+      "a) srdeční frekvence 110-150 úderů/min",
+      "b) oscilační amplituda 10-25 úderů/min",
+      "c) akcelerace",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Které parametry znamenají reaktivní CTG záznam",
+    "answers": [
+      "a) > 15 úderů po více než 15 s",
+      "b) vždy musí být přítomny kontrakce",
+      "c) nejméně 2 akcelerace za 20 min",
+      "d) žádná odpověď správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) > 15 úderů po více než 15 s",
+      "c) nejméně 2 akcelerace za 20 min"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Nereaktivní záznam CTG může být způsoben",
+    "answers": [
+      "a) fyziologickým spánkem plodu",
+      "b) medikamentózním útlumem plodu",
+      "c) při břišním lisu matky",
+      "d) ve druhé době porodní"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) fyziologickým spánkem plodu",
+      "b) medikamentózním útlumem plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Patologické CTG v těhotenství charakterizuje",
+    "answers": [
+      "a) bazální frekvence < 100/min > 170/min",
+      "b) silentní křivka",
+      "c) sinusoida",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Který CTG záznam je nejčastěji spojen s postnatálním handicapem novorozence",
+    "answers": [
+      "a) pozdní decelerace",
+      "b) variabilní decelerace",
+      "c) tachykardie + decelerace",
+      "d) sinusoida"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) tachykardie + decelerace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Bradykardii plodu trvající déle 10 minut řešíme",
+    "answers": [
+      "a) podáním O2 matce",
+      "b) infúzí 10% glukózy matce",
+      "c) polohováním matky",
+      "d) podáním tokolýzy a ukončením porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) podáním tokolýzy a ukončením porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Kdy je nutno kontinuálně monitorovat porod",
+    "answers": [
+      "a) při mekoniem zkalené plodové vodě",
+      "b) při výskytu suspektního CTG",
+      "c) při odtoku čiré plodové vody",
+      "d) při porodu plodu s IUGR"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) při mekoniem zkalené plodové vodě",
+      "b) při výskytu suspektního CTG",
+      "d) při porodu plodu s IUGR"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Patologický CTG za porodu obsahuje",
+    "answers": [
+      "a) komplikované variabilní decelerace > 60/min",
+      "b) decelerace typu W",
+      "c) zvýšení bazální frekvence o 15 úderů/min",
+      "d) uniformní pozdní decelerace"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) komplikované variabilní decelerace > 60/min",
+      "b) decelerace typu W",
+      "d) uniformní pozdní decelerace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Při dobrém stavu plodu křivka CTG záznamu obsahuje",
+    "answers": [
+      "a) akcelerace s normální amplitudou oscilací",
+      "b) akcelerace bez oscilací",
+      "c) amplitudu oscilací 5",
+      "d) snížené undulace bez oscilací"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) akcelerace s normální amplitudou oscilací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Fetální pulsní oxymetrie hodnotí",
+    "answers": [
+      "a) saturaci O2 v žilní krvi plodu",
+      "b) periferní perfúzi a arteriální saturaci O,",
+      "c) nepřímo hodnotí pH plodu",
+      "d) zjišťuje saturaci O2 v hlavové části plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) periferní perfúzi a arteriální saturaci O,"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Kontraindikací pulsní oxymetrie je",
+    "answers": [
+      "a) krvácení za porodu",
+      "b) placenta praevia",
+      "c) chorioamnionitis",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Sahlingova metoda znamená",
+    "answers": [
+      "a) odběr krve z pupečníku kordocentézou",
+      "b) odběr krve z kůže hlavičky za porodu",
+      "c) odběr žilní krve novorozence po narození",
+      "d) stanovení acidobazické rovnováhy u matky z prstu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) odběr krve z kůže hlavičky za porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Sahlingova metoda poskytuje falešné výsledky v případě",
+    "answers": [
+      "a) příměsi mateřské krve",
+      "b) caput succedaneum",
+      "c) příměsi plodové vody",
+      "d) při zašlé brance a hlavičce ve východu pánevním"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) příměsi mateřské krve",
+      "b) caput succedaneum",
+      "c) příměsi plodové vody"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Aktokardiografie nás informuje o",
+    "answers": [
+      "a) pohybové aktivitě plodu",
+      "b) akceleracích v závislosti na pohybech plodu",
+      "c) o oscilační linii plodu",
+      "d) dýchacích pohybech plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) pohybové aktivitě plodu",
+      "b) akceleracích v závislosti na pohybech plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Twins offset",
+    "answers": [
+      "a) je průkaz úmrtí jednoho plodu",
+      "b) srdeční frekvence prvého plodu se zaznamenává o 20 úderů/min vyšší, než je jeho bazální frekvence",
+      "c) stanoví bazální frekvenci obou plodů",
+      "d) je přímá kardiotokografie u dvojčat"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) srdeční frekvence prvého plodu se zaznamenává o 20 úderů/min vyšší, než je jeho bazální frekvence"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Při hypoxémii je",
+    "answers": [
+      "a) snížená saturace O2 v arteriální krvi",
+      "b) snížená saturace O2 v arteriální krvi po dobu několika dnů i týdnů",
+      "c) sražená saturace O, v žilní krvi plodu",
+      "d) snížená saturace O2 v centrálních orgánech plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) snížená saturace O2 v arteriální krvi",
+      "b) snížená saturace O2 v arteriální krvi po dobu několika dnů i týdnů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Při hypoxémii plod",
+    "answers": [
+      "a) zvyšuje pohybovou aktivitu",
+      "b) zrychluje dýchací pohyby",
+      "c) snižuje srdeční frekvenci",
+      "d) redukuje pohybovou aktivitu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) redukuje pohybovou aktivitu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Hypoxie plodu",
+    "answers": [
+      "a) je snížení saturace O2 v periferních tkáních plodu",
+      "b) může trvat jen několik hodin",
+      "c) může trvat i několik týdnů",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je snížení saturace O2 v periferních tkáních plodu",
+      "d) žádná odpověď není správná"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Při hypoxii plodu glykogenolýzu spouští",
+    "answers": [
+      "a) cyklická AMP",
+      "b) noradrenalin",
+      "c) koncentrace O2 v placentě",
+      "d) snížená saturace O2 v CNS plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) cyklická AMP"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Asfyxie končí smrtí plodu, není-li řešena",
+    "answers": [
+      "a) během 30 minut",
+      "b) během 1 hodiny",
+      "c) během 24 hodin",
+      "d) během několika minut"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) během několika minut"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. К obranným mechanismům plodu při hypoxii nepatří",
+    "answers": [
+      "a) snížená pohybová aktivita",
+      "b) anaerobní metabolismus",
+      "c) snížení průtoku ve fetoplacentámí jednotce",
+      "d) redistribuce toku krve plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) snížení průtoku ve fetoplacentámí jednotce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Při vnitřním CTG je hodnocen na křivce EKG",
+    "answers": [
+      "a) R-R interval",
+      "b) výška vlny T",
+      "c) šířka QRS",
+      "d) ST úsek"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) R-R interval"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Diagnostiku závažné pozdní decelerace charakterizuje",
+    "answers": [
+      "a) snížená bazální frekvence pod 120/min",
+      "b) hloubka decelerací",
+      "c) uniformita záznamu",
+      "d) snížené oscilace"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) uniformita záznamu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Decelerací rozumíme",
+    "answers": [
+      "a) pokles > 15 tepů/min, více než 15 s",
+      "b) pokles > 5 tepů/min v délce 10 s",
+      "c) pokles > 25 tepů/min, trvající 5 s",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) pokles > 15 tepů/min, více než 15 s"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Závažné (komplikované) variabilní decelerace jsou,",
+    "answers": [
+      "a) trvají-li déle než 60 sekund",
+      "b) pokud je hloubka decelerací větší než 60 tepů za minutu",
+      "c) nezávislé na kontrakcích",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Preterminální CTG obsahuje",
+    "answers": [
+      "a) nereaktivní záznam (silenci)",
+      "b) všechny druhy decelerací",
+      "c) bradykardii plodu",
+      "d) snížené oscilace"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) nereaktivní záznam (silenci)",
+      "b) všechny druhy decelerací",
+      "c) bradykardii plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. STAN analýza využívá к záznamu",
+    "answers": [
+      "a) zevní snímač",
+      "b) vnitřní elektrodu",
+      "c) Dopplerovu metodu",
+      "d) všechny metody se kombinují"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) vnitřní elektrodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Při STAN analýze přístroj zaznamenává",
+    "answers": [
+      "a) zvýšení vlny T",
+      "b) bifázicitu ST úseku",
+      "c) epizodické zvýšení T/QRS",
+      "d) zaznamenává všechny tyto jevy"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) zaznamenává všechny tyto jevy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Při STAN analýze se nehodnotí",
+    "answers": [
+      "a) elevace T vlny",
+      "b) bifázicita ST úseku",
+      "c) epizodické zvýšení T/QRS",
+      "d) R-R interval"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) R-R interval"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. STAN analýzu můžeme hodnotit po",
+    "answers": [
+      "a) 10 minutách provozu",
+      "b) 20 minutách provozu",
+      "c) 30 minutě záznamu",
+      "d) 1 hodině záznamu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) 20 minutách provozu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Bifázicita ST úseku znamená",
+    "answers": [
+      "a) fetální srdce je pod vlivem hypoxie",
+      "b) probíhá anaerobní metabolismus",
+      "c) srdce již není schopno adaptace",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Zvýšení vlny T při STAN analýze je způsobeno",
+    "answers": [
+      "a) vyplavením adrenalinu",
+      "b) anaerobní glykogenolýzou",
+      "c) zvýšením srdeční frekvence plodu",
+      "d) tachykardií plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) vyplavením adrenalinu",
+      "b) anaerobní glykogenolýzou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Hlavička vstouplá a fixovaná znamená",
+    "answers": [
+      "a) biparietální průměr pod rovinou pánevního vchodu",
+      "b) mimo kontrakci nelze hlavičku vysunout kraniálně",
+      "c) hlavička za kontrakce prořezává",
+      "d) hlavička je vstouplá velkým oddílem"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) biparietální průměr pod rovinou pánevního vchodu",
+      "b) mimo kontrakci nelze hlavičku vysunout kraniálně"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Která z uvedených hodnot nemusí být podmínkou ke klešťovému porodu",
+    "answers": [
+      "a) hlavička vstouplá fixovaná",
+      "b) vedoucí bod v pánevní šíři",
+      "c) hlavička dorotovaná s malou fontanelou pod sponou",
+      "d) biparietální průměr ve východu pánevním"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) hlavička dorotovaná s malou fontanelou pod sponou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Při AMC je vhodné",
+    "answers": [
+      "a) vyhnout se vpichu přes placentu",
+      "b) neprovádět vyšetření u těhotné Rh negativní",
+      "c) provést vyšetření bez kontroly UZ",
+      "d) provést vyšetření vždy pod kontrolou UZ"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["d) provést vyšetření vždy pod kontrolou UZ"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Nejzávažnější komplikace po CVS",
+    "answers": [
+      "a) krvácení",
+      "b) potrat",
+      "c) redukční deformity končetin",
+      "d) Rh izoimunizace těhotné"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) redukční deformity končetin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Která UZ kritéria podporují diagnózu ektopické gravidity",
+    "answers": [
+      "a) tumor adnex",
+      "b) volná tekutina v peritoneální dutině",
+      "c) zvýšené prokrvení dělohy",
+      "d) zvětšená dutina děložní"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) volná tekutina v peritoneální dutině"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. VVV související s Downovým syndromem",
+    "answers": [
+      "a) atrioventrikulámí defekt srdce",
+      "b) deformity prstů",
+      "c) omfalokéla",
+      "d) rozštěp patra"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) atrioventrikulámí defekt srdce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Při diagnóze gastroschisis plodu zjišťujeme",
+    "answers": [
+      "a) nižší hladinu AFP",
+      "b) paraumbilikální hemiaci obsahu",
+      "c) u plodu srdeční vadu",
+      "d) chromosomální vadu plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["b) paraumbilikální hemiaci obsahu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Při diagnóze spina bifida plodu zjišťujeme",
+    "answers": [
+      "a) zvýšený AFP",
+      "b) snížený AFP",
+      "c) lemon či banana tvar lebky",
+      "d) deformity končetin"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["c) lemon či banana tvar lebky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Frekvence insuficience děložního hrdla v populaci je",
+    "answers": ["a) 0,9-1,2%", "b) 2%", "c) 5%", "d) > 10%"],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": ["a) 0,9-1,2%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Diagnózu chorioamnionitis potvrzují",
+    "answers": [
+      "a) subjektivní potíže těhotné",
+      "b) vzestup leukocytů",
+      "c) vzestup CRP",
+      "d) histologický průkaz zánětu"
+    ],
+    "book": ["Živný"],
+    "topic": ["4. Vyšetřovací metody v porodnictví. II. ČÁST POSTGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) vzestup leukocytů",
+      "c) vzestup CRP",
+      "d) histologický průkaz zánětu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Obvod hlavičky plodu značíme zkratkou",
+    "answers": ["a) HC", "b) HL", "c) HV", "d) HK"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) HC"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Průměr hlavičky plodu značíme zkratkou",
+    "answers": ["a) DCP", "b) BPH", "c) BPD", "d) CPD"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) BPD"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Obvod trupu plodu značíme zkratkou",
+    "answers": ["a) AV", "b) AM", "c) AC", "d) BL"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) AC"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Při rutinní biometrii neměříme obvykle tuto část plodu",
+    "answers": [
+      "a) obvod trupu",
+      "b) obvod hlavy",
+      "c) průměr hlavičky",
+      "d) délku tibie"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) délku tibie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Délku femuru značíme zkratkou",
+    "answers": ["a) F1", "c) Fc", "d) Fv", "e) FD"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) F1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. V kterém týdnu těhotenství lze ultrazvukem (UZ) zobrazit srdeční akci",
+    "answers": [
+      "a) 8 týdnu gestace",
+      "b) 7 týdnu gestace",
+      "c) 6 týdnu gestace",
+      "d) 10 týdnu gestace"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) 6 týdnu gestace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Od kterého týdne gestace lze ultrazvukem bezpečně zobrazit čtyřdutinový obraz srdeční",
+    "answers": [
+      "a) od 14 týdne gestace",
+      "b) od 18 týdne gestace",
+      "c) od 16 týdne gestace",
+      "d) od 7 týdne gestace"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) od 14 týdne gestace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Temenokostrční vzdálenost se označuje zkratkou",
+    "answers": ["a) CRL", "b) CRP", "c) CRV", "d) CSV"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) CRL"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. V kterém časovém rozmezí se provádí první ultrazvukový screening",
+    "answers": [
+      "a) v 18-22 týdnu gestace",
+      "b) v 16-18 týdnu gestace",
+      "c) ve 22-24 týdnu gestace",
+      "d) ve 20-22 týdnu gestace"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) ve 20-22 týdnu gestace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. V kterém časovém rozmezí se provádí druhý ultrazvukový screening",
+    "answers": [
+      "a) ve 33-35 týdnu gestace",
+      "b) ve 32-34 týdnu gestace",
+      "c) ve 30-32 týdnu gestace",
+      "d) ve 26 týdnu gestace"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) ve 30-32 týdnu gestace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. V kterém časovém úseku nejčastěji diagnostikujeme symetrickou růstovou retardaci plodu",
+    "answers": [
+      "a) v I trimestru",
+      "b) ve II trimestru",
+      "c) ve III trimestru",
+      "d) kdykoli"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) ve II trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. V kterém časovém úseku nejčastěji diagnostikujeme asymetrickou růstovou retardaci plodu",
+    "answers": [
+      "a) ve III trimestru",
+      "b) ve II trimestru",
+      "c) v I trimestru",
+      "d) kdykoli"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) ve III trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Která z příčin obvykle nevede к symetrické růstové retardaci",
+    "answers": [
+      "a) preeklampsie",
+      "b) chromosomální aberace",
+      "c) vrozené vývojové vady",
+      "d) exogenní noxy - alkohol, drogy"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) preeklampsie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Která z příčin obvykle nevede к asymetrické růstové retardaci",
+    "answers": [
+      "a) preeklampsie",
+      "b) porucha funkce placenty",
+      "c) exogenní noxy - alkohol, drogy",
+      "d) renální/cévní onemocnění matky"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) exogenní noxy - alkohol, drogy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Které cévy jsou v pupečníku",
+    "answers": [
+      "a) 2 žíly a 1 tepna",
+      "b) 1 žíla a 1 tepna",
+      "c) 1 žíla a 2 tepny",
+      "d) 2 žíly a 2 tepny"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) 1 žíla a 2 tepny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Při nálezu oligohydramnia nebo anhydramnia nepátráme po",
+    "answers": [
+      "a) předčasném odtoku plodové vody",
+      "b) nitroděložní růstové retardaci u plodu",
+      "c) normální anatomii ledvin a vývodných močových cest u plodu",
+      "d) gestačním diabetů u matky"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) gestačním diabetů u matky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Mezi příčiny polyhydramnia jistě nepatří",
+    "answers": [
+      "a) atrézie GIT",
+      "b) gestační diabetes matky",
+      "c) srdeční vada plodu",
+      "d) ageneze ledvin"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) ageneze ledvin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. V kterém gestačním týdnu se provádí měření nuchální translucence (šíjového projasnění, NT)",
+    "answers": [
+      "a) ve 12-14 týdnu",
+      "b) ve 20 týdnu",
+      "c) v 6 týdnu",
+      "d) před porodem"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) ve 12-14 týdnu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Od kolika mm je nuchální translucence patologická",
+    "answers": ["a) od 10mm", "b) od 3 mm", "c) od 1 mm", "d) od 20mm"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) od 3 mm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Kolik ml plodové vody se obvykle odebírá při amniocentéze",
+    "answers": [
+      "a) množství vody plodové v ml odpovídá délce gravidity",
+      "v týdnech - max 20 ml",
+      "b) 24 ml",
+      "c) 10 ml",
+      "d) 5 ml"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "a) množství vody plodové v ml odpovídá délce gravidity"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Jaké je riziko spontánního potratu po amniocentéze",
+    "answers": ["a) 10%", "b) 20%", "c) 0,5-1 %", "d) není žádné riziko"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) 0,5-1 %"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Od kterého gestačního týdne se amniocentéza nejčastěji provádí",
+    "answers": [
+      "a) od 30 týdne",
+      "b) od 10 týdne",
+      "c) od 7 týdne",
+      "d) od 15 týdne"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) od 15 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Co je cervikometrie",
+    "answers": [
+      "a) ultrazvukové měření délky děložního hrdla",
+      "b) ultrazvukové zobrazování tvaru vnitřní branky",
+      "c) zjišťování inkompetence hrdla děložního",
+      "d) vše je správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) vše je správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Do kterého gestačního týdne je indikována cervikometrie",
+    "answers": [
+      "a) do 20 týdne",
+      "b) do 28 týdne",
+      "c) do porodu",
+      "d) do 32 týdne"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) do 32 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Od kolika centimetrů je patologická tlouštka placenty (měřeno u úponu pupečníku)",
+    "answers": ["a) od 8 cm", "b) od 6 cm", "c) od 12cm", "d) od 15 cm"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) od 12cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Hygroma colli cysticum bývá obvykle při",
+    "answers": [
+      "a) chromosomálních aberacích (trisomie 21, 13, 18)",
+      "b) imunologických defektech",
+      "c) chromosomální aberaci (45,X - Turnérův syndrom)",
+      "a) gestačním diabetů matky"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) chromosomální aberaci (45,X - Turnérův syndrom)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Omfalokélu charakterizuje",
+    "answers": [
+      "a) přemístění orgánů před stěnu břišní",
+      "b) orgán nebo skupina orgánů před stěnou břišní jsou kryty kýlním vakem - amniem",
+      "c) v kýlním vaku je vzat i pupečník",
+      "d) všechny varianty jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) všechny varianty jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Která z atrézií jícnu je nejčastější",
+    "answers": [
+      "a) izolovaná atrézie",
+      "b) atrézie jícnu s pištěli spojující jeho proximální část s tracheou",
+      "c) atrézie jícnu s pištěli spojující jeho distální část s tracheou",
+      "d) atrézie jícnu s dvojitou pištěli mezi tracheou a jícnem"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "c) atrézie jícnu s pištěli spojující jeho distální část s tracheou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Která z atréziíjícnu je nejvzácnější",
+    "answers": [
+      "a) izolovaná atrézie",
+      "b) atrézie jícnu s pištěli spojující jeho proximální část s tracheou",
+      "c) atrézie jícnu s pištěli spojující jeho distální část s tracheou",
+      "d) atrézie jícnu s dvojitou pištěli mezi tracheou a jícnem"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) izolovaná atrézie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Brániční hernie je charakterizována",
+    "answers": [
+      "a) vznikem v 8 týdnu těhotenství",
+      "b) dělením na pravostrannou a levostrannou",
+      "c) žaludek se nezobrazuje na stejné straně jako srdeční hrot",
+      "d) všechny varianty jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) všechny varianty jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Mezi sonografické známky charakteristické pro chromosomální aberaci nepatří",
+    "answers": [
+      "a) ageneze nosní kosti u plodu",
+      "b) dilatace pánviček ledvinných u plodu",
+      "c) hyperechogenní střevo plodu",
+      "d) čtyřdutinový obraz srdce"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) čtyřdutinový obraz srdce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Bilaterální ageneze ledvin",
+    "answers": [
+      "a) diagnostikuje se obtížně a pozdě (obvykle po 20 týdnu gravidity)",
+      "b) je pro plod infaustní",
+      "c) je charakterizována anhydramniem",
+      "d) všechny varianty jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) všechny varianty jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Pro vrozenou vývojovou vadu spina bifida neplatí",
+    "answers": [
+      "a) nejčastěji bývá v oblasti lumbosakrální",
+      "b) nejlépe je diagnostikovatelná při prvním ultrazvukovém screeningu",
+      "c) u plodu lze zobrazit »lemon sign«",
+      "d) nelze ji diagnostikovat ultrazvukem, ale pouze biochemickým vyšetřením"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "d) nelze ji diagnostikovat ultrazvukem, ale pouze biochemickým vyšetřením"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Od kterého týdne lze u plodu prokázat jednotlivé části končetin",
+    "answers": [
+      "a) od 12 týdne",
+      "b) od 16 týdne",
+      "c) od 20 týdne",
+      "d) od 10 týdne"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) od 10 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. V kterém rozmezí se obvykle provádí biopsie choria (CVS)",
+    "answers": [
+      "a) ve 20 týdnu",
+      "b) ve 25 týdnu",
+      "c) mezi 11-12 týdnem",
+      "d) ve 30 týdnu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) mezi 11-12 týdnem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Je gastroschíza krytá",
+    "answers": ["a) ano", "b) někdy", "c) ne", "d) vždy"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) ne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Jaký je sonografický obraz VVV mola hydatidosa",
+    "answers": [
+      "a) obraz sněhové bouře",
+      "b) obraz není typický",
+      "c) obraz anechogenní dutiny děložní",
+      "d) obraz hyperechogenní dutiny děložní"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) obraz sněhové bouře"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Který marker je zvýšen u VVV spina bifida ve vodě plodové",
+    "answers": ["a) ALT", "b) AST", "c) žádný", "d) AFP"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) AFP"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Do kterého týdne lze pozorovat tzv. placentámí migraci v ultrazvukovém obrazu",
+    "answers": [
+      "a) do 32 týdne",
+      "b) do 15 týdne",
+      "c) do 25 týdne",
+      "d) nikdy к ní nedochází"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) do 32 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Infarkty na placentě se zobrazujíjako",
+    "answers": [
+      "a) hyperechogenní ložiska",
+      "b) hypoechogenní ložiska",
+      "c) anechogenní ložiska",
+      "d) nedají se ultrazvukem zobrazit"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) hyperechogenní ložiska"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Kolik je povinných ultrazvukových vyšetření u fyziologické gravidity",
+    "answers": [
+      "a) jedno vyšetření",
+      "b) při každé návštěvě v prenatální poradně",
+      "c) dvě vyšetření",
+      "d) vyšetření nejsou povinná"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) dvě vyšetření"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Cervikometrie se provádí nejčastěji",
+    "answers": [
+      "a) vaginální sondou",
+      "b) abdominální sondou",
+      "c) cervikometrem",
+      "d) nejedná se o UZ vyšetření"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) vaginální sondou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Mezi indikace к amniocentéze obvykle nepatří",
+    "answers": [
+      "a) věk matky nad 35 let",
+      "b) pozitivní triple test",
+      "c) UZ zjištění morfologických odchylek u plodu, tzv »soft markerů«",
+      "d) přání matky"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) přání matky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Kordocentéza se provádí od",
+    "answers": [
+      "a) 30 týdne gestace",
+      "b) od 15 týdne gestace",
+      "c) lze ji provést pouze těsně před porodem",
+      "d) od 20 týdne"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) od 20 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Riziko potratu po kordocentéze je",
+    "answers": ["a) 0,5-1%", "b) 20%", "c) 10%", "d) žádné"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) 0,5-1%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Při kordocentéze odebíráme obvykle fetální krve",
+    "answers": ["a) 2-5 ml", "b) 10ml", "c) pod 1 ml", "d) 15 ml"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) 2-5 ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Amniocentéza se provádí",
+    "answers": [
+      "a) v analgosedaci",
+      "b) v lokální anestezii",
+      "c) bez anestezie",
+      "d) v celkové anestezii"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) bez anestezie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Co platí pro kordocentézu",
+    "answers": [
+      "a) provádí se po 20 týdnu gravidity",
+      "b) odebírá se krev z vena umbilicalis",
+      "c) odebírá se asi 2-5 ml fetální krve",
+      "d) všechny varianty jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) všechny varianty jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Který UZ parametr se při podezření na hypotrofizaci plodu nevyšetřuje",
+    "answers": [
+      "a) biometrie",
+      "b) průtoky v a umbilicalis",
+      "c) množství plodové vody",
+      "d) cervikometrie"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) cervikometrie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. U defektu neurální trubice (NTD) riziko postižení",
+    "answers": [
+      "a) stoupá s hodnotou sérového a-fetoproteinu (MS AFP)",
+      "b) klesá s rostoucí hodnotou MS AFP",
+      "c) klesá s rostoucí hodnotou hCG",
+      "d) stoupá s hodnotou hCG"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) stoupá s hodnotou sérového a-fetoproteinu (MS AFP)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Indikací к provedení amniocentézy je věk těhotné v době porodu",
+    "answers": [
+      "a) nad 30 let",
+      "b) nad 33 let",
+      "c) nad 35 let",
+      "d) pouze věk není indikací к provedení invazivní prenatální diagnostiky"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) nad 35 let"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Zvýšení hodnoty nuchální translucence (NT) je mimo jiné také spojeno s rizikem",
+    "answers": [
+      "a) spontánního potratu",
+      "b) makrosomie plodu",
+      "c) předčasného porodu",
+      "d) defektu obličeje novorozence"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) spontánního potratu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Koncentrace PAPP-A jsou v I trimestru u plodu s trisomií 21 nebo 18 chromosomů",
+    "answers": [
+      "a) zvýšené",
+      "b) snížené",
+      "c) PAPP-A se měří pouze ve II trimestru",
+      "d) není signifikantní rozdíl jeho koncentrace ve srovnám se zdravými plody"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) snížené"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Co nepatří mezi tzv »soft« (minor) markéry trisomie 21",
+    "answers": [
+      "a) cysty choroidálního plexu",
+      "b) pyelektazie",
+      "c) hyperechogenní střevo",
+      "d) zkrácený femur"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) cysty choroidálního plexu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Mezi povinná sonografická vyšetření v porodnictví patří",
+    "answers": [
+      "a) sonografický screening ve 20 a 38-40 týdnu gravidity",
+      "b) sonografický screening v 18-20 týdnu gravidity",
+      "c) sonografický screening v I trimestru, 18-20 a 30-32 týdnu gravidity",
+      "d) sonografický screening v 20-22 a 30-32 týdnu gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "d) sonografický screening v 20-22 a 30-32 týdnu gravidity"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. V jakém týdnu gravidity provádíme první UZ screening",
+    "answers": ["a) v 10-12", "b) ve 14", "c) ve 20-22", "d) ve 30-32"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) ve 20-22"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. V jakém týdnu gravidity provádíme druhý UZ screening",
+    "answers": ["a) v 18-20", "b) ve 24-26", "c) ve 30-32", "d) ve 38-40"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) ve 30-32"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Pseudogestační váček vzniká",
+    "answers": [
+      "a) nahromaděním tekutiny mezi vrstvami deciduy při mimoděložním těhotenství",
+      "b) při neprosperujícím nitroděložním těhotenství",
+      "c) u syndromu mizejícího dvojčete",
+      "d) ani jedna z uvedených odpovědí není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "a) nahromaděním tekutiny mezi vrstvami deciduy při mimoděložním těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Mezi nepřímé známky vitality gravidity nepatří",
+    "answers": [
+      "a) normálně rostoucí a dobře tonizovaný plodový váček",
+      "b) dobře tonizovaný a normálně velký žloutkový váček",
+      "c) subtrofoblastický průtok",
+      "d) normálně velký plod"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) subtrofoblastický průtok"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Kdy můžeme poprvé při ultrazvukovém vyšetření vaginální sondou vizualizovat srdeční akci plodu (jako pulsaci septum primům)",
+    "answers": [
+      "a) ve 4 týdnu gravidity",
+      "b) v 5-6 týdnu gravidity",
+      "c) v 7-8 týdnu gravidity",
+      "d) v 9-10 týdnu gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) v 5-6 týdnu gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Hyperechogenní dvouvrstvý obal (DDS - double decidual sac) je charakteristický pro",
+    "answers": [
+      "a) gestační váček",
+      "b) pseudogestační váček",
+      "c) žloutkový váček",
+      "d) dvoučetnou graviditu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) gestační váček"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. V 9 týdnu gravidity provádíme biometrii měřením",
+    "answers": ["a) BPD", "b) GS", "c) HC", "d) CRL"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) CRL"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Anhydramnion vídáme při",
+    "answers": [
+      "a) obstrukci GIT",
+      "b) makrosomii plodu",
+      "c) agenezi ledvin",
+      "d) rozštěpu rtu i patra"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) agenezi ledvin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Polyhydramnion vídáme zejména při",
+    "answers": [
+      "a) obstrukci GIT",
+      "b) agenezi ledvin",
+      "c) IUGR",
+      "d) rozštěpu rtu i patra"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) obstrukci GIT"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Funkční délka hrdla děložního při cervikometrii",
+    "answers": [
+      "a) má měřit alespoň 15 mm",
+      "b) ultrazvukově nelze změřit",
+      "c) je synonymum pro celkovou délku čípku",
+      "d) je měření nedilatované části cervikálního kanálu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) je měření nedilatované části cervikálního kanálu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Normální nález při cervikometrii je",
+    "answers": [
+      "a) délka hrdla 20-25 mm",
+      "b) délka hrdla nad 30 mm",
+      "c) šířka hrdla nad 30mm",
+      "d) dilatace vnitřní branky více než 10mm"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) délka hrdla nad 30 mm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Jaké množství vody plodové ve Ш trimestru hodnotíme jako oligohydramnion",
+    "answers": ["a) < 100ml", "b) < 300ml", "c) 300-1000 ml", "d) >1000ml"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) < 300ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Jaké množství vody plodové ve III trimestru hodnotíme jako normohydramnion",
+    "answers": [
+      "a) 300-1000 ml",
+      "b) < 300 ml",
+      "c) 1000-2000 ml",
+      "d) > 2000 ml"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) 300-1000 ml"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Při hodnocení množství vody plodové metodou měření největšího depa je oligohydramnion při",
+    "answers": [
+      "a) vertikálním rozměru největšího depa < 10mm",
+      "b) vertikálním rozměru největšího depa < 30mm",
+      "c) vertikálním rozměru největšího depa 30-100mm",
+      "d) vertikálním rozměru největšího depa > 100mm"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) vertikálním rozměru největšího depa < 30mm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Při hodnocení množství vody plodové metodou měření největšího depa je polyhydramnion při",
+    "answers": [
+      "a) vertikálním rozměru největšího depa < 30mm",
+      "b) vertikálním rozměru největšího depa 30-100mm",
+      "c) vertikálním rozměru největšího depa > 100 mm",
+      "d) touto metodou nelze polyhydramnion určit"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) vertikálním rozměru největšího depa > 100 mm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Co to je NT",
+    "answers": [
+      "a) měření délky nosní kosti plodu",
+      "b) měření délky stehenní kosti plodu",
+      "c) měření šíjového projasnění plodu v I trimestru",
+      "d) ani jedna odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) měření šíjového projasnění plodu v I trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Monozygotická dvojčata jsou nejčastěji",
+    "answers": [
+      "a) bichoriální, biamniální",
+      "b) monochoriální, biamniální",
+      "c) monochoriální monoamniální",
+      "d) bichoriální, monoamniální"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) monochoriální, biamniální"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Kdy je nejlepší doba pro ultrazvukové vyšetření s cílem stanovení typu chorionicity a amnionicity u dvojčat",
+    "answers": [
+      "a) v I trimestru",
+      "b) při prvním UZ screeningu v 18-20 týdnu gravidity",
+      "c) při druhém UZ screeningu ve 30-32 týdnu gravidity",
+      "d) nejlépe těsně před porodem"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) v I trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Při ultrazvukovém vyšetření v I trimestru gravidity dáváme přednost vyšetření",
+    "answers": [
+      "a) transabdominální sondou",
+      "b) vysokofrekvenční vaginální sondou",
+      "c) je jedno, zda vyšetřujeme abdominální či vaginální sondou, jelikož obě vyšetření mají stejnou rozlišovací schopnost",
+      "d) raději se vyhýbáme vyšetření vaginální sondou pro nebezpečí krvácení"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) vysokofrekvenční vaginální sondou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. U bichoriálních biamniálních dvojčat jsou odděleny obě amniové dutiny membránou skládající se",
+    "answers": [
+      "a) ze dvou vrstev choria a jedné vrstvy amnia",
+      "b) pouze ze dvou vrstev amnia",
+      "c) z jedné vrstvy choria a jedné vrstvy amnia",
+      "d) ze dvou vrstev choria a dvou vrstev amnia"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) ze dvou vrstev choria a dvou vrstev amnia"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Znak »lambda«",
+    "answers": [
+      "a) slouží ke stanovení chorionicity u dvojčat",
+      "b) absence tohoto znaku není charakteristická pro monochoriální dvojčata",
+      "c) absence tohoto znaku je charakteristická pro bichoriální dvojčata",
+      "d) bývá patrný na hlavičce při hydrocefalu plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) slouží ke stanovení chorionicity u dvojčat"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Fyziologická omfalokéla se ztrácí do",
+    "answers": [
+      "a) 12-13 týdne gravidity",
+      "b) 20 týdne gravidity",
+      "c) 30 týdne gravidity",
+      "d) 8 týdne gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) 12-13 týdne gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. Hygroma colli cysticum může být nejdříve diagnostikována",
+    "answers": [
+      "a) v I trimestru",
+      "b) ve П trimestru",
+      "c) ve III trimestru",
+      "d) většinou se nedaří ultrazvukově diagnostikovat"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) v I trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Hydrops plodu může být součástí některých patologických jevů, jako jsou",
+    "answers": [
+      "a) Rh inkompatibilita",
+      "b) jiné příčiny anémie plodu",
+      "c) některé srdeční vady plodu",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Co je příčinou ultrazvukového obrazu double bubble",
+    "answers": [
+      "a) atrézie jícnu",
+      "b) pylorostenóza",
+      "c) ageneze žaludku",
+      "d) diafragmatická hemie"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) pylorostenóza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Strawberry haed můžeme vidět u",
+    "answers": [
+      "a) trisomie 21 chromosomu",
+      "b) trisomie 13 chromosomu",
+      "c) Turnérova syndromu",
+      "d) trisomie 18 chromosomu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) trisomie 18 chromosomu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. Pro horní hranici dolního děložního segmentu při UZ klasifikaci uložení placenty se využívá zobrazení",
+    "answers": [
+      "a) symfýzy",
+      "b) vnitřní branky",
+      "c) vezikouterinní pliky při mírné náplni močového měchýře",
+      "d) spina iliaca anterior superior"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "c) vezikouterinní pliky při mírné náplni močového měchýře"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Co nepatří mezi rizikové faktory pro Downův syndrom",
+    "answers": [
+      "a) věk ženy nad 35 let",
+      "b) pozitivní screening PAPP-A a free B-hCG",
+      "c) větší AC",
+      "d) přítomnost nuchálního edému"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) větší AC"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. Od jakého týdne gravidity je uložení placenty definitivní, pokud jde o vztah к dolnímu děložnímu segmentu",
+    "answers": [
+      "a) od 12 týdne",
+      "b) od 20 týdne",
+      "c) od 32 týdne",
+      "d) od 37 týdne"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) od 32 týdne"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "85. Placenta praevia I stupně je při UZ klasifikaci definována, pokud",
+    "answers": [
+      "a) překračuje honu hranici dolního děložního segmentu nejvýše o 50mm",
+      "b) zasahuje 20 mm nad йроп pliky vezikouterinní",
+      "c) překračuje horní hranici dolního děložního segmentu o více než 50mm",
+      "d) odpovídá klinické diagnóze placenta praevia centralis"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "a) překračuje honu hranici dolního děložního segmentu nejvýše o 50mm"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "86. Jaká je prevalence Downova syndromu v populaci",
+    "answers": ["a) 1 : 1000", "b) 1 : 5000", "c) 1 : 10 000", "d) 1 : 350"],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) 1 : 1000"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "87. Za hranici významného zvýšení koncentrace sérového a-fetoproteinu při biochemickém screeningu u jednočetného těhotenstvíje považováno",
+    "answers": [
+      "a) l,5násobku mediánu (MoM)",
+      "b) 2,5násobku mediánu",
+      "c) 3,5násobku mediánu",
+      "d) 4,5násobku mediánu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) 2,5násobku mediánu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "88. Biometrický parametr, který lze využít к určení délky těhotenství v I trimestru je měření",
+    "answers": [
+      "a) délky femuru (FL)",
+      "b) obvodu hlavičky (HC)",
+      "c) šíjového projasnění (NT)",
+      "d) temeno-kostrční vzdálenosti (CRL)"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) temeno-kostrční vzdálenosti (CRL)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "89. Nuchální translucence měřená v I trimestru je",
+    "answers": [
+      "a) patrná pouze u plodů s chromosomální aberací",
+      "b) hypoechogenní oblast lokalizovaná mezi kůží a měkkými tkáněmi plodu v oblasti krční páteře",
+      "c) hypoechogenní oblast lokalizovaná mezi kůží plodu v oblasti krční páteře a amniem",
+      "d) u zdravých plodů vždy více než 3 mm"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "b) hypoechogenní oblast lokalizovaná mezi kůží a měkkými tkáněmi plodu v oblasti krční páteře"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "90. Co znamená termín fetální echokardiografíe",
+    "answers": [
+      "a) zjišťování srdeční frekvence plodu",
+      "b) je to metoda snímání ozev plodu při kardiotokografu",
+      "c) UZ vyšetření srdce plodu specialistou",
+      "d) vyšetření srdce novorozence"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) UZ vyšetření srdce plodu specialistou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "91. Co je to zobrazení v šedé škále",
+    "answers": [
+      "a) zhoršení obrazu šumem",
+      "b) různě silnému echu odpovídá stupeň šedé barvy",
+      "c) výskyt šedých artefaktů v UZ obrazu",
+      "d) šedý obraz u starého monitoru"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) různě silnému echu odpovídá stupeň šedé barvy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "92. Akci srdeční embrya detekujeme bezpečně",
+    "answers": [
+      "a) v 6 menstruačním týdnu těhotenství",
+      "b) ve 12 menstruačním týdnu těhotenství",
+      "c) v 8 menstruačním týdnu těhotenství",
+      "d) v 10 menstruačním týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) v 6 menstruačním týdnu těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "93. Ultrazvukové vlnění se vytváří pomocí",
+    "answers": [
+      "a) cívky",
+      "b) speciálního reproduktoru",
+      "c) piezoelektrických krystalů",
+      "d) integrovaného obvodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) piezoelektrických krystalů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "94. Dopplerův jev znamená",
+    "answers": [
+      "a) pravidelně se opakující zatmění měsíce",
+      "b) popis slapových sil",
+      "c) posun frekvence zvuku při odrazu od pohyblivé překážky",
+      "d) odraz ultrazvukového vlnění od překážky"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "c) posun frekvence zvuku při odrazu od pohyblivé překážky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "95. Používané frekvence ultrazvukových sond v porodnictví",
+    "answers": [
+      "a) 200-350 kHz",
+      "b) 2,5-8 MHz",
+      "c) 250-800 kHz",
+      "d) 2,5-5 kHz"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) 2,5-8 MHz"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "96. Hmotnostní odhad plodu v poloze koncem pánevním",
+    "answers": [
+      "a) provádíme stejně jako u plodu v poloze podélné hlavičkou",
+      "b) neprovádíme",
+      "c) není vzhledem к poloze plodu možný",
+      "d) je sice nejméně přesnou metodou odhadu, ale přesto jej provádíme"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "a) provádíme stejně jako u plodu v poloze podélné hlavičkou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "97. Biometrie plodu se využívá též",
+    "answers": [
+      "a) к měření průtoku v arteria umbilicalis",
+      "b) ke stanovení hmotnostního odhadu plodu",
+      "c) ke zhodnocení množství vody plodové",
+      "d) к změření bazální frekvence srdce plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["b) ke stanovení hmotnostního odhadu plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "98. Ke stanovenístáří těhotenství před 12 týdnem gestace používáme",
+    "answers": [
+      "a) délku femuru (FL)",
+      "b) měření srdeční frekvence",
+      "c) měření temeno-kostrční délky (CRL)",
+      "d) zhodnocení morfologie vývoje mozkových struktur"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) měření temeno-kostrční délky (CRL)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "99. Hmotnost plodu běžně odhadujeme",
+    "answers": [
+      "a) výpočtem z UZ měření BPD, KP a FL",
+      "b) odhadem podle CRL",
+      "c) nejpřesnější je odhad podle měření vzdálenosti spona -fundus děložní",
+      "d) výpočtem z UZ měření BPD, AC a FL"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) výpočtem z UZ měření BPD, AC a FL"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "100. Při screeningovém vyšetření ve 20-22 týdnu standardně neprovádíme",
+    "answers": [
+      "a) zhodnocení morfologie srdce",
+      "b) zjištění počtu plodů",
+      "c) karyotypizaci",
+      "d) zhodnocení morfologie končetin"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) karyotypizaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "101. V rámci ultrazvukového screeningu ve 20-22 týdnu těhotenství běžně neprovádíme",
+    "answers": [
+      "a) biometrii plodu",
+      "b) zhodnocení množství plodové vody",
+      "c) flowmetrii - měření průtoků v arteria umbilicalis",
+      "d) zhodnocení uložení placenty"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) flowmetrii - měření průtoků v arteria umbilicalis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "102. Co není běžnou součástí prvního screeningového ultrazvukového vyšetření",
+    "answers": [
+      "a) kontrola kontinuity horního rtu plodu",
+      "b) zhodnocení morfologie srdce plodu",
+      "c) kontrola morfologie a počtu prstů končetin plodu",
+      "d) stanovení pohlaví plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) stanovení pohlaví plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "103. Co platí pro ultrazvukové screeningové vyšetření ve 30-32 týdnu těhotenství",
+    "answers": [
+      "a) biometrii již neprovádíme",
+      "b) zhodnocení srdeční anatomie již není možné",
+      "c) ověřujeme mimo jiné i polohu plodu a množství plodové vody",
+      "d) mozek plodu ještě není plně vyvinut"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "c) ověřujeme mimo jiné i polohu plodu a množství plodové vody"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "104. Co běžně neprovádíme při vyšetření ve 20-22 týdnu těhotenství",
+    "answers": [
+      "a) hodnocení šíře postranních mozkových komor plodu",
+      "b) zhodnocení srdeční anatomie plodu",
+      "c) ověření počtu plodů",
+      "d) měření délky plosky nohy plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["d) měření délky plosky nohy plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "105. Měření délky děložního hrdla je",
+    "answers": [
+      "a) standardní a povinnou součástí ultrazvukového screeningového vyšetření",
+      "b) měření délky děložního hrdla a zhodnocení tvaru vnitřní branky v těhotenství",
+      "c) měření obvodu krčku plodu",
+      "d) součástí onkologického screeningu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "b) měření délky děložního hrdla a zhodnocení tvaru vnitřní branky v těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "106. Jaká je poloha a uložení plodu při ultrazvukovém vyšetření ve 20-22 týdnu",
+    "answers": [
+      "a) již téměř stabilní, u 95 % plodů zjištěná poloha plodu přetrvá až do porodu",
+      "b) u naprosté většiny plodů je poloha koncem pánevním",
+      "c) poloha plodu je volná",
+      "d) ještě není zjistitelná"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) poloha plodu je volná"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "107. Ultrazvukový screening u nás provádíme standardně",
+    "answers": [
+      "a) ve 20-22 týdnu a ve 30-32 týdnu těhotenství",
+      "b) v 11 -13 týdnu a 22-24 týdnu těhotenství",
+      "c) jen u rizikových těhotných",
+      "d) screeningový program není plošně zaveden"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) ve 20-22 týdnu a ve 30-32 týdnu těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "108. Které z následujících měřeníje nejpřesnější pro určení gestačního stáří podle ultrazvuku",
+    "answers": [
+      "a) transvaginální měření gestačního váčku v 5 týdnu těhotenství",
+      "b) měření FL (femuru) ve 20 týdnu těhotenství",
+      "c) měření CRL (crown-rump length) v 7 týdnu",
+      "d) měření BPD (bipatrietálního průměru) ve 24 týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) měření CRL (crown-rump length) v 7 týdnu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "109. Která z následujících metod je nejpřesnější pro stanovení gestačního stáří resp termínu porodu",
+    "answers": [
+      "a) měření vzdálenosti SF (symfýza -fundus)",
+      "b) stanovení podle PM (poslední menstruace)",
+      "c) ultrazvukové měření vzdálenosti CRL (crown-rump length) v I trimestru těhotenství",
+      "d) ultrazvukové měření průměru gestačního váčku"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "c) ultrazvukové měření vzdálenosti CRL (crown-rump length) v I trimestru těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "110. Co je zvláště důležité při ultrazvukovém vyšetření plodu v poloze koncem pánevním",
+    "answers": [
+      "a) stanovení postavení plodu",
+      "b) popis uložení ruček plodu",
+      "c) přesný hmotnostní odhad plodu",
+      "d) pohlaví plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["c) přesný hmotnostní odhad plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "111. Stanovení chorionicity vícečetného těhotenství",
+    "answers": [
+      "a) neprovádíme ultrazvukem",
+      "b) je možné provést ultrazvukem, nejpřesněji v I trimestru",
+      "c) je možné provést ultrazvukem, nejpřesněji ve П trimestru",
+      "d) je možné až při porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": [
+      "b) je možné provést ultrazvukem, nejpřesněji v I trimestru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "112. Indikací к provedení flowmetrie (měření průtoku v arteria umbilicalis) je",
+    "answers": [
+      "a) podezření na růstovou retardaci plodu",
+      "b) nadměrné množství plodové vody",
+      "c) volná poloha plodu v 16 týdnu těhotenství",
+      "d) nález zkalené plodové vody na UZ"
+    ],
+    "book": ["Živný"],
+    "topic": ["5. Ultrasonografie v porodnictví. I. ČÁST pregraduální"],
+    "correctAnswers": ["a) podezření na růstovou retardaci plodu"],
+    "description": [""],
+    "img": [""]
   }
 ]
