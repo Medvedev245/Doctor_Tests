@@ -61443,5 +61443,3782 @@
     ],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. U hraničně zúžené pánve je conjugata diagonalis",
+    "answers": ["a) 11-12 cm", "b) 16-17cm", "c) 17-18cm", "d) 18-19cm"],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 11-12 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Hraničně zúženou pánev definuje rozměr conjugata externa",
+    "answers": [
+      "a) menší než 17 cm",
+      "b) 17-18cm",
+      "c) 18-19cm",
+      "d) větší než 20 cm"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 17-18cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Vakumextrakce je",
+    "answers": [
+      "a) operační metoda pro vybavení donošeného plodu",
+      "b) metoda pro ukončení těhotenství do 12 týdne",
+      "c) metoda pro odstranění dělohy vaginální cestou",
+      "d) endoskopická metoda pro získání zralého oocytů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) operační metoda pro vybavení donošeného plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. U patologicky zúžené pánve je conjugata diagonalis",
+    "answers": [
+      "a) menší než 11 cm",
+      "b) menší než 14 cm",
+      "c) menší než 16 cm",
+      "d) menší než 18 cm"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) menší než 11 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. U patologicky zúžené pánve je conjugata externa",
+    "answers": [
+      "a) menší než 22 cm",
+      "b) menší než 20 cm",
+      "c) menší než 17 cm",
+      "d) menší než 15 cm"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) menší než 17 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Příznakem kefalopelvického nepoměru není",
+    "answers": [
+      "a) zevní nepoměr",
+      "b) při vaginálním vyšetření je hlavička nad rovinou pánevního vchodu",
+      "c) při vyšetření se švy začínají překládat",
+      "d) hypoxie plodu na monitoru"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) hypoxie plodu na monitoru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Při kefalopelvickém nepoměru ukončíme porod",
+    "answers": [
+      "a) císařským řezem",
+      "b) vakuumextrakcí",
+      "c) kleštěmi",
+      "d) spontánně"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) císařským řezem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Nejčastější příčinou kefalopelvického nepoměru je",
+    "answers": [
+      "a) hypertrofie plodu",
+      "b) indiferentní naléhání hlavičky",
+      "c) deflexní poloha",
+      "d) spastická branka"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) hypertrofie plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Do skupiny příčně zúžených pánví patří",
+    "answers": [
+      "a) pánev prostě plochá",
+      "b) pánev nálevkovitá",
+      "c) pánev luxační",
+      "d) pánev osteomalatická"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) pánev prostě plochá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Jako pánev šikmo zúženou označujeme",
+    "answers": [
+      "a) pánev luxační",
+      "b) pánev asimilační",
+      "c) pánev kyfotickou",
+      "d) pánev všeobecně stejnoměrně zúženou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) pánev luxační"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Přední asynklytismus - obliquitas Naegele - při vaginálním vyšetření",
+    "answers": [
+      "a) šev šípový se nachází blíže promontoria",
+      "b) šev šípový se nachází blíže symfýzy",
+      "c) šev šípový je v přímém průměru pánevního vchodu",
+      "d) šev šípový je v prvním šikmém průměru"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) šev šípový se nachází blíže promontoria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Zadní asynklitismus se nazývá podle",
+    "answers": [
+      "a) Litzmanna",
+      "b) Naegeleho",
+      "c) Baudelocquea",
+      "d) Simpsona"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) Litzmanna"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Při vaginálním vyšetření hmatáme při zadním asynklitismu",
+    "answers": [
+      "a) šev šípový za sponou",
+      "b) šev šípový blíže promontoria",
+      "c) šev šípový centrálně",
+      "d) šev šípový v druhém šikmém průměru"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) šev šípový za sponou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Příčinou vysokého přímého stavu hlavičky je",
+    "answers": [
+      "a) patologická pánev",
+      "b) krátký pupečník",
+      "c) hyperaktivita děložní",
+      "d) plný močový měchýř"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) patologická pánev"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Při asynklitismu ukončíme porod",
+    "answers": [
+      "a) císařským řezem",
+      "b) klešťovým porodem",
+      "c) vakuumextrakcí",
+      "d) per vias naturales"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) císařským řezem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Pelveolýza je způsobena",
+    "answers": [
+      "a) tlakem hlavičky na sponu v těhotenství",
+      "b) hormonálními vlivy",
+      "c) přírůstkem váhy u žen v těhotenství",
+      "d) na základě dysplazie v dětství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) hormonálními vlivy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Za předčasný označujeme odtok plodové vody v případě",
+    "answers": [
+      "a) spontánního odtoku plodové vody před děložní činností",
+      "b) spontánního odtoku nebo při arteficiálním protržení vaku blan během I doby porodní",
+      "c) spontánního odtoku nebo při arteficiálním protržení vaku blan ve П době porodní",
+      "d) spontánního odtoku nebo při arteficiálním protržení vaku blan po začátku děložní činnosti"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) spontánního odtoku plodové vody před děložní činností"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Při deflexních polohách není nikdy vedoucím bodem",
+    "answers": [
+      "a) malá fontanela",
+      "b) velká fontanela",
+      "c) čelo",
+      "d) obličej"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) malá fontanela"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Kittrichovou metodou je",
+    "answers": [
+      "a) barvení nátěru sekretu z děložního hrdla",
+      "b) barvení 0,5 % roztokem sulfátu nilské modři",
+      "c) mikroskopicky prokazuje přítomnost mázku a kožních epitelií plodu",
+      "d) vše je správně"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) vše je správně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Po předčasném odtoku plodové vody u těhotenství 37 týdne provokujeme obvykle porod",
+    "answers": [
+      "a) za 10 hodin",
+      "b) za 24 hodin",
+      "c) za 48 hodin",
+      "d) čekáme na spontánní začátek porodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) za 24 hodin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Děložní hyperaktivita se na monitoru projevuje",
+    "answers": [
+      "a) vzestupem amplitud",
+      "b) zkrácením mezikontrakčního období",
+      "c) zvýšenou frekvencí kontrakcí",
+      "d) všechna tvrzení jsou pravdivá"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechna tvrzení jsou pravdivá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Děložní hyperaktivitu tlumíme",
+    "answers": [
+      "a) infúzí s magnéziem",
+      "b) infúzí s atosibanem",
+      "c) infúzí s Gynipralem",
+      "d) všechny možnosti jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny možnosti jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Jako hysterostomatotomii označujeme",
+    "answers": [
+      "a) mělké nástřihy branky nůžkami",
+      "b) digitální dilataci branky",
+      "c) roztržení branky peánem",
+      "d) incize branky skalpelem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) mělké nástřihy branky nůžkami"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. U vysokého přímého stavu",
+    "answers": [
+      "a) hlavička prochází pánví bez rotace",
+      "b) hlavička je nad vchodem a je flektována",
+      "c) hlavička vstupuje do pánve švem šípovým v přímém průměru",
+      "d) všechna tvrzení jsou správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) hlavička vstupuje do pánve švem šípovým v přímém průměru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. U hlubokého příčného stavu",
+    "answers": [
+      "a) hlavička neprovede na dně pánevním vnitřní rotaci",
+      "b) hlavička se při vnitřní rotaci otočí záhlavím к symfýze",
+      "c) hlavička nevstupuje do pánve",
+      "d) hlavička se při vnitřní rotaci otočí záhlavím do vyhloubení kosti křížové"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) hlavička neprovede na dně pánevním vnitřní rotaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Abnormální rotace hlavičky při porodu záhlavím znamená",
+    "answers": [
+      "a) při vnitřní rotaci se hlavička otáčí záhlavím ke sponě",
+      "b) při vnitřní rotaci se hlavička otáčí záhlavím do vyhloubení kosti křížové",
+      "c) při vnitřní rotaci dochází к rotaci o 180 stupňů",
+      "d) hlavička se konformuje"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) při vnitřní rotaci se hlavička otáčí záhlavím do vyhloubení kosti křížové"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Vedoucím bodem při poloze předhlavím je",
+    "answers": ["a) malá fontanela", "b) bregma", "c) čelo", "d) maxilla"],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) bregma"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Prostupujícím obvodem u čelní polohy je",
+    "answers": [
+      "a) obvod frontookcipitální",
+      "b) obvod maxilloparietální",
+      "c) obvod subokcipitobregmatický",
+      "d) obvod frontookcipitální"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) obvod maxilloparietální"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Při deflexních polohách dochází к poruše držení",
+    "answers": [
+      "a) hlavičky",
+      "b) horních končetin plodu",
+      "c) dolních končetin plodu",
+      "d) horních i dolních končetin plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) hlavičky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Temenní poloha je",
+    "answers": [
+      "a) u donošeného plodu neporoditelná",
+      "b) nejedná se o deflexní polohu",
+      "c) jedná se o nejtěžší stupeň deflexe hlavičky",
+      "d) jedná se o nejmímější stupeň deflexe"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) jedná se o nejmímější stupeň deflexe"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. U deflexních poloh rotuje vedoucí bod",
+    "answers": [
+      "a) pod sponu",
+      "b) do vyhloubení kosti křížové",
+      "c) к rotaci dochází nad vchodem",
+      "d) vedoucí bod nerotuje"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) pod sponu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Z deflexních poloh donošeného plodu je neporoditelná spontánně",
+    "answers": [
+      "a) čelní poloha",
+      "b) poloha koncem pánevním",
+      "c) poloha záhlavím",
+      "d) poloha předhlavím"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) čelní poloha"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. U polohy předhlavím je vedoucím bodem",
+    "answers": [
+      "a) velká fontanela",
+      "b) malá fontanela",
+      "c) kořen nosu",
+      "d) obličej"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) velká fontanela"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Zjištěnou deflexní polohu řešíme",
+    "answers": [
+      "a) posílením kontrakcí infúzi s oxytocinem",
+      "b) operačním ukončením porodu kleštěmi",
+      "c) vakuumextrakcí",
+      "d) primárně císařským řezem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) primárně císařským řezem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. U neúplného konce pánevního vedeme porod",
+    "answers": [
+      "a) spontánně",
+      "b) per sectionem caesaream",
+      "c) provedeme extrakci",
+      "d) vedeme porod medikamentózně"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) per sectionem caesaream"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Zjištěná příčná poloha je indikací",
+    "answers": [
+      "a) к ukončení porodu per sectionem caesaream",
+      "b) к indukci porodu",
+      "c) к obratu plodu sdruženými hmaty na polohu koncem pánevním",
+      "d) к obratu plodu na hlavičku zevními hmaty v průběhu porodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) к ukončení porodu per sectionem caesaream"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Ve druhé době porodní při vztyčení ruček u konce pánevního je indikováno",
+    "answers": [
+      "a) stažení ruček a dokončení porodu extrakcí",
+      "b) podpora kontrakcí infúzi s oxytocinem",
+      "c) provedení sectio caesarea",
+      "d) použití forcepsu na konec pánevní"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) stažení ruček a dokončení porodu extrakcí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Při hypoaktivitě děložní v průběhu porodu podáváme",
+    "answers": [
+      "a) oxytocin v infúzi",
+      "b) Prepidil gel",
+      "c) aplikujeme Enzaprost intracervikálně",
+      "d) podáváme Partussisten v infúzi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) oxytocin v infúzi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Při abnormální rotaci záhlavím je vedoucím bodem",
+    "answers": [
+      "a) malá fontanela",
+      "b) velká fontanela",
+      "c) glabela",
+      "d) temeno"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) malá fontanela"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Po spontánním porodu dvojčat a placenty dochází к silnému krvácení, jehož příčinou je nejčastěji",
+    "answers": [
+      "a) atonie děložní",
+      "b) diseminovaná intravaskulámí koagulace (DIC)",
+      "c) poranění porodních cest",
+      "d) retence blan"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) atonie děložní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Po spontánním porodu rodička začíná silně krvácet. Jaké opatření provedeme",
+    "answers": [
+      "a) aplikujme oxytocin v infúzi",
+      "b) provedeme manuální a instrumentální revizi",
+      "c) aplikujeme cervikálně prostaglandiny",
+      "d) všechna opatření jsou správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechna opatření jsou správná"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Po spontánním porodu dlouho odumřelého plodu a placenty rodička začíná silně krvácet - nejpravděpodobnější příčinou je",
+    "answers": [
+      "a) afibrinogenémie",
+      "b) retence kotyledonu",
+      "c) poranění rodidel",
+      "d) atonie děložní"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) afibrinogenémie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. V případě odumřelého plodu během porodu neaplikujeme",
+    "answers": [
+      "a) antibiotika",
+      "b) Clexane",
+      "c) antitrombin",
+      "d) oxytocin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) antitrombin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Velmi silné krvácení po dirupci vaku blan nejspíše svědčí pro",
+    "answers": [
+      "a) nepoznaná vasa praevia",
+      "b) placenta praevia",
+      "c) rychlou dilataci děložního hrdla",
+      "d) není významné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) nepoznaná vasa praevia"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Jaký lék nesmím použít к provokaci porodu",
+    "answers": [
+      "a) Methylergometrin",
+      "b) Oxytocin",
+      "c) Prepidil gel",
+      "d) Enzaprost"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) Methylergometrin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Obrat vnitřními hmaty může být indikován pouze",
+    "answers": [
+      "a) u porodu plodu v poloze příčné",
+      "b) u porodu dvojčat v případě stočení plodu В do polohy příčné",
+      "c) u polohy koncem pánevním",
+      "d) u hlubokého příčného stavu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) u porodu dvojčat v případě stočení plodu В do polohy příčné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. U dvojčat v případě uložení plodu A v poloze podélné hlavičkou a plodu В koncem pánevním indikujeme",
+    "answers": [
+      "a) primárně císařský řez",
+      "b) porod vedeme per vias naturales",
+      "c) indikujeme porod v 37 týdnu těhotenství",
+      "d) provedeme klasickou indukci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) primárně císařský řez"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Za adekvátní terapii při atonickém postpartálním krvácení (placenta včetně blan je kompletní!) primárně považujeme",
+    "answers": [
+      "a) aplikaci kontrakčních látek",
+      "b) hysterektomii",
+      "c) tamponádu děložní",
+      "d) Credého hmat"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) aplikaci kontrakčních látek"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Při Pfannestielově řezu jsou příčně přestřiženy tyto svaly",
+    "answers": [
+      "a) žádný sval",
+      "b) mm. obliqus extemus a intemus",
+      "c) m. pyramidalis",
+      "d) m. rectus abdominis"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) žádný sval"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. V případě sekundigravidy, u nichž první těhotenství bylo ukončeno pro hypoxii císařským řezem, v případě druhého porodu",
+    "answers": [
+      "a) porod vedeme per vias naturales v termínu porodu",
+      "b) indukujeme porod před termínem",
+      "c) ukončujeme vždy těhotenství per sectionem caesaream",
+      "d) ve II. době porod ukončujeme per forcipem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) porod vedeme per vias naturales v termínu porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. U spontánního porodu primipary došlo к zániku branky. Nález se nemění 2 hodiny přes dobrou kontrakční činnost, hlavička je sotva malým oddílem a oxymetrie ukazuje saturaci 30 %. Jaký postup zvolíme",
+    "answers": [
+      "a) císařský řez",
+      "b) aplikujeme infuzi s oxytocinem",
+      "c) ukončíme porod per forcipem Breus",
+      "d) dále polohujeme pacientku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) císařský řez"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. U 301eté potřetí rodící ženy s pravidelnými kontrakcemi při přijmu zjistíme v amnioskopu silně zeleně zkalenou vodu. Volíme tento postup",
+    "answers": [
+      "a) pacientku bez přípravy přeložíme na sál, protrhneme vak blan a monitorujeme",
+      "b) ihned indikujeme císařský řez",
+      "c) uložíme na čekatelský pokoj a pacientku monitorujeme",
+      "d) pacientku dáme do přípravy a čekáme další vývoj porodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) pacientku bez přípravy přeložíme na sál, protrhneme vak blan a monitorujeme"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Při příjmu 351eté pacientky po IVF, s odteklou silně zkalenou vodou, při nálezu 4centimetrové branky, nepravidelnými kontrakcemi a tachykardií nad 180, provedeme následující opatření",
+    "answers": [
+      "a) pacientku ihned indikujeme к primárnímu císařskému řezu",
+      "b) pacientku uložíme na čekatelský pokoj к dalšímu sledování",
+      "c) pacientku dáme do přípravy",
+      "d) pacientku ihned přeložíme na sál a pokusíme se pomocí oxymetrie monitorovat stav plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) pacientku ihned indikujeme к primárnímu císařskému řezu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. U pacientky s nepravidelnými kontrakcemi a ještě těhotenským nálezem zjišťujeme v moči proteinurii »na jeden kříž«, TK 140/95, otoky dolních končetin",
+    "answers": [
+      "a) pacientku přijmeme к observaci",
+      "b) pacientku objednáme ke kontrole za 3 dny",
+      "c) pacientku ihned indikujeme к císařskému řezu",
+      "d) pacientku indukujeme"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) pacientku přijmeme к observaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. К příznakům hrozící preeklampie nepatří",
+    "answers": [
+      "a) bolesti zad kolikovitého charakteru",
+      "b) bolesti v podbřišku a nauzea",
+      "c) bolesti hlavy",
+      "d) poruchy vidění"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) bolesti zad kolikovitého charakteru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Při odtoku plodové vody ve 28 týdnu těhotenství",
+    "answers": [
+      "a) ihned provedeme provokaci a vyvoláme porod",
+      "b) podáváme antibiotika a kortikoidy, provedeme laboratorní vyšetření a pacientku a plod sledujeme",
+      "c) ihned indikujeme císařský řez",
+      "d) pouze pacientku hospitalizujeme a vyčkáme spontánního nástupu porodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) podáváme antibiotika a kortikoidy, provedeme laboratorní vyšetření a pacientku a plod sledujeme"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Při odtoku čiré plodové vody ve 34 týdnu těhotenství u pacientky s těhotenským nálezem na hrdle bez kontrakcí",
+    "answers": [
+      "a) provedeme provokaci porodu pomocí prostaglandinů do 24 hodin",
+      "b) pouze pacientku sledujeme",
+      "c) ukončíme těhotenství primárním císařským řezem",
+      "d) provokaci porodu provedeme infúzi s oxytocinem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) provedeme provokaci porodu pomocí prostaglandinů do 24 hodin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. U diabetické pacientky s pravidelnými kontrakcemi při přijetí zjišťujeme při zevním vyšetření zevní nepoměr, UZ potvrzuje plod váhové kategorie nad 4500 g, při vaginálním vyšetření zjišťujeme asynklitismus Litzmannův",
+    "answers": [
+      "a) porod vedeme císařským řezem",
+      "b) porod vedeme spontánně",
+      "c) ve druhé době porodní vedeme porod per forcipem",
+      "d) porod vedeme aktivně pomocí infúze s oxytocinem v epidurální anestezii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) porod vedeme císařským řezem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Mezi nejzávažnější rizika předčasného odtoku plodové vody patří",
+    "answers": [
+      "a) hypoxie plodu",
+      "b) předčasný porod",
+      "c) slabé kontrakce v I а II době porodní",
+      "d) infekce"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) infekce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Nejčastější příčinou předčasného porodu je",
+    "answers": [
+      "a) infekce",
+      "b) inkompetence hrdla",
+      "c) námaha rodičky",
+      "d) předčasný odtok plodové vody"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) infekce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Parciální tokolýza je",
+    "answers": [
+      "a) snížení děložní hyperaktivity pomocí tokolytik",
+      "b) zástava porodní činnosti pomocí tokolytik",
+      "c) úprava nadměrné děložní činnosti aplikací epidurální analgezie",
+      "d) všechny uvedené způsoby označujeme jako parciální tokolýzu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) snížení děložní hyperaktivity pomocí tokolytik"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Obrat zevními hmaty provádíme",
+    "answers": [
+      "a) při začátku porodu",
+      "b) ve 38 týdnu ambulantně",
+      "c) v 38 týdnu při hospitalizaci za současné tokolýzy",
+      "d) v 36 týdnu, kdy je plod ještě pohyblivý"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) v 38 týdnu při hospitalizaci za současné tokolýzy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Při eklamptickém záchvatu je nejdůležitější",
+    "answers": [
+      "a) zajistit žilní vstupy",
+      "b) provést intubaci",
+      "c) umístit pacientku do klidu",
+      "d) dát pacientce masku s kyslíkem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) zajistit žilní vstupy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Obrat vnitřními hmaty může být indikován ve zcela výjimečném případě",
+    "answers": [
+      "a) u polohy příčné",
+      "b) u tzv. vysokého přímého stavu",
+      "c) u polohy koncem pánevním",
+      "d) u tzv. hlubokého příčného stavu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) u polohy příčné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Při kterém chorobném stavu neočekáváme předčasné odlučování lůžka",
+    "answers": [
+      "a) sérologickém konfliktu",
+      "b) preeklampsii",
+      "c) úrazu břicha",
+      "d) hypertenzní chorobě matky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) sérologickém konfliktu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Při abrupci placenty je podání tokolytik",
+    "answers": [
+      "a) jednoznačně kontraindikované",
+      "b) indikované",
+      "c) indikované v některých případech",
+      "d) kontraindikované pouze v některých případech"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) jednoznačně kontraindikované"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Frekvence příčné polohy u donošeného plodu je",
+    "answers": ["a) 0,3-0,5%", "b) 5-10%", "c) 5%", "d) 1%"],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 0,3-0,5%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Příčnou polohu nejlépe diagnostikujeme",
+    "answers": [
+      "a) amnioskopií",
+      "b) zevním vyšetřením",
+      "c) vnitřním vyšetřením",
+      "d) ultrazvukem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) ultrazvukem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Sekundárně slabé kontrakce definujeme",
+    "answers": [
+      "a) jako slabé kontrakce po původně normální děložní činnosti",
+      "b) jako kontrakce navazující na primárně slabé kontrakce",
+      "c) kontrakce vznikající na podkladě parciální tokolýzy",
+      "d) jako kontrakce fyziologické ve druhé době porodní"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) jako slabé kontrakce po původně normální děložní činnosti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Partus precipitatus znamená",
+    "answers": [
+      "a) překotný porod",
+      "b) předčasný porod",
+      "c) porod precipitovaného plodu",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) překotný porod"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Dystokia cervicocorporalisje",
+    "answers": [
+      "a) porucha souhry kontrakční činnosti těla a dolního děložního segmentu",
+      "b) rigita děložního hrdla",
+      "c) jiný výraz pro Bandlovu rýhu",
+      "d) častá u polohy podélné hlavičkou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) porucha souhry kontrakční činnosti těla a dolního děložního segmentu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Překotný porod trvá",
+    "answers": [
+      "a) méně než 3 hodiny",
+      "b) více než 4 hodiny",
+      "c) méně než 30 minut",
+      "d) proběhne bez účasti porodníka"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) méně než 30 minut"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Nejčastějším porodním poraněním plodu je",
+    "answers": [
+      "a) kefalhematom",
+      "b) porodní nádor",
+      "c) zlomenina humeru",
+      "d) paréza krčních svalů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) kefalhematom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Placenta praevia marginalis",
+    "answers": [
+      "a) placenta zasahuje svým okrajem к vnitřní brance",
+      "b) placenta je umístěna ve hraně děložní",
+      "c) placenta zasahuje к zevní brance",
+      "d) placentu hmatáme při vnitřním vyšetření"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) placenta zasahuje svým okrajem к vnitřní brance"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. Při podezření na placenta praevia provedeme okamžitě",
+    "answers": [
+      "a) ultrazvukové vyšetření",
+      "b) palpační vyšetření",
+      "c) amnioskopii к potvrzení diagnózy",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) ultrazvukové vyšetření"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Příčinou předčasného porodu nebývá",
+    "answers": [
+      "a) makrosomie plodu",
+      "b) inkompetence hrdla",
+      "c) malformace plodu",
+      "d) předčasný odtok vody plodové"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) makrosomie plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Placentami dysfunkce může vést za porodu",
+    "answers": [
+      "a) к hypoxii plodu",
+      "b) к překotnému porodu",
+      "c) ke krvácení",
+      "d) к poruše děložní činnosti"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) к hypoxii plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. К zamezení krvácení po porodu placenty je nezbytná",
+    "answers": [
+      "a) retrakce dělohy",
+      "b) kontrakce děložního svalu",
+      "c) trombotizace děložních cév",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Při porodu mrtvého plodu je pacientka nejčastěji ohrožena",
+    "answers": [
+      "a) sepsí",
+      "b) psychózou",
+      "c) velkým poraněním",
+      "d) vykrvácením"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) sepsí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Vasa praevia při začátku porodu při nálezu branky diagnostikujeme nejbezpečněji",
+    "answers": [
+      "a) při vyšetření v zrcadlech",
+      "b) palpačně",
+      "c) amnioskopem",
+      "d) ultrazvukem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) při vyšetření v zrcadlech"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Při předčasném porodu se nejčastěji setkáváme",
+    "answers": [
+      "a) s hyperaktivitou děložní",
+      "b) s hypoaktivitou děložní",
+      "c) s hypertonem děložním",
+      "d) s hypotonií děložní"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) s hyperaktivitou děložní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. Hypertonie děložní je typický znak",
+    "answers": [
+      "a) pro abrupci placenty",
+      "b) předčasný porod",
+      "c) postmaturitu",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) pro abrupci placenty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Děložní činnost u porodu dvojčat je nejčastěji",
+    "answers": ["a) slabá", "b) silná", "c) normální", "d) diskoordinovaná"],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) slabá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. U porodu dvojčat ve třetí době porodníje nejčastější komplikací",
+    "answers": [
+      "a) hypotonie děložní",
+      "b) zadržení placenty následkem spazmu branky",
+      "c) třetí doba porodní probíhá jako po porodu jednoho dítěte",
+      "d) kontrakční a retrakční schopnost dělohy je větší - ztráta krevní je menší"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) hypotonie děložní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "85. Lékem použitelným při eklamptickém záchvatu není",
+    "answers": ["a) magnézium", "b) Diazepam", "c) Nepresol", "d) Vasocardin"],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) Vasocardin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "86. Atonii děložní zásadně neléčíme",
+    "answers": [
+      "a) tamponádou děložní",
+      "b) podáním prostaglandinů intracervikálně",
+      "c) podáním oxytocinu v infůzi",
+      "d) aplikací námelových alkaloidů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) tamponádou děložní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "87. Cervenohnědé zabarvení plodové vody nejčastěji nacházíme",
+    "answers": [
+      "a) v případě intrauterinní smrti plodu",
+      "b) při onemocnění matky hepatopatií",
+      "c) v případě onemocnění matky diabetem",
+      "d) v případě morbus haemolyticus fetalis"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) v případě intrauterinní smrti plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "88. Žluté zabarvení plodové vody nacházíme",
+    "answers": [
+      "a) u morbus haemolyticum neonatorum",
+      "b) u hydrops fetus universalis",
+      "c) u infekční žloutenky novorozence",
+      "d) u preeklapsie matky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) u morbus haemolyticum neonatorum"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "89. Příčinou děložní atonie je",
+    "answers": [
+      "a) únava děložního svalu",
+      "b) těhotenská hepatopatie",
+      "c) preekiampsie",
+      "d) porucha srážlivosti krve"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) únava děložního svalu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "90. Příznakem hypovolemického šoku není",
+    "answers": [
+      "a) náhlá ztráta vědomí",
+      "b) zrychlení pulsů",
+      "c) pokles krevního tlaku",
+      "d) oligurie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) náhlá ztráta vědomí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "91. Při zjištění inkancerované dělohy",
+    "answers": [
+      "a) podáme námelové alkaloidy",
+      "b) podáme spazmolytika",
+      "c) vybavíme placentu tahem za pupečník",
+      "d) vybavíme placentu Credého hmatem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) podáme spazmolytika"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "92. V případě endomyometritidy v šestinedělí nepodáváme",
+    "answers": [
+      "a) Mysalfon",
+      "b) Methylergometrin",
+      "c) antibiotika",
+      "d) oxytocin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) Mysalfon"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "93. Mezi metody porodnické analgezie v průběhu spontánního porodu nepatří",
+    "answers": [
+      "a) spinální anestezie",
+      "b) epidurální analgezie",
+      "c) pudendální blok",
+      "d) neuroplegická analgezie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) spinální anestezie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "94. Při monitorování plodu na zádech dojde v těhotenství u plodu к deceleraci ozev",
+    "answers": [
+      "a) pravděpodobně se jedná o syndrom vena cava caudalis",
+      "b) jde o těžkou hypoxii",
+      "c) pravděpodobně se jedná o pupečníkovou komplikaci",
+      "d) jedná se o placentám! insuficienci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) pravděpodobně se jedná o syndrom vena cava caudalis"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "95. Syndrom vena cava caudalis v těhotenstvíje výrazem",
+    "answers": [
+      "a) stištění dolní duté žíly objemnou a těžkou dělohou v poloze vleže na zádech matky",
+      "b) placentámí insuficienci",
+      "c) stištění pupečmku plodu",
+      "d) vysokého stavu bránice a reflexního působení na myokard"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) stištění dolní duté žíly objemnou a těžkou dělohou v poloze vleže na zádech matky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "96. Při výhřezu pupečníku při porodu v poloze hlavičkou",
+    "answers": [
+      "a) provedeme protržení vaku blan a obrat vnitřními I hmaty",
+      "b) je plod bezprostředně ohrožen hypoxii a provádíme císařský řez, výjimečně při splněných podmínkách užijeme forceps",
+      "c) neprovádíme žádná opatřeni, protože ohrožení plodu je malé, pouze sledujeme frekvence ozev plodu kardiotokograficky",
+      "d) vyčkáme zániku branky a pak provedeme repozici pupečníku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) je plod bezprostředně ohrožen hypoxii a provádíme císařský řez, výjimečně při splněných podmínkách užijeme forceps"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "97. Kraniotomie je",
+    "answers": [
+      "a) řez na děloze při císařském řezu v její kraniální části",
+      "b) je část operace porodními kleštěmi (uchopení hlavičky kleštěmi)",
+      "c) souhrnný název zmenšovacích operací na hlavičce plodu",
+      "d) naříznutí nebo nástřih hráze nad dolní třetinou obvodu poševního vchodu, prováděný při některých vaginálních porodnických operacích"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) souhrnný název zmenšovacích operací na hlavičce plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "98. Perinatální úmrtnost a riziko poškození plodu při spontánním vedení porodu v poloze podélné koncem pánevním",
+    "answers": [
+      "a) záleží na stupni deflexe hlavičky",
+      "b) je nižší než při poloze podélné hlavičkou",
+      "c) je stejné jako při poloze podélné hlavičkou",
+      "d) je asi o 4-5 % vyšší než v poloze podélné hlavičkou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) je asi o 4-5 % vyšší než v poloze podélné hlavičkou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "99. Vasa praevia za porodu",
+    "answers": [
+      "a) ohrožují plod i rodičku",
+      "b) ohrožují zejména plod",
+      "c) neohrožují ani plod ani rodičku",
+      "d) ohrožují rodičku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) ohrožují zejména plod"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "100. Jestliže jsou volné porodní cesty, není přítomen kefalopelvický nepoměr, a i při vydatných kontrakcích vázne porod v druhé době porodní, můžeme usuzovat na",
+    "answers": [
+      "a) placentu adherens",
+      "b) dlouhý pupečník",
+      "c) patologický úpon pupečníku",
+      "d) krátký pupečník"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) krátký pupečník"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "101. Při insertio velamentosa funiculi",
+    "answers": [
+      "a) je za porodu ohrožen plod při ruptuře vasa praevia",
+      "b) nemá pro porod žádný význam",
+      "c) vázne porod v druhé době porodní",
+      "d) je za porodu ohrožena rodička vykrvácením z přetrzených cév"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) je za porodu ohrožen plod při ruptuře vasa praevia"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "102. Placentární dysfunkce může vést za porodu",
+    "answers": [
+      "а) к hypotrofizaci plodu",
+      "b) к překotnému porodu",
+      "с) к poruše děložní činnosti",
+      "d) к akutní hypoxii plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) к akutní hypoxii plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "103. Při slabé primární nebo sekundární děložní činnosti",
+    "answers": [
+      "a) podáváme oxytocin v i.v. infúzi",
+      "b) podáváme uterotonika typu prostagladinu F2 a, nejlépe intraamniálně",
+      "c) podáváme uterotonika typu námelových alkaloidů,a to ergometrin nebo methylergometrin i.m. nebo i.v.",
+      "d) podáváme současně oxytocin a methylergometrin jednorázově i.m."
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) podáváme oxytocin v i.v. infúzi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "104. Bandlova rýha je",
+    "answers": [
+      "a) kožní záhyb mezi fundem děložním a processus xiphoideus",
+      "b) krční rýha hmatná ve fundu děložním při poloze plodu koncem pánevním",
+      "c) kontrakční kruh, který se objevuje na děloze při hrozící ruptuře děložní",
+      "d) kožní záhyb mezi úponem musculus gluteus maximus a musculus gluteus minimus"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) kontrakční kruh, který se objevuje na děloze při hrozící ruptuře děložní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "105. Při abnormální rotaci záhlavím je vedoucím bodem",
+    "answers": [
+      "a) velká fontanela",
+      "b) střed vzdálenosti mezi malou a velkou fontanelou",
+      "c) malá fontanela",
+      "d) temeno"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) malá fontanela"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "106. Při porodu mrtvého plodu a váznoucím porodu hlavičky",
+    "answers": [
+      "a) zklidníme rodičku vhodnou medikací a vyčkáme spontánní konformace hlavičky",
+      "b) stimulujeme děložní činnost a provádíme vydatnou epiziotomii",
+      "c) provádíme zmenšovací operaci na hlavičce nejlépe v celkové anestezii",
+      "d) urychlujeme druhou dobu porodní forcepsem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) provádíme zmenšovací operaci na hlavičce nejlépe v celkové anestezii"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "107. Při porodu mrtvého plodu je rodička nejvíce ohrožena",
+    "answers": [
+      "a) sepsí",
+      "b) psychózou",
+      "c) velkým porodním poraněním",
+      "d) vykrvácením"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) vykrvácením"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "108. Embolie plodovou vodou způsobí u rodičky",
+    "answers": [
+      "a) srdeční selhání z hypervolémie",
+      "b) diseminovanou intravaskulámí koagulaci",
+      "c) postižení glomerulů ledvin",
+      "d) akutní dušnost"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) diseminovanou intravaskulámí koagulaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "109. Ke vzduchové embolii může nejspíše dojít",
+    "answers": [
+      "a) při manuálním vybavení placenty",
+      "b) při násilné expresi v druhé době porodní",
+      "c) při extrakci konce pánevního",
+      "d) při odtoku plodové vody při poloze příčné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) při manuálním vybavení placenty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "110. Pozdní decelerace (DIP II) je v průběhu porodu známkou",
+    "answers": [
+      "a) poruchy děložní činnosti",
+      "b) přílišného tlaku na hlavičku plodu",
+      "c) hypoxie plodu",
+      "d) dobrého stavu vegetativního nervstva"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) hypoxie plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "111. Silentní záznam na kardiotokogramu za porodu",
+    "answers": [
+      "a) svědčí pro spánek plodu",
+      "b) nemá klinický význam",
+      "c) svědčí pro vrozenou srdeční vadu plodu",
+      "d) svědčí pro hypoxii plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) svědčí pro hypoxii plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "112. Děložní činnost při porodu dvojčat bývá obvykle",
+    "answers": [
+      "a) slabá",
+      "b) silná a nadměrná",
+      "c) stejná jako při porodu jednoho plodu",
+      "d) kontrakce jsou delší a frekventnější"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) slabá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "113. V třetí době porodní po porodu dvojčat můžeme očekávat",
+    "answers": [
+      "a) zadržení části placenty",
+      "b) placenta accreta",
+      "c) rychlý průběh s malou krevní ztrátou",
+      "d) poruchy odlučování lůžka a hypotonii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) poruchy odlučování lůžka a hypotonii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "114. Při kterém chorobném stavu neočekáváme",
+    "answers": [
+      "předčasné odlučování lůžka",
+      "a) sérologický konflikt",
+      "b) úrazy břicha",
+      "c) preeklampsie",
+      "d) hypertenzní nemoc"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) sérologický konflikt"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "115. Při těžké formě abrupce placenty",
+    "answers": [
+      "a) podáváme hemostyptické léky a Dextran",
+      "b) dominuje šok rodičky",
+      "c) indukujeme rychle vaginální porod",
+      "d) podáme urychleně tokolytické léky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) dominuje šok rodičky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "116. Mezi typické klinické příznaky těžké abrupce placenty nepatří",
+    "answers": [
+      "a) známky hypoxie plodu",
+      "b) slabé krvácení z dělohy",
+      "c) hypertonus děložní",
+      "d) bradykardie matky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) bradykardie matky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "117. Střední a těžkou abrupci placenty řešíme vždy",
+    "answers": [
+      "a) obratem a extrakcí",
+      "b) okamžitým porodem",
+      "c) aplikací fibrinogenu a náhradních roztoků",
+      "d) aplikací Dextranu (podle ztráty krve)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) okamžitým porodem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "118. Podání uterolytik při abrupci placenty",
+    "answers": [
+      "a) je možné",
+      "b) je kontraindikované",
+      "c) je možné pouze u těžších forem",
+      "d) je nutné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) je kontraindikované"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "119. Plod je při předčasném odlučování placenty ohrožen hlavně",
+    "answers": [
+      "a) sérologickým konfliktem",
+      "b) vykrvácením",
+      "c) akutní hypoxii",
+      "d) nezralostí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) akutní hypoxii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "120. Frekvence příčné polohy u donošeného ploduje",
+    "answers": ["a) 5-10%", "b) O,3-O,5%", "c) 1-2%", "d) 5%"],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) O,3-O,5%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "121. Příčnou polohu nejlépe diagnostikujeme",
+    "answers": [
+      "a) amnioskopií",
+      "b) zevním vyšetřením",
+      "c) vnitřním vyšetřením",
+      "d) ultrazvukem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) ultrazvukem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "122. Porod živého plodu v poloze příčné vedeme",
+    "answers": [
+      "a) císařským řezem",
+      "b) pomocí zevního obratu spontánně",
+      "c) obratem vnitřními hmaty a extrakcí",
+      "d) spontánně, pokud je hřbet plodu dolů (dorsoinferiore)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) císařským řezem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "123. Přední asynklitismus (obliquitas Naegele) znamená",
+    "answers": [
+      "a) hlavička vstupuje švem šípovým v druhém šikmém průměru",
+      "b) hlavička naléhá zadní parietální kostí",
+      "c) hlavička vstupuje do pánve švem šípovým blíže ke sponě stydké",
+      "d) hlavička vstupuje švem šípovým blíže к promontoriu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) hlavička vstupuje švem šípovým blíže к promontoriu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "124. Porucha v odlučování placenty je způsobena nejčastěji",
+    "answers": [
+      "a) málo vydatnými kontrakcemi",
+      "b) spazmem branky",
+      "c) malou retrakcí",
+      "d) hyperaktivitou děložní"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) malou retrakcí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "125. Zadní asynklitismus značí",
+    "answers": [
+      "a) šev šípový je blíž к symfýze",
+      "b) hlavička vstupuje se švem šípovým v druhém šikmém průměru",
+      "c) šev šípový je blíže promontoria",
+      "d) šev šípový je centrálně"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) šev šípový je blíž к symfýze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "126. U vysokého přímého stavu",
+    "answers": [
+      "a) hlavička prochází pánví bez rotace",
+      "b) hlavička je vysoko nad vchodem a není flektována",
+      "c) hlavička vstupuje do vchodu pánevního se švem šípovým v přímém průměru",
+      "d) hlavička je vysoko nad vchodem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) hlavička vstupuje do vchodu pánevního se švem šípovým v přímém průměru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "127. Abnormální rotace hlavičky při porodu záhlavím znamená",
+    "answers": [
+      "a) při vnitřní rotaci se otáčí záhlavím ke sponě",
+      "b) při vnitřní rotaci se otáčí záhlaví do vyhloubení kosti křížové",
+      "c) hlavička vstupuje do pánve švem šípovým v přímém průměru",
+      "d) nedochází к vnitřní rotaci hlavičky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) při vnitřní rotaci se otáčí záhlaví do vyhloubení kosti křížové"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "128. U hlubokého příčného stavu",
+    "answers": [
+      "a) hlavička neprovede na dně pánevním vnitřní rotaci",
+      "b) hlavička se při vnitřní rotaci otočí záhlavím к symfyze",
+      "c) hlavička nevstupuje do pánve",
+      "d) hlavička se při vnitřní rotaci otočí záhlavím do vyhloubení kosti křížové"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) hlavička neprovede na dně pánevním vnitřní rotaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "129. Porucha v odlučování placenty u placenta adherens je způsobena",
+    "answers": [
+      "a) hypertrofickými uteroplacentámími septy",
+      "b) hypoaktivitou děložní",
+      "c) spazmem branky po porodu",
+      "d) uložením placenty v oblasti jizvy po předchozím císařském řezu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) hypertrofickými uteroplacentámími septy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "130. Při deflexních polohách není nikdy vedoucím bodem",
+    "answers": [
+      "a) velká fontanela",
+      "b) malá fontanela",
+      "c) čelo",
+      "d) obličej"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) malá fontanela"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "131. Placenta accreta je charakterizována takto",
+    "answers": [
+      "a) fixační klky prorůstají až ke svalovině",
+      "b) klky prorůstají celou děložní stěnou",
+      "c) hypertrofickými uteroplacentámími septy",
+      "d) ani jedna charakteristika neodpovídá pravdě"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) fixační klky prorůstají až ke svalovině"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "132. Placenta increta je charakterizována takto",
+    "answers": [
+      "a) fixační klky prorůstají až do hloubky svaloviny",
+      "b) hypertrofickými uteroplacentámími septy",
+      "c) fixační klky prorůstají celou děložní stěnou",
+      "d) patologicky změněnými kotyledony"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) fixační klky prorůstají až do hloubky svaloviny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "133. Z deflexních poloh má nejhorší prognózu spontánního porodu",
+    "answers": [
+      "a) čelní poloha",
+      "b) obličejová poloha",
+      "c) poloha záhlavím",
+      "d) temenní poloha"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) čelní poloha"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "134. Při aktivním vedení III. doby porodní při poloze plodu hlavičkou aplikujeme uterotonika",
+    "answers": [
+      "a) po porodu hlavičky",
+      "b) po podvázání pupečníku",
+      "c) po porodu ramének",
+      "d) po porodu celého plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) po porodu hlavičky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "135. Placenta adherens zasahuje svými klky",
+    "answers": [
+      "a) do decidua basalis - pars spongiosa",
+      "b) pars spongiosa",
+      "c) do myometria",
+      "d) do decidua basalis - pars compacta"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) do decidua basalis - pars compacta"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "136. Placenta percreta zasahuje svými klky",
+    "answers": [
+      "a) do myometria",
+      "b) přes serózu",
+      "c) do decidua basalis",
+      "d) pod serózou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) přes serózu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "137. Placentu adherens vybavujeme",
+    "answers": [
+      "a) manuálně, rukou zavedenou do dutiny děložní",
+      "b) pomocí vakuumexhaustoru",
+      "c) Bummovou kyretou",
+      "d) pomocí Credého hmatu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) manuálně, rukou zavedenou do dutiny děložní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "138. Který stav neznamená poruchu nidace plodového vejce",
+    "answers": [
+      "a) placenta praevia marginalis",
+      "b) placenta incarcerata",
+      "c) placenta increta",
+      "d) placenta adherens"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) placenta incarcerata"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "139. Inkarcerace placenty může nastat při",
+    "answers": [
+      "a) konstrikci svaloviny v oblasti vnitřní branky",
+      "b) předávkováni uterotonik",
+      "c) forsírované expresi",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "140. Jak dlouho čekáme po porodu plodu na porod placenty",
+    "answers": [
+      "a) 60 minut, pokud rodička nekrvácí a není febrilní",
+      "b) 10 minut",
+      "c) podle krevní ztráty a stavu rodičky - nejdéle 30 minut",
+      "d) 120 minut"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) podle krevní ztráty a stavu rodičky - nejdéle 30 minut"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "141. Při zjištění inkarcerace placenty",
+    "answers": [
+      "a) podáme námelová uterotonika, intramuskulámě",
+      "b) podáme spazmolytika intravenózně",
+      "c) vybavíme placentu tahem za pupečník",
+      "d) provedeme Credého hmat"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) podáme spazmolytika intravenózně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "142. Při diagnóze placenta accreta provádíme nejčastěji",
+    "answers": [
+      "a) hysterektomii",
+      "b) manuální vybavení s ponecháním vrostlých klků in situ",
+      "c) manuální vybavení s následnou revizí Bummovou kyretou",
+      "d) podvážeme pupečník nakrátko a placentu ponecháme in situ"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) hysterektomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "143. К zamezení většího krvácení po porodu placenty je třeba",
+    "answers": [
+      "a) dobré kontrakční schopnosti myometria",
+      "b) dobré retrakce děložní",
+      "c) dobré trombotizace cév děložních",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "144. Hysterektomii nejsme nuceni provést v případě",
+    "answers": [
+      "a) placenta increta",
+      "b) placenta adherens",
+      "c) placenta percreta",
+      "d) placenta accreta"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) placenta adherens"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "145. Pro diseminovanou intravaskulární koagulopatii je typické",
+    "answers": [
+      "a) zkrácení času u trombinového testu",
+      "b) zkrácení času u Quickova testu",
+      "c) nadměrná tvorba trombinu a faktoru X v krevním oběhu",
+      "d) vzestup počtu trombocytů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) nadměrná tvorba trombinu a faktoru X v krevním oběhu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "146. Děložní hypoaktivita není charakterizována",
+    "answers": [
+      "a) krátce trvajícími kontrakcemi",
+      "b) překotným porodem",
+      "c) slabými kontrakcemi (pod 25 kPa)",
+      "d) málo častými kontrakcemi (méně než 2 za 10 minut)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) překotným porodem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "147. Sekundárně slabá děložní činnost znamená oslabenou činnost dělohy",
+    "answers": [
+      "a) po primárně slabé děložní činnosti",
+      "b) vedoucí к překotnému porodu",
+      "c) po původně normální porodní činnosti",
+      "d) po vypuzení placenty"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) po původně normální porodní činnosti"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "148. Důsledkem hyperaktivity dělohy není",
+    "answers": [
+      "a) riziko hypoxie plodu",
+      "b) riziko snížené látkové výměny v placentě",
+      "c) zlepšená uteroplacentámí perfúze",
+      "d) riziko kraniálního krvácení plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) zlepšená uteroplacentámí perfúze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "149. Hypertonní motilita dělohy (děložní hypertonus) je typická pro",
+    "answers": [
+      "a) polohu příčnou",
+      "b) myomatózní dělohu",
+      "c) předčasné odlučování lůžka",
+      "d) placenta praevia"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) předčasné odlučování lůžka"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "150. Partus precipitatus znamená",
+    "answers": [
+      "a) porod předhlavím",
+      "b) předčasný porod",
+      "c) překotný porod",
+      "d) porodní »poslíčky«"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) překotný porod"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "151. Dystokia cervicocorporalis je",
+    "answers": [
+      "a) rigidita cervixu",
+      "b) porucha souhry kontrakční činnosti těla a hrdla uteru",
+      "c) synonymum pro Bandlovu rýhu",
+      "d) opožděný porod placenty při poruše kontrakce a retrakce dělohy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) porucha souhry kontrakční činnosti těla a hrdla uteru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "152. Rigidita colli uteri vzniká v důsledku",
+    "answers": [
+      "a) anatomických změn",
+      "b) špatné medikace intra partům",
+      "c) uskřinutí hrdla",
+      "d) špatného CTG monitorování"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) anatomických změn"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "153. Spazmus colli uteri vzniká v důsledku",
+    "answers": [
+      "a) funkčních změn stavu hrdla děložního",
+      "b) špatného CTG monitorování",
+      "c) provedení amnioskopie před porodem",
+      "d) anatomických změn"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) funkčních změn stavu hrdla děložního"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "154. Terapie děložního hypertonu se během porodu provádí",
+    "answers": ["a) CTG", "b) oxytocinem", "c) ergometrinem", "d) tokolytikem"],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) tokolytikem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "155. Inkarcerace placenty může nastat při",
+    "answers": [
+      "a) konstrikci svaloviny v oblasti vnitřní branky",
+      "b) při předávkování uterotonik",
+      "c) forsírované expresi",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "156. Carunculae myrtiformesjsou",
+    "answers": [
+      "a) drobné uzlíky v jizvě po sutuře epiziotomie, které mají původ v granulomech vytvořených kolem jednotlivých stehů",
+      "b) věnec drobných hemoroidálních uzlíků, který pozorujeme první 3 dny po porodu",
+      "c) infekčního virového původu",
+      "d) laločnaté výrůstky zbylé z hymenu následkem porodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) laločnaté výrůstky zbylé z hymenu následkem porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "157. Trhliny hráze při porodu vznikají",
+    "answers": [
+      "a) nejčastěji předčasnou deflexí hlavičky při porodu přes hráz",
+      "b) vždy, když neprovedeme epiziotomii",
+      "c) jen u primipar",
+      "d) jen u hrází, které jsou příliš vysoké"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) nejčastěji předčasnou deflexí hlavičky při porodu přes hráz"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "158. Trhlina hráze II. stupně zahrnuje poškozenou",
+    "answers": [
+      "a) kůži, sliznici, fascii a svalstvo",
+      "b) kůži a sliznici",
+      "c) kůži, sliznici, fascii a svalstvo, s výjimkou m. perinei profundus",
+      "d) kůži, sliznici, fascii, svalstvo hráze a vlákna m. sphincter ani"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) kůži, sliznici, fascii a svalstvo"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "159. Zasáhne-li trhlina hráze i sliznici rekta, jedná se",
+    "answers": [
+      "a) inkompletní rupturu III. stupně",
+      "b) colporrhexis",
+      "c) kompletní rupturu III. stupně",
+      "d) centrální rupturu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) kompletní rupturu III. stupně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "160. Při poranění hráze spolu s poraněním svěrače konečníku",
+    "answers": [
+      "a) ošetříme hráz i konečník bezodkladně a založíme kolostomii",
+      "b) ošetříme hráz, suturu svěrače odložíme po šestinedělí",
+      "c) ošetříme hráz i konečník bezodkladně",
+      "d) suturu takového poranění svěříme chirurgovi - proktologovi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) ošetříme hráz i konečník bezodkladně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "161. Colpaporrhexis",
+    "answers": [
+      "a) je tangenciální hluboká trhlina pochvy",
+      "b) je cirkulární odtržení pochvy od děložního hrdla",
+      "c) je cirkulární odtržení pochvy od poševního intrositu",
+      "d) je paravaginální hematom"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) je cirkulární odtržení pochvy od děložního hrdla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "162. Pro rupturu dělohy není charakteristické",
+    "answers": [
+      "a) zesílení kontrakcí",
+      "b) plod obvykle umírá",
+      "c) náhlá prudká bolest v břiše",
+      "d) děložní kontrakce náhle ustanou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) zesílení kontrakcí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "163. Placenta percreta je charakterizována",
+    "answers": [
+      "a) fixačními klky prorůstajícími celou děložní stěnou",
+      "b) klky prorůstajícími pouze do hloubky děložní svaloviny",
+      "c) fixačními klky prorůstajícími ke svalovině",
+      "d) hypertrofickými uteroplacentámími septy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) fixačními klky prorůstajícími celou děložní stěnou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "164. Bandlova rýha",
+    "answers": [
+      "a) rýha, kterou hmatáme při vaginálním vyšetření u polohy koncem pánevním mezi hýžděmi",
+      "b) se objevuje bezprostředně po proběhlé ruptuře děložní jako rozhraní mezi retrahovanou dělohou a plodem, který vyputoval do břišní dutiny",
+      "c) se objevuje na hranici aktivní a pasivní části dělohy při hrozící ruptuře dělohy",
+      "d) je zářez mezi hlavičkou a raménkem plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) se objevuje na hranici aktivní a pasivní části dělohy při hrozící ruptuře dělohy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "165. Nález vcestného lůžka ve 20 týdnu gravidity vyžaduje",
+    "answers": [
+      "a) opakování ultrazvukového vyšetření za několik týdnů i při asymptomatickém průběhu",
+      "b) ukončení těhotenství, jen pokud těhotná již v této době slabě krvácí",
+      "c) ukončení těhotenství z indikace matky i při asymptomatickém průběhu",
+      "d) hospitalizace do konce těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) opakování ultrazvukového vyšetření za několik týdnů i při asymptomatickém průběhu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "166. Příčinou předčasného porodu není",
+    "answers": [
+      "a) makrosomia plodu",
+      "b) inkompetence hrdla",
+      "c) malformace plodu",
+      "d) předčasný odtok vody plodové"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) makrosomia plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "167. Ke krvácení za porodu predisponují tyto stavy, výjimkou je",
+    "answers": [
+      "a) porod koncem pánevním",
+      "b) placenta praevia",
+      "c) placenta accreta",
+      "d) abrubce placenty"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) porod koncem pánevním"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "168. Stavy, které mohou predisponovat ke krvácení v těhotenství",
+    "answers": [
+      "a) Rh inkompatibilita",
+      "b) mola hydatidosa",
+      "c) diabetes mellitus",
+      "d) EPH gestóza"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) mola hydatidosa"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "169. Ke krvácení za porodu mohou vést tyto stavy, výjimkou je",
+    "answers": [
+      "a) prolaps pupečníku",
+      "b) těžká preeklampsie",
+      "c) nadměrná distenze dělohy",
+      "d) eklampsie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) prolaps pupečníku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "170. Ke krvácení v III době porodní mohou vést tyto stavy, výjimkou je",
+    "answers": [
+      "a) mnohočetné těhotenství",
+      "b) Rh inkompatibilita",
+      "c) protrahovaný porod",
+      "d) polyhydramnion"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) Rh inkompatibilita"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "171. Ke krvácení v III době porodní mohou vést tyto stavy s výjimkou",
+    "answers": [
+      "a) vasa praevia",
+      "b) embolie plodovou vodou",
+      "c) mrtvý plod",
+      "d) abrupce placenty"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) vasa praevia"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "172. Placenta praevia znamená, že",
+    "answers": [
+      "a) plod je ohrožen krvácením",
+      "b) těhotná je ohrožena krvácením",
+      "c) těhotná může požádat o ukončení těhotenství ze zdravotní indikace",
+      "d) těhotná musí být hospitalizována do konce těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) těhotná je ohrožena krvácením"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "173. Placenta praevia marginalis znamená, že",
+    "answers": [
+      "a) placenta je umístěna v hraně děložní",
+      "b) placenta zasahuje к zevní brance",
+      "c) placenta zasahuje okrajem к vnitřní brance",
+      "d) placenta přesahuje částečně přes vnitřní branku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) placenta zasahuje okrajem к vnitřní brance"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "174. Placenta praevia totalis",
+    "answers": [
+      "a) nevylučuje spontánní porod za zvýšených bezpečnostních opatření",
+      "b) je kontraindikací císařského řezu, pokud je umístěna na přední stěně dolního děložního segmentu",
+      "c) vylučuje spontánní porod",
+      "d) vyplňuje celou dělohu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) vylučuje spontánní porod"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "175. Placenta praevia může být diagnostikována těmito metodami s výjimkou",
+    "answers": [
+      "a) sonografie",
+      "b) rtg vyšetření",
+      "c) zevního vyšetření",
+      "d) termografie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) zevního vyšetření"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "176. Při výhřezu pupečníku při poloze podélné hlavičkou",
+    "answers": [
+      "a) provedeme obrat vnitřními hmaty a extrakci plodu",
+      "b) provedeme císařský řez",
+      "c) rodíme dále per vias naturales a monitorujeme",
+      "d) provedeme repozici pupečníku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) provedeme císařský řez"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "177. Primárně slabá děložní činnost znamená oslabenou činnost dělohy",
+    "answers": [
+      "a) od doby, kdy zanikne děložní hrdlo",
+      "b) od počátku porodu",
+      "c) od doby, kdy zanikne děložní branka",
+      "d) od doby, kdy vznikne děložní branka"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) od počátku porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "178. Uzurace vzniká",
+    "answers": [
+      "a) z nekrózy tkáně hrdla resp. branky eventuálně pochvy při protrahovaném porodu",
+      "b) poraněním hrdla při vyšetření",
+      "c) roztržením měkkých porodních cest",
+      "d) poškozením měkkých porodních cest operačním porodem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) z nekrózy tkáně hrdla resp. branky eventuálně pochvy při protrahovaném porodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "179. Uzurace je způsobena nejčastěji při porodu",
+    "answers": [
+      "a) hlavičkou plodu",
+      "b) koncem pánevním",
+      "c) extrakcí plodu koncem pánevním",
+      "d) při porodu per forcipem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) hlavičkou plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "180. Následkem uzurace je",
+    "answers": [
+      "a) pištěl",
+      "b) edém vulvy a hráze",
+      "c) sekundární hojení nástřihu branky",
+      "d) stresová inkontinence"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) pištěl"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "181. V případě placenta accreta a krvácení",
+    "answers": [
+      "a) hradíme ztráty krevní transfúzí a čekáme na odloučení placenty",
+      "b) podpoříme odloučení placenty infúzí s oxytocinem",
+      "c) provedeme manuální vybavení lůžka",
+      "d) provedeme hysterektomii"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) provedeme hysterektomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "182. Trhliny hrdla vznikají nejčastěji",
+    "answers": [
+      "a) u primipary",
+      "b) u sekundipary",
+      "c) u tercipary",
+      "d) u kvartipary"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) u primipary"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "183. Hlavním příznakem ruptury hrdla po porodu je",
+    "answers": [
+      "a) bolest v oblasti podbřišku",
+      "b) krvácení",
+      "c) nekontrahující se děloha",
+      "d) bolest v oblasti rodidel"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) krvácení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "184. Rigidita hrdla vzniká v důsledku",
+    "answers": [
+      "a) anatomických změn",
+      "b) špatné medikace během porodu",
+      "c) spazmu děložního hrdla",
+      "d) hypoaktivity děložní"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) anatomických změn"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "185. Trhliny děložního hrdla neošetřujeme, pokud jsou",
+    "answers": [
+      "a) menší než 1 cm a nekrvácejí",
+      "b) větší než lem",
+      "c) větší než 2 cm",
+      "d) větší než 3 cm"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) menší než 1 cm a nekrvácejí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "186. Trhliny hrdla ošetřujeme, pokud krvácejí, jsou-li",
+    "answers": [
+      "a) větší než 1 cm",
+      "b) větší než 2 cm",
+      "c) větší než 3 cm",
+      "d) vždy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) vždy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "187. Drobné trhliny hráze neošetřujeme, pokud jsou",
+    "answers": [
+      "a) menší než 1 cm a krvácejí",
+      "b) menší než 1 cm a nekrvácejí",
+      "c) větší nad 1 cm a nekrvácejí",
+      "d) větší nad 1 cm a krvácejí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) menší než 1 cm a nekrvácejí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "188. Colpaporrhesis nazýváme",
+    "answers": [
+      "a) odtržení hrdla od pochvy",
+      "b) trhlinu jdoucí do pochvy",
+      "c) trhlinu poševní klenby",
+      "d) trhlinu jdoucí do parakolpia"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) odtržení hrdla od pochvy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "189. Bezprostředním klinickým příznakem trhliny pochvy po porodu je",
+    "answers": [
+      "a) zánět",
+      "b) krvácení",
+      "c) bolest rodidel",
+      "d) všechny příznaky jsou přítomny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) krvácení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "190. Trhlina děložního hrdla po porodu přecházející do dolního děložního segmentu masivně krvácejícíje indikací",
+    "answers": [
+      "a) к hysterektomii",
+      "b) к supravaginální amputaci dělohy",
+      "c) к vaginální hysterektomii",
+      "d) к podvazu arteria iliaca interna"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) к hysterektomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "191. Rozsáhlá trhlina pochvy vzniká nejčastěji",
+    "answers": [
+      "a) při spontánním porodu",
+      "b) klešťovém porodu",
+      "c) opakovaným častým vaginálním palpačním vyšetřením v průběhu porodu",
+      "d) při spontánním porodu koncem pánevním"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) klešťovém porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "192. Nejčastějším poraněním za porodu je",
+    "answers": [
+      "a) ruptura hrdla",
+      "b) ruptura pochvy",
+      "c) ruptura hráze",
+      "d) uzurace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) ruptura hráze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "193. Ruptura I stupně postihuje",
+    "answers": [
+      "a) kůži, podkoží, část poševní stěny",
+      "b) kůži, podkoží, svaly",
+      "c) pouze poševní stěnu",
+      "d) pouze kůži"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) kůži, podkoží, část poševní stěny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "194. Příčinou ruptury hráze nebývá",
+    "answers": [
+      "a) velký plod",
+      "b) špatné chránění hráze",
+      "c) zánět pochvy v těhotenství",
+      "d) porod koncem pánevním"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) porod koncem pánevním"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "195. Ruptura II stupně postihuje",
+    "answers": [
+      "a) kůži, podkoží a svaly hráze",
+      "b) kůži, podkoží, svaly a musculus sphfincter ani včetně střeva",
+      "c) pouze poševní stěnu a kůži s podkožím",
+      "d) pouze m. sphfincter ani"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) kůži, podkoží a svaly hráze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "196. Ruptura III. stupně inkompletní postihuje",
+    "answers": [
+      "a) kůži, podkoží, svaly hráze, m. sphfincter ani",
+      "b) kůži, podkoží, svaly hráze, m. sphfincter ani a střevo",
+      "c) kůži, podkoží, svaly a poševní stěnu",
+      "d) struktury jsou porušeny bez porušení kůže"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) kůži, podkoží, svaly hráze, m. sphfincter ani"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "197. Ruptura kompletní III. stupně postihuje",
+    "answers": [
+      "a) kůži, podkoží, svaly hráze, m. sphincter ani a střevo",
+      "b) kůži, podkoží, svaly",
+      "c) poševní sliznici, kůži, podkoží a svaly",
+      "d) kůži, podkoží, svaly, m. sphincter ani"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) kůži, podkoží, svaly hráze, m. sphincter ani a střevo"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "198. Při kompletní suture III. stupně provádíme izolovaně suturu",
+    "answers": [
+      "a) střeva, m. sphincter ani, svalů diafragma urogenitale, podkoží, kůže",
+      "b) pouze m. sfincter ani a svalů diaphragma urogenitale",
+      "c) svalů diafragma urogenitále a kůže",
+      "d) suturu neprovádíme"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) střeva, m. sphincter ani, svalů diafragma urogenitale, podkoží, kůže"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "199. Příčinou rektovaginální píštěle je nejčastěji",
+    "answers": [
+      "a) latentm trhlina hráze",
+      "b) epiziotomie mediana",
+      "c) kompletní ruptura 1П. stupně",
+      "d) lacerace hráze"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) kompletní ruptura 1П. stupně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "200. Incontinentia alvi je neschopnost udržet",
+    "answers": [
+      "a) stolici",
+      "b) moč",
+      "c) moč i stolici",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) stolici"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "201. Incontinentia urinae je neschopnost udržet",
+    "answers": [
+      "a) stolici",
+      "b) moč",
+      "c) plyny",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) moč"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "202. Špatně zhojené trhliny hráze především",
+    "answers": [
+      "a) se podílejí na sestupu dělohy a poševních stěn",
+      "b) znemožňují pohlavní styk",
+      "c) jsou indikací vždy к provedení císařského řezu u dalšího porodu",
+      "d) mají význam pro další fertilitu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) se podílejí na sestupu dělohy a poševních stěn"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "203. Nejčastější příčinou ruptury dělohy byla",
+    "answers": [
+      "a) děložní hyperaktivita",
+      "b) nepoměr mezi hlavičkou plodu a pánví",
+      "c) velký plod",
+      "d) překotný porod"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) nepoměr mezi hlavičkou plodu a pánví"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "204. Rupturou dělohy rozumíme porušeníjejí celistvosti v souvislosti",
+    "answers": [
+      "a) s porodem a těhotenstvím",
+      "b) s gynekologickým operačním výkonem",
+      "c) s násilným porušenímjejí stěny nástrojem",
+      "d) s rupturou hrdla"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) s porodem a těhotenstvím"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "205. Nejčastěji vzniká děložní ruptura",
+    "answers": [
+      "a) v těhotenství",
+      "b) za porodu v I а II době porodní",
+      "c) za porodu ve III. době porodní",
+      "d) v šestinedělí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) za porodu v I а II době porodní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "206. Kompletní ruptura děložní postihuje",
+    "answers": [
+      "a) celou stěnu děložní včetně perimetria",
+      "b) postihuje pouze svalovinu stěny děložní",
+      "c) vzniká v místě úponu placenty",
+      "d) vzniká v děložním rohu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) celou stěnu děložní včetně perimetria"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "207. Klasickým obrazem hrozící děložní ruptury při porodu je",
+    "answers": [
+      "a) Bandlova rýha",
+      "b) defenze",
+      "c) Pléniesův příznak",
+      "d) Rovsignův příznak"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) Bandlova rýha"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "208. Nejčastější příčinou děložní ruptury dnesje",
+    "answers": [
+      "a) rozvolnění jizvy po předešlém porodu vedeném per sectionem caesaream",
+      "b) stav po opakovaných interrupcích",
+      "c) multiparita -stav po více porodech",
+      "d) malformace děložní"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) rozvolnění jizvy po předešlém porodu vedeném per sectionem caesaream"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "209. Při krvácení v průběhu III. doby porodní nejprve",
+    "answers": [
+      "a) hradíme krevní ztrátu transfúzemi",
+      "b) provedeme lysis manualis placentae",
+      "c) provedeme hysterektomii",
+      "d) vybavíme placentu instrumentálně"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) provedeme lysis manualis placentae"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "210. Mezi klinické příznaky hrozící ruptury nepatří",
+    "answers": [
+      "a) krvácení",
+      "b) Bandlova rýha",
+      "c) bolestivost dolního děložního segmentu",
+      "d) napjaté bolestivé oblé vazy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) krvácení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "211. Děložní rupturu řešíme",
+    "answers": [
+      "a) laparotomií",
+      "b) dokončením porodu per vias naturales",
+      "c) léčbou šokového stavu",
+      "d) léčbou hemoperitonea"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) laparotomií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "212. Komplikovanou rozsáhlou rupturu řešíme",
+    "answers": [
+      "a) prostou hysterektomii",
+      "b) supravaginální amputací dělohy",
+      "c) suturou ruptury",
+      "d) hysterektomii s adnexetomií a podvazem art. iliaca interna"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) prostou hysterektomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "213. Pro rupturu dělohy není charakteristické",
+    "answers": [
+      "a) zástava kontrakcí",
+      "b) zesílení kontrakcí",
+      "c) mrtvý plod",
+      "d) náhlá prudká bolest v břiše"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) zesílení kontrakcí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "214. Bandlova rýha je rýha, kterou hmatáme",
+    "answers": [
+      "a) při poloze podélné hlavičkou - záhlaví",
+      "b) při hrozící ruptuře mezi aktivní a pasivní částí dělohy",
+      "c) při vaginálním vyšetření u polohy řitní",
+      "d) po proběhlé děložní ruptuře, mezi dělohou a plodem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) při hrozící ruptuře mezi aktivní a pasivní částí dělohy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "215. Indikací к provedení epiziotomie je",
+    "answers": [
+      "a) porod u primipary",
+      "b) porod mrtvého plodu",
+      "c) porod nezralého plodu",
+      "d) porod donošeného plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) porod nezralého plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "216. Preventivní epiziotomie na nerozvinutou hráz se provádí v případě",
+    "answers": [
+      "a) spontánního porodu",
+      "b) před porodnickou operací",
+      "c) porodu koncem pánevním",
+      "d) porodu mrtvého plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) před porodnickou operací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "217. Mezi komplikace epiziotomie nepatří",
+    "answers": ["a) dehiscence", "b) hematom", "c) zánět", "d) lochiometra"],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) lochiometra"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "218. Resutura dehiscence epiziotomie se provádí",
+    "answers": [
+      "a) ihned",
+      "b) na konci šestinedělí",
+      "c) po vyčištění spodiny dehiscence",
+      "d) nechá se hojit sekundárně"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) po vyčištění spodiny dehiscence"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "219. Příčinou děložní ruptury bývá",
+    "answers": [
+      "a) iatrogenní poškození",
+      "b) jizva na děloze",
+      "c) preeklampsie",
+      "d) kefalopelvický nepoměr"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) jizva na děloze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "220. Mezi příznaky proběhlé ruptury dělohy nepatří",
+    "answers": [
+      "a) kontrahovaná děloha uchýlená do strany",
+      "b) palpace plodu pod stěnou břišní",
+      "c) známky hemoragického a peritoneálního šoku",
+      "d) krvácení z rodidel"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) krvácení z rodidel"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "221. Při medikamentózním, aktivním vedení porodu je nutné porodit placentu",
+    "answers": [
+      "a) ihned",
+      "b) do 10 minut",
+      "c) do 30 minut",
+      "d) do 1 hodiny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "9. Patologický porod, komplikace za porodu, porodní poranění. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) do 30 minut"],
+    "description": [""],
+    "img": [""]
   }
 ]
