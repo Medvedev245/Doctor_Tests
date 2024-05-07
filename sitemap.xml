@@ -4,7 +4,7 @@
         <loc>https://medvedev245.github.io/Doctor_Tests/</loc>
         <lastmod>2024-04-29</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <priority>1.0</priority>
     </url>
     <url>
         <loc>https://medvedev245.github.io/Doctor_Tests/page</loc>
@@ -13,7 +13,7 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://medvedev245.github.io/Doctor_Tests/AllTests</loc>
+        <loc>https://medvedev245.github.io/Doctor_Tests/AllTebsts</loc>
         <lastmod>2024-04-30</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
