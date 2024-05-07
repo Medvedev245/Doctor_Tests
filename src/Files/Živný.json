@@ -67258,5 +67258,1148 @@
     "correctAnswers": ["b) sedimentace"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Ve kterých letech byla přijata nejdůležitější zákonná ustanovení liberalizující provádění umělého ukončení těhotenství v České republice",
+    "answers": ["a) 1957", "b) 1969", "c) 1986", "d) 1991"],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 1957", "c) 1986"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. UUT je v ČR umožněno a provádění upřesněno",
+    "answers": [
+      "a) zákonem",
+      "b) směrnicí MZ ČR",
+      "c) vyhláškou",
+      "d) metodickým listem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) zákonem", "b) směrnicí MZ ČR"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Na 100 000 UUT připadá v CR počet úmrtí žen",
+    "answers": ["a) 3", "b) méně než 1", "c) 5", "d) 2"],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) méně než 1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Tzv. regulace menstruace (vakuumaspirace endometria) je výkon do",
+    "answers": [
+      "a) 35 dne cyklu",
+      "b) 38 dne cyklu",
+      "c) 42 dne cyklu",
+      "d) 50 dne cyklu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 42 dne cyklu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Při interrupci gravidity 12 týdne dilatujeme hrdlo děložní obvykle do",
+    "answers": ["a) 8-10mm", "b) 10-12mm", "c) 12-13 mm", "d) 14-15 mm"],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 12-13 mm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Při vakuumaspiraci se používá podtlak",
+    "answers": [
+      "a) 0,l-0,2kg/cm2",
+      "b) 0,3-0,5 kg/cm2",
+      "c) 0,6-0,8 kg/cm2",
+      "d) 0,9-1,0 kg/cm2"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 0,3-0,5 kg/cm2"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Ashermannův syndrom může být jako následek",
+    "answers": [
+      "a) chemických vlivů",
+      "b) vrozené změny",
+      "c) nešetrné kyretáže",
+      "d) zánětu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) chemických vlivů",
+      "c) nešetrné kyretáže",
+      "d) zánětu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Kontraindikací aplikace prostaglandinů před porodem je",
+    "answers": [
+      "a) poloha plodu jiná než hlavičkou",
+      "b) předchozí operace na děloze",
+      "c) porodnické krvácení",
+      "d) více než 5 porodů v anamnéze"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) poloha plodu jiná než hlavičkou",
+      "b) předchozí operace na děloze",
+      "c) porodnické krvácení",
+      "d) více než 5 porodů v anamnéze"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Při intraovulární aplikaci v rámci indukce potratu ve II trimestru se v současnosti používá",
+    "answers": [
+      "a) prostaglandin E2",
+      "b) prostaglandin F2-a",
+      "c) Misopristol",
+      "d) Prostin 15 M"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) prostaglandin F2-a"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Pro diagnózu funkční inkompetence děložního hrdla je důležité",
+    "answers": [
+      "a) vaginální vyšetření",
+      "b) zhodnocení gestační anamnézy",
+      "c) trachelografie",
+      "d) vyšetření ultrazvukem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) vaginální vyšetření",
+      "b) zhodnocení gestační anamnézy",
+      "d) vyšetření ultrazvukem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Důvodem pro přestřižení a vytažení stehu cerclage je",
+    "answers": [
+      "a) odtok plodové vody",
+      "b) pravidelné děložní kontrakce",
+      "c) intraovulární infekce plodu",
+      "d) preventivní zásah v termínu porodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) odtok plodové vody",
+      "b) pravidelné děložní kontrakce",
+      "c) intraovulární infekce plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Kontraindikací cerclage je",
+    "answers": [
+      "a) infekce porodních cest",
+      "b) neprovedené genetické vyšetření",
+      "c) zjizvení děložního hrdla",
+      "d) pokračující kontrakce"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) infekce porodních cest",
+      "b) neprovedené genetické vyšetření",
+      "d) pokračující kontrakce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Klasické chirurgické metody tubární sterilizace podle autorů jsou",
+    "answers": [
+      "a) sec. Pomeroy",
+      "b) sec. Jene",
+      "c) sec. Palmer",
+      "d) sec. Madlener"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) sec. Pomeroy", "b) sec. Jene", "d) sec. Madlener"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Ženská sterilizace je v ČR umožněna a provádění upřesněno",
+    "answers": [
+      "a) zákonem",
+      "b) vyhláškou",
+      "c) směrnicí MZ ČR",
+      "d) metodickým návodem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) zákonem", "c) směrnicí MZ ČR"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Při vakuumextrakci plodu nemá podtlak přesáhnout",
+    "answers": ["a) 0,6kg/cm2", "b) 0,2kg/cm2", "c) 0,8kg/cm2", "d) 0,4kg/cm2"],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 0,8kg/cm2"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Kontraindikací vakuumextrakce je",
+    "answers": [
+      "a) branka 8 cm a méně",
+      "b) obličejová poloha",
+      "c) hlavička ve vchodu, vstouplá malým oddílem",
+      "d) hlavička v úžině"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) branka 8 cm a méně",
+      "b) obličejová poloha",
+      "c) hlavička ve vchodu, vstouplá malým oddílem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Nejvhodnější indikací pro vakuumextrakci je",
+    "answers": [
+      "a) unavená rodička",
+      "b) silné krvácení",
+      "c) eklampsie",
+      "d) onemocnění matky (kardiopatie, neurologická onemocnění aj.)"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) unavená rodička",
+      "d) onemocnění matky (kardiopatie, neurologická onemocnění aj.)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Nevhodné indikace pro vakuumextrakci",
+    "answers": [
+      "a) akutní hypoxie plodu",
+      "b) nedostatečnost břišního lisu",
+      "c) hluboký příčný stav hlavičky plodu",
+      "d) abnormální rotace hlavičky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) akutní hypoxie plodu",
+      "c) hluboký příčný stav hlavičky plodu",
+      "d) abnormální rotace hlavičky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Průměr peloty užívané při vakuumextrakci je",
+    "answers": ["a) 10-20 mm", "b) 20-30mm", "c) 30-60mm", "d) 70-80mm"],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 30-60mm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. К uchopení děložního hrdla slouží kleště",
+    "answers": [
+      "a) Allisovy",
+      "b) Bartoňovy",
+      "c) jednozubé americké",
+      "d) Collinsovy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) Allisovy", "c) jednozubé americké", "d) Collinsovy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Epiziotomie se provádí při těchto vaginálních porodnických operacích",
+    "answers": [
+      "a) obrat a extrakce",
+      "b) vakuumextrakce",
+      "c) zmenšovací operace",
+      "d) klešťový porod"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) obrat a extrakce",
+      "b) vakuumextrakce",
+      "d) klešťový porod"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Nástřih děložní branky sešíváme obvykle",
+    "answers": [
+      "a) jednotlivými vicrylovými stehy",
+      "b) pokračujícím catgutovým stehem",
+      "c) pokračujícím silonovým stehem",
+      "d) jednotlivými catgutovými stehy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) jednotlivými vicrylovými stehy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Z uvedených kleštíjsou nejdelší a nejkratší",
+    "answers": [
+      "a) forceps Shute",
+      "b) forceps Kjelland",
+      "c) forceps Breus",
+      "d) forceps Simpson"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) forceps Kjelland", "d) forceps Simpson"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Anglický zámek mají kleště",
+    "answers": [
+      "a) forceps Shute",
+      "b) forceps Kjelland",
+      "c) forceps Breus",
+      "d) forceps Simpson"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) forceps Breus", "d) forceps Simpson"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Pro forceps na hlavičku plodu v šíři nemůžeme použít tento typ kleští",
+    "answers": [
+      "a) Breusovy kleště",
+      "b) Shutteho kleště",
+      "c) Kjellandovy kleště",
+      "d) Simpsonovy kleště"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) Simpsonovy kleště"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Při vysokém přímém stavu hlavičky hmatáme",
+    "answers": [
+      "a) malou fontanelu pod sponou",
+      "b) pouze velkou fontanelu",
+      "c) malou fontanelu před promontoriem",
+      "d) nehmatáme žádnou fontanelu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) malou fontanelu pod sponou",
+      "c) malou fontanelu před promontoriem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Při hlubokém příčném stavu u polohy záhlavím nacházíme hlavičku plodu",
+    "answers": [
+      "a) se švem šípovým v šikmém průměru pánevního východu, malá fontanela vpravo",
+      "b) se švem šípovým v šikmém průměru pánevního východu, malá fontanela vlevo",
+      "c) se švem šípovým v příčném průměru pánevní úžiny",
+      "d) se švem šípovým v příčném průměru pánevní šíře"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) se švem šípovým v příčném průměru pánevní úžiny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. U donošeného plodu je kontraindikováno použití kleští u deflexních poloh při",
+    "answers": [
+      "a) poloze obličejové",
+      "b) poloze předhlavím",
+      "c) poloze čelní",
+      "d) všech deflexních polohách"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) poloze čelní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Nezkřížené paralelní kleště jsou",
+    "answers": [
+      "a) forceps Simpson",
+      "b) forceps Kjelland",
+      "c) forceps Breus",
+      "d) forceps Shute"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) forceps Shute"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Které kleště jsou nejdelší",
+    "answers": [
+      "a) forceps Simpson",
+      "b) forceps Breus",
+      "c) forceps Kjelland",
+      "d) forceps Shute"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) forceps Kjelland"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Které kleště jsou nejstarší",
+    "answers": [
+      "a) forceps Simpson",
+      "b) forceps Breus",
+      "c) forceps Kjelland",
+      "d) forceps Shute"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) forceps Simpson"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. V libovolném pořadí branží lze zavádět kleště",
+    "answers": [
+      "a) forceps Simpson",
+      "b) forceps Breus",
+      "c) forceps Kjelland",
+      "d) forceps Shute"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) forceps Shute"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Vybavení hlavičky při extrakci plodu pánevním koncem se nejčastěji provádí hmatem",
+    "answers": [
+      "a) Martinovým-Wiegandovým",
+      "b) Mauriceauovým-Smelieovým",
+      "c) Fritschovým-Naujocksovým",
+      "d) Kiwischovým"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) Mauriceauovým-Smelieovým"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Při hlubokém příčném stavu hlavičky lze použít tyto kleště",
+    "answers": [
+      "a) forceps Shute",
+      "b) forceps Breus",
+      "c) forceps Simpson",
+      "d) forceps Kjelland"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) forceps Shute",
+      "c) forceps Simpson",
+      "d) forceps Kjelland"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Nejnovějšíjsou kleště",
+    "answers": [
+      "a) forceps Breus",
+      "b) forceps Shute",
+      "c) forceps Simpson",
+      "d) forceps Kjelland"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) forceps Shute"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Do příčných průměrů pánve se mohou nakládat pouze tyto kleště",
+    "answers": [
+      "a) forceps Kjelland",
+      "b) forceps Simpson",
+      "c) forceps Breus",
+      "d) forceps Shute"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) forceps Breus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Největší zakřivení lžic podle hlavičky plodu mají tyto kleště",
+    "answers": [
+      "a) forceps Simpson",
+      "b) forceps Breus",
+      "c) forcpes Kjelland",
+      "d) forceps Shute"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) forceps Breus"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Buschovy háky jsou součástí",
+    "answers": [
+      "a) kleští",
+      "b) Guyonova perforatoria",
+      "c) Braunova dekapitačního háku",
+      "d) Braunova kranioklastu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) kleští", "d) Braunova kranioklastu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Poranění močového měchýře vzniká nejčastěji při použití",
+    "answers": [
+      "a) forceps Shute",
+      "b) forceps Breus",
+      "c) forceps Kjelland",
+      "d) forceps Simpson"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) forceps Kjelland"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Nejvíce prostoru mezi vstouplými částmi plodu a pánví je",
+    "answers": [
+      "a) pod sponou",
+      "b) v příčných pánevních průměrech",
+      "c) v šikmých pánevních průměrech",
+      "d) ve vyhloubení křížové kosti"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) ve vyhloubení křížové kosti"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. К porodu per forcipem slouží tyto kleště",
+    "answers": [
+      "a) Champetierovy",
+      "b) Naegeleho",
+      "c) Musseuxovy",
+      "d) Tamierovy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) Naegeleho", "d) Tamierovy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Vztyčí-li se při porodu koncem pánevním ručky, vybavuje je porodník",
+    "answers": [
+      "a) střídavě rukou stejnostrannou i opačnou",
+      "b) ručky není třeba vybavovat, netvoří překážku porodu",
+      "c) rukou opačnou, než je vztyčená ručka",
+      "d) rukou stejnostrannou s ručkou plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) rukou stejnostrannou s ručkou plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Možná komplikace při obratech",
+    "answers": [
+      "a) strangulace pupečníku",
+      "b) deflexní poloha hlavičky",
+      "c) ruptura dělohy",
+      "d) odloučení placenty"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) strangulace pupečníku",
+      "b) deflexní poloha hlavičky",
+      "c) ruptura dělohy",
+      "d) odloučení placenty"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Možné poškození plodu při obratech",
+    "answers": [
+      "a) fraktura dlouhých kostí končetin",
+      "b) zevní kefalhematom",
+      "c) nervové parézy horních končetin",
+      "d) fraktura klíční kosti"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) fraktura dlouhých kostí končetin",
+      "c) nervové parézy horních končetin",
+      "d) fraktura klíční kosti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. V moderním porodnictví se provádí hmat",
+    "answers": [
+      "a) Pawlikův",
+      "b) pražský",
+      "c) obrácený pražský",
+      "d) Rubeškův"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) Pawlikův", "d) Rubeškův"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Návrh a techniku tzv. pražského hmatu к extrakci následné hlavičky při porodu koncem pánevním vypracoval",
+    "answers": ["a) Kiwisch", "b) Rubeška", "c) Pawlik", "d) Martin-Wiegand"],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) Kiwisch"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Vztyčené ručky při extrakci plodu v poloze podélné pánevním koncem se vybavují metodou",
+    "answers": [
+      "a) Miillerovou",
+      "b) kombinovanou",
+      "c) klasickou",
+      "d) všemi uvedenými"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) kombinovanou", "c) klasickou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Příčná suprapubická laparotomie při císařském řezu je výhodná",
+    "answers": [
+      "a) z estetického důvodu",
+      "b) je rychlejší",
+      "c) má menší krevní ztrátu",
+      "d) nevznikají kýly v jizvě"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) z estetického důvodu", "d) nevznikají kýly v jizvě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Nejčastější komplikací příčného suprapubického řezu při císařském řezu je",
+    "answers": [
+      "a) častější sekundární hojení",
+      "b) nedostatečná prostornost",
+      "c) vznik subfasciálního hematomu",
+      "d) větší poruchy střevní peristaltiky po operaci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) nedostatečná prostornost",
+      "c) vznik subfasciálního hematomu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Střední dolní laparotomie při císařském řezu se dělá",
+    "answers": [
+      "a) při původní jizvě v této lokalizaci",
+      "b) pro větší pevnost břišní stěny",
+      "c) pro menší krevní ztrátu",
+      "d) pro větší rychlost provedení"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) při původní jizvě v této lokalizaci",
+      "d) pro větší rychlost provedení"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Český porodník Chmelík navrhl tento typ řezu na děloze při císařském řezu",
+    "answers": [
+      "a) U řez",
+      "b) obrácený T řez",
+      "c) spirální řez",
+      "d) příčný poloobloukovitý řez"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) spirální řez"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Nejmenší riziko poranění aa. uterinae má řez na děloze při císařském řezu",
+    "answers": [
+      "a) příčný",
+      "b) U řez",
+      "c) poloobloukovitý",
+      "d) obrácený T řez"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) U řez", "c) poloobloukovitý"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. Frekvence smrtelných komplikací je po císařském řezu častější než celková letalita v souvislosti a těhotenstvím a porodem",
+    "answers": ["a) 1 Okřát", "b) 4krát", "c) 3krát", "d) 8krát"],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 4krát"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Schuchardtův řez se provádí",
+    "answers": [
+      "a) na břišní stěně při císařském řezu",
+      "b) na děloze při císařském řezu",
+      "c) na hrázi a pochvě při porodu per forcipem na hlavičku v šíři",
+      "d) při zmenšovací operaci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) na hrázi a pochvě při porodu per forcipem na hlavičku v šíři"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Stupeň patologické fixace placenty к děložní stěně (placenta adherens, accreta, percerta, increta) se přesně určí",
+    "answers": [
+      "a) podle klinického průběhu 1П. porodní doby",
+      "b) ultrazvukem",
+      "c) při manuálním vybavení placenty",
+      "d) histologicky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) histologicky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Spolehlivě vybavit manuální lýzou lze tento stupeň patologické fixace placenty",
+    "answers": ["a) adherens", "b) accreta", "c) percreta", "d) increta"],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) adherens"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Ke zmenšovací operaci mrtvého plodu neslouží",
+    "answers": [
+      "a) Sieboldovy nůžky",
+      "b) kranioklast",
+      "c) metreurynter",
+      "d) Braunův hák"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) metreurynter"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Spirální řez a U řez na dolním děložním segmentu má výhody",
+    "answers": [
+      "a) větší prostornost pro vybavení plodu",
+      "b) je rychlejší",
+      "c) méně krvácí",
+      "d) lépe se hojí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) větší prostornost pro vybavení plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Kraniotomii musíme zahájit",
+    "answers": [
+      "a) kranioklasií",
+      "b) perforací",
+      "c) extrakcí",
+      "d) excerebrací"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) perforací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Zbytky placenty se z děložní dutiny po porodu odstraňují",
+    "answers": [
+      "a) ostrou kyretou",
+      "b) Bummovou kyretou",
+      "c) manuální revizí",
+      "d) vakuumaspirac"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) Bummovou kyretou", "c) manuální revizí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Mendelsonův syndrom je komplikace",
+    "answers": [
+      "a) neonatologická",
+      "b) hematologická",
+      "c) porodnická",
+      "d) anesteziologická"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) anesteziologická"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Hmat podle Riebemonta-Dessaignese-Lepage se užívá při",
+    "answers": [
+      "a) abnormální rotaci hlavičky",
+      "b) deflexních polohách hlavičky",
+      "c) dystokii ramének",
+      "d) zaklesnutí hlaviček dvojčat"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) dystokii ramének"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Zavanelliho manévr byl užíván",
+    "answers": [
+      "a) při vtlačení hlavičky do pánve",
+      "b) při vytlačení vstouplé hlavičky směrem kraniálním nad vchod pánevní",
+      "c) jako pomoc hlavičce při dokončení její rotace",
+      "d) při obratu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) při vytlačení vstouplé hlavičky směrem kraniálním nad vchod pánevní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Ligatura hypogastrických cév při značném krvácení se provádí",
+    "answers": [
+      "a) v I porodní době",
+      "b) v П porodní době",
+      "c) v III porodní době",
+      "d) po porodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) po porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Chirurgická plocha přední stěny rozvinutého dolního děložního segmentu má tvar",
+    "answers": [
+      "a) obdélníku napříč segmentem",
+      "b) čtverce",
+      "c) podélně situovaného obdélníku",
+      "d) romboidu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) podélně situovaného obdélníku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Tloušťka zadní stěny rozvinutého dolního děložního segmentu je v porovnání s přední stěnou",
+    "answers": [
+      "a) o 3 mm větší",
+      "b) o 3 mm menší",
+      "c) o 6 mm větší",
+      "d) stejná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "10. Operace v souvislosti s těhotenstvím a porodem. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) o 3 mm větší"],
+    "description": [""],
+    "img": [""]
   }
 ]
