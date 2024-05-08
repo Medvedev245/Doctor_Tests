@@ -40,15 +40,6 @@ const Canals = () => {
           );
         })}
       </CanalLisl>
-      <div>
-        {/* <YouTube
-          videoId="GyQ_CFVBiV4"
-          width={640}
-          height={360}
-          opts={{ playerVars: { listType: 'playlist' } }}
-        /> */}
-      </div>
-      {/* <span>Пока ничего нет </span> */}
     </>
   );
 };
