@@ -415,13 +415,7 @@ d) tato míra rizika není indikací к prenatální invazivní diagnostice
 `;
 
   const answers = `
-  1a 2b 3c 4d 5c 6c 7d 8c 9d
-  10b 11c 12a 13a 14c 15c 16c 17b 18d 19c
-  20b 21c 22b 23b 24a 25b 26d 27b 28c 29c
-  30b 31d 32b 33c 34d 35c 36c 37b 38a 39c
-  40c 41c 42d 43d 44a 45a 46a 47a 48b 49b
-  50b 51c 52c 53d 54c 55c 56b 57b 58a 59b
-  60d 61a 62a 63a 64a 65c
+  
   
   `;
   const correctNewAnswers = answers.split(' ');
