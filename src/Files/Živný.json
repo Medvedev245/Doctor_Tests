@@ -68401,5 +68401,1152 @@
     "correctAnswers": ["a) o 3 mm větší"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Ultrazvukový váhový odhad plodu v poloze koncem pánevním",
+    "answers": [
+      "a) provádíme stejně jako u plodu v poloze podélné hlavičkou",
+      "b) neprovádíme",
+      "c) není vzhledem к poloze plodu možný",
+      "d) je sice nejméně přesnou metodou odhadu, ale přesto jej provádíme"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) provádíme stejně jako u plodu v poloze podélné hlavičkou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Biometrie plodu je",
+    "answers": [
+      "a) měření průtoku v a. umbilicalis",
+      "b) měření plodu a jeho částí",
+      "c) zhodnocení množství vody plodové",
+      "d) změření bazální frekvence srdce plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) měření plodu a jeho částí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. К odhadu stáří těhotenství podle UZ před 12 týdnem těhotenství používáme",
+    "answers": [
+      "a) délku femuru (FL)",
+      "b) měření srdeční frekvence",
+      "c) měření temeno-kostrční délky (CRL)",
+      "d) zhodnocení morfologie vývoje mozkových struktur"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) měření temeno-kostrční délky (CRL)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Váhový odhad plodu standardně získáváme",
+    "answers": [
+      "a) výpočtem z UZ měření BPD, KP a FL",
+      "b) odhadem podle CRL",
+      "c) nejpřesnější je odhad podle měření vzdálenosti spona -fundus děložní",
+      "d) výpočtem z UZ měření BPD, НС, AC a FL"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) výpočtem z UZ měření BPD, НС, AC a FL"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Při screeningu v 18-22 týdnu těhotenství standardně neprovádíme",
+    "answers": [
+      "a) zhodnocení morfologie srdce",
+      "b) zjištění počtu plodů",
+      "c) karyotypizaci",
+      "d) zhodnocení morfologie končetin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) karyotypizaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Které z následujících vyšetření rutinně neprovádíme v rámci UZ screeningu v 18-22 týdnu těhotenství",
+    "answers": [
+      "a) biometrii plodu",
+      "b) zhodnocení množství plodové vody",
+      "c) flowmetrii - měření průtoků v a. umbilicalis",
+      "d) zhodnocení polohy placenty"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) flowmetrii - měření průtoků v a. umbilicalis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Součástí UZ screeningu není",
+    "answers": [
+      "a) kontrola kontinuity horního rtu plodu",
+      "b) zhodnocení morfologie srdce plodu",
+      "c) kontrola morfologie a počtu prstů končetin plodu",
+      "d) zhodnocení lokalizace ušního boltce plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) zhodnocení lokalizace ušního boltce plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Při UZ screeningu v 30-32 týdnu těhotenství",
+    "answers": [
+      "a) biometrii již neprovádíme",
+      "b) zhodnocení srdeční anatomie již není možné",
+      "c) ověřujeme mimo jiné i polohu plodu a množství plodové vody",
+      "d) je mozek plodu již plně vyvinut"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) ověřujeme mimo jiné i polohu plodu a množství plodové vody"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Při UZ screeningu v 18-22 týdnu těhotenství standardně neprovádíme",
+    "answers": [
+      "a) hodnocení šíře postranních mozkových komor plodu",
+      "b) zhodnocení srdeční anatomie plodu",
+      "c) ověření počtu plodů",
+      "d) měření délky plosky plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) měření délky plosky plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Cervikometrie je",
+    "answers": [
+      "a) standardní a povinnou součástí UZ screeningu",
+      "b) měření délky hrdla děložního a zhodnocení tvaru vnitřní branky v těhotenství",
+      "c) měření obvodu krčku plodu",
+      "d) součástí onkologického screeningu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) měření délky hrdla děložního a zhodnocení tvaru vnitřní branky v těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Poloha plodu při UZ screeningu v 18-20 týdnu těhotenství",
+    "answers": [
+      "a) je již téměř stabilní, u 95 % plodů zjištěná poloha plodu přetrvá až do porodu",
+      "b) u naprosté většiny plodů je poloha koncem pánevním, poloha podélná hlavičkou se ustavuje až po 36 týdnu těhotenství",
+      "c) poloha plodu je volná",
+      "d) není zjistitelná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) poloha plodu je volná"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Ultrazvukový screening provádíme v CR standardně",
+    "answers": [
+      "a) v 18-22 týdnu a v 30-32 týdnu těhotenství",
+      "b) v 1 l-13 týdnu a 22-24 týdnu těhotenství",
+      "c) UZ screening provádíme jen u rizikových těhotných",
+      "d) screeningový program není plošně zaveden"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) v 18-22 týdnu a v 30-32 týdnu těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Deoxygenovanou krev do placenty přivádí",
+    "answers": [
+      "a) arteria umbilicalis",
+      "b) vena umbilicalis",
+      "c) ductus venosus",
+      "d) arteria cerebri media"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) arteria umbilicalis"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Které z následujících měřeníje nejrelevantnější pro určení gestačního stáří podle UZ",
+    "answers": [
+      "a) transvaginální měření gestačního váčku v 5 týdnu těhotenství",
+      "b) měření FL ve 20 týdnu těhotenství",
+      "c) měření CRL v 7 týdnu",
+      "d) měření BPD v 24 týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) měření CRL v 7 týdnu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Která z následujících metod je nejpřesnější pro stanovení gestačního stáří resp. termínu porodu",
+    "answers": [
+      "a) měření vzdálenosti spona -fundus",
+      "b) stanovení podle poslední menstruace",
+      "c) UZ měření CRL v prvním trimestru",
+      "d) UZ měření průměru gestačního váčku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) UZ měření CRL v prvním trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Který z následujících výroků o kordocentéze (punkci pupečníku) je pravdivý",
+    "answers": [
+      "a) kordocentéza je provedení spinální punkce plodu",
+      "b) kordocentézu provádíme za kontinuální fetoskopické kontoly",
+      "c) při kordocentéze provádíme odběr fetální krve",
+      "d) při kordocentéze provádíme odběr smíšené mateřské a fetální krve"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) při kordocentéze provádíme odběr fetální krve"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Při amniocentéze získáváme",
+    "answers": [
+      "a) fetální krev",
+      "b) plodovou vodu",
+      "c) vzorek amnia",
+      "d) nic z výše uvedeného"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) plodovou vodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Odběr plodové vody v současné době standardně provádíme",
+    "answers": [
+      "a) v celkové anestezii",
+      "b) v lokální anestezii",
+      "c) vzhledem к vysoké rizikovosti výkonu zcela výjimečně",
+      "d) za kontinuální ultrazvukové kontroly"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) za kontinuální ultrazvukové kontroly"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Při biopsii choria získáváme",
+    "answers": [
+      "a) vzorek choroidálního plexu",
+      "b) vždy též vzorek plodové vody",
+      "c) vzorek extraembryonální tkáně použitelný např. ke karyotypizaci plodu",
+      "d) nic z výše uvedeného"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) vzorek extraembryonální tkáně použitelný např. ke karyotypizaci plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Mezi invazivní metody prenatální diagnostiky patří",
+    "answers": [
+      "a) amniorexe",
+      "b) biopsie choria CVS",
+      "c) kardiotokografie CTG",
+      "d) intraumbilikální transfúze"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) biopsie choria CVS"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Při UZ vyšetření plodu v poloze koncem pánevním před předpokládaným porodem je zvláště důležité",
+    "answers": [
+      "a) stanovení množství plodové vody",
+      "b) popis uložení ruček plodu",
+      "c) přesný váhový odhad plodu",
+      "d) pohlaví plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) přesný váhový odhad plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Stanovení chorionicity vícečetného těhotenství",
+    "answers": [
+      "a) není ultrazvukem možné",
+      "b) je možné provést ultrazvukem, nejpřesněji v prvním trimestru",
+      "c) je možné provést ultrazvukem, nejpřesněji ve druhém trimestru",
+      "d) je možné až při porodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) je možné provést ultrazvukem, nejpřesněji v prvním trimestru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Diagnostickou známkou pro určení chorionicity může být",
+    "answers": [
+      "a) změření BPD obou plodů",
+      "b) stanovení pohlaví plodů",
+      "c) stanovení poloh plodů",
+      "d) nalezení přepážky dělící amniální dutiny"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) stanovení pohlaví plodů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Indikací к provedení flowmetrie (měření průtoku v a. umbilicalis) je",
+    "answers": [
+      "a) podezření na růstovou retardaci plodu",
+      "b) normální množství plodové vody",
+      "c) volná poloha plodu v 16 týdnu těhotenství",
+      "d) přítomnost choroidálního plexu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) podezření na růstovou retardaci plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Nuchální translucence je",
+    "answers": [
+      "a) UZ makrer sloužící к diagnostice Downova syndromu",
+      "b) screeningový marker VVV v prvním trimestru",
+      "c) prosvětlení v oblasti nosu plodu",
+      "d) hyperechogenní útvar v levé srdeční komoře plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) screeningový marker VVV v prvním trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Nuchální translucence je",
+    "answers": [
+      "a) rtg marker rozštěpu patra u plodu",
+      "b) oblast krku plodu barvící se fluoresceinem",
+      "c) žádná z uvedených variant",
+      "d) šíjové ztluštění (projasnění) u plodu v prvním trimestru"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) šíjové ztluštění (projasnění) u plodu v prvním trimestru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Screening VVV plodu",
+    "answers": [
+      "a) je v ČR omezen na vyhledávání plodů s trisomií 21",
+      "b) je systém vyhledávání těhotných se zvýšeným rizikem plodu s VVV",
+      "c) je celosvětově jednotný systém vyhledávání těhotných se zvýšeným rizikem plodu s VVV",
+      "d) je v ČR založen pouze na věku těhotné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) je systém vyhledávání těhotných se zvýšeným rizikem plodu s VVV"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. screeningu rizika Downova syndromu plodu I v CR platí",
+    "answers": [
+      "a) je založen pouze na věku matky (amniocentézu I podstupují pouze těhotné starší 35 let)",
+      "b) věk již není považován za marker zvýšeného rizika (žádné těhotné starší 35 let není amniocentéza I nabídnuta)",
+      "c) je komplexní zhodnocení rizika plodu na podkladě věku těhotné, biochemického a ultrazvukového screeningu",
+      "d) screeningový program v ČR není ustanoven"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) je komplexní zhodnocení rizika plodu na podkladě věku těhotné, biochemického a ultrazvukového screeningu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Amniocentéza ta) je výkon s nulovým rizikem, proto jej můžeme provádět u všech těhotných, kde jej proplatí pojišťovna",
+    "answers": [
+      "b) je laparoskopický výkon",
+      "c) s sebou nese asi 0,5-1% riziko potratu plodu",
+      "d) s sebou nese asi 10% riziko potratu plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) s sebou nese asi 0,5-1% riziko potratu plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Indikací pro punkci pupečníku může být",
+    "answers": [
+      "a) screeningové stanovení pH plodu ve 22 týdnu gravidity",
+      "b) prenatální diagnostika genetických onemocnění",
+      "c) prenatální diagnostika DMO",
+      "d) stanovení pohlaví plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) prenatální diagnostika genetických onemocnění"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Amniocentéza je",
+    "answers": [
+      "a) incize amnia pomocí skalpelu",
+      "b) protětí bubínku u otitis media plodu",
+      "c) žádná z uvedených možností",
+      "d) odběr plodové vody"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) odběr plodové vody"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Klasickou amniocentézu provádíme",
+    "answers": [
+      "a) v kterékoli fázi těhotenství",
+      "b) po dokončeném 15 týdnu těhotenství",
+      "c) neprovádíme, je to metoda obsoletní",
+      "d) pouze hrozí-li intrauterinní smrt plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) po dokončeném 15 týdnu těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. V ČR nejpoužívanější invazivní metodou prenatální diagnostiky je",
+    "answers": [
+      "a) biopsie choria",
+      "b) kordocentéza (punkce pupečníku a odběr vzorku fetální krve)",
+      "c) amniocentéza",
+      "d) coelocentéza"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) amniocentéza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Který stav je spojen se zvýšenou koncentrací AFP",
+    "answers": [
+      "a) trisomie 21",
+      "b) atopický ekzém",
+      "c) trisomie 18",
+      "d) gastroschíza"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) gastroschíza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Který stav je spojen se zvýšenou koncentrací AFP",
+    "answers": [
+      "a) trisomie 21",
+      "b) preeklampsie",
+      "c) hrozící potrat",
+      "d) seboroická dermatitida"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) hrozící potrat"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Která z následujících chromosomálních poruch není diagnostikovatelná z kultury amniocytů",
+    "answers": [
+      "a) Klinefertův syndrom",
+      "b) autosomální trisomie (T 21, 18, 13)",
+      "c) mozaicismus lokalizovaný na placentu",
+      "d) balancovaná delece"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) mozaicismus lokalizovaný na placentu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Chromosomální poruchy diagnostikovatelné z kultury amniocytů",
+    "answers": [
+      "a) uniparentální disomie lokalizovaná na placentu",
+      "b) Klinefertův syndrom a ostatní aneuploidie vázané na mužské pohlaví",
+      "c) big eye syndrom a ostatní senzorické X vázané poruchy",
+      "d) žádná z uvedených odpovědí není správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) Klinefertův syndrom a ostatní aneuploidie vázané na mužské pohlaví"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Prenatální biopsie kůže plodu se provádí",
+    "answers": [
+      "a) pomocí fetoskopie",
+      "b) jako screeningové vyšetření",
+      "c) u plodů s podezřením na chromosomální aberace",
+      "d) u matek s podezřením na syfilis"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) pomocí fetoskopie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. Prenatální biopsie jater",
+    "answers": [
+      "a) je používanou alternativní metodou pro stanovení karyotypu",
+      "b) je rutinní metodou prenatální diagnostiky",
+      "c) se používá, jen je-li jatemí tkáň jediným místem exprese genu",
+      "d) umožňuje stanovení běžné Y vázané mentální retardace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) se používá, jen je-li jatemí tkáň jediným místem exprese genu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. К invazivním metodám prenatální diagnostiky jednoznačně řadíme",
+    "answers": [
+      "a) ultrazvukové vyšetření",
+      "b) kardiotokografii",
+      "c) amniocentézu",
+      "d) biochemický screening"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) amniocentézu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Kterou z následujících typů genetických poruch nezjistíme klasickým vyšetřením karyotypu",
+    "answers": [
+      "a) Downův syndrom",
+      "b) balancovanou translokaci",
+      "c) uniparentální disomii",
+      "d) Turnérův syndrom"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) uniparentální disomii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Amniocentézou získáváme",
+    "answers": [
+      "a) vzorek fetální krve",
+      "b) výhradně amniocyty",
+      "c) vzorek kůže plodu",
+      "d) amniocyty pro karyotipizaci a amniální tekutinu к biochemickému rozboru"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) amniocyty pro karyotipizaci a amniální tekutinu к biochemickému rozboru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Pro amniocentézu platí, že",
+    "answers": [
+      "a) je to screeningové metoda prenatální diagnostiky",
+      "b) riziko výkonu je 8 %",
+      "c) je to obsoletní metoda prenatální diagnostiky",
+      "d) je to nejčastější invazivní metoda prenatální diagnostiky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) je to nejčastější invazivní metoda prenatální diagnostiky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Vrchol A udává distribuci AFP (obr. 1)",
+    "answers": [
+      "a) u plodů s Downovým syndromem",
+      "b) u plodů s rozštěpem neurální trubice",
+      "c) u normálních plodů",
+      "d) u plodů se srdečními anomáliemi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) u plodů s Downovým syndromem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Vrchol В udává distribuci AFP (obr. 1)",
+    "answers": [
+      "a) u normálních plodů",
+      "b) u plodů s rozštěpem neurální trubice",
+      "c) u plodů s Downovým syndromem",
+      "d) u plodů se srdečními anomáliemi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) u normálních plodů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Vrchol C udává distribuci AFP (obr. 1)",
+    "answers": [
+      "a) u plodů s rozštěpem neurální trubice",
+      "b) u normálních plodů",
+      "c) u plodů s Downovým syndromem",
+      "d) u plodů se srdečními anomáliemi"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) u plodů s rozštěpem neurální trubice"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "47. Z uvedených chromosomálních poruch není z kultury amniocytů diagnostikovatelná",
+    "answers": [
+      "a) uniparentální disomie s mozaicismem lokalizovaným na placentu",
+      "b) Klinefelterův syndrom",
+      "c) autosomální trisomie (21, 18, 13)",
+      "d) chromosomální přestavby, delece balancované nebo aneuploidie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) uniparentální disomie s mozaicismem lokalizovaným na placentu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "48. Chromosomální poruchy diagnostikovatelné z kultury amniocytů",
+    "answers": [
+      "a) uniparentální disomie s mozaicismem lokalizovaným na placentu",
+      "b) Klinefelterův syndrom a ostatní aneuploidie vázané na mužské pohlaví",
+      "c) big eye syndrom a ostatní senzorické X vázané poruchy",
+      "d) žádná z výše uvedených odpovědí není správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) Klinefelterův syndrom a ostatní aneuploidie vázané na mužské pohlaví"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Chromosomální poruchy diagnostikovatelné z kultury amniocytů",
+    "answers": [
+      "a) žádná z uvedených odpovědí není správná",
+      "b) chromosomální přestavby, delece, balancované nebo aneuploidie",
+      "c) placentámí mozaicismus",
+      "d) omezený placentámí mozaicismus"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) chromosomální přestavby, delece, balancované nebo aneuploidie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Který stav je spojen se zvýšenou koncentrací AFP",
+    "answers": [
+      "a) atopický ekzém",
+      "b) hrozící potrat",
+      "c) trisomie 21",
+      "d) EPH gestóza"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) hrozící potrat"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. Který stav je spojen se zvýšenou koncentrací AFP",
+    "answers": [
+      "a) trisomie 18",
+      "b) trisomie 21",
+      "c) gastroschíza",
+      "d) atopický ekzém"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) gastroschíza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Pro CVS platí, že",
+    "answers": [
+      "a) je to nejčastěji používaná metoda prenatální invazivní diagnostiky",
+      "b) riziko metody je 7 %",
+      "c) je to zkratka pro chorionic villus sampling",
+      "d) nevýhodou metody je 4 týdny trvající kultivace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) je to zkratka pro chorionic villus sampling"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. U biopsie choria platí, že",
+    "answers": [
+      "a) pro provedení analýzy je nezbytné 60mg materiálu",
+      "b) vzorky získané biopsií choria к vyšetření enzymatické aktivity musí být zpracovány do 24 hodin",
+      "c) nejčastěji se provádí transcervikálně",
+      "d) nemá se provádět před 10 týdnem gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) nemá se provádět před 10 týdnem gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Punkce pupečníku",
+    "answers": [
+      "a) se provádí převážně za hospitalizace",
+      "b) indikuje se v případě, kdy je dostatek času ke kultivaci amniocytů",
+      "c) se provádí výhradně za přímé vizualizace pomocí ultrazvuku",
+      "d) vyžaduje celkovou narkózu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) se provádí výhradně za přímé vizualizace pomocí ultrazvuku"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Punkce pupečníku",
+    "answers": [
+      "a) kontaminace odebrané fetální krve krví mateřskou je díky přímé vizualizaci odběru vyloučena",
+      "b) je vhodnou metodou pro diagnózu hypoxie plodu",
+      "c) je indikována zejména pro stanovení karyotypu plodu a při ohrožení plodu Rh izoimunizací",
+      "d) umožňuje stanovení karyotypu řádově za několik hodin, protože se vyšetřují fetální erytrocyty"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) je indikována zejména pro stanovení karyotypu plodu a při ohrožení plodu Rh izoimunizací"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Indikací к punkci pupečníku může být",
+    "answers": [
+      "a) stanovení pH u plodu ve 22 týdnu gravidity (screening)",
+      "b) prenatální diagnostika genetických onemocnění",
+      "c) prenatální diagnostika dětské mozkové obrny",
+      "d) zjištění pohlaví plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) prenatální diagnostika genetických onemocnění"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Indikací к punkci pupečníku může být",
+    "answers": [
+      "a) dětská mozková obrna",
+      "b) žádná odpověď neplatí",
+      "c) EPH gestóza",
+      "d) hrozící předčasný porod"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) žádná odpověď neplatí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Prenatální biopsie kůže plodu se provádí",
+    "answers": [
+      "a) pomocí fetoskopie",
+      "b) jako screeningové vyšetření",
+      "c) u matek s podezřením na syfilis",
+      "d) u plodů s podezřením na chromosomální aberace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) pomocí fetoskopie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Prenatální biopsie jater",
+    "answers": [
+      "a) je používanou alternativní metodou stanovení fetálního karyotypu",
+      "b) se používá jen, je-li jatemí tkáň jediným místem exprese proteinu",
+      "c) je rutinní metodou prenatální diagnostiky",
+      "d) umožňuje stanovení diagnózy X vázané mentální retardace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) se používá jen, je-li jatemí tkáň jediným místem exprese proteinu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. К prenatálním metodám invazivní diagnostiky (z pohledu plodu) patří",
+    "answers": [
+      "a) biochemický screening AFP, hCG, E3",
+      "b) žádná odpověď není správná",
+      "c) ultrazvukový screening",
+      "d) amniocentéza"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) amniocentéza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. O rtg vyšetření v těhotenství platí, že",
+    "answers": [
+      "a) dávka rtg záření při jednom snímku je hluboko podhranicí považovanou za teratogenní",
+      "b) dávka rtg záření v I trimestru způsobující vrozenou vadu u plodu je 500 m/Gy",
+      "c) rtg pelvimetrie je indikována před porodem plodu v poloze koncem pánevním",
+      "d) rtg vyšetření v těhotenství je metodou volby"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) dávka rtg záření při jednom snímku je hluboko podhranicí považovanou za teratogenní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Trisomie 18 (Edwardsův syndrom)",
+    "answers": [
+      "a) je druhá nejčastější prenatálně zjišťovaná chromosomální aberace",
+      "b) všechny odpovědi jsou správné",
+      "c) je většinou letální do 20 let dítěte, ale i delší přežití je možné",
+      "d) se u nás nevyskytuje"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) je druhá nejčastější prenatálně zjišťovaná chromosomální aberace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Downův syndrom (trisomie 21)",
+    "answers": [
+      "a) je charakterizován mentální retardací, rizikem srdeční vady, imunologickými poruchami a předčasným stárnutím připomínajícím Alzheimerovu chorobu",
+      "b) je druhá nejčastější autosomální aberace zjišťovaná v těhotenství a za porodu",
+      "c) vyskytuje se převážně u velmi mladých primipar",
+      "d) není důvodem к ukončení gravidity z genetické indikace před 24 týdnem těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) je charakterizován mentální retardací, rizikem srdeční vady, imunologickými poruchami a předčasným stárnutím připomínajícím Alzheimerovu chorobu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Pacientka, 251etá primigravida, absolvovala v 16 týdnu biochemický screening pomocí stanovení AFP, hCG a E, a riziko postižení plodu bylo stanoveno na 1: 380, což je vyšší než u žen stejného věku. Při pohovoru pacientce vysvětlíme, že",
+    "answers": [
+      "a) tato míra rizika není indikací к prenatální invazivní diagnostice",
+      "b) měla by absolvovat amniocentézu",
+      "c) měla by absolvovat biopsii choria",
+      "d) měla by absolvovat punkci pupečníku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) tato míra rizika není indikací к prenatální invazivní diagnostice"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Pacientka, 251etá primigravida, absolvovala v 16 týdnu biochemický screening pomocí stanovení AFP, hCG a E, a riziko postižení plodu trisomií 21 bylo stanoveno na 1 : 200, což je vyšší než u žen stejného věku. Při pohovoru s pacientkou vysvětlíme, že v 17 týdnu gravidity, ve kterém se právě nachází,",
+    "answers": [
+      "a) by měla absolvovat punkci pupečníku",
+      "b) je na prenatální diagnostiku pozdě",
+      "c) by pro ní byla vhodná karyotypizace",
+      "d) tato míra rizika není indikací к prenatální invazivní diagnostice"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) by pro ní byla vhodná karyotypizace"],
+    "description": [""],
+    "img": [""]
   }
 ]
