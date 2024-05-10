@@ -14,6 +14,7 @@
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^14.2.1",
     "@testing-library/user-event": "^14.5.2",
+    "firebase": "^10.11.1",
     "modern-normalize": "^2.0.0",
     "notiflix": "^3.2.7",
     "react": "^18.1.0",
