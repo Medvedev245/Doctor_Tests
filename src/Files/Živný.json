@@ -70413,5 +70413,1467 @@
     ],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. U každého porodu vedeného v ústavním zařízení by měl být vždy přítomen",
+    "answers": [
+      "a) pediatr",
+      "b) neonatolog",
+      "c) zdravotník, který umí zahájit resuscitaci novorozence",
+      "d) sestra se specializací ARIP"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) zdravotník, který umí zahájit resuscitaci novorozence"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Odsávání z horních cest dýchacích po porodu ramének provádíme",
+    "answers": [
+      "a) u všech novorozenců",
+      "b) neprovádíme nikdy",
+      "c) u nezralých novorozenců",
+      "d) u novorozenců s obsahem mekonia v plodové vodě"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) neprovádíme nikdy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Tracheální odsávání pod laryngoskopickou kontrolou provádíme u novorozenců",
+    "answers": [
+      "a) asfyktických",
+      "b) s aspirací plodové vody",
+      "c) nedýchajících, s aspirací mekonia",
+      "d) u všech se zkalenou plodovou vodou"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) nedýchajících, s aspirací mekonia"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Při kardiopulmonální resuscitaci je poměr kompresí hrudníku a vdechů u novorozence",
+    "answers": ["a) 3:1", "b) 4:1", "c) 2:1", "d) 5:1"],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 3:1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Při farmakologické resuscitaci novorozence nepoužíváme",
+    "answers": [
+      "a) adrenalin",
+      "b) 8,4% NaHCO3",
+      "t) 4,2% NaHCO3",
+      "d) fyziologický roztok"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 8,4% NaHCO3"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Kolik novorozenců potřebuje na sále nějaký stupeň resuscitace",
+    "answers": ["a) 10-15%", "b) 3-5%", "c) 5-10%", "d) 5-10%"],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 5-10%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Kardiopulmonální resuscitaci po porodu asfyktického novorozence ukončujeme",
+    "answers": [
+      "a) pokud asystolie trvá více než 15 minut",
+      "b) při sekundárním apnoe",
+      "c) pokud pacient spontánně nedýchá 15 minut",
+      "d) při známkách mozkové smrti"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) pokud asystolie trvá více než 15 minut"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Adrenalin při farmakologické resuscitaci novorozence",
+    "answers": [
+      "a) podává se v dávce 1 ml/kg",
+      "b) podává se intrakardiálně",
+      "c) ředí se 1 : 20",
+      "d) lze podat intratracheálně"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) lze podat intratracheálně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Jaký je obvod hlavy donošeného fyziologického novorozence",
+    "answers": ["a) 28-30cm", "b) 31-34cm", "c) 35-38 cm", "d) 28-38 cm"],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 31-34cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Které změny jsou charakteristické pro kardiovaskulární systém novorozence",
+    "answers": [
+      "a) dilatace ductus venosus",
+      "b) dilatace pravé síně",
+      "c) bifázická P vlna na EKG",
+      "d) pokles tlaku v plicnici"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) pokles tlaku v plicnici"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Nejčastější kardiální příčina cyanózy u novorozenců je",
+    "answers": [
+      "a) Fallotova tetralogie",
+      "b) transpozice velkých cév",
+      "c) plicní hypertenze",
+      "d) otevřený ductus arteriosus"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) transpozice velkých cév"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Které z následujících onemocnění není spojeno s novorozeneckou žloutenkou",
+    "answers": [
+      "a) galaktosémie",
+      "b) diabetes mellitus matky",
+      "c) kongenitální syfilis",
+      "d) Reyův syndrom"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) Reyův syndrom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Součástí skóre podle Apgarové není",
+    "answers": [
+      "a) krevní tlak",
+      "b) srdeční akce",
+      "c) svalový tonus",
+      "d) barva"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) krevní tlak"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Co nepatří к symptomům diabetické fetopatie",
+    "answers": [
+      "a) spinální ageneze",
+      "b) katarakta",
+      "c) transpozice velkých cév",
+      "d) hyperbilirubinémie"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) katarakta"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Která z následujících cév u plodu přivádí okysličenou krev",
+    "answers": [
+      "a) ductus arteriosus",
+      "b) umbilikalní tepna",
+      "c) umbilikalní žíla",
+      "d) žádná z výše uvedených"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) umbilikalní žíla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Při odsávám novorozence na porodním sále používáme odsávací podtlak",
+    "answers": [
+      "a) 3-5 cm H,O",
+      "b) 10-15cmH,O",
+      "c) 50-60cm H^O",
+      "d) minimálně 100cm H2O"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 10-15cmH,O"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Fyziologické rozmezí dechové frekvence u zdravého donošeného novorozence činí",
+    "answers": [
+      "a) 20-30 dechů/min",
+      "b) 40-60 dechů/min",
+      "c) 80-90 dechů/min",
+      "d) 100-120 dechů/min"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 40-60 dechů/min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Kredeizace chrání novorozence před",
+    "answers": [
+      "a) adnátní В streptokokovou infekcí",
+      "b) pneumopatií",
+      "c) chlamydiovou infekcí",
+      "d) gonokokovým zánětem spojivky"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) gonokokovým zánětem spojivky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Hypotrofický novorozenec má porodní hmotnost",
+    "answers": [
+      "a) pod 1500g",
+      "b) pod 2000 g",
+      "c) pod 2500 g",
+      "d) pod 10 percentil hmotnosti odpovídající týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) pod 10 percentil hmotnosti odpovídající týdnu těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Vitamin K1 aplikovaný novorozenci po porodu chrání novorozence před",
+    "answers": [
+      "a) krvácivou nemocí",
+      "b) retinopatií",
+      "c) žloutenkou",
+      "d) apnoickou pauzou"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) krvácivou nemocí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Mezi úvodní kroky resuscitace novorozence patří",
+    "answers": [
+      "a) intubace",
+      "b) zevní srdeční masáž",
+      "c) insuflace kyslíku samorozpínacím vakem",
+      "d) zevní stimulace a inhalace kyslíku"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) zevní stimulace a inhalace kyslíku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. O bradykardii novorozence hovoříme při akci srdeční (horní hranice)",
+    "answers": [
+      "a) pod 120/min",
+      "b) pod 80/min",
+      "c) pod 140/min",
+      "d) pod 40/min"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) pod 80/min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Absolutní kontraindikací kojení ze strany matky je",
+    "answers": [
+      "a) febrilie 38 °C",
+      "b) hepatitida В",
+      "c) léčba cytostatiky",
+      "d) ragády bradavek"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) léčba cytostatiky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Mateřské mléko má oproti mléku kravskému",
+    "answers": [
+      "a) vyšší obsah bílkovin",
+      "b) stejný obsah bílkovin",
+      "c) nižší obsah bílkovin",
+      "d) neobsahuje imunoglobulin A"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) nižší obsah bílkovin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Mezi výhody kojení nepatří",
+    "answers": [
+      "a) ochrana před průjmy",
+      "b) nižší výskyt fenylketonurie",
+      "c) nižší riziko výskytu alergických onemocnění v dětském věku",
+      "d) nižší riziko výskytu cukrovky v dětském věku"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) nižší výskyt fenylketonurie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Který reflex neřadíme mezi základní novorozenecké reflexy",
+    "answers": ["a) hledači", "b) úchopový", "c) Moroův", "d) optikofaciální"],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) optikofaciální"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Jaká hodnota acidobazické rovnováhy z pupečníkové tepny je kritériem těžké perinatálm asfyxie",
+    "answers": [
+      "a) pO, pod 50 kPa",
+      "b) pH pod 7,0",
+      "c) BE pod -8",
+      "d) pCO2 nad 50 kPa"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) pH pod 7,0"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Hypotermií jsou ohroženi hlavně novorozenci",
+    "answers": [
+      "a) přenášení",
+      "b) s diabetickou fetopatií",
+      "c) nedonošení",
+      "d) s váhovým úbytkem nad 10%"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) nedonošení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Mezi novorozence s velmi nízkou porodní hmotností řadíme děti s porodní hmotností",
+    "answers": [
+      "a) pod lOOOg",
+      "b) pod 1500g",
+      "c) pod 2000 g",
+      "d) pod 2500 g"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) pod 1500g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Při hyperbilirubinémii ohrožuje novorozence jádrovým ikterem",
+    "answers": [
+      "a) bilirubin nekonjugovaný",
+      "b) bilirubin konjugovaný",
+      "c) bilirubin konjugovaný i nekonjugovaný",
+      "d) rozpadové produkty bilirubinu"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) bilirubin nekonjugovaný"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Centrální cyanóza u novorozence může být způsobena",
+    "answers": [
+      "a) chladovým stresem",
+      "b) srdečními vadami s L-P zkratem",
+      "c) poruchami dýchání",
+      "d) opožděným uzávěrem tepenné dučeje"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) poruchami dýchání"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Co nepatří к symptomům diabetické fetopatie",
+    "answers": [
+      "a) spinální ageneze",
+      "b) katarakta",
+      "c) transpozice velkých cév",
+      "d) hyperbilirubinémie"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) katarakta"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Která z následujících cév u plodu přivádí okysličenou krev",
+    "answers": [
+      "a) ductus arteriosus",
+      "b) umbilikalní tepna",
+      "c) umbilikalní žíla",
+      "d) žádná z výše uvedených"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) umbilikalní žíla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Při odsávám novorozence na porodním sále používáme odsávací podtlak",
+    "answers": [
+      "a) 3-5 cm H,O",
+      "b) 10-15cmH,O",
+      "c) 50-60cm H^O",
+      "d) minimálně 100cm H2O"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 10-15cmH,O"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Fyziologické rozmezí dechové frekvence u zdravého donošeného novorozence činí",
+    "answers": [
+      "a) 20-30 dechů/min",
+      "b) 40-60 dechů/min",
+      "c) 80-90 dechů/min",
+      "d) 100-120 dechů/min"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 40-60 dechů/min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Kredeizace chrání novorozence před",
+    "answers": [
+      "a) adnátní В streptokokovou infekcí",
+      "b) pneumopatií",
+      "c) chlamydiovou infekcí",
+      "d) gonokokovým zánětem spojivky"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) gonokokovým zánětem spojivky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Hypotrofický novorozenec má porodní hmotnost",
+    "answers": [
+      "a) pod 1500g",
+      "b) pod 2000 g",
+      "c) pod 2500 g",
+      "d) pod 10 percentil hmotnosti odpovídající týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) pod 10 percentil hmotnosti odpovídající týdnu těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Vitamin K1 aplikovaný novorozenci po porodu chrání novorozence před",
+    "answers": [
+      "a) krvácivou nemocí",
+      "b) retinopatií",
+      "c) žloutenkou",
+      "d) apnoickou pauzou"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) krvácivou nemocí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Mezi úvodní kroky resuscitace novorozence patří",
+    "answers": [
+      "a) intubace",
+      "b) zevní srdeční masáž",
+      "c) insuflace kyslíku samorozpínacím vakem",
+      "d) zevní stimulace a inhalace kyslíku"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) zevní stimulace a inhalace kyslíku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. O bradykardii novorozence hovoříme při akci srdeční (horní hranice)",
+    "answers": [
+      "a) pod 120/min",
+      "b) pod 80/min",
+      "c) pod 140/min",
+      "d) pod 40/min"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) pod 80/min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Absolutní kontraindikací kojení ze strany matky je",
+    "answers": [
+      "a) febrilie 38 °C",
+      "b) hepatitida В",
+      "c) léčba cytostatiky",
+      "d) ragády bradavek"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) léčba cytostatiky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Mateřské mléko má oproti mléku kravskému",
+    "answers": [
+      "a) vyšší obsah bílkovin",
+      "b) stejný obsah bílkovin",
+      "c) nižší obsah bílkovin",
+      "d) neobsahuje imunoglobulin A"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) nižší obsah bílkovin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Mezi výhody kojení nepatří",
+    "answers": [
+      "a) ochrana před průjmy",
+      "b) nižší výskyt fenylketonurie",
+      "c) nižší riziko výskytu alergických onemocnění v dětském věku",
+      "d) nižší riziko výskytu cukrovky v dětském věku"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) nižší výskyt fenylketonurie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Který reflex neřadíme mezi základní novorozenecké reflexy",
+    "answers": ["a) hledači", "b) úchopový", "c) Moroův", "d) optikofaciální"],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) optikofaciální"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Jaká hodnota acidobazické rovnováhy z pupečníkové tepny je kritériem těžké perinatálm asfyxie",
+    "answers": [
+      "a) pO, pod 50 kPa",
+      "b) pH pod 7,0",
+      "c) BE pod -8",
+      "d) pCO2 nad 50 kPa"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) pH pod 7,0"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Hypotermií jsou ohroženi hlavně novorozenci",
+    "answers": [
+      "a) přenášení",
+      "b) s diabetickou fetopatií",
+      "c) nedonošení",
+      "d) s váhovým úbytkem nad 10%"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) nedonošení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Mezi novorozence s velmi nízkou porodní hmotností řadíme děti s porodní hmotností",
+    "answers": [
+      "a) pod lOOOg",
+      "b) pod 1500g",
+      "c) pod 2000 g",
+      "d) pod 2500 g"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) pod 1500g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Při hyperbilirubinémii ohrožuje novorozence jádrovým ikterem",
+    "answers": [
+      "a) bilirubin nekonjugovaný",
+      "b) bilirubin konjugovaný",
+      "c) bilirubin konjugovaný i nekonjugovaný",
+      "d) rozpadové produkty bilirubinu"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) bilirubin nekonjugovaný"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Centrální cyanóza u novorozence může být způsobena",
+    "answers": [
+      "a) chladovým stresem",
+      "b) srdečními vadami s L-P zkratem",
+      "c) poruchami dýchání",
+      "d) opožděným uzávěrem tepenné dučeje"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) poruchami dýchání"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "49. Příčinou syndromu respirační tísně nedonošených (RDS) je",
+    "answers": [
+      "a) anatomická nezralost plic",
+      "b) aspirace plodové vody",
+      "c) infekce",
+      "d) anatomická a funkční nezralost plic s nedostatkem surfaktantu"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) anatomická a funkční nezralost plic s nedostatkem surfaktantu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "50. Mezi klinické známky syndromu respirační tísně nedonošených (RDS) nepatří",
+    "answers": [
+      "a) dyspnoe a tachypnoe",
+      "b) cyanóza",
+      "c) hypertenze",
+      "d) grunting"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) hypertenze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "51. V léčbě syndromu respirační tísně nedonošených(RDS) se aplikuje surfaktant",
+    "answers": [
+      "a) intravenózně",
+      "b) perorálně",
+      "c) endotracheálně",
+      "d) inhalační formou"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) endotracheálně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "52. Které onemocnění novorozence je kontraindikací kojení",
+    "answers": [
+      "a) adnátní В streptokoková infekce",
+      "b) Rh izoimunizace",
+      "c) hypotrofie",
+      "d) galaktosémie"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) galaktosémie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "53. U donošeného fyziologického novorozence bývá malá fontanela",
+    "answers": ["a) otevřená", "b) v niveu", "c) vpadlá", "d) uzavřená"],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) uzavřená"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "54. Hyperbilirubinémii novorozence neléčíme",
+    "answers": [
+      "a) výměnnou transfúzí",
+      "b) infuzí glukózy",
+      "c) intermitentní fototerapií",
+      "d) kontinuální fototerapií"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) infuzí glukózy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "55. Nejčastější pozdní formou В streptokokové infekce novorozenců bývá",
+    "answers": [
+      "a) meningitida",
+      "b) bronchitida",
+      "c) pneumonie",
+      "d) otitida"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) meningitida"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "56. Mezi časné formy adnátní В streptokokové infekce novorozenců nepatří",
+    "answers": ["a) sepse", "b) pneumonie", "c) meningitida", "d) faryngitida"],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) faryngitida"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "57. Mikrocefalie donošeného novorozence má obvod hlavy (uveďte hraniční hodnotu)",
+    "answers": ["a) pod 35 cm", "b) pod 33 cm", "c) pod 31 cm", "d) pod 29 cm"],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) pod 31 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "58. Do jakého věku dítěte doporučujeme plné kojení bez přídavků stravy",
+    "answers": [
+      "a) maximálně do 1 měsíce",
+      "b) maximálně do 3 měsíců",
+      "c) minimálně do 6 měsíců",
+      "d) minimálně do 24 měsíců"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) minimálně do 6 měsíců"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "59. Kolostrum má proti mateřskému mléku",
+    "answers": [
+      "a) méně bílkovin",
+      "b) více bílkovin",
+      "c) více cukrů",
+      "d) více tuků"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) více bílkovin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "60. Jaká poloha novorozence a kojence ve spánku zvyšuje riziko náhlého úmrtí (SIDS)",
+    "answers": [
+      "a) na zádech",
+      "b) na levém boku",
+      "c) na pravém boku",
+      "d) na bříšku"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) na bříšku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "61. Horní typ parézy plexus brachialis (Duchenne­ Erb) má poranění v rozsahu",
+    "answers": ["a) C3-C4", "b) cs c6", "c) C7-Th,", "d) Th-Th3"],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) cs c6"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "62. Fraktura klíční kosti jako porodní poranění u novorozenců",
+    "answers": [
+      "a) vyžaduje okamžité zahájení rehabilitace",
+      "b) sádrovou fixaci",
+      "c) podávání analgetik",
+      "d) projeví se při palpaci typickou krepitací"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) projeví se při palpaci typickou krepitací"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "63. Co jsou milia",
+    "answers": [
+      "a) benigní kožní afekce -retenční cystičky mazových žláz",
+      "b) kožní příznak kandidové infekce",
+      "c) kožní příznak stafylodermie",
+      "d) pigmentové névy"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) benigní kožní afekce -retenční cystičky mazových žláz"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "64. Kritické vrozené srdeční vady se v novorozeneckém období projeví",
+    "answers": [
+      "a) vždy šelestem",
+      "b) cyanózou nebo srdečním selháním",
+      "c) vždy cyanózou",
+      "d) vždy srdečním selháním"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) cyanózou nebo srdečním selháním"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "65. Při jaké konstelaci může nastat hemolytická nemoc novorozence",
+    "answers": [
+      "a) matka Rh pozitivní, novorozenec Rh negativní",
+      "b) matka krevní skupina 0, novorozenec skupina В",
+      "c) matka krevní skupina A, novorozenec skupina В",
+      "d) matka krevní skupina A, novorozenec skupina 0"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) matka krevní skupina 0, novorozenec skupina В"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "66. Očkování proti tuberkulóze - BCG vakcinace - se aplikuje",
+    "answers": [
+      "a) perorálně",
+      "b) intramuskulámě",
+      "c) intravenózně",
+      "d) intradermálně"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) intradermálně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "67. Paréza nervus facialis se u novorozence projeví",
+    "answers": [
+      "a) asymetrickým pláčem",
+      "b) poruchou sání",
+      "c) poruchou polykání",
+      "d) afonií"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) asymetrickým pláčem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "68. Fyziologické rozmezí leukocytů novorozence 1 den je",
+    "answers": [
+      "a) 5—8-109/l",
+      "b) 9-45 109/l",
+      "c) 5-15 109/l",
+      "d) 9-36 109/l"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) 9-36 109/l"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "69. Průměrná porodní hmotnost donošeného novorozence v populaci ČR je asi",
+    "answers": ["a) 4200 g", "b) 3900 g", "c) 3500 g", "d) 3000 g"],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 3500 g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "70. Jako rizikový faktor se počítá odtok plodové vody více než (uveďte hraniční hodnotu)",
+    "answers": ["a) 12 hodin", "b) 18 hodin", "c) 48 hodin", "d) 72 hodin"],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 18 hodin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "71. Indikace zahájení ventilace vakem a maskou u novorozence po porodu je",
+    "answers": [
+      "a) skóre Apgarové v 1 minutě 3-5",
+      "b) dyspnoe",
+      "c) srdeční akce 100-120/min",
+      "d) apnoe a bradykardie pod 100 nereagující na taktilní stimulaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) apnoe a bradykardie pod 100 nereagující na taktilní stimulaci"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "72. Termín porodu se počítá",
+    "answers": [
+      "a) z data oplodňující soulože",
+      "b) z ovulace",
+      "c) z posledního dne posledních menses",
+      "d) z prvního dne posledních menses"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) z prvního dne posledních menses"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "73. Správné pásmo délky těhotenství pro donošeného novorozence je",
+    "answers": [
+      "a) 38-40 ukončený týden těhotenství",
+      "b) 36-38 ukončený týden těhotenství",
+      "c) 38^12 ukončený týden těhotenství",
+      "d) 38-39 ukončený týden těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 38^12 ukončený týden těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "74. Hypotrofii plodu lze očekávat při této patologii těhotenství",
+    "answers": [
+      "a) ulcus ventriculi matky",
+      "b) EPH gestóza",
+      "c) cholecystopatie matky",
+      "d) diabetes mellitus matky"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) EPH gestóza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "75. Mezi klinicky hodnocené známky zralosti novorozence nepatří",
+    "answers": [
+      "a) vývoj dentice",
+      "b) vývoj ušního boltce",
+      "c) lokalizace ůponu pupečníku",
+      "d) rýhování plosek nohou"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) vývoj dentice"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "76. Přenošené dítě zpravidla nemá",
+    "answers": [
+      "a) inhibici kůže a pupečníku zkalenou plodovou vodou",
+      "b) hypoglykémii první den po porodu",
+      "c) redukci podkožního tuku při porodu",
+      "d) tenkou pokožku s prosvítající cévní kresbou"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) tenkou pokožku s prosvítající cévní kresbou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "77. Děti z vícečetných těhotenství nemají zpravidla",
+    "answers": [
+      "a) vyšší riziko komplikací za porodu",
+      "b) nižší gestační stáří než průměr populace",
+      "c) nižší porodní hmotnost než průměr populace",
+      "d) vyšší gestační stáří než průměr populace"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) vyšší gestační stáří než průměr populace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "78. Perinatální úmrtnost je počet dětí zemřelých",
+    "answers": [
+      "a) před porodem, během porodu a 7 dní po porodu/100 000 narozených",
+      "b) před porodem, během porodu a 7 dní po porodu/1000 narozených",
+      "c) za porodu/100 000 narozených",
+      "d) za porodu/1000 narozených"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) před porodem, během porodu a 7 dní po porodu/1000 narozených"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "79. Mezi infekce označované »TORCH« nepatří",
+    "answers": [
+      "a) listerie",
+      "b) rubeola",
+      "c) toxoplazmóza",
+      "d) cytomegalovirus"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) listerie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "80. Mezi standardní screeningové vyšetření novorozence nepatří",
+    "answers": [
+      "a) screeningové vyšetření galaktosémie",
+      "b) screeningové vyšetření kyčelních kloubů",
+      "c) screening fenylketonurie",
+      "d) Guthrieho zkouška"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) screeningové vyšetření galaktosémie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "81. Nejčastější adnátní bakteriální infekci způsobuje(í)",
+    "answers": [
+      "a) Staphylococcus aureus",
+      "b) streptokoky",
+      "c) atypické mikroorganismy (chlamydie, ureaplazmy, mykoplazmy)",
+      "d) Escherichia coli"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) streptokoky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "82. Infekce vzniklé in utero se nejčastěji projeví do",
+    "answers": [
+      "a) 72 hodin po porodu",
+      "b) 24 hodin po porodu",
+      "c) známky infekce jsou patrny ihned po narození",
+      "d) 48 hodin po porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) 48 hodin po porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "83. Infekce vzniklé kolonizací při průchodu porodním kanálem se projeví nejčastěji",
+    "answers": [
+      "a) během 24 hodin po porodu",
+      "b) po 7 dnu života",
+      "c) během prvých 2 dnů života",
+      "d) během prvých 7 dnů života"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) během prvých 7 dnů života"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "84. Kongenitální diafragmatická hernie novorozence",
+    "answers": [
+      "a) může mít rychlý infaustní průběh",
+      "b) vyžaduje okamžitý transport na chirurgické pracoviště",
+      "c) vyžaduje resuscitaci, dýchání maskou s vakem",
+      "d) se projeví vždy ihned po porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) může mít rychlý infaustní průběh"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "85. Galaktosémie je onemocnění novorozence, který nemá",
+    "answers": [
+      "a) zvýšené jatemí testy",
+      "b) hyperglykémii",
+      "c) hypoglykémii",
+      "d) hepatosplenomegalii"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) hyperglykémii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "86. Atrézie jícnu novorozence se po porodu nejčastěji projevuje",
+    "answers": [
+      "a) zvracením",
+      "b) dušností",
+      "c) pozdním odchodem šmolky",
+      "d) zvýšeným sliněním"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) zvýšeným sliněním"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "87. Oligurie u novorozence je produkce moči menší než",
+    "answers": [
+      "a) 1 ml/kg/h",
+      "b) 2 ml/kg/h",
+      "c) 0,3 ml/kg/h",
+      "d) 0,5 ml/kg/h"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) 1 ml/kg/h"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "88. Fyziologický úbytek porodní hmotnosti u donošeného novorozence bývá",
+    "answers": ["a) 9-13%", "b) 2-3%", "c) 1^1%", "d) 5-8%"],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) 5-8%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "89. Maximum hmotnostního úbytku u donošeného novorozence lze očekávat",
+    "answers": [
+      "a) 3-5 týden života",
+      "b) 4-8 den života",
+      "c) 3-5 den života",
+      "d) 2 den života"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) 3-5 den života"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "90. Nejčastějším laboratorním příznakem galaktosémie je",
+    "answers": [
+      "a) metabolická alkalóza",
+      "b) metabolická acidóza",
+      "c) hyperglykémie",
+      "d) hypoglykémie"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) hypoglykémie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "91. Fyziologický ikterus u donošeného novorozence dosahuje 3 den života bilirubinémie",
+    "answers": [
+      "a) 215 nmol/1",
+      "b) 215 pkat/l",
+      "c) 215 mmol/1",
+      "d) 215 pmol/1"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) 215 pmol/1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "92. První močení se objeví do 24 hodin po porodu",
+    "answers": [
+      "a) u 93 % donošených novorozenců",
+      "b) u 100 % donošených novorozenců",
+      "c) u 40% donošených novorozenců",
+      "d) u 66 % donošených novorozenců"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) u 93 % donošených novorozenců"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "93. První stolice odejde u 94 % donošených novorozenců do",
+    "answers": [
+      "a) 12 hodin života",
+      "b) 24 hodin života",
+      "c) 36 hodin života",
+      "d) 48 hodin života"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) 24 hodin života"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "94. Apgarové skóre hodnotí",
+    "answers": [
+      "a) vztah výživy к délce gestace",
+      "b) časnou poporodní adaptaci",
+      "c) hmotnostní přírůstky po narození",
+      "d) pozdní poporodní adaptaci"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) časnou poporodní adaptaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "95. Nekorigovaná transpozice velkých tepen se projevuje",
+    "answers": [
+      "a) během 48 hodin po porodu",
+      "b) většinou až po týdnu života",
+      "c) manifestace závisí na příjmu stravy",
+      "d) okamžitě po porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) okamžitě po porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "96. Pneumotorax u novorozence",
+    "answers": [
+      "a) vyžaduje vždy hrudní drenáž",
+      "b) vzniká pouze u arteficiální plicní ventilace",
+      "c) léčí se vždy umělou plicní ventilací",
+      "d) může vzniknout spontánně"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) může vzniknout spontánně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "97. Žlutozelenavý kožní kolorit u novorozence bezprostředně po porodu nejčastěji způsobuje",
+    "answers": [
+      "a) zkalená plodová voda",
+      "b) syndrom »yellow skin baby«",
+      "c) anemizace novorozence",
+      "d) Rh inkompatibilita mezi matkou a plodem"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) zkalená plodová voda"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "98. HBsAg pozitivní matky",
+    "answers": [
+      "a) mohou kojit své novorozence",
+      "b) mohou kojit až po vyšetření HBsAg",
+      "c) rodí novorozence s poškozením jater",
+      "d) nesmějí kojit"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) mohou kojit své novorozence"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "99. Polycytémie může být spojena",
+    "answers": [
+      "a) s polyploidií",
+      "b) s polymorfonukleáry",
+      "c) s polycystickými ledvinami",
+      "d) s polyhydramniem"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) s polyploidií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "100. Obstrukční nekomunikující hydrocefalus nemá průchodné",
+    "answers": [
+      "a) aquaeductus Sylvii",
+      "b) foramina Magendi et Luschkae",
+      "c) foramina Monroi",
+      "d) foramen ovale"
+    ],
+    "book": ["Živný"],
+    "topic": ["15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) foramen ovale"],
+    "description": [""],
+    "img": [""]
   }
 ]

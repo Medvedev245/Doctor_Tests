@@ -86,247 +86,516 @@
 //   };
 const Functions = () => {
   const text = `
-  1. Je-li závěrem biochemického screeningu AFP, hCG a Ej z krve těhotné v 16 týdnu těhotenství  zvýšené riziko NTD
-  a) provedeme amniocentézu
-  b) je u těhotné indikováno konziliámí UZ vyšetření
-  c) začneme těhotné podávat 400mg kyseliny listové  3krát denně
-  d) provedeme kordocentézu
-  2. Je-li biochemický screening AFP, hCG a E, z krve  těhotné v 16 týdnu těhotenství pozitivní
-  a) provedeme nový odběr krve těhotné, a je-li pozitivní,  doporučíme další vyšetření
-  b) provedeme amniocentézu
-  c) odešleme těhotnou na genetickou konzultaci
-  d) není třeba činit nic, pozitivita biochemického  screeningu je bezvýznamná
-  3. Amniocentézu provádíme
-  a) klasickou po ukončeném 15 týdnu těhotenství
-  b) v lokální anestezii
-  c) vždy vpichem ve střední čáře asi 2 cm pod pupkem
-  d) za kontinuální kontroly ultrazvukem
-  4. Amniocentézu provádíme
-  a) za žádných okolností ne transplacentámě
-  b) u těhotné se zvýšeným rizikem chromosomální aberace plodu
-  c) u všech těhotných před 35 rokem věku
-  d) za kontinuální fetoskopické kontroly
-  5. Který z následujících výroků o CVS je pravdivý
-  a) riziko abortu po CVS je 7 %
-  b) nevýhodou metody je 4 týdny trvající kultivace odebraného vzorku
-  c) je nejčastěji používanou metodou prenatální diagnostiky
-  d) je to zkratka anglického termínu pro biopsii choria
-  6. Které z následujících výroků o biopsii choria jsou pravdivé
-a) v současné době se provádí již jen transabdominálně, transcervikální přístup je zcela zavržen
-b) к provedení analýzy je nezbytné získat 60 mg materiálu
-c) nemá se provádět před ukončeným 10 týdnem těhotenství
-d) v současnosti ji z větší části nahradila amniocentéza
-7. Punkce pupečníku
-a) vyžaduje několikadenní hospitalizaci
-b) je jako diagnostická metoda indikována pro stanovení karyotypu, není-li dostatek času pro kultivaci amniocytů
-c) se provádí vždy v lokální anestezii
-d) se provádí výhradně za kontinuální ultrazvukové kontroly
-8. Punkce pupečníku
-a) kontaminace odebrané fetálm krve krví matky je vzhledem к přímé vizualizaci odběru vyloučena
-b) je indikována zejména pro stanovení karyotypu a při ohrožení plodu Rh izoimunizací
-c) umožňuje stanovení fetálního karyotypu během řádově několika hodin, protože se vyšetřují fetální erytrocyty
-d) je metodou volby pro stanovení karyotypu, selže-li kultivace plodové vody
-9. Indikací к punkci pupečníku může být
-a) diagnostika NTD
-b) žádná odpověď neplatí
-c) preeklampsie
-d) hrozící předčasný porod
-10. Který z následujících stavů je spojen se zvýšenou koncentrací AFP
-a) trisomiežl
-b) hrozící potrat
-c) stav po krvácení v prvním trimestru
-d) trisomie 18
-11. Nuchální translucence
-a) nad 2 mm je vždy patologická
-b) cut-off hodnota závisí na gestačním stáří
-c) je prosvětlení v oblasti nosu plodu
-d) je nejsilnějším markérem chromosomální aberace v II trimestru gravidity
-12. Pro rtg vyšetření v těhotenství platí
-a) rtg vyšetření je v těhotenství metodou volby
-b) dávka záření při jednom snímku je hluboko pod hranicí považovanou za teratogenní
-c) rtg pelvimetrie je indikována před porodem u plodu v poloze koncem pánevním
-d) dávka rtg záření v I. trimestru způsobující VVV plodu je 500 m/Gy
-13. Který výrok o poloze plodu je pravdivý
-a) je-li plod v poloze koncem pánevním, je vždy hodnocení srdeční struktury obtížnější
-b) je-li plod uložen přední stěnou břišní směrem к sondě, je hodnocení srdce většinou nemožné
-c) je-li plod v poloze KP, lze provádět biometrii obdobně jako při poloze podélné hlavičkou
-d) je-li plod v poloze příčné, není možné měřit BPD
-14. Které následující výroky o měření HC jsou pravdivá
-a) je prováděno na úrovni cerebela
-b) je většinou považováno za méně přesné než BPD
-c) je většinou považováno za přesnější než BPD
-d) je prováděno na úrovni cavum septi pellucidum
-15. Vizualizace čtyřdutinové srdeční projekce umožňuje posouzení
-a) pozice srdce a velikosti komor
-b) průchodnost venrikuloarteriálních chlopní
-c) průchodnost atrioventrikulámích chlopní
-d) relativní šířku odstupu aortálního kmene z levé komory
-16. V čtyřdutinové projekci srdeční není možno diagnostikovat
-a) transpozici velkých cév
-b) Ebsteinovu anomálii
-c) hypoplastické levé srdce
-d) ductus arteriosus patens
-17. Který ze srdečních oddílů se v čtyřdutinové projekci zobrazuje nejblíže к páteři
-a) levá komora
-b) pravá síň
-c) pravá komora
-d) levá síň
-18. O čtyřdutinové projekci srdce plodu v 18-22 týdnu těhotenství platí
-a) velikost levé a pravé srdeční komory je přibližně stejná
-b) velikost pravé komory je zřetelně větší než komory levé
-c) interventrikulámí septumje kontinuální (intaktní)
-d) úpon trojcípé chlopně na interventrikulámí septumje asi ve dvou třetinách vzdálenosti mezi hrotem srdce a úponem chlopně dvojcípé
-19. Přítomnost křížení velkých cév můžeme hodnotit
-a) ve čtyřdutinové projekci
-b) v krátké srdeční ose
-c) v dlouhé srdeční ose
-d) v jakékoli projekci, ale nejdříve v 22 týdnu těhotenství
-20. Příznak »pečetního prstenu*
-a) je známkou rozštěpu neurální trubice
-b) nás vede к podrobnějšímu zhodnocení morfologie uropoetického systému
-c) je známkou přítomnosti pouze 2 cév pupečníku
-d) nás vede к podrobnějšímu zhodnocení morfologie plosky plodu
-21. Za UZ marker Downova syndromu považujeme
-a) nepřítomnost nosní kosti plodu
-b) patologický nález srdeční anatomie typu septum secundum
-c) patologický nález srdeční anatomie typu septum primům
-d) sandal gap
-22. Které z následujících tvrzení o fetálním močovém měchýři je pravdivé
-a) pokud není močový měchýř vidět, je přítomna malformace uropoetického systému
-b) plod močí asi jednou za hodinu
-c) pokud se močový měchýřjeví distendovaný, je přítomna malformace uropoetického systému
-d) přítomnost plného močového měchýře znamená, že je funkční alespoň jedna ledvina
-23. Golf ball sign hledáme
-a) v postranní mozkové komoře
-b) v levé srdeční komoře
-c) v pravé srdeční síni
-d) v plodové vodě
-24. Při nálezu lemon sign máme podezření na
-a) zvýšenou kyselost vnitřního prostředí plodu
-b) NTD
-c) defekt přední stěny břišní
-d) meningomyelokéla
-25. Lemon sign je
-a) suspektní UZ nález odchylky tvaru lebečních kostí na příčném průřezu svědčící pro možnou přítomnost rozštěpu rtu
-b) suspektní UZ nález odchylky tvaru lebečních kostí na příčném průřezu svědčící pro možnou přítomnost rozštěpu páteřního kanálu
-c) diagnostický nález potvrzující přítomnost NTD
-d) změna konfigurace lebečních kostí s maximem v okcipitální oblasti
-26. Která z následujících tvrzení o normální noze plodu v 19 týdnu těhotenstvíjsou pravdivá
-a) ploska nohy je viditelná ve stejné rovině jako tibie
-b) femurje o trochu delší než humerus
-c) ještě není možno zhodnotit počet prstů
-d) je již možné zobrazit fibulu
-27. V kterém týdnu těhotenstvíje možné transvaginálně hodnotit všechny dlouhé kosti a prsty nohou a rukou
-a) v 6
-b) v 10
-c) v 14
-d) v 18
-28. Které z následujících tvrzení o fetálním střevě je pravdivé
-a) peristaltika je viditelná na tenkém střevě, na tlustém ne
-b) peristaltika je viditelná na tlustém střevě, ale na tenkém ne
-c) přítomnost hyperechogenního mekonia v tenkém střevě na počátku druhého trimestru je normální
-d) přítomnost hyperechogenního mekonia v tenkém střevě na počátku druhého trimestru je příznakem intrauterinního stresu plodu
-29. Co není součástí UZ zhodnocení hrudní oblasti plodu
-a) zhodnocení kontinuity bránice
-b) stanovení L-S ratio
-c) zhodnocení polohy srdce
-d) zhodnocení tvaru hrudníku
-30. Která z tvrzení o placentě jsou pravdivá
-a) úpon pupečníku není možno zobrazit
-b) tloušťka normální placenty je 1,5-4cm
-c) placenta může být uložena kdekoli v děloze
-d) matemální žíly drénující krev z oblasti placenty jsou uloženy při placentámím okraji
-31. Při přítomnosti pouze jedné umbilikální arterie je vyšší riziko vývojových vad v systému
-a) uropoetickém
-b) centrálním nervovém
-c) gastrointestinálním
-d) kardiovaskulárním
-32. Herniace střeva do úponu pupečníku u plodu v 11 týdnu těhotenstvíje nejspíše
-a) gastroschíza
-b) omfalokéla
-c) fyziologická hemiace
-d) peristaltika
-33. Redukci počtu plodů u vícečetného těhotenství provádíme
-a) v I. trimestru
-b) podvazem pupečníku redukovaného plodu
-c) intrakardiální injekcí roztoku KC1
-d) pouze při prokázané chromosomální aberaci některého z plodů
-34. Charakteristickou známkou bichorionicity je
-a) lemon sign
-b) golf ball sign
-c) lambda sign
-d) banana sign
-35. Srostlice vznikají
-a) jen u jednovaječných dvojčat
-b) i u dvojvaječných dvojčat
-c) při rozdělení blastomery před 9 dnem od fertilizace
-d) při rozdělení blastomery po 12 dnu od fertilizace
-36. Pro průtok spirální arterií od začátku druhého trimestru je charakteristická
-a) vysoká rezistence a vysoký tok v diastole
-b) nízká rezistence a nízký tok v diastole
-c) vysoká rezistence a nízký tok v diastole
-d) nízká rezistence a vysoký tok v diastole
-37. Přítomnost bilaterálního notch v časné diastole a. uterina je
-a) normální nález v celém průběhu těhotenství
-b) normální před 16 týdnem, ale abnormální po 20 týdnu těhotenství
-c) abnormální celé těhotenství
-d) běžně přítomen po 20 týdnu těhotenství
-38. Které z následujících výroků o fetálním dopplerovském vyšetřeníjsou pravdivé
-a) u fyziologického plodu není nikdy přítomen pozitivní tok v endiastole
-b) nízké PI v a. umbilicalisje známkou intrauterinního stresu plodu
-c) přítomnost pulsace v umbilikální žíle je známkou dobrého stavu plodu
-d) dýchací pohyby plodu ovlivňují křivku průtoku v umbilikální žíle
-39. UZ nález u abrupce placenty může být
-a) retroplacentámí hypoechogenní ložisko
-b) ztluštění placenty
-c) retroplacentámí ložisko různé echogenity
-d) normální
-40. Chorioangiom placenty
-a) není vždy možno detekovat pomocí UZ
-b) je maligní lézí placenty cévního původu
-c) je velmi často spojen s dalšími patologiemi placenty
-d) je nejčastějším placentámím tumorem
-41. Který z následujících nálezů cervikometrie nejvíce svědčí pro diagnózu zvýšeného rizika předčasného porodu
-a) délka cervikálního kanálu 20 mm, vnitřní branka tvaru Y bez progrese při Valsalvově manévru
-b) délka cervikálního kanálu 30 mm, vnitřní branka tvaru T
-c) délka cervikálního kanálu 11 mm, funneling s progresí při Valsalvově manévru
-d) žádný z uvedených nálezů pro riziko předčasného porodu nesvědčí
-42. Amniální pruh
-a) je provazcovitá struktura tvořená převážně amniem, která nijak neohrožuje vývoj plodu
-b) je provazcovitá struktura tvořená převážně choriem, která nijak neohrožuje vývoj plodu
-c) může být etiologickým odkladem redukčních transverzálních abnormalit končetin plodu
-d) je hyperpigmentace amnia způsobená zvýšenou produkcí melaninu v těhotenství
-43. Který z následujících nálezů provází IUGR
-a) snížení rezitence v a. uterina
-b) polyhydramnion
-c) oligohydramnion
-d) zvýšený diastolický tok v a. umbilicalis
-44. Nález zvýšené rezistence v a. umbilicalis je často provázen
-a) symetrickou IUGR
-b) asymetrickou IUGR
-c) sníženou rezistencí v arteria cerebri media
-d) zvýšenou rezistencí v arteria cerebri media
-45. Při anencefalii plodu
-a) je vždy přítomen lemon sign
-b) BPD není možno změřit
-c) chybí obličejová část lebky
-d) vývoj mozku plodu je až do porodu normální
-46. Ultrazvukové vyšetření v I. trimestru
-a) neprovádíme, UZ má prokazatelně teratogenní účinek
-b) je zásadní pro určení chorionicity vícečetného těhotenství
-c) umožňuje přesnější odhad stáří těhotenství než po 20 týdnu těhotenství
-d) nemá smysl
-
-
+  1. U každého porodu vedeného v ústavním zařízení by měl být vždy přítomen
+  a) pediatr
+  b) neonatolog
+  c) zdravotník, který umí zahájit resuscitaci novorozence
+  d) sestra se specializací ARIP
+  2. Odsávání z horních cest dýchacích po porodu ramének provádíme
+  a) u všech novorozenců
+  b) neprovádíme nikdy
+  c) u nezralých novorozenců
+  d) u novorozenců s obsahem mekonia v plodové vodě
+  3. Tracheální odsávání pod laryngoskopickou kontrolou provádíme u novorozenců
+  a) asfyktických
+  b) s aspirací plodové vody
+  c) nedýchajících, s aspirací mekonia
+  d) u všech se zkalenou plodovou vodou
+  4. Při kardiopulmonální resuscitaci je poměr kompresí hrudníku a vdechů u novorozence
+  a) 3:1
+  b) 4:1
+  c) 2:1
+  d) 5:1
+  5. Při farmakologické resuscitaci novorozence  nepoužíváme
+  a) adrenalin
+  b) 8,4% NaHCO3
+  t) 4,2% NaHCO3
+  d) fyziologický roztok
+  6. Kolik novorozenců potřebuje na sále nějaký stupeň resuscitace
+  a) 10-15%
+  b) 3-5%
+  c) 5-10%
+  d) 5-10%
+  7. Kardiopulmonální resuscitaci po porodu asfyktického novorozence ukončujeme
+  a) pokud asystolie trvá více než 15 minut
+  b) při sekundárním apnoe
+  c) pokud pacient spontánně nedýchá 15 minut
+  d) při známkách mozkové smrti
+  8. Adrenalin při farmakologické resuscitaci novorozence
+  a) podává se v dávce 1 ml/kg
+  b) podává se intrakardiálně
+  c) ředí se 1 : 20
+  d) lze podat intratracheálně
+  9. Jaký je obvod hlavy donošeného fyziologického novorozence
+  a) 28-30cm
+  b) 31-34cm
+  c) 35-38 cm
+  d) 28-38 cm
+  10. Které změny jsou charakteristické pro kardiovaskulární systém novorozence
+  a) dilatace ductus venosus
+  b) dilatace pravé síně
+  c) bifázická P vlna na EKG
+  d) pokles tlaku v plicnici
+  11. Nejčastější kardiální příčina cyanózy u novorozenců je
+  a) Fallotova tetralogie
+  b) transpozice velkých cév
+  c) plicní hypertenze
+  d) otevřený ductus arteriosus
+  12. Které z následujících onemocnění není spojeno s novorozeneckou žloutenkou
+  a) galaktosémie
+  b) diabetes mellitus matky
+  c) kongenitální syfilis
+  d) Reyův syndrom
+  13. Součástí skóre podle Apgarové není
+  a) krevní tlak
+  b) srdeční akce
+  c) svalový tonus
+  d) barva
+  14. Co nepatří к symptomům diabetické fetopatie
+  a) spinální ageneze
+  b) katarakta
+  c) transpozice velkých cév
+  d) hyperbilirubinémie
+  15. Která z následujících cév u plodu přivádí okysličenou krev
+  a) ductus arteriosus
+  b) umbilikalní tepna
+  c) umbilikalní žíla
+  d) žádná z výše uvedených
+  16. Při odsávám novorozence na porodním sále používáme odsávací podtlak
+  a) 3-5 cm H,O
+  b) 10-15cmH,O
+  c) 50-60cm H^O
+  d) minimálně 100cm H2O
+  17. Fyziologické rozmezí dechové frekvence u zdravého donošeného novorozence činí
+  a) 20-30 dechů/min
+  b) 40-60 dechů/min
+  c) 80-90 dechů/min
+  d) 100-120 dechů/min
+  18. Kredeizace chrání novorozence před
+  a) adnátní В streptokokovou infekcí
+  b) pneumopatií
+  c) chlamydiovou infekcí
+  d) gonokokovým zánětem spojivky
+  19. Hypotrofický novorozenec má porodní hmotnost
+  a) pod 1500g
+  b) pod 2000 g
+  c) pod 2500 g
+  d) pod 10 percentil hmotnosti odpovídající týdnu těhotenství
+  20. Vitamin K1 aplikovaný novorozenci po porodu chrání novorozence před
+  a) krvácivou nemocí
+  b) retinopatií
+  c) žloutenkou
+  d) apnoickou pauzou
+  21. Mezi úvodní kroky resuscitace novorozence patří
+  a) intubace
+  b) zevní srdeční masáž
+  c) insuflace kyslíku samorozpínacím vakem
+  d) zevní stimulace a inhalace kyslíku
+  22. O bradykardii novorozence hovoříme při akci srdeční (horní hranice)
+  a) pod 120/min
+  b) pod 80/min
+  c) pod 140/min
+  d) pod 40/min
+  23. Absolutní kontraindikací kojení ze strany matky je
+  a) febrilie 38 °C
+  b) hepatitida В
+  c) léčba cytostatiky
+  d) ragády bradavek
+  24. Mateřské mléko má oproti mléku kravskému
+  a) vyšší obsah bílkovin
+  b) stejný obsah bílkovin
+  c) nižší obsah bílkovin
+  d) neobsahuje imunoglobulin A
+  25. Mezi výhody kojení nepatří
+  a) ochrana před průjmy
+  b) nižší výskyt fenylketonurie
+  c) nižší riziko výskytu alergických onemocnění v dětském věku
+  d) nižší riziko výskytu cukrovky v dětském věku
+  26. Který reflex neřadíme mezi základní novorozenecké reflexy
+  a) hledači
+  b) úchopový
+  c) Moroův
+  d) optikofaciální
+  27. Jaká hodnota acidobazické rovnováhy z pupečníkové tepny je kritériem těžké perinatálm asfyxie
+  a) pO, pod 50 kPa
+  b) pH pod 7,0
+  c) BE pod -8
+  d) pCO2 nad 50 kPa
+  28. Hypotermií jsou ohroženi hlavně novorozenci
+  a) přenášení
+  b) s diabetickou fetopatií
+  c) nedonošení
+  d) s váhovým úbytkem nad 10%
+  29. Mezi novorozence s velmi nízkou porodní hmotností řadíme děti s porodní hmotností
+  a) pod lOOOg
+  b) pod 1500g
+  c) pod 2000 g
+  d) pod 2500 g
+  30. Při hyperbilirubinémii ohrožuje novorozence jádrovým ikterem
+  a) bilirubin nekonjugovaný
+  b) bilirubin konjugovaný
+  c) bilirubin konjugovaný i nekonjugovaný
+  d) rozpadové produkty bilirubinu
+  31. Centrální cyanóza u novorozence může být způsobena
+  a) chladovým stresem
+  b) srdečními vadami s L-P zkratem
+  c) poruchami dýchání
+  d) opožděným uzávěrem tepenné dučeje
+  14. Co nepatří к symptomům diabetické fetopatie
+a) spinální ageneze
+b) katarakta
+c) transpozice velkých cév
+d) hyperbilirubinémie
+15. Která z následujících cév u plodu přivádí okysličenou krev
+a) ductus arteriosus
+b) umbilikalní tepna
+c) umbilikalní žíla
+d) žádná z výše uvedených
+16. Při odsávám novorozence na porodním sále používáme odsávací podtlak
+a) 3-5 cm H,O
+b) 10-15cmH,O
+c) 50-60cm H^O
+d) minimálně 100cm H2O
+17. Fyziologické rozmezí dechové frekvence u zdravého donošeného novorozence činí
+a) 20-30 dechů/min
+b) 40-60 dechů/min
+c) 80-90 dechů/min
+d) 100-120 dechů/min
+18. Kredeizace chrání novorozence před
+a) adnátní В streptokokovou infekcí
+b) pneumopatií
+c) chlamydiovou infekcí
+d) gonokokovým zánětem spojivky
+19. Hypotrofický novorozenec má porodní hmotnost
+a) pod 1500g
+b) pod 2000 g
+c) pod 2500 g
+d) pod 10 percentil hmotnosti odpovídající týdnu těhotenství
+20. Vitamin K1 aplikovaný novorozenci po porodu chrání novorozence před
+a) krvácivou nemocí
+b) retinopatií
+c) žloutenkou
+d) apnoickou pauzou
+21. Mezi úvodní kroky resuscitace novorozence patří
+a) intubace
+b) zevní srdeční masáž
+c) insuflace kyslíku samorozpínacím vakem
+d) zevní stimulace a inhalace kyslíku
+22. O bradykardii novorozence hovoříme při akci srdeční (horní hranice)
+a) pod 120/min
+b) pod 80/min
+c) pod 140/min
+d) pod 40/min
+23. Absolutní kontraindikací kojení ze strany matky je
+a) febrilie 38 °C
+b) hepatitida В
+c) léčba cytostatiky
+d) ragády bradavek
+24. Mateřské mléko má oproti mléku kravskému
+a) vyšší obsah bílkovin
+b) stejný obsah bílkovin
+c) nižší obsah bílkovin
+d) neobsahuje imunoglobulin A
+25. Mezi výhody kojení nepatří
+a) ochrana před průjmy
+b) nižší výskyt fenylketonurie
+c) nižší riziko výskytu alergických onemocnění v dětském věku
+d) nižší riziko výskytu cukrovky v dětském věku
+26. Který reflex neřadíme mezi základní novorozenecké reflexy
+a) hledači
+b) úchopový
+c) Moroův
+d) optikofaciální
+27. Jaká hodnota acidobazické rovnováhy z pupečníkové tepny je kritériem těžké perinatálm asfyxie
+a) pO, pod 50 kPa
+b) pH pod 7,0
+c) BE pod -8
+d) pCO2 nad 50 kPa
+28. Hypotermií jsou ohroženi hlavně novorozenci
+a) přenášení
+b) s diabetickou fetopatií
+c) nedonošení
+d) s váhovým úbytkem nad 10%
+29. Mezi novorozence s velmi nízkou porodní hmotností řadíme děti s porodní hmotností
+a) pod lOOOg
+b) pod 1500g
+c) pod 2000 g
+d) pod 2500 g
+30. Při hyperbilirubinémii ohrožuje novorozence jádrovým ikterem
+a) bilirubin nekonjugovaný
+b) bilirubin konjugovaný
+c) bilirubin konjugovaný i nekonjugovaný
+d) rozpadové produkty bilirubinu
+31. Centrální cyanóza u novorozence může být způsobena
+a) chladovým stresem
+b) srdečními vadami s L-P zkratem
+c) poruchami dýchání
+d) opožděným uzávěrem tepenné dučeje
+49. Příčinou syndromu respirační tísně nedonošených (RDS) je
+a) anatomická nezralost plic
+b) aspirace plodové vody
+c) infekce
+d) anatomická a funkční nezralost plic s nedostatkem surfaktantu
+50. Mezi klinické známky syndromu respirační tísně nedonošených (RDS) nepatří
+a) dyspnoe a tachypnoe
+b) cyanóza
+c) hypertenze
+d) grunting
+51. V léčbě syndromu respirační tísně nedonošených(RDS) se aplikuje surfaktant
+a) intravenózně
+b) perorálně
+c) endotracheálně
+d) inhalační formou
+52. Které onemocnění novorozence je kontraindikací kojení
+a) adnátní В streptokoková infekce
+b) Rh izoimunizace
+c) hypotrofie
+d) galaktosémie
+53. U donošeného fyziologického novorozence bývá malá fontanela
+a) otevřená
+b) v niveu
+c) vpadlá
+d) uzavřená
+54. Hyperbilirubinémii novorozence neléčíme
+a) výměnnou transfúzí
+b) infuzí glukózy
+c) intermitentní fototerapií
+d) kontinuální fototerapií
+55. Nejčastější pozdní formou В streptokokové infekce novorozenců bývá
+a) meningitida
+b) bronchitida
+c) pneumonie
+d) otitida
+56. Mezi časné formy adnátní В streptokokové infekce novorozenců nepatří
+a) sepse
+b) pneumonie
+c) meningitida
+d) faryngitida
+57. Mikrocefalie donošeného novorozence má obvod hlavy (uveďte hraniční hodnotu)
+a) pod 35 cm
+b) pod 33 cm
+c) pod 31 cm
+d) pod 29 cm
+58. Do jakého věku dítěte doporučujeme plné kojení bez přídavků stravy
+a) maximálně do 1 měsíce
+b) maximálně do 3 měsíců
+c) minimálně do 6 měsíců
+d) minimálně do 24 měsíců
+59. Kolostrum má proti mateřskému mléku
+a) méně bílkovin
+b) více bílkovin
+c) více cukrů
+d) více tuků
+60. Jaká poloha novorozence a kojence ve spánku zvyšuje riziko náhlého úmrtí (SIDS)
+a) na zádech
+b) na levém boku
+c) na pravém boku
+d) na bříšku
+61. Horní typ parézy plexus brachialis (Duchenne­ Erb) má poranění v rozsahu
+a) C3-C4
+b) cs c6
+c) C7-Th,
+d) Th-Th3
+62. Fraktura klíční kosti jako porodní poranění u novorozenců
+a) vyžaduje okamžité zahájení rehabilitace
+b) sádrovou fixaci
+c) podávání analgetik
+d) projeví se při palpaci typickou krepitací
+63. Co jsou milia
+a) benigní kožní afekce -retenční cystičky mazových žláz
+b) kožní příznak kandidové infekce
+c) kožní příznak stafylodermie
+d) pigmentové névy
+64. Kritické vrozené srdeční vady se v novorozeneckém období projeví
+a) vždy šelestem
+b) cyanózou nebo srdečním selháním
+c) vždy cyanózou
+d) vždy srdečním selháním
+65. Při jaké konstelaci může nastat hemolytická nemoc novorozence
+a) matka Rh pozitivní, novorozenec Rh negativní
+b) matka krevní skupina 0, novorozenec skupina В
+c) matka krevní skupina A, novorozenec skupina В
+d) matka krevní skupina A, novorozenec skupina 0
+66. Očkování proti tuberkulóze - BCG vakcinace - se aplikuje
+a) perorálně
+b) intramuskulámě
+c) intravenózně
+d) intradermálně
+67. Paréza nervus facialis se u novorozence projeví
+a) asymetrickým pláčem
+b) poruchou sání
+c) poruchou polykání
+d) afonií
+68. Fyziologické rozmezí leukocytů novorozence 1 den je
+a) 5—8-109/l
+b) 9-45 109/l
+c) 5-15 109/l
+d) 9-36 109/l
+69. Průměrná porodní hmotnost donošeného novorozence v populaci ČR je asi
+a) 4200 g
+b) 3900 g
+c) 3500 g
+d) 3000 g
+70. Jako rizikový faktor se počítá odtok plodové vody více než (uveďte hraniční hodnotu)
+a) 12 hodin
+b) 18 hodin
+c) 48 hodin
+d) 72 hodin
+71. Indikace zahájení ventilace vakem a maskou u novorozence po porodu je
+a) skóre Apgarové v 1 minutě 3-5
+b) dyspnoe
+c) srdeční akce 100-120/min
+d) apnoe a bradykardie pod 100 nereagující na taktilní stimulaci
+72. Termín porodu se počítá
+a) z data oplodňující soulože
+b) z ovulace
+c) z posledního dne posledních menses
+d) z prvního dne posledních menses
+73. Správné pásmo délky těhotenství pro donošeného novorozence je
+a) 38-40 ukončený týden těhotenství
+b) 36-38 ukončený týden těhotenství
+c) 38^12 ukončený týden těhotenství
+d) 38-39 ukončený týden těhotenství
+74. Hypotrofii plodu lze očekávat při této patologii těhotenství
+a) ulcus ventriculi matky
+b) EPH gestóza
+c) cholecystopatie matky
+d) diabetes mellitus matky
+75. Mezi klinicky hodnocené známky zralosti novorozence nepatří
+a) vývoj dentice
+b) vývoj ušního boltce
+c) lokalizace ůponu pupečníku
+d) rýhování plosek nohou
+76. Přenošené dítě zpravidla nemá
+a) inhibici kůže a pupečníku zkalenou plodovou vodou
+b) hypoglykémii první den po porodu
+c) redukci podkožního tuku při porodu
+d) tenkou pokožku s prosvítající cévní kresbou
+77. Děti z vícečetných těhotenství nemají zpravidla
+a) vyšší riziko komplikací za porodu
+b) nižší gestační stáří než průměr populace
+c) nižší porodní hmotnost než průměr populace
+d) vyšší gestační stáří než průměr populace
+78. Perinatální úmrtnost je počet dětí zemřelých
+a) před porodem, během porodu a 7 dní po porodu/100 000 narozených
+b) před porodem, během porodu a 7 dní po porodu/1000 narozených
+c) za porodu/100 000 narozených
+d) za porodu/1000 narozených
+79. Mezi infekce označované »TORCH« nepatří
+a) listerie
+b) rubeola
+c) toxoplazmóza
+d) cytomegalovirus
+80. Mezi standardní screeningové vyšetření novorozence nepatří
+a) screeningové vyšetření galaktosémie
+b) screeningové vyšetření kyčelních kloubů
+c) screening fenylketonurie
+d) Guthrieho zkouška
+81. Nejčastější adnátní bakteriální infekci způsobuje(í)
+a) Staphylococcus aureus
+b) streptokoky
+c) atypické mikroorganismy (chlamydie, ureaplazmy, mykoplazmy)
+d) Escherichia coli
+82. Infekce vzniklé in utero se nejčastěji projeví do
+a) 72 hodin po porodu
+b) 24 hodin po porodu
+c) známky infekce jsou patrny ihned po narození
+d) 48 hodin po porodu
+83. Infekce vzniklé kolonizací při průchodu porodním kanálem se projeví nejčastěji
+a) během 24 hodin po porodu
+b) po 7 dnu života
+c) během prvých 2 dnů života
+d) během prvých 7 dnů života
+84. Kongenitální diafragmatická hernie novorozence
+a) může mít rychlý infaustní průběh
+b) vyžaduje okamžitý transport na chirurgické pracoviště
+c) vyžaduje resuscitaci, dýchání maskou s vakem
+d) se projeví vždy ihned po porodu
+85. Galaktosémie je onemocnění novorozence, který nemá
+a) zvýšené jatemí testy
+b) hyperglykémii
+c) hypoglykémii
+d) hepatosplenomegalii
+86. Atrézie jícnu novorozence se po porodu nejčastěji projevuje
+a) zvracením
+b) dušností
+c) pozdním odchodem šmolky
+d) zvýšeným sliněním
+87. Oligurie u novorozence je produkce moči menší než
+a) 1 ml/kg/h
+b) 2 ml/kg/h
+c) 0,3 ml/kg/h
+d) 0,5 ml/kg/h
+88. Fyziologický úbytek porodní hmotnosti u donošeného novorozence bývá
+a) 9-13%
+b) 2-3%
+c) 1^1%
+d) 5-8%
+89. Maximum hmotnostního úbytku u donošeného novorozence lze očekávat
+a) 3-5 týden života
+b) 4-8 den života
+c) 3-5 den života
+d) 2 den života
+90. Nejčastějším laboratorním příznakem galaktosémie je
+a) metabolická alkalóza
+b) metabolická acidóza
+c) hyperglykémie
+d) hypoglykémie
+91. Fyziologický ikterus u donošeného novorozence dosahuje 3 den života bilirubinémie
+a) 215 nmol/1
+b) 215 pkat/l
+c) 215 mmol/1
+d) 215 pmol/1
+92. První močení se objeví do 24 hodin po porodu
+a) u 93 % donošených novorozenců
+b) u 100 % donošených novorozenců
+c) u 40% donošených novorozenců
+d) u 66 % donošených novorozenců
+93. První stolice odejde u 94 % donošených novorozenců do
+a) 12 hodin života
+b) 24 hodin života
+c) 36 hodin života
+d) 48 hodin života
+94. Apgarové skóre hodnotí
+a) vztah výživy к délce gestace
+b) časnou poporodní adaptaci
+c) hmotnostní přírůstky po narození
+d) pozdní poporodní adaptaci
+95. Nekorigovaná transpozice velkých tepen se projevuje
+a) během 48 hodin po porodu
+b) většinou až po týdnu života
+c) manifestace závisí na příjmu stravy
+d) okamžitě po porodu
+96. Pneumotorax u novorozence
+a) vyžaduje vždy hrudní drenáž
+b) vzniká pouze u arteficiální plicní ventilace
+c) léčí se vždy umělou plicní ventilací
+d) může vzniknout spontánně
+97. Žlutozelenavý kožní kolorit u novorozence bezprostředně po porodu nejčastěji způsobuje
+a) zkalená plodová voda
+b) syndrom »yellow skin baby«
+c) anemizace novorozence
+d) Rh inkompatibilita mezi matkou a plodem
+98. HBsAg pozitivní matky
+a) mohou kojit své novorozence
+b) mohou kojit až po vyšetření HBsAg
+c) rodí novorozence s poškozením jater
+d) nesmějí kojit
+99. Polycytémie může být spojena
+a) s polyploidií
+b) s polymorfonukleáry
+c) s polycystickými ledvinami
+d) s polyhydramniem
+100. Obstrukční nekomunikující hydrocefalus nemá průchodné
+a) aquaeductus Sylvii
+b) foramina Magendi et Luschkae
+c) foramina Monroi
+d) foramen ovale
   
 `;
 
   const answers = `
-  1b 2c 3a,d 4b 5d 6c 7b,d 8b,d 9b
-10b.c 11b 12b 13c 14c,d 15a,c 16a,d 17d 18a,c 19b,c
-20b,c 21a,b,d 22b,d 23b 24b,d 25b 26b,d 27c 28a,c 29b
-30b,c 31a,b,d 32c 33a,c 34c 35a,d 36d 37b 38d 39a,b,c,d
-40a,d 41c 42c 43c 44b,c 45b 46b,c
+done
   
   `;
   const correctNewAnswers = answers.split(' ');
@@ -374,9 +643,7 @@ d) nemá smysl
         question: `${questionNumber + question}`,
         answers: newAnswers,
         book: ['Živný'], // Пример значения для поля "book"
-        topic: [
-          '14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ',
-        ],
+        topic: ['15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ'],
         correctAnswers: myCorrectNewAnswers, // Массив с правильными ответами
       });
     }
