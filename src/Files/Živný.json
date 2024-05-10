@@ -69548,5 +69548,870 @@
     "correctAnswers": ["c) by pro ní byla vhodná karyotypizace"],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Je-li závěrem biochemického screeningu AFP, hCG a Ej z krve těhotné v 16 týdnu těhotenství zvýšené riziko NTD",
+    "answers": [
+      "a) provedeme amniocentézu",
+      "b) je u těhotné indikováno konziliámí UZ vyšetření",
+      "c) začneme těhotné podávat 400mg kyseliny listové 3krát denně",
+      "d) provedeme kordocentézu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) je u těhotné indikováno konziliámí UZ vyšetření"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Je-li biochemický screening AFP, hCG a E, z krve těhotné v 16 týdnu těhotenství pozitivní",
+    "answers": [
+      "a) provedeme nový odběr krve těhotné, a je-li pozitivní, doporučíme další vyšetření",
+      "b) provedeme amniocentézu",
+      "c) odešleme těhotnou na genetickou konzultaci",
+      "d) není třeba činit nic, pozitivita biochemického screeningu je bezvýznamná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) odešleme těhotnou na genetickou konzultaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Amniocentézu provádíme",
+    "answers": [
+      "a) klasickou po ukončeném 15 týdnu těhotenství",
+      "b) v lokální anestezii",
+      "c) vždy vpichem ve střední čáře asi 2 cm pod pupkem",
+      "d) za kontinuální kontroly ultrazvukem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) klasickou po ukončeném 15 týdnu těhotenství",
+      "d) za kontinuální kontroly ultrazvukem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Amniocentézu provádíme",
+    "answers": [
+      "a) za žádných okolností ne transplacentámě",
+      "b) u těhotné se zvýšeným rizikem chromosomální aberace plodu",
+      "c) u všech těhotných před 35 rokem věku",
+      "d) za kontinuální fetoskopické kontroly"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) u těhotné se zvýšeným rizikem chromosomální aberace plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Který z následujících výroků o CVS je pravdivý",
+    "answers": [
+      "a) riziko abortu po CVS je 7 %",
+      "b) nevýhodou metody je 4 týdny trvající kultivace odebraného vzorku",
+      "c) je nejčastěji používanou metodou prenatální diagnostiky",
+      "d) je to zkratka anglického termínu pro biopsii choria"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) je to zkratka anglického termínu pro biopsii choria"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Které z následujících výroků o biopsii choria jsou pravdivé",
+    "answers": [
+      "a) v současné době se provádí již jen transabdominálně, transcervikální přístup je zcela zavržen",
+      "b) к provedení analýzy je nezbytné získat 60 mg materiálu",
+      "c) nemá se provádět před ukončeným 10 týdnem těhotenství",
+      "d) v současnosti ji z větší části nahradila amniocentéza"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) nemá se provádět před ukončeným 10 týdnem těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Punkce pupečníku",
+    "answers": [
+      "a) vyžaduje několikadenní hospitalizaci",
+      "b) je jako diagnostická metoda indikována pro stanovení karyotypu, není-li dostatek času pro kultivaci amniocytů",
+      "c) se provádí vždy v lokální anestezii",
+      "d) se provádí výhradně za kontinuální ultrazvukové kontroly"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) je jako diagnostická metoda indikována pro stanovení karyotypu, není-li dostatek času pro kultivaci amniocytů",
+      "d) se provádí výhradně za kontinuální ultrazvukové kontroly"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Punkce pupečníku",
+    "answers": [
+      "a) kontaminace odebrané fetálm krve krví matky je vzhledem к přímé vizualizaci odběru vyloučena",
+      "b) je indikována zejména pro stanovení karyotypu a při ohrožení plodu Rh izoimunizací",
+      "c) umožňuje stanovení fetálního karyotypu během řádově několika hodin, protože se vyšetřují fetální erytrocyty",
+      "d) je metodou volby pro stanovení karyotypu, selže-li kultivace plodové vody"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) je indikována zejména pro stanovení karyotypu a při ohrožení plodu Rh izoimunizací",
+      "d) je metodou volby pro stanovení karyotypu, selže-li kultivace plodové vody"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Indikací к punkci pupečníku může být",
+    "answers": [
+      "a) diagnostika NTD",
+      "b) žádná odpověď neplatí",
+      "c) preeklampsie",
+      "d) hrozící předčasný porod"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) žádná odpověď neplatí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Který z následujících stavů je spojen se zvýšenou koncentrací AFP",
+    "answers": [
+      "a) trisomiežl",
+      "b) hrozící potrat",
+      "c) stav po krvácení v prvním trimestru",
+      "d) trisomie 18"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) hrozící potrat",
+      "c) stav po krvácení v prvním trimestru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Nuchální translucence",
+    "answers": [
+      "a) nad 2 mm je vždy patologická",
+      "b) cut-off hodnota závisí na gestačním stáří",
+      "c) je prosvětlení v oblasti nosu plodu",
+      "d) je nejsilnějším markérem chromosomální aberace v II trimestru gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) cut-off hodnota závisí na gestačním stáří"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Pro rtg vyšetření v těhotenství platí",
+    "answers": [
+      "a) rtg vyšetření je v těhotenství metodou volby",
+      "b) dávka záření při jednom snímku je hluboko pod hranicí považovanou za teratogenní",
+      "c) rtg pelvimetrie je indikována před porodem u plodu v poloze koncem pánevním",
+      "d) dávka rtg záření v I. trimestru způsobující VVV plodu je 500 m/Gy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) dávka záření při jednom snímku je hluboko pod hranicí považovanou za teratogenní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Který výrok o poloze plodu je pravdivý",
+    "answers": [
+      "a) je-li plod v poloze koncem pánevním, je vždy hodnocení srdeční struktury obtížnější",
+      "b) je-li plod uložen přední stěnou břišní směrem к sondě, je hodnocení srdce většinou nemožné",
+      "c) je-li plod v poloze KP, lze provádět biometrii obdobně jako při poloze podélné hlavičkou",
+      "d) je-li plod v poloze příčné, není možné měřit BPD"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) je-li plod v poloze KP, lze provádět biometrii obdobně jako při poloze podélné hlavičkou"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Které následující výroky o měření HC jsou pravdivá",
+    "answers": [
+      "a) je prováděno na úrovni cerebela",
+      "b) je většinou považováno za méně přesné než BPD",
+      "c) je většinou považováno za přesnější než BPD",
+      "d) je prováděno na úrovni cavum septi pellucidum"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) je většinou považováno za přesnější než BPD",
+      "d) je prováděno na úrovni cavum septi pellucidum"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Vizualizace čtyřdutinové srdeční projekce umožňuje posouzení",
+    "answers": [
+      "a) pozice srdce a velikosti komor",
+      "b) průchodnost venrikuloarteriálních chlopní",
+      "c) průchodnost atrioventrikulámích chlopní",
+      "d) relativní šířku odstupu aortálního kmene z levé komory"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) pozice srdce a velikosti komor",
+
+      "c) průchodnost atrioventrikulámích chlopní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. V čtyřdutinové projekci srdeční není možno diagnostikovat",
+    "answers": [
+      "a) transpozici velkých cév",
+      "b) Ebsteinovu anomálii",
+      "c) hypoplastické levé srdce",
+      "d) ductus arteriosus patens"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) transpozici velkých cév",
+
+      "d) ductus arteriosus patens"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Který ze srdečních oddílů se v čtyřdutinové projekci zobrazuje nejblíže к páteři",
+    "answers": [
+      "a) levá komora",
+      "b) pravá síň",
+      "c) pravá komora",
+      "d) levá síň"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) levá síň"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. O čtyřdutinové projekci srdce plodu v 18-22 týdnu těhotenství platí",
+    "answers": [
+      "a) velikost levé a pravé srdeční komory je přibližně stejná",
+      "b) velikost pravé komory je zřetelně větší než komory levé",
+      "c) interventrikulámí septumje kontinuální (intaktní)",
+      "d) úpon trojcípé chlopně na interventrikulámí septumje asi ve dvou třetinách vzdálenosti mezi hrotem srdce a úponem chlopně dvojcípé"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) velikost levé a pravé srdeční komory je přibližně stejná",
+      "c) interventrikulámí septumje kontinuální (intaktní)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Přítomnost křížení velkých cév můžeme hodnotit",
+    "answers": [
+      "a) ve čtyřdutinové projekci",
+      "b) v krátké srdeční ose",
+      "c) v dlouhé srdeční ose",
+      "d) v jakékoli projekci, ale nejdříve v 22 týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) v krátké srdeční ose", "c) v dlouhé srdeční ose"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Příznak »pečetního prstenu*",
+    "answers": [
+      "a) je známkou rozštěpu neurální trubice",
+      "b) nás vede к podrobnějšímu zhodnocení morfologie uropoetického systému",
+      "c) je známkou přítomnosti pouze 2 cév pupečníku",
+      "d) nás vede к podrobnějšímu zhodnocení morfologie plosky plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) nás vede к podrobnějšímu zhodnocení morfologie uropoetického systému",
+      "c) je známkou přítomnosti pouze 2 cév pupečníku"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Za UZ marker Downova syndromu považujeme",
+    "answers": [
+      "a) nepřítomnost nosní kosti plodu",
+      "b) patologický nález srdeční anatomie typu septum secundum",
+      "c) patologický nález srdeční anatomie typu septum primům",
+      "d) sandal gap"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) nepřítomnost nosní kosti plodu",
+      "b) patologický nález srdeční anatomie typu septum secundum",
+      "d) sandal gap"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Které z následujících tvrzení o fetálním močovém měchýři je pravdivé",
+    "answers": [
+      "a) pokud není močový měchýř vidět, je přítomna malformace uropoetického systému",
+      "b) plod močí asi jednou za hodinu",
+      "c) pokud se močový měchýřjeví distendovaný, je přítomna malformace uropoetického systému",
+      "d) přítomnost plného močového měchýře znamená, že je funkční alespoň jedna ledvina"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) plod močí asi jednou za hodinu",
+      "d) přítomnost plného močového měchýře znamená, že je funkční alespoň jedna ledvina"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Golf ball sign hledáme",
+    "answers": [
+      "a) v postranní mozkové komoře",
+      "b) v levé srdeční komoře",
+      "c) v pravé srdeční síni",
+      "d) v plodové vodě"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) v levé srdeční komoře"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Při nálezu lemon sign máme podezření na",
+    "answers": [
+      "a) zvýšenou kyselost vnitřního prostředí plodu",
+      "b) NTD",
+      "c) defekt přední stěny břišní",
+      "d) meningomyelokéla"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) NTD", "d) meningomyelokéla"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Lemon sign je",
+    "answers": [
+      "a) suspektní UZ nález odchylky tvaru lebečních kostí na příčném průřezu svědčící pro možnou přítomnost rozštěpu rtu",
+      "b) suspektní UZ nález odchylky tvaru lebečních kostí na příčném průřezu svědčící pro možnou přítomnost rozštěpu páteřního kanálu",
+      "c) diagnostický nález potvrzující přítomnost NTD",
+      "d) změna konfigurace lebečních kostí s maximem v okcipitální oblasti"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) suspektní UZ nález odchylky tvaru lebečních kostí na příčném průřezu svědčící pro možnou přítomnost rozštěpu páteřního kanálu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Která z následujících tvrzení o normální noze plodu v 19 týdnu těhotenstvíjsou pravdivá",
+    "answers": [
+      "a) ploska nohy je viditelná ve stejné rovině jako tibie",
+      "b) femurje o trochu delší než humerus",
+      "c) ještě není možno zhodnotit počet prstů",
+      "d) je již možné zobrazit fibulu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) femurje o trochu delší než humerus",
+      "d) je již možné zobrazit fibulu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. V kterém týdnu těhotenstvíje možné transvaginálně hodnotit všechny dlouhé kosti a prsty nohou a rukou",
+    "answers": ["a) v 6", "b) v 10", "c) v 14", "d) v 18"],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) v 14"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Které z následujících tvrzení o fetálním střevě je pravdivé",
+    "answers": [
+      "a) peristaltika je viditelná na tenkém střevě, na tlustém ne",
+      "b) peristaltika je viditelná na tlustém střevě, ale na tenkém ne",
+      "c) přítomnost hyperechogenního mekonia v tenkém střevě na počátku druhého trimestru je normální",
+      "d) přítomnost hyperechogenního mekonia v tenkém střevě na počátku druhého trimestru je příznakem intrauterinního stresu plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) peristaltika je viditelná na tenkém střevě, na tlustém ne",
+      "c) přítomnost hyperechogenního mekonia v tenkém střevě na počátku druhého trimestru je normální"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Co není součástí UZ zhodnocení hrudní oblasti plodu",
+    "answers": [
+      "a) zhodnocení kontinuity bránice",
+      "b) stanovení L-S ratio",
+      "c) zhodnocení polohy srdce",
+      "d) zhodnocení tvaru hrudníku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) stanovení L-S ratio"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Která z tvrzení o placentě jsou pravdivá",
+    "answers": [
+      "a) úpon pupečníku není možno zobrazit",
+      "b) tloušťka normální placenty je 1,5-4cm",
+      "c) placenta může být uložena kdekoli v děloze",
+      "d) matemální žíly drénující krev z oblasti placenty jsou uloženy při placentámím okraji"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) tloušťka normální placenty je 1,5-4cm",
+      "c) placenta může být uložena kdekoli v děloze"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Při přítomnosti pouze jedné umbilikální arterie je vyšší riziko vývojových vad v systému",
+    "answers": [
+      "a) uropoetickém",
+      "b) centrálním nervovém",
+      "c) gastrointestinálním",
+      "d) kardiovaskulárním"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) uropoetickém",
+      "b) centrálním nervovém",
+      "d) kardiovaskulárním"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Herniace střeva do úponu pupečníku u plodu v 11 týdnu těhotenstvíje nejspíše",
+    "answers": [
+      "a) gastroschíza",
+      "b) omfalokéla",
+      "c) fyziologická hemiace",
+      "d) peristaltika"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) fyziologická hemiace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Redukci počtu plodů u vícečetného těhotenství provádíme",
+    "answers": [
+      "a) v I. trimestru",
+      "b) podvazem pupečníku redukovaného plodu",
+      "c) intrakardiální injekcí roztoku KC1",
+      "d) pouze při prokázané chromosomální aberaci některého z plodů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) v I. trimestru",
+      "c) intrakardiální injekcí roztoku KC1"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Charakteristickou známkou bichorionicity je",
+    "answers": [
+      "a) lemon sign",
+      "b) golf ball sign",
+      "c) lambda sign",
+      "d) banana sign"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) lambda sign"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. Srostlice vznikají",
+    "answers": [
+      "a) jen u jednovaječných dvojčat",
+      "b) i u dvojvaječných dvojčat",
+      "c) při rozdělení blastomery před 9 dnem od fertilizace",
+      "d) při rozdělení blastomery po 12 dnu od fertilizace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) jen u jednovaječných dvojčat",
+      "d) při rozdělení blastomery po 12 dnu od fertilizace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Pro průtok spirální arterií od začátku druhého trimestru je charakteristická",
+    "answers": [
+      "a) vysoká rezistence a vysoký tok v diastole",
+      "b) nízká rezistence a nízký tok v diastole",
+      "c) vysoká rezistence a nízký tok v diastole",
+      "d) nízká rezistence a vysoký tok v diastole"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) nízká rezistence a vysoký tok v diastole"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "37. Přítomnost bilaterálního notch v časné diastole a. uterina je",
+    "answers": [
+      "a) normální nález v celém průběhu těhotenství",
+      "b) normální před 16 týdnem, ale abnormální po 20 týdnu těhotenství",
+      "c) abnormální celé těhotenství",
+      "d) běžně přítomen po 20 týdnu těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) normální před 16 týdnem, ale abnormální po 20 týdnu těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "38. Které z následujících výroků o fetálním dopplerovském vyšetřeníjsou pravdivé",
+    "answers": [
+      "a) u fyziologického plodu není nikdy přítomen pozitivní tok v endiastole",
+      "b) nízké PI v a. umbilicalisje známkou intrauterinního stresu plodu",
+      "c) přítomnost pulsace v umbilikální žíle je známkou dobrého stavu plodu",
+      "d) dýchací pohyby plodu ovlivňují křivku průtoku v umbilikální žíle"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) dýchací pohyby plodu ovlivňují křivku průtoku v umbilikální žíle"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "39. UZ nález u abrupce placenty může být",
+    "answers": [
+      "a) retroplacentámí hypoechogenní ložisko",
+      "b) ztluštění placenty",
+      "c) retroplacentámí ložisko různé echogenity",
+      "d) normální"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) retroplacentámí hypoechogenní ložisko",
+      "b) ztluštění placenty",
+      "c) retroplacentámí ložisko různé echogenity",
+      "d) normální"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "40. Chorioangiom placenty",
+    "answers": [
+      "a) není vždy možno detekovat pomocí UZ",
+      "b) je maligní lézí placenty cévního původu",
+      "c) je velmi často spojen s dalšími patologiemi placenty",
+      "d) je nejčastějším placentámím tumorem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) není vždy možno detekovat pomocí UZ",
+      "d) je nejčastějším placentámím tumorem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "41. Který z následujících nálezů cervikometrie nejvíce svědčí pro diagnózu zvýšeného rizika předčasného porodu",
+    "answers": [
+      "a) délka cervikálního kanálu 20 mm, vnitřní branka tvaru Y bez progrese při Valsalvově manévru",
+      "b) délka cervikálního kanálu 30 mm, vnitřní branka tvaru T",
+      "c) délka cervikálního kanálu 11 mm, funneling s progresí při Valsalvově manévru",
+      "d) žádný z uvedených nálezů pro riziko předčasného porodu nesvědčí"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) délka cervikálního kanálu 11 mm, funneling s progresí při Valsalvově manévru"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "42. Amniální pruh",
+    "answers": [
+      "a) je provazcovitá struktura tvořená převážně amniem, která nijak neohrožuje vývoj plodu",
+      "b) je provazcovitá struktura tvořená převážně choriem, která nijak neohrožuje vývoj plodu",
+      "c) může být etiologickým odkladem redukčních transverzálních abnormalit končetin plodu",
+      "d) je hyperpigmentace amnia způsobená zvýšenou produkcí melaninu v těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) může být etiologickým odkladem redukčních transverzálních abnormalit končetin plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "43. Který z následujících nálezů provází IUGR",
+    "answers": [
+      "a) snížení rezitence v a. uterina",
+      "b) polyhydramnion",
+      "c) oligohydramnion",
+      "d) zvýšený diastolický tok v a. umbilicalis"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) oligohydramnion"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "44. Nález zvýšené rezistence v a. umbilicalis je často provázen",
+    "answers": [
+      "a) symetrickou IUGR",
+      "b) asymetrickou IUGR",
+      "c) sníženou rezistencí v arteria cerebri media",
+      "d) zvýšenou rezistencí v arteria cerebri media"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) asymetrickou IUGR",
+      "c) sníženou rezistencí v arteria cerebri media"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "45. Při anencefalii plodu",
+    "answers": [
+      "a) je vždy přítomen lemon sign",
+      "b) BPD není možno změřit",
+      "c) chybí obličejová část lebky",
+      "d) vývoj mozku plodu je až do porodu normální"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) BPD není možno změřit"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "46. Ultrazvukové vyšetření v I. trimestru",
+    "answers": [
+      "a) neprovádíme, UZ má prokazatelně teratogenní účinek",
+      "b) je zásadní pro určení chorionicity vícečetného těhotenství",
+      "c) umožňuje přesnější odhad stáří těhotenství než po 20 týdnu těhotenství",
+      "d) nemá smysl"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) je zásadní pro určení chorionicity vícečetného těhotenství",
+      "c) umožňuje přesnější odhad stáří těhotenství než po 20 týdnu těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
   }
 ]

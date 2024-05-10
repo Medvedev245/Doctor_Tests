@@ -86,336 +86,247 @@
 //   };
 const Functions = () => {
   const text = `
-  1. Ultrazvukový váhový odhad plodu v poloze koncem pánevním
-a) provádíme stejně jako u plodu v poloze podélné hlavičkou
-b) neprovádíme
-c) není vzhledem к poloze plodu možný
-d) je sice nejméně přesnou metodou odhadu, ale přesto jej provádíme
-2. Biometrie plodu je
-a) měření průtoku v a. umbilicalis
-b) měření plodu a jeho částí
-c) zhodnocení množství vody plodové
-d) změření bazální frekvence srdce plodu 
-3. К odhadu stáří těhotenství podle UZ před 12 týdnem těhotenství používáme
-a) délku femuru (FL)
-b) měření srdeční frekvence
-c) měření temeno-kostrční délky (CRL)
-d) zhodnocení morfologie vývoje mozkových struktur
-4. Váhový odhad plodu standardně získáváme
-a) výpočtem z UZ měření BPD, KP a FL
-b) odhadem podle CRL
-c) nejpřesnější je odhad podle měření vzdálenosti spona -fundus děložní
-d) výpočtem z UZ měření BPD, НС, AC a FL
-5. Při screeningu v 18-22 týdnu těhotenství standardně neprovádíme
-a) zhodnocení morfologie srdce
-b) zjištění počtu plodů
-c) karyotypizaci
-d) zhodnocení morfologie končetin
-6. Které z následujících vyšetření rutinně neprovádíme v rámci UZ screeningu v 18-22 týdnu těhotenství
-a) biometrii plodu
-b) zhodnocení množství plodové vody
-c) flowmetrii - měření průtoků v a. umbilicalis
-d) zhodnocení polohy placenty
-7. Součástí UZ screeningu není
-a) kontrola kontinuity horního rtu plodu
-b) zhodnocení morfologie srdce plodu
-c) kontrola morfologie a počtu prstů končetin plodu
-d) zhodnocení lokalizace ušního boltce plodu
-8. Při UZ screeningu v 30-32 týdnu těhotenství
-a) biometrii již neprovádíme
-b) zhodnocení srdeční anatomie již není možné
-c) ověřujeme mimo jiné i polohu plodu a množství plodové vody
-d) je mozek plodu již plně vyvinut
-9. Při UZ screeningu v 18-22 týdnu těhotenství standardně neprovádíme
-a) hodnocení šíře postranních mozkových komor plodu
-b) zhodnocení srdeční anatomie plodu
-c) ověření počtu plodů
-d) měření délky plosky plodu
-10. Cervikometrie je
-a) standardní a povinnou součástí UZ screeningu
-b) měření délky hrdla děložního a zhodnocení tvaru vnitřní branky v těhotenství
-c) měření obvodu krčku plodu
-d) součástí onkologického screeningu
-11. Poloha plodu při UZ screeningu v 18-20 týdnu těhotenství
-a) je již téměř stabilní, u 95 % plodů zjištěná poloha plodu přetrvá až do porodu
-b) u naprosté většiny plodů je poloha koncem pánevním, poloha podélná hlavičkou se ustavuje až po 36 týdnu těhotenství
-c) poloha plodu je volná
-d) není zjistitelná
-12. Ultrazvukový screening provádíme v CR standardně
-a) v 18-22 týdnu a v 30-32 týdnu těhotenství
-b) v 1 l-13 týdnu a 22-24 týdnu těhotenství
-c) UZ screening provádíme jen u rizikových těhotných
-d) screeningový program není plošně zaveden
-13. Deoxygenovanou krev do placenty přivádí
-a) arteria umbilicalis
-b) vena umbilicalis
-c) ductus venosus
-d) arteria cerebri media
-14. Které z následujících měřeníje nejrelevantnější pro určení gestačního stáří podle UZ
-a) transvaginální měření gestačního váčku v 5 týdnu těhotenství
-b) měření FL ve 20 týdnu těhotenství
-c) měření CRL v 7 týdnu
-d) měření BPD v 24 týdnu těhotenství
-15. Která z následujících metod je nejpřesnější pro stanovení gestačního stáří resp. termínu porodu
-a) měření vzdálenosti spona -fundus
-b) stanovení podle poslední menstruace
-c) UZ měření CRL v prvním trimestru
-d) UZ měření průměru gestačního váčku
-16. Který z následujících výroků o kordocentéze (punkci pupečníku) je pravdivý
-a) kordocentéza je provedení spinální punkce plodu
-b) kordocentézu provádíme za kontinuální fetoskopické kontoly
-c) při kordocentéze provádíme odběr fetální krve
-d) při kordocentéze provádíme odběr smíšené mateřské a fetální krve
-17. Při amniocentéze získáváme
-a) fetální krev
-b) plodovou vodu
-c) vzorek amnia
-d) nic z výše uvedeného
-18. Odběr plodové vody v současné době standardně provádíme
-a) v celkové anestezii
-b) v lokální anestezii
-c) vzhledem к vysoké rizikovosti výkonu zcela výjimečně
-d) za kontinuální ultrazvukové kontroly
-19. Při biopsii choria získáváme
-a) vzorek choroidálního plexu
-b) vždy též vzorek plodové vody
-c) vzorek extraembryonální tkáně použitelný např. ke karyotypizaci plodu
-d) nic z výše uvedeného
-20. Mezi invazivní metody prenatální diagnostiky patří
-a) amniorexe
-b) biopsie choria CVS
-c) kardiotokografie CTG
-d) intraumbilikální transfúze
-21. Při UZ vyšetření plodu v poloze koncem pánevním před předpokládaným porodem je zvláště důležité
-a) stanovení množství plodové vody
-b) popis uložení ruček plodu
-c) přesný váhový odhad plodu
-d) pohlaví plodu
-22. Stanovení chorionicity vícečetného těhotenství
-a) není ultrazvukem možné
-b) je možné provést ultrazvukem, nejpřesněji v prvním trimestru
-c) je možné provést ultrazvukem, nejpřesněji ve druhém trimestru
-d) je možné až při porodu
-23. Diagnostickou známkou pro určení chorionicity může být
-a) změření BPD obou plodů
-b) stanovení pohlaví plodů
-c) stanovení poloh plodů
-d) nalezení přepážky dělící amniální dutiny
-24. Indikací к provedení flowmetrie (měření průtoku v a. umbilicalis) je
-a) podezření na růstovou retardaci plodu
-b) normální množství plodové vody
-c) volná poloha plodu v 16 týdnu těhotenství
-d) přítomnost choroidálního plexu
-25. Nuchální translucence je
-a) UZ makrer sloužící к diagnostice Downova syndromu
-b) screeningový marker VVV v prvním trimestru
-c) prosvětlení v oblasti nosu plodu
-d) hyperechogenní útvar v levé srdeční komoře plodu
-26. Nuchální translucence je
-a) rtg marker rozštěpu patra u plodu
-b) oblast krku plodu barvící se fluoresceinem
-c) žádná z uvedených variant
-d) šíjové ztluštění (projasnění) u plodu v prvním trimestru
-27. Screening VVV plodu
-a) je v ČR omezen na vyhledávání plodů s trisomií 21
-b) je systém vyhledávání těhotných se zvýšeným rizikem plodu s VVV
-c) je celosvětově jednotný systém vyhledávání těhotných se zvýšeným rizikem plodu s VVV
-d) je v ČR založen pouze na věku těhotné
-28. screeningu rizika Downova syndromu plodu I v CR platí
-a) je založen pouze na věku matky (amniocentézu I podstupují pouze těhotné starší 35 let)
-b) věk již není považován za marker zvýšeného rizika (žádné těhotné starší 35 let není amniocentéza I nabídnuta)
-k) je komplexní zhodnocení rizika plodu na podkladě věku těhotné, biochemického a ultrazvukového screeningu
-d) screeningový program v ČR není ustanoven
-29. Amniocentéza ta) je výkon s nulovým rizikem, proto jej můžeme provádět u všech těhotných, kde jej proplatí pojišťovna
-b) je laparoskopický výkon
-c) s sebou nese asi 0,5-1% riziko potratu plodu
-d) s sebou nese asi 10% riziko potratu plodu
-30. Indikací pro punkci pupečníku může být
-a) screeningové stanovení pH plodu ve 22 týdnu gravidity
-b) prenatální diagnostika genetických onemocnění
-c) prenatální diagnostika DMO
-d) stanovení pohlaví plodu
-31. Amniocentéza je
-a) incize amnia pomocí skalpelu
-b) protětí bubínku u otitis media plodu
-c) žádná z uvedených možností
-d) odběr plodové vody
-32. Klasickou amniocentézu provádíme
-a) v kterékoli fázi těhotenství
-b) po dokončeném 15 týdnu těhotenství
-c) neprovádíme, je to metoda obsoletní
-d) pouze hrozí-li intrauterinní smrt plodu
-33. V ČR nejpoužívanější invazivní metodou prenatální diagnostiky je
-a) biopsie choria
-b) kordocentéza (punkce pupečníku a odběr vzorku fetální krve)
-c) amniocentéza
-d) coelocentéza
-34. Který stav je spojen se zvýšenou koncentrací AFP
-a) trisomie 21
-b) atopický ekzém
-c) trisomie 18
-d) gastroschíza
-35. Který stav je spojen se zvýšenou koncentrací AFP
-a) trisomie 21
-b) preeklampsie jel hrozící potrat
-d) seboroická dermatitida
-36. Která z následujících chromosomálních poruch není diagnostikovatelná z kultury amniocytů
-a) Klinefertův syndrom
-b) autosomální trisomie (T 21, 18, 13)
-c) mozaicismus lokalizovaný na placentu
-d) balancovaná delece
-37. Chromosomální poruchy diagnostikovatelné z kultury amniocytů
-a) uniparentální disomie lokalizovaná na placentu
-b) Klinefertův syndrom a ostatní aneuploidie vázané na mužské pohlaví
-c) big eye syndrom a ostatní senzorické X vázané poruchy
-d) žádná z uvedených odpovědí není správná
-38. Prenatální biopsie kůže plodu se provádí
-a) pomocí fetoskopie
-b) jako screeningové vyšetření
-c) u plodů s podezřením na chromosomální aberace
-d) u matek s podezřením na syfilis
-39. Prenatální biopsie jater
-a) je používanou alternativní metodou pro stanovení karyotypu
-b) je rutinní metodou prenatální diagnostiky
-c) se používá, jen je-li jatemí tkáň jediným místem exprese genu
-d) umožňuje stanovení běžné Y vázané mentální retardace
-40. К invazivním metodám prenatální diagnostiky jednoznačně řadíme
-a) ultrazvukové vyšetření
-b) kardiotokografii
-c) amniocentézu
-d) biochemický screening
-41. Kterou z následujících typů genetických poruch nezjistíme klasickým vyšetřením karyotypu
-a) Downův syndrom
-b) balancovanou translokaci
-c) uniparentální disomii
-d) Turnérův syndrom
-42. Amniocentézou získáváme
-a) vzorek fetální krve
-b) výhradně amniocyty
-c) vzorek kůže plodu
-d) amniocyty pro karyotipizaci a amniální tekutinu к biochemickému rozboru
-43. Pro amniocentézu platí, že
-a) je to screeningové metoda prenatální diagnostiky
-b) riziko výkonu je 8 %
-c) je to obsoletní metoda prenatální diagnostiky
-d) je to nejčastější invazivní metoda prenatální diagnostiky
-44. Vrchol A udává distribuci AFP (obr. 1)
-a) u plodů s Downovým syndromem
-b) u plodů s rozštěpem neurální trubice
-c) u normálních plodů
-d) u plodů se srdečními anomáliemi
-45. Vrchol В udává distribuci AFP (obr. 1)
-a) u normálních plodů
-b) u plodů s rozštěpem neurální trubice
-c) u plodů s Downovým syndromem
-d) u plodů se srdečními anomáliemi
-46. Vrchol C udává distribuci AFP (obr. 1)
-a) u plodů s rozštěpem neurální trubice
-b) u normálních plodů
-c) u plodů s Downovým syndromem
-d) u plodů se srdečními anomáliemi
-47. Z uvedených chromosomálních poruch není z kultury amniocytů diagnostikovatelná
-a) uniparentální disomie s mozaicismem lokalizovaným na placentu
-b) Klinefelterův syndrom
-c) autosomální trisomie (21, 18, 13)
-d) chromosomální přestavby, delece balancované nebo aneuploidie
-48. Chromosomální poruchy diagnostikovatelné z kultury amniocytů
-a) uniparentální disomie s mozaicismem lokalizovaným na placentu
-b) Klinefelterův syndrom a ostatní aneuploidie vázané na mužské pohlaví
-c) big eye syndrom a ostatní senzorické X vázané poruchy
-d) žádná z výše uvedených odpovědí není správná
-49. Chromosomální poruchy diagnostikovatelné z kultury amniocytů
-a) žádná z uvedených odpovědí není správná
-b) chromosomální přestavby, delece, balancované nebo aneuploidie
-c) placentámí mozaicismus
-d) omezený placentámí mozaicismus
-50. Který stav je spojen se zvýšenou koncentrací AFP
-a) atopický ekzém
-b) hrozící potrat
-c) trisomie 21
-d) EPH gestóza
-51. Který stav je spojen se zvýšenou koncentrací AFP
-a) trisomie 18
-b) trisomie 21
-c) gastroschíza
-d) atopický ekzém
-52. Pro CVS platí, že
-a) je to nejčastěji používaná metoda prenatální invazivní diagnostiky
-b) riziko metody je 7 %
-c) je to zkratka pro chorionic villus sampling
-d) nevýhodou metody je 4 týdny trvající kultivace
-53. U biopsie choria platí, že
-a) pro provedení analýzy je nezbytné 60mg materiálu
-b) vzorky získané biopsií choria к vyšetření enzymatické aktivity musí být zpracovány do 24 hodin
-c) nejčastěji se provádí transcervikálně
-d) nemá se provádět před 10 týdnem gravidity
-54. Punkce pupečníku
-a) se provádí převážně za hospitalizace
-b) indikuje se v případě, kdy je dostatek času ke kultivaci amniocytů
-c) se provádí výhradně za přímé vizualizace pomocí ultrazvuku
-d) vyžaduje celkovou narkózu
-55. Punkce pupečníku
-a) kontaminace odebrané fetální krve krví mateřskou je díky přímé vizualizaci odběru vyloučena
-b) je vhodnou metodou pro diagnózu hypoxie plodu
-c) je indikována zejména pro stanovení karyotypu plodu a při ohrožení plodu Rh izoimunizací
-d) umožňuje stanovení karyotypu řádově za několik hodin, protože se vyšetřují fetální erytrocyty
-56. Indikací к punkci pupečníku může být
-a) stanovení pH u plodu ve 22  týdnu gravidity (screening)
-b) prenatální diagnostika genetických onemocnění
-c) prenatální diagnostika dětské mozkové obrny
-d) zjištění pohlaví plodu
-57. Indikací к punkci pupečníku může být
-a) dětská mozková obrna
+  1. Je-li závěrem biochemického screeningu AFP, hCG a Ej z krve těhotné v 16 týdnu těhotenství  zvýšené riziko NTD
+  a) provedeme amniocentézu
+  b) je u těhotné indikováno konziliámí UZ vyšetření
+  c) začneme těhotné podávat 400mg kyseliny listové  3krát denně
+  d) provedeme kordocentézu
+  2. Je-li biochemický screening AFP, hCG a E, z krve  těhotné v 16 týdnu těhotenství pozitivní
+  a) provedeme nový odběr krve těhotné, a je-li pozitivní,  doporučíme další vyšetření
+  b) provedeme amniocentézu
+  c) odešleme těhotnou na genetickou konzultaci
+  d) není třeba činit nic, pozitivita biochemického  screeningu je bezvýznamná
+  3. Amniocentézu provádíme
+  a) klasickou po ukončeném 15 týdnu těhotenství
+  b) v lokální anestezii
+  c) vždy vpichem ve střední čáře asi 2 cm pod pupkem
+  d) za kontinuální kontroly ultrazvukem
+  4. Amniocentézu provádíme
+  a) za žádných okolností ne transplacentámě
+  b) u těhotné se zvýšeným rizikem chromosomální aberace plodu
+  c) u všech těhotných před 35 rokem věku
+  d) za kontinuální fetoskopické kontroly
+  5. Který z následujících výroků o CVS je pravdivý
+  a) riziko abortu po CVS je 7 %
+  b) nevýhodou metody je 4 týdny trvající kultivace odebraného vzorku
+  c) je nejčastěji používanou metodou prenatální diagnostiky
+  d) je to zkratka anglického termínu pro biopsii choria
+  6. Které z následujících výroků o biopsii choria jsou pravdivé
+a) v současné době se provádí již jen transabdominálně, transcervikální přístup je zcela zavržen
+b) к provedení analýzy je nezbytné získat 60 mg materiálu
+c) nemá se provádět před ukončeným 10 týdnem těhotenství
+d) v současnosti ji z větší části nahradila amniocentéza
+7. Punkce pupečníku
+a) vyžaduje několikadenní hospitalizaci
+b) je jako diagnostická metoda indikována pro stanovení karyotypu, není-li dostatek času pro kultivaci amniocytů
+c) se provádí vždy v lokální anestezii
+d) se provádí výhradně za kontinuální ultrazvukové kontroly
+8. Punkce pupečníku
+a) kontaminace odebrané fetálm krve krví matky je vzhledem к přímé vizualizaci odběru vyloučena
+b) je indikována zejména pro stanovení karyotypu a při ohrožení plodu Rh izoimunizací
+c) umožňuje stanovení fetálního karyotypu během řádově několika hodin, protože se vyšetřují fetální erytrocyty
+d) je metodou volby pro stanovení karyotypu, selže-li kultivace plodové vody
+9. Indikací к punkci pupečníku může být
+a) diagnostika NTD
 b) žádná odpověď neplatí
-c) EPH gestóza
+c) preeklampsie
 d) hrozící předčasný porod
-58. Prenatální biopsie kůže plodu se provádí
-a) pomocí fetoskopie
-b) jako screeningové vyšetření
-c) u matek s podezřením na syfilis
-d) u plodů s podezřením na chromosomální aberace
-59. Prenatální biopsie jater
-a) je používanou alternativní metodou stanovení fetálního karyotypu
-b) se používá jen, je-li jatemí tkáň jediným místem exprese proteinu
-c) je rutinní metodou prenatální diagnostiky
-d) umožňuje stanovení diagnózy X vázané mentální retardace
-60. К prenatálním metodám invazivní diagnostiky (z pohledu plodu) patří
-a) biochemický screening AFP, hCG, E3
-b) žádná odpověď není správná
-c) ultrazvukový screening
-d) amniocentéza
-61. O rtg vyšetření v těhotenství platí, že
-a) dávka rtg záření při jednom snímku je hluboko podhranicí považovanou za teratogenní
-b) dávka rtg záření v I trimestru způsobující vrozenou vadu u plodu je 500 m/Gy
-c) rtg pelvimetrie je indikována před porodem plodu v poloze koncem pánevním
-d) rtg vyšetření v těhotenství je metodou volby
-62. Trisomie 18 (Edwardsův syndrom)
-a) je druhá nejčastější prenatálně zjišťovaná chromosomální aberace
-b) všechny odpovědi jsou správné
-c) je většinou letální do 20 let dítěte, ale i delší přežití je možné
-d) se u nás nevyskytuje
-63. Downův syndrom (trisomie 21)
-a) je charakterizován mentální retardací, rizikem srdeční vady, imunologickými poruchami a předčasným stárnutím připomínajícím Alzheimerovu chorobu
-b) je druhá nejčastější autosomální aberace zjišťovaná v těhotenství a za porodu
-c) vyskytuje se převážně u velmi mladých primipar
-d) není důvodem к ukončení gravidity z genetické indikace před 24 týdnem těhotenství
-64. Pacientka, 251etá primigravida, absolvovala v 16 týdnu biochemický screening pomocí stanovení AFP, hCG a E, a riziko postižení plodu bylo stanoveno na 1: 380, což je vyšší než u žen stejného věku. Při pohovoru pacientce vysvětlíme, že
-a) tato míra rizika není indikací к prenatální invazivní diagnostice
-b) měla by absolvovat amniocentézu
-c) měla by absolvovat biopsii choria
-d) měla by absolvovat punkci pupečníku
-65. Pacientka, 251etá primigravida, absolvovala v 16 týdnu biochemický screening pomocí stanovení AFP, hCG a E, a riziko postižení plodu trisomií 21 bylo stanoveno na 1 : 200, což je vyšší než u žen stejného věku. Při pohovoru s pacientkou vysvětlíme, že v 17 týdnu gravidity, ve kterém se právě nachází,
-a) by měla absolvovat punkci pupečníku
-b) je na prenatální diagnostiku pozdě
-c) by pro ní byla vhodná karyotypizace
-d) tato míra rizika není indikací к prenatální invazivní diagnostice
+10. Který z následujících stavů je spojen se zvýšenou koncentrací AFP
+a) trisomiežl
+b) hrozící potrat
+c) stav po krvácení v prvním trimestru
+d) trisomie 18
+11. Nuchální translucence
+a) nad 2 mm je vždy patologická
+b) cut-off hodnota závisí na gestačním stáří
+c) je prosvětlení v oblasti nosu plodu
+d) je nejsilnějším markérem chromosomální aberace v II trimestru gravidity
+12. Pro rtg vyšetření v těhotenství platí
+a) rtg vyšetření je v těhotenství metodou volby
+b) dávka záření při jednom snímku je hluboko pod hranicí považovanou za teratogenní
+c) rtg pelvimetrie je indikována před porodem u plodu v poloze koncem pánevním
+d) dávka rtg záření v I. trimestru způsobující VVV plodu je 500 m/Gy
+13. Který výrok o poloze plodu je pravdivý
+a) je-li plod v poloze koncem pánevním, je vždy hodnocení srdeční struktury obtížnější
+b) je-li plod uložen přední stěnou břišní směrem к sondě, je hodnocení srdce většinou nemožné
+c) je-li plod v poloze KP, lze provádět biometrii obdobně jako při poloze podélné hlavičkou
+d) je-li plod v poloze příčné, není možné měřit BPD
+14. Které následující výroky o měření HC jsou pravdivá
+a) je prováděno na úrovni cerebela
+b) je většinou považováno za méně přesné než BPD
+c) je většinou považováno za přesnější než BPD
+d) je prováděno na úrovni cavum septi pellucidum
+15. Vizualizace čtyřdutinové srdeční projekce umožňuje posouzení
+a) pozice srdce a velikosti komor
+b) průchodnost venrikuloarteriálních chlopní
+c) průchodnost atrioventrikulámích chlopní
+d) relativní šířku odstupu aortálního kmene z levé komory
+16. V čtyřdutinové projekci srdeční není možno diagnostikovat
+a) transpozici velkých cév
+b) Ebsteinovu anomálii
+c) hypoplastické levé srdce
+d) ductus arteriosus patens
+17. Který ze srdečních oddílů se v čtyřdutinové projekci zobrazuje nejblíže к páteři
+a) levá komora
+b) pravá síň
+c) pravá komora
+d) levá síň
+18. O čtyřdutinové projekci srdce plodu v 18-22 týdnu těhotenství platí
+a) velikost levé a pravé srdeční komory je přibližně stejná
+b) velikost pravé komory je zřetelně větší než komory levé
+c) interventrikulámí septumje kontinuální (intaktní)
+d) úpon trojcípé chlopně na interventrikulámí septumje asi ve dvou třetinách vzdálenosti mezi hrotem srdce a úponem chlopně dvojcípé
+19. Přítomnost křížení velkých cév můžeme hodnotit
+a) ve čtyřdutinové projekci
+b) v krátké srdeční ose
+c) v dlouhé srdeční ose
+d) v jakékoli projekci, ale nejdříve v 22 týdnu těhotenství
+20. Příznak »pečetního prstenu*
+a) je známkou rozštěpu neurální trubice
+b) nás vede к podrobnějšímu zhodnocení morfologie uropoetického systému
+c) je známkou přítomnosti pouze 2 cév pupečníku
+d) nás vede к podrobnějšímu zhodnocení morfologie plosky plodu
+21. Za UZ marker Downova syndromu považujeme
+a) nepřítomnost nosní kosti plodu
+b) patologický nález srdeční anatomie typu septum secundum
+c) patologický nález srdeční anatomie typu septum primům
+d) sandal gap
+22. Které z následujících tvrzení o fetálním močovém měchýři je pravdivé
+a) pokud není močový měchýř vidět, je přítomna malformace uropoetického systému
+b) plod močí asi jednou za hodinu
+c) pokud se močový měchýřjeví distendovaný, je přítomna malformace uropoetického systému
+d) přítomnost plného močového měchýře znamená, že je funkční alespoň jedna ledvina
+23. Golf ball sign hledáme
+a) v postranní mozkové komoře
+b) v levé srdeční komoře
+c) v pravé srdeční síni
+d) v plodové vodě
+24. Při nálezu lemon sign máme podezření na
+a) zvýšenou kyselost vnitřního prostředí plodu
+b) NTD
+c) defekt přední stěny břišní
+d) meningomyelokéla
+25. Lemon sign je
+a) suspektní UZ nález odchylky tvaru lebečních kostí na příčném průřezu svědčící pro možnou přítomnost rozštěpu rtu
+b) suspektní UZ nález odchylky tvaru lebečních kostí na příčném průřezu svědčící pro možnou přítomnost rozštěpu páteřního kanálu
+c) diagnostický nález potvrzující přítomnost NTD
+d) změna konfigurace lebečních kostí s maximem v okcipitální oblasti
+26. Která z následujících tvrzení o normální noze plodu v 19 týdnu těhotenstvíjsou pravdivá
+a) ploska nohy je viditelná ve stejné rovině jako tibie
+b) femurje o trochu delší než humerus
+c) ještě není možno zhodnotit počet prstů
+d) je již možné zobrazit fibulu
+27. V kterém týdnu těhotenstvíje možné transvaginálně hodnotit všechny dlouhé kosti a prsty nohou a rukou
+a) v 6
+b) v 10
+c) v 14
+d) v 18
+28. Které z následujících tvrzení o fetálním střevě je pravdivé
+a) peristaltika je viditelná na tenkém střevě, na tlustém ne
+b) peristaltika je viditelná na tlustém střevě, ale na tenkém ne
+c) přítomnost hyperechogenního mekonia v tenkém střevě na počátku druhého trimestru je normální
+d) přítomnost hyperechogenního mekonia v tenkém střevě na počátku druhého trimestru je příznakem intrauterinního stresu plodu
+29. Co není součástí UZ zhodnocení hrudní oblasti plodu
+a) zhodnocení kontinuity bránice
+b) stanovení L-S ratio
+c) zhodnocení polohy srdce
+d) zhodnocení tvaru hrudníku
+30. Která z tvrzení o placentě jsou pravdivá
+a) úpon pupečníku není možno zobrazit
+b) tloušťka normální placenty je 1,5-4cm
+c) placenta může být uložena kdekoli v děloze
+d) matemální žíly drénující krev z oblasti placenty jsou uloženy při placentámím okraji
+31. Při přítomnosti pouze jedné umbilikální arterie je vyšší riziko vývojových vad v systému
+a) uropoetickém
+b) centrálním nervovém
+c) gastrointestinálním
+d) kardiovaskulárním
+32. Herniace střeva do úponu pupečníku u plodu v 11 týdnu těhotenstvíje nejspíše
+a) gastroschíza
+b) omfalokéla
+c) fyziologická hemiace
+d) peristaltika
+33. Redukci počtu plodů u vícečetného těhotenství provádíme
+a) v I. trimestru
+b) podvazem pupečníku redukovaného plodu
+c) intrakardiální injekcí roztoku KC1
+d) pouze při prokázané chromosomální aberaci některého z plodů
+34. Charakteristickou známkou bichorionicity je
+a) lemon sign
+b) golf ball sign
+c) lambda sign
+d) banana sign
+35. Srostlice vznikají
+a) jen u jednovaječných dvojčat
+b) i u dvojvaječných dvojčat
+c) při rozdělení blastomery před 9 dnem od fertilizace
+d) při rozdělení blastomery po 12 dnu od fertilizace
+36. Pro průtok spirální arterií od začátku druhého trimestru je charakteristická
+a) vysoká rezistence a vysoký tok v diastole
+b) nízká rezistence a nízký tok v diastole
+c) vysoká rezistence a nízký tok v diastole
+d) nízká rezistence a vysoký tok v diastole
+37. Přítomnost bilaterálního notch v časné diastole a. uterina je
+a) normální nález v celém průběhu těhotenství
+b) normální před 16 týdnem, ale abnormální po 20 týdnu těhotenství
+c) abnormální celé těhotenství
+d) běžně přítomen po 20 týdnu těhotenství
+38. Které z následujících výroků o fetálním dopplerovském vyšetřeníjsou pravdivé
+a) u fyziologického plodu není nikdy přítomen pozitivní tok v endiastole
+b) nízké PI v a. umbilicalisje známkou intrauterinního stresu plodu
+c) přítomnost pulsace v umbilikální žíle je známkou dobrého stavu plodu
+d) dýchací pohyby plodu ovlivňují křivku průtoku v umbilikální žíle
+39. UZ nález u abrupce placenty může být
+a) retroplacentámí hypoechogenní ložisko
+b) ztluštění placenty
+c) retroplacentámí ložisko různé echogenity
+d) normální
+40. Chorioangiom placenty
+a) není vždy možno detekovat pomocí UZ
+b) je maligní lézí placenty cévního původu
+c) je velmi často spojen s dalšími patologiemi placenty
+d) je nejčastějším placentámím tumorem
+41. Který z následujících nálezů cervikometrie nejvíce svědčí pro diagnózu zvýšeného rizika předčasného porodu
+a) délka cervikálního kanálu 20 mm, vnitřní branka tvaru Y bez progrese při Valsalvově manévru
+b) délka cervikálního kanálu 30 mm, vnitřní branka tvaru T
+c) délka cervikálního kanálu 11 mm, funneling s progresí při Valsalvově manévru
+d) žádný z uvedených nálezů pro riziko předčasného porodu nesvědčí
+42. Amniální pruh
+a) je provazcovitá struktura tvořená převážně amniem, která nijak neohrožuje vývoj plodu
+b) je provazcovitá struktura tvořená převážně choriem, která nijak neohrožuje vývoj plodu
+c) může být etiologickým odkladem redukčních transverzálních abnormalit končetin plodu
+d) je hyperpigmentace amnia způsobená zvýšenou produkcí melaninu v těhotenství
+43. Který z následujících nálezů provází IUGR
+a) snížení rezitence v a. uterina
+b) polyhydramnion
+c) oligohydramnion
+d) zvýšený diastolický tok v a. umbilicalis
+44. Nález zvýšené rezistence v a. umbilicalis je často provázen
+a) symetrickou IUGR
+b) asymetrickou IUGR
+c) sníženou rezistencí v arteria cerebri media
+d) zvýšenou rezistencí v arteria cerebri media
+45. Při anencefalii plodu
+a) je vždy přítomen lemon sign
+b) BPD není možno změřit
+c) chybí obličejová část lebky
+d) vývoj mozku plodu je až do porodu normální
+46. Ultrazvukové vyšetření v I. trimestru
+a) neprovádíme, UZ má prokazatelně teratogenní účinek
+b) je zásadní pro určení chorionicity vícečetného těhotenství
+c) umožňuje přesnější odhad stáří těhotenství než po 20 týdnu těhotenství
+d) nemá smysl
 
 
   
 `;
 
   const answers = `
-  
+  1b 2c 3a,d 4b 5d 6c 7b,d 8b,d 9b
+10b.c 11b 12b 13c 14c,d 15a,c 16a,d 17d 18a,c 19b,c
+20b,c 21a,b,d 22b,d 23b 24b,d 25b 26b,d 27c 28a,c 29b
+30b,c 31a,b,d 32c 33a,c 34c 35a,d 36d 37b 38d 39a,b,c,d
+40a,d 41c 42c 43c 44b,c 45b 46b,c
   
   `;
   const correctNewAnswers = answers.split(' ');
@@ -464,7 +375,7 @@ d) tato míra rizika není indikací к prenatální invazivní diagnostice
         answers: newAnswers,
         book: ['Živný'], // Пример значения для поля "book"
         topic: [
-          '14. Genetické poradenství a fetální medicína. I. ČÁST PREGRADUÁLNÍ',
+          '14. Genetické poradenství a fetální medicína. II. ČÁST POSTGRADUÁLNÍ',
         ],
         correctAnswers: myCorrectNewAnswers, // Массив с правильными ответами
       });
