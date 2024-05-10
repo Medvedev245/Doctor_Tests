@@ -86,511 +86,257 @@
 //   };
 const Functions = () => {
   const text = `
-  1. U každého porodu vedeného v ústavním zařízení by měl být vždy přítomen
-  a) pediatr
-  b) neonatolog
-  c) zdravotník, který umí zahájit resuscitaci novorozence
-  d) sestra se specializací ARIP
-  2. Odsávání z horních cest dýchacích po porodu ramének provádíme
-  a) u všech novorozenců
-  b) neprovádíme nikdy
-  c) u nezralých novorozenců
-  d) u novorozenců s obsahem mekonia v plodové vodě
-  3. Tracheální odsávání pod laryngoskopickou kontrolou provádíme u novorozenců
-  a) asfyktických
-  b) s aspirací plodové vody
-  c) nedýchajících, s aspirací mekonia
-  d) u všech se zkalenou plodovou vodou
-  4. Při kardiopulmonální resuscitaci je poměr kompresí hrudníku a vdechů u novorozence
-  a) 3:1
-  b) 4:1
-  c) 2:1
-  d) 5:1
-  5. Při farmakologické resuscitaci novorozence  nepoužíváme
-  a) adrenalin
-  b) 8,4% NaHCO3
-  t) 4,2% NaHCO3
-  d) fyziologický roztok
-  6. Kolik novorozenců potřebuje na sále nějaký stupeň resuscitace
-  a) 10-15%
-  b) 3-5%
-  c) 5-10%
-  d) 5-10%
-  7. Kardiopulmonální resuscitaci po porodu asfyktického novorozence ukončujeme
-  a) pokud asystolie trvá více než 15 minut
-  b) při sekundárním apnoe
-  c) pokud pacient spontánně nedýchá 15 minut
-  d) při známkách mozkové smrti
-  8. Adrenalin při farmakologické resuscitaci novorozence
-  a) podává se v dávce 1 ml/kg
-  b) podává se intrakardiálně
-  c) ředí se 1 : 20
-  d) lze podat intratracheálně
-  9. Jaký je obvod hlavy donošeného fyziologického novorozence
-  a) 28-30cm
-  b) 31-34cm
-  c) 35-38 cm
-  d) 28-38 cm
-  10. Které změny jsou charakteristické pro kardiovaskulární systém novorozence
-  a) dilatace ductus venosus
-  b) dilatace pravé síně
-  c) bifázická P vlna na EKG
-  d) pokles tlaku v plicnici
-  11. Nejčastější kardiální příčina cyanózy u novorozenců je
-  a) Fallotova tetralogie
-  b) transpozice velkých cév
-  c) plicní hypertenze
-  d) otevřený ductus arteriosus
-  12. Které z následujících onemocnění není spojeno s novorozeneckou žloutenkou
-  a) galaktosémie
-  b) diabetes mellitus matky
-  c) kongenitální syfilis
-  d) Reyův syndrom
-  13. Součástí skóre podle Apgarové není
-  a) krevní tlak
-  b) srdeční akce
-  c) svalový tonus
-  d) barva
-  14. Co nepatří к symptomům diabetické fetopatie
-  a) spinální ageneze
-  b) katarakta
-  c) transpozice velkých cév
-  d) hyperbilirubinémie
-  15. Která z následujících cév u plodu přivádí okysličenou krev
-  a) ductus arteriosus
-  b) umbilikalní tepna
-  c) umbilikalní žíla
-  d) žádná z výše uvedených
-  16. Při odsávám novorozence na porodním sále používáme odsávací podtlak
-  a) 3-5 cm H,O
-  b) 10-15cmH,O
-  c) 50-60cm H^O
-  d) minimálně 100cm H2O
-  17. Fyziologické rozmezí dechové frekvence u zdravého donošeného novorozence činí
-  a) 20-30 dechů/min
-  b) 40-60 dechů/min
-  c) 80-90 dechů/min
-  d) 100-120 dechů/min
-  18. Kredeizace chrání novorozence před
-  a) adnátní В streptokokovou infekcí
-  b) pneumopatií
-  c) chlamydiovou infekcí
-  d) gonokokovým zánětem spojivky
-  19. Hypotrofický novorozenec má porodní hmotnost
-  a) pod 1500g
-  b) pod 2000 g
-  c) pod 2500 g
-  d) pod 10 percentil hmotnosti odpovídající týdnu těhotenství
-  20. Vitamin K1 aplikovaný novorozenci po porodu chrání novorozence před
-  a) krvácivou nemocí
-  b) retinopatií
-  c) žloutenkou
-  d) apnoickou pauzou
-  21. Mezi úvodní kroky resuscitace novorozence patří
-  a) intubace
-  b) zevní srdeční masáž
-  c) insuflace kyslíku samorozpínacím vakem
-  d) zevní stimulace a inhalace kyslíku
-  22. O bradykardii novorozence hovoříme při akci srdeční (horní hranice)
-  a) pod 120/min
-  b) pod 80/min
-  c) pod 140/min
-  d) pod 40/min
-  23. Absolutní kontraindikací kojení ze strany matky je
-  a) febrilie 38 °C
-  b) hepatitida В
-  c) léčba cytostatiky
-  d) ragády bradavek
-  24. Mateřské mléko má oproti mléku kravskému
-  a) vyšší obsah bílkovin
-  b) stejný obsah bílkovin
-  c) nižší obsah bílkovin
-  d) neobsahuje imunoglobulin A
-  25. Mezi výhody kojení nepatří
-  a) ochrana před průjmy
-  b) nižší výskyt fenylketonurie
-  c) nižší riziko výskytu alergických onemocnění v dětském věku
-  d) nižší riziko výskytu cukrovky v dětském věku
-  26. Který reflex neřadíme mezi základní novorozenecké reflexy
-  a) hledači
-  b) úchopový
-  c) Moroův
-  d) optikofaciální
-  27. Jaká hodnota acidobazické rovnováhy z pupečníkové tepny je kritériem těžké perinatálm asfyxie
-  a) pO, pod 50 kPa
-  b) pH pod 7,0
-  c) BE pod -8
-  d) pCO2 nad 50 kPa
-  28. Hypotermií jsou ohroženi hlavně novorozenci
-  a) přenášení
-  b) s diabetickou fetopatií
-  c) nedonošení
-  d) s váhovým úbytkem nad 10%
-  29. Mezi novorozence s velmi nízkou porodní hmotností řadíme děti s porodní hmotností
-  a) pod lOOOg
+  1. Mezi známky donošenosti patří
+  a) rýhovaní plosek
+  b) nevýbavný Moroův reflex
+  c) uzavřená velká fontanela
+  d) dobře vyvinutá chrupavka ušních boltců
+  2. Co je neonatální úmrtnost
+  a) mrtvorozenost a úmrtnost novorozenců do 7 dne
+  b) úmrtnost novorozenců mezi 8-28 dnem
+  c) úmrtnost novorozenců mezi l-28 dnem
+  d) úmrtnost v 1 roce života
+  3. Jakou hmotnost má hypotrofický novorozenec
+  a) pod 2500 g
   b) pod 1500g
-  c) pod 2000 g
-  d) pod 2500 g
-  30. Při hyperbilirubinémii ohrožuje novorozence jádrovým ikterem
-  a) bilirubin nekonjugovaný
-  b) bilirubin konjugovaný
-  c) bilirubin konjugovaný i nekonjugovaný
-  d) rozpadové produkty bilirubinu
-  31. Centrální cyanóza u novorozence může být způsobena
-  a) chladovým stresem
-  b) srdečními vadami s L-P zkratem
-  c) poruchami dýchání
-  d) opožděným uzávěrem tepenné dučeje
-  14. Co nepatří к symptomům diabetické fetopatie
-a) spinální ageneze
-b) katarakta
-c) transpozice velkých cév
-d) hyperbilirubinémie
-15. Která z následujících cév u plodu přivádí okysličenou krev
-a) ductus arteriosus
-b) umbilikalní tepna
-c) umbilikalní žíla
-d) žádná z výše uvedených
-16. Při odsávám novorozence na porodním sále používáme odsávací podtlak
-a) 3-5 cm H,O
-b) 10-15cmH,O
-c) 50-60cm H^O
-d) minimálně 100cm H2O
-17. Fyziologické rozmezí dechové frekvence u zdravého donošeného novorozence činí
-a) 20-30 dechů/min
-b) 40-60 dechů/min
-c) 80-90 dechů/min
-d) 100-120 dechů/min
-18. Kredeizace chrání novorozence před
-a) adnátní В streptokokovou infekcí
-b) pneumopatií
-c) chlamydiovou infekcí
-d) gonokokovým zánětem spojivky
-19. Hypotrofický novorozenec má porodní hmotnost
-a) pod 1500g
-b) pod 2000 g
-c) pod 2500 g
-d) pod 10 percentil hmotnosti odpovídající týdnu těhotenství
-20. Vitamin K1 aplikovaný novorozenci po porodu chrání novorozence před
-a) krvácivou nemocí
-b) retinopatií
-c) žloutenkou
-d) apnoickou pauzou
-21. Mezi úvodní kroky resuscitace novorozence patří
-a) intubace
-b) zevní srdeční masáž
-c) insuflace kyslíku samorozpínacím vakem
-d) zevní stimulace a inhalace kyslíku
-22. O bradykardii novorozence hovoříme při akci srdeční (horní hranice)
-a) pod 120/min
-b) pod 80/min
-c) pod 140/min
-d) pod 40/min
-23. Absolutní kontraindikací kojení ze strany matky je
-a) febrilie 38 °C
-b) hepatitida В
-c) léčba cytostatiky
-d) ragády bradavek
-24. Mateřské mléko má oproti mléku kravskému
-a) vyšší obsah bílkovin
-b) stejný obsah bílkovin
-c) nižší obsah bílkovin
-d) neobsahuje imunoglobulin A
-25. Mezi výhody kojení nepatří
-a) ochrana před průjmy
-b) nižší výskyt fenylketonurie
-c) nižší riziko výskytu alergických onemocnění v dětském věku
-d) nižší riziko výskytu cukrovky v dětském věku
-26. Který reflex neřadíme mezi základní novorozenecké reflexy
-a) hledači
+  c) pod 10 percentil odpovídající délce těhotenství
+  d) pod 20 percentil odpovídající délce těhotenství
+  4. Jaké onemocnění matky není absolutní kontraindikací kojení
+  a) hepatitida В
+  b) hepatitida C
+  c) febrilie 38 °C
+  d) ragády bradavek
+  5. Při jaké konstelaci hrozí hemolytická nemoc novorozence
+  a) matka Rh pozitivní, novorozenec Rh negativní
+  b) matka krevní skupina A, novorozenec krevní skupina 0
+  c) matka krevní skupina 0, novorozenec krevní skupina В
+  d) matka krevní skupina 0, novorozenec krevní skupina A
+  6. Jaká jsou kritéria těžké perinatální asfyxie
+  a) pH z pupečníkové arterie pod 7,0 a BE pod -15
+  b) Apgarové skóre v 1 minutě 3-5 bodů
+  c) křeče v časném novorozeneckém období
+  d) multiorgánová hypoxicko-ischemická dysfunkce
+  7. Odsátí nosohltanu novorozence po porodu
+  a) provádíme u všech novorozenců
+  b) provádíme pouze u novorozenců nedonošených
+  c) provádíme u mekoniem zkalené plodové vody
+  d) může způsobit reflexní bradykardii
+  8. Při kardiopulmonální resuscitaci je poměr kompresí hrudníku a vdechů
+  a) 2 : 1
+  b) 3 : 1
+  c) 4 : 1
+  d) 5 : 1
+  9. Při farmakologické resuscitaci používáme
+  a) adrenalin
+  b) 8,4% bikarbonát
+  c) fyziologický roztok
+  d) Ringerův roztok
+  10. Co patří mezi příznaky velké brániční kýly
+  a) po porodu dyspnoe a cyanóza
+  b) vpadlé člunkovité bříško
+  c) zvracení
+  d) žádný z výše jmenovaných příznaků
+  11. Jaké mohou být následky a komplikace aspirace mekonia
+  a) perzistující plicní hypertenze
+  b) pneumonitida
+  c) pneumotorax
+  d) dyspnoe a cyanóza
+  12. Co patří к příznakům diabetické fetopatie novorozence
+  a) spinální ageneze
+  b) zvýšený výskyt vrozených srdečních vad
+  c) hyperglykémie
+  d) hyperbilirubinémie
+  13. Fyziologické rozmezí dechové frekvence u zdravého donošeného novorozence činí
+  a) 20-40 dechů/min
+  b) 40-60 dechů/min
+  c) 60-80 dechů/min
+  d) 80-100 dechů/min
+  14. Při odsávám novorozence na porodním sále používáme odsávací podtlak
+  a) 3-5 cm H20
+  b) 6-8cmH,0
+  c) 9-10cmH20
+  d) 10-15cmH20
+  15. Mezi výhody kojení patří
+  a) ochrana před průjmy
+  b) nižší riziko výskytu alergických onemocnění v dětském věku
+  c) nižší riziko výskytu cukrovky v dětském věku
+  d) nižší výskyt fenylketonurie
+  16. Hypotermií jsou ohroženi hlavně novorozenci
+  a) přenášení
+  b) nedonošení
+  c) s Rh inkompatibilitou
+  d) s diabetickou fetopatií
+  17. Čím může být způsobena centrální cyanóza u novorozence
+a) chladovým stresem
+b) srdečními vadami s levo-pravým zkratem
+c) poruchami dýchání
+d) perzistující plicní hypertenzí
+18. Při hyperbilirubinémii ohrožuje novorozence jádrovým ikterem
+a) bilirubin konjugovaný
+b) bilirubin nekonjugovaný
+c) bilirubin konjugovaný i nekonjugovaný
+d) rozpadové produkty bilirubinu
+19. Jaké symptomy má hormonální reakce novorozence, způsobená transplacentárním přestupem mateřských hormonů
+a) kožní erytém
+b) vaginální fluor
+c) zduření prsních žláz (Halbanova reakce)
+d) hyperbilirubinémii
+20. U jaké vrozené vývojové vady nalézáme polyhydramnion
+a) ageneze ledvin
+b) hypoplazie levého srdce
+c) obstrukční hydrocefalus
+d) atrézie jícnu
+21. Dlouhodobé podávání steroidů v perinatálním období
+a) má negativní vliv na alveolarizaci plic
+b) způsobuje hypoglykémii
+c) může negativně ovlivnit vývoj centrálního nervového systému
+d) může způsobit hyperglykémii
+22. Pulsním oxymetrem měříme
+a) parciální tlak kyslíku (pO2)
+b) acidobazickou rovnováhu
+c) saturaci hemoglobinu kyslíkem (SpO2)
+d) koncentraci kyslíku v inkubátoru
+23. Mezi klinické známky infekce novorozence patří
+a) apnoické pauzy
+b) termolabilita
+c) letargie
+d) žádný z výše jmenovaných příznaků
+24. Aspirace mekonia u novorozence
+a) vzniká vždy až po porodu
+b) ve většině případů vzniká prepartálně
+c) souvisí s perinatální hypoxií
+d) bývá vždy spojena s vrozenou vývojovou vadou trávicího ústrojí
+25. Které reflexy řadíme mezi základní novorozenecké
+a) hledači a sací
 b) úchopový
 c) Moroův
 d) optikofaciální
-27. Jaká hodnota acidobazické rovnováhy z pupečníkové tepny je kritériem těžké perinatálm asfyxie
-a) pO, pod 50 kPa
-b) pH pod 7,0
-c) BE pod -8
-d) pCO2 nad 50 kPa
-28. Hypotermií jsou ohroženi hlavně novorozenci
-a) přenášení
-b) s diabetickou fetopatií
-c) nedonošení
-d) s váhovým úbytkem nad 10%
-29. Mezi novorozence s velmi nízkou porodní hmotností řadíme děti s porodní hmotností
-a) pod lOOOg
-b) pod 1500g
-c) pod 2000 g
-d) pod 2500 g
-30. Při hyperbilirubinémii ohrožuje novorozence jádrovým ikterem
-a) bilirubin nekonjugovaný
-b) bilirubin konjugovaný
-c) bilirubin konjugovaný i nekonjugovaný
-d) rozpadové produkty bilirubinu
-31. Centrální cyanóza u novorozence může být způsobena
-a) chladovým stresem
-b) srdečními vadami s L-P zkratem
-c) poruchami dýchání
-d) opožděným uzávěrem tepenné dučeje
-49. Příčinou syndromu respirační tísně nedonošených (RDS) je
-a) anatomická nezralost plic
-b) aspirace plodové vody
-c) infekce
-d) anatomická a funkční nezralost plic s nedostatkem surfaktantu
-50. Mezi klinické známky syndromu respirační tísně nedonošených (RDS) nepatří
-a) dyspnoe a tachypnoe
-b) cyanóza
-c) hypertenze
-d) grunting
-51. V léčbě syndromu respirační tísně nedonošených(RDS) se aplikuje surfaktant
-a) intravenózně
-b) perorálně
-c) endotracheálně
-d) inhalační formou
-52. Které onemocnění novorozence je kontraindikací kojení
-a) adnátní В streptokoková infekce
-b) Rh izoimunizace
-c) hypotrofie
-d) galaktosémie
-53. U donošeného fyziologického novorozence bývá malá fontanela
-a) otevřená
-b) v niveu
-c) vpadlá
-d) uzavřená
-54. Hyperbilirubinémii novorozence neléčíme
-a) výměnnou transfúzí
-b) infuzí glukózy
-c) intermitentní fototerapií
-d) kontinuální fototerapií
-55. Nejčastější pozdní formou В streptokokové infekce novorozenců bývá
-a) meningitida
-b) bronchitida
-c) pneumonie
-d) otitida
-56. Mezi časné formy adnátní В streptokokové infekce novorozenců nepatří
+26. Mateřské mléko
+a) má vyšší obsah bílkovin než mléko kravské
+b) obsahuje sekreční imunoglobulin A
+c) neobsahuje kalcium a fosfor
+d) má nižší obsah bílkovin než mléko kravské
+27. U galaktosémie novorozence
+a) bývá hyperbilirubinémie
+b) je kontraindikováno kojení
+c) bývá letargie
+d) ve výživě se doporučují hydrolyzáty bílkovin
+28. V léčbě hyperbilirubinémie se používá
+a) kontinuální fototerapie
+b) intermitentní fototerapie
+c) infúze glukózy
+d) výměnná transfúze
+29. Mezi časné formy adnátní В streptokokové infekce novorozenců patří
 a) sepse
 b) pneumonie
 c) meningitida
-d) faryngitida
-57. Mikrocefalie donošeného novorozence má obvod hlavy (uveďte hraniční hodnotu)
+d) otitida
+30. Mikrocefalie donošeného novorozence má obvod hlavy (označte hraniční hodnotu)
 a) pod 35 cm
 b) pod 33 cm
 c) pod 31 cm
 d) pod 29 cm
-58. Do jakého věku dítěte doporučujeme plné kojení bez přídavků stravy
-a) maximálně do 1 měsíce
-b) maximálně do 3 měsíců
-c) minimálně do 6 měsíců
-d) minimálně do 24 měsíců
-59. Kolostrum má proti mateřskému mléku
-a) méně bílkovin
-b) více bílkovin
-c) více cukrů
-d) více tuků
-60. Jaká poloha novorozence a kojence ve spánku zvyšuje riziko náhlého úmrtí (SIDS)
-a) na zádech
-b) na levém boku
-c) na pravém boku
-d) na bříšku
-61. Horní typ parézy plexus brachialis (Duchenne­ Erb) má poranění v rozsahu
+31. V jakém rozsahu je poranění u horního typu parézy plexus brachialis (Duchenne-Erb)
 a) C3-C4
-b) cs c6
-c) C7-Th,
-d) Th-Th3
-62. Fraktura klíční kosti jako porodní poranění u novorozenců
-a) vyžaduje okamžité zahájení rehabilitace
-b) sádrovou fixaci
-c) podávání analgetik
-d) projeví se při palpaci typickou krepitací
-63. Co jsou milia
-a) benigní kožní afekce -retenční cystičky mazových žláz
-b) kožní příznak kandidové infekce
-c) kožní příznak stafylodermie
-d) pigmentové névy
-64. Kritické vrozené srdeční vady se v novorozeneckém období projeví
+b) C5-C6
+c) C7-TM
+d) Th2-Th3
+32. Jaké jsou rizikové faktory pro vznik náhlého úmrtí kojence (SIDS)
+a) ve spánku poloha na zádech
+b) přehřátá místnost
+c) ve spánku poloha na bříšku
+d) úmrtí sourozence na SIDS
+33. Kritické srdeční vady se v novorozeneckém období projevují
 a) vždy šelestem
-b) cyanózou nebo srdečním selháním
-c) vždy cyanózou
-d) vždy srdečním selháním
-65. Při jaké konstelaci může nastat hemolytická nemoc novorozence
-a) matka Rh pozitivní, novorozenec Rh negativní
-b) matka krevní skupina 0, novorozenec skupina В
-c) matka krevní skupina A, novorozenec skupina В
-d) matka krevní skupina A, novorozenec skupina 0
-66. Očkování proti tuberkulóze - BCG vakcinace - se aplikuje
-a) perorálně
-b) intramuskulámě
-c) intravenózně
-d) intradermálně
-67. Paréza nervus facialis se u novorozence projeví
-a) asymetrickým pláčem
-b) poruchou sání
-c) poruchou polykání
-d) afonií
-68. Fyziologické rozmezí leukocytů novorozence 1 den je
-a) 5—8-109/l
+b) centrální cyanózou
+c) srdečním selháním
+d) vždy poruchami dýchání
+34. Spontánní plášťový pneumotorax u donošeného novorozence
+a) se projeví vždy cyanózou a dyspnoí
+b) může být i klinicky němý
+c) vyžaduje vždy zavedení hrudního sání
+d) v léčbě vystačíme ve většině případů s oxygenoterapií
+35. Jaké je fyziologické rozmezí leukocytů novorozence 1 den
+a) 5-8 -1071
 b) 9-45 109/l
-c) 5-15 109/l
-d) 9-36 109/l
-69. Průměrná porodní hmotnost donošeného novorozence v populaci ČR je asi
-a) 4200 g
-b) 3900 g
-c) 3500 g
-d) 3000 g
-70. Jako rizikový faktor se počítá odtok plodové vody více než (uveďte hraniční hodnotu)
-a) 12 hodin
-b) 18 hodin
-c) 48 hodin
-d) 72 hodin
-71. Indikace zahájení ventilace vakem a maskou u novorozence po porodu je
-a) skóre Apgarové v 1 minutě 3-5
-b) dyspnoe
-c) srdeční akce 100-120/min
-d) apnoe a bradykardie pod 100 nereagující na taktilní stimulaci
-72. Termín porodu se počítá
-a) z data oplodňující soulože
-b) z ovulace
-c) z posledního dne posledních menses
-d) z prvního dne posledních menses
-73. Správné pásmo délky těhotenství pro donošeného novorozence je
-a) 38-40 ukončený týden těhotenství
-b) 36-38 ukončený týden těhotenství
-c) 38^12 ukončený týden těhotenství
-d) 38-39 ukončený týden těhotenství
-74. Hypotrofii plodu lze očekávat při této patologii těhotenství
-a) ulcus ventriculi matky
-b) EPH gestóza
-c) cholecystopatie matky
-d) diabetes mellitus matky
-75. Mezi klinicky hodnocené známky zralosti novorozence nepatří
-a) vývoj dentice
-b) vývoj ušního boltce
-c) lokalizace ůponu pupečníku
-d) rýhování plosek nohou
-76. Přenošené dítě zpravidla nemá
-a) inhibici kůže a pupečníku zkalenou plodovou vodou
-b) hypoglykémii první den po porodu
-c) redukci podkožního tuku při porodu
-d) tenkou pokožku s prosvítající cévní kresbou
-77. Děti z vícečetných těhotenství nemají zpravidla
-a) vyšší riziko komplikací za porodu
-b) nižší gestační stáří než průměr populace
-c) nižší porodní hmotnost než průměr populace
-d) vyšší gestační stáří než průměr populace
-78. Perinatální úmrtnost je počet dětí zemřelých
-a) před porodem, během porodu a 7 dní po porodu/100 000 narozených
-b) před porodem, během porodu a 7 dní po porodu/1000 narozených
-c) za porodu/100 000 narozených
-d) za porodu/1000 narozených
-79. Mezi infekce označované »TORCH« nepatří
-a) listerie
-b) rubeola
-c) toxoplazmóza
-d) cytomegalovirus
-80. Mezi standardní screeningové vyšetření novorozence nepatří
-a) screeningové vyšetření galaktosémie
-b) screeningové vyšetření kyčelních kloubů
-c) screening fenylketonurie
-d) Guthrieho zkouška
-81. Nejčastější adnátní bakteriální infekci způsobuje(í)
-a) Staphylococcus aureus
-b) streptokoky
-c) atypické mikroorganismy (chlamydie, ureaplazmy, mykoplazmy)
-d) Escherichia coli
-82. Infekce vzniklé in utero se nejčastěji projeví do
-a) 72 hodin po porodu
-b) 24 hodin po porodu
-c) známky infekce jsou patrny ihned po narození
-d) 48 hodin po porodu
-83. Infekce vzniklé kolonizací při průchodu porodním kanálem se projeví nejčastěji
-a) během 24 hodin po porodu
-b) po 7 dnu života
-c) během prvých 2 dnů života
-d) během prvých 7 dnů života
-84. Kongenitální diafragmatická hernie novorozence
-a) může mít rychlý infaustní průběh
-b) vyžaduje okamžitý transport na chirurgické pracoviště
-c) vyžaduje resuscitaci, dýchání maskou s vakem
-d) se projeví vždy ihned po porodu
-85. Galaktosémie je onemocnění novorozence, který nemá
-a) zvýšené jatemí testy
-b) hyperglykémii
-c) hypoglykémii
-d) hepatosplenomegalii
-86. Atrézie jícnu novorozence se po porodu nejčastěji projevuje
-a) zvracením
-b) dušností
-c) pozdním odchodem šmolky
-d) zvýšeným sliněním
-87. Oligurie u novorozence je produkce moči menší než
-a) 1 ml/kg/h
-b) 2 ml/kg/h
-c) 0,3 ml/kg/h
-d) 0,5 ml/kg/h
-88. Fyziologický úbytek porodní hmotnosti u donošeného novorozence bývá
-a) 9-13%
-b) 2-3%
-c) 1^1%
-d) 5-8%
-89. Maximum hmotnostního úbytku u donošeného novorozence lze očekávat
-a) 3-5 týden života
-b) 4-8 den života
-c) 3-5 den života
-d) 2 den života
-90. Nejčastějším laboratorním příznakem galaktosémie je
-a) metabolická alkalóza
-b) metabolická acidóza
-c) hyperglykémie
-d) hypoglykémie
-91. Fyziologický ikterus u donošeného novorozence dosahuje 3 den života bilirubinémie
-a) 215 nmol/1
-b) 215 pkat/l
-c) 215 mmol/1
-d) 215 pmol/1
-92. První močení se objeví do 24 hodin po porodu
-a) u 93 % donošených novorozenců
-b) u 100 % donošených novorozenců
-c) u 40% donošených novorozenců
-d) u 66 % donošených novorozenců
-93. První stolice odejde u 94 % donošených novorozenců do
-a) 12 hodin života
-b) 24 hodin života
-c) 36 hodin života
-d) 48 hodin života
-94. Apgarové skóre hodnotí
-a) vztah výživy к délce gestace
-b) časnou poporodní adaptaci
-c) hmotnostní přírůstky po narození
-d) pozdní poporodní adaptaci
-95. Nekorigovaná transpozice velkých tepen se projevuje
-a) během 48 hodin po porodu
-b) většinou až po týdnu života
-c) manifestace závisí na příjmu stravy
-d) okamžitě po porodu
-96. Pneumotorax u novorozence
-a) vyžaduje vždy hrudní drenáž
-b) vzniká pouze u arteficiální plicní ventilace
-c) léčí se vždy umělou plicní ventilací
-d) může vzniknout spontánně
-97. Žlutozelenavý kožní kolorit u novorozence bezprostředně po porodu nejčastěji způsobuje
-a) zkalená plodová voda
-b) syndrom »yellow skin baby«
-c) anemizace novorozence
-d) Rh inkompatibilita mezi matkou a plodem
-98. HBsAg pozitivní matky
-a) mohou kojit své novorozence
-b) mohou kojit až po vyšetření HBsAg
-c) rodí novorozence s poškozením jater
-d) nesmějí kojit
-99. Polycytémie může být spojena
-a) s polyploidií
-b) s polymorfonukleáry
-c) s polycystickými ledvinami
-d) s polyhydramniem
-100. Obstrukční nekomunikující hydrocefalus nemá průchodné
-a) aquaeductus Sylvii
-b) foramina Magendi et Luschkae
-c) foramina Monroi
-d) foramen ovale
+c) 5-15 -109/l
+d) 9-36 -1071
+36. Milia jsou
+a) pigmentové névy
+b) typickým příznakem stafylodermie
+c) retenční cystičky mazových žláz
+d) drobné hemangiomy
+37. Jaké léky se používají v léčbě abstinenčního syndromu novorozence u matek drogově závislých
+a) Fenobarbital
+b) opiová tinktura
+c) Synthofyllin
+d) Naloxon
+38. Anhydramnion v průběhu těhotenství
+a) způsobuje polohové deformity u novorozence
+b) může vést к hypoplazii plic novorozence
+c) je následkem hypoplazie levého srdce
+d) bývá následkem ageneze ledvin
+39. Jak hluboko má být zavedena endotracheální cévka u novorozence s hmotností 2000 g
+a) 6cm
+b) 8 cm
+c) 10cm
+d) 12cm
+40. Mezi screeningová vyšetření novorozence patří vyšetření
+a) fenylketonurie
+b) hypotyreózy
+c) kyčelních kloubů
+d) galaktosémie
+41. Mezi porodní poranění novorozence nepatří
+a) fraktura klíčku
+b) paréza nervus brachialis
+c) caput succedaneum
+d) fraktura dlouhých kostí
+42. Příčinou nekonjugované hyperbilirubinémie je
+a) intrahepatální cholestáza
+b) Rh izoimunizace
+c) zvýšená extravazální hemolýza u velkého kefalhematomu
+d) 0-A izoimunizace
+43. Vitamin К pro prevenci hemoragické nemoci novorozence podáváme
+a) i.m.
+b) i.v.
+c) p.o.
+d) jen nedonošeným novorozencům
+44. Mezi klinické příznaky respiračních onemocnění novorozenců patří
+a) periferní cyanóza
+b) grunting
+c) tachypnoe
+d) dyspnoe
+45. Co patří mezi rizikové faktory pro vznik adnátní infekce novorozence
+a) předčasně odteklá plodová voda (PROM) více než 18 hodin
+b) předčasný porod
+c) febrilie matky 38 °C a více
+d) přenášení
+46. Hypoxicko-ischemickou encefalopatii hodnotíme podle skóre
+a) Apgarové
+b) Finneganové
+c) Samata a Samatové
+d) žádná z odpovědí není správná
+47. Co patří mezi časté problémy nedonošených novorozenců
+a) retinopatie
+b) anémie
+c) gastroezofageální reflux
+d) leukopenie
+48. Během intrauterinního vývoje bývá u plodu zkrat přes foramen ovale a tepennou dučej
+a) levo-pravý
+b) pravo-levý
+c) bidirekční
+d) žádný
+49. Atrézie jícnu donošeného novorozence se po porodu projeví
+a) zvýšeným sliněním
+b) nemožností nasondovat žaludek
+c) zvracením
+d) hypoglykémií
+50. Mezi úvodní kroky resuscitace nedýchajícího a cyanotického novorozence na porodním sále patří
+a) zabezpečení průchodnosti dýchacích cest
+b) taktilní stimulace
+c) inhalace kyslíku
+d) aplikace bikarbonátu
+
   
 `;
 
