@@ -72695,5 +72695,2332 @@
     ],
     "description": [""],
     "img": [""]
+  },
+  {
+    "question": "1. Potratovost je označením pro",
+    "answers": [
+      "a) habituální potrácení",
+      "b) počet potratů na počet narozených dětí",
+      "c) spontánní ukončení těhotenství do třetího trimestru gravidity",
+      "d) počet interrupcí na počet narozených dětí"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) počet potratů na počet narozených dětí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Mrtvorozenost se udává jako",
+    "answers": [
+      "a) vztah počtu mrtvě narozených dětí na 1000 všech narozených",
+      "b) počet intrapartálně zemřelých dětí na 1000 všech narozených",
+      "c) počet antepartálně zemřelých dětí na 1000 všech narozených",
+      "d) počet všech neúspěšných těhotenství na 1000 všech narozených"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) vztah počtu mrtvě narozených dětí na 1000 všech narozených"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Porodnost je statistickým ukazatelem vyjadřujícím",
+    "answers": [
+      "a) počet narozených dětí na 10 000 obyvatel",
+      "b) průměrný počet porodů na jednu rodičku",
+      "c) počet všech narozených dětí na počet porodů",
+      "d) roční počet všech narozených dětí na 1000 obyvatel"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) roční počet všech narozených dětí na 1000 obyvatel"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Kojenecká úmrtnost znamená",
+    "answers": [
+      "a) počet zemřelých dětí od 28 dne života na 1000 živě narozených dětí",
+      "b) počet zemřelých dětí do jednoho roku na 10 000 živě narozených",
+      "c) procento smrtelných onemocnění kojenců do jednoho roku",
+      "d) počet všech zemřelých kojenců do 6 měsíců postnatálního života na 1000 živě narozených dětí"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) počet zemřelých dětí od 28 dne života na 1000 živě narozených dětí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Novorozenecká úmrtnost je výrazem pro",
+    "answers": [
+      "a) počet donošených dětí, které zemřely při porodu a těsně po něm na 10 000 obyvatel",
+      "b) počet zemřelých novorozenců na 1000 obyvatel do 10 dnů života",
+      "c) úmrtí dětí do tří měsíců života",
+      "d) počet dětí, které zemřely do 28 dnů po porodu na 1000 živě narozených dětí"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "d) počet dětí, které zemřely do 28 dnů po porodu na 1000 živě narozených dětí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Počet zemřelých dětí do 7 dnů po porodu a dětí mrtvě porozených na 1000 živě narozených dětí je",
+    "answers": [
+      "a) kojenecká úmrtnost",
+      "b) mortinatalita",
+      "c) perinatální úmrtnost",
+      "d) novorozenecká úmrtnost"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) perinatální úmrtnost"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Do perinatální mortality nezařazujeme",
+    "answers": [
+      "a) děti zemřelé na vrozenou vývojovou vadu",
+      "b) živě narozené děti o hmotnosti menší než 500 g, které přežily 24 hodin",
+      "c) mrtvě narozené plody o hmotnosti menší než lOOOg",
+      "d) děti narozené do 28 týdne těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) mrtvě narozené plody o hmotnosti menší než lOOOg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Perinatální mortalitu vztahujeme",
+    "answers": [
+      "a) na 1000 všech narozených dětí",
+      "b) na 100 mrtvě narozených dětí",
+      "c) na 1000 živě narozených dětí",
+      "d) na 100 000 narozených dětí"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) na 1000 živě narozených dětí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Nejpočetnější skupinou perinatální mortality je",
+    "answers": [
+      "a) mrtvorozenost",
+      "b) časná novorozenecká úmrtnost",
+      "c) vrozené vývojové vady",
+      "d) vícečetná těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) mrtvorozenost"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Nejvíce porodů v České republice je v této věkové skupině žen",
+    "answers": [
+      "a) v 15-19 roce",
+      "b) ve 20-24 roce",
+      "c) ve 25-29 roce",
+      "d) ve 30-34 roce"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) ve 25-29 roce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Co je nejčastější závažnou komplikací těhotenství a porodu",
+    "answers": [
+      "a) krvácení před porodem",
+      "b) předčasné odloučení lůžka",
+      "c) hrozící předčasný porod",
+      "d) gestační hypertenze"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) hrozící předčasný porod"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Nejčastějším ukazatelem stavu rizika plodu je",
+    "answers": [
+      "a) zkalená plodová voda",
+      "b) výsledek kardiotokografie",
+      "c) auskultace plodových ozev",
+      "d) intrauterinní retardace plodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) výsledek kardiotokografie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Celková mateřská úmrtnostje definována",
+    "answers": [
+      "a) počtem zemřelých matek za porodu na 100 000 živě narozených dětí",
+      "b) počtem všech zemřelých matek v těhotenství, za porodu a do 42 dne šestinedělí na 100 000 živě narozených dětí",
+      "c) počtem všech zemřelých matek, které porodily živé plody na 1000 živě narozených dětí",
+      "d) počtem všech matek, které zemřely za porodu a do"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) počtem všech zemřelých matek v těhotenství, za porodu a do 42 dne šestinedělí na 100 000 živě narozených dětí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Nejčastější příčinou mateřské úmrtnosti v posledním desetiletíjsou",
+    "answers": [
+      "a) preeklampsie a eklampsie",
+      "b) porodnické hemoragie",
+      "c) tromboembolie",
+      "d) kardiovaskulární choroby"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) tromboembolie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Nejčastějšími příčinami nespecifické (nepřímé) mateřské úmrtnosti jsou",
+    "answers": [
+      "a) chirurgické komplikace v gestaci",
+      "b) maligní nádorová onemocnění",
+      "c) kardiovaskulární komplikace",
+      "d) diabetes mellitus"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) kardiovaskulární komplikace"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Která z porodnických operacíje zatížena největší mateřskou úmrtností",
+    "answers": [
+      "a) porod per forcipem",
+      "b) porod per sectionem caesaream",
+      "c) porod per vacuumextractionem",
+      "d) porod po extrakci plodu v poloze koncem pánevním"
+    ],
+    "book": ["Živný"],
+    "topic": ["16. Statistické ukazatele v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) porod per sectionem caesaream"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Který ukazatel perinatální úmrtnosti ukazuje nejhorší výsledky v péči o těhotnou ženu",
+    "answers": [
+      "a) časná novorozenecká úmrtnost dětí s hmotností <2000g",
+      "b) mrtvorozenost dětí s hmotností > 2000 g",
+      "c) časná novorozenecká úmrtnost dětí s hmotností >2000g",
+      "d) vrozené vývojové vady"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "16. Statistické ukazatele v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) mrtvorozenost dětí s hmotností > 2000 g"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. V kterých dimenzích se pohybuje perinatální úmrtnost v České republice",
+    "answers": [
+      "a) od 10-7 %o",
+      "b) od 6,9-5 %o",
+      "c) od 4,9-3 %c",
+      "d) od 2,9-1 %c"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "16. Statistické ukazatele v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) od 4,9-3 %c"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Které zemřelé plody nezařazujeme do perinatální úmrtnosti",
+    "answers": [
+      "a) mrtvě narozený plod o hmotnosti < lOOOg",
+      "b) živě porozený plod o hmotnosti < 500 g, který nepřežil 24 hodin",
+      "c) živě porozený plod s vrozenou, s životem neslučitelnou vývojovou vadou o hmotnosti od 500-1000g",
+      "d) živě narozené dvojče o hmotnosti < 500 g, které přežilo 24 hodin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "16. Statistické ukazatele v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) mrtvě narozený plod o hmotnosti < lOOOg",
+      "b) živě porozený plod o hmotnosti < 500 g, který nepřežil 24 hodin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Které plody vykazují nejvyšší podíl specifické časné novorozenecké úmrtnosti na celkové časné novorozenecké úmrtnosti",
+    "answers": [
+      "a) plody o hmotnosti 1000-1499 g",
+      "b) plody o hmotnosti 3000-3499g",
+      "c) plody o hmotnosti < lOOOg",
+      "d) plody o hmotnosti 1500g-1999g"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "16. Statistické ukazatele v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) plody o hmotnosti < lOOOg"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Do specifické přímé mateřské úmrtnosti zařazujeme",
+    "answers": [
+      "a) úmrtí v gestaci v souvislosti s maligní onkologickou komplikací",
+      "b) úmrtí v gestaci v souvislosti se sebevraždou",
+      "c) úmrtí v gestaci v souvislosti s HELLP syndromem",
+      "d) úmrtí v gestaci v souvislosti s tromboembolií"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "16. Statistické ukazatele v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) úmrtí v gestaci v souvislosti s HELLP syndromem",
+      "d) úmrtí v gestaci v souvislosti s tromboembolií"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Kdo je povinen podat na MZ CR hlášení o mateřském úmrtí, které nastalo mimo gynekologicko- -porodnické oddělení",
+    "answers": [
+      "a) ohledávající lékař při úmrtí mimo zdravotnická pracoviště",
+      "b) primář příslušného zdravotnického zařízení",
+      "c) primář patologickoanatomického oddělení, kde byla žena pitvána",
+      "d) primář gynekologicko-porodnického oddělení příslušné spádové oblasti"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "16. Statistické ukazatele v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) primář gynekologicko-porodnického oddělení příslušné spádové oblasti"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Jaké jsou hlavní současné priority v problematice mateřské úmrtnosti v oblasti prevence, včasné diagnostiky a terapie",
+    "answers": [
+      "a) puerperální infekce",
+      "b) diseminovaná intravaskulámí koagulopatie (DIC)",
+      "c) kardiovaskulární komplikace",
+      "d) tromboembolie"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "16. Statistické ukazatele v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) diseminovaná intravaskulámí koagulopatie (DIC)",
+      "c) kardiovaskulární komplikace",
+      "d) tromboembolie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Do nespecifické nepřímé mateřské úmrtnosti zařazujeme",
+    "answers": [
+      "a) kardiovaskulární komplikace",
+      "b) komplikace po porodnických operacích",
+      "c) hemoragie",
+      "d) neurologické komplikace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "16. Statistické ukazatele v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) kardiovaskulární komplikace",
+
+      "d) neurologické komplikace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Jaké jsou dvě hlavní příčiny úmrtí novorozenců",
+    "answers": [
+      "a) hypoxie, asfyxie",
+      "b) infekce",
+      "c) vrozené vývojové vady",
+      "d) respirace"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "16. Statistické ukazatele v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) hypoxie, asfyxie", "b) infekce"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. V kterém věku je v naší populaci relativně nejvyšší procento těhotných kuřaček a toxikomanek",
+    "answers": [
+      "a) u < 201etých",
+      "b) u 20-241etých",
+      "c) u 25-291etých",
+      "d) u 30-341etých"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "16. Statistické ukazatele v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) u < 201etých"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Morfologické změny ledvin v těhotenství",
+    "answers": [
+      "a) nejsou v průběhu fyziologického těhotenství přítomny",
+      "b) objevují se v prvém trimestru a trvají po celou dobu těhotenství",
+      "c) jsou přítomny přechodně během druhého trimestru",
+      "d) objevují se až v posledních týdnech gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) objevují se v prvém trimestru a trvají po celou dobu těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Změny renálních funkcí",
+    "answers": [
+      "a) nejsou v průběhu fyziologického těhotenství přítomny",
+      "b) jsou nekonstantní, mohou, ale nemusí být přítomny",
+      "c) objevují se již v prvém trimestru",
+      "d) objevují se až v posledních týdnech gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) objevují se již v prvém trimestru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Hodnoty glomerulární filtrace (GF) se během gravidity",
+    "answers": [
+      "a) nemění oproti netěhotným ženám",
+      "b) stoupají již v prvých týdnech těhotenství",
+      "c) v prvých týdnech klesají, к normě se vracejí až ve III. trimestru",
+      "d) stoupají ve III trimestru"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) stoupají již v prvých týdnech těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. V průběhu těhotenství dochází v plazmě ke",
+    "answers": [
+      "a) zvýšení koncentrace kreatininu, urey a NPN",
+      "b) snížení koncentrace kreatininu, urey a NPN",
+      "c) snížení koncentrace kreatininu, ale zvýšení urey a NPN",
+      "d) zvýšení koncentrace kreatininu, ale snížení urey a NPN"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) snížení koncentrace kreatininu, urey a NPN"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Proteinurie v těhotenství",
+    "answers": [
+      "a) je fyziologická do hodnoty 0,2 g/24 h",
+      "b) je fyziologická do hodnoty 0,5 g/24 h",
+      "c) není fyziologická v žádném případě",
+      "d) je brána za fyziologickou u pacientek s anamnézou onemocnění ledvin"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) je fyziologická do hodnoty 0,2 g/24 h"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Glykosurie v těhotenství",
+    "answers": [
+      "a) je vyvolána současnou infekcí močových cest",
+      "b) je způsobena snížením reabsorpce glukózy tubulárním aparátem; do hodnoty 0,72 mmol/24 h je fyziologická",
+      "c) je vždy patologická a znamená onemocnění pacientky diabetem",
+      "d) je předzvěstí gestózy v pozdějším průběhu gravidity"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) je způsobena snížením reabsorpce glukózy tubulárním aparátem; do hodnoty 0,72 mmol/24 h je fyziologická"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Uroinfekce je v průběhu těhotenství",
+    "answers": [
+      "a) stejně častá jako u netěhotných žen",
+      "b) častější v prvé polovině gravidity",
+      "c) častější v druhé polovině gravidity",
+      "d) méně častá než u netěhotných žen"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) častější v druhé polovině gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Asymptomatická bakteriurie",
+    "answers": [
+      "a) je přítomna asi u 10% těhotných",
+      "b) má být léčena jakmile je zjištěna",
+      "c) v 80 % ji způsobuje Streptococcusfaecalis",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) má být léčena jakmile je zjištěna"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Ve fyziologické graviditě se koncentrace ALT, AST a bilirubinu",
+    "answers": [
+      "a) nemění po celou dobu těhotenství",
+      "b) stoupají od počátku těhotenství, ale celkově ne o více než 30% své normální hodnoty",
+      "c) v prvých dvou trimestrech nestoupají, mohou se zvýšit až v posledním trimestru, ne však o více než 30%",
+      "d) po počátečním poklesu se vrací na normu"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [""],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Během fyziologické gravidity se plazmatická koncentrace celkové bílkoviny a albuminu",
+    "answers": [
+      "a) nemění",
+      "b) stoupá",
+      "c) klesá",
+      "d) po počátečním vzestupu se normalizuje"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) klesá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Během fyziologické gravidity se plazmatická koncentrace alkalické fosfatázy, cholesterolu, triacylglycerolů a lipémie",
+    "answers": [
+      "a) nemění",
+      "b) stoupá",
+      "c) klesá",
+      "d) po počátečním vzestupu klesá pod výchozí hodnoty"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) stoupá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Během fyziologické gravidity se plazmatická koncentrace fibrinogenu a faktorů II, VII, VIII, IX a X",
+    "answers": [
+      "a) nemění",
+      "b) stoupá",
+      "c) klesá",
+      "d) po počátečním vzestupu klesne na původní hodnotu"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) stoupá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Během fyziologické gravidity",
+    "answers": [
+      "a) koncentrace železa v séru klesá",
+      "b) vazebná kapacita železa klesá",
+      "c) koncentrace transferinu v séru klesá",
+      "d) koncentrace železa v séru stoupá"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) koncentrace železa v séru klesá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Hyperkinetická cirkulace v těhotenství vzniká na základě",
+    "answers": [
+      "a) zrychlení srdeční frekvence a zvětšení minutového objemu",
+      "b) zvýšení objemu krve",
+      "c) poklesu viskozity krve i poklesu periferní rezistence",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Prevenci tromboembolické nemoci provádíme",
+    "answers": [
+      "a) nízkomolekulámími hepariny",
+      "b) pelentanem",
+      "c) Ascorutinem",
+      "d) Heparoidem ung. lokálně"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) nízkomolekulámími hepariny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. I při fyziologickém těhotenství nastávají v organismu změny",
+    "answers": [
+      "a) zhoršuje se tolerance glukózy",
+      "b) klesá citlivost na inzulín",
+      "c) stoupá koncentrace neesterifikovaných mastných kyselin",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Akcelerované hladověníje název pro",
+    "answers": [
+      "a) reakci na noční hladovění těhotných",
+      "b) stav, který nastane při aplikaci vyšších dávek inzulínu než odpovídá přísunu uhlovodanů",
+      "c) pokles NEMK, triacylglycerolu, cholesterolu a lipémie v důsledku nedostatečného příjmu živin v těhotenství",
+      "d) váhový úbytek následkem zavedení diabetické diety u gestačních diabetiček"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) reakci na noční hladovění těhotných"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Placentou prostupuje",
+    "answers": [
+      "a) inzulín aktivním transferem",
+      "b) glukagon aktivním transferem",
+      "c) glukóza proti koncentračnímu gradientu",
+      "d) volné aminokyseliny proti koncentračnímu gradientu"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) volné aminokyseliny proti koncentračnímu gradientu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Děti diabetiček jsou nejčastěji postiženy",
+    "answers": [
+      "a) hemiemi",
+      "b) m. Down",
+      "c) syndromem kaudální regrese",
+      "d) teratomy"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [""],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Diabetická fetopatie je název pro",
+    "answers": [
+      "a) metabolickou poruchu plodu, vedoucí к jeho odumření v průběhu I. trimestru",
+      "b) metabolickou poruchu placenty, vedoucí к odumření plodu během I. trimestru",
+      "c) makrosomického novorozence diabetické matky",
+      "d) hypotrofického novorozence diabetické matky"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) makrosomického novorozence diabetické matky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Těhotná diabetická s diabetes mellitus 1 typuje ohrožena",
+    "answers": [
+      "a) častějším vznikem EPH gestózy",
+      "b) rozvojem diabetické retinopatie",
+      "c) častějšími poševními infekcemi",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. V terapii diabetů, je-li nutná inzulinoterapie, užijeme",
+    "answers": [
+      "a) purifikované inzulíny",
+      "b) monokomponentní inzulíny",
+      "c) humánní inzulíny",
+      "d) kterýkoli typ inzulinu"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) humánní inzulíny"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. špatná kompenzace diabetický může vést",
+    "answers": [
+      "a) к poruchám menstruačního cyklu",
+      "b) к habituálnímu potracení",
+      "c) ke vzniku embryopatií",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Vyšetřením C-peptidu zjistíme",
+    "answers": [
+      "a) sekreční schopnost pankreatu pro glukagon",
+      "b) schopnost sekrece endogenního inzulinub) schopnost sekrece endogenního inzulinu",
+      "b) schopnost sekrece endogenního inzulinub) schopnost sekrece endogenního inzulinu",
+      "c) přítomnost exogenního inzulinu",
+      "d) kvalitu dlouhodobé kompenzace diabetičky"
+    ],
+    "book": ["Živný"],
+    "topic": ["17. Internistické problémy v porodnictví. I. ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [""],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Terapie uroinfekce v těhotenství",
+    "answers": [
+      "a) chemoterapeutika typu sulfonamidů",
+      "b) antibiotika penicilinového, cefalosporinového nebo makrolidového typu",
+      "c) tetracykliny a aminoglykosidová antibiotika",
+      "d) chloramfenikol"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) antibiotika penicilinového, cefalosporinového nebo makrolidového typu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Asymptomatická bakteriurie v těhotenství",
+    "answers": [
+      "a) ve středním proudu moči je více než 105 bakterií/ml",
+      "b) ve středním proudu moči je méně než 103 bakterií/ml",
+      "c) ve středním proudu moči je více než 103 a méně než 105 bakterií/ml",
+      "d) je obsoletní název, nyní již neužívaný"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) ve středním proudu moči je více než 105 bakterií/ml"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Asymptomatická bakteriurie",
+    "answers": [
+      "a) je přítomna asi u 10% těhotných",
+      "b) má být léčena, jakmile je zjištěna",
+      "c) v 80% ji způsobuje Streptococcusfaecalis",
+      "d) žádná odpověď není správná"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) má být léčena, jakmile je zjištěna"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Akutní glomerulonefritida je v těhotenství",
+    "answers": [
+      "a) vzácná",
+      "b) častá v průběhu celého těhotenství",
+      "c) velmi častá, hlavně v II. trimestru",
+      "d) častější než u netěhotných"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) vzácná"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Těhotenství u chronické glomerulonefritidy zakazujeme",
+    "answers": [
+      "a) u všech typů",
+      "b) u idiopatického nefrotického syndromu",
+      "c) při známkách renální insuficience",
+      "d) nezakazujeme nikdy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) při známkách renální insuficience"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Nefrolitiáza v těhotenství",
+    "answers": [
+      "a) má být co nejdříve operativně řešena",
+      "b) má být pokud možno léčena konzervativně s prevencí uroinfekce",
+      "c) má být indikací к interrupci",
+      "d) pokud nejsou renální koliky, není třeba sejí zabývat"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) má být pokud možno léčena konzervativně s prevencí uroinfekce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Pyróza v těhotenstvíje způsobena",
+    "answers": [
+      "a) gastroezofageálním refluxem následkem relaxace sfinkteru kardie",
+      "b) zvýšením kyselosti žaludečních šťáv při zvýšení sekrece HC1",
+      "c) častými dietními chybami těhotných",
+      "d) důvod není přesně znám"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) gastroezofageálním refluxem následkem relaxace sfinkteru kardie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Hiátová hernie se vyskytuje v těhotenství",
+    "answers": [
+      "a) vzácně",
+      "b) převážně u starších vícerodiček",
+      "c) převážně u mladých prvorodiček astenického habitu",
+      "d) velmi často"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) převážně u starších vícerodiček"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Akutní dyspepsii infekčního původu u těhotných léčíme",
+    "answers": [
+      "a) Ftalazolem a antibiotiky podle citlivosti vykultivovaného agens",
+      "b) hladovkou, po které následuje přísná dieta s podáním střevních adsorbencií, nezlepší-li se stav, pak antibiotika Normix",
+      "c) jen dietou, výše uvedené preparáty jsou pro plod toxické",
+      "d) chloramfenikolem, který je pro tyto infekce suverénním lékem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) hladovkou, po které následuje přísná dieta s podáním střevních adsorbencií, nezlepší-li se stav, pak antibiotika Normix"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Vředová choroba žaludku a dvanáctníku se vyskytuje",
+    "answers": [
+      "a) velmi často v graviditě, obzvláště na počátku",
+      "b) spíše v graviditě než po porodu, v puerperiu bývá remise",
+      "c) zřídka v graviditě, spíše po porodu, kdy může dojít к exacerbaci či se manifestovat dosud latentní onemocnění",
+      "d) stejně často jako u netěhotných"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) zřídka v graviditě, spíše po porodu, kdy může dojít к exacerbaci či se manifestovat dosud latentní onemocnění"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Terapie vředové choroby je v těhotenství",
+    "answers": [
+      "a) pouze dietní, léky běžně používané jsou pro plod toxické",
+      "b) dietní, antagonisté histamin-H2-receptorů, antacida",
+      "c) vředová choroba je důvodem к interrupci či předčasnému ukončení gravidity",
+      "d) operativní, a to co nejdříve po fibroskopické verifikaci vředu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "b) dietní, antagonisté histamin-H2-receptorů, antacida"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Ulcerózní kolitida",
+    "answers": [
+      "a) představuje kontraindikací těhotenství",
+      "b) je v I. trimestru indikací к interrupci",
+      "c) nepředstavuje indikaci к interrupci, ale graviditu je nutno plánovat, aby probíhala v období remise",
+      "d) se u těhotných nevyskytuje"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) nepředstavuje indikaci к interrupci, ale graviditu je nutno plánovat, aby probíhala v období remise"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Ve fyziologické graviditě se koncentrace ALT, AST a bilirubinu",
+    "answers": [
+      "a) nemění po celou dobu těhotenství",
+      "b) stoupají od počátku těhotenství, ale celkově ne o více než 30 % své normální hodnoty",
+      "c) v prvých dvou trimestrech nestoupají, ale mohou se zvýšit až v posledním trimestru, ne však o více než 30%",
+      "d) po počátečním poklesu se vrací na normu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) nemění po celou dobu těhotenství"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Gilbertova choroba",
+    "answers": [
+      "a) je indikací к interrupci, protože má závažnou prognózu pro matku",
+      "b) je onemocnění matky, které ohrožuje zdravý vývoj plodu",
+      "c) negativně ovlivňuje těhotenství, ale sama jím není zhoršena",
+      "d) neovlivňuje těhotenství ani není těhotenstvím zhoršena"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "d) neovlivňuje těhotenství ani není těhotenstvím zhoršena"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Těhotenská intrahepatální cholestáza je",
+    "answers": [
+      "a) označení pro fyziologické změny jatemích buněk během gravidity",
+      "b) onemocnění jater, podmíněné graviditou",
+      "c) komplikací cholelitiázy v graviditě",
+      "d) následek obstrukce intrahepatálních větví choledochu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) onemocnění jater, podmíněné graviditou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Na základě pozitivního sérologického testu provedeme interrupci při",
+    "answers": [
+      "a) klíšťové encefalitidě",
+      "b) parotitidě",
+      "c) zarděnkách",
+      "d) spalničkách"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) zarděnkách"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Během fyziologické gravidity se plazmatická koncentrace fibrinogenu a faktorů II, VII, VIII, IX а X",
+    "answers": [
+      "a) nemění",
+      "b) stoupá",
+      "c) klesá",
+      "d) po počátečním vzestupu klesne na původní hodnotu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) stoupá"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Prevenci tromboembolické nemoci v období kolem porodu provádíme",
+    "answers": [
+      "a) u všech pacientek s anamnézou žilního onemocnění",
+      "b) u všech diabetiček",
+      "c) u všech pacientek se srdečními vadami",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Ve fyziologickém těhotenství nastávají tyto změny v plazmě",
+    "answers": [
+      "a) stoupá koncentrace somatotropinu, tyreotropinu a glukokortikoidů",
+      "b) klesá koncentrace glukokortikoidů a tyreotropinu",
+      "c) klesá koncentrace inzulínu",
+      "d) klesá koncentrace glukagonu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) stoupá koncentrace somatotropinu, tyreotropinu a glukokortikoidů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Zvýšené riziko diabetů mají těhotné ženy",
+    "answers": [
+      "a) s rodinnou anamnézou diabetů",
+      "b) s anamnézou přechodné poruchy glycidového metabolismu nebo glykosurie",
+      "c) ve věku vyšším než 30 let nebo obézní nad 20% deální hmotnosti",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Diagnóza diabetického syndromu v těhotenství je stanovena na základě",
+    "answers": [
+      "a) nálezu glykosurie kdykoli v průběhu dne",
+      "b) vyšetření denního glykemického profilu",
+      "c) vyšetření orálního glukózového tolerančního testu",
+      "d) vyšetření 0’Sullivanova testu nebo oGTT"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) vyšetření 0’Sullivanova testu nebo oGTT"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Léčba diabetického syndromu v těhotenství",
+    "answers": [
+      "a) v těhotenství je vyšší produkce inzulínu, proto nebude třeba léčby",
+      "b) perorálními antidiabetiky všech typů",
+      "c) dietou a perorálními antidiabetiky s výjimkou biguanidů",
+      "d) dietou, a pokud nestačí, i inzulínem"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) dietou, a pokud nestačí, i inzulínem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Těhotnou diabetičku považujeme za zkompenzovanou, pohybují-li se hodnoty glykémií v denním profilu mezi hodnotami",
+    "answers": [
+      "a) 2,5-5,5 mmol/1",
+      "b) 3,7-7,5 mmol/1",
+      "c) 5,5-7,7 mmol/1",
+      "d) 5,5-8,8 mmol/1"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 3,7-7,5 mmol/1"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Děti diabetiček jsou nejčastěji postiženy",
+    "answers": [
+      "a) hemiemi",
+      "b) m. Down",
+      "c) syndromem kaudální regrese",
+      "d) teratomy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) syndromem kaudální regrese"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Diabetická fetopatie je název pro",
+    "answers": [
+      "a) metabolickou poruchu plodu vedoucí к jeho odumření v průběhu I. trimestru",
+      "b) metabolickou poruchu placenty vedoucí к odumření plodu během I. trimestru",
+      "c) makrosomii novorozence diabetické matky spojenou s hypoglykémií, hypokalcémií, polycytémií a RDS",
+      "d) hypotrofického novorozence diabetické matky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "c) makrosomii novorozence diabetické matky spojenou s hypoglykémií, hypokalcémií, polycytémií a RDS"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Těhotná diabetička s diabetes mellitus 1 typu je ohrožena",
+    "answers": [
+      "a) častějším vznikem EPH gestózy",
+      "b) rozvojem diabetické retinopatie",
+      "c) častějšími infekcemi močových cest",
+      "d) všechny odpovědi jsou správné"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "17. Internistické problémy v porodnictví. II. ČÁST POSTGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) všechny odpovědi jsou správné"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. Při inhalační porodnické analgezii je dnes povoleno podávat pouze",
+    "answers": ["a) éter", "b) chloroform", "c) metoxyfluran", "d) N2O:O2"],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) N2O:O2"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Při systémové analgezii se u nás nejčastěji používá analgetikum",
+    "answers": [
+      "a) fentanyl",
+      "b) morfin",
+      "c) petidin (Dolsin)",
+      "d) sufentanil"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) petidin (Dolsin)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Pudentální analgezie postihuje anatomickou oblast",
+    "answers": [
+      "a) uteru a pochvy",
+      "b) zevní třetiny pochvy a perinea",
+      "c) pochvy",
+      "d) uteru"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) zevní třetiny pochvy a perinea"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Kontraindikací regionální anestezie u císařského řezu není",
+    "answers": [
+      "a) nespolupracující pacientka",
+      "b) alergie na použité lokální anestetikum",
+      "c) diabetes mellitus 1 typu",
+      "d) porucha krvácivosti a srážlivosti"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) diabetes mellitus 1 typu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Pří epidurální anestezii samotným lokálním anestetikem jsou nejprve ovlivněna vlákna",
+    "answers": [
+      "a) vegetativní",
+      "b) vegetativní a motorická",
+      "c) motorická",
+      "d) senzitivní"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) vegetativní"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Za vedení bolestivých impulsů z uteru jsou odpovědny míšní segmenty",
+    "answers": ["a) Th6-Th8", "b) s2-s4", "c) Th8-L,", "d) Th,-Th6"],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) Th8-L,"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Synonymem pro epidurální prostor je",
+    "answers": [
+      "a) peridurální prostor",
+      "b) subdurální prostor",
+      "c) intratékální prostor",
+      "d) subarachnoidální prostor"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) peridurální prostor"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Synonymem pro subarachnoidální prostor není",
+    "answers": [
+      "a) subdurální",
+      "b) intratékální",
+      "c) intratékální, spinální",
+      "d) spinální"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) subdurální"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Součástí tzv. neuroplegické směsi není",
+    "answers": [
+      "a) petidin",
+      "b) bupivakain",
+      "c) chlorpromazin",
+      "d) protazin"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) bupivakain"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. O prostupu farmaka placentou rozhoduje také jeho molekulová hmotnost. Placentou obvykle neprostupují farmaka s molekulovou hmotností větší než",
+    "answers": ["a) 300", "b) 100", "c) 600", "d) 400"],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) 600"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Mutagen je",
+    "answers": [
+      "a) jakákoli látka, která vyvolává mutaci",
+      "b) lék, který vyvolává mutaci",
+      "c) fyzikální faktor, který vyvolává mutaci",
+      "d) chemický faktor, který vyvolává mutaci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) jakákoli látka, která vyvolává mutaci"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Pro průnik farmaka placentou jsou důležité hemodynamické poměry. Lidská placenta má na konci těhotenství průtok na fetální straně",
+    "answers": ["a) 80ml/min", "b) 50ml/min", "c) 30ml/min", "d) 10ml/min"],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) 50ml/min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Pro průnik farmaka placentou jsou důležité hemodynamické poměry. Lidská placenta má na konci těhotenství průtok na mateřské straně",
+    "answers": [
+      "a) 500-700ml/min",
+      "b) 200-300 ml/min",
+      "c) 300-400 ml/min",
+      "d) 800-900 ml/min"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 500-700ml/min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Prostaglandiny (PG) E2 ovlivňují hemokoagulaci",
+    "answers": [
+      "a) zvýšením fibrinogenu",
+      "b) snížením koncentrace D-dimerů",
+      "c) stimulováním agregace trombocytú v ranné ploše",
+      "d) neovlivňují hemokoagulaci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) stimulováním agregace trombocytú v ranné ploše"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Prostaglandiny (PG) ovlivňují respiračm systém",
+    "answers": [
+      "a) PGE vyvolávají bronchodilataci a PGF, bronchokonstrikci",
+      "b) PGF, vyvolávají bronchodilataci a PGE bronchokonstrikci",
+      "c) neovlivňují respirační systém",
+      "d) zvyšují funkční reziduální prostor"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) PGE vyvolávají bronchodilataci a PGF, bronchokonstrikci"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. V plodu se kumulují tetracykliny",
+    "answers": [
+      "a) v játrech a slezině",
+      "b) v zubech a v kostní tkáni",
+      "c) v CNS a v nadledvinách",
+      "d) v pohlavních orgánech"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) v zubech a v kostní tkáni"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Teratogen je látka, která způsobuje",
+    "answers": [
+      "a) vznik Downova syndromu",
+      "b) vznik vrozených vývojových vad",
+      "c) nádorové bujení",
+      "d) kalcifikaci orgánů"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) vznik vrozených vývojových vad"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Embryotoxicita způsobuje tato poškození plodu s výjimkou",
+    "answers": [
+      "a) růstové retardace",
+      "b) smrti plodu",
+      "c) chromosomálmch poruch",
+      "d) malformací"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) chromosomálmch poruch"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Teratogenní dávka je",
+    "answers": [
+      "a) je shodná s maximální léčebnou dávkou",
+      "b) proměnná v čase a mění se s vývojem plodu",
+      "c) není proměnná v čase a nemění se s vývojem plodem",
+      "d) dávka, která způsobí smrt plodu"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) proměnná v čase a mění se s vývojem plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Období před implantací se považuje za",
+    "answers": [
+      "a) citlivé vůči působení farmak",
+      "b) necitlivé vůči působení farmak",
+      "c) citlivé pouze u některých antibiotik",
+      "d) citlivé, ale záleží na podaném farmaku"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) necitlivé vůči působení farmak"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Období embryonálního růstu je vysoce citlivé pro vznik",
+    "answers": [
+      "a) funkčních i morfologických vad embrya",
+      "b) zejména morfologických vad embrya",
+      "c) chromosomálně podmíněných malformací",
+      "d) zejména funkčních vad embrya"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) zejména morfologických vad embrya"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Období fetálního růstu je výrazně citlivé pro vznik",
+    "answers": [
+      "a) funkčních i morfologických vad plodu",
+      "b) zejména morfologických vad plodu",
+      "c) zejména funkčních vad plodu",
+      "d) poruch neurální trubice"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["c) zejména funkčních vad plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. Androgeny podávané ženě v těhotenství způsobují",
+    "answers": [
+      "a) postižení nadledvin plodu mužského pohlaví",
+      "b) maskulinizaci fetů ženského pohlaví",
+      "c) retardaci růstu plodu",
+      "d) postižení CNS fetů obou pohlaví"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) maskulinizaci fetů ženského pohlaví"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. Diethylstilbestrol je karcinogen, který se projevuje v lokalizaci",
+    "answers": [
+      "a) na játrech",
+      "b) na nadledvinách",
+      "c) na CNS",
+      "d) na děložním čípku a v pochvě"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) na děložním čípku a v pochvě"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. Koncentrace farmaka v mateřském mléce závisí na pH mateřského mléka, které je",
+    "answers": ["a) 6,4-7,6", "b) 5,6-6,3", "c) 7,6-9,0", "d) 4,8-5,5"],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["a) 6,4-7,6"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Kurarimimetikum (succinylcholin jodid) používaný při orotracheálm inkubaci",
+    "answers": [
+      "a) prochází placentou, ale neovlivňuje plod",
+      "b) prochází placentou",
+      "c) prochází placentou a ovlivňuje plod, kterému se proto dává antibiotikum",
+      "d) neprochází placentou"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) neprochází placentou"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Lokální anestetikum amidového typu prochází placentární bariérou",
+    "answers": [
+      "a) pouze je-li podávané současně s opiátem",
+      "b) nikdy",
+      "c) jen je-li podáno ve vyšší koncentraci",
+      "d) vždy"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["d) vždy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Větší množství tukových depozit v těhotenství způsobuje",
+    "answers": [
+      "a) zvýšené množství navázaných lipofilních anestetik v organismu",
+      "b) lepší odbourávání barbiturátů",
+      "c) rychlejší úvod do anestezie",
+      "d) lepší svalovou relaxaci"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": [
+      "a) zvýšené množství navázaných lipofilních anestetik v organismu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Vazebná kapacita fetální plazmy (vazba farmaka na plazmatické proteiny) je proti vazebné kapacitě plazmě matky",
+    "answers": [
+      "a) vyšší",
+      "b) nižší",
+      "c) shodná",
+      "d) mění se podle hematokritu matky"
+    ],
+    "book": ["Živný"],
+    "topic": [
+      "18. Analgezie, anestezie a léky v porodnictví. I. ČÁST PREGRADUÁLNÍ"
+    ],
+    "correctAnswers": ["b) nižší"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1. V těhotenství",
+    "answers": [
+      "a) klesá práh vnímání bolesti",
+      "b) prodlužuje se reakční doba",
+      "c) klesá chuť slaného",
+      "d) klesá chuť sladkého"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) prodlužuje se reakční doba",
+      "c) klesá chuť slaného"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "2. Pica u těhotných znamená",
+    "answers": [
+      "a) odpor к některým speciálním pachům",
+      "b) nutkavou chuť na kyselá jídla",
+      "c) pojídání substancí, obvykle pokládaných za nejedlé",
+      "d) různé změny chutě v těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) pojídání substancí, obvykle pokládaných za nejedlé"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "3. Nejčastější příčinou těhotenských úzkostí jsou",
+    "answers": [
+      "a) obavy z poškození plodu",
+      "b) hormonální změny (vzestup katecholestrogenů)",
+      "c) obavy z ekonomických změn po porodu",
+      "d) obavy z výchovy dítěte"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) obavy z ekonomických změn po porodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "4. Benigní těhotenská encefalopatie",
+    "answers": [
+      "a) je běžná porucha postihující zhruba polovinu těhotných žen",
+      "b) je název specifického neurologického syndromu, který souvisí s vyšším intracerebrálním tlakem",
+      "c) její projevy lze takřka úplně korigovat větším volním úsilím",
+      "d) v terapii se doporučují parasympatomimetika"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je běžná porucha postihující zhruba polovinu těhotných žen",
+      "c) její projevy lze takřka úplně korigovat větším volním úsilím"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "5. Bonding",
+    "answers": [
+      "a) je termín znamenající vytváření vazby matky (event, otce) a dítěte",
+      "b) začíná už během těhotenství",
+      "c) rozhodující pro jeho průběh je období bezprostředně následující po porodu",
+      "d) při anamnéze perinatálního úmrtí je urychlen"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je termín znamenající vytváření vazby matky (event, otce) a dítěte",
+      "b) začíná už během těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "6. Syndrom Miinchhausenův by proxy v těhotenství",
+    "answers": [
+      "a) je projevem vysokého stupně alexitymie",
+      "b) je jiný termín pro předstírané těhotenství",
+      "c) je název pro stav, kdy žena předstírá patologii plodu",
+      "d) je pojmenován podle barona Prášila"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) je projevem vysokého stupně alexitymie",
+      "c) je název pro stav, kdy žena předstírá patologii plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "7. Couvade",
+    "answers": [
+      "a) je synonymum pro bonding, tj. vytváření vazby rodiče a dítěte (zde z francouzštiny: couver - hnízdit)",
+      "b) je termín pro «stavění hnízda« v posledních šesti týdnech těhotenství",
+      "c) znamená přítomnost somatických symptomů u partnerů těhotných žen",
+      "d) začíná obvykle ve 3-4 měsíci těhotenství"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) znamená přítomnost somatických symptomů u partnerů těhotných žen",
+      "d) začíná obvykle ve 3-4 měsíci těhotenství"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "8. Ultrazvukové vyšetření v časné graviditě",
+    "answers": [
+      "a) urychluje rozvoj vazby matky a plodu",
+      "b) komplikuje rozvoj vazby matky a plodu (následek toho, že plod je viditelný dřív, než žena cítí pohyby, a nemůže tak normálně proběhnout první fáze adaptace)",
+      "c) vede к poklesu úzkosti těhotné ženy",
+      "d) asi u 10% těhotných lze nalézt obavy z možného negativního vlivu ultrazvuku na plod"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) vede к poklesu úzkosti těhotné ženy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "9. Úzkost při provádění amniocentézy",
+    "answers": [
+      "a) je zaměřena na výkon",
+      "b) je zaměřena na výsledek",
+      "c) je vyšší u žen vyššího věku",
+      "d) je nejvyšší během čekání na výsledek"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) je zaměřena na výsledek"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "10. Benzodiazepiny v těhotenství",
+    "answers": [
+      "a) jsou absolutně kontraindikovány",
+      "b) při dlouhodobém užívání mohou být příčinou abstinenčního syndromu novorozence",
+      "c) příležitostné užívání ve U. а III. trimestru je bezpečné",
+      "d) aplikace intra partům je bezpečná"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) při dlouhodobém užívání mohou být příčinou abstinenčního syndromu novorozence",
+      "c) příležitostné užívání ve U. а III. trimestru je bezpečné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "11. Při terapii deprese v těhotenství",
+    "answers": [
+      "a) elektrošoky jsou bezpečné",
+      "b) lithium je bezpečné",
+      "c) tricyklická antidepresiva jsou bezpečná",
+      "d) inhibitory zpětného vychytávání serotoninu jsou bezpečné"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) elektrošoky jsou bezpečné",
+      "c) tricyklická antidepresiva jsou bezpečná",
+      "d) inhibitory zpětného vychytávání serotoninu jsou bezpečné"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "12. Teratogenní účinek se může projevit při užívání",
+    "answers": ["a) fenothiazinů", "b) lithia", "c) alkoholu", "d) kokainu"],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) lithia", "c) alkoholu", "d) kokainu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "13. Riziko pro plod je vyšší",
+    "answers": [
+      "a) při kouření tabáku než při kouření marihuany",
+      "b) při příležitostném pití kávy než při příležitostném užívání benzodiazepinů",
+      "c) při terapii inhibitory monoaminooxidázy než při terapii lithiem",
+      "d) při abúzu kokainu než při abúzu heroinu"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) při kouření tabáku než při kouření marihuany",
+      "d) při abúzu kokainu než při abúzu heroinu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "14. Kouření tabáku v těhotenství",
+    "answers": [
+      "a) snižuje výskyt mimoděložního těhotenství",
+      "b) snižuje výskyt předčasného odloučení placenty",
+      "c) snižuje výskyt preeklampsie",
+      "d) snižuje výskyt syndromu nezralých plic (RDS) novorozence"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) snižuje výskyt preeklampsie",
+      "d) snižuje výskyt syndromu nezralých plic (RDS) novorozence"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "15. Kouření tabáku v těhotenství",
+    "answers": [
+      "a) zvyšuje výskyt časných potratů (do konce III. měsíce)",
+      "b) zvyšuje výskyt pozdních potratů (od IV. měsíce)",
+      "c) zvyšuje výskyt preeklampsie",
+      "d) zvyšuje výskyt novorozenecké žloutenky"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) zvyšuje výskyt pozdních potratů (od IV. měsíce)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "16. Transdermální substituce nikotinem u těhotných kuřaček ve srovnání s kouřením",
+    "answers": [
+      "a) výskyt komplikací ze strany plodu neovlivňuje",
+      "b) výskyt komplikací ze strany plodu zvyšuje",
+      "c) výskyt komplikací ze strany plodu snižuje",
+      "d) je kontraindikována"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) výskyt komplikací ze strany plodu snižuje"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "17. Do fetálního akoholového syndromu nepatří",
+    "answers": [
+      "a) zkrácené rozšířené filtrům",
+      "b) mikrocefalie",
+      "c) hypotrofie asymetrického typu",
+      "d) dlouhé palpebrální štěrbiny"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) zkrácené rozšířené filtrům",
+      "c) hypotrofie asymetrického typu",
+      "d) dlouhé palpebrální štěrbiny"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "18. Abúzus kokainu v těhotenství může způsobit",
+    "answers": [
+      "a) mikrocefalii",
+      "b) intrakraniální krvácení",
+      "c) abrupci placenty",
+      "d) překotný porod"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) mikrocefalii",
+      "b) intrakraniální krvácení",
+      "c) abrupci placenty",
+      "d) překotný porod"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "19. Při sportování v těhotenství nastává redistribuce oběhu z dělohy a splanchnické oblasti do svaloviny",
+    "answers": [
+      "a) jestliže intenzita cvičení přesahuje 20 % VO2max",
+      "b) jestliže intenzita cvičení přesahuje 35 % VO2max",
+      "c) jestliže intenzita cvičení přesahuje 50 % VO2max",
+      "d) jestliže intenzita cvičení přesahuje 65 % VO2max"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) jestliže intenzita cvičení přesahuje 50 % VO2max",
+      "d) jestliže intenzita cvičení přesahuje 65 % VO2max"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "20. Příznivý vliv sportování v těhotenství spočívá ve",
+    "answers": [
+      "a) zkrácení první doby porodní",
+      "b) zkrácení druhé doby porodní",
+      "c) snížení výskytu těhotenského diabetů",
+      "d) snížení výskytu preeklampsie"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) snížení výskytu těhotenského diabetů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "21. Vomitus matutinus",
+    "answers": [
+      "a) může začít i ve 3 měsíci gravidity",
+      "b) obvykle přestává do konce 4 měsíce gravidity",
+      "c) koreluje s nižší porodní hmotností",
+      "d) je provázen váhovým úbytkem těhotné ženy"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) obvykle přestává do konce 4 měsíce gravidity"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "22. Emesis gravidarum je častější",
+    "answers": [
+      "a) u plodů ženského pohlaví",
+      "b) u kuřaček",
+      "c) u vysokoškolaček",
+      "d) u plodů s Downovým syndromem"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) u plodů ženského pohlaví",
+      "d) u plodů s Downovým syndromem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "23. V terapii těžkých případů emesis gravidarum se uplatní",
+    "answers": [
+      "a) antihistaminika",
+      "b) trankvilizéry",
+      "c) kortikosteroidy",
+      "d) thiamin"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "a) antihistaminika",
+      "c) kortikosteroidy",
+      "d) thiamin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "24. U žen prenatálně exponovaných diethylstilbestrolu jsou přítomny",
+    "answers": [
+      "a) změny sexuality (vyšší výskyt homosexuality, hypolibidie)",
+      "b) nižší IQ",
+      "c) obavy z karcinomu",
+      "d) vyšší výskyt leváctví"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) obavy z karcinomu", "d) vyšší výskyt leváctví"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "25. O Lamazově metodě platí",
+    "answers": [
+      "a) vynalezl ji Velvovskij",
+      "b) vynalezl ji Lamaze",
+      "c) vynalezl ji Dick-Read",
+      "d) nemá jediného autora, vyvinula se časem z tradičních metod přípravy к porodu"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["a) vynalezl ji Velvovskij"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "26. Lamazova metoda",
+    "answers": [
+      "a) spočívá v nejméně 4 besedách s těhotnými",
+      "b) těhotenský tělocvik je její nedílnou součástí",
+      "c) je synonymum pro porodnickou psychoprofylaxi",
+      "d) je neslučitelná s porodnickou farmakoanalgezií"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) je synonymum pro porodnickou psychoprofylaxi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "27. Na porodní bolesti se zapomíná, což je způsobeno účinkem",
+    "answers": [
+      "a) endorfinů",
+      "c) kortikosteroidů",
+      "d) ACTH",
+      "d) oxytocinu"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) ACTHd) oxytocinu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "28. Přítomnost otce u porodu v západní kultuře se prvně objevuje",
+    "answers": [
+      "a) v antice",
+      "b) v renesanci",
+      "c) ve druhé polovině 19 století",
+      "d) ve druhé polovině 20 století"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["d) ve druhé polovině 20 století"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "29. Zavedení polohy rodičky vleže na zádech",
+    "answers": [
+      "a) souviselo s neklidem rodičky při použití klasických metod porodnické analgezie (metoda mrákotného",
+      "spánku)",
+      "b) souviselo se snazším prováděním porodnického forcepsu",
+      "c) souviselo se sexuální deviací Ludvíka XIV.",
+      "d) objevilo se kolem roku 1800"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) souviselo se sexuální deviací Ludvíka XIV."],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "30. Mezi zásady Leboyerovy metody nepatří",
+    "answers": [
+      "a) podvaz pupečníku až poté, co dotepal",
+      "b) umístění dítěte do ošetřovacího boxu s teplotou 38 °C",
+      "c) umístění dítěte do vany s teplotou 38 °C",
+      "d) odsátí hlenů z dýchacích cest"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) umístění dítěte do ošetřovacího boxu s teplotou 38 °C",
+      "d) odsátí hlenů z dýchacích cest"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "31. Poporodní blues",
+    "answers": [
+      "a) v terapii se uplatní inhibitory zpětného vychytávání serotoninu",
+      "b) postihuje méně než 50% nedělek",
+      "c) nemá žádný klinický význam",
+      "d) typická je pro něj »suchá depresee, tj. bez pláče"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["c) nemá žádný klinický význam"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "32. Výskyt poporodního blues koreluje",
+    "answers": [
+      "a) s psychiatrickou anamnézou",
+      "b) s premenstruačním syndromem před otěhotněním",
+      "c) s preeklampsií",
+      "d) s nižším sociálním statutem"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": ["b) s premenstruačním syndromem před otěhotněním"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "33. Suicidium v šestinedělí",
+    "answers": [
+      "a) je častější než u »normálních« žen (stejného věku)",
+      "b) je méně časté než u »normálních« žen, ale častější než u těhotných žen (stejného věku)",
+      "c) je méně časté než u těhotných žen (stejného věku)",
+      "d) je vzácné u zdravých nedělek, ale riziko je vysoké u žen s poporodní depresí"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) je méně časté než u »normálních« žen, ale častější než u těhotných žen (stejného věku)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "34. Laktační psychózy",
+    "answers": [
+      "a) souvisí s tvorbou mléka a zlepší se po zástavě laktace",
+      "b) mají obvykle specifický klinický obraz charakterizovaný amentním stavem",
+      "c) léčba se neliší od psychóz bez souvislosti s reprodukcí",
+      "d) nejčastější je deprese"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "c) léčba se neliší od psychóz bez souvislosti s reprodukcí",
+      "d) nejčastější je deprese"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "35. S kojením negativně koreluje",
+    "answers": [
+      "a) vyšší vzdělání ženy",
+      "b) užití umělé výživy v prvních dnech po porodu",
+      "c) délka poporodní amenorhey",
+      "d) brzké znovuobnovení sexuálního života"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) užití umělé výživy v prvních dnech po porodu",
+
+      "d) brzké znovuobnovení sexuálního života"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "36. Po perinatálním úmrtí",
+    "answers": [
+      "a) dítě matce neukazujeme vzhledem к vysokému riziku panické reakce",
+      "b) dítě matce ukazujeme jako prevenci pozdějších pocitů nereality",
+      "c) adaptace matky je snazší v případech, kdy dítě nějakou dobu žilo",
+      "d) adaptace matky je snažší v případech, kdy se dítě narodilo mrtvé"
+    ],
+    "book": ["Živný"],
+    "topic": ["19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ"],
+    "correctAnswers": [
+      "b) dítě matce ukazujeme jako prevenci pozdějších pocitů nereality",
+      "c) adaptace matky je snazší v případech, kdy dítě nějakou dobu žilo"
+    ],
+    "description": [""],
+    "img": [""]
   }
 ]
