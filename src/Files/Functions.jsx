@@ -86,262 +86,203 @@
 //   };
 const Functions = () => {
   const text = `
-  1. Mezi známky donošenosti patří
-  a) rýhovaní plosek
-  b) nevýbavný Moroův reflex
-  c) uzavřená velká fontanela
-  d) dobře vyvinutá chrupavka ušních boltců
-  2. Co je neonatální úmrtnost
-  a) mrtvorozenost a úmrtnost novorozenců do 7 dne
-  b) úmrtnost novorozenců mezi 8-28 dnem
-  c) úmrtnost novorozenců mezi l-28 dnem
-  d) úmrtnost v 1 roce života
-  3. Jakou hmotnost má hypotrofický novorozenec
-  a) pod 2500 g
-  b) pod 1500g
-  c) pod 10 percentil odpovídající délce těhotenství
-  d) pod 20 percentil odpovídající délce těhotenství
-  4. Jaké onemocnění matky není absolutní kontraindikací kojení
-  a) hepatitida В
-  b) hepatitida C
-  c) febrilie 38 °C
-  d) ragády bradavek
-  5. Při jaké konstelaci hrozí hemolytická nemoc novorozence
-  a) matka Rh pozitivní, novorozenec Rh negativní
-  b) matka krevní skupina A, novorozenec krevní skupina 0
-  c) matka krevní skupina 0, novorozenec krevní skupina В
-  d) matka krevní skupina 0, novorozenec krevní skupina A
-  6. Jaká jsou kritéria těžké perinatální asfyxie
-  a) pH z pupečníkové arterie pod 7,0 a BE pod -15
-  b) Apgarové skóre v 1 minutě 3-5 bodů
-  c) křeče v časném novorozeneckém období
-  d) multiorgánová hypoxicko-ischemická dysfunkce
-  7. Odsátí nosohltanu novorozence po porodu
-  a) provádíme u všech novorozenců
-  b) provádíme pouze u novorozenců nedonošených
-  c) provádíme u mekoniem zkalené plodové vody
-  d) může způsobit reflexní bradykardii
-  8. Při kardiopulmonální resuscitaci je poměr kompresí hrudníku a vdechů
-  a) 2 : 1
-  b) 3 : 1
-  c) 4 : 1
-  d) 5 : 1
-  9. Při farmakologické resuscitaci používáme
-  a) adrenalin
-  b) 8,4% bikarbonát
-  c) fyziologický roztok
-  d) Ringerův roztok
-  10. Co patří mezi příznaky velké brániční kýly
-  a) po porodu dyspnoe a cyanóza
-  b) vpadlé člunkovité bříško
-  c) zvracení
-  d) žádný z výše jmenovaných příznaků
-  11. Jaké mohou být následky a komplikace aspirace mekonia
-  a) perzistující plicní hypertenze
-  b) pneumonitida
-  c) pneumotorax
-  d) dyspnoe a cyanóza
-  12. Co patří к příznakům diabetické fetopatie novorozence
-  a) spinální ageneze
-  b) zvýšený výskyt vrozených srdečních vad
-  c) hyperglykémie
-  d) hyperbilirubinémie
-  13. Fyziologické rozmezí dechové frekvence u zdravého donošeného novorozence činí
-  a) 20-40 dechů/min
-  b) 40-60 dechů/min
-  c) 60-80 dechů/min
-  d) 80-100 dechů/min
-  14. Při odsávám novorozence na porodním sále používáme odsávací podtlak
-  a) 3-5 cm H20
-  b) 6-8cmH,0
-  c) 9-10cmH20
-  d) 10-15cmH20
-  15. Mezi výhody kojení patří
-  a) ochrana před průjmy
-  b) nižší riziko výskytu alergických onemocnění v dětském věku
-  c) nižší riziko výskytu cukrovky v dětském věku
-  d) nižší výskyt fenylketonurie
-  16. Hypotermií jsou ohroženi hlavně novorozenci
-  a) přenášení
-  b) nedonošení
-  c) s Rh inkompatibilitou
-  d) s diabetickou fetopatií
-  17. Čím může být způsobena centrální cyanóza u novorozence
-a) chladovým stresem
-b) srdečními vadami s levo-pravým zkratem
-c) poruchami dýchání
-d) perzistující plicní hypertenzí
-18. Při hyperbilirubinémii ohrožuje novorozence jádrovým ikterem
-a) bilirubin konjugovaný
-b) bilirubin nekonjugovaný
-c) bilirubin konjugovaný i nekonjugovaný
-d) rozpadové produkty bilirubinu
-19. Jaké symptomy má hormonální reakce novorozence, způsobená transplacentárním přestupem mateřských hormonů
-a) kožní erytém
-b) vaginální fluor
-c) zduření prsních žláz (Halbanova reakce)
-d) hyperbilirubinémii
-20. U jaké vrozené vývojové vady nalézáme polyhydramnion
-a) ageneze ledvin
-b) hypoplazie levého srdce
-c) obstrukční hydrocefalus
-d) atrézie jícnu
-21. Dlouhodobé podávání steroidů v perinatálním období
-a) má negativní vliv na alveolarizaci plic
-b) způsobuje hypoglykémii
-c) může negativně ovlivnit vývoj centrálního nervového systému
-d) může způsobit hyperglykémii
-22. Pulsním oxymetrem měříme
-a) parciální tlak kyslíku (pO2)
-b) acidobazickou rovnováhu
-c) saturaci hemoglobinu kyslíkem (SpO2)
-d) koncentraci kyslíku v inkubátoru
-23. Mezi klinické známky infekce novorozence patří
-a) apnoické pauzy
-b) termolabilita
-c) letargie
-d) žádný z výše jmenovaných příznaků
-24. Aspirace mekonia u novorozence
-a) vzniká vždy až po porodu
-b) ve většině případů vzniká prepartálně
-c) souvisí s perinatální hypoxií
-d) bývá vždy spojena s vrozenou vývojovou vadou trávicího ústrojí
-25. Které reflexy řadíme mezi základní novorozenecké
-a) hledači a sací
-b) úchopový
-c) Moroův
-d) optikofaciální
-26. Mateřské mléko
-a) má vyšší obsah bílkovin než mléko kravské
-b) obsahuje sekreční imunoglobulin A
-c) neobsahuje kalcium a fosfor
-d) má nižší obsah bílkovin než mléko kravské
-27. U galaktosémie novorozence
-a) bývá hyperbilirubinémie
-b) je kontraindikováno kojení
-c) bývá letargie
-d) ve výživě se doporučují hydrolyzáty bílkovin
-28. V léčbě hyperbilirubinémie se používá
-a) kontinuální fototerapie
-b) intermitentní fototerapie
-c) infúze glukózy
-d) výměnná transfúze
-29. Mezi časné formy adnátní В streptokokové infekce novorozenců patří
-a) sepse
-b) pneumonie
-c) meningitida
-d) otitida
-30. Mikrocefalie donošeného novorozence má obvod hlavy (označte hraniční hodnotu)
-a) pod 35 cm
-b) pod 33 cm
-c) pod 31 cm
-d) pod 29 cm
-31. V jakém rozsahu je poranění u horního typu parézy plexus brachialis (Duchenne-Erb)
-a) C3-C4
-b) C5-C6
-c) C7-TM
-d) Th2-Th3
-32. Jaké jsou rizikové faktory pro vznik náhlého úmrtí kojence (SIDS)
-a) ve spánku poloha na zádech
-b) přehřátá místnost
-c) ve spánku poloha na bříšku
-d) úmrtí sourozence na SIDS
-33. Kritické srdeční vady se v novorozeneckém období projevují
-a) vždy šelestem
-b) centrální cyanózou
-c) srdečním selháním
-d) vždy poruchami dýchání
-34. Spontánní plášťový pneumotorax u donošeného novorozence
-a) se projeví vždy cyanózou a dyspnoí
-b) může být i klinicky němý
-c) vyžaduje vždy zavedení hrudního sání
-d) v léčbě vystačíme ve většině případů s oxygenoterapií
-35. Jaké je fyziologické rozmezí leukocytů novorozence 1 den
-a) 5-8 -1071
-b) 9-45 109/l
-c) 5-15 -109/l
-d) 9-36 -1071
-36. Milia jsou
-a) pigmentové névy
-b) typickým příznakem stafylodermie
-c) retenční cystičky mazových žláz
-d) drobné hemangiomy
-37. Jaké léky se používají v léčbě abstinenčního syndromu novorozence u matek drogově závislých
-a) Fenobarbital
-b) opiová tinktura
-c) Synthofyllin
-d) Naloxon
-38. Anhydramnion v průběhu těhotenství
-a) způsobuje polohové deformity u novorozence
-b) může vést к hypoplazii plic novorozence
-c) je následkem hypoplazie levého srdce
-d) bývá následkem ageneze ledvin
-39. Jak hluboko má být zavedena endotracheální cévka u novorozence s hmotností 2000 g
-a) 6cm
-b) 8 cm
-c) 10cm
-d) 12cm
-40. Mezi screeningová vyšetření novorozence patří vyšetření
-a) fenylketonurie
-b) hypotyreózy
-c) kyčelních kloubů
-d) galaktosémie
-41. Mezi porodní poranění novorozence nepatří
-a) fraktura klíčku
-b) paréza nervus brachialis
-c) caput succedaneum
-d) fraktura dlouhých kostí
-42. Příčinou nekonjugované hyperbilirubinémie je
-a) intrahepatální cholestáza
-b) Rh izoimunizace
-c) zvýšená extravazální hemolýza u velkého kefalhematomu
-d) 0-A izoimunizace
-43. Vitamin К pro prevenci hemoragické nemoci novorozence podáváme
-a) i.m.
-b) i.v.
-c) p.o.
-d) jen nedonošeným novorozencům
-44. Mezi klinické příznaky respiračních onemocnění novorozenců patří
-a) periferní cyanóza
-b) grunting
-c) tachypnoe
-d) dyspnoe
-45. Co patří mezi rizikové faktory pro vznik adnátní infekce novorozence
-a) předčasně odteklá plodová voda (PROM) více než 18 hodin
-b) předčasný porod
-c) febrilie matky 38 °C a více
-d) přenášení
-46. Hypoxicko-ischemickou encefalopatii hodnotíme podle skóre
-a) Apgarové
-b) Finneganové
-c) Samata a Samatové
-d) žádná z odpovědí není správná
-47. Co patří mezi časté problémy nedonošených novorozenců
-a) retinopatie
-b) anémie
-c) gastroezofageální reflux
-d) leukopenie
-48. Během intrauterinního vývoje bývá u plodu zkrat přes foramen ovale a tepennou dučej
-a) levo-pravý
-b) pravo-levý
-c) bidirekční
-d) žádný
-49. Atrézie jícnu donošeného novorozence se po porodu projeví
-a) zvýšeným sliněním
-b) nemožností nasondovat žaludek
-c) zvracením
-d) hypoglykémií
-50. Mezi úvodní kroky resuscitace nedýchajícího a cyanotického novorozence na porodním sále patří
-a) zabezpečení průchodnosti dýchacích cest
-b) taktilní stimulace
-c) inhalace kyslíku
-d) aplikace bikarbonátu
+  1. V těhotenství
+  a) klesá práh vnímání bolesti
+  b) prodlužuje se reakční doba
+  c) klesá chuť slaného
+  d) klesá chuť sladkého
+  2. Pica u těhotných znamená
+  a) odpor к některým speciálním pachům
+  b) nutkavou chuť na kyselá jídla
+  c) pojídání substancí, obvykle pokládaných za nejedlé
+  d) různé změny chutě v těhotenství
+  3. Nejčastější příčinou těhotenských úzkostí jsou
+  a) obavy z poškození plodu
+  b) hormonální změny (vzestup katecholestrogenů)
+  c) obavy z ekonomických změn po porodu
+  d) obavy z výchovy dítěte
+  4. Benigní těhotenská encefalopatie
+  a) je běžná porucha postihující zhruba polovinu těhotných žen
+  b) je název specifického neurologického syndromu, který souvisí s vyšším intracerebrálním tlakem
+  c) její projevy lze takřka úplně korigovat větším volním úsilím
+  d) v terapii se doporučují parasympatomimetika
+  5. Bonding
+  a) je termín znamenající vytváření vazby matky (event, otce) a dítěte
+  b) začíná už během těhotenství
+  c) rozhodující pro jeho průběh je období bezprostředně následující po porodu
+  d) při anamnéze perinatálního úmrtí je urychlen
+  6. Syndrom Miinchhausenův by proxy v těhotenství
+  a) je projevem vysokého stupně alexitymie
+  b) je jiný termín pro předstírané těhotenství
+  c) je název pro stav, kdy žena předstírá patologii plodu
+  d) je pojmenován podle barona Prášila
+  7. Couvade
+  a) je synonymum pro bonding, tj. vytváření vazby rodiče a dítěte (zde z francouzštiny: couver - hnízdit)
+  b) je termín pro «stavění hnízda« v posledních šesti týdnech těhotenství
+  c) znamená přítomnost somatických symptomů u partnerů těhotných žen
+  d) začíná obvykle ve 3-4 měsíci těhotenství
+  8. Ultrazvukové vyšetření v časné graviditě
+  a) urychluje rozvoj vazby matky a plodu
+  b) komplikuje rozvoj vazby matky a plodu (následek toho, že plod je viditelný dřív, než žena cítí pohyby, a nemůže tak normálně proběhnout první fáze adaptace)
+  c) vede к poklesu úzkosti těhotné ženy
+  d) asi u 10% těhotných lze nalézt obavy z možného negativního vlivu ultrazvuku na plod
+  9. Úzkost při provádění amniocentézy
+  a) je zaměřena na výkon
+  b) je zaměřena na výsledek
+  c) je vyšší u žen vyššího věku
+  d) je nejvyšší během čekání na výsledek
+  10. Benzodiazepiny v těhotenství
+  a) jsou absolutně kontraindikovány
+  b) při dlouhodobém užívání mohou být příčinou abstinenčního syndromu novorozence
+  c) příležitostné užívání ve U. а III. trimestru je bezpečné
+  d) aplikace intra partům je bezpečná
+  11. Při terapii deprese v těhotenství
+  a) elektrošoky jsou bezpečné
+  b) lithium je bezpečné
+  c) tricyklická antidepresiva jsou bezpečná
+  d) inhibitory zpětného vychytávání serotoninu jsou bezpečné
+  12. Teratogenní účinek se může projevit při užívání
+  a) fenothiazinů
+  b) lithia
+  c) alkoholu
+  d) kokainu
+  13. Riziko pro plod je vyšší
+a) při kouření tabáku než při kouření marihuany
+b) při příležitostném pití kávy než při příležitostném užívání benzodiazepinů
+c) při terapii inhibitory monoaminooxidázy než při terapii lithiem
+d) při abúzu kokainu než při abúzu heroinu
+14. Kouření tabáku v těhotenství
+a) snižuje výskyt mimoděložního těhotenství
+b) snižuje výskyt předčasného odloučení placenty
+c) snižuje výskyt preeklampsie
+d) snižuje výskyt syndromu nezralých plic (RDS) novorozence
+15. Kouření tabáku v těhotenství
+a) zvyšuje výskyt časných potratů (do konce III. měsíce)
+b) zvyšuje výskyt pozdních potratů (od IV. měsíce)
+c) zvyšuje výskyt preeklampsie
+d) zvyšuje výskyt novorozenecké žloutenky
+16. Transdermální substituce nikotinem u těhotných kuřaček ve srovnání s kouřením
+a) výskyt komplikací ze strany plodu neovlivňuje
+b) výskyt komplikací ze strany plodu zvyšuje
+c) výskyt komplikací ze strany plodu snižuje
+d) je kontraindikována
+17. Do fetálního akoholového syndromu nepatří
+a) zkrácené rozšířené filtrům
+b) mikrocefalie
+c) hypotrofie asymetrického typu
+d) dlouhé palpebrální štěrbiny
+18. Abúzus kokainu v těhotenství může způsobit
+a) mikrocefalii
+b) intrakraniální krvácení
+c) abrupci placenty
+d) překotný porod
+19. Při sportování v těhotenství nastává redistribuce oběhu z dělohy a splanchnické oblasti do svaloviny
+a) jestliže intenzita cvičení přesahuje 20 % VO2max
+b) jestliže intenzita cvičení přesahuje 35 % VO2max
+c) jestliže intenzita cvičení přesahuje 50 % VO2max
+d) jestliže intenzita cvičení přesahuje 65 % VO2max
+20. Příznivý vliv sportování v těhotenství spočívá ve
+a) zkrácení první doby porodní
+b) zkrácení druhé doby porodní
+c) snížení výskytu těhotenského diabetů
+d) snížení výskytu preeklampsie
+21. Vomitus matutinus
+a) může začít i ve 3 měsíci gravidity
+b) obvykle přestává do konce 4 měsíce gravidity
+c) koreluje s nižší porodní hmotností
+d) je provázen váhovým úbytkem těhotné ženy
+22. Emesis gravidarum je častější
+a) u plodů ženského pohlaví
+b) u kuřaček
+c) u vysokoškolaček
+d) u plodů s Downovým syndromem
+23. V terapii těžkých případů emesis gravidarum se uplatní
+a) antihistaminika
+b) trankvilizéry
+c) kortikosteroidy
+d) thiamin
+24. U žen prenatálně exponovaných diethylstilbestrolu jsou přítomny
+a) změny sexuality (vyšší výskyt homosexuality, hypolibidie)
+b) nižší IQ
+c) obavy z karcinomu
+d) vyšší výskyt leváctví
+25. O Lamazově metodě platí
+a) vynalezl ji Velvovskij
+b) vynalezl ji Lamaze
+c) vynalezl ji Dick-Read
+d) nemá jediného autora, vyvinula se časem z tradičních metod přípravy к porodu
+26. Lamazova metoda
+a) spočívá v nejméně 4 besedách s těhotnými
+b) těhotenský tělocvik je její nedílnou součástí
+c) je synonymum pro porodnickou psychoprofylaxi
+d) je neslučitelná s porodnickou farmakoanalgezií
+27. Na porodní bolesti se zapomíná, což je způsobeno účinkem
+a) endorfinů
+c) kortikosteroidů
+d) ACTH
+d) oxytocinu
+28. Přítomnost otce u porodu v západní kultuře se prvně objevuje
+a) v antice
+b) v renesanci
+c) ve druhé polovině 19 století
+d) ve druhé polovině 20 století
+29. Zavedení polohy rodičky vleže na zádech
+a) souviselo s neklidem rodičky při použití klasických metod porodnické analgezie (metoda mrákotného
+spánku)
+b) souviselo se snazším prováděním porodnického forcepsu
+c) souviselo se sexuální deviací Ludvíka XIV.
+d) objevilo se kolem roku 1800
+30. Mezi zásady Leboyerovy metody nepatří
+a) podvaz pupečníku až poté, co dotepal
+b) umístění dítěte do ošetřovacího boxu s teplotou 38 °C
+c) umístění dítěte do vany s teplotou 38 °C
+d) odsátí hlenů z dýchacích cest
+31. Poporodní blues
+a) v terapii se uplatní inhibitory zpětného vychytávání serotoninu
+b) postihuje méně než 50% nedělek
+c) nemá žádný klinický význam
+d) typická je pro něj »suchá depresee, tj. bez pláče
+32. Výskyt poporodního blues koreluje
+a) s psychiatrickou anamnézou
+b) s premenstruačním syndromem před otěhotněním
+c) s preeklampsií
+d) s nižším sociálním statutem
+33. Suicidium v šestinedělí
+a) je častější než u »normálních« žen (stejného věku)
+b) je méně časté než u »normálních« žen, ale častější než u těhotných žen (stejného věku)
+c) je méně časté než u těhotných žen (stejného věku)
+d) je vzácné u zdravých nedělek, ale riziko je vysoké u žen s poporodní depresí
+34. Laktační psychózy
+a) souvisí s tvorbou mléka a zlepší se po zástavě laktace
+b) mají obvykle specifický klinický obraz charakterizovaný amentním stavem
+c) léčba se neliší od psychóz bez souvislosti s reprodukcí
+d) nejčastější je deprese
+35. S kojením negativně koreluje
+a) vyšší vzdělání ženy
+b) užití umělé výživy v prvních dnech po porodu
+c) délka poporodní amenorhey
+d) brzké znovuobnovení sexuálního života
+36. Po perinatálním úmrtí
+a) dítě matce neukazujeme vzhledem к vysokému riziku panické reakce
+b) dítě matce ukazujeme jako prevenci pozdějších pocitů nereality
+c) adaptace matky je snazší v případech, kdy dítě nějakou dobu žilo
+d) adaptace matky je snažší v případech, kdy se dítě narodilo mrtvé
+37. Při požívání alkoholu v těhotenství není známo somatické poškození plodu při dávce
+a) nižší než 10 g týdně
+b) nižší než 50 g týdně
+c) nižší než 100 g týdně
+d) nižší než 2 sklenky běžné velikosti týdně
+
+
 
   
 `;
 
   const answers = `
-done
+  1b,c 2c 3c 4a,c 5a,b 6a,c 7c,d 8c 9b
+  10b,c 11a,c,d 12b,c,d 13a,d 14c,d 15b 16c 17a,c,d 18a,b,c,d 19c,d
+  20c 21b 22a,d 23a,c,d 24c,d 25a 26c 27d 28d 29c
+  30b,d 31c 32b 33b 34c,d 35b,d 36b,c
   
   `;
   const correctNewAnswers = answers.split(' ');
@@ -389,7 +330,7 @@ done
         question: `${questionNumber + question}`,
         answers: newAnswers,
         book: ['Živný'], // Пример значения для поля "book"
-        topic: ['15. Fyziologie a patologie novorozence. I.ČÁST PREGRADUÁLNÍ'],
+        topic: ['19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ'],
         correctAnswers: myCorrectNewAnswers, // Массив с правильными ответами
       });
     }
