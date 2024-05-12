@@ -988,11 +988,12 @@
     "answers": [
       "nádor z alfa-buněk Langerhansových ostrůvků інсулін дійсно піднімається, але гіперінсулінізму не буде",
       "máme podezření na onemocnění Zollinger-Ellisonův",
-      "pacient s Diabetes mellitus a dostává nízké dávky inzulinu"
+      "pacient s Diabetes mellitus a dostává nízké dávky inzulinu",
+      "mnohočetné endokrinní neoplazie MEN I"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
-    "correctAnswers": ["máme podezření na onemocnění Zollinger-Ellisonův"],
+    "correctAnswers": ["mnohočetné endokrinní neoplazie MEN I"],
     "description": [
       "* asi jde o syndromu MEN I Nador produkujici inzulin (inzulinom, organický hyperinzulinizmus) je najčastejším nadorem pankreatu i tráviciho traktu. Byva lokalizovan v pankreatu, jen výjimečně extrapankreaticky, je většínou benigni a solitární.  Inzulinom může být součastí mnohočetné endokrinní neoplazie (MEN I) spolu s adenomem příštitneho těliška a hypofýzy. PK KLENER P. a kol.: Vnitřní lékařství, Galén str. 981-982  Langerhansovy ostrůvkyv: ostrůvcích A-buňky při periferii, produkující glukagon; početnější B-buňky centrálně uložené, produkující inzulin; Klinický obraz 1--Primární hyperparathyreóza – v rámci syndromu se vyskytuje s pravděpodobností 95–100 % a bývá také první manifestací. 2--Tumory endokrinního pankreatu – mohou být afunkční nebo hormonálně aktivní – nejčastěji gastrinom (60 %) nebo inzulinom(20 %). 3--Tumory hypofýzy – téměř vždy adenomy. Mohou být afunkční, v případě aktivity se téměř vždy jedná o prolaktinom. Součástí MEN 1 mohou být: adenomy nadledvin, karcinoid, podkožní lipomy, angiofibromy na tváři, kolagenomy, …  Wikiscripta "
     ],
