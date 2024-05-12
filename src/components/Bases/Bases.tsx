@@ -1,6 +1,10 @@
+import React from 'react';
 import { ConrainerBases, ContainerDescr } from './Bases.styled';
 
-const Bases = () => {
+const Bases: React.FC = () => {
+  // let num: number[] = [1, 2, 3, 4];
+  // num.push('4');
+  // num = '1';
   return (
     <ConrainerBases>
       <p>На сайте есть базы:</p>
