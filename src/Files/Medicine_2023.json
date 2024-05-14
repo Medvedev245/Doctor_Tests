@@ -2444,7 +2444,7 @@
     "img": [""]
   },
   {
-    "question": "151. Психиатия. Неврология",
+    "question": "151. Психиатия. Неврология SSRI-Selektivní inhibitor zpětného vychytávání serotoninu patři: 😊 ",
     "answers": [
       "Citalopram, Escitalopram, Fluoxetin, Fluvoxamin, Paroxetin, Sertralin",
       "různé druhy antibiotika"
@@ -2461,7 +2461,7 @@
   },
 
   {
-    "question": "152. Психиатия. Неврология",
+    "question": "152. Психиатия. Неврология Сo NEpatří k inhibitorům zpětného vychytávání serotoninu (SSRI) 😊 ",
     "answers": ["fluoxetine", "sertralin", "citalopram", "imipramin"],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
@@ -2473,7 +2473,7 @@
   },
 
   {
-    "question": "153. Психиатия. Неврология",
+    "question": "153. Психиатия. Неврология Který z léků patří k antidepresivům? (selekt. inhibitorům zpětného vychytávání serotoninu, SSRI)? 😊 ",
     "answers": ["fluoxetin, citalopram, sertralin"],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
@@ -2503,7 +2503,7 @@
   },
 
   {
-    "question": "155. Эндокринология",
+    "question": "155. Эндокринология Ke klinickému obrazu hypopituitarizmu NEpatří: 😊 ",
     "answers": ["pubertas praecox"],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
@@ -12732,11 +12732,12 @@
       "hydrazinoftalazinům",
       "metyldopu",
       "B-blokátorů",
-      "deprasolinu"
+      "deprasolinu",
+      "fanothiazin"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
-    "correctAnswers": ["hydrazinoftalazinům"],
+    "correctAnswers": ["fanothiazin"],
     "description": [
       "Antihypertenziva podáváme při diastole nad 95, tlak snižujeme pomalu (hrozí hypoxie plodu). Lékem první volby je metyldopa, dále lze použít betablokátory (Vasokardin), blokátory kalciového kanálu (Cordipin). V akutních stavech podáváme Dihydralazin-Nepresol (klesá cévní rezistence). Wikiskripta"
     ],
@@ -15862,7 +15863,17 @@
       "myokarditida",
       "pleuritida",
       "glomerulonefritida",
-      "artritida",
+      "artritida"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["myokarditida"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "983. Tzv. Libmanova-Sacksova endokarditida se vyskytuje u (Klener) Interna",
+    "answers": [
       "systémového lupus erythematodes",
       "ankylózující spondylitidy",
       "psoriatické artritidy",
@@ -15870,7 +15881,7 @@
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
-    "correctAnswers": ["myokarditida", "systémového lupus erythematodes"],
+    "correctAnswers": ["systémového lupus erythematodes"],
     "description": [""],
     "img": [""]
   },
