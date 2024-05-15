@@ -1,7 +1,15 @@
-import React from 'react';
+import React, { FC } from 'react';
 import { Button } from './BurgerComponent.styled';
 
-export const BurgerComponent = ({ isActive, onClick }) => {
+interface BurgerComponentProps {
+  isActive: Boolean;
+  onClick: () => void;
+}
+
+export const BurgerComponent: FC<BurgerComponentProps> = ({
+  isActive,
+  onClick,
+}) => {
   return (
     <Button
       onClick={() => {
