@@ -86,7 +86,7 @@ const AllTests = () => {
   };
 
   const addToFavorite = test => {
-    console.log(test);
+    // console.log(test);
     const isAlreadyAdded = picedQuestions.find(
       item => item.question === test.question
     );

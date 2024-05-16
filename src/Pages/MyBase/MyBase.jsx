@@ -28,7 +28,6 @@ const MyBase = () => {
 
   const testsQuantity = myQuestions.length;
 
-  console.log(testsQuantity);
   const openModal = question => {
     // Передаем вопрос в функцию openModal
     setSelectedQuestion(question); // Устанавливаем выбранный вопрос
@@ -52,8 +51,6 @@ const MyBase = () => {
   };
 
   const addToFavorite = test => {
-    console.log(test);
-
     // // Если элемент уже добавлен, то удаляем его
 
     const updatedCollection = myQuestions.filter(
@@ -67,7 +64,7 @@ const MyBase = () => {
 
   const handleSearchInputChange = debounce(event => {
     setSearchQuery(event.target.value);
-    console.log(searchQuery);
+    // console.log(searchQuery);
   }, 500);
 
   const filteredQuestions = myQuestions.filter(question =>
