@@ -4,7 +4,7 @@ import { CanalLisl, CanalElement, MainText, SmallText } from './Canals.styled';
 import icon from '../../Files/img/youtube-svgrepo-com.png';
 
 const Canals = () => {
-  console.log(VideoCanals);
+  // console.log(VideoCanals);
   return (
     <>
       <CanalLisl>
