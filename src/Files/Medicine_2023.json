@@ -17938,6 +17938,22 @@
     ],
     "img": [""]
   },
+  {
+    "question": "S hypokalcémií se nesetkáváme u (Klener)",
+    "answers": [
+      "Sarkoidózy",
+      "Hypoparatyreózy",
+      "generalizace karcinomu do skeletu",
+      "celiakální sprue"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Sarkoidózy", "generalizace karcinomu do skeletu"],
+    "description": [
+      "Klinický obraz renální selhání - AKI: edémy, oligurie, letargie hyperkalemie: srdeční arytmie, nausea, průjem hypokalcemie: spasmy"
+    ],
+    "img": [""]
+  },
 
   {
     "question": "1117. Typické pro generalizaci nádoru:😊???? Interna",
@@ -17947,11 +17963,7 @@
       "zvýšená alkalická fosfatáza",
       "zvýšené jaterní enzymy",
       "snížení hladiny cholesterolu",
-      "zvýšený draslík",
-      "Sarkoidózy",
-      "Hypoparatyreózy",
-      "generalizace karcinomu do skeletu",
-      "celiakální sprue"
+      "zvýšený draslík"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
@@ -17961,9 +17973,7 @@
       "zvýšená alkalická fosfatáza",
       "zvýšené jaterní enzymy",
       "snížení hladiny cholesterolu",
-      "zvýšený draslík",
-      "Sarkoidózy",
-      "generalizace karcinomu do skeletu"
+      "zvýšený draslík"
     ],
     "description": [""],
     "img": [""]
@@ -20793,6 +20803,17 @@
     ],
     "img": [""]
   },
+  {
+    "question": "1296. Průjem po ATB (antibiotikách) vyvolán: 😊",
+    "answers": ["Clostridium"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Clostridium"],
+    "description": [
+      "Pseudomembranózní enterokolitida je závažnou, život ohrožující komplikací u nemocných léčených širokospektrálnimi antibiotiky, která narušují přirozenou mikroflóru a vedou ke střevní dysmikrobii. Z hlediska patogeneze mají hlavní roli toxiny Clostridium difficile. Základní opatření zahrnuje přerušení dosavadní ATB terapie a metronidazol perorálně po dobu 10–14 dnů. Vankomycin se podává perorálně v závažných případech, kvůli riziku rozšíření vankomycin-rezistentního enterokoka. Novou, selektivní terapii umožňuje makrolidové antibiotikum fidaxomycin, jehož nevýhodou je zatím vysoká cena."
+    ],
+    "img": [""]
+  },
 
   {
     "question": "1297. Co bude s dítětem, narozeným od matky s DM? 😊",
@@ -20800,12 +20821,7 @@
       "Fetální hypertrofie (plodu)",
       "IUGR Intrauterinní růstové restrikce *nitroděložní zpomalení růstu",
       "Hrozba narušení placenty",
-      "krvácení",
-      "makrosomie (maternální hyperglykemie → fetální hyperinzulinemie);",
-      "hypotrofie (small for gestational age, SGA, při renálních, retinálních a kardiálních komplikacích matky);",
-      "metabolické poruchy: hypoglykemie v prvních hodinách života díky vysoké plazmatické hladině inzulinu, hypokalcemie v prvních dnech života, hypomagnezemie při hypomagnezemii matky);",
-      "kardiorespirační poruchy: perinatální asfyxie, syndrom dechové tísně v důsledku opožděné maturaci plic a plicního surfaktantu, tranzitorní tachypnoe novorozence, hypertrofická kardiomyopatie a hypertrofie septa;",
-      "hematologické poruchy: hyperbilirubinemie, polycytemie a hyperviskozita;"
+      "krvácení"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
