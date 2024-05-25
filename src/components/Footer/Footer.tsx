@@ -1,3 +1,4 @@
+import React from 'react';
 import {
   FooterContainer,
   SvgIcons,
@@ -6,7 +7,7 @@ import {
   SpanFooter,
 } from './Footer.styled';
 
-export const Footer = () => {
+export const Footer: React.FC = () => {
   return (
     <FooterContainer>
       <SpanFooter>&copy; 2024 Lékařské Zkoušky Online</SpanFooter>
