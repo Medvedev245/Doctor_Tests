@@ -3,11 +3,11 @@ import VideoCanals from '../../Files/VideoCanals.json';
 import { CanalLisl, CanalElement, MainText, SmallText } from './Canals.styled';
 import icon from '../../Files/img/youtube-svgrepo-com.png';
 
-interface VideoChannel {
-  link: string;
-  channel: string;
-  smallDescr: string;
-}
+// interface VideoChannel {
+//   link: string;
+//   channel: string;
+//   smallDescr: string;
+// }
 
 const Canals = () => {
   // console.log(VideoCanals);

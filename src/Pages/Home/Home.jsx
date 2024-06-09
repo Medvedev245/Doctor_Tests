@@ -16,6 +16,7 @@ import {
   ChoosenElement,
 } from './Home.styled';
 import { Button } from 'Pages/Tests/Tests.styled';
+// import Bases from 'components/Bases/Bases.tsx';
 import Bases from 'components/Bases/Bases';
 import { Select } from 'Pages/AllTests/AllTests.styled';
 

@@ -330,7 +330,11 @@ d) nižší než 2 sklenky běžné velikosti týdně
         question: `${questionNumber + question}`,
         answers: newAnswers,
         book: ['Živný'], // Пример значения для поля "book"
+<<<<<<< Updated upstream
         topic: ['19. Psychosomatika v porodnictví. I.ČÁST PREGRADUÁLNÍ'],
+=======
+        topic: ['15. Fyziologie a patologie novorozence. II.ČÁST PREGRADUÁLNÍ'],
+>>>>>>> Stashed changes
         correctAnswers: myCorrectNewAnswers, // Массив с правильными ответами
       });
     }
