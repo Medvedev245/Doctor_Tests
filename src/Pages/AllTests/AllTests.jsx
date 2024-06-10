@@ -86,7 +86,6 @@ const AllTests = () => {
   };
 
   const addToFavorite = test => {
-    // console.log(test);
     const isAlreadyAdded = picedQuestions.find(
       item => item.question === test.question
     );
@@ -99,7 +98,6 @@ const AllTests = () => {
       setPickedQuestions(updatedCollection);
       localStorage.setItem('myCollection', JSON.stringify(updatedCollection));
       Notify.warning('Test odstraněn z oblíbených');
-      // console.log(updatedCollection.length);
       return;
     }
 
@@ -107,13 +105,11 @@ const AllTests = () => {
     const updatedCollection = [...picedQuestions, test];
     setPickedQuestions(updatedCollection);
     localStorage.setItem('myCollection', JSON.stringify(updatedCollection));
-    // console.log(collection.length);
     Notify.success('Test přidán do oblíbených');
   };
 
   const handleSearchInputChange = debounce(event => {
     setSearchQuery(event.target.value);
-    // console.log(searchQuery);
   }, 500);
 
   const filteredQuestions = allTests.filter(question =>
