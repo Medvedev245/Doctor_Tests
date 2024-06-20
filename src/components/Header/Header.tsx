@@ -15,8 +15,8 @@ import { BurgerComponent } from 'components/BurgerComponent/BurgerComponent';
 import { BlurBackground } from 'components/BlurBackground/BlurBackground';
 import { StyleSheetManager } from 'styled-components';
 
-export const Header = () => {
-  const [isOpen, setIsOpen] = useState(false);
+export const Header: React.FC = () => {
+  const [isOpen, setIsOpen] = useState<boolean>(false);
 
   const dispatch = useDispatch();
   // Проверяем, существует ли значение 'myCollection' в localStorage и извлекаем его
@@ -48,7 +48,7 @@ export const Header = () => {
             <Text>Lékařské Zkoušky Online</Text>
           </LinkLogo>
         </ImageContainer>
-        <BurgerComponent onClick={toggleMenu} />
+        <BurgerComponent onClick={toggleMenu} isActive={isOpen} />
         <ContainerData isOpen={isOpen}>
           <LinkElement to="/" onClick={closeMenu}>
             Main Page

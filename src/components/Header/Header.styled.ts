@@ -1,6 +1,11 @@
 import styled from 'styled-components';
 import { NavLink } from 'react-router-dom';
 
+// Определяем интерфейс для пропсов
+interface ContainerDataProps {
+  isOpen: boolean;
+}
+
 export const HeaderContainer = styled.header`
   background-color: var(--iq-primary);
   height: 70px;
@@ -43,7 +48,7 @@ export const Text = styled.p`
   }
 `;
 
-export const ContainerData = styled.nav`
+export const ContainerData = styled.nav<ContainerDataProps>`
   /* width: 200px; */
   display: flex;
   justify-content: space-between;
@@ -101,7 +106,6 @@ export const LinkElement = styled(NavLink)`
   &:hover,
   &:focus {
     background-color: var(--iq-secondary);
-
     transition: all 0.4s ease;
   }
   // Tablet
