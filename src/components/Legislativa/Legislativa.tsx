@@ -1,6 +1,7 @@
 import { ItemContainer, ItemElement } from './Legislativa.styled';
+import React from 'react';
 
-const Legislativa = () => {
+const Legislativa: React.FC = () => {
   //   console.log(VideoCanals);
   return (
     <>
