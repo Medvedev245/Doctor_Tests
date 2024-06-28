@@ -2,7 +2,11 @@ import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 
 export const SectionPic = styled.section`
+  display: flex;
   margin-bottom: 50px;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
 `;
 
 export const ContainerDesc = styled.div`
