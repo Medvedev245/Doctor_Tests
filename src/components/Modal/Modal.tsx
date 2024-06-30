@@ -9,13 +9,30 @@ import {
   Img,
 } from './Modal.styled';
 
-const Modal = ({ active, setActive, closeModal, props }) => {
+interface ModalProps {
+  active: boolean;
+  setActive: (active: boolean) => void;
+  closeModal: (active: boolean) => void;
+  props: {
+    question: string;
+    description: string;
+    img: string;
+  };
+}
+
+const Modal: React.FC<ModalProps> = ({
+  active,
+  setActive,
+  closeModal,
+  props,
+}) => {
+  const handleClose = () => closeModal(false);
   return (
     <>
       {active && (
         <ModalContainer onClick={() => closeModal(false)}>
           <ModalContent onClick={e => e.stopPropagation()}>
-            <SvgCloseBtn type="button" onClick={closeModal}>
+            <SvgCloseBtn type="button" onClick={handleClose}>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 // viewBox="0 0 24 24"
