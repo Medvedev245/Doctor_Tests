@@ -1,8 +1,11 @@
+import React from 'react';
 import { FindContainer, TextFind, TextInput } from './OneTest.styled';
 
-const FindTest = props => {
-  const { handleSearchInputChange } = props;
+interface FindTestProps {
+  handleSearchInputChange: (event: React.ChangeEvent<HTMLInputElement>) => void;
+}
 
+const FindTest: React.FC<FindTestProps> = ({ handleSearchInputChange }) => {
   return (
     <FindContainer>
       <TextFind>Najděte test</TextFind>
