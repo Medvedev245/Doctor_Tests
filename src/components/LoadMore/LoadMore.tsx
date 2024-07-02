@@ -1,7 +1,6 @@
 import { BtnContainer } from './LoadMore.styled';
 import Pagination from '@mui/material/Pagination';
 import Stack from '@mui/material/Stack';
-import { Interface } from 'readline';
 
 interface LoadMoreProps {
   currentPage: number;
