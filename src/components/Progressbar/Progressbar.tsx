@@ -3,12 +3,18 @@ import { CircularProgressbar } from 'react-circular-progressbar';
 import 'react-circular-progressbar/dist/styles.css';
 import { PersentContainer } from './Progressbar.styled';
 
-export const Progressbar = props => {
+interface ProgressbarProps {
+  correctCount: number;
+  questions: number;
+}
+
+export const Progressbar: React.FC<ProgressbarProps> = props => {
   const { correctCount, questions } = props;
+  console.log(props);
   const calculatePersent = () => {
     return Math.round((correctCount / questions) * 100);
   };
-
+  console.log(correctCount, questions);
   return (
     <>
       {/* <p>{calculatePersent()}</p> */}
