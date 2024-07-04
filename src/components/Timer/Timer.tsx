@@ -1,13 +1,18 @@
-import React from 'react';
-import { useEffect } from 'react';
+import React, { useEffect } from 'react';
 
-const Timer = props => {
-  const { time, setTime } = props;
+interface Time {
+  minutes: number;
+  seconds: number;
+}
 
+interface TimerProps {
+  time: Time;
+  setTime: React.Dispatch<React.SetStateAction<Time>>;
+}
+
+const Timer: React.FC<TimerProps> = ({ time, setTime }) => {
   useEffect(() => {
-    let interval = null;
-
-    interval = setInterval(() => {
+    const interval = setInterval(() => {
       setTime(prevTime => {
         let seconds = prevTime.seconds + 1;
         let minutes = prevTime.minutes;
@@ -20,7 +25,7 @@ const Timer = props => {
     }, 1000);
 
     return () => clearInterval(interval);
-  });
+  }, [setTime]);
 
   return (
     <div>
