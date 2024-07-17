@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/648.f50bcd2a.chunk.js","mappings":"sKAEA,MAKA,EALiBA,KAEdC,EAAAA,EAA+B,C","sources":["Pages/NotFound/NotFound.jsx"],"sourcesContent":["import { Link } from 'react-router-dom';\n\nconst NotFound = () => {\n  <div>NotFound</div>;\n  <Link to=\"/\">to Home Page</Link>;\n};\n\nexport default NotFound;\n"],"names":["NotFound","Link"],"sourceRoot":""}
