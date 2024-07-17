@@ -1,5 +1,5 @@
 import { Layout } from 'components/Layout/Layout';
-import { lazy } from 'react';
+import React, { lazy, FC } from 'react';
 import { Route, Routes } from 'react-router-dom';
 
 const Home = lazy(() => import('../../Pages/Home/Home'));
@@ -10,11 +10,11 @@ const Tests = lazy(() => import('../../Pages/Tests/Tests'));
 const MainPage = lazy(() => import('../../Pages/MainPage/MainPage'));
 const MyBase = lazy(() => import('../../Pages/MyBase/MyBase'));
 // const Description = lazy(() => import('../Modal/Modal'));
-const AnsweredQuestions = lazy(() =>
-  import('../../Pages/AnsweredQuestions/AnsweredQuestions')
+const AnsweredQuestions = lazy(
+  () => import('../../Pages/AnsweredQuestions/AnsweredQuestions')
 );
 
-export const App = () => {
+export const App: FC = () => {
   return (
     <Routes>
       <Route path="/" element={<Layout />}>
