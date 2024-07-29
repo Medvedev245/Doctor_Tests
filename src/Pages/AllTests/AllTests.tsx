@@ -44,9 +44,6 @@ const AllTests: React.FC = () => {
   const [modalActive, setModalActive] = useState<boolean>(false);
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [selectedQuestion, setSelectedQuestion] = useState<any>(null); // Состояние для хранения выбранного вопроса
-  // const [picedQuestions, setPickedQuestions] = useState<Test[] | []>(
-  //   JSON.parse(localStorage.getItem('myCollection')) || []
-  // );
   const [picedQuestions, setPickedQuestions] = useState<Test[]>(() => {
     const storedCollection = localStorage.getItem('myCollection');
     return storedCollection ? JSON.parse(storedCollection) : [];
