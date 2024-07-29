@@ -1,9 +1,9 @@
 import React from 'react';
 import {
   FooterContainer,
-  SvgIcons,
-  Path,
-  WrapperComtainer,
+  // SvgIcons,
+  // Path,
+  // WrapperComtainer,
   SpanFooter,
 } from './Footer.styled';
 
@@ -11,7 +11,7 @@ export const Footer: React.FC = () => {
   return (
     <FooterContainer>
       <SpanFooter>&copy; 2024 Lékařské Zkoušky Online</SpanFooter>
-      <WrapperComtainer>
+      {/* <WrapperComtainer>
         При обнаружении ошибки - пишите мне В
         <div>
           <a
@@ -24,7 +24,7 @@ export const Footer: React.FC = () => {
             </SvgIcons>
           </a>
         </div>
-      </WrapperComtainer>
+      </WrapperComtainer> */}
     </FooterContainer>
   );
 };
