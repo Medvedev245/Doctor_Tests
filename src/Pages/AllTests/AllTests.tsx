@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { ChangeEvent, useState } from 'react';
 import Medicine_2023 from '../../Files/Medicine_2023.json';
 import Klener from '../../Files/ClenerNew.json';
 import Legislativa from '../../Files/Legislativa_Báze_2023.json';
@@ -26,22 +26,38 @@ import Modal from 'components/Modal/Modal';
 import FindTest from 'components/OneTest/OneTest';
 // import Functions from 'Files/Functions';
 
-const AllTests = () => {
-  const [allTests, setAllTests] = useState(Legislativa);
-  const [currentPage, setCurrentPage] = useState(1);
-  const [modalActive, setModalActive] = useState(false);
-  const [searchQuery, setSearchQuery] = useState('');
-  const [selectedQuestion, setSelectedQuestion] = useState(null); // Состояние для хранения выбранного вопроса
-  const [picedQuestions, setPickedQuestions] = useState(
-    JSON.parse(localStorage.getItem('myCollection')) || []
-  );
+interface Test {
+  question: string;
+  answers: string[];
+  book: string[];
+  topic: string[];
+  correctAnswers: string[];
+  description?: string[];
+  img?: string[];
+}
 
-  const isTestInFavorites = test => {
+const initialTests: Test[] = Legislativa;
+
+const AllTests: React.FC = () => {
+  const [allTests, setAllTests] = useState<Test[]>(initialTests);
+  const [currentPage, setCurrentPage] = useState<number>(1);
+  const [modalActive, setModalActive] = useState<boolean>(false);
+  const [searchQuery, setSearchQuery] = useState<string>('');
+  const [selectedQuestion, setSelectedQuestion] = useState<any>(null); // Состояние для хранения выбранного вопроса
+  // const [picedQuestions, setPickedQuestions] = useState<Test[] | []>(
+  //   JSON.parse(localStorage.getItem('myCollection')) || []
+  // );
+  const [picedQuestions, setPickedQuestions] = useState<Test[]>(() => {
+    const storedCollection = localStorage.getItem('myCollection');
+    return storedCollection ? JSON.parse(storedCollection) : [];
+  });
+
+  const isTestInFavorites = (test: Test) => {
     return picedQuestions.some(item => item.question === test.question);
   };
   // console.log(picedQuestions);
 
-  const renderAnswer = (answer, isCorrect) => {
+  const renderAnswer = (answer: string, isCorrect: boolean) => {
     return isCorrect ? (
       <span style={{ backgroundColor: '#1fa01f6f' }}>{answer}</span>
     ) : (
@@ -49,8 +65,11 @@ const AllTests = () => {
     );
   };
 
-  const handleOption1Change = event => {
+  //=================================================================зделано
+
+  const handleOption1Change = (event: ChangeEvent<HTMLSelectElement>): void => {
     const selectedValue = event.target.value;
+    console.log(selectedValue);
     switch (selectedValue) {
       case 'Klener':
         setAllTests(Klener);
@@ -69,11 +88,14 @@ const AllTests = () => {
     }
   };
 
-  const handlePageChange = (event, newPage) => {
+  const handlePageChange = (
+    event: React.ChangeEvent<unknown>,
+    newPage: number
+  ) => {
     setCurrentPage(newPage);
   };
 
-  const openModal = question => {
+  const openModal = (question: Test) => {
     // Передаем вопрос в функцию openModal
     setSelectedQuestion(question); // Устанавливаем выбранный вопрос
     setModalActive(true);
@@ -85,7 +107,7 @@ const AllTests = () => {
     document.body.style.overflow = 'auto';
   };
 
-  const addToFavorite = test => {
+  const addToFavorite = (test: Test) => {
     const isAlreadyAdded = picedQuestions.find(
       item => item.question === test.question
     );
@@ -108,17 +130,20 @@ const AllTests = () => {
     Notify.success('Test přidán do oblíbených');
   };
 
-  const handleSearchInputChange = debounce(event => {
-    setSearchQuery(event.target.value);
-  }, 500);
+  const handleSearchInputChange = debounce(
+    (event: ChangeEvent<HTMLInputElement>) => {
+      setSearchQuery(event.target.value);
+    },
+    500
+  );
 
   const filteredQuestions = allTests.filter(question =>
     question.question.toLowerCase().includes(searchQuery.toLowerCase())
   );
-  const testsPerPage = 30; // Количество тестов на странице
-  const startIndex = (currentPage - 1) * testsPerPage;
-  const endIndex = startIndex + testsPerPage;
-  const doneQuestions = filteredQuestions.slice(startIndex, endIndex);
+  const testsPerPage: number = 30; // Количество тестов на странице
+  const startIndex: number = (currentPage - 1) * testsPerPage;
+  const endIndex: number = startIndex + testsPerPage;
+  const doneQuestions: Test[] = filteredQuestions.slice(startIndex, endIndex);
   return (
     <>
       <TextAllTests>All Tests</TextAllTests>
