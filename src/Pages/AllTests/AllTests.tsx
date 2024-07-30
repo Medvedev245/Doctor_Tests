@@ -52,7 +52,6 @@ const AllTests: React.FC = () => {
   const isTestInFavorites = (test: Test) => {
     return picedQuestions.some(item => item.question === test.question);
   };
-  // console.log(picedQuestions);
 
   const renderAnswer = (answer: string, isCorrect: boolean) => {
     return isCorrect ? (
@@ -61,8 +60,6 @@ const AllTests: React.FC = () => {
       <span>{answer}</span>
     );
   };
-
-  //=================================================================зделано
 
   const handleOption1Change = (event: ChangeEvent<HTMLSelectElement>): void => {
     const selectedValue = event.target.value;
