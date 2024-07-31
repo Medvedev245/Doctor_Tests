@@ -17,18 +17,19 @@ import {
 import Modal from 'components/Modal/Modal';
 import FindTest from 'components/OneTest/OneTest';
 import LoadMore from 'components/LoadMore/LoadMore';
+import { Test } from '../AllTests/AllTests';
 
-const MyBase = () => {
+const MyBase: React.FC = () => {
   const choosenBase = JSON.parse(localStorage.getItem('myCollection'));
-  const [selectedQuestion, setSelectedQuestion] = useState(null);
-  const [modalActive, setModalActive] = useState(false);
-  const [searchQuery, setSearchQuery] = useState('');
-  const [myQuestions, setMyQuestions] = useState(choosenBase || []);
-  const [currentPage, setCurrentPage] = useState(1);
+  const [selectedQuestion, setSelectedQuestion] = useState<null | Test>(null);
+  const [modalActive, setModalActive] = useState<boolean>(false);
+  const [searchQuery, setSearchQuery] = useState<string>('');
+  const [myQuestions, setMyQuestions] = useState<[]>(choosenBase || []);
+  const [currentPage, setCurrentPage] = useState<number>(1);
 
   const testsQuantity = myQuestions.length;
 
-  const openModal = question => {
+  const openModal = (question: Test) => {
     // Передаем вопрос в функцию openModal
     setSelectedQuestion(question); // Устанавливаем выбранный вопрос
     setModalActive(true);
@@ -39,22 +40,23 @@ const MyBase = () => {
     setModalActive(false);
     document.body.style.overflow = 'auto';
   };
-  const renderAnswer = (answer, isCorrect) => {
+  const renderAnswer = (answer: string, isCorrect: boolean) => {
     return isCorrect ? (
       <span style={{ backgroundColor: '#1fa01f6f' }}>{answer}</span>
     ) : (
       <span>{answer}</span>
     );
   };
-  const isTestInFavorites = test => {
-    return myQuestions.some(item => item.question === test.question);
+
+  const isTestInFavorites = (test: Test): boolean => {
+    return myQuestions.some((item: Test) => item.question === test.question);
   };
 
-  const addToFavorite = test => {
+  const addToFavorite = (test: Test) => {
     // // Если элемент уже добавлен, то удаляем его
 
     const updatedCollection = myQuestions.filter(
-      item => item.question !== test.question
+      (item: Test) => item.question !== test.question
     );
     setMyQuestions(updatedCollection);
     localStorage.setItem('myCollection', JSON.stringify(updatedCollection));
@@ -67,11 +69,14 @@ const MyBase = () => {
     // console.log(searchQuery);
   }, 500);
 
-  const filteredQuestions = myQuestions.filter(question =>
+  const filteredQuestions = myQuestions.filter((question: Test) =>
     question.question.toLowerCase().includes(searchQuery.toLowerCase())
   );
 
-  const handlePageChange = (event, newPage) => {
+  const handlePageChange = (
+    event: React.ChangeEvent<unknown>,
+    newPage: number
+  ) => {
     setCurrentPage(newPage);
   };
 

@@ -26,7 +26,7 @@ import Modal from 'components/Modal/Modal';
 import FindTest from 'components/OneTest/OneTest';
 // import Functions from 'Files/Functions';
 
-interface Test {
+export interface Test {
   question: string;
   answers: string[];
   book: string[];
