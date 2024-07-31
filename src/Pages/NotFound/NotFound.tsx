@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
-import React, { FC } from 'react';
+import React from 'react';
 
-const NotFound: FC = () => {
+const NotFound: React.FC = () => {
   return (
     <div>
       NotFound
