@@ -20,11 +20,13 @@ import LoadMore from 'components/LoadMore/LoadMore';
 import { Test } from '../AllTests/AllTests';
 
 const MyBase: React.FC = () => {
-  const choosenBase = JSON.parse(localStorage.getItem('myCollection'));
-  const [selectedQuestion, setSelectedQuestion] = useState<null | Test>(null);
+  const choosenBase: Test[] = JSON.parse(
+    localStorage.getItem('myCollection') || '[]'
+  ) as Test[];
+  const [selectedQuestion, setSelectedQuestion] = useState<any>(null);
   const [modalActive, setModalActive] = useState<boolean>(false);
   const [searchQuery, setSearchQuery] = useState<string>('');
-  const [myQuestions, setMyQuestions] = useState<[]>(choosenBase || []);
+  const [myQuestions, setMyQuestions] = useState<Test[]>(choosenBase || []);
   const [currentPage, setCurrentPage] = useState<number>(1);
 
   const testsQuantity = myQuestions.length;
@@ -98,7 +100,7 @@ const MyBase: React.FC = () => {
       ) : (
         <div>
           <List>
-            {doneQuestions.map((test, idx) => (
+            {doneQuestions.map((test: Test, idx: number) => (
               <Item key={idx}>
                 <TopicContainer>
                   <SpanElemet>Boock: {test.book}</SpanElemet>
