@@ -82,10 +82,10 @@ const MyBase: React.FC = () => {
     setCurrentPage(newPage);
   };
 
-  const testsPerPage = 30; // Количество тестов на странице
-  const startIndex = (currentPage - 1) * testsPerPage;
-  const endIndex = startIndex + testsPerPage;
-  const doneQuestions = filteredQuestions.slice(startIndex, endIndex);
+  const testsPerPage: number = 30; // Количество тестов на странице
+  const startIndex: number = (currentPage - 1) * testsPerPage;
+  const endIndex: number = startIndex + testsPerPage;
+  const doneQuestions: Test[] = filteredQuestions.slice(startIndex, endIndex);
 
   return (
     <>
