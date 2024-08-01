@@ -11,14 +11,18 @@ import {
   LinkToPage,
 } from './AnsweredQuestions.styled';
 import { CLEAR_STATE } from 'store/testsReducer';
+import { Test } from 'Pages/AllTests/AllTests';
+import { RootState } from 'store';
 
 const AnsweredQuestions = () => {
-  const allQuestion = useSelector(state => state.tests.questions);
-  const rightQuestion = useSelector(state => state.tests.rightAnswers);
+  const allQuestion = useSelector((state: RootState) => state.tests.questions);
+  const rightQuestion = useSelector(
+    (state: RootState) => state.tests.rightAnswers
+  );
   console.log(allQuestion, rightQuestion);
   const dispatch = useDispatch();
 
-  const updatedQuestions = allQuestion.map(question => {
+  const updatedQuestions = allQuestion.map((question: Test) => {
     const updatedAnswers = question.answers.map(answer => {
       if (question.correctAnswers.includes(answer)) {
         return `${answer} (Správně)`;
@@ -37,8 +41,10 @@ const AnsweredQuestions = () => {
     dispatch(CLEAR_STATE({}));
   };
 
-  const isRightQuestion = question => {
-    return rightQuestion.some(rightQ => rightQ.question === question.question);
+  const isRightQuestion = (question: Test, index: number, arr: Test[]) => {
+    return rightQuestion.some(
+      (rightQ: Test) => rightQ.question === question.question
+    );
   };
 
   return (

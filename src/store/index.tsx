@@ -16,3 +16,7 @@ export const store = configureStore({
     tests: testsReducer,
   },
 });
+
+// Определение типа корневого состояния
+export type RootState = ReturnType<typeof store.getState>;
+export type AppDispatch = typeof store.dispatch;
