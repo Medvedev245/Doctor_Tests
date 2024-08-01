@@ -36,7 +36,7 @@ export const Header: React.FC = () => {
 
   const clearState = () => {
     closeMenu();
-    dispatch(CLEAR_STATE({}));
+    dispatch(CLEAR_STATE());
   };
 
   return (

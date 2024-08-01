@@ -13,7 +13,7 @@ import { CLEAR_STATE } from 'store/testsReducer';
 const MainPage: React.FC = () => {
   const dispatch = useDispatch();
   const clearState = () => {
-    dispatch(CLEAR_STATE({}));
+    dispatch(CLEAR_STATE());
   };
 
   return (
