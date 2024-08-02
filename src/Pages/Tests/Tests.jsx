@@ -27,13 +27,6 @@ const Tests = () => {
   const [myCorrectAnswers, setMyCorrectAnswers] = useState([]); // Хранение правильных ответов
   const [addColor, setAddColor] = useState(false); // Состояние для подсветки правильных ответов
   const [time, setTime] = useState({ minutes: 0, seconds: 0 }); // состояние таймера
-  // const [persent, setPersent] = useState('0');
-
-  // const calculatePersent = () => {
-  //   return setPersent(
-  //     Math.round((correctCount / questions.length) * 100) + '%'
-  //   );
-  // };
 
   const dispatch = useDispatch();
   const questions = useSelector(state => state.tests.questions);
@@ -91,13 +84,7 @@ const Tests = () => {
             myCorrectAnswers,
           })
         );
-        // dispatch({
-        //   type: 'ADD_RIGHTQUESTIONS',
-        //   payload: { myCorrectAnswers },
-        // });
       }
-      // console.log(correctCount);
-      // alert(`Правильных ответов - ${correctCount} из ${questions.length}`);
     }
 
     setSelectedAnswers([]);
@@ -116,8 +103,6 @@ const Tests = () => {
     setModalActive(false);
     document.body.style.overflow = 'auto';
   };
-
-  // console.log(questions[currentQuestion].description);
 
   return (
     <FormTest>
