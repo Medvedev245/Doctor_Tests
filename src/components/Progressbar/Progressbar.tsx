@@ -13,7 +13,6 @@ export const Progressbar: React.FC<ProgressbarProps> = props => {
   const calculatePersent = () => {
     return Math.round((correctCount / questions) * 100);
   };
-  console.log(correctCount, questions);
   return (
     <>
       {/* <p>{calculatePersent()}</p> */}

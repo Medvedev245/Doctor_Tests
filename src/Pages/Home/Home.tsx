@@ -20,7 +20,7 @@ import { RootState } from 'store';
 
 const Home = () => {
   const [selectedOption1, setSelectedOption1] = useState<string>('');
-  const [selectedOption2, setSelectedOption2] = useState<any>('');
+  const [selectedOption2, setSelectedOption2] = useState<string | number>('');
 
   const dispatch = useDispatch();
   const elements3 = useSelector((state: RootState) => state.tests.questions);
@@ -90,13 +90,13 @@ const Home = () => {
 
   const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-
-    const myTests = generateTests(selectedOption1, selectedOption2);
+    const testCount = parseInt(selectedOption2.toString(), 10);
+    const myTests = generateTests(selectedOption1, testCount);
 
     dispatch(
       ADD_OPTIONS({
         selectedOption1,
-        selectedOption2,
+        selectedOption2: testCount,
         myTests,
       })
     );

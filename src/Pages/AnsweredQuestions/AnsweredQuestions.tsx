@@ -20,7 +20,6 @@ const AnsweredQuestions: React.FC = () => {
   const rightQuestion = useSelector(
     (state: RootState) => state.tests.rightAnswers
   );
-  console.log(allQuestion, rightQuestion);
   const dispatch = useDispatch();
 
   const updatedQuestions = allQuestion.map((question: Test) => {
