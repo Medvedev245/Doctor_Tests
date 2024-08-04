@@ -14,7 +14,7 @@ const Canals = () => {
   return (
     <>
       <CanalLisl>
-        {VideoCanals.map((channel, idx) => {
+        {VideoCanals.map(channel => {
           return (
             <>
               <Link

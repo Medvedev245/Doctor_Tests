@@ -1,14 +1,8 @@
-import { useState } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
-
 import Medicine_2023 from '../../Files/Medicine_2023.json';
 import Klener from '../../Files/ClenerNew.json';
 import Živný from '../../Files/Živný.json';
 import Legislativa from '../../Files/Legislativa_Báze_2023.json';
-import { ADD_OPTIONS } from 'store/testsReducer';
-
-// import Olomouc from '../../Files/Clener.json';
-// import Živný from '../../Files/Clener.json';
+import Bases from 'components/Bases/Bases';
 import {
   FormContainer,
   LinkToStart,
@@ -16,27 +10,34 @@ import {
   ChoosenElement,
 } from './Home.styled';
 import { Button } from 'Pages/Tests/Tests.styled';
-// import Bases from 'components/Bases/Bases.tsx';
-import Bases from 'components/Bases/Bases';
+import { ADD_OPTIONS } from 'store/testsReducer';
+import { Test } from '../AllTests/AllTests';
+
+import { useState } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
 import { Select } from 'Pages/AllTests/AllTests.styled';
+import { RootState } from 'store';
 
 const Home = () => {
-  const [selectedOption1, setSelectedOption1] = useState('');
-  const [selectedOption2, setSelectedOption2] = useState('');
+  const [selectedOption1, setSelectedOption1] = useState<string>('');
+  const [selectedOption2, setSelectedOption2] = useState<any>('');
+
   const dispatch = useDispatch();
-  const elements3 = useSelector(state => state.tests.questions);
+  const elements3 = useSelector((state: RootState) => state.tests.questions);
 
-  const choosenBase = JSON.parse(localStorage.getItem('myCollection'));
+  const choosenBase: Test[] = JSON.parse(
+    localStorage.getItem('myCollection') || '[]'
+  ) as Test[];
 
-  const handleOption1Change = event => {
+  const handleOption1Change = (event: React.ChangeEvent<HTMLSelectElement>) => {
     setSelectedOption1(event.target.value);
   };
 
-  const handleOption2Change = event => {
+  const handleOption2Change = (event: React.ChangeEvent<HTMLSelectElement>) => {
     setSelectedOption2(event.target.value);
   };
 
-  const generateTests = (one, two) => {
+  const generateTests = (one: string, two: number) => {
     let selectedFile;
     switch (one) {
       case 'Klener':
@@ -66,7 +67,7 @@ const Home = () => {
     if (two >= selectedFile.length) {
       return selectedFile;
     }
-    const number = [];
+    const number: number[] = [];
     const selectedNamesArray = [];
 
     // console.log('two:', two, 'selectedFile.length:', selectedFile.length);
@@ -87,7 +88,7 @@ const Home = () => {
     return selectedNamesArray;
   };
 
-  const handleSubmit = event => {
+  const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
 
     const myTests = generateTests(selectedOption1, selectedOption2);

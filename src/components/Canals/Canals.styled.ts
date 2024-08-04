@@ -33,6 +33,10 @@ export const CanalElement = styled.li`
   color: black;
   border-radius: 5px;
   padding-top: 30px;
+  &:hover,
+  &:focus {
+    background-color: var(--iq-primary);
+  }
 
   //tablet
   @media screen and (max-width: 1200px) {
