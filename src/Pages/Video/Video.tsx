@@ -10,7 +10,8 @@ import Legislativa from 'components/Legislativa/Legislativa';
 export default function LabTabs() {
   const [value, setValue] = React.useState('1');
 
-  const handleChange = (event, newValue) => {
+  const handleChange = (event: {}, newValue: string) => {
+    console.log(event);
     setValue(newValue);
   };
 
