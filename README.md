@@ -7,8 +7,7 @@ testy a zkoušky obecně. Prozatím i v budoucnu bude tento zdroj zcela zdarma.
 
 Pet project. Website for taking and studying tests. Has header, main, footer.
 The header contains the logo and navigation, the main contains the main content,
-and the footer contains links to social networks. On the site you can view not
-only information on the selected film, but also actors and reviews.
+and the footer contains links to social networks.
 
 To date, the page has been accessed 19,300 times, according to Google Search
 Console !
