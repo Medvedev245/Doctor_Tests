@@ -9,7 +9,7 @@ Pet project. Website for taking and studying tests. Has header, main, footer.
 The header contains the logo and navigation, the main contains the main content,
 and the footer contains links to social networks.
 
-To date, the page has been accessed 19,300 times, according to Google Search
+To date, the page has been accessed 24.300 times, according to Google Search
 Console !
 
 ## Pages:
