@@ -3,6 +3,9 @@ import React, { lazy, FC } from 'react';
 import { Route, Routes } from 'react-router-dom';
 
 const Home = lazy(() => import('../../Pages/Home/Home'));
+const Authorization = lazy(
+  () => import('../../components/Auth/Authorization/Authorization')
+);
 const NotFound = lazy(() => import('../../Pages/NotFound/NotFound'));
 const Video = lazy(() => import('../../Pages/Video/Video'));
 const AllTests = lazy(() => import('../../Pages/AllTests/AllTests'));
@@ -17,6 +20,7 @@ const AnsweredQuestions = lazy(
 export const App: FC = () => {
   return (
     <Routes>
+      <Route path="auth" element={<Authorization />}></Route>
       <Route path="/" element={<Layout />}>
         <Route index element={<MainPage />} />
         <Route path="page" element={<Home />} />
