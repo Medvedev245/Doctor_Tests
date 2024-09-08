@@ -18,8 +18,11 @@ const Authorization: React.FC = () => {
   return (
     <Box
       sx={{
-        width: '100%',
+        width: '50%',
+        height: '400px',
         typography: 'body1',
+        // display: 'flex',
+        margin: '0 auto',
       }}
     >
       <TabContext value={value}>
@@ -28,6 +31,8 @@ const Authorization: React.FC = () => {
             borderBottom: 1,
             borderColor: 'divider',
             display: 'flex',
+            width: '200px',
+            margin: '0 auto',
           }}
         >
           <TabList onChange={handleChange} aria-label="lab API tabs example">
