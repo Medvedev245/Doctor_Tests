@@ -4,8 +4,8 @@ import TabContext from '@mui/lab/TabContext';
 import TabList from '@mui/lab/TabList';
 import { TabPanel } from '@mui/lab';
 import { TabComponent } from './Authorization.styled';
-import Canals from 'components/Canals/Canals';
-import Legislativa from 'components/Legislativa/Legislativa';
+// import Canals from 'components/Canals/Canals';
+// import Legislativa from 'components/Legislativa/Legislativa';
 import SignIn from '../SignIn/SignIn';
 import SignUp from '../SignUp/SignUp';
 
@@ -20,11 +20,15 @@ const Authorization: React.FC = () => {
   return (
     <Box
       sx={{
-        width: '50%',
-        height: '400px',
+        // width: '50%',
+        width: '40vw',
+        height: '50vh',
+        display: 'flex',
+        alignItems: 'center',
+        flexDirection: 'column',
+        // justifyContent: 'center',
         typography: 'body1',
-        // display: 'flex',
-        margin: '0 auto',
+        margin: '200px auto',
       }}
     >
       <TabContext value={value}>
@@ -34,7 +38,7 @@ const Authorization: React.FC = () => {
             borderColor: 'divider',
             display: 'flex',
             width: '200px',
-            margin: '0 auto',
+            marginBottom: '50px',
           }}
         >
           <TabList onChange={handleChange} aria-label="lab API tabs example">
