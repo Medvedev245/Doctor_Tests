@@ -6,6 +6,8 @@ import { TabPanel } from '@mui/lab';
 import { TabComponent } from './Authorization.styled';
 import Canals from 'components/Canals/Canals';
 import Legislativa from 'components/Legislativa/Legislativa';
+import SignIn from '../SignIn/SignIn';
+import SignUp from '../SignUp/SignUp';
 
 const Authorization: React.FC = () => {
   const [value, setValue] = React.useState('1');
@@ -62,7 +64,7 @@ const Authorization: React.FC = () => {
             padding: 0, // Убираем отступы
           }}
         >
-          <Legislativa />
+          <SignUp />
         </TabPanel>
         <TabPanel
           value="2"
@@ -70,7 +72,7 @@ const Authorization: React.FC = () => {
             padding: '15px 0 0 0', // Убираем отступы
           }}
         >
-          <Canals />
+          <SignIn />
         </TabPanel>
         {/* <TabPanel value="3">Item Three</TabPanel> */}
       </TabContext>
