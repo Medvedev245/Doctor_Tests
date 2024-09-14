@@ -30,6 +30,7 @@ const Authorization: React.FC = () => {
         typography: 'body1',
         margin: '200px auto',
         backgroundColor: 'var(--iq-primary)',
+        borderRadius: '10px',
       }}
     >
       <TabContext value={value}>
@@ -74,7 +75,7 @@ const Authorization: React.FC = () => {
         <TabPanel
           value="2"
           sx={{
-            padding: '15px 0 0 0', // Убираем отступы
+            padding: '0 0 0 0', // Убираем отступы
           }}
         >
           <SignIn />
