@@ -20,10 +20,14 @@ const MainPage: React.FC = () => {
     <>
       <SectionPic>
         <MainText>What we do?</MainText>
-        <p style={{ textIndent: '15px', marginBottom: '20px' }}>
-          Ahoj všichni! Stránka byla vytvořena pro lékaře jako pomocník při
-          přípravě na testy a zkoušky obecně. Prozatím i v budoucnu bude tento
-          zdroj zcela zdarma.
+        <p
+          style={{
+            textIndent: '15px',
+            marginBottom: '20px',
+            fontWeight: '700',
+          }}
+        >
+          Registrace a přihlášení se objeví brzy
         </p>
         <ContainerDesc>
           <ContainerText onClick={clearState} to="page">

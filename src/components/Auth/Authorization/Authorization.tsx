@@ -29,6 +29,7 @@ const Authorization: React.FC = () => {
         // justifyContent: 'center',
         typography: 'body1',
         margin: '200px auto',
+        backgroundColor: 'var(--iq-primary)',
       }}
     >
       <TabContext value={value}>
@@ -43,7 +44,7 @@ const Authorization: React.FC = () => {
         >
           <TabList onChange={handleChange} aria-label="lab API tabs example">
             <TabComponent
-              label="Legislativa video"
+              label="SignUp"
               value="1"
               style={{
                 textTransform: 'none',
@@ -51,7 +52,7 @@ const Authorization: React.FC = () => {
               }}
             />
             <TabComponent
-              label="YouTube canals"
+              label="SignIn"
               value="2"
               style={{ textTransform: 'none', fontWeight: 'bold' }}
             />
