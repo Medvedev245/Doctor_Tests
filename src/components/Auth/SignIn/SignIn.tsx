@@ -1,37 +1,32 @@
-import { createUserWithEmailAndPassword } from 'firebase/auth';
+import { signInWithEmailAndPassword } from 'firebase/auth';
 import { auth } from '../../../firebase/firebase';
 import React, { FormEvent, useState } from 'react';
 
 const SignIn: React.FC = () => {
   const [email, setEmail] = useState<string>('');
   const [password, setPassword] = useState<string>('');
-  const [copyPassword, setCopyPassword] = useState<string>('');
   const [error, setError] = useState<string>('');
 
   function sign(e: FormEvent) {
     e.preventDefault();
-    if (password !== copyPassword) {
-      setError('Hesla se neshodují');
-      console.log(error);
-      return;
-    }
-    createUserWithEmailAndPassword(auth, email, password)
+
+    signInWithEmailAndPassword(auth, email, password)
       .then(user => {
         console.log(user);
         setEmail('');
         setPassword('');
-        setCopyPassword('');
         setError('');
       })
       .catch(error => {
+        setError('Váš účet nebyl nalezen');
         console.log(error);
       });
   }
 
   return (
     <div>
-      <h3>Registrace</h3>
-      <form onSubmit={sign}>
+      <h3>Přihlaste se ke svému účtu</h3>
+      <form>
         <input
           placeholder="Enter your email"
           value={email}
@@ -48,8 +43,9 @@ const SignIn: React.FC = () => {
           }}
           type="password"
         />
-        <button>Enter</button>
+        <button onClick={sign}>Enter</button>
       </form>
+      {error ? <p>hesla se neshodují</p> : ''}
     </div>
   );
   //зарегаться
