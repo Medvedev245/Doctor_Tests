@@ -12,7 +12,6 @@ const AllTests = lazy(() => import('../../Pages/AllTests/AllTests'));
 const Tests = lazy(() => import('../../Pages/Tests/Tests'));
 const MainPage = lazy(() => import('../../Pages/MainPage/MainPage'));
 const MyBase = lazy(() => import('../../Pages/MyBase/MyBase'));
-// const Description = lazy(() => import('../Modal/Modal'));
 const AnsweredQuestions = lazy(
   () => import('../../Pages/AnsweredQuestions/AnsweredQuestions')
 );

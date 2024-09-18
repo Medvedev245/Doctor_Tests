@@ -57,17 +57,12 @@ const Authorization: React.FC = () => {
               value="2"
               style={{ textTransform: 'none', fontWeight: 'bold' }}
             />
-            {/* <TabComponent
-              label="Item Three"
-              value="3"
-              style={{ textTransform: 'none', fontWeight: 'bold' }}
-            /> */}
           </TabList>
         </Box>
         <TabPanel
           value="1"
           sx={{
-            padding: 0, // Убираем отступы
+            padding: 0,
           }}
         >
           <SignUp />
@@ -75,12 +70,11 @@ const Authorization: React.FC = () => {
         <TabPanel
           value="2"
           sx={{
-            padding: '0 0 0 0', // Убираем отступы
+            padding: '0 0 0 0',
           }}
         >
           <SignIn />
         </TabPanel>
-        {/* <TabPanel value="3">Item Three</TabPanel> */}
       </TabContext>
     </Box>
   );
