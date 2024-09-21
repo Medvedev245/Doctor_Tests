@@ -13,7 +13,7 @@ const Authorization: React.FC = () => {
   const [value, setValue] = React.useState('1');
 
   const handleChange = (event: {}, newValue: string) => {
-    console.log(event);
+    // console.log(event);
     setValue(newValue);
   };
 

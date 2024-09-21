@@ -7,6 +7,7 @@ const SignUp: React.FC = () => {
   const [password, setPassword] = useState<string>('');
   const [copyPassword, setCopyPassword] = useState<string>('');
   const [error, setError] = useState<string>('');
+
   function register(e: FormEvent) {
     e.preventDefault();
     if (password !== copyPassword) {
