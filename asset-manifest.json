@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Doctor_Tests/static/css/main.914fa139.css",
-    "main.js": "/Doctor_Tests/static/js/main.6c0476cd.js",
+    "main.js": "/Doctor_Tests/static/js/main.2e4a3870.js",
     "static/js/881.fa303503.chunk.js": "/Doctor_Tests/static/js/881.fa303503.chunk.js",
-    "static/js/788.0680d275.chunk.js": "/Doctor_Tests/static/js/788.0680d275.chunk.js",
-    "static/js/773.0aa8ad62.chunk.js": "/Doctor_Tests/static/js/773.0aa8ad62.chunk.js",
+    "static/js/788.1f70a9cb.chunk.js": "/Doctor_Tests/static/js/788.1f70a9cb.chunk.js",
+    "static/js/944.b9bbc483.chunk.js": "/Doctor_Tests/static/js/944.b9bbc483.chunk.js",
     "static/js/575.14efbcc4.chunk.js": "/Doctor_Tests/static/js/575.14efbcc4.chunk.js",
     "static/js/101.68272fcd.chunk.js": "/Doctor_Tests/static/js/101.68272fcd.chunk.js",
     "static/css/16.2994b7b4.chunk.css": "/Doctor_Tests/static/css/16.2994b7b4.chunk.css",
@@ -19,10 +19,10 @@
     "static/media/youtube-svgrepo-com.png": "/Doctor_Tests/static/media/youtube-svgrepo-com.e20b5577ad958c78bfac.png",
     "index.html": "/Doctor_Tests/index.html",
     "main.914fa139.css.map": "/Doctor_Tests/static/css/main.914fa139.css.map",
-    "main.6c0476cd.js.map": "/Doctor_Tests/static/js/main.6c0476cd.js.map",
+    "main.2e4a3870.js.map": "/Doctor_Tests/static/js/main.2e4a3870.js.map",
     "881.fa303503.chunk.js.map": "/Doctor_Tests/static/js/881.fa303503.chunk.js.map",
-    "788.0680d275.chunk.js.map": "/Doctor_Tests/static/js/788.0680d275.chunk.js.map",
-    "773.0aa8ad62.chunk.js.map": "/Doctor_Tests/static/js/773.0aa8ad62.chunk.js.map",
+    "788.1f70a9cb.chunk.js.map": "/Doctor_Tests/static/js/788.1f70a9cb.chunk.js.map",
+    "944.b9bbc483.chunk.js.map": "/Doctor_Tests/static/js/944.b9bbc483.chunk.js.map",
     "575.14efbcc4.chunk.js.map": "/Doctor_Tests/static/js/575.14efbcc4.chunk.js.map",
     "101.68272fcd.chunk.js.map": "/Doctor_Tests/static/js/101.68272fcd.chunk.js.map",
     "16.2994b7b4.chunk.css.map": "/Doctor_Tests/static/css/16.2994b7b4.chunk.css.map",
@@ -37,6 +37,6 @@
   },
   "entrypoints": [
     "static/css/main.914fa139.css",
-    "static/js/main.6c0476cd.js"
+    "static/js/main.2e4a3870.js"
   ]
 }

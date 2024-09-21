@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkTest_for_doctors=self.webpackChunkTest_for_doctors||[]).push([[773],{8773:(s,e,o)=>{o.r(e),o.d(e,{default:()=>c});var t=o(1087),r=(o(2791),o(184));const c=()=>(0,r.jsxs)("div",{children:["NotFound",(0,r.jsx)(t.rU,{to:"/",children:"to Home Page"})]})}}]);
-//# sourceMappingURL=773.0aa8ad62.chunk.js.map
