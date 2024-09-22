@@ -61,7 +61,7 @@ const SignUp: React.FC = () => {
       {error ? <p>hesla se neshodují</p> : ''}
     </div>
   );
-  //зарегаться
+  //Войти
 };
 
 export default SignUp;
