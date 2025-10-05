@@ -1729,5 +1729,813 @@
       "Vznik plicní hypertenze U defektu septa síní typu I častější než u defektů sín`oveho septa II typu, přináší navíc ještě tlakové přetížení pravé komory a možný zvrat zkratu na pravo-levy. Štejfa Miloš: Kardiologie str. 656 "
     ],
     "img": [""]
+  },
+
+
+
+
+
+
+
+  {
+    "question": "101. Při hemodynamicky významném defektu septa síní dochází k (Klener) - КАРДИОЛОГИЯ",
+    "answers": [
+      "zvětšení pravostranných srdečních oddílů",
+      "zvětšení levostranných srdečních oddílů",
+      "levostrannému srdečnímu selhávání",
+      "výrazné hypertrofii pravé komor."
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["zvětšení pravostranných srdečních oddílů"],
+    "description": [
+      "Objemové přetížení pravého srdce vede k fibrilaci síní a pravostranné kardiální dekompenzaci s aktivní (systolickou) žilní pulzace. Takový obraz hemodynamicky závažné “trikuspidální regurgitace” se zvětšením pravé síné a dilataci prave komory a pravostrannou dekompenzaci = “přenošený” (dekompenzovany) defekt sín`oveho septa II typu.  Štejfa Miloš: Kardiologie str. 655  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "102. Pro defekt komorového septa platí (Klener)",
+    "answers": [
+      "bývá spojen se systolickým vírem v prekordiu",
+      "je vždy spojen s cyanózou",
+      "nejčastěji je lokalizován v muskulární části septa",
+      "nevede k Eisenmengerovu syndromu"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["bývá spojen se systolickým vírem v prekordiu"],
+    "description": [
+      "Більшість дефектів міжшлуночкової перегородки класифікують за локалізацією: •Перимембранозний (також званий коновентрикулярний) (70–80%) •Трабекулярно-м'язова (від 5 до 20%) •Підлегеневий вихід (супракристальний, коносептальний, подвійний субартеріальний) (від 5 до 7% у Сполучених Штатах; близько 30% у країнах Далекого Сходу) •Вхідний отвір (тип атріовентрикулярної перегородки, тип атріовентрикулярного каналу) (5-8%) Синдром Ейзенменгера є захворюванням, вторинним до ліво-правого шунтування крові всередині серця або між артеріальними стовбурами та збільшеного легеневого кровотоку. Це одна з форм легеневої артеріальної гіпертензії (ЛАГ), вторинної до вродженої вади серця. Вроджені аномалії серця, які, якщо їх не лікувати, можуть призводити до синдрому Ейзенменгера, включають (приблизно до появи - 1 ): • Дефект міжшлуночкової перегородки (ДМЖП) • Дефект атріовентрикулярної перегородки (ДАВП) • Відкрита артеріальна протока (ОАП) • Аортопульмональне вікно • Дефект міжпередсердної перегородки (ДМПП) • Артеріальний стовбур • Подвійне відходження магістральних судин від правого шлуночка (DORV) без легеневого стенозу. • Часткове аномальне венозне повернення (PAPVR, при якому деякі легеневі вени з'єднуються з правим передсердям замість лівого передсердя)"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "103. Z následujících vrozených vad je nejčastější 😊",
+    "answers": [
+      "transpozice velkých cév",
+      "stenóza plicnice",
+      "defekt síňového septa",
+      "koarktace aorty"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["defekt síňového septa"],
+    "description": ["Vrozené srdeční vady – WikiSkripta"],
+    "img": [""]
+  },
+
+  {
+    "question": "104. Pro defekt komorového septa je typický (Olomouc)",
+    "answers": [
+      "systolický regurgitační šelest",
+      "diastolický šelest",
+      "systolický ejekční šelest",
+      "tunelový šelest"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["systolický ejekční šelest"],
+    "description": ["Шум викидання, коли при систолі кров з лівого шлуночка йде у правий через дефект"],
+    "img": [""]
+  },
+
+  {
+    "question": "105. Nejčastější vrozenou srdeční vadou je (Olomouc)",
+    "answers": [
+      "defekt komorového septa",
+      "transpozice velkých tepen",
+      "koarktace aorty",
+      "Fallotova tetralogie"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["defekt komorového septa"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "106. Nejčastějšími vrozenými srdečními vadami u děti jsou: (apelace – správně)",
+    "answers": [
+      "Defekt síňového septa",
+      "Defekt komorového septa",
+      "Dysplazie levých oddílů",
+      "Otevřena arteriální dučej"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["Defekt síňového septa", "Defekt komorového septa"],
+    "description": ["Vrozené srdeční vady – WikiSkripta"],
+    "img": [""]
+  },
+
+  {
+    "question": "107. Pro Werdniga-Hoffmana NEplatí: 😊",
+    "answers": [
+      "hematurie",
+      "začátek v předškolním věků",
+      "svalová hypotonie",
+      "progres"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["hematurie", "začátek v předškolním věků"],
+    "description": ["Spinální svalové atrofie (pediatrie) – WikiSkripta"],
+    "img": [""]
+  },
+
+  {
+    "question": "108. Koarktace aorty (Klener)",
+    "answers": [
+      "vede ke snížení systolického tlaku v levé komoře",
+      "vede od dětství k těžké dušnosti",
+      "vyskytuje se téměř výhradně u žen",
+      "může být komplikována infekční endokarditidou"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["může být komplikována infekční endokarditidou"],
+    "description": ["Коарктація аорти — це вроджене звуження аорти, яке може призводити до різних ускладнень, включаючи інфекційний ендокардит. Пацієнти з коарктацією аорти мають підвищений ризик розвитку інфекційного ендокардиту, особливо якщо є супутні вади серця, такі як бікуспідальна аортальна клапан. "],
+    "img": [""]
+  },
+
+  {
+    "question": "109. Při koarktaci aorty nacházíme (Klener)",
+    "answers": [
+      "stejný krevní tlak na horních i dolních končetinách",
+      "stejnou kvalitu pulsu na horních i dolních končetinách",
+      "oslabenou pulsaci na horních končetinách",
+      "zvýšení krevního tlaku na horních končetinách"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["zvýšení krevního tlaku na horních končetinách"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "110. Pro koarktaci aorty svědčí (Klener)",
+    "answers": [
+      "snížený krevní tlak na horních končetinách",
+      "snížený krevní tlak na dolních končetinách",
+      "pulsus paradoxus",
+      "pulsus alternans"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["snížený krevní tlak na dolních končetinách"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "111. U koarktace aorty postduktálního typu je (Olomouc)",
+    "answers": [
+      "hypotenze na horních končetinách",
+      "Normotenze",
+      "hypertenze na dolních končetinách",
+      "hypotenze na dolních končetinách"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["hypotenze na dolních končetinách"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "112. U preduktální koarktace aorty nacházíme (Olomouc)",
+    "answers": [
+      "cyanózu na dolních končetinách",
+      "hypertrofii levé komory",
+      "hypertrofii pravé komory",
+      "snížení cévní kresby na rtg plic"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "cyanózu na dolních končetinách",
+      "hypertrofii levé komory"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "113. Nemocný má slabou pulsace na а.femoralis a rozdíl ve TK na HK a DK, na co to může ukazovat? (apelace – správně)",
+    "answers": ["Koarktace aorty"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["Koarktace aorty"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "114. Základní diagnostická metoda pro koarktace aorty? 😊",
+    "answers": ["Echokardiografie", "MR anebo CT angiografie (якщо не буде 1)"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["Echokardiografie", "MR anebo CT angiografie (якщо не буде 1)"],
+    "description": [
+      "Koarktace aorty – WikiSkripta  *  CT angiografie či MRI pro zobrazení anatomie před intervenčním nebo chirurgickým řešením.  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "115. Usurace žeber na rtg hrudníku nacházíme u: 😊",
+    "answers": [
+      "transpozice velkých tepen",
+      "koarktace aorty",
+      "stenózy plicnice",
+      "defektu komorového septa"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["koarktace aorty"],
+    "description": ["Promluvili jsme to během shuzek"],
+    "img": [""]
+  },
+
+  {
+    "question": "116. Kontinuální šelest se objevuje u (Klener)",
+    "answers": [
+      "ductus arteriosus apertus",
+      "perforace aortální chlopně při infekční endokarditidě",
+      "kombinované aortální vady",
+      "trombu v levé síni ventilově ucpávajícímu mitrální ústí"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["ductus arteriosus apertus"],
+    "description": ["Відкрита артеріальна протока (ductus arteriosus apertus) — це вроджена вада серця, при якій після народження зберігається сполучення між аортою та легеневою артерією. У нормі ця протока закривається незабаром після народження, але якщо цього не відбувається, кров продовжує перетікати з аорти в легеневу артерію через протоку. Механізм виникнення континуального шуму при відкритій артеріальній протоці: • Систола: Під час систоли тиск в аорті вищий, ніж у легеневій артерії, тому кров тече з аорти через протоку в легеневу артерію. • Діастола: У діастолу тиск в аорті залишається вищим, ніж у легеневій артерії, тому крововідтік через протоку продовжується. Цей постійний перепад тиску між аортою та легеневою артерією протягом усього серцевого циклу призводить до виникнення безперервного "машинного" шуму, який вислуховується при аускультації. "],
+    "img": [""]
+  },
+
+  {
+    "question": "117. Ebsteinova anomálie je charakterizována (Klener)",
+    "answers": [
+      "defektem septa síní a mitrální stenózou",
+      "anomální polohou změněných cípů trikuspidální chlopně",
+      "defektem septa síní s trikuspidální insuficiencí",
+      "defektem septa síní a rozštěpem předního cípu mitrální chlopně"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["anomální polohou změněných cípů trikuspidální chlopně"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "118. Eisenmengerův syndrom je (Klener)",
+    "answers": [
+      "zkratová vada s plicní hypertenzí",
+      "zkratová vada s hypertrofií levé komory",
+      "zkratová vada se sníženou plicní cévní rezistencí",
+      "zkratová vada se stenózou plicnice"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["zkratová vada s plicní hypertenzí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "119. Eisenmengerův syndrom se vyskytuje u (Klener)",
+    "answers": [
+      "vrozené stenózy plicnice",
+      "mitrální insuficience",
+      "mitrální stenózy",
+      "významného defektu komorového septa"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["významného defektu komorového septa"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "120. Eisenmengerův syndrom vzniká (Olomouc)",
+    "answers": [
+      "po myokarditidě",
+      "u chlopenních vad",
+      "u vad s významným pravolevým zkratem",
+      "u vad s významným levopravým zkratem"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["u vad s významným levopravým zkratem"],
+    "description": ["Вроджені аномалії серця, які, якщо їх не лікувати, можуть призводити до синдрому Ейзенменгера, включають: • Дефект міжшлуночкової перегородки (ДМЖП) • Дефект атріовентрикулярної перегородки (ДАВП) • Відкрита артеріальна протока (ОАП) • Аортопульмональне вікно • Дефект міжпередсердної перегородки (ДМПП) • Артеріальний стовбур • Подвійне відходження магістральних судин від правого шлуночка (DORV) без легеневого стенозу. • Часткове аномальне венозне повернення (PAPVR, при якому деякі легеневі вени з'єднуються з правим передсердям замість лівого передсердя) "],
+    "img": [""]
+  },
+
+  {
+    "question": "121. Kritická vrozená srdeční vada (Olomouc)",
+    "answers": [
+      "je charakteristická přítomností intrakardiálních zkratů",
+      "vede bez operačního řešení k úmrtí dítěte",
+      "je terapeuticky neovlivnitelná",
+      "je vždy kombinována s postižením jiných orgánů"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["vede bez operačního řešení k úmrtí dítěte"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "122. Perzistující plicní hypertenze u novorozence (Olomouc)",
+    "answers": [
+      "je charakterizována přetrváváním pravo-levých zkratů na úrovni foramen ovale a tepenné dučeje v důsledku nekardiální patologie",
+      "je důsledkem vrozené srdeční vady s velkým levo-pravým zkratem",
+      "tato klinická jednotka se u novorozenců nevyskytuje",
+      "vyskytuje se u extrémně nezralého novorozence"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "je charakterizována přetrváváním pravo-levých zkratů na úrovni foramen ovale a tepenné dučeje v důsledku nekardiální patologie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "123. Stenóza plicnice je (Klener)",
+    "answers": [
+      "nejčastěji vrozená",
+      "nejčastěji sklerotická",
+      "vždy valvulární",
+      "zpravidla revmatického původu"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["nejčastěji vrozená"],
+    "description": ["Etiologie 1.vrozená srdeční vada (nejčastějí) 2.postrevmatické postižení chlopně 3.karcinoid (fibrotizaci pulmonální chlopně) Může být lokalizována •pod chlopní (zúžení infundibula pravé komory u Fallatovy tetralogie nebo defektu septa komor), •v místě chlopně •nad chlopní •v periferii větví plicnice (opět může být součástí různých vrozených srdečních vad). "],
+    "img": [""]
+  },
+
+  {
+    "question": "124. Při hemodynamicky významné stenóze plicnice (Klener)",
+    "answers": [
+      "nedochází k hypertrofii pravé komory",
+      "dochází k vzestupu tlaku v levé síni",
+      "zvyšuje se srdeční index",
+      "tlak v plicnici není zvýšený"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["tlak v plicnici není zvýšený"],
+    "description": ["Аналіз варіантів відповіді: 1. Недохází k hypertrofii pravé komory (Не відбувається гіпертрофії правого шлуночка): Це твердження неправильне, оскільки гіпертрофія правого шлуночка є типовою ознакою гемодинамічно значущого стенозу легеневої артерії. 2. Dochází k vzestupu tlaku v levé síni (Відбувається підвищення тиску в лівому передсерді): Це твердження також неправильне, оскільки при стенозі легеневої артерії тиск у лівому передсерді зазвичай не підвищується. 30 30. Unknown Author 8 лютого 2025 р. о 21:38:19 truncus pulmonalis 3. Zvyšuje se srdeční index (Підвищується серцевий індекс): Це твердження неправильне, оскільки серцевий індекс (показник серцевого викиду) зазвичай знижується через обмежений потік крові через легені. 4. Tlak v plicnici není zvýšený (Тиск у легеневій артерії не підвищений): Це твердження правильне, оскільки через звуження клапана потік крові до легеневої артерії обмежений, що може призводити до нормального або навіть зниженого тиску в ній.  "],
+    "img": [""]
+  },
+
+  {
+    "question": "125. Mezi vady s levo-pravým zkratem NEpatří 😊",
+    "answers": [
+      "Fallotova tetralogie",
+      "defekt komorového septa",
+      "syndrom hypoplastického levého srdce",
+      "ducteus arteriosus persistens"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "Fallotova tetralogie",
+      "syndrom hypoplastického levého srdce"
+    ],
+    "description": [
+      "https://lh3.googleusercontent.com/pw/AP1GczMXrJipoqecGE0BGq_7R24OYnwgzwTnmnCYMSfZlOtJcT4uqTaFBbayJiqZbQ850yzYQbt2Q4sCi7KTKWtAIIob0CkmtbwVZ32emvrvxGpF6mOKOZcoNUGmvsvWtqm-3s68fNXMmE3weapRlYMNPg51=w586-h186-s-no-gm?authuser=0"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "126. Pro stenózu aorty nebo plicnice je typické (Olomouc)",
+    "answers": [
+      "ejekční šelest",
+      "regurgitační šelest",
+      "kontinuální šelest",
+      "rozštěp II. Ozvy"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["ejekční šelest"],
+    "description": ["Auskultačním nálezem je ejekční šelest nad pulmonální chlopní, případně(може бути, але не завжди!) rozštěp druhé ozvy. "],
+    "img": [""]
+  },
+
+  {
+    "question": "127. Balónkovou dilatací se v dětském věku řeší (Olomouc)",
+    "answers": [
+      "rekoarktace aorty",
+      "koarktace aorty",
+      "pulmonální stenóza",
+      "aortální stenóza"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "rekoarktace aorty",
+      "pulmonální stenóza",
+      "aortální stenóza"
+    ],
+    "description": ["Existuje riziko rekoarktace, kterou lze odstranit balónkovou angioplastikou. WikiSkripta"],
+    "img": [""]
+  },
+
+  {
+    "question": "128. U Downova syndroma je typickou vrozenou srdeční vadou (Olomouc)",
+    "answers": [
+      "transpozice velkých tepen",
+      "pulmonální stenóza",
+      "atrézie atrioventrikulárních chlopní",
+      "defekt atrioventrikulárního septa"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["defekt atrioventrikulárního septa"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "129.Педиатрия. Кардиология.  Děti s mechanickou náhradou srdeční chlopně vyžadují  *(Children with mechanical heart valve replacement require) (Olomouc).",
+    "answers": [
+      "celoživotní podávání Anopyrinu",
+      "pravidelné echokardiografické sledování funkce chlopně bez nutnosti trvalé medikamentózní léčby",
+      "warfarinizaci při infektu a při operačních výkonech",
+      "trvalou warfarinizaci"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["trvalou warfarinizaci"],
+    "description": [
+      "Источники которые смогла найти на подтверждение  Dítě po propuštění z Dětského kardiocentra bude vyžadovat trvalé sledování dětským kardiologem. První výkon není téměř nikdy definitivní a děti budou vyžadovat opakované katetrizační nebo chirurgické zákroky, někdy i s výměnou aortální chlopně. Všichni, kterým chirurg našije mechanickou chlopenní protézu, budou potřebovat celoživotně protisrážlivou léčbu a dodržovat pravidla prevence infekční endokarditidy.  Источник: статья «Průvodce onemocněním srdce u dětí» prof. MUDr. Milan Šamánek, DrSc., FESC Dětské kardiocentrum 2. LF UK a FN Motol v Praze  Второй источник:  https://ospdl.webflow.io/posts/pece-o-deti-se-srdecni-vadou-v-ordinaci-pldd MUDr. Petr Jehlička, Ph.D.  SRDEČNÍ VADY A BĚŽNÁ ONEMOCNĚNÍ  – ATB jen při prokázaném či pravděpodobném bakteriálním onemocnění,  – při nejasných teplotách myslet na infekční endokarditidu!  – u dětí s cyanózou při TT či průjmech dobře hydratovat – riziko tromboembolie,  – hyperpyrexie zvyšuje nároky na oběh – časně zahájit antipyretickou léčbu,  – warfarin – časté kontroly INR během léčby.  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "130. Педиатрия. Кардиология. Pro transpozici velkých tepen platí (Olomouc).",
+    "answers": [
+      "plicní a systémový oběh jsou uspořádány paralelně",
+      "vede v 90% k prenatálnímu úmrtí plodu",
+      "jedná se o kritickou vrozenou srdeční vadu",
+      "plicní a systémový oběh jsou uspořádány sériově"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "plicní a systémový oběh jsou uspořádány paralelně",
+      "jedná se o kritickou vrozenou srdeční vadu"
+    ],
+    "description": [
+      "Источник: https://www.wikiskripta.eu/w/Transpozice_velk%C3%BDch_tepen Použitá literatura TASKER, Robert C., Robert J. MCCLURE a Carlo L. ACERINI. Oxford Handbook od Paediatrics. 1. vydání. Oxford : Oxford University Press, 2008. s. 249. ISBN 978-0-19-856573-4. VANĚK, Ivan, et al. Kardiovaskulární chirurgie. 1. vydání. Praha : Karolinum, 2003. 236 s. ISBN 8024605236.   Transpozice velkých tepen (TGA) je vrozená vada, při které je systémový a plicní krevní oběh rozdělen na dva paralelní oběhy.  Hlavní tepny odstupují z nepatřičných komor a tím se tvoří dva uzavřené okruhy – aorta odstupuje z pravé komory a plicnice z komory levé.  Neokysličená žilní krev ze systémového řečiště prochází pravou síní, pravou komorou a aortou zpět do systémové cirkulace. Okysličená krev z plic jde levou síní, levou komorou a plicnicí zpět do plic.  Tato vada je slučitelná se životem pouze za přítomnosti defektu septa síní, defektu septa komor či persistující tepenné dučeje. V těchto případech koluje v systémovém oběhu smíšená krev. Když je přítomen defekt septa, jsou děti méně cyanotické, rychleji ale dochází k rozvoji srdečního selhání a k vývoji plicní hypertenze. Kombinace transpozice + defekt septa + stenóza plicnice způsobuje cyanózu, ale k selhání či k plicní hypertenzi nedochází.  Jedná se vždy o kritickou vadu s časnými projevy závažné hypoxie. Mezi příznaky řadíme -- cyanózu, -- tachypnoe, -- projevy těžkého srdečního selhání, -- hyperaktivní prekordium, -- nebývá slyšet žádný šelest (s výjimkou té kombinace se stenózou plicnice).  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "131. Педиатрия. Кардиология. Кардиохирургия Amplatzův okluder slouží (Olomouc)",
+    "answers": [
+      "balónkové dilataci pulmonální stenózy",
+      "balónkové dilataci rekoarktace aorty",
+      "k perkutánnímu uzávěru defektu síňového septa",
+      "k perkutánnímu uzávěru Botallova dučej"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "k perkutánnímu uzávěru defektu síňového septa"
+    ],
+    "description": [
+      "Источник: https://www.wikiskripta.eu/w/ Amplatzer%C5%AFv_okluder в нем ссылка на стаью https://zdravi.euro.cz/clanek/postgradualni-medicina/ katetrizacni-uzaver-foramen-ovale-patens-a-defektusepta-sini-ty-167151 Amplatzerův okluder se používá pro terapii defektů srdečních sept. Okluder je dvojitý kovový "košíček" tvaru cívky, zavádí se nejčastěji miniinvazivně pod skiaskopickou kontrolou pomocí speciálního katetru, který při defektu septa síní či foramen ovale patens uzavírá mezisíňové septum a řeší tak vzniklý levopravý zkrat. Další typy Amplatzerových okluderů se používají např. pro řešení vrozených i získaných defektů septa komor, arteriovenózních píštělí, ductus arteriosus a dalších defektů. Použití Amplatzerova okluderu je bezpečné a efektivní řešení, které ve velkém množství nahrazuje kardiochirurgický výkon"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "132. Педиатрия. Кардиология.  Centrální cyanóza vzniká u 😊 ",
+    "answers": [
+      "Srdečních vad s pravolevým zkratem ",
+      "těžkých nemoci plic ",
+      "u stenóz chlopní velkých arterií",
+      "srdečních vad s levopravým zkratem"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "Srdečních vad s pravolevým zkratem ",
+      "těžkých nemoci plic"
+    ],
+    "description": [
+      "Ссылка на  LEBL, Jan, Kamil PROVAZNÍK a Ludmila HEJCMANOVÁ, et al. Preklinická pediatrie. 2. vydání. Praha : Galén, 2007. s. 113. ISBN 978-80-7262-438-6.  Centrální cyanóza je typ cyanózy, který se vyznačuje promodralými sliznicemi, akra jsou teplá. Zapřičiňuje ji nedostatečná saturace arteriální krve kyslíkem. Projevuje se při vzestupu absolutního množství redukovaného hemoglobinu v proudící krvi nad 50 g/l.[1] Při anémii jsou projevy cyanózy mírnější, při polyglobulii jsou naopak výraznější.  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "133. Кардиология.   Riziko vad s levo-pravým zkratem spočívá v (Olomouc)  ",
+    "answers": [
+      "častějších respiračních infekcích — bronchitidách, pneumoniích ",
+      "rozvoji plicní hypertenze ",
+      "rozvoji dilatativní kardiomyopatie",
+      "maligních arytmiích"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "častějších respiračních infekcích — bronchitidách, pneumoniích ",
+      "rozvoji plicní hypertenze "
+    ],
+    "description": [
+      "Про častějších respiračních infekcích –  нигде нет информации, только в авторской атестации Tomáš Zatočil для кардиологов нашла патогенез (атестацию скачала) Objemové a tlakové přetížení PK - Plicní hypertenze, srdeční selhání (25%†) - PL zkrat – hypoxie - nfekce (bronchopn., IE, mozkové abscesy ,akné) hypoxie PL zkrat Koagulopatie , sideropenie, mikrocytóza Hemoptýza (13%†) Tromby v plicnici Arytmie, NSS (30%†) Dna, osteopatie, cholcystolithiáza ,CH RI hyperurikémie (32%† s CMP, graviditou, komplikace operací)   Источник легочной гипертензии: https://www.wikiskripta.eu/w/Vrozen%C3%A9_srde%C4%8Dn%C3%AD_vady/Repetitorium  Vrozené srdeční vady s levo-pravým zkratem  defekt septa komor  defekt septa síní,  otevřený ductus arteriosus  defekt AV septa,  parciální anomální návrat plicních žil,  Lutembacherův syndrom (kombinace defektu septa síní a vrozené nebo získané stenózy mitrální chlopně)  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "134. Педиатрия. Кардиология.  Fetální cirkulace, je typická (Olomouc) ",
+    "answers": [
+      "přítomnost intrapulmonálních zkratů ",
+      "přítomnost foramen ovale a Botallova dučej/ductus arteriosus (2024) ",
+      "hypoplastickou levou síní",
+      "vysokou plicní arteriální rezistencí "
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "přítomnost intrapulmonálních zkratů ",
+      "přítomnost foramen ovale a Botallova dučej/ductus arteriosus (2024) ",
+      "vysokou plicní arteriální rezistencí "
+    ],
+    "description": [
+      "Krevní oběh plodu je modifikován tak, aby docházelo k výměně krevních plynů mezi tělem plodu a placentou, placenta tedy nahrazuje plíce plodu. Krev se zde obohacuje kyslíkem a živinami a zbavuje se odpadních látek (CO2).  A dále krev obchází plíce, jež jsou u plodu v děloze nefunkční. Levá a pravá strana krevního oběhu plodu komunikují prostřednictvím dvou zkratů, které jsou pravolevé: foramen ovale – mezi pravou a levou srdeční síní; ductus arteriosus – mezi plicnicí a aortou (za odstupem tepen zásobujících HK a hlavu). Krev z těla plodu je odváděna párovými aa. umbilicales (větve a. iliaca interna, po porodu jejich větší část zaniká – tzv. chordae arteriarum umbilicalium seu ligg. umbilicalia medialia), tyto tepny vstupují do pupečníku (spojení mezi plodem a placentou), po okysličení a výměně metabolitů je krev z placenty vedena do těla plodu opět pupečníkem ve v. umbilicalis (ta je nepárová – pupečník tedy obsahuje jednu umbilikální žílu a dvě umbilikální tepny), v. umbilicalis probíhá v těle plodu jako dolní okraj lig. teres hepatis od pupku k játrům (po porodu se v. umbilicalis mění v lig. teres hepatis). "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "135. Педиатрия. Кардиология. Otevřená Botallova dučej se uzavírá *(Botalli or ductus arteriosus/ Otevřená tepenná dučej) (Olomouc)",
+    "answers": [
+      "bez závislosti na pO2 v arteriální krvi",
+      "definitivně s prvním vdechem",
+      "v závislosti na pO2 v arteriální krvi ",
+      "kontrakcí svaloviny ve stěně dučeje v prvních hodinách po porodu "
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "v závislosti na pO2 v arteriální krvi ",
+      "kontrakcí svaloviny ve stěně dučeje v prvních hodinách po porodu "
+    ],
+    "description": [
+      "V typickém případě se Botallova dučej zavře při prvním nadechnutí – náhlý vzestup parciálního tlaku kyslíku v krvi totiž způsobí, že se prudce stáhne hladká svalovina ve stěnách této tepny.[3] Vzestup hodnot kyslíku je ale monitorován již v plicích. Tato rychlá reakce je totiž ovládána látkou známou jako bradykinin, jenž je produkován, když je v krvi vysoká hladina kyslíku.[4] Источник: https://www.wikiskripta.eu/w/Otev%C5%99en%C3%A1_Botallova_du%C4%8Dej  U zdravých donošených novorozenců dochází krátce po porodu k funkčnímu uzávěru dučeje. K úplnému uzávěru dochází téměř u poloviny donošených novorozenců do 24 hodin po narození, u 90 % do 48 hodin a u všech do 96 hodin po narození. Selhání uzávěru a přetrvávání této fetální spojky se nazývá otevřená či perzistující tepenná dučej (PDA).[1] "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "136. Педиатрия. Кардиология. Perzistující Botallovou dučej v novorozeneckém věku uzavíráme (Olomouc) ",
+    "answers": [
+      "Indometacinem *antiflogistika ",
+      "Digoxinem",
+      "prostaglandinem E1",
+      "Anopyrinem"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["Indometacinem *antiflogistika "],
+    "description": [
+      "Источник:  https://www.wikiskripta.eu/w/Otev%C5%99en%C3%A1_Botallova_du%C4%8Dej Terapie Asymptomatický PDA – observace, většina se spontánně uzavře (především u nedonošenců)[2] symptomatický PDA; omezený příjem tekutin, zajištění dostatečného okysličení krve, léčba srdečního selhávání: furosemid, zvážit farmakologické uzavření: indometacin, ibuprofen, absolutní kontraindikace: srdeční vady, u kterých je otevřená dučej nutná pro přežití (např. koarktace aorty), vedlejší účinky: oligurie, retence tekutin a hyponatremie díky sníženému průtoku krve ledvinami, snížený průtok krve mozkem, gastrointestinální komplikace (krvácení, ulcerace), krvácení (zhoršená funkce destiček), ikterus, chirurgická léčba (podvaz, protětí)[2]. srdeční katetrizace (Amplatz okluder) "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "137. Педиатрия. Кардиология. Botallova dučej prenatálně představuje spojení mezi (Olomouc) ",
+    "answers": [
+      "aortou a plicnicí ",
+      "pravou a levou síní",
+      "levou plicními žílami a dolní dutou žílou ",
+      "horní dutou žílou a sinus coronarius"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["aortou a plicnicí "],
+    "description": [
+      "Источник https://cs.wikipedia.org/wiki/Botallova_du%C4%8Dej Tato céva funguje jako zárodečná zkratka mezi plicní tepnou a aortou. Je pojmenovaná podle italského lékaře L. Botalla.[2] "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "138. Педиатрия. Кардиология. Při otevřené Botallove dučeji (Klener) ",
+    "answers": [
+      "směr proudu je vždy levopravý",
+      "arteriální tlak na periferii má malý systolicko-diastolický rozdíl ",
+      "hypertrofuje levá a později i pravá komora ",
+      "nedochází k významné plicní hypertenzi"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["hypertrofuje levá a později i pravá komora "],
+    "description": [
+      "Источник: https://ikch.lfhk.cuni.cz/cs/vrozene-vady https://www.wikiskripta.eu/w/Otev%C5%99en%C3%A1_Botallova_du%C4%8Dej Zkrat dučejí je podle tlakového spádu levo-pravý, tedy z aorty do plicnice a krev proudí tímto směrem nejen v systole, ale i v diastole. Plicní průtok je zvýšen. Velký levo-pravý zkrat zvyšuje tlak v plicním cévním řečišti a podporuje rozvoj plicní cévní obstrukční choroby. Postupně vzniká těžká ireverzibilní plicní hypertenze a může dojít až k obrácení toku ve zkratu na pravo-levý (tzv. Eisenmengerův syndrom). Tento tok již není typicky kontinuální.  Malá dučej bývá asymptomatická. Velká dučej má za následek pomalý růst, neprospívání, kolabující periferní pulzace, hypotenzi (u ELBW se může jednat o první příznak), ventilační potíže, srdeční selhání (s plicním edémem a hepatomegalií). Periferní pulzace jsou nápadně živé, prekordium je aktivní. Nápadná je klidová tachykardie a tachypnoe. Široká krátká dučej způsobuje srdeční selhání, plicní hypertenzi, projevy cyanózy dolní poloviny těla. Středně významná dučej může působit opakované respirační infekce a neprospívání dítěte. Úzká dučej je asymptomatická. Všichni pacienti jsou ohroženi rizikem infekční endokarditidy. U nedonošenců s RDS (respiratory distress syndrom) může otevřená dučej vést k závislosti na umělé plicní ventilaci. U kojenců způsobuje oběhové selhání, projevující se výdechovou dušností z plicního edému. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "139. Педиатрия. Кардиология. U kritických vrozených srdečních vad, jejichž hemodynamika je závislá na otevřené Botallove dučeji podáváme k prevenci uzávěru dučeje?/ Při stavu, kdy musíme převézt do specializované instituce a je hemodynamicky důležité, aby Botallove dučej se zůstal otevřený, který lék se podává dítěti? 😊 ",
+    "answers": ["prostaglandin E1 ", "Anopyrin", "Digoxin", "Indometacin"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["prostaglandin E1 "],
+    "description": [
+      "Источник: https://www.nzip.cz/rejstrikovy-pojem/605 - U některých vrozených srdečních vad může nicméně otevřená Botallova dučej paradoxně zachránit život, neboť umožňuje výměnu krve mezi plicním oběhem a systémovým oběhem. V takových případech je možné udržet Botallovu dučej otevřenou díky infuzi obsahující prostaglandin E1. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "140.  Интерна. Гастроентерология Crohnova choroba:  😊 ",
+    "answers": [
+      "postihuje jenom sliznice",
+      "často mimostřevní /extraintestinální/viscerální projevy ",
+      "častěji postihuje horní část GIT",
+      "postihující celou tloušťku stěny střeva ",
+      "terminální ileum ",
+      "Erythema nodosum není příznakem Crohnove choroby"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "často mimostřevní /extraintestinální/viscerální projevy ",
+      "postihující celou tloušťku stěny střeva ",
+      "terminální ileum "
+    ],
+    "description": ["Розглянемо наведені твердження щодо хвороби Крона: 1. Постихує лише слизову оболонку: • Неправильно. Хвороба Крона характеризується трансмуральним запаленням, тобто уражає всі шари стінки кишківника, а не тільки слизову оболонку. 2. Часті позакишкові (екстраінтестинальні) прояви: • Правильно. Пацієнти можуть мати позакишкові симптоми, такі як артрит, ураження шкіри (наприклад, вузлувата еритема), ураження очей та печінки. 3. Частіше уражає верхню частину шлунково-кишкового тракту: • Неправильно. Хоча хвороба Крона може уражати будь-яку частину шлунково-кишкового тракту, вона найчастіше вражає кінцевий відділ тонкої кишки (термінальний відділ клубової кишки) та початкову частину товстої кишки. 4. Уражає всю товщину стінки кишки: • Правильно. Як зазначено раніше, хвороба Крона є трансмуральним запаленням, що охоплює всі шари стінки кишківника. 5. Термінальний відділ клубової кишки: • Правильно. Термінальний відділ клубової кишки є найбільш частою локалізацією хвороби Крона. 6. Вузлувата еритема не є симптомом хвороби Крона: • Неправильно. Вузлувата еритема є одним із позакишкових проявів хвороби Крона.  "],
+    "img": [""]
+  },
+  {
+    "question": "141. Интерна. Гастроентерология. Хирургия 33-letý manažer s dřívější diagnózou Crohnove choroby byl přijat se známkami akutní střevní neprůchodnosti ilea. Operace odhalila změny - ulcerace v oblasti slepého střeva a ileu přilepené na něj se známkami obstrukce + nacházející se ve střední časti tenkého střeva segment o velikosti 10 cm bez obstrukce a stenózy. Objem OP? 😊❗️ ",
+    "answers": [
+      "ileoanastomózou side-to-side !!! рекомендовано убрать (хоть и отмечено, но ситуация по выявленному второму участку не острая, а кишечник беречь нужно, чтобы не было потом синдрома короткого кишечника и мальабсорбции) Разбирала эту задачу с практикующим хирургом в Чехии – его ответ из предложенных вариантов - resekce slepého střeva a časti ileu s anastomózou side-by-side (ileo-transverzální anastomóza)  ",
+      "resekce slepého střeva a časti ileu s anastomózou side-by-side (ileo-transverzální anastomóza) ",
+      "resekce postižené oblasti slepého střeva + resekce poloviny tenkého střeva ",
+      "strikturoplastická operace а resekce krátké časti tenkého střeva",
+      "strikturoplastická operace slepého střeva",
+      "resekce slepého střeva a časti ileu se anastomózou end-to-end",
+      "resekce slepého střeva a časti ileu a časti tlustého střeva"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "ileoanastomózou side-to-side !!! рекомендовано убрать (хоть и отмечено, но ситуация по выявленному второму участку не острая, а кишечник беречь нужно, чтобы не было потом синдрома короткого кишечника и мальабсорбции) Разбирала эту задачу с практикующим хирургом в Чехии – его ответ из предложенных вариантов - resekce slepého střeva a časti ileu s anastomózou side-by-side (ileo-transverzální anastomóza)  ",
+      "resekce slepého střeva a časti ileu s anastomózou side-by-side (ileo-transverzální anastomóza) "
+    ],
+    "description": [
+      "4.2 Anastomózy – techniky Po resekci dochází k recidivě CN téměř vždy proximálně od anastomózy. Řada studií se snaží prokázat, že šířka anastomózy v ileocekální oblasti ovlivňuje frekvenci recidivy, tedy že preventivní je široká anastomóza, jejíž konstrukce bývá obvykle stranou ke straně [155–160]. Závěrem některých retrospektivních studií [155] bylo, že staplerová ileocekální anastomóza stranou ke straně (side to side) je zatížena signifikantně méně časnými pooperačními komplikacemi než ručně šitá anastomóza koncem ke konci, která byla považována za zlatý standard. Jiné studie tyto výsledky nepotvrdily [156–158]. Dle metaanalýzy z roku 2007 shrnující osm studií, z nichž pouze dvě byly randomizované, vyplývá, že jiné typy anastomóz než ruční koncem ke konci mají signifikantně méně komplikací, ale nebyl rozdíl ve frekvenci recidivy CN [159]. Dle italské retrospektivní studie bylo nejlepších výsledků dosaženo ve skupině nemocných s ručně šitou anastomózou stranou ke straně, která měla nejméně recidiv [157,158]. Z prospektivní multicentrické studie vyplývá, že typ anastomózy frekvenci recidivy ne- ovlivňuje [156]. Další retrospektivní studie ukazuje, že strikturoplastika v ileocekální oblasti má stejné výsledky jako anastomóza, ale ke strikturoplastice byli indikováni pouze nemocní bez abscesu a fistulující CN [160]. Poslední metaanalýza ukazuje, že staplerová anastomóza stranou ke straně oproti ručně šité anastomóze koncem ke konci snižuje frekvenci dehiscencí a pooperačních recidiv, neovlivňuje však délku hospitalizace a jiné komplikace [161]. Této práci je vytýkáno, že pouze tři z osmi zpracovaných studií jsou prospektivní a randomizované (170, 63 a 67 pacientů), nejsou zahrnuta rizika hojení a sledování u staplerové anastomózy je kratší. Pro striktní doporučení nejsou data, která by přinesla velká multicentrická studie.   Doporučení: V současné době je u ileocekální resekce preferována staplerová anastomóza stranou ke straně (EBM 3a, doporučení C). Doporučení však není striktní, anastomóza by měla být široká. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "142. Интерна. Гастроентерология. Хирургия  Metoda výběru při Crohnove chorobě? / Nejvhodnější operační postup při Crohnove chorobě?   ",
+    "answers": [
+      "resekční výkon !!! рекомендовано убрать",
+      "strikturoplastika (při stenozach)",
+      "výjimečně stomie nebo by-passy (obchvaty)",
+      "ileotransverzalní anastomóza ",
+      "Enterostomie"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "strikturoplastika (při stenozach)"
+    ],
+    "description": [
+      "Разбирала эту задачу с практикующим хирургом в Чехии – его ответ - strikturoplastika (při stenozach), а резекцию не отмечать, так как она не является оптимальной  После обсуждения в чате – вопрос был на аппеляции весна 2022 – ответы были изменены и  правильный какой-то вариант из стриктур (их было около 3-х вариантов, но подходил только один) , и что вопрос теоретически должен быть снят "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "143. Интерна. Гастроентерология. Хирургия",
+    "answers": [
+      "na tenkém střevě, pokud nemá  komplikace — strikturoplastika ;  na tlustém střevě — resekce "
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "na tenkém střevě, pokud nemá  komplikace — strikturoplastika ;  na tlustém střevě — resekce "
+    ],
+    "description": [
+      "4.2 Anastomózy – techniky Po resekci dochází k recidivě CN téměř vždy proximálně od anastomózy. Řada studií se snaží prokázat, že šířka anastomózy v ileocekální oblasti ovlivňuje frekvenci recidivy, tedy že preventivní je široká anastomóza, jejíž konstrukce bývá obvykle stranou ke straně [155–160]. Závěrem některých retrospektivních studií [155] bylo, že staplerová ileocekální anastomóza stranou ke straně (side to side) je zatížena signifikantně méně časnými pooperačními komplikacemi než ručně šitá anastomóza koncem ke konci, která byla považována za zlatý standard. Jiné studie tyto výsledky nepotvrdily [156–158]. Dle metaanalýzy z roku 2007 shrnující osm studií, z nichž pouze dvě byly randomizované, vyplývá, že jiné typy anastomóz než ruční koncem ke konci mají signifikantně méně komplikací, ale nebyl rozdíl ve frekvenci recidivy CN [159]. Dle italské retrospektivní studie bylo nejlepších výsledků dosaženo ve skupině nemocných s ručně šitou anastomózou stranou ke straně, která měla nejméně recidiv [157,158]. Z prospektivní multicentrické studie vyplývá, že typ anastomózy frekvenci recidivy ne- ovlivňuje [156]. Další retrospektivní studie ukazuje, že strikturoplastika v ileocekální oblasti má stejné výsledky jako anastomóza, ale ke strikturoplastice byli indikováni pouze nemocní bez abscesu a fistulující CN [160]. Poslední metaanalýza ukazuje, že staplerová anastomóza stranou ke straně oproti ručně šité anastomóze koncem ke konci snižuje frekvenci dehiscencí a pooperačních recidiv, neovlivňuje však délku hospitalizace a jiné komplikace [161]. Této práci je vytýkáno, že pouze tři z osmi zpracovaných studií jsou prospektivní a randomizované (170, 63 a 67 pacientů), nejsou zahrnuta rizika hojení a sledování u staplerové anastomózy je kratší. Pro striktní doporučení nejsou data, která by přinesla velká multicentrická studie. Doporučení: V současné době je u ileocekální resekce preferována staplerová anastomóza stranou ke straně (EBM 3a, doporučení C). Doporučení však není striktní, anastomóza by měla být široká. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "144. Интерна. Гастроентерология Morbus Crohn (Olomouc) ",
+    "answers": [
+      "postihuje vždy jen terminální ileum ",
+      "postihuje vždy jen jícen",
+      "může postihnout celý GIT ",
+      "postihuje vždy jen tlusté střevo"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["může postihnout celý GIT "],
+    "description": ["Источник: https://www.fnbrno.cz/2-bartusek-morbus-crohn/f4678 Crohnova choroba Bartušek D. Klinika radiologie a nukleární medicíny FN Brno – Bohunice a Lékařské fakulty Masarykovy univerzity, Brno přednosta: prof. MUDr. Vlastimil Válek, CSc., MBA Klasifikace Crohnovy nemoci dle anatomické lokalizace: 1. Ileitida (ve 25–35 %) se projevuje kolikovitými bolestmi v břiše, krvácením, perforací, strikturami, píštělemi, tvorbou abscesů. 2. Jejunoileitida (v 5 %), projevuje se obstrukcí, vnitřními píštělemi a abscesy. 3. Ileokolitida, ileocékální nebo ileokolonická forma (45 %). Projevuje se krvácením, perforacemi, tvorbou striktur s následnou obstrukcí, tvorbou píštělí a abscesů a častou rekurencí po chirurgickém výkonu. 4. Kolitida (30 %) je často provázena perianálním postižením a extraintestinálními manifestacemi. 5. Anorektální onemocnění (30–40 %) bývá často sdruženo s kolitidou nebo ileokolitidou. 6. Postižení apendixu je časté (50 %) při ileokolitidě. Může být i izolovaná Crohnova nemoc apendixu, ale je méně obvyklá. 7. Orální postižení bývá zpravidla ve spojení s ileokolitidou. 8. Gastroduodenální postižení - (0,5–4 %). Источник: https://www.internimedicina.cz/pdfs/int/2009/01/03.pdf Crohnova nemoc – klasifikace, diagnostika, léčba a kvalita života MUDr. Libor Gabalec Interní oddělení – gastroenterologie, Orlickoústecká nemocnice a. S Crohnova nemoc (CN) je chronický, recidivující, segmentární, transmurální zánět trávicí trubice, v typických případech granulomatózní. Zánětlivé změny se mohou vyskytovat v celém zažívacím traktu od úst až po konečník. "],
+    "img": [""]
+  },
+  {
+    "question": "145. Интерна. Гастроентерология. Pro diagnózu Morbus Crohn je charakteristickým histologickým nálezem (Olomouc) ",
+    "answers": [
+      "zánět  postihující pouze slizniční vrstvu stěny střevní ",
+      "chybění gangliových buněk v plexus myentericus",
+      "zánět postihující pouze sliznici a submukózu",
+      "zánět postihující celou střevní stěnu"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["zánět postihující celou střevní stěnu"],
+    "description": [
+      "Источник: https://www.wikiskripta.eu/w/Crohnova_choroba V mikroskopu vidíme edém sliznice s polymorfonukleární infiltrací, následně fibroprodukce se vznikem tuberkuloidních granulomů (epitheloidní buňky a obrovské buňky Langhansova typu, na rozdíl od TBC nekaseifikují) v submukóze, subseróze i regionálních uzlinách. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "146. Интерна. Гастроентерология.  O Crohnově chorobě platí: (Olomouc)  ",
+    "answers": [
+      "postižení je segmentální, střídají se úseky postižené a zdravé, ostře ohraničené ",
+      "ke zhodnocení rozsahu postižených úseků trávící trubice se užívá endoskopických a rentgenových vyšetření ",
+      "v bioptických vzorcích musíme nalézt vždy epiteloidní granulomy, jinak nelze diagnózu Crohnovy choroby stanovit",
+      "postihuje kteroukoliv část zažívacího traktu od dutiny ústní po anus "
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "postižení je segmentální, střídají se úseky postižené a zdravé, ostře ohraničené ",
+      "postihuje kteroukoliv část zažívacího traktu od dutiny ústní po anus ",
+      "ke zhodnocení rozsahu postižených úseků trávící trubice se užívá endoskopických a rentgenových vyšetření "
+    ],
+    "description": ["Crohnova nemoc – klasifikace, diagnostika, léčba a kvalita života MUDr. Libor Gabalec Interní oddělení – gastroenterologie, Orlickoústecká nemocnice a. s. Crohnova nemoc (CN) je chronický, recidivující, segmentární, transmurální zánět trávicí trubice, v typických případech granulomatózní. Zánětlivé změny se mohou vyskytovat v celém zažívacím traktu od úst až po konečník. Endoskopie a biopsie Koloskopie s vyšetřením terminálního ilea a odebrání bioptických vzorků(зразків) z jednotlivých segmentů tlustého střeva je považována za základní vyšetření. Pro CN je typický nález segmentárního postižení obvykle nepostihujícího celou cirkumferenci. Lokalizovaný erytém sliznice a aftoidní vředy jsou typické pro časnou fázi nemoci. Vředy typické pro CN jsou plazivé a podélně orientované. Charakteristický je také dlaždicový reliéf sliznice („cobblestone“ reliéf). Novější endoskopické metody, kapslová endoskopie a enteroskopie jsou přínosné k vyšetření tenkého střeva, zvláště při negativním nebo neúspěšném vyšetření terminálního ilea při koloskopii u pacientů bez obstrukce. Kapslová endoskopie má význam u pacientů ke stanovení rozsahu a tíže choroby v oblasti tenkého střeva, k vyloučení rekurence po operaci a při podezření na indeterminovanou kolitidu. Ke komplikacím kapslové endoskopie patří retence kapsle, což se dá obejít tzv. retenční kapslí, která se při uvíznutí postupně rozpadne a zbude 2 mm velké radiofrekvenční jádro Histologické vyšetření Pro spolehlivější diagnostiku CN jsou doporučovány alespoň 2 biopsie z 5 segmentů tlustého střeva, včetně rekta a terminálního ilea. Nález negativní nebo necharakteristický CN nevylučuje, typický nález může být zastižen jen v některé lokalizaci a v určitém stadiu nemoci. Gastroskopie je doporučována u pacientů s příznaky horní dyspepsie. Odběr biopsie s nálezem lokální aktivní gastritidy je pokládán za znak CN Radiologické vyšetření tenkého střeva Radiologie nabízí celou řadu metod od enteroklýzy, sonografie, počítačové tomografie až k MR enteroklýze. Pasáž tenkým střevem je považována za vyšetření málo diagnosticky výtěžné. Enteroklýza (пасаж барію) dovoluje posoudit rozsah postižení a díky vysoké senzitivitě (až 93 %) a specificitě (až 92 %), se stala standardní metodou. CT enteroklýza a CT enterografie jsou dnes používány k průkazu postiženého segmentu a k průkazu mimostřevních komplikací – absces, píštěl. Sonografy nové generace mají také významný přínos při diagnostice komplikací. MR enteroklýza nepůsobí radiační zátěž a má vysokou senzitivitu 95 % a specificitu 93 %. Z metod 35 35. Unknown Author 10 лютого 2025 р. о 15:02:35 Гістопатологічні дані — це результати мікроскопічного дослідження тканин, отриманих під час біопсії або хірургічного втручання. При хворобі Крона такі дослідження допомагають виявити характерні зміни в стінці кишківника, зокрема: Трансмуральне запалення: Запальний процес охоплює всі шари стінки кишки, від слизової до серозної оболонки. Наявність гранульом: Епітеліоїдні гранульоми без казеозного некрозу можуть бути присутні, але їх відсутність не виключає діагнозу хвороби Крона. Зміни в криптах: Деформація та нерівномірність крипт, а також наявність криптабсцесів. nukleární medicíny se nabízí leukocytární scan – metoda minimálně invazivní, dovolující hodnotit zánětlivou aktivitu. "],
+    "img": [""]
+  },
+  {
+    "question": "147. Интерна. Гастроентерология.  Idiopatické onemocnění GIT (apelace – správně)  ",
+    "answers": [
+      "mezi primární nespecifické střevní záněty patří idiopatická proktokolitida (colitis ulcerosa) a Crohnova nemoc "
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "mezi primární nespecifické střevní záněty patří idiopatická proktokolitida (colitis ulcerosa) a Crohnova nemoc "
+    ],
+    "description": [
+      "Z testů Klenera:--Nejzávažnější komplikací idiopatické proktokolitidy (IP) je: toxické megakolon--Základem medikamentózní terapie idiopatické proktokolitidy je: přípravky kyseliny 5-aminosalicilové--Operativní terapie idiopatické proktokolitidy: může vést k úplnému uzdravení--K rozlišení idiopatické proktokolitidy a Crohnovy nemocy je důležité: regionální nebo kontinuální postiženi při koloskopii nebo irigoskopii--Nejtypičtější lokalizace Crohnovy nemoci: terminální ileum--“Přeskočené”úseky (skip areas): jsou typické pro Crohnovu nemoc --Typické pro idiopatické proktokolitidy je postiženi : rekta  Этот тест не трогала – отвечен до меня. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "148. Урология Nechtěný odtok moči intaktní uretrou (močový měchýř) při náhlém zvýšení intraabdominalniho tlaku bez současné kontrakce detruzoru je: 😊 ",
+    "answers": [
+      "paradoxní ischurií",
+      "stresovou inkontinence",
+      "enuréza",
+      "projev vezikovag pistele"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["stresovou inkontinence"],
+    "description": [
+      "Stresová inkontinence moči je takový typ inkontinence moči, při němž k úniku dochází bez kontrakce detruzoru při prostém zvýšení intraabdominálního tlaku (tj. „stres“)[1]. Příčinou je nedostatečná funkce uzávěrového mechanismu uretry[2]. Při zvýšení nitrobřišního tlaku patologicky nedochází ke stlačení uretry (normální mechanismus), ale uretra se naopak volně pohybuje (hypermobilita) a tlak vytlačí přes stěnu měchýře moč do uretry."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "149. Гематология Co se aktivuje na začátku při řezné raně? (apelace – správně) ",
+    "answers": [
+      "aktivace trombocytu",
+      "indukce fibrinolytického systému ",
+      "vazokonstrikce  "
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["vazokonstrikce  "],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "150. Эндокринология Zvýšená hladina ADH 😊  ",
+    "answers": [
+      "zvýšena resorpce vody ledvinami, vyšší koncentrace moči, menší objem ",
+      "Snížena resorpce vody ledvinami",
+      "Snížena koncentrace moči"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "zvýšena resorpce vody ledvinami, vyšší koncentrace moči, menší objem "
+    ],
+    "description": [""],
+    "img": [""]
   }
 ]
