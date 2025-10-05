@@ -3,6 +3,7 @@ import Medicine_2023 from '../../Files/Medicine_2023.json';
 import Klener from '../../Files/ClenerNew.json';
 import Legislativa from '../../Files/Legislativa_Báze_2023.json';
 import Živný from '../../Files/Živný.json';
+import Medicine_2025 from '../../Files/Medicine_15_05_2025.json';
 import debounce from 'lodash/debounce';
 
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
@@ -70,6 +71,9 @@ const AllTests: React.FC = () => {
         break;
       case 'Medicine_2023':
         setAllTests(Medicine_2023);
+        break;
+      case 'Medicine_2025':
+        setAllTests(Medicine_2025);
         break;
       case 'Legislativa_Báze_2023':
         setAllTests(Legislativa);
@@ -149,6 +153,7 @@ const AllTests: React.FC = () => {
             <option value="Klener">Klener</option>
             <option value="Živný">Živný</option>
             <option value="Medicine_2023">Medicine_2023</option>
+            <option value="Medicine_2025">Medicine_2025</option>
           </Select>
         </WraperForm>
       </FormContainer>
@@ -225,7 +230,7 @@ const AllTests: React.FC = () => {
         closeModal={closeModal}
         props={selectedQuestion}
       />
-      {/* <Functions></Functions> */}
+      {/* return <Functions />; */}
     </>
   );
 };

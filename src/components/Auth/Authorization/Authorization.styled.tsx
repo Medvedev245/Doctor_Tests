@@ -1,21 +1,6 @@
 import styled from 'styled-components';
 import Tab from '@mui/material/Tab';
-import Box from '@mui/material/Tab';
 import TabList from '@mui/lab/TabList';
-
-export const BoxComponent = styled(Box)`
-  width: 50%;
-  height: 600px;
-  typography: body1;
-  // display: 'flex',
-  margin: 0 auto;
-  //tablet
-  @media screen and (max-width: 1200px) {
-  }
-  // Mobil
-  @media screen and (max-width: 767px) {
-  }
-`;
 
 export const TabComponent = styled(Tab)`
   width: 100px;

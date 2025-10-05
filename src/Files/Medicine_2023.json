@@ -400,14 +400,23 @@
       "Srdeční selhání (snižuje spotřebu kyslíku myokardu)",
       "Glaukom (timolol a betaxolol inhibují tvorbu nitrooční tekutiny)",
       "Angina pectoris (snižuje spotřebu kyslíku myokardu)",
-      "Parkinsonova nemoc  * také může byt Astma bronch."
+      "Parkinsonova nemoc  * také může byt Astma bronch.",
+      "hypotyreoza",
+      "vřed???",
+      "Plicní edem"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
-    "correctAnswers": ["Parkinsonova nemoc  * také může byt Astma bronch."],
+    "correctAnswers": [
+      "Parkinsonova nemoc  * také může byt Astma bronch.",
+      "hypotyreoza",
+      "vřed???",
+      "Plicní edem"
+    ],
     "description": [""],
     "img": [""]
   },
+
   {
     "question": "25. Kdy můžeme nalézt srdeční vadu? (heart defect) 😊 Акушерство",
     "answers": [
@@ -519,6 +528,7 @@
     "description": [""],
     "img": [""]
   },
+
   {
     "question": "31. Začátek porodu:",
     "answers": [
@@ -665,6 +675,7 @@
     ],
     "img": [""]
   },
+
   {
     "question": "40. Taktika pro předčasný odtok plodové vody:",
     "answers": [
@@ -862,7 +873,7 @@
   },
 
   {
-    "question": "53. Štěkavý kašel je příznakem? (barking cough)",
+    "question": "53. Štěkavý kašel (гавкаючий) je příznakem? (barking cough)",
     "answers": ["akutní laryngotracheitida"],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
@@ -1633,7 +1644,7 @@
       "inkompletní blok pravého raménka",
       "inkompletní blok levého raménka",
       "inkompletní blok pravého raménka a sklon osy ve frontální rovině doleva",
-      "-inkompletní blok pravého raménka a sklon osy ve frontální rovině doprava"
+      "inkompletní blok pravého raménka a sklon osy ve frontální rovině doprava"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
