@@ -1,4 +1,5 @@
 import Medicine_2023 from '../../Files/Medicine_2023.json';
+import Medicine_2025 from '../../Files/Medicine_15_05_2025.json';
 import Klener from '../../Files/ClenerNew.json';
 import Živný from '../../Files/Živný.json';
 import Legislativa from '../../Files/Legislativa_Báze_2023.json';
@@ -50,6 +51,9 @@ const Home = () => {
 
       case 'Medicine_2023':
         selectedFile = Medicine_2023;
+        break;
+      case 'Medicine_2025':
+        selectedFile = Medicine_2025;
         break;
 
       case 'Živný':
@@ -119,6 +123,7 @@ const Home = () => {
             <option value="Legislativa_Báze_2023">Legislativa_Báze_2023</option>
             <option value="Medicine_2023">Medicine_2023</option>
             <option value="My_Base">My Base</option>
+            <option value="Medicine_2025">Medicine_2025</option>
           </Select>
         </WraperForm>
         <WraperForm>
