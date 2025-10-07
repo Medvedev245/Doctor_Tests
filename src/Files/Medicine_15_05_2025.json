@@ -1731,12 +1731,6 @@
     "img": [""]
   },
 
-
-
-
-
-
-
   {
     "question": "101. Při hemodynamicky významném defektu septa síní dochází k (Klener) - КАРДИОЛОГИЯ",
     "answers": [
@@ -1796,7 +1790,9 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": ["systolický ejekční šelest"],
-    "description": ["Шум викидання, коли при систолі кров з лівого шлуночка йде у правий через дефект"],
+    "description": [
+      "Шум викидання, коли при систолі кров з лівого шлуночка йде у правий через дефект"
+    ],
     "img": [""]
   },
 
@@ -1856,7 +1852,9 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": ["může být komplikována infekční endokarditidou"],
-    "description": ["Коарктація аорти — це вроджене звуження аорти, яке може призводити до різних ускладнень, включаючи інфекційний ендокардит. Пацієнти з коарктацією аорти мають підвищений ризик розвитку інфекційного ендокардиту, особливо якщо є супутні вади серця, такі як бікуспідальна аортальна клапан. "],
+    "description": [
+      "Коарктація аорти — це вроджене звуження аорти, яке може призводити до різних ускладнень, включаючи інфекційний ендокардит. Пацієнти з коарктацією аорти мають підвищений ризик розвитку інфекційного ендокардиту, особливо якщо є супутні вади серця, такі як бікуспідальна аортальна клапан. "
+    ],
     "img": [""]
   },
 
@@ -1937,7 +1935,10 @@
     "answers": ["Echokardiografie", "MR anebo CT angiografie (якщо не буде 1)"],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["Echokardiografie", "MR anebo CT angiografie (якщо не буде 1)"],
+    "correctAnswers": [
+      "Echokardiografie",
+      "MR anebo CT angiografie (якщо не буде 1)"
+    ],
     "description": [
       "Koarktace aorty – WikiSkripta  *  CT angiografie či MRI pro zobrazení anatomie před intervenčním nebo chirurgickým řešením.  "
     ],
@@ -1970,7 +1971,9 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": ["ductus arteriosus apertus"],
-    "description": ["Відкрита артеріальна протока (ductus arteriosus apertus) — це вроджена вада серця, при якій після народження зберігається сполучення між аортою та легеневою артерією. У нормі ця протока закривається незабаром після народження, але якщо цього не відбувається, кров продовжує перетікати з аорти в легеневу артерію через протоку. Механізм виникнення континуального шуму при відкритій артеріальній протоці: • Систола: Під час систоли тиск в аорті вищий, ніж у легеневій артерії, тому кров тече з аорти через протоку в легеневу артерію. • Діастола: У діастолу тиск в аорті залишається вищим, ніж у легеневій артерії, тому крововідтік через протоку продовжується. Цей постійний перепад тиску між аортою та легеневою артерією протягом усього серцевого циклу призводить до виникнення безперервного "машинного" шуму, який вислуховується при аускультації. "],
+    "description": [
+      "Відкрита артеріальна протока (ductus arteriosus apertus) — це вроджена вада серця, при якій після народження зберігається сполучення між аортою та легеневою артерією. У нормі ця протока закривається незабаром після народження, але якщо цього не відбувається, кров продовжує перетікати з аорти в легеневу артерію через протоку. Механізм виникнення континуального шуму при відкритій артеріальній протоці: • Систола: Під час систоли тиск в аорті вищий, ніж у легеневій артерії, тому кров тече з аорти через протоку в легеневу артерію. • Діастола: У діастолу тиск в аорті залишається вищим, ніж у легеневій артерії, тому крововідтік через протоку продовжується. Цей постійний перепад тиску між аортою та легеневою артерією протягом усього серцевого циклу призводить до виникнення безперервного машинного шуму, який вислуховується при аускультації. "
+    ],
     "img": [""]
   },
 
@@ -2030,7 +2033,9 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": ["u vad s významným levopravým zkratem"],
-    "description": ["Вроджені аномалії серця, які, якщо їх не лікувати, можуть призводити до синдрому Ейзенменгера, включають: • Дефект міжшлуночкової перегородки (ДМЖП) • Дефект атріовентрикулярної перегородки (ДАВП) • Відкрита артеріальна протока (ОАП) • Аортопульмональне вікно • Дефект міжпередсердної перегородки (ДМПП) • Артеріальний стовбур • Подвійне відходження магістральних судин від правого шлуночка (DORV) без легеневого стенозу. • Часткове аномальне венозне повернення (PAPVR, при якому деякі легеневі вени з'єднуються з правим передсердям замість лівого передсердя) "],
+    "description": [
+      "Вроджені аномалії серця, які, якщо їх не лікувати, можуть призводити до синдрому Ейзенменгера, включають: • Дефект міжшлуночкової перегородки (ДМЖП) • Дефект атріовентрикулярної перегородки (ДАВП) • Відкрита артеріальна протока (ОАП) • Аортопульмональне вікно • Дефект міжпередсердної перегородки (ДМПП) • Артеріальний стовбур • Подвійне відходження магістральних судин від правого шлуночка (DORV) без легеневого стенозу. • Часткове аномальне венозне повернення (PAPVR, при якому деякі легеневі вени з'єднуються з правим передсердям замість лівого передсердя) "
+    ],
     "img": [""]
   },
 
@@ -2077,7 +2082,9 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": ["nejčastěji vrozená"],
-    "description": ["Etiologie 1.vrozená srdeční vada (nejčastějí) 2.postrevmatické postižení chlopně 3.karcinoid (fibrotizaci pulmonální chlopně) Může být lokalizována •pod chlopní (zúžení infundibula pravé komory u Fallatovy tetralogie nebo defektu septa komor), •v místě chlopně •nad chlopní •v periferii větví plicnice (opět může být součástí různých vrozených srdečních vad). "],
+    "description": [
+      "Etiologie 1.vrozená srdeční vada (nejčastějí) 2.postrevmatické postižení chlopně 3.karcinoid (fibrotizaci pulmonální chlopně) Může být lokalizována •pod chlopní (zúžení infundibula pravé komory u Fallatovy tetralogie nebo defektu septa komor), •v místě chlopně •nad chlopní •v periferii větví plicnice (opět může být součástí různých vrozených srdečních vad). "
+    ],
     "img": [""]
   },
 
@@ -2092,7 +2099,9 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": ["tlak v plicnici není zvýšený"],
-    "description": ["Аналіз варіантів відповіді: 1. Недохází k hypertrofii pravé komory (Не відбувається гіпертрофії правого шлуночка): Це твердження неправильне, оскільки гіпертрофія правого шлуночка є типовою ознакою гемодинамічно значущого стенозу легеневої артерії. 2. Dochází k vzestupu tlaku v levé síni (Відбувається підвищення тиску в лівому передсерді): Це твердження також неправильне, оскільки при стенозі легеневої артерії тиск у лівому передсерді зазвичай не підвищується. 30 30. Unknown Author 8 лютого 2025 р. о 21:38:19 truncus pulmonalis 3. Zvyšuje se srdeční index (Підвищується серцевий індекс): Це твердження неправильне, оскільки серцевий індекс (показник серцевого викиду) зазвичай знижується через обмежений потік крові через легені. 4. Tlak v plicnici není zvýšený (Тиск у легеневій артерії не підвищений): Це твердження правильне, оскільки через звуження клапана потік крові до легеневої артерії обмежений, що може призводити до нормального або навіть зниженого тиску в ній.  "],
+    "description": [
+      "Аналіз варіантів відповіді: 1. Недохází k hypertrofii pravé komory (Не відбувається гіпертрофії правого шлуночка): Це твердження неправильне, оскільки гіпертрофія правого шлуночка є типовою ознакою гемодинамічно значущого стенозу легеневої артерії. 2. Dochází k vzestupu tlaku v levé síni (Відбувається підвищення тиску в лівому передсерді): Це твердження також неправильне, оскільки при стенозі легеневої артерії тиск у лівому передсерді зазвичай не підвищується. 30 30. Unknown Author 8 лютого 2025 р. о 21:38:19 truncus pulmonalis 3. Zvyšuje se srdeční index (Підвищується серцевий індекс): Це твердження неправильне, оскільки серцевий індекс (показник серцевого викиду) зазвичай знижується через обмежений потік крові через легені. 4. Tlak v plicnici není zvýšený (Тиск у легеневій артерії не підвищений): Це твердження правильне, оскільки через звуження клапана потік крові до легеневої артерії обмежений, що може призводити до нормального або навіть зниженого тиску в ній.  "
+    ],
     "img": [""]
   },
 
@@ -2127,7 +2136,9 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": ["ejekční šelest"],
-    "description": ["Auskultačním nálezem je ejekční šelest nad pulmonální chlopní, případně(може бути, але не завжди!) rozštěp druhé ozvy. "],
+    "description": [
+      "Auskultačním nálezem je ejekční šelest nad pulmonální chlopní, případně(може бути, але не завжди!) rozštěp druhé ozvy. "
+    ],
     "img": [""]
   },
 
@@ -2146,7 +2157,9 @@
       "pulmonální stenóza",
       "aortální stenóza"
     ],
-    "description": ["Existuje riziko rekoarktace, kterou lze odstranit balónkovou angioplastikou. WikiSkripta"],
+    "description": [
+      "Existuje riziko rekoarktace, kterou lze odstranit balónkovou angioplastikou. WikiSkripta"
+    ],
     "img": [""]
   },
 
@@ -2211,11 +2224,9 @@
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": [
-      "k perkutánnímu uzávěru defektu síňového septa"
-    ],
+    "correctAnswers": ["k perkutánnímu uzávěru defektu síňového septa"],
     "description": [
-      "Источник: https://www.wikiskripta.eu/w/ Amplatzer%C5%AFv_okluder в нем ссылка на стаью https://zdravi.euro.cz/clanek/postgradualni-medicina/ katetrizacni-uzaver-foramen-ovale-patens-a-defektusepta-sini-ty-167151 Amplatzerův okluder se používá pro terapii defektů srdečních sept. Okluder je dvojitý kovový "košíček" tvaru cívky, zavádí se nejčastěji miniinvazivně pod skiaskopickou kontrolou pomocí speciálního katetru, který při defektu septa síní či foramen ovale patens uzavírá mezisíňové septum a řeší tak vzniklý levopravý zkrat. Další typy Amplatzerových okluderů se používají např. pro řešení vrozených i získaných defektů septa komor, arteriovenózních píštělí, ductus arteriosus a dalších defektů. Použití Amplatzerova okluderu je bezpečné a efektivní řešení, které ve velkém množství nahrazuje kardiochirurgický výkon"
+      "Источник: https://www.wikiskripta.eu/w/ Amplatzer%C5%AFv_okluder в нем ссылка на стаью https://zdravi.euro.cz/clanek/postgradualni-medicina/ katetrizacni-uzaver-foramen-ovale-patens-a-defektusepta-sini-ty-167151 Amplatzerův okluder se používá pro terapii defektů srdečních sept. Okluder je dvojitý kovový košíček tvaru cívky, zavádí se nejčastěji miniinvazivně pod skiaskopickou kontrolou pomocí speciálního katetru, který při defektu septa síní či foramen ovale patens uzavírá mezisíňové septum a řeší tak vzniklý levopravý zkrat. Další typy Amplatzerových okluderů se používají např. pro řešení vrozených i získaných defektů septa komor, arteriovenózních píštělí, ductus arteriosus a dalších defektů. Použití Amplatzerova okluderu je bezpečné a efektivní řešení, které ve velkém množství nahrazuje kardiochirurgický výkon"
     ],
     "img": [""]
   },
@@ -2372,7 +2383,9 @@
       "postihující celou tloušťku stěny střeva ",
       "terminální ileum "
     ],
-    "description": ["Розглянемо наведені твердження щодо хвороби Крона: 1. Постихує лише слизову оболонку: • Неправильно. Хвороба Крона характеризується трансмуральним запаленням, тобто уражає всі шари стінки кишківника, а не тільки слизову оболонку. 2. Часті позакишкові (екстраінтестинальні) прояви: • Правильно. Пацієнти можуть мати позакишкові симптоми, такі як артрит, ураження шкіри (наприклад, вузлувата еритема), ураження очей та печінки. 3. Частіше уражає верхню частину шлунково-кишкового тракту: • Неправильно. Хоча хвороба Крона може уражати будь-яку частину шлунково-кишкового тракту, вона найчастіше вражає кінцевий відділ тонкої кишки (термінальний відділ клубової кишки) та початкову частину товстої кишки. 4. Уражає всю товщину стінки кишки: • Правильно. Як зазначено раніше, хвороба Крона є трансмуральним запаленням, що охоплює всі шари стінки кишківника. 5. Термінальний відділ клубової кишки: • Правильно. Термінальний відділ клубової кишки є найбільш частою локалізацією хвороби Крона. 6. Вузлувата еритема не є симптомом хвороби Крона: • Неправильно. Вузлувата еритема є одним із позакишкових проявів хвороби Крона.  "],
+    "description": [
+      "Розглянемо наведені твердження щодо хвороби Крона: 1. Постихує лише слизову оболонку: • Неправильно. Хвороба Крона характеризується трансмуральним запаленням, тобто уражає всі шари стінки кишківника, а не тільки слизову оболонку. 2. Часті позакишкові (екстраінтестинальні) прояви: • Правильно. Пацієнти можуть мати позакишкові симптоми, такі як артрит, ураження шкіри (наприклад, вузлувата еритема), ураження очей та печінки. 3. Частіше уражає верхню частину шлунково-кишкового тракту: • Неправильно. Хоча хвороба Крона може уражати будь-яку частину шлунково-кишкового тракту, вона найчастіше вражає кінцевий відділ тонкої кишки (термінальний відділ клубової кишки) та початкову частину товстої кишки. 4. Уражає всю товщину стінки кишки: • Правильно. Як зазначено раніше, хвороба Крона є трансмуральним запаленням, що охоплює всі шари стінки кишківника. 5. Термінальний відділ клубової кишки: • Правильно. Термінальний відділ клубової кишки є найбільш частою локалізацією хвороби Крона. 6. Вузлувата еритема не є симптомом хвороби Крона: • Неправильно. Вузлувата еритема є одним із позакишкових проявів хвороби Крона.  "
+    ],
     "img": [""]
   },
   {
@@ -2408,9 +2421,7 @@
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": [
-      "strikturoplastika (při stenozach)"
-    ],
+    "correctAnswers": ["strikturoplastika (při stenozach)"],
     "description": [
       "Разбирала эту задачу с практикующим хирургом в Чехии – его ответ - strikturoplastika (při stenozach), а резекцию не отмечать, так как она не является оптимальной  После обсуждения в чате – вопрос был на аппеляции весна 2022 – ответы были изменены и  правильный какой-то вариант из стриктур (их было около 3-х вариантов, но подходил только один) , и что вопрос теоретически должен быть снят "
     ],
@@ -2442,7 +2453,9 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": ["může postihnout celý GIT "],
-    "description": ["Источник: https://www.fnbrno.cz/2-bartusek-morbus-crohn/f4678 Crohnova choroba Bartušek D. Klinika radiologie a nukleární medicíny FN Brno – Bohunice a Lékařské fakulty Masarykovy univerzity, Brno přednosta: prof. MUDr. Vlastimil Válek, CSc., MBA Klasifikace Crohnovy nemoci dle anatomické lokalizace: 1. Ileitida (ve 25–35 %) se projevuje kolikovitými bolestmi v břiše, krvácením, perforací, strikturami, píštělemi, tvorbou abscesů. 2. Jejunoileitida (v 5 %), projevuje se obstrukcí, vnitřními píštělemi a abscesy. 3. Ileokolitida, ileocékální nebo ileokolonická forma (45 %). Projevuje se krvácením, perforacemi, tvorbou striktur s následnou obstrukcí, tvorbou píštělí a abscesů a častou rekurencí po chirurgickém výkonu. 4. Kolitida (30 %) je často provázena perianálním postižením a extraintestinálními manifestacemi. 5. Anorektální onemocnění (30–40 %) bývá často sdruženo s kolitidou nebo ileokolitidou. 6. Postižení apendixu je časté (50 %) při ileokolitidě. Může být i izolovaná Crohnova nemoc apendixu, ale je méně obvyklá. 7. Orální postižení bývá zpravidla ve spojení s ileokolitidou. 8. Gastroduodenální postižení - (0,5–4 %). Источник: https://www.internimedicina.cz/pdfs/int/2009/01/03.pdf Crohnova nemoc – klasifikace, diagnostika, léčba a kvalita života MUDr. Libor Gabalec Interní oddělení – gastroenterologie, Orlickoústecká nemocnice a. S Crohnova nemoc (CN) je chronický, recidivující, segmentární, transmurální zánět trávicí trubice, v typických případech granulomatózní. Zánětlivé změny se mohou vyskytovat v celém zažívacím traktu od úst až po konečník. "],
+    "description": [
+      "Источник: https://www.fnbrno.cz/2-bartusek-morbus-crohn/f4678 Crohnova choroba Bartušek D. Klinika radiologie a nukleární medicíny FN Brno – Bohunice a Lékařské fakulty Masarykovy univerzity, Brno přednosta: prof. MUDr. Vlastimil Válek, CSc., MBA Klasifikace Crohnovy nemoci dle anatomické lokalizace: 1. Ileitida (ve 25–35 %) se projevuje kolikovitými bolestmi v břiše, krvácením, perforací, strikturami, píštělemi, tvorbou abscesů. 2. Jejunoileitida (v 5 %), projevuje se obstrukcí, vnitřními píštělemi a abscesy. 3. Ileokolitida, ileocékální nebo ileokolonická forma (45 %). Projevuje se krvácením, perforacemi, tvorbou striktur s následnou obstrukcí, tvorbou píštělí a abscesů a častou rekurencí po chirurgickém výkonu. 4. Kolitida (30 %) je často provázena perianálním postižením a extraintestinálními manifestacemi. 5. Anorektální onemocnění (30–40 %) bývá často sdruženo s kolitidou nebo ileokolitidou. 6. Postižení apendixu je časté (50 %) při ileokolitidě. Může být i izolovaná Crohnova nemoc apendixu, ale je méně obvyklá. 7. Orální postižení bývá zpravidla ve spojení s ileokolitidou. 8. Gastroduodenální postižení - (0,5–4 %). Источник: https://www.internimedicina.cz/pdfs/int/2009/01/03.pdf Crohnova nemoc – klasifikace, diagnostika, léčba a kvalita života MUDr. Libor Gabalec Interní oddělení – gastroenterologie, Orlickoústecká nemocnice a. S Crohnova nemoc (CN) je chronický, recidivující, segmentární, transmurální zánět trávicí trubice, v typických případech granulomatózní. Zánětlivé změny se mohou vyskytovat v celém zažívacím traktu od úst až po konečník. "
+    ],
     "img": [""]
   },
   {
@@ -2476,7 +2489,9 @@
       "postihuje kteroukoliv část zažívacího traktu od dutiny ústní po anus ",
       "ke zhodnocení rozsahu postižených úseků trávící trubice se užívá endoskopických a rentgenových vyšetření "
     ],
-    "description": ["Crohnova nemoc – klasifikace, diagnostika, léčba a kvalita života MUDr. Libor Gabalec Interní oddělení – gastroenterologie, Orlickoústecká nemocnice a. s. Crohnova nemoc (CN) je chronický, recidivující, segmentární, transmurální zánět trávicí trubice, v typických případech granulomatózní. Zánětlivé změny se mohou vyskytovat v celém zažívacím traktu od úst až po konečník. Endoskopie a biopsie Koloskopie s vyšetřením terminálního ilea a odebrání bioptických vzorků(зразків) z jednotlivých segmentů tlustého střeva je považována za základní vyšetření. Pro CN je typický nález segmentárního postižení obvykle nepostihujícího celou cirkumferenci. Lokalizovaný erytém sliznice a aftoidní vředy jsou typické pro časnou fázi nemoci. Vředy typické pro CN jsou plazivé a podélně orientované. Charakteristický je také dlaždicový reliéf sliznice („cobblestone“ reliéf). Novější endoskopické metody, kapslová endoskopie a enteroskopie jsou přínosné k vyšetření tenkého střeva, zvláště při negativním nebo neúspěšném vyšetření terminálního ilea při koloskopii u pacientů bez obstrukce. Kapslová endoskopie má význam u pacientů ke stanovení rozsahu a tíže choroby v oblasti tenkého střeva, k vyloučení rekurence po operaci a při podezření na indeterminovanou kolitidu. Ke komplikacím kapslové endoskopie patří retence kapsle, což se dá obejít tzv. retenční kapslí, která se při uvíznutí postupně rozpadne a zbude 2 mm velké radiofrekvenční jádro Histologické vyšetření Pro spolehlivější diagnostiku CN jsou doporučovány alespoň 2 biopsie z 5 segmentů tlustého střeva, včetně rekta a terminálního ilea. Nález negativní nebo necharakteristický CN nevylučuje, typický nález může být zastižen jen v některé lokalizaci a v určitém stadiu nemoci. Gastroskopie je doporučována u pacientů s příznaky horní dyspepsie. Odběr biopsie s nálezem lokální aktivní gastritidy je pokládán za znak CN Radiologické vyšetření tenkého střeva Radiologie nabízí celou řadu metod od enteroklýzy, sonografie, počítačové tomografie až k MR enteroklýze. Pasáž tenkým střevem je považována za vyšetření málo diagnosticky výtěžné. Enteroklýza (пасаж барію) dovoluje posoudit rozsah postižení a díky vysoké senzitivitě (až 93 %) a specificitě (až 92 %), se stala standardní metodou. CT enteroklýza a CT enterografie jsou dnes používány k průkazu postiženého segmentu a k průkazu mimostřevních komplikací – absces, píštěl. Sonografy nové generace mají také významný přínos při diagnostice komplikací. MR enteroklýza nepůsobí radiační zátěž a má vysokou senzitivitu 95 % a specificitu 93 %. Z metod 35 35. Unknown Author 10 лютого 2025 р. о 15:02:35 Гістопатологічні дані — це результати мікроскопічного дослідження тканин, отриманих під час біопсії або хірургічного втручання. При хворобі Крона такі дослідження допомагають виявити характерні зміни в стінці кишківника, зокрема: Трансмуральне запалення: Запальний процес охоплює всі шари стінки кишки, від слизової до серозної оболонки. Наявність гранульом: Епітеліоїдні гранульоми без казеозного некрозу можуть бути присутні, але їх відсутність не виключає діагнозу хвороби Крона. Зміни в криптах: Деформація та нерівномірність крипт, а також наявність криптабсцесів. nukleární medicíny se nabízí leukocytární scan – metoda minimálně invazivní, dovolující hodnotit zánětlivou aktivitu. "],
+    "description": [
+      "Crohnova nemoc – klasifikace, diagnostika, léčba a kvalita života MUDr. Libor Gabalec Interní oddělení – gastroenterologie, Orlickoústecká nemocnice a. s. Crohnova nemoc (CN) je chronický, recidivující, segmentární, transmurální zánět trávicí trubice, v typických případech granulomatózní. Zánětlivé změny se mohou vyskytovat v celém zažívacím traktu od úst až po konečník. Endoskopie a biopsie Koloskopie s vyšetřením terminálního ilea a odebrání bioptických vzorků(зразків) z jednotlivých segmentů tlustého střeva je považována za základní vyšetření. Pro CN je typický nález segmentárního postižení obvykle nepostihujícího celou cirkumferenci. Lokalizovaný erytém sliznice a aftoidní vředy jsou typické pro časnou fázi nemoci. Vředy typické pro CN jsou plazivé a podélně orientované. Charakteristický je také dlaždicový reliéf sliznice („cobblestone“ reliéf). Novější endoskopické metody, kapslová endoskopie a enteroskopie jsou přínosné k vyšetření tenkého střeva, zvláště při negativním nebo neúspěšném vyšetření terminálního ilea při koloskopii u pacientů bez obstrukce. Kapslová endoskopie má význam u pacientů ke stanovení rozsahu a tíže choroby v oblasti tenkého střeva, k vyloučení rekurence po operaci a při podezření na indeterminovanou kolitidu. Ke komplikacím kapslové endoskopie patří retence kapsle, což se dá obejít tzv. retenční kapslí, která se při uvíznutí postupně rozpadne a zbude 2 mm velké radiofrekvenční jádro Histologické vyšetření Pro spolehlivější diagnostiku CN jsou doporučovány alespoň 2 biopsie z 5 segmentů tlustého střeva, včetně rekta a terminálního ilea. Nález negativní nebo necharakteristický CN nevylučuje, typický nález může být zastižen jen v některé lokalizaci a v určitém stadiu nemoci. Gastroskopie je doporučována u pacientů s příznaky horní dyspepsie. Odběr biopsie s nálezem lokální aktivní gastritidy je pokládán za znak CN Radiologické vyšetření tenkého střeva Radiologie nabízí celou řadu metod od enteroklýzy, sonografie, počítačové tomografie až k MR enteroklýze. Pasáž tenkým střevem je považována za vyšetření málo diagnosticky výtěžné. Enteroklýza (пасаж барію) dovoluje posoudit rozsah postižení a díky vysoké senzitivitě (až 93 %) a specificitě (až 92 %), se stala standardní metodou. CT enteroklýza a CT enterografie jsou dnes používány k průkazu postiženého segmentu a k průkazu mimostřevních komplikací – absces, píštěl. Sonografy nové generace mají také významný přínos při diagnostice komplikací. MR enteroklýza nepůsobí radiační zátěž a má vysokou senzitivitu 95 % a specificitu 93 %. Z metod 35 35. Unknown Author 10 лютого 2025 р. о 15:02:35 Гістопатологічні дані — це результати мікроскопічного дослідження тканин, отриманих під час біопсії або хірургічного втручання. При хворобі Крона такі дослідження допомагають виявити характерні зміни в стінці кишківника, зокрема: Трансмуральне запалення: Запальний процес охоплює всі шари стінки кишки, від слизової до серозної оболонки. Наявність гранульом: Епітеліоїдні гранульоми без казеозного некрозу можуть бути присутні, але їх відсутність не виключає діагнозу хвороби Крона. Зміни в криптах: Деформація та нерівномірність крипт, а також наявність криптабсцесів. nukleární medicíny se nabízí leukocytární scan – metoda minimálně invazivní, dovolující hodnotit zánětlivou aktivitu. "
+    ],
     "img": [""]
   },
   {
@@ -2535,6 +2550,329 @@
     "correctAnswers": [
       "zvýšena resorpce vody ledvinami, vyšší koncentrace moči, menší objem "
     ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "151. Психиатия. Неврология SSRI-Selektivní inhibitor zpětného vychytávání serotoninu patři: 😊 ",
+    "answers": [
+      "Citalopram, Escitalopram, Fluoxetin, Fluvoxamin, Paroxetin, Sertralin",
+      "různé druhy antibiotika"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Citalopram, Escitalopram, Fluoxetin, Fluvoxamin, Paroxetin, Sertralin"
+    ],
+    "description": [
+      "Источник:  https://cs.wikipedia.org/wiki/Selektivn%C3%AD_inhibitor_zp%C4%9Btn%C3%A9ho_vychyt%C3%A1v%C3%A1n%C3%AD_serotoninu#:~:text=Selektivn%C3%AD%20inhibitory%20zp%C4%9Btn%C3%A9ho%20vychyt%C3%A1v%C3%A1n%C3%AD%20serotoninu,%C4%8D%C3%ADm%C5%BE%20zvy%C5%A1uj%C3%AD%20dostupn%C3%A9%20mno%C5%BEstv%C3%AD%20serotoninu.  Selektivní inhibitory zpětného vychytávání serotoninu (SSRI, z anglického „selective serotonin reuptake inhibitors“) jsou novější skupina léků proti depresi, o nichž se předpokládá, že účinkují potlačením látek vychytávajících neurotransmiter serotonin ze synaptické štěrbiny, čímž zvyšují dostupné množství serotoninu. Mezi SSRI patří např. tyto látky (v závorkách jsou uvedeny obchodní názvy vybraných léčiv):[1][2] -- fluvoxamin (Fevarin) -- fluoxetin (Prozac, Magrilan, Deprex, Defluox, Apo-Fluoxetine a další) -- paroxetin (Seroxat, Remood, Parolex, Arketis, Apo-Parox a další) -- sertralin (Zoloft, Asentra, Serlift a další) -- citalopram (Seropram, Citalec, Citalon, Apo-Cital a další) -- escitalopram (Cipralex, Esoprex, Elicea, Estan, Itakem a další) Na rozdíl od mnoha tricyklických antidepresiv mají SSRI nižší afinitu k serotoninovým 5-HT1A, 5-HT2, dopaminovým D1, D2, adrenergním alfa1, alfa2, beta, histaminovým H1, cholinergním muskarinovým, benzodiazepinovým a opioidním receptorům. Chybění účinků na tyto receptory vysvětluje, proč se při léčbě SSRI projevuje méně obvyklých nežádoucích účinků jako je sucho v ústech, poruchy funkce žlučníku a trávení, porucha akomodace zraku, sedace, kardiotoxicita a ortostatická hypotenze. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "152. Психиатия. Неврология Сo NEpatří k inhibitorům zpětného vychytávání serotoninu (SSRI) 😊 ",
+    "answers": ["fluoxetine", "sertralin", "citalopram", "imipramin"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["imipramin"],
+    "description": [
+      "Imipramin patří do skupiny tricyklických antidepresiv a lze jej použít k léčbě depresivních stavů nebo chronické bolesti.  Imipramin patří do skupiny léčiv nazývaných tricyklická antidepresiva. Imipramin se většinou používá ve formě soli jako tzv. Imipramin hydrochlorid.  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "153. Психиатия. Неврология Který z léků patří k antidepresivům? (selekt. inhibitorům zpětného vychytávání serotoninu, SSRI)? 😊 ",
+    "answers": ["fluoxetin, citalopram, sertralin"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["fluoxetin, citalopram, sertralin"],
+    "description": [
+      "Selektivní inhibitory zpětného vychytávání serotoninu (SSRI, z anglického „selective serotonin reuptake inhibitors“) jsou novější skupina léků proti depresi, o nichž se předpokládá, že účinkují potlačením látek vychytávajících neurotransmiter serotonin ze synaptické štěrbiny, čímž zvyšují dostupné množství serotoninu. Mezi SSRI patří např. tyto látky (v závorkách jsou uvedeny obchodní názvy vybraných léčiv):[1][2] -- fluvoxamin (Fevarin) -- fluoxetin (Prozac, Magrilan, Deprex, Defluox, Apo-Fluoxetine a další) -- paroxetin (Seroxat, Remood, Parolex, Arketis, Apo-Parox a další) -- sertralin (Zoloft, Asentra, Serlift a další) -- citalopram (Seropram, Citalec, Citalon, Apo-Cital a další) -- escitalopram (Cipralex, Esoprex, Elicea, Estan, Itakem a další) Na rozdíl od mnoha tricyklických antidepresiv mají SSRI nižší afinitu k serotoninovým 5-HT1A, 5-HT2, dopaminovým D1, D2, adrenergním alfa1, alfa2, beta, histaminovým H1, cholinergním muskarinovým, benzodiazepinovým a opioidním receptorům. Chybění účinků na tyto receptory vysvětluje, proč se při léčbě SSRI projevuje méně obvyklých nežádoucích účinků jako je sucho v ústech, poruchy funkce žlučníku a trávení, porucha akomodace zraku, sedace, kardiotoxicita a ortostatická hypotenze."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "154. Co klasifikujeme dle Forresta? 😊",
+    "answers": [
+      "Klasifikace gastrointestinálního krvácení při endoskopii / při krvácení z gastroduodenálního vředu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Klasifikace gastrointestinálního krvácení při endoskopii / při krvácení z gastroduodenálního vředu"
+    ],
+    "description": [
+      "Prognóza Recidivy krvácení jsou častější u starších nemocných, u kterých je horší i prognóza. Roli hrají i komorbidity (ICHS, renální insuficience, onemocnění plic, nádorová onemocnění). K hodnocení a posouzení rizika recidivy se používá Forrestova klasifikace: Но нашла еще интересный:  https://is.muni.cz/th/plsyx/Zobrazovaci_diagnostika_a_endovaskularni_lecba_krvaceni_do_GIT.pdf 2.2.4 Klasifikace Při zjišťování závažnosti krvácení je nezbytné určit jeho charakter a provést klasifikaci. Klasifikace je důležitá, ke stanovení prognózy pacienta. Důležitá je zejména recidiva a operabilita krvácení. Klasifikovat krvácení lze podle několika přístupů: klinického tzv. Rockall skóre nebo speciálního Forrestova. Forrestova klasifikace vznikla na základě endoskopických nálezů u krvácení vředového původu do horní části gastrointestinálního traktu a slouží zejména k posouzení intenzity krvácení. Tabulka č. 4: Forrestova klasifikace  "
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczOZvx7ek22lvoYcGm1jW-hWFHQp8fM3BoM2sxItIoOm_1T2VXlYxz7uchpRkL9SBHcLdfc6rbcnfAXCQYPhilVm3UWzCN-yHWvgxrHkjDrRtmbS57znfzxS0SyoQDJKGyM9XtdMQfIa5q3cp-S7r3VM=w605-h369-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "155. Эндокринология Ke klinickému obrazu hypopituitarizmu NEpatří: 😊 ",
+    "answers": ["pubertas praecox"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["pubertas praecox"],
+    "description": [
+      "* Hypopituitarizmus je stav spojený s nedostatečnou funkcí adenohypofýzy. Vzniká při destrukci větší části adenohypofýzy. Může se jednat o izolovaný deficit nebo kombinovanou poruchu – panhypopituitarizmus. Nejčastější příčinou jsou expanze v oblasti tureckého sedla, ozáření, traumata záněty, krvácení, poporodní ischemická nekróza (Sheehanův syndrom) nebo postižení hypotalamu. ** pubertas praecox —  předčasná puberta Не изменяла, так как был уже проработан "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "156. Эндокринология - Panhypopituitarismus se NEprojeví: 😊",
+    "answers": [
+      "předčasna puberta",
+      "normalní duševni výchova",
+      "zpomalení růstu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["předčasna puberta"],
+    "description": [
+      "* Panhypopituitarismus znamená nedostatečnou sekreci všech hormonů adenohypofýzy. Не изменяла, так как был уже проработан "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "157. Panhypopituitarismus je spojený s (Olomouc) 😊Ендокринология",
+    "answers": [
+      "opožděním kostního věku",
+      "časným nástupem puberty",
+      "rizikem hypoglykémie po delším lačnění",
+      "růstovou poruchou"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "opožděním kostního věku",
+      "rizikem hypoglykémie po delším lačnění",
+      "růstovou poruchou"
+    ],
+    "description": [
+      "Panhypopituitarismus znamená nedostatečnou sekreci všech hormonů adenohypofýzy.  ) Somatotropní buňky (acidofilní)  2) Kortikotropní buňky (bazofilní)  3) Thyreotropní buňky (bazofilní)  4) Gonadotropní buňky (bazofilní)  5) Laktotropní buňky (acidofilní)  Somatotropní buňky  Tvoří asi 30-40 % procent buněk adenohypofýzy. Dle své barvitelnosti bývaly řazeny mezi acidofily. Tvoří růstový hormon (GH), který podporuje růst celého těla stimulací anabolických reakcí, dělení buněk a jejich diferenciace. Má i významné metabolické účinky ve smyslu stimulace lipolýzy a inhibice některých účinků inzulinu. Jak uvidíme později, celou řadu z jeho účinků zprostředkovávají peptidy IGF-1 a IGF  Petra Lavríková, Patrik Maďa a Josef Fontana  multiSkripta  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "158. Nefrotický syndrom (NS) co NEpatří? 😊 Нефрология",
+    "answers": [
+      "edemy",
+      "hypocholesterolemie",
+      "hyperproteiurie",
+      "hypoproteinemie",
+      "masivní erytrocyturie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hypocholesterolemie", "masivní erytrocyturie"],
+    "description": [
+      "Nefrotický syndrom (NS) je definován jako závažná porucha glomerulární bazální membrány, která vede ke zvýšenému odpadu bílkoviny močí.[1] NS je charakterizován proteinurií s následnou hypoproteinémií, hypoalbuminémií, hypercholesterolémií a otoky. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "159. Nefrotický syndrom (NS) co patři? 😊 Нефрология",
+    "answers": [
+      "edemy",
+      "hypocholesterolemie",
+      "hypoproteinemie",
+      "masivní erytrocyturie",
+      "hyperproteiurie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["edemy", "hypoproteinemie", "hyperproteiurie"],
+    "description": [
+      "Nefrotický syndrom (NS) je definován jako závažná porucha glomerulární bazální membrány, která vede ke zvýšenému odpadu bílkoviny močí.[1] NS je charakterizován proteinurií s následnou hypoproteinémií, hypoalbuminémií, hypercholesterolémií a otoky. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "160. Nefrotický syndrom: 😊Нефрология",
+    "answers": [
+      "proteinurie",
+      "hypoproteinémie",
+      "hypoalbuminémie",
+      "hypercholesterolémie",
+      "otoky"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "proteinurie",
+      "hypoproteinémie",
+      "hypoalbuminémie",
+      "hypercholesterolémie",
+      "otoky"
+    ],
+    "description": [
+      "Nefrotický syndrom (NS) je definován jako závažná porucha glomerulární bazální membrány, která vede ke zvýšenému odpadu bílkoviny močí.[1] NS je charakterizován proteinurií s následnou hypoproteinémií, hypoalbuminémií, hypercholesterolémií a otoky. Wikiskripta * Cyklosporin je indikován pro nefrotický syndrom. A také cyklofosfamid. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "161. Nefrotický syndrom, co je rizikem? (Klener) Нефрология В Кленері звучить так Nefrotický syndrom může být komplikací",
+    "answers": [
+      "infekce virem hepatitidy B",
+      "infekce virem hepatitidy C",
+      "infekce HIV",
+      "léčba penicilaminem"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "infekce virem hepatitidy B",
+      "infekce virem hepatitidy C",
+      "infekce HIV",
+      "léčba penicilaminem"
+    ],
+    "description": [
+      "Nefrotický syndrom  Jsou označením pro zvláštní zánětlivá onemocnění ledvin, kdy příčinou bývá abnormální funkce imunitního systému. Wikiskripta * Penicilamin je immunosupressorom "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "162. U dětí je nejčastější příčinou nefrotického syndromu 😊 Нефрология",
+    "answers": ["nemoc minimálních změn glomerulů (MCD) - lipoidní nefróza"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "nemoc minimálních změn glomerulů (MCD) - lipoidní nefróza"
+    ],
+    "description": [
+      "U dětí je nejčastější příčinou tzv. nemoc minimálních změn glomerulů (MCD) Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "163. Co NEbude jako komplikace při nefrotickém syndromu? 😊Нефрология",
+    "answers": [
+      "porucha koagulace a trombózy NEFROTICKÝ",
+      "časté infekcí",
+      "hypercholesterinemie",
+      "krvácení"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["krvácení"],
+    "description": [
+      " K nejdůležitějším komplikacím nefrotického syndromu patří infekce, hyperkoagulace a hyperlipidémie  NEFROTICKÝ SYNDROM – PATOGENEZE, SYNDROM – PATOGENEZE, DIAGNOSTIKA, KOMPLIKACE, LÉČBA IAGNOSTIKA, KOMPLIKACE, LÉČBA      prof. MUDr. Vladimír Tesař, DrSc. Klinika nefrologie 1. LF UK a VFN "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "164. Onemocnění provázená nefrotickým syndromem: 😊 Нефрология",
+    "answers": [
+      "akutní glomerulonefritida",
+      "nemoc minimálních změn glomerulů",
+      "hemolyticko-uremický syndrom",
+      "Hepatorenální syndrom"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["nemoc minimálních změn glomerulů"],
+    "description": [
+      "Z primárních glomerulopatií se nefrotický syndrom vyskytuje nejčastěji u tzv. nefrotického syndromu s minimálními změnami glomerulů NEFROTICKÝ SYNDROM – PATOGENEZE, SYNDROM – PATOGENEZE, DIAGNOSTIKA, KOMPLIKACE, LÉČBA IAGNOSTIKA, KOMPLIKACE, LÉČBA      prof. MUDr. Vladimír Tesař, DrSc. Klinika nefrologie 1. LF UK a VFN "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "165. Perorální rehydratace dětí s průjmem, co je třeba dávat? 😊Педиатрия",
+    "answers": [
+      "Čaj černý bohatý na thiamin",
+      "Roztoky Na, K, Cl, glukóza podle ESPGHAN",
+      "Minerální voda bez draslíku oslazená, aby dítě chtělo pít",
+      "Antibiotika"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Roztoky Na, K, Cl, glukóza podle ESPGHAN"],
+    "description": [
+      "* Jedná se o roztok se složením doporučeným Evropskou společností pro dětskou gastroenterologii, hepatologii a výživu (ESPGHAN). Od WHO roztoku se liší složením upraveným pro potřeby Evropské dětské populace. Dostupný je jako farmaceuticky připravený přípravek ve formě prášku určeného k rozpuštění ve vodě pod různými obchodními názvy (Kulíšek, Enhydrol apod). V léčbě dehydratace se upřednostňuje perorální (enterální) rehydratace, která je stejně efektivní jako intravenózní rehydratace, ale má méně nežádoucích účinků a kratší dobu hospitalizace Wikiskripta "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "166. Co je typické pro ANCA-protilatky /protilátky proti cytoplazmě neutrofilů? 😊 Терапия / Protilátky proti cytoplazmě neutrofilů (ANCA) se vyskytují u (Klener) Терапия",
+    "answers": [
+      "Wegenerova granulomatóza (cANCA)",
+      "SLE (system lupus erithmoideus)",
+      "cyklické neutropenie A",
+      "Wegenerovy granulomatózy",
+      "autoimunitní neutropenie",
+      "chronické granulomatózní choroby"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Wegenerova granulomatóza (cANCA)",
+      "Wegenerovy granulomatózy"
+    ],
+    "description": [
+      "Laboratorní nález Wegenerovy granulomatózy  ↑ PAF, ↑ FW, hypergamaglobulinémie;  anémie, leukocytóza, trombocytopenie;  proteinurie, erytrocyturie   c-ANCA protilátky (pozitivita ustupuje se ztátou aktivity choroby);  u části pacientů se prokáží revmatoidní faktory;  granulomatózní zánět v bioptickém vzorku. Wikiskripta  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "167. Očkování u děti je: 😊 Педиатрия",
+    "answers": ["povinné", "nepovinné", "na přání", "vůbec neexistuje"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["povinné"],
+    "description": [
+      "Povinné očkování dětí se řídí vyhláškou č. 537/2006 Sb. (novela č. 355/2017 Sb.) o očkování proti infekčním nemocem. Plošné očkování provádí praktický lékař pro děti a dorost a jeho součástí jsou vakcíny proti devíti nemocem. Do této skupiny patří očkování, která jsou hrazená z veřejného zdravotního pojištění, a to buď plošně, nebo rizikovým skupinám pojištěnců.  Mezi povinná očkování patří:  Hexavakcína  Kombinovaná vakcína proti zarděnkám, spalničkám a příušnicím  Kombinovaná vakcína proti záškrtu, tetanu a dávivému kašli  Kombinovaná vakcína proti záškrtu, tetanu, dávivému kašli a dětské obrně  Vakcína proti tuberkulóze (u rizikových dětí s indikací  Vyhláška č. 537/2006 Sb.Vyhláška o očkování proti infekčním nemocem  Zákony pro lidi  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "168. Obvod hlavy dítěte v 1 rok: (apelace – správně) Педиатрия",
+    "answers": ["47 сm", "45 cm", "43 cm"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["47 сm", "45 cm"],
+    "description": ["**47 u chlapců, 45 u děvčat"],
+    "img": [""]
+  },
+
+  {
+    "question": "169. Růst dítěte v rok: (apelace – správně) Педиатрия",
+    "answers": ["80 cm", "90 cm", "> 75 cm", "70 cm"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["> 75 cm"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "170. Maximální elevace β-hCG *(choriový gonadotropin) (Živný) Акушерство",
+    "answers": [
+      "3 měsíc těhotenství  в Живному пише 10 тижнів",
+      "6 měsíců",
+      "4 měsíců",
+      "9 měsíců"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["3 měsíc těhotenství  в Живному пише 10 тижнів"],
     "description": [""],
     "img": [""]
   }
