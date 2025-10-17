@@ -2559,8 +2559,8 @@
       "Citalopram, Escitalopram, Fluoxetin, Fluvoxamin, Paroxetin, Sertralin",
       "různé druhy antibiotika"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": [
       "Citalopram, Escitalopram, Fluoxetin, Fluvoxamin, Paroxetin, Sertralin"
     ],
@@ -2573,8 +2573,8 @@
   {
     "question": "152. Психиатия. Неврология Сo NEpatří k inhibitorům zpětného vychytávání serotoninu (SSRI) 😊 ",
     "answers": ["fluoxetine", "sertralin", "citalopram", "imipramin"],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["imipramin"],
     "description": [
       "Imipramin patří do skupiny tricyklických antidepresiv a lze jej použít k léčbě depresivních stavů nebo chronické bolesti.  Imipramin patří do skupiny léčiv nazývaných tricyklická antidepresiva. Imipramin se většinou používá ve formě soli jako tzv. Imipramin hydrochlorid.  "
@@ -2585,8 +2585,8 @@
   {
     "question": "153. Психиатия. Неврология Který z léků patří k antidepresivům? (selekt. inhibitorům zpětného vychytávání serotoninu, SSRI)? 😊 ",
     "answers": ["fluoxetin, citalopram, sertralin"],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["fluoxetin, citalopram, sertralin"],
     "description": [
       "Selektivní inhibitory zpětného vychytávání serotoninu (SSRI, z anglického „selective serotonin reuptake inhibitors“) jsou novější skupina léků proti depresi, o nichž se předpokládá, že účinkují potlačením látek vychytávajících neurotransmiter serotonin ze synaptické štěrbiny, čímž zvyšují dostupné množství serotoninu. Mezi SSRI patří např. tyto látky (v závorkách jsou uvedeny obchodní názvy vybraných léčiv):[1][2] -- fluvoxamin (Fevarin) -- fluoxetin (Prozac, Magrilan, Deprex, Defluox, Apo-Fluoxetine a další) -- paroxetin (Seroxat, Remood, Parolex, Arketis, Apo-Parox a další) -- sertralin (Zoloft, Asentra, Serlift a další) -- citalopram (Seropram, Citalec, Citalon, Apo-Cital a další) -- escitalopram (Cipralex, Esoprex, Elicea, Estan, Itakem a další) Na rozdíl od mnoha tricyklických antidepresiv mají SSRI nižší afinitu k serotoninovým 5-HT1A, 5-HT2, dopaminovým D1, D2, adrenergním alfa1, alfa2, beta, histaminovým H1, cholinergním muskarinovým, benzodiazepinovým a opioidním receptorům. Chybění účinků na tyto receptory vysvětluje, proč se při léčbě SSRI projevuje méně obvyklých nežádoucích účinků jako je sucho v ústech, poruchy funkce žlučníku a trávení, porucha akomodace zraku, sedace, kardiotoxicita a ortostatická hypotenze."
@@ -2599,8 +2599,8 @@
     "answers": [
       "Klasifikace gastrointestinálního krvácení při endoskopii / při krvácení z gastroduodenálního vředu"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": [
       "Klasifikace gastrointestinálního krvácení při endoskopii / při krvácení z gastroduodenálního vředu"
     ],
@@ -2615,8 +2615,8 @@
   {
     "question": "155. Эндокринология Ke klinickému obrazu hypopituitarizmu NEpatří: 😊 ",
     "answers": ["pubertas praecox"],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["pubertas praecox"],
     "description": [
       "* Hypopituitarizmus je stav spojený s nedostatečnou funkcí adenohypofýzy. Vzniká při destrukci větší části adenohypofýzy. Může se jednat o izolovaný deficit nebo kombinovanou poruchu – panhypopituitarizmus. Nejčastější příčinou jsou expanze v oblasti tureckého sedla, ozáření, traumata záněty, krvácení, poporodní ischemická nekróza (Sheehanův syndrom) nebo postižení hypotalamu. ** pubertas praecox —  předčasná puberta Не изменяла, так как был уже проработан "
@@ -2631,8 +2631,8 @@
       "normalní duševni výchova",
       "zpomalení růstu"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["předčasna puberta"],
     "description": [
       "* Panhypopituitarismus znamená nedostatečnou sekreci všech hormonů adenohypofýzy. Не изменяла, так как был уже проработан "
@@ -2648,8 +2648,8 @@
       "rizikem hypoglykémie po delším lačnění",
       "růstovou poruchou"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": [
       "opožděním kostního věku",
       "rizikem hypoglykémie po delším lačnění",
@@ -2670,8 +2670,8 @@
       "hypoproteinemie",
       "masivní erytrocyturie"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["hypocholesterolemie", "masivní erytrocyturie"],
     "description": [
       "Nefrotický syndrom (NS) je definován jako závažná porucha glomerulární bazální membrány, která vede ke zvýšenému odpadu bílkoviny močí.[1] NS je charakterizován proteinurií s následnou hypoproteinémií, hypoalbuminémií, hypercholesterolémií a otoky. Wikiskripta"
@@ -2688,8 +2688,8 @@
       "masivní erytrocyturie",
       "hyperproteiurie"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["edemy", "hypoproteinemie", "hyperproteiurie"],
     "description": [
       "Nefrotický syndrom (NS) je definován jako závažná porucha glomerulární bazální membrány, která vede ke zvýšenému odpadu bílkoviny močí.[1] NS je charakterizován proteinurií s následnou hypoproteinémií, hypoalbuminémií, hypercholesterolémií a otoky. Wikiskripta"
@@ -2706,8 +2706,8 @@
       "hypercholesterolémie",
       "otoky"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": [
       "proteinurie",
       "hypoproteinémie",
@@ -2729,8 +2729,8 @@
       "infekce HIV",
       "léčba penicilaminem"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": [
       "infekce virem hepatitidy B",
       "infekce virem hepatitidy C",
@@ -2746,8 +2746,8 @@
   {
     "question": "162. U dětí je nejčastější příčinou nefrotického syndromu 😊 Нефрология",
     "answers": ["nemoc minimálních změn glomerulů (MCD) - lipoidní nefróza"],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": [
       "nemoc minimálních změn glomerulů (MCD) - lipoidní nefróza"
     ],
@@ -2765,8 +2765,8 @@
       "hypercholesterinemie",
       "krvácení"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["krvácení"],
     "description": [
       " K nejdůležitějším komplikacím nefrotického syndromu patří infekce, hyperkoagulace a hyperlipidémie  NEFROTICKÝ SYNDROM – PATOGENEZE, SYNDROM – PATOGENEZE, DIAGNOSTIKA, KOMPLIKACE, LÉČBA IAGNOSTIKA, KOMPLIKACE, LÉČBA      prof. MUDr. Vladimír Tesař, DrSc. Klinika nefrologie 1. LF UK a VFN "
@@ -2782,8 +2782,8 @@
       "hemolyticko-uremický syndrom",
       "Hepatorenální syndrom"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["nemoc minimálních změn glomerulů"],
     "description": [
       "Z primárních glomerulopatií se nefrotický syndrom vyskytuje nejčastěji u tzv. nefrotického syndromu s minimálními změnami glomerulů NEFROTICKÝ SYNDROM – PATOGENEZE, SYNDROM – PATOGENEZE, DIAGNOSTIKA, KOMPLIKACE, LÉČBA IAGNOSTIKA, KOMPLIKACE, LÉČBA      prof. MUDr. Vladimír Tesař, DrSc. Klinika nefrologie 1. LF UK a VFN "
@@ -2799,8 +2799,8 @@
       "Minerální voda bez draslíku oslazená, aby dítě chtělo pít",
       "Antibiotika"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["Roztoky Na, K, Cl, glukóza podle ESPGHAN"],
     "description": [
       "* Jedná se o roztok se složením doporučeným Evropskou společností pro dětskou gastroenterologii, hepatologii a výživu (ESPGHAN). Od WHO roztoku se liší složením upraveným pro potřeby Evropské dětské populace. Dostupný je jako farmaceuticky připravený přípravek ve formě prášku určeného k rozpuštění ve vodě pod různými obchodními názvy (Kulíšek, Enhydrol apod). V léčbě dehydratace se upřednostňuje perorální (enterální) rehydratace, která je stejně efektivní jako intravenózní rehydratace, ale má méně nežádoucích účinků a kratší dobu hospitalizace Wikiskripta "
@@ -2818,8 +2818,8 @@
       "autoimunitní neutropenie",
       "chronické granulomatózní choroby"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": [
       "Wegenerova granulomatóza (cANCA)",
       "Wegenerovy granulomatózy"
@@ -2833,8 +2833,8 @@
   {
     "question": "167. Očkování u děti je: 😊 Педиатрия",
     "answers": ["povinné", "nepovinné", "na přání", "vůbec neexistuje"],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["povinné"],
     "description": [
       "Povinné očkování dětí se řídí vyhláškou č. 537/2006 Sb. (novela č. 355/2017 Sb.) o očkování proti infekčním nemocem. Plošné očkování provádí praktický lékař pro děti a dorost a jeho součástí jsou vakcíny proti devíti nemocem. Do této skupiny patří očkování, která jsou hrazená z veřejného zdravotního pojištění, a to buď plošně, nebo rizikovým skupinám pojištěnců.  Mezi povinná očkování patří:  Hexavakcína  Kombinovaná vakcína proti zarděnkám, spalničkám a příušnicím  Kombinovaná vakcína proti záškrtu, tetanu a dávivému kašli  Kombinovaná vakcína proti záškrtu, tetanu, dávivému kašli a dětské obrně  Vakcína proti tuberkulóze (u rizikových dětí s indikací  Vyhláška č. 537/2006 Sb.Vyhláška o očkování proti infekčním nemocem  Zákony pro lidi  "
@@ -2845,8 +2845,8 @@
   {
     "question": "168. Obvod hlavy dítěte v 1 rok: (apelace – správně) Педиатрия",
     "answers": ["47 сm", "45 cm", "43 cm"],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["47 сm", "45 cm"],
     "description": ["**47 u chlapců, 45 u děvčat"],
     "img": [""]
@@ -2855,8 +2855,8 @@
   {
     "question": "169. Růst dítěte v rok: (apelace – správně) Педиатрия",
     "answers": ["80 cm", "90 cm", "> 75 cm", "70 cm"],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["> 75 cm"],
     "description": [""],
     "img": [""]
@@ -2870,10 +2870,2125 @@
       "4 měsíců",
       "9 měsíců"
     ],
-    "book": ["Base_2023_medicine"],
-    "topic": ["Base_2023_medicine"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
     "correctAnswers": ["3 měsíc těhotenství  в Живному пише 10 тижнів"],
     "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "171. Platnost předpisu na antibiotika? (apelace – správně) Фармакология",
+    "answers": ["3 dny", "14 dnů", "7 dnů", "1 den", "neomezen"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["14 dnů"],
+    "description": [
+      "Осінь 2023- правильна відповідь 5 днів  Zrušeno je ustanovení původní vyhlášky, podle něhož recept na antibiotika a antimikrobiální chemoterapeutika platil 5 kalendářních dnů počínaje dnem vystavení receptu. I u nich je tedy platnost receptu 14 dnů. VZP   Dobu platnosti receptů změnila k 1. 1. 2020 nová vyhláška č. 329/2019 Sb., o předepisování léčivých přípravků při poskytování zdravotních služeb. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "172. Galaktozemie kdy se začne projevovat: 😊 Педиатрия",
+    "answers": ["zahájením příjmu mateřského mléka či umělé kojenecké výživy"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "zahájením příjmu mateřského mléka či umělé kojenecké výživy"
+    ],
+    "description": [
+      "Příznaky začínají mezi 4.– 9. dnem po příjmu mléka. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "173. Co je to cystická fibróza (mukoviscidoza)? 😊 Педиатрия",
+    "answers": [
+      "Geneticky podmíněné multisystémové onemocnění, které se projevuje chronickým onemocněním dýchacích cest a plic, vysokou koncentraci elektrolytů v potu a poruchou reprodukce u mužů"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "Geneticky podmíněné multisystémové onemocnění, které se projevuje chronickým onemocněním dýchacích cest a plic, vysokou koncentraci elektrolytů v potu a poruchou reprodukce u mužů"
+    ],
+    "description": [
+      "Cystická fibróza neboli mukoviscidóza je multisystémové geneticky podmíněné onemocnění, které se v klasické formě projevuje chronickým progredujícím onemocněním dýchacích cest a plic, insuficiencí zevní sekrece pankreatu, vysokou koncentrací elektrolytů v potu a poruchou reprodukce mužů. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "174. Cystická fibróza (Olomouc)Педиатрия",
+    "answers": [
+      "vyskytuje se s incidencí 1:50 000 narozených dětí",
+      "je onemocnění, které postihuje pouze dívky nikoliv chlapce",
+      "je onemocnění, které postihuje pouze chlapce nikoliv dívky",
+      "je onemocnění s autosomálně recesivní dědičností (AR)"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["je onemocnění s autosomálně recesivní dědičností (AR)"],
+    "description": [
+      "Jedná se o autozomálně recesivně (AR) dědičné onemocnění.  Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "175. Cystická fibróza se vyskytuje v České republice: (Olomouc)Педиатрия",
+    "answers": [
+      "1:2500 - 3500 živě narozených dětí",
+      "1: 5000 -7500 živě narozených dětí",
+      "1 : 500 živě narozených dětí",
+      "1: 15000 živě narozených dětí"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["1:2500 - 3500 živě narozených dětí"],
+    "description": [
+      "Cystická fibróza je nejčastější život ohrožující dědičné onemocnění europoidní populace (bílé rasy). Výskyt v ČR je odhadován na 1:2 500, ročně se tedy narodí 35–45 dětí s CF (všechny případy ale nejsou diagnostikovány). Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "176. Cystická fibróza (CF) neboli mukoviscidóza: 😊 Педиатрия",
+    "answers": [
+      "geneticky podmíněné AR onemocnění, které postihuje převážně dýchací a trávicí soustavu"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "geneticky podmíněné AR onemocnění, které postihuje převážně dýchací a trávicí soustavu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "177. U dítěte smradlavá stolice a obtížné dýchání? 😊Педиатрия",
+    "answers": ["cystická fibróza"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["cystická fibróza"],
+    "description": [
+      "Stolice jsou objemné, mastně a nápadně páchnou. U kojenců to bývá kritické, s těžce probíhající bronchiolitidou. Vyskytuje se i atelektáza a pneumonie, Citlivý ukazatel horšícího se poškození dýchacích cest je tachypnoe. Cystická fibróza neboli mukoviscidóza je multisystémové geneticky podmíněné onemocnění, které se v klasické formě projevuje chronickým progredujícím onemocněním dýchacích cest a plic, insuficiencí zevní sekrece pankreatu, vysokou koncentrací elektrolytů v potu a poruchou reprodukce mužů. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "178. Dítě nepřibírá na váze a má tukovou mastnou stolici a taky časté respirační onemocnění 😊 Педиатрия",
+    "answers": [
+      "Cystická fibróza (mukoviscidóza)",
+      "celiakie",
+      "pankreatitida",
+      "Diabetes mellitus"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["Cystická fibróza (mukoviscidóza)"],
+    "description": [
+      "Stolice jsou objemné, mastně a nápadně páchnou. U kojenců to bývá kritické, s těžce probíhající bronchiolitidou. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "179. Která z nemocí je autosomálně recesivně dědičná? (Olomouc)",
+    "answers": [
+      "kongenitální adrenální hyperplázie",
+      "Cushingův syndrom",
+      "Turnerův syndrom",
+      "cystická fibróza"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "kongenitální adrenální hyperplázie",
+      "cystická fibróza"
+    ],
+    "description": [
+      "Cystická fibróza  autozomálně recesivně (AR) dědičné onemocnění. Kongenitální adrenální hyperplazie (CAH, dříve adrenogenitální syndrom) je skupina autosomálně recesivně dědičných poruch Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "180. Co NEpatří ke komplikace cystické fibrózy? 😊",
+    "answers": [
+      "chylotorax",
+      "pneumotorax",
+      "arteriální hypertenze",
+      "portální hypertenze",
+      "sklerotická cholelitiáza",
+      "vrozené kongenitální lobarní emfizem"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "chylotorax",
+      "arteriální hypertenze",
+      "vrozené kongenitální lobarní emfizem"
+    ],
+    "description": [
+      "Hronickou bronchitidu komplikují bronchiektázie, atelektázy a emfyzém či chronická pansinusitida, často provázena nosní polypózou. Časně se vyvíjejí paličkovité prsty.   CF patří pneumotorax, hemoptýza, globální respirační insuficience. Parciální dechová nedostatečnost je jinak celkem častá, vede k plicní hypertenzi a vývoji cor pulmonale. Rozvoj globální insuficience s hyperkapnií je varovným znamením.  Hepatobiliární komplikace se projevují různě závažně. Jsou způsobené obstrukcí žlučových kanálků. Mohou vyústit v cirhózu a portální hypertenzi. Někdy se manifestuje jako cholestatická žloutenka, častá je cholelitiáza a GER. Recidivující pankreatitida se popisuje zejména u pacientů bez defektu sekrece.   Wikiskripta  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "181. U pacienta s neprospíváním, objemnými mastnými stolicemi a opakovanými infekcemi dýchacích cest je třeba pomýslet v první řadě na:😊Терапия",
+    "answers": ["onemocnění cystickou fibrózou"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["onemocnění cystickou fibrózou"],
+    "description": [
+      "Mezi závažné respirační komplikace CF patří pneumotorax, hemoptýza, globální respirační insuficience. Parciální dechová nedostatečnost je jinak celkem častá, vede k plicní hypertenzi a vývoji cor pulmonale. Rozvoj globální insuficience s hyperkapnií je varovným znamením. Stolice jsou objemné, mastně a nápadně páchnou. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "182. Nejčastějším nádorovým onemocněním jater je (Klener) (apelace – správně) Терапия",
+    "answers": [
+      "hemangiom",
+      "cholangiocelulární karcinom jater",
+      "hepatocelulární karcinom jater",
+      "metastatické postižení jater"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["metastatické postižení jater"],
+    "description": [
+      "Primární nádory jater jsou velmi vzácné, jaterní metastázy se vyskytují častěji.Nejčastějším primárním nádorem jater je hepatocelulární karcinom, který tvoří 90 % všech primárních nádorů jater. Masarykův onkologický ústav"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "183. Kolik je stadií retinopatie nedonošených dětí? 😊",
+    "answers": ["Rozlišuje se 5 stádií ROP Глазные болезни"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["Rozlišuje se 5 stádií ROP Глазные болезни"],
+    "description": [
+      "Stadium (stupeň)  ROP 1. stadium – demarkace – stav kdy rostoucí cévy náhle končí v linii oddělující cévnatou a bezcévnou zónu. Je to poměrně pomíjivé stadium s možností progrese stejně jako regrese a normalizace dalšího vývoje během několika týdnů. Morfologicky se jedná o hyperplastickou mezenchymální tkáň vřetenovitých buněk, která se svým rozšiřováním a narůstáním tloušťky stává viditelnou. Při progresi do vyšších stadií vytváří tato tkáň širokou průsvitnou plochu před valem, ev. až k ora serrata.  2. stadium – intraretinální prstenec – val – hřeben – demarkační linie roste do šířky i tloušťky a jako hřeben pak prominuje nad úroveň sítnice. Může být barvy bílé nebo růžové. Morfologicky se jedná vedle hyperplazie mezenchymu o diferenciaci a organizaci endotelových buněk. Proto má val dvě jasné kontury s relativně hypocelulární zónou uprostřed.  3. stadium – extraretinální fibrovaskulární proliferace – v této fázi z přední i zadní kontury valu vychází extraretinální fibrovaskulární proliferace, šířící se z povrchu sítnice do sklivce tkáně (3a = do předního sklivce, 3b = do zadního sklivce, 3c = v okolí prstence). Později dochází k jizevnatým změnám doprovodných vazivových struktur, které se zkracují a tahem způsobují trakční odchlípení sítnice.  4. stadium – parciální amoce – jedná se o částečné odchlípení sítnice (4a – bez odchlípení makuly, 4b – včetně odchlípení makuly).  5. stadium – totální amoce – úplné odchlípení sítnice, dříve retrolentární fibrovaskulární membrána (RLF).  Současný pohled na retinopatii předčasně narozených dětí  MUDr. Anna Zobanová Soukromá oční ordinace, Praha "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "184. N-acetylcystein je antidotem při otravě: (Klener)Терапія",
+    "answers": ["benzodiazepiny", "Opioidy", "paracetamolem", "ibuprofenem"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["paracetamolem"],
+    "description": [
+      "-- Acetanilidový derivát obsažený v paracetamolu se biotransformuje v játrech cytochromem P450 na vysoce hepatotoxický N-acetyl-p-benzochinonimin, který je v terapeutických dávkách ihned inaktivován glutathionem. Když se glutathion vyčerpá, hepatocyty jsou poškozovány a vznikají centrizonální nekrózy. Podobná biotransformace probíhá v ledvinách → také nekrózy a poškození ledvin. -- Podáme aktivní uhlí, tlumíme zvracení (metoclopramid), -- antidotum − N-acetylcystein úvodní dávka 140-150 mg/kg, pokračující dávka 70 mg/kg, dávkování se liší podle času od intoxikace a způsobu podání.[1] -- indikací je podezření na pozření nebo hodnota paracetamolu v plazmě 200 mg/l a více za 2 h po požití, -- účinná je i hemoperfúze. Wikiskripta "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "185. Dávkováni benzodiazepinů u děti (diazepam) 😊Педіатрія",
+    "answers": [
+      "U dětí do 3 let podáváme 5 mg p.r., u starších 10 mg p.r.",
+      "nepodáváme, podáváme jiný lék",
+      "nezáleží na věku, podáváme ve stejně dávce"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "U dětí do 3 let podáváme 5 mg p.r., u starších 10 mg p.r."
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "186. Turnerův syndrom má genotyp: (Živný) Педіатрія",
+    "answers": ["45ХО", "46XO", "46 XX", "46 XY"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["45ХО"],
+    "description": [
+      "*karyotyp (XO), nízký vzrůst, sexuální infantilismus, široký krk s kožními řasami (alar záhyby kůži na krku)"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "187. Do obrazu Turnerova syndromu patří (Klener)Педіатрія",
+    "answers": [
+      "primární amenorea",
+      "pigmentové névy",
+      "koarktace aorty",
+      "mentální retardace u asi 40 % nemocných"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "primární amenorea",
+      "pigmentové névy",
+      "koarktace aorty"
+    ],
+    "description": [
+      "Asi třetina dívek s Turnerovým syndromem je diagnostikována v novorozeneckém věku na podkladě vrozené srdeční vady (koarktace aorty, bikuspidální aortální chlopeň) a charakteristického vzhledu (pterygium colli, otoky rukou a nohou). Další třetina je diagnostikována v dětství v rámci diferenciální diagnostiky malého vzrůstu. Zbylá třetina je odhalena v dospívání na podkladě primární amenorrhey a nedostatečného vývoje sekundárních pohlavních znaků. Wikiskripta."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "188. Turnerův syndrom je charakterizován chromosomálním nálezem Педіатрія (Klener)",
+    "answers": ["XO", "XO/XY", "XXO", "XX/XY"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["XO", "XO/XY"],
+    "description": [
+      "Turnerův syndrom patří mezi klasické syndromy způsobené numerickou chromozomální aberací, mezi které patří i syndromy Downův, Edwardsův, Patauův, Klinefelterův či syndromy 47,XXX a 47,XYY (dříve nazývané Superfemale a Supermale). Na rozdíl od těchto syndromů, které jsou (ve většině případů) způsobeny trizomií ať již somatického nebo pohlavního chromozomu, představuje Turnerův syndrom (způsobený nejčastěji karyotypem 45,X) zřejmě jedinou kompletní monozomii, jejíž nositelé jsou schopní dlouhodobě přežívat. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "189. Čeho NEbude při Turnerův syndrom? 😊Педіатрія",
+    "answers": ["předčasná puberta"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["předčasná puberta"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "190. Otok pod očima, proteinurie, negativní biopsie. Co podáme? 😊",
+    "answers": ["glukokortikoidy", "cytostatika", "ATB"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["glukokortikoidy"],
+    "description": [
+      "Terapie[upravit | editovat zdroj] 6-symptomatická: 1-omezení tekutin a strava s omezením soli (sodíku), dostatečný přívod kalcia a vitaminu D, 2-včasná mobilizace, léčba a prevence infekcí, prevence dehydratace a antiagregační léčba (kyselina acetylsalicylová), kontrola arteriálního krevního tlaku,[8] 1-kauzální: 1-prednison 60 mg/m2/den 6 týdnů (maximální dávka je 80 mg/denně), v jedné ranní dávce nebo ve 3 sestupných dávkách, 2-poté dalších 6 týdnů léčby prednisonem v dávce 40 mg/m2 každý druhý den (alternativní podávání), 3-po 12 týdnech léčby lze prednison vysadit[9]. 1-léčba otoků (nutná v případě klinických obtíží nebo v případě oligurie), 1-diuretika nebo i. v. albumin + diuretika, 2-diuretika – nejčastěji furosemid, event. furosemid + hydrochlorothiazid, při extrémních otocích + spironolakton, 3-indikace k podání albuminu podle poměru draslíku a sodíku ve vzorku moči – pokud UK/UK + UNa > 0,6 jde o intravaskulární hypovolemii a je indikováno podání albuminu (1 g/kg v pomalé infuzi, poté i.v. furosemid)[7].Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "191. Kontrolní vyšetření erytrocytárních protilátek v těhotenství provádíme: (Živný)",
+    "answers": ["ve 32.týdnu"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["ve 32.týdnu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "192. Pulsus paradoxus je známkou (Klener)Терапія",
+    "answers": [
+      "levopravého zkratu na úrovni velkých cév",
+      "fibrilace síní",
+      "sníženého tlaku v plicnici",
+      "srdeční tamponády"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["srdeční tamponády"],
+    "description": [
+      "Pulsus paradoxus je jedním z hlavních příznaků srdeční tamponády (pozitivní až u 98% osob). Dalšími příznaky jsou hypotenze (celkový pokles krevního tlaku) a rozšíření krčních žil. Pokud se pulsus paradoxus ve spojení s hypotenzí nebo rozšířením krčních žil u pacienta objeví, měli bychom vždy předpokládat, že má srdeční tamponádu a začít urychleně jednat. Nicméně existují i těžké případy srdeční tamponády, které se nemusí projevit paradoxním pulzem. Je jich naštěstí velmi málo (jen 2%), ale je potřeba na ně dávatpozor a pořádně pacienta vyšetřit, protože srdeční tamponáda je velmi nebezpečné a zrádné onemocnění. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "193. Co je Barrettův jícen? 😊Терапія",
+    "answers": [
+      "prekancerosa",
+      "vznik metaplazie dlaždicového epitelu dolního jícnu na cylindrický"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "prekancerosa",
+      "vznik metaplazie dlaždicového epitelu dolního jícnu na cylindrický"
+    ],
+    "description": [
+      "Barrettův jícen je označení pro stav, kdy dochází ve sliznici jícnu k intestinální metaplazii z důvodu refluxní esofagitidy. Normální sliznici jícnu tvoří dlaždicobuněčný epitel, ten není odolný vůči kyselým šťávám žaludku. Vzniká zde zánět a při dlouhodobém dráždění, často kvůli nedostatečné funkci dolního jícnového svěrače, dochází k přestavbě v cylindrický epitel s pohárkovými buňkami (podobný střevnímu). Tento epitel je vůči agresivnímu prostředí odolnější, ale tato intestinální metaplazie patří mezi prekancerózy a zvyšuje tedy riziko vzniku adenokarcinomu jícnu. U osob s Barrettovým jícnem se riziko malignizace v adenokarcinom zvyšuje 30–40krát. [1] Obvykle bývá v dolní části jícnu na přechodu do žaludku.  Wikiskripta "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "194. Barrettův jícen, jaké epitelium? *(Barrett's esophagus) 😊Терапія",
+    "answers": ["cylindrický epitel"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["cylindrický epitel"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "195. Barrettův jícen je 😊Терапія",
+    "answers": [
+      "chybění gangliových buněk v plexus myentericus jícnu",
+      "maligní tumor jícnu",
+      "vznik metaplazie dlaždicového epitelu dolního jícnu na cylindrický",
+      "vznik metaplazie cylindrického epitelu dolního jícnu na dlaždicový"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "vznik metaplazie dlaždicového epitelu dolního jícnu na cylindrický"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "196. Barrettův jícen je (Klener)",
+    "answers": [
+      "komplikace refluxní ezofagitidy",
+      "prekanceróza",
+      "vývojová anomálie",
+      "následek poleptání jícnu louhe"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["komplikace refluxní ezofagitidy", "prekanceróza"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "197. Barrettův jícen 😊",
+    "answers": ["přestavba v cylindrický epitel s pohárkovými buňkami"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["přestavba v cylindrický epitel s pohárkovými buňkami"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "197a. Barrettův jícen 2024😊",
+    "answers": ["cylindrický epitel", "s pohárkovými buňkami"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["cylindrický epitel", "s pohárkovými buňkami"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "198. Gastroezofageální reflux způsobuje (Klener)",
+    "answers": ["Barrettův jícen", "pyrózu", "ezofagitidu", "divertikly"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["Barrettův jícen", "pyrózu", "ezofagitidu"],
+    "description": [
+      "Za hlavní etiopatogenetický mechanizmus je pokládána přechodná relaxace dolního jícnového svěrače. Ezofagitida je způsobena refluxem kyselého žaludečního obsahu. Její závažnost se pohybuje od nálezu ojedinělých nastříknutých cév se zčervenáním sliznice až k nálezu hlubokých vředů, které vedou k tvorbě jizevnatých striktur, brachyezofagu nebo intestinální metaplazii (Barrettův jícen).[3]  Klinický obraz[upravit | editovat zdroj] -- Gastrointestinální (z ezofagitidy, striktur): -- pyróza, retrosternální bolest; -- pocit kyselosti v ústech -- opakované zvracení s neprospíváním; -- neklid, dráždivost, přerušovaný spánek; -- foetor ex ore, dysfagie, odynofagie, odmítání jídla; -- hemateméza, meléna, anémie.  Wikiskripta  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "199. U 80-muže občas vzniká výchlipka (utvař) na krku, zvracení nestráveným jídlem, postup? 😊Терапія",
+    "answers": [
+      "Suspektně Zenkerův divertikl (faryngoesofageální)",
+      "Postup - krikofaryngealní myotomie",
+      "endoskopie",
+      "pozorovat"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "Suspektně Zenkerův divertikl (faryngoesofageální)",
+      "Postup - krikofaryngealní myotomie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "200. Co znamená klaudikace? 😊Терапія",
+    "answers": ["kulhání / + občasné kulhání"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["kulhání / + občasné kulhání"],
+    "description": [
+      "* Klaudikace neboli klaudikační bolest je příznak projevující se bolestí dolních končetin, který je mnohými nemocnými i lékaři podceňován. Je to však škoda, protože včasné rozeznání tohoto příznaku může výrazně pomoci v odhalení ischemické choroby dolních končetin."
+    ],
+    "img": [""]
+  },
+  {
+    "question": "201. Jak se projeví HELLP syndrom? 😊Акушерство",
+    "answers": [
+      "Hemolýza",
+      "Elevace jaterních testů",
+      "Trombocytopenie",
+      "projevuje se ve 3 trimestru",
+      "zvýšena teplota"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Hemolýza",
+      "Trombocytopenie",
+      "projevuje se ve 3 trimestru",
+      "Elevace jaterních testů"
+    ],
+    "description": [
+      "* HELLP syndrom je velmi vážná komplikace těhotenství s výraznou mortalitou a morbiditou (až 40 %). Jedná se o stav těžké preeklampsie komplikovaný hemolýzou, trombocytopénií, abnormálním nátěrem periferní krve a patologickými jaterními testy."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "202. HELLP syndrom ve svém názvu NEzahrnuje: 😊Акушерство",
+    "answers": ["hypertenzi"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hypertenzi"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "203. Klinický obraz rozvinutého HELLP syndromu se blíží nejspíše 😊Акушерство",
+    "answers": ["diseminované intravaskulární koagulopatii"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["diseminované intravaskulární koagulopatii"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "204. Při biochemickém vyšetření u HELLP syndrome nacházíme: 😊Акушерство",
+    "answers": [
+      "elevace jaterních enzymů, zejména AST",
+      "zvýšení bilirubinu",
+      "elevace LDH",
+      "vše je správně"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["vše je správně"],
+    "description": [
+      "7-Hemolýza – patologický nátěr krve – jsou tam schistocyty a burr cells (trojhranné erytrocyty) – patrně vznikají průtokem postiženou cévou, vzestup bilirubinu nad 20 μmol/l, LD (5×), volné železo v séru. 8. Elevace jaterních testů – hlavně AST (2–3×). 9. Trombocytopénie – pokles pod 100, konsumpce a destrukce.  Klinický obraz[upravit | editovat zdroj] Dominuje bolest v epigastriu a v pravém podžebří, nauzea a zvracení. Prodromy – nespecifické, chřipkovité (malátnost, únava). Pokročilé stádium se projevuje krvácením (hematurie, krvácení do GIT). Hmotnostní přírůstek s otoky, hypertenze s proteinurií, někdy ikterus. Plně rozvinutý HELLP imituje DIC "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "205. U rozvinutého HELLP syndromu je častým klinickým příznakem:Акушерство",
+    "answers": [
+      "Cefalea",
+      "Epigastrické bolesti",
+      "Bolesti v pravém hypochondriu",
+      "Somnolence"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Cefalea",
+      "Epigastrické bolesti",
+      "Bolesti v pravém hypochondriu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "206. Ke klinickým projevům HELLP syndromu NEpatří: 😊Акушерство",
+    "answers": [
+      "nauzea a zvracení",
+      "Křečovité bolesti v podbřišku",
+      "Bolest v epigastriu",
+      "Bolest v podklíčkové krajině vpravo / Bolest v pravém podžebří"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Křečovité bolesti v podbřišku"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "207. Ischurie paradoxní: 😊Терапія",
+    "answers": [
+      "zadržení moči provázené odchodem moči z přeplněného močového měchyře po kapkách"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "zadržení moči provázené odchodem moči z přeplněného močového měchyře po kapkách"
+    ],
+    "description": [
+      "Paradoxní inkontinence[upravit | editovat zdroj] Ischuria paradoxa je spojená s močovou retencí (např. při obstrukci, poruše inervace sfinkterů). Dochází k plnění měchýře, bez možnosti evakuace moči. Nahromaděná moč zvyšuje intravezikální tlak, a za předpokladu, že převýší hodnotu tlaku v uretře, dochází k samovolnému úniku moči (měchýř tedy „přetéká“).] "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "208. Charcotova trias: (infekční cholangitida) 😊Терапія",
+    "answers": [
+      "septická horečka s třesavkou a zimnicí (intermitentní), žloutenka obstrukčního typu a tlaková bolest v pravém nadbřišku"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "septická horečka s třesavkou a zimnicí (intermitentní), žloutenka obstrukčního typu a tlaková bolest v pravém nadbřišku"
+    ],
+    "description": [
+      "Tzv. Charcotova trias: --septická horečka s třesavkou a zimnicí (intermitentní), --žloutenka obstrukčního typu, --tlaková bolest v pravém nadbřišku, --vždy jde o těžké septické onemocnění, je třeba ho léčit širokospektrými ATB – prevence sepse, přímo do žlučovodů se dostanou minimálně, --musíme nemocného sledovat a pokud se stav rychle nezlepší, revidovat žlučovody operačně, překážku v odtoku odstranit. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "209. Blokátor vápníkových kanálů? * calcium channels blocker 😊Терапія",
+    "answers": ["atenolol", "verapamil", "furosemid"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["verapamil"],
+    "description": [
+      "1. Blokátory Ca2+ kanálů I. generace = non-dihydropyridiny: nifedipin (je z první generace, ale patří mezi dihydropyridiny, stejně jako nicardipin), verapamil, diltiazem.--Blokátory Ca2+ kanálů II. generace = dihydropyridiny: isradipin, felodipin, nitrendipin, nisoldipin. Jedná se o dihydropyridinové deriváty, které oproti nifedipinu vykazují vyšší vaskulární selektivitu (výraznější vazodilatace při nižším negativně chronotropním a dromotropním účinku) a výhodnější farmakokinetické vlastnosti – delší působení.--Blokátory Ca2+ kanálů III. generace = dihydropyridiny: amlodipin, lacidipin, barnidipin. Jsou vysoce selektivní k cévám a mají pomalý nástup účinku, nedochází k reflexní aktivaci sympatiku. Působí dlouhodobě a antioxidačně. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "210. U geriatrických nemocných se nejčastěji setkáváme s močovou inkontinencí: (Klener)Терапія",
+    "answers": ["stresovou", "reflexní", "urgentní", "paradoxní ischurií"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["urgentní"],
+    "description": [
+      "Urgentní inkontinence je stav spojený s náhlým nucením na močení, bez závislosti na náplni měchýře. Mikci obvykle není možné zadržet a dochází tak k následnému úniku moči. Příčinou tohoto stavu je porucha funkce detrusoru měchýře. Může se jednat o patologie motorické funkce (nadměrné kontrakce detrusoru = hyperaktivní močový měchýř), případně funkce senzorické (hypersenzitivita receptorů detrusoru, chronická iritace detrusoru cizím tělesem – litiáza, nádorové onemocnění, cizí těleso apod.). WIKISKRIPTA"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "211. Inkontinence moči u pacienta v nemocniční péči je indikací (Klener) Урогинекология",
+    "answers": [
+      "k zavedení permanentního močového katétru k prevenci dekubitů",
+      "k oslabení stahů detruzoru močového měchýře farmakologicky",
+      "k provedení závěsné operace",
+      "ke zvýšené ošetřovatelské péči s využitím plen"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["ke zvýšené ošetřovatelské péči s využitím plen"],
+    "description": [
+      "Není-li moţné zamezit úniku moči, klientce se předepisují inkontinenční pomůcky. Nejčastěji vloţky, pleny, kalhotky (Halaška a kol., 2004). Moderní pomůcky umoţní spolehlivou a nenápadnou ochranu bez nepříznivého zápachu. Při edukaci je nutné klientky informovat o péči o pokoţku. 1. CHMEL, R. Ženská močová inkontinence. 1. vyd. Praha: Mladá fronta, 2010. 72 s. ISBN 978-80-204- 2279-8 "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "212. Inkontinence moči s zvýšeným intraabdominálním (nitrobřišním) tlakem: Урогинекология.",
+    "answers": [
+      "Stresová inkontinence moči *červeným na apelaci",
+      "smíšená inkontinence",
+      "urgentní inkontinence"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Stresová inkontinence moči *červeným na apelaci",
+      "smíšená inkontinence"
+    ],
+    "description": [
+      "Stresová inkontinence moči je takový typ inkontinence moči, při němž k úniku dochází bez kontrakce detruzoru při prostém zvýšení intraabdominálního tlaku (tj. „stres“)[12"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "213. Močovou inkontinenci obvykle nezhoršuje (Klener) Урогинекология",
+    "answers": [
+      "užívání diuretik",
+      "uroinfekce",
+      "užívání sedativ a hypnotik",
+      "běžný příjem tekutin"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["běžný příjem tekutin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "214. U geriatrických nemocných se nejčastěji setkáváme s močovou inkontinencí: (Klener) Урогинекология",
+    "answers": [
+      "stresovou *(často u těhotných, zvýšení vnitřního břišního tlaku)",
+      "reflexní *(není počít jít na záchod)",
+      "urgentní *(hyperaktivní močový měchýř)",
+      "paradoxní ischurií *geriatrický nemocný – nemocný člověk nad 80let (geriatric patient)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["urgentní *(hyperaktivní močový měchýř)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "215. Inkontinence moči, typy: � Урогинекология",
+    "answers": [
+      "Stresová",
+      "Urgentní",
+      "Reflexní",
+      "Paradoxní",
+      "Návalová�",
+      "Psychogenní"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Stresová",
+      "Urgentní",
+      "Reflexní",
+      "Paradoxní",
+      "Návalová�",
+      "Psychogenní"
+    ],
+    "description": [
+      "Obsah 1 Klinický význam 1.1 Stresová inkontinence 1.2 Urgentní inkontinence 1.3 Reflexní inkontinence 1.4 Paradoxní inkontinence 1.5 Psychogenní inkontinence 1.6 Inkontinence vzniklá dlouhodobým zavedením močové cévky Wikiscripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "216. Typ inkontinence, kdy je silné nucení na močení? � Урогинекология",
+    "answers": ["Urgentní inkontinence"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Urgentní inkontinence"],
+    "description": [
+      "Urgentní inkontinence je stav spojený s náhlým nucením na močení, bez závislosti na náplni měchýře. Mikci obvykle není možné zadržet a dochází tak k následnému úniku moči. Příčinou tohoto stavu je porucha funkce detrusoru měchýře. Wikiscripta. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "217. Inkontinence s poruchami uretry (močového měchýře): � Урогинекология",
+    "answers": ["Pravá stresová inkontinence"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Pravá stresová inkontinence"],
+    "description": [
+      "Stresová inkontinence moči je takový typ inkontinence moči, při němž k úniku dochází bez kontrakce detruzoru při prostém zvýšení intraabdominálního tlaku (tj. „stres“)[12"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "218. Únik moči , který doprovázen nezvladatelným pocitem nucení na močení je: � Урогинекология",
+    "answers": [
+      "Urgentní inkontinence moči",
+      "Návalová inkontinence moči",
+      "Stresová inkontinence moči",
+      "Reflexní inkontinence moči"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Urgentní inkontinence moči"],
+    "description": [
+      "Urgentní inkontinence je stav spojený s náhlým nucením na močení, bez závislosti na náplni měchýře. Mikci obvykle není možné zadržet a dochází tak k následnému úniku moči. Příčinou tohoto stavu je porucha funkce detrusoru měchýře. Wikiscripta. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "219. Hyperaktivní detruzor - syndrom hyperaktivního měchýře, příznaky:� Урогинекология.",
+    "answers": [
+      "Urgentní inkontinence – naléhavé nucení na močení s následným únikem moči не було 2024",
+      "Frekvence - časté nucení na močení, více než 8x za 24 hodin не було 2024",
+      "Nykturie – nucení na močení v noci, které přeruší spánek",
+      "Urgence – náhlé nutkání na močení"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Urgentní inkontinence – naléhavé nucení na močení s následným únikem moči не було 2024",
+      "Frekvence - časté nucení na močení, více než 8x za 24 hodin не було 2024",
+      "Nykturie – nucení na močení v noci, které přeruší spánek",
+      "Urgence – náhlé nutkání na močení"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "220. Hyperaktivní detruzor, co to je? � Урогинекология",
+    "answers": [
+      "urgentní inkontinence moči (komplex symptomů zahrnující „urgenci s nebo bez urgentní inkontinence moči, doprovázenou obvykle polakisurií a nykturií, bez zvýšení intraabdominálního tlaku! Nejčastěji neurogenní etiologie)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "urgentní inkontinence moči (komplex symptomů zahrnující „urgenci s nebo bez urgentní inkontinence moči, doprovázenou obvykle polakisurií a nykturií, bez zvýšení intraabdominálního tlaku! Nejčastěji neurogenní etiologie)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "221.Hyperaktivní detruzor: � Урогинекология",
+    "answers": [
+      "OAB syndrom – syndrom hyperaktivního močového měchýře",
+      "může být součástí urgentní inkontinence",
+      "normální funkce mikčního centra a aferentní impulzy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "OAB syndrom – syndrom hyperaktivního močového měchýře",
+      "může být součástí urgentní inkontinence"
+    ],
+    "description": [
+      "* detruzor – sval v močovém měchýři podílející se na jeho vyprazdňování."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "222. Mikční cystoradiografie: (Klener) Урология",
+    "answers": [
+      "má 1 význam pro diagnózu stenózy uretry",
+      "využíváme k průkazu refluxu a potvrzení diagnózy refluxové nefropatie",
+      "je kontraindikována při hypertrofii prostaty",
+      "je nezbytná při průkazu tumoru močového měchýře"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "využíváme k průkazu refluxu a potvrzení diagnózy refluxové nefropatie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "223. Co je cystometrie? � Урогинекология",
+    "answers": [
+      "je diagnostická metoda, která se používá při vyšetření dysfunkce močového měchýře. Dá se hodnotit: kapacita močového měchýře, intravesikální tlak, schopností svalu močového měchýře k dlouhodobému stažení, pocity plnění močového měchýře, schopnost libovolného spuštění a ukončení močení"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "je diagnostická metoda, která se používá při vyšetření dysfunkce močového měchýře. Dá se hodnotit: kapacita močového měchýře, intravesikální tlak, schopností svalu močového měchýře k dlouhodobému stažení, pocity plnění močového měchýře, schopnost libovolného spuštění a ukončení močení"
+    ],
+    "description": [
+      "Cystometrie je diagnostická metoda, která měří tlak v močovém měchýři, a to buď během jeho plnění (plnící cystometrie), nebo během močení (mikční cystometrie). "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "224. Při podezření na vezikoureterální reflux provedeme (Klener) Урогинекология",
+    "answers": [
+      "ultrasonografii ledvin a močového měchýře",
+      "mikční cystografii",
+      "scintigrafii ledvin",
+      "renální arteriografii"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["mikční cystografii"],
+    "description": [
+      "Jako vezikoureterální reflux se označuje nález zjištěný při klasické rentgenové mikční cystouretrografii (MCUG) – po zacévkování měchýře s infúzí krystaloidu s jodovým kontrastem (v poloze na zádech). Wikiscripta "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "225. Cystometrie: � Урология.",
+    "answers": [
+      "je metoda, při níž se hodnotí vztah mezi tlakem a objemem močového měchýře během jeho plnění",
+      "umožňuje sledovat změny na sliznici močového měchýře",
+      "sleduje tlakový profil v uretre",
+      "měří rychlost moči uretrou za jednotku času",
+      "analyzuje funkcí detruzoru"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "je metoda, při níž se hodnotí vztah mezi tlakem a objemem močového měchýře během jeho plnění",
+      "analyzuje funkcí detruzoru"
+    ],
+    "description": [
+      "Cystometrie je nejužívanější UD metodou. Měří se vztah intravezikálního tlaku k objemu močového měchýře. Řešení stresové inkontinence u žen MUDr. Varga Gabriel, MUDr. Hajný Martin, MUDr. Karmašová Kamila Urologická klinika LF MU a FN Brno Přednosta: Prof. MUDr. Pacík Dalibor, CSc. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "226. Nejvhodnějším vyšetřením pro průkaz vezikoureterálního refluxu je� Урология.",
+    "answers": ["mikční cystouretrografie"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["mikční cystouretrografie"],
+    "description": [
+      "[* Jako vezikoureterální reflux se označuje nález zjištěný při klasické rentgenové mikční cystouretrografii (MCUG) – po zacévkování měchýře s infúzí krystaloidu s jodovým kontrastem (v poloze na zádech). Má 5 stupňů dle mezinárodní klasifikace: -reflux do dolní části nerozšířeného ureteru, --reflux až do pánvičky, která není rozšířena,  --ureter a pánvička jsou rozšířeny, kontury kalichů zachovány,  --výrazné rozšíření, kontura kalichů otupena,  -masivní dilatace dutého systému, kalichy jsou konvexní. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "227. Jaká je nejčastější rakovina, kterou způsobuje ileus:� Онкология",
+    "answers": [
+      "levostranný karcinom tlustého střeva",
+      "karcinom tenkého střeva",
+      "karcinom žlučníku",
+      "karcinom jícnu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["levostranný karcinom tlustého střeva"],
+    "description": [
+      " Lokalizace nádorů dle četnosti [5] levý tračník – 64 %; rektum – 30 %; sigmoideum – 26 %; colon descendens – 8 %; colon transverzum – 13 %; colon ascendens – 9 %; caecum – 14 %. Wikiscripta "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "228. Asymptomatická bakteriurie u těhotných žen (+ u pacientů před instrumentálním vyšetřením, u imunosuprimovaných a diabetiků) (Živný) Урогинекология.",
+    "answers": [
+      "častější a je vhodněji léčit",
+      "běžná a nepotřebuje léčbu",
+      "výjimečná",
+      "výjimečná a nepotřebuje léčbu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["častější a je vhodněji léčit"],
+    "description": [
+      "Přehledové články Uroinfekce v graviditě - kdy léčit, jak léčit a čím léčit MUDr. Jiří Kladenský. Urologická ambulance, Dům zdraví Marty Hartlové, Brno Neléčená asymptomatická bakteriurie v gravi- ditě vede až ve 40 % ke vzniku akutní pyelonefritidy. Léčba asymptomatické bakteriurie má být zásadně cílená, dle výsledku kultivačního vy- šetření vzorku moče s ohledem na bezpečnost preparátu a event. na alergickou anamnézu pacientky. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "229. Těhotná žena s intrauterinní infekcí. Co bude? � Гинекология",
+    "answers": [
+      "tachykardie plodu",
+      "leukocytóza u matky",
+      "zvýšení teploty u matky"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "tachykardie plodu",
+      "leukocytóza u matky",
+      "zvýšení teploty u matky"
+    ],
+    "description": [
+      "Klinicky se projevuje dráždivou dělohou , tachykardií u matky a plodu , zvýšenou teplotou , leukocytózou a purulentním výtokem. Porodnictví v kostce . S 246."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "230 . Nitroděložní infekce, co NEbude? � Гинекология. ",
+    "answers": [
+      "leukocytóza ",
+      "tachykardie plodu ",
+      "zvýšení CRP ",
+      "apozice dělohy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["apozice dělohy"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "231. Kvasinková infekce pochvy (kandidóza) � Гинекология.",
+    "answers": [
+      "zarudnutí, svědění",
+      "bílý hrudkovitý výtok bez zápachu",
+      "přenášeno genitálně",
+      "nemění pH v pochvě (3,5 – 4,5)",
+      "mění pH v pochvě (4-5)�",
+      "nepřenáší se genitálně"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "zarudnutí, svědění",
+      "bílý hrudkovitý výtok bez zápachu",
+      "nemění pH v pochvě (3,5 – 4,5)",
+      "nepřenáší se genitálně"
+    ],
+    "description": [
+      "Candidosis - candidy jsou nozoparazitární houby, tj. žijí normáln jako saprofyté- na kůži, v dutině ústní, ve vagíně, ve střevě - za určitých podmínek se pomnoží a vyvolávají chorobné stavy Vhodné podmínky: teplo, vlhko, macerace, porušení kožního povrchu, změny pH (hlavně alkalizace, obezita, gravidita, DM, kachektizující nemoci, ATB, kortikoidy, imunodef. Vulvovaginitis candidosa - u starších žen, zarudlá slizinice, otok vulvy, silné svědění, bělavé povlaky a výtok, infekce z Konečníku. BENEŠ, Jiří. Studijní materiály online. ©2007.cit. 2015-03-24 "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "232. Kvasinková infekce pochvy (kandidóza) NEpatří: � Гинекология",
+    "answers": [
+      "Zarudnutí a svědění",
+      "Bílý výtok (bily hrudkovitým výtokem bez zápachu)",
+      "Zvýšená temperatura"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Zvýšená temperatura"],
+    "description": [
+      "Candidosis - candidy jsou nozoparazitární houby, tj. žijí normáln jako saprofyté- na kůži, v dutině ústní, ve vagíně, ve střevě - za určitých podmínek se pomnoží a vyvolávají chorobné stavy Vhodné podmínky: teplo, vlhko, macerace, porušení kožního povrchu, změny pH (hlavně alkalizace, obezita, gravidita, DM, kachektizující nemoci, ATB, kortikoidy, imunodef. Vulvovaginitis candidosa - u starších žen, zarudlá slizinice, otok vulvy, silné svědění, bělavé povlaky a výtok, infekce z Konečníku. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "233. Kvasinkovа infekce, co NEbude? � Гинекология",
+    "answers": [
+      "teplota",
+      "bělavý výtok spojený se svěděním, pálením a erytémem vulvy a vagíny nebo pálením při močení"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["teplota"],
+    "description": [
+      "Candidosis - candidy jsou nozoparazitární houby, tj. žijí normáln jako saprofyté- na kůži, v dutině ústní, ve vagíně, ve střevě - za určitých podmínek se pomnoží a vyvolávají chorobné stavy Vhodné podmínky: teplo, vlhko, macerace, porušení kožního povrchu, změny pH (hlavně alkalizace, obezita, gravidita, DM, kachektizující nemoci, ATB, kortikoidy, imunodef. Vulvovaginitis candidosa - u starších žen, zarudlá slizinice, otok vulvy, silné svědění, bělavé povlaky a výtok, infekce z Konečníku."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "234. Bakteriální vaginóza: � Гинекология",
+    "answers": [
+      "šedobílý vaginální výtok",
+      "pokles až vymizení laktobacil",
+      "mírné svědění nebo pálení vulvy",
+      "Gardnerella vaginalis, Prevotella, Mobiluncus (běžně vyskytují)",
+      "pH vaginálního výtoku > 4,5",
+      "acidifikace (okyselení) moči"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "šedobílý vaginální výtok",
+      "pokles až vymizení laktobacil",
+      "mírné svědění nebo pálení vulvy",
+      "Gardnerella vaginalis, Prevotella, Mobiluncus (běžně vyskytují)",
+      "pH vaginálního výtoku > 4,5"
+    ],
+    "description": [
+      "* Kritérií: Definuje- me ji jako polymikrobiální klinický syndrom cha- rakterizovaný částečnou redukcí až vymizením lak- tobacilů a naopak přemnožením aerobních a anae- robních baktérií. Onemocnění se vyvíjí patrně tehdy, je-li přemno- žena fakultativně anaerobní Gardnerella vaginalis Diagnózu stanovíme přítomností tří ze čtyř kri- térií:  -- homogenní vodnatý výtok;  -- poševní pH v rozmezí 4,7–5,5 (vyšší hodnoty signalizují spíše zánětlivé změny);  -- klíčové buňky v mikroskopickém nálezu (obr. 11.2.)  -- pozitivní amin-test s uvolněním zapáchajících aminů. KAREL CITTERBART et al. GYNEKOLOGIE  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "235. Bakteriální vaginóza � Гинекология",
+    "answers": [
+      "zvýšení množství anaerobní mikroflóry",
+      "šedobílý vaginální výtok",
+      "kyselé prostředí - (naopak, pH stoupá nad 4,5)",
+      "redukce Lactobacillus"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "zvýšení množství anaerobní mikroflóry",
+      "šedobílý vaginální výtok",
+      "redukce Lactobacillus"
+    ],
+    "description": ["*Snížení množství laktobakterií "],
+    "img": [""]
+  },
+
+  {
+    "question": "236. Příznaky apendicitidy? Хирургия",
+    "answers": [
+      "murphy (bolest při nádechu během hluboké palpace pod pravým žeberním obloukem",
+      "akutní cholecystitis)",
+      "Blumbergův příznak (bolest břicha po uvolnění tlaku na břicho)",
+      "bolest břicha, nauzea, teplota, lukocytóza"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Blumbergův příznak (bolest břicha po uvolnění tlaku na břicho)",
+      "bolest břicha, nauzea, teplota, lukocytóza"
+    ],
+    "description": [
+      "-Blumbergův příznak: bolest břicha po uvolnění tlaku na břicho, typicky v místě probíhajícího zánětu, u appendicitidy tedy v pravém podbřišku. -Typické příznaky jsou nauzea a reflexní zvracení, nechutenství a nadýmání, tachykardie, subfebrilie (febrilie nad 3 9 °C spíše appendicitidu vyvrací) -Většinou se prokazuje vzestup C-re- aktivního proteinu a leukocytóza nad 10×109 AKUTNÍ APENDICITIDA MUDr. Martin Kouda, MUDr. Zbyněk Jech Chirurgická klinika UK 2. LF a FN Motol, Praha. Wikiscripta. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "237. Lennanderův příznak � Хирургия",
+    "answers": [
+      "rozdíl mezi teplotou v konečníku a v axile větší než 1,1 °C. Bývá u náhlých příhod břišních - pří apendicitidě"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "rozdíl mezi teplotou v konečníku a v axile větší než 1,1 °C. Bývá u náhlých příhod břišních - pří apendicitidě"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "238. Apendicitida, jaké má projevy? 😊",
+    "answers": [
+      "tachykardie, bolest v pravém podbříšku, nevolnost  / bolest v právem podbřišku, tachykardie, leukocytóza",
+      "leukocytóza, zvýšená sedimentace, leukocyturie",
+      "tachykardie, horečka a tachypnoe",
+      "zvracení",
+      "біль в животі, правому подбржішку і попереку (не брала)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "tachykardie, bolest v pravém podbříšku, nevolnost  / bolest v právem podbřišku, tachykardie, leukocytóza"
+    ],
+    "description": [
+      "Vznik z pocitu plného zdraví, náhlý začátek, bolest břicha, rychlá progrese. Nauzea, reflexní zvracení, nechutenství a nadýmání, tachykardie, Lennanderův příznak (rozdíl mezi teplotou v axile a teplotou v rektu je víc než 1 °C). Typické příznaky jsou nauzea a reflexní zvracení, nechutenství a nadýmání, tachykardie, subfebrilie (febrilie nad 39 °C spíše appendicitidu vyvrací)  a Lennanderův příznak (rozdíl mezi teplotou v axile a teplotou v rektu je víc než 1 °C). Pléniesovo znamení: poklepová bolestivost. Blumbergův příznak: bolest břicha po uvolnění tlaku na břicho, typicky v místě probíhajícího zánětu, u appendicitidy tedy v pravém podbřišku. Rovsingův příznak: při tlaku na levý podbřišek nemocný pociťuje bolest v pravém podbřišku. Psoatový příznak: odhaluje zejm. retrocékální lokalizaci zaníceného appendixu: při hyperextenzi nebo flexi v kyčli nemocný cítí bolest v místě appendixu. Obturátorový příznak: abdukce, flexe a vnitřní rotace vyvolává bolest břicha při pelvické formě.  Paraklinické vyšetření: ultrazvuk břicha, event. nativní snímek břicha a CT (v rámci dif. dg) Змінені відповіді, звучало так: •tachykardie,tachypnoe a bolest v pravém podbřišku - не брала •tachykardie,nauzea, bolest v pr.podbr.- БРАЛА •далі варіант з болями в бедрах + тахікардія •leukocytóza, zvýšená sedimentace, leukocyturie Тут був ще  варіант - біль в животі, правому подбржішку і попереку (не брала) (першої відповіді не було, я вибрала правильну відповідь: біль, тахікардія, ще щось і гарячка. Комбінації відповідей були змінені)  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "239. Co je rozhodující pro diagnostiku akutní apendicitidy? 😊",
+    "answers": [
+      "tachykardie",
+      "teplota",
+      "bolesti v žaludku",
+      "leukocytóza",
+      "leukocyturie",
+      "tachypnoe"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["tachykardie"],
+    "description": ["*tachykardie – je rozhodující příznak pro AA u dětí. "],
+    "img": [""]
+  },
+
+  {
+    "question": "240. Vážnější příznak apendicitidy? 😊",
+    "answers": ["tepová frekvence"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["tepová frekvence"],
+    "description": [
+      "Vznik z pocitu plného zdraví, náhlý začátek, bolest břicha, rychlá progrese. Průběh je do značné míry ovlivněn topografickým umístěním červovitého výběžku a jeho délkou. U začínajících projevů akutního zánětu appendixu se objevuje postupně se zhoršující neurčitá a trvalá bolest v nadbřišku, která se přesouvá do pravého hypogastria. V průběhu se mohou objevit jak kolikovité bolesti, tak zrádné zlepšení bolesti. Typická je bolestivost v McBurneyově a Lanzově bodě. McBurneyův bod: spojnice pupku a spina iliaca anterior superior, ve vzdálenosti 2/3 od pupku, Lanzův bod: spojnice pravé a levé spina iliaca anterior superior, ve vzdálenosti 1/3 od pravé spiny. Typické příznaky jsou nauzea a reflexní zvracení, nechutenství a nadýmání, tachykardie, subfebrilie (febrilie nad 39 °C spíše appendicitidu vyvrací) a Lennanderův příznak (rozdíl mezi teplotou v axile a teplotou v rektu je víc než 1 °C), leukocytoza, postupný rozvoj známek, peritoniálního dráždění. Nenašla jsem v knihách určité informace o tom, že je to rozhodující příznak!] "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "241. Jaký příznak ukazuje na akutní apendicitidu? 😊",
+    "answers": ["Blumbergův příznak"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Blumbergův příznak"],
+    "description": [
+      "Pléniesovo znamení: poklepová bolestivost.-- Blumbergův příznak: bolest břicha po uvolnění tlaku na břicho, typicky v místě probíhajícího zánětu, u appendicitidy tedy v pravém podbřišku.-- Rovsingův příznak: při tlaku na levý podbřišek nemocný pociťuje bolest v pravém podbřišku.-- Psoatový příznak: odhaluje zejm. retrocékální lokalizaci zaníceného appendixu: při hyperextenzi nebo flexi v kyčli nemocný cítí bolest v místě appendixu.-- Obturátorový příznak: abdukce, flexe a vnitřní rotace vyvolává bolest břicha při pelvické formě.-- Paraklinické vyšetření: ultrazvuk břicha, event. nativní snímek břicha a CT (v rámci dif. dg)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "242. Klinika akutní apendicitidy: 😊",
+    "answers": [
+      "zvýšená sedimentace erytrocytů (FW), leukocyturie, leukocytóza",
+      "teplota",
+      "bolesti v žaludku / epigastrická a hypogastrická bolest",
+      "zvýšená sedimentace erytrocytů (FW), leukocytóza"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "teplota",
+      "bolesti v žaludku / epigastrická a hypogastrická bolest",
+      "zvýšená sedimentace erytrocytů (FW), leukocytóza"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "243. Sarkoidóza:",
+    "answers": [
+      "nejistého původu, etiologie je neznámá",
+      "tvorba granulomů / granulomatózní zánět",
+      "plicní postižení",
+      "dobře se léčí antibiotiky"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "nejistého původu, etiologie je neznámá",
+      "tvorba granulomů / granulomatózní zánět",
+      "plicní postižení"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "244. U sarkoidózy může být",
+    "answers": [
+      "hyperkalémie",
+      "hypokalémie",
+      "hypokalciurie a hypokalcémie",
+      "hyperkalciurie a hyperkalcémie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hyperkalciurie a hyperkalcémie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "245. Formy sarkoidózy: 😊",
+    "answers": [
+      "plicní a mimoplicní",
+      "asymptomatická a klinicky manifestní",
+      "akutní a chronická"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "plicní a mimoplicní",
+      "asymptomatická a klinicky manifestní",
+      "akutní a chronická"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "246. Etiologie sarkoidózy je 😊",
+    "answers": ["bakteriální", "parazitární", "virová", "neznámá"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["neznámá"],
+    "description": [
+      "Etiologie je neznámá. Často se manifestuje bilaterální hilovou adenopatií, plicními infiltráty a očními a kožními lézemi. Játra, slezina, lymfatické uzliny, slinné žlázy, srdce, nervový systém, svaly, kosti a další orgány mohou být také postiženy. Diagnóza je stanovena, pokud jsou radiologické nálezy podpořeny histologickým průkazem nekaseifikujících granulomů z epiteloidních buněk. Musí být vyloučeny granulomy ze známých příčin a lokální sarkoidní reakce. Klinické formy: asymptomatická, akutní a chronický nitrohrudní a mimohrudní Může být sarkoidóza příčinou poruch metabolismu (hyperkalcémie, hyperkalciurie) Nespecifickým laboratorním vyšetřením je elevace sérového angiotenzin-konvertujícího enzymu (S-ACE). Jeho zvýšení pod dvojnásobek horního limitu normy není nikdy diagnostické. Při zvýšení nad dvojnásobek je diagnóza sarkoidózy pravděpodobná. Je však nutné vyloučit jiná granulomatózní onemocnění (TBC, Gaucherovu chorobu) a hyperthyreoidismus. Léčba: Glukokortikoidy, Cytostatika, Antimalarika, Anti TNF "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "247. Co zvyšuje hladinu ACE v krvi? / Při kterém onemocnění se zvyšuje hladina ACE v krvi? 😊",
+    "answers": [
+      "sarkoidóza",
+      "systémový lupus erythematodes",
+      "pneumonie",
+      "plicní embolie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["sarkoidóza"],
+    "description": [
+      "* Angiotenzin konvertující enzym, též angiotenzin konvertáza neboli ACE, je glykoprotein patřící mezi peptidázy, který štěpí angiotenzin I na účinný hormon angiotenzin II. Je tak součástí systému renin-angiotenzin- aldosteron, který řídí výšku krevního tlaku a bilanci vody a solí. ACE nepřímo zvyšuje krevní tlak tím, že se způsobuje vazokonstrikci. Dochází k tomu při konverzi angiotensinu I na angiotensin II. ** Enzym konvertující angiotenzin je produkován v epiteloidních buňkách granulomů. Jeho sérová koncentrace (SACE) slouží jako velmi často používaný ukazatel aktivity sarkoidózy. Zvýšení SACE není zcela specifické pro sarkoidózu. Méně často k němu dochází i u jiných onemocnění charakterizovaných granulomatózní reakcí (tuberkulóza, histoplazmóza, Crohnova choroba, exogenní alergická alveolitida, některé maligní lymfomy aj.). Při léčbě kortikosteroidy by mělo dojít k úplné normalizaci hodnot SACE.] "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "248. Která onemocnění se vyskytují ve spojení s uveitidou? (Klener)",
+    "answers": [
+      "ulcerózní kolitida",
+      "Gravesova-Basedowova choroba",
+      "ankylozující spondylartritida",
+      "sarkoidóza"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "ulcerózní kolitida",
+      "ankylozující spondylartritida",
+      "sarkoidóza"
+    ],
+    "description": [
+      "Etiologie: viry (herpes simplex virus, varicella-zoster virus), mykózy (kandidóza), paraziti (toxoplasmóza, toxokaróza), autoimunitní nemoci (revmatoidní artritida, ankylozující spondylartritida, sarkoidóza,...), systémové infekce (borelióza, syfilis, tuberkulóza,...), idiopatické uveitidy (např. juvenilní idiopatická artritida), reaktivní artritida. ! Je tipické i pro manifestaci a aktivaci idiopatických střevních zánětů: řadíme k nim Crohnovu nemoc a ulcerózní kolitidu Při Gravesova-Basedowova chorobě: endokrinní orbitopatie - otok měkkých tkání za bulbem způsobí exoftalmus aktivace sympatiku zvyší tonus m. levator palpebrae sup., vázne pohyb víček dolů (Graefeho příznak) lagoftalmus (nedovírání víček) způsobuje vysychání rohovky a její eroze postižení očních svalů − diplopie komprese nervus opticus může způsobit až slepotu "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "249. Mezi choroby s restrikční ventilační poruchou patří: (Klener)",
+    "answers": [
+      "sarkoidóza",
+      "plicní fibróza",
+      "mukoviscidóza",
+      "bronchiektázi"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["sarkoidóza", "plicní fibróza"],
+    "description": [
+      "K restrikci dýchání dochází v situacích, kdy klesá plicní poddajnost (intersticiální plicní procesy) anebo poddajnost hrudní stěny (obezita, vrozené nebo získané deformity hrudníku). Plicní poddajnost je dána vlastnostmi plicní tkáně (množstvím vaziva v plicním intersticiu) a přítomností surfaktantu v alveolech. Tvar hrudního koše a stav svalového aparátu hrudníku podmiňují poddajnost hrudní stěny. K tomuto stavu může dojít v několika situacích: změny po resekci plicní tkáně, difúzní infiltrativní plicní nemoc a plicní fibróza, exogenní alergická alveolitida (farmářská plíce aj.), sarkoidóza, pneumokoniózy, pneumonie, syndrom akutní dechové tísně – ARDS (acute respiratory distress syndrome) ! Mukoviscidoza – emfyzém, bronchiektáze "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "250. Indikace terapie glukokortikoidy zahrnují: (Klener)",
+    "answers": [
+      "atopická dermatitida (místní terapie)",
+      "revmatická polymyalgie",
+      "sarkoidóza",
+      "Cushingův syndrom"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "atopická dermatitida (místní terapie)",
+      "revmatická polymyalgie",
+      "sarkoidóza"
+    ],
+    "description": [
+      "Autoimunní choroby, revmo – revmatická polymyalgie, revmatická artritida, lupus atd. Sarkoidoza, při atopické dermatitidě lokální kortikosteroidy ! Cushingův syndrom vzniká dlouhodobým nadměrným působením vysokých hladin kortizolu v organismu. Léčba: Inhibice steroidogeneze: ketokonazol, metyrapone "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "251. Mezi choroby s obstrukční ventilační poruchou patří: (Klener)",
+    "answers": [
+      "asthma bronchiale",
+      "bronchiolitida",
+      "sarkoidóza",
+      "pneumonie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["asthma bronchiale", "bronchiolitida"],
+    "description": [
+      "Mezi obstrukční ventilační poruchy patří: Asthma bronchiale, bronchiolitida, chronická bronchitida, CHOPN ! sarkoidoza, pneumonie – restrikční "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "252. Tzv. lipoidní nefróza (minimální změny) (Klener)",
+    "answers": [
+      "je charakterizována infiltrací glomerulů lipidy",
+      "se vyskytuje zejména u starších osob",
+      "je obvykle charakterizována rezistencí na terapii glukokortikoidy",
+      "je charakterizována selektivní proteinurií"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["je charakterizována selektivní proteinurií"],
+    "description": [
+      "Je nejčastější příčinou nefrotického syndromu u dětí.  Ostatní pacienti mohou pocházet z řad mladistvých, výjimečně dospělých.  Přítomnost albuminů (selektivní proteinurie) a tukových kapének v moči a zároveň těžké změny tubulů bez výraznějších změn v glomerulech.  Léčba bývá velmi úspěšná. Většina případů dobře odpovídá na léčbu kortikosteroidy. U kortikorezistentních forem užíváme cyklofosfamid. Alternativou může být podávání bezpečnějšího cyklosporinu. U idiopatického nefrotického syndromu při MCD lze užít rituximab.]  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "253. Dítě 6 let ztratilo vědomí a potřebuje KPR (kardiopulmonální resuscitaci). Poskytuje pomoc jeden člověk. Poměr stlačení a vdechů musí být: 😊",
+    "answers": ["2:15  *(i když poskytuje pomoc dva lidi 2:15)"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["2:15  *(i když poskytuje pomoc dva lidi 2:15)"],
+    "description": [
+      "Newly born = novorozenec resuscitovaný na porodním sále;  newborn = novorozenec mimo porodní sál;  infants = 28.den–1 rok;  children = 1–8 let;  adult = děti > 8 let, tj.pro děti nad 8 let platí užití stejných postupů a pomůcek jako u dospělých  novorozenci po porodu - poměr kompresí a dechů 3:1 (přibližně 30 dechů a 90 kompresí hrudníku za minutu); 1 vdech : 3 stlačení  děti - poměr kompresí a dechů 15:2 (přibližná rychlost kompresí: 100-120 za minutu) 2 vdechy : 15 stlačení   děti nad 8 let a dospělí: 2 vdechy : 30 stlačení  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "254. Při resuscitace dvěma záchranáři je poměr dýchání a masáže (KPR)?",
+    "answers": ["2:15", "1:5", "1:10", "1:3 *nebylo"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["2:15", "1:3 *nebylo"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "255. Kardiopulmonální resuscitaci (KPR) u dospělého? 😊",
+    "answers": ["2:15", "2:30", "1:3", "1:5"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["2:30"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "256. Kam dát ruce při kardiopulmonální resuscitaci (KPR)? / Nepřímá masáž srdce: 😊",
+    "answers": [
+      "dlaň na střed hrudní kosti / na střední části sternum  / + dlaň dáme na hranici střední a dolní třetí hrudníku",
+      "zápěstní hrán jedné ruky v odstupu na dva prsa od processus xiphoideus",
+      "dlaň na dolní část sternum",
+      "dáváme jednou ruku na sternum tak, aby prst byl nadmečovitým výběžekem, a druhou ruku - bud vedle první nebo na ni *(presně neopakuji)",
+      "dáváme hranu ruky někam tam..."
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "dlaň na střed hrudní kosti / na střední části sternum  / + dlaň dáme na hranici střední a dolní třetí hrudníku"
+    ],
+    "description": [
+      "Zaujmeme polohu vedle pacienta nejlépe v kleče, přiložíme hranu dlaně jedné ruky doprostřed pacientova hrudníku (dolní polovina hrudní kosti), druhou ruku přiložíme shora přes první, ověříme polohu rukou a s napnutými pažemi zahájíme komprese hrudníku. Komprese by měla být do 1/3 hloubky těla. Po každé kompresi by mělo nastat úplné uvolnění tlaku, avšak bez ztráty kontaktu rukou s hrudníkem pacienta. Komprese provádíme s frekvencí mezi 100–120 za minutu, do rytmu písničky Jingle Bells nebo Stayin' Alive. Poměr kompresí hrudníku a vdechů do postiženého je 30:2."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "257. Connův syndrom (Primární hyperaldosteronismus), co bude: (apelace – správně)",
+    "answers": [
+      "nízká hladina reninu v seru",
+      "zvýšení parathormonu",
+      "zvýšení kalcitoninu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["nízká hladina reninu v seru"],
+    "description": [
+      "Connův syndrom – označení pro unilaterální adenom produkující aldosteron   Hladiny hormonů:  je-li vysoká hladina aldosteronu i reninu, znamená to, že příčina vysokého aldosteronu je v ledvinách  je-li vysoká hladina aldosteronu, ale nízká hladina reninu, znamená to, že problém je v nadledvinách  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "258. V diagnóze choledocholitiázy má nejmenší cenu (Klener)",
+    "answers": [
+      "ultrasonografie (USG)",
+      "cholangiografie",
+      "ERCP",
+      "PTC (Percutaneous Transhepatic Cholangiography)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["ultrasonografie (USG)"],
+    "description": [
+      "Choledocholitiázu potvrdíme cholangiografií – nejčastěji využívaná je endoskopicky (ERCP) – spolehlivost 90-95%, méně často pak perkutánně (PTC). Na USG (ultrasonografie) lze vidět dilataci žlučovodu, ale konkrementy se diagnostikují špatně – pouze 15%. V případě nejasné diagnostiky zvolíme magnetickou rezonanci – cholangiopankreatikografii (MRCP)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "259. Nejmalignější (zlobný/nepříznivý) karcinom štítné žlázy? 😊",
+    "answers": [
+      "nediferencovaný anaplastický  / nediferencovaný karcinom štítné žlázy",
+      "papilární karcinom"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "nediferencovaný anaplastický  / nediferencovaný karcinom štítné žlázy"
+    ],
+    "description": [
+      "Nádory štítné žlázy mohou být benigní, nejčastější je folikulární adenom, a maligní – karcinom. Nediferencovaný je velmi agresivní nádor, nápadný rychlým růstem nádorového uzlu s mechanickým útlakem okolí a častými metastázami v okolí i ve vzdálených orgánech. Léčí se chirurgicky, chemoterapií a zevním ozářením."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "260. Nejspolehlivější průkaz choledocholitiázy je pomocí (Klener)",
+    "answers": [
+      "břišní ultrasonografie",
+      "ERCP",
+      "cholescintigrafie",
+      "nativního snímku břicha"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["ERCP"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "261. Pro terapii choledocholitiázy je nejvhodnější přístup (Klener)",
+    "answers": [
+      "endoskopický",
+      "chirurgický",
+      "medikamentózní",
+      "symptomatická terapie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["endoskopický", "pomocí papilotomie při ERCP"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "262. Léčení choledocholitiázy je dnes prováděno hlavně: (Klener)",
+    "answers": [
+      "pomocí papilotomie při ERCP",
+      "chirurgicky",
+      "disolucí",
+      "rázovou vlnou"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["pomocí papilotomie při ERCP"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "263. Pro choledocholitiázu platí: (Klener)",
+    "answers": [
+      "ikterus je vždy přítomen",
+      "biliární kolika je konstantním projevem",
+      "kameny mají vždy původ ve žlučníku",
+      "ikterus může být bezbolestný"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["ikterus může být bezbolestný"],
+    "description": [
+      "Může být obstrukční ikterus, většina kamenů vzniká primarně ve žlučníku, někdy je klinicky asymptomatický – 10-20%. Bolesti trvají často několik hodin a recidivují s odstupem dnů až měsíců. Ikterus je variabilní a závisí na stupni obstrukce."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "264. Co ovlivňuje laktaci? 😊",
+    "answers": ["hypofiza", "nadledviny", "štítná žláza", "vaječníky"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hypofiza"],
+    "description": [
+      "Laktace je vylučování mléka z mléčné žlázy v období kojení. Během těhotenství dochází vlivem zvýšené hladiny estrogenu, progesteronu a prolaktinu k rozvoji tuboalveolárního systému mléčné žlázy, která výrazně proliferuje a vylučuje mlezivo. Tvorba mateřského mléka po porodu začíná po 2−3 dnech po porodu je stimulována prolaktinem z andenohypofýzy, vypuzování (= ejekce) mléka oxytocinem (vyvolává kontrakci buněk vývodného systému). Každým kojením se zvyšuje produkce prolaktinu i oxytocinu. Oxytocin je peptidový hormon vytvářený v hypotalamických jádrech (více v nucleus paraventricularis, méně v nucleus supraopticus). Jádra jsou tvořena těly magnocelulárních neuronů. Axony těchto neuronů transportují oxytocin pomocí transportního proteinu neurofyzinu I do neurohypofýzy (zadní lalok hypofýzy), odkud je hormon uvolňován do krve."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "265. Časným příznakem srdečního selhání u kojenců je (Olomouc)",
+    "answers": [
+      "křečový stav",
+      "apatie s odmítáním stravy",
+      "Cyanóza",
+      "Arytmie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["apatie s odmítáním stravy"],
+    "description": [
+      "Srdeční selhání se projevuje u novorozenců / kojenců:  nepřímými známkami (dítě je málo pohyblivé, někdy neklidně spí, špatně pije a při pití se rychle unaví, případně zpotí, nepřibývá na váze - neprospívání)  přémými známkami (dyspnoe, tachykardie, zvětšená játra, špatné periferní prokrvení, chrůpky (plíce)]  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "266. Zvýšená koncentrace kyseliny močové pří léčbě: 😊 Farmakologie",
+    "answers": [
+      "cytostatika",
+      "nesteroidní antiflogistika",
+      "nesteroidní antirevmatika"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["cytostatika"],
+    "description": [
+      "Cytotoxický účinek na rychle se dělící normální buňky je reverzibilní (vratný).Nauzea (pocit na zvracení), zvracení, nechutenství Zvýšená koncentrace kyseliny močové (degradačního produktu nukleových kyselin) Nezvratné poruchy způsobené mutagenezí, karcinogenezí, teratogenezí, toxickým účinkem na srdce, ledviny a játra Hynie, Sixtus et al.: Farmakologie, 2. díl, vydavatelství Karolinum, Praha 1996. Nesteroidní antiflogistika (anglicky non-steroidal anti-inflammatory drugs), zkráceně NSA či NSAID, též nesteroidní antirevmatika a nesteroidní protizánětlivé léky, jsou léky s protibolestivým, protihorečnatým a protizánětlivým účinkem. Výraz nesteroidní se používá pro rozlišení těchto léků od steroidních léků s těmito účinky. Mezi protibolestivými léky jsou NSA neobvyklé tím, že nejsou narkotické. Někdy se vyskytující nežádoucí účinky používání NSA zahrnují gastrointestinální krvácení, ulceraci a perforaci, jež mohou být i smrtelné.AzA xRiziko vzniku krvácení, ulcerace či perforace trávicího traktu se zvyšuje se stoupající dávkou.Pro omezení nežádoucích účinků lze použít co nejmenší dávku po co nejkratší dobu postačující k dosažení žádaného léčebného účinku.  Nežádoucí účinky v oblasti žaludku a střev jsou nejčastější. Méně časté nežádoucí účinky jsou nauzea, zvracení, průjem, flatulence, zácpa, dyspepsie, bolesti břicha, melena (krve ve stolici), hematemeza (zvracení krve), ulcerativní stomatitis a méně často gastritida (zánět žaludku).Připomenutí SÚKL k používání celkově působících neselektivních nesteroidních antirevmatik"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "267. Disekce aorty: 😊Kardilologie",
+    "answers": [
+      "náhlá šokující bolest za hrudní kostí a v zádech",
+      "šokový stav",
+      "cévní příznaky podle toho, které větve aorty jsou utlačeny",
+      "transezofageální echokardiografie – stanoví diagnózu v 98 %",
+      "Diastolický šelest nad aortou (40-70%)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "náhlá šokující bolest za hrudní kostí a v zádech",
+      "šokový stav",
+      "cévní příznaky podle toho, které větve aorty jsou utlačeny",
+      "transezofageální echokardiografie – stanoví diagnózu v 98 %",
+      "Diastolický šelest nad aortou (40-70%)"
+    ],
+    "description": [
+      "Disekce hrudní aorty je náhlá cévní příhoda s dramatickým průběhem, bezprostředně ohrožuje život. Patologicko-anatomickým podkladem disekce aorty je nahromadění krve ve vnitřní vrstvě stěny aorty. Přibližně u poloviny nemocných je patrný distolický aortální regurgitační šelest(5, 7, 37, 38) DISEKCE AORTY Jiří Vejvoda, David Alan, Petr Ošťádal Kardiologická klinika"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "268. Disekce aorty: 😊 Kardiologie",
+    "answers": [
+      "RTG v 2 projekcích",
+      "jícnové ECHO (TEE)  *Transezofageální echokardiografie",
+      "Ergometrie",
+      "CT angiografie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "jícnové ECHO (TEE)  *Transezofageální echokardiografie"
+    ],
+    "description": [
+      "*pro pacienty v stabilních stavech – CT; v nestabilních stavech – ECHO.   Podle údajů z mezinárodního registru aortálních disekcí (IRAD) bylo při podezření na  disekci aorty prvním diagnostickým krokem  provedení TTE a TEE ve 33 %, CT v 61 %,  MRI ve 2 % a angiografie ve 4 %. Jako metoda  druhé volby bylo provedeno TTE/TEE v 56 %,  CT v 18 %, MRI v 9 % a angiografie v 17 %(51).  Porovnání jednotlivých diagnostických metod  ukazuje tabulka 1  "
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczMrNjqoQ4sNWcRnB42sHOcjPB9FJD2kxvyLGH_JsX4_pEdVL_DvxUOYQkLDosUTcqiL8wMCnpLO7l2oRUelbOq5EmnQdOdpWX2e2O1DcrKLK7xsR4MbToq1Lguy7_5Z2JSzu4ll2M72fADeqthjZ1yd=w397-h278-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "269. Které z těchto onemocnění NEpatří k dermatologii? 😊 Pediatrie",
+    "answers": [
+      "herpes zoster",
+      "impetigo",
+      "kandidóza",
+      "spálová kožní vyrážka"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["spálová kožní vyrážka"],
+    "description": [
+      "* Spála, scarlatina, je infekční exantémové onemocnění vyvolané beta-hemolytickým streptokokem skupiny A – Streptococcus pyogenes, které nejčastěji postihuje děti předškolního a školního věku. Jedná se o streptokokovou angínu se spálovou vyrážkou. Wikiskripta"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "270. Menorrhagia *(Menoragie) 😊Gynekologie",
+    "answers": [
+      "silné krvácení trvající delší než 7 dní a krevní ztráta  > 80 ml"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "silné krvácení trvající delší než 7 dní a krevní ztráta  > 80 ml"
+    ],
+    "description": [
+      " Hypermenorea je definována jako nadměrně silné krvácení (více než 5 vložek za den), které bývá obvykle doprovázeno menoragií, což je prodloužené krvácení (déle než 7 dní).Wikiskripta  Menoragie, tedy silna menstruace – krevni ztrata presahuje 80ml. Hypermenorea, tedy dlouha menstruace – krvaceni trva dele nez 9 dni(Moderni gynekologie, prof.MUDr Ales Roztocil, CSc. 1 vydani)]  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "271. Při menoragii žena během menstruace ztratí krve víc než: 😊Gynekologie",
+    "answers": ["30", "20", "80 ml", "60", "40"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["80 ml"],
+    "description": [
+      "* Průměrná žena ztratí během menstruačního krvácení asi 35 ml krve. Při objektivním měření je za nadměrné krvácení považováno takové, při němž žena ztratí více než 80 ml, což je 90. percentil."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "272. Pří známkách peritoneálního dráždění / Zánět pobřišnice nejasné etiologie 😊 Chirurgie",
+    "answers": [
+      "observace",
+      "ATB + observace",
+      "Laporoskopie + laporotomie",
+      "nedělejte nic, dokud nenajdete příčinu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Laporoskopie + laporotomie"],
+    "description": [
+      "*Základní principy diagnostiky a léčby sekundární peritonitidy – doporučení odborníků s podporou SIS. Autoři: R. Gürlich 1; V. Adámková 2; J. Ulrych 3; M. Balík 4; A. Ferko 5; E. Havel 5; A. Jabor 6; V. Janík 7; Z. Kala 8; I. Klementa 11; M. Kolář 9; Z. Krška 3; P. Kysela 8; R. Lischke 10; Č. Neoral 11; F. Vyhnánek 1; J. Zajak 10; P. Zbořil 11; V. Třeška 12"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "273. Při kterých podmínkách bude ascites? 😊 Interna",
+    "answers": [
+      "portální hypertenzi",
+      "hepatorenální syndrom",
+      "nefrotický syndrom",
+      "trombóza portálních žíl",
+      "srdeční selhání",
+      "Connův syndrom 2024",
+      "Cušingův syndrom 2024"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "portální hypertenzi",
+      "hepatorenální syndrom",
+      "nefrotický syndrom",
+      "trombóza portálních žíl",
+      "srdeční selhání"
+    ],
+    "description": [
+      "* Ascites, též hydroperitoneum, zřídka vodnatelnost břišní, je stav, při kterém se v břišní dutině hromadí tekutina.  Nejčastěji vzniká v důsledku jaterního selhání, často při cirhóze jater a portální hypertenzi, kdy je ve vrátnicové žíle zvýšený krevní tlak. Další příčinou může být srdeční selhání, kachexie, a nepříliš často venookluzivní nemoc, trombóza portální žíly či Buddův-Chiariho syndrom a další.   Ascites, při kterém je tekutina zánětlivým výpotkem, vzniká v důsledku malignit uvnitř břišní dutiny, při tuberkulóze, zánětu slinivky břišní či zánětu pobřišnice. Connův syndrom. Hlavní příznaky jsou vysoký krevní tlak a hypokalémie, tedy nízká hladina draslíku v krvi. Přidružuje se zvýšené pH krve, tedy metabolická alkalóza, jelikož ledviny více vylučují vodíkové kationty. Za této situace je snížena dostupnost kalcia pro tkáně a působuje symptomy jako u hypokalcémie (snožené hladiny kalcia). Vzácněji se projevuje i hypernatrémie, zvýšená hladina sodíku. Pacient by tedy měl navštívit lékaře, když zpozoruje potíže jako je časté močení (především v noci) a tím i větší pocit žízně, slabost, únava, křeče ve svalech, dočasné a přemisťující se ochrnutí, bušení srdce a výrazný puls, bolesti hlavy,** pocity brnění** a píchání ve svalech.]  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "274. Spontánni bakteriální peritonitida, příčina? 😊 Chirurgie",
+    "answers": [
+      "ascites cirhozního původu",
+      "pankreatitida",
+      "apendicitida",
+      "Crohnova nemoc"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["ascites cirhozního původu"],
+    "description": [
+      "* Spontánní bakteriální peritonitida (SBP) je častou a závažnou komplikací u pacientů s ascitem při jaterní cirhóze. (Spontánní bakteriální peritonitida Renáta Šenkeříková*, Soňa Fraňková, Jan Šperl, Julius Špičák Klinika hepatogastroenterologie IKEM Praha, přednosta prof. MUDr. Julius Špičák, CSc)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "275. Peritonitida co Nebude?/Difuzní masivní zánět v dutině břišní(скоріш за все мається на увазі абдомінальний сепис 2024)",
+    "answers": [
+      "Hippokratova tvář *fcies Hippocratica",
+      "Křeče a hluk v břichu",
+      "zvracení",
+      "teplota 2024"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Křeče a hluk v břichu"],
+    "description": [
+      "* Jan Evangelista Purkyně (od 15. července 1869 rytíř Purkyně / Ritter von Purkyně), křtěn Jan Josef (17. prosince 1787 Libochovice (zámek)[234* neinfekční (tzv. „pneumonitidy“) – aspirační, inhalační, postradiační, polékové, hypersenzitivní (alergické). Mezi nejčastější léčiva, která poškozují plicní parenchym, patří např. amiodaron, cytostatika, imunosupresiva, antibiotika a léky užívané k biologické léčbě systémových onemocnění nebo nádorů. Polékové poškození plic může probíhat akutně nebo subakutně/chronicky. Je zpravidla reverzibilní po vysazení kauzálního léčiva nebo při včasném zahájení terapie. Potíže se neliší od jiných plicních nemocí (kašel, někdy s vykašláváním krve, dechové potíže, dušnost a bolesti na hrudníku). Klinické formy ani radiologické nebo patologické změny, které by svědčily pro specifický fenotyp polékového poškození, nejsou známy. Nejčastěji je patrné postižení intersticia s různými fenotypy intersticiálních plicních procesů (IPP). Polékové postižení plic však může vést i k onemocnění dýchacích cest nebo pleury. Seznam léčiv, které představují riziko plicního onemocnění, je přehledně uveden na www.pneumotox.com. Polékové poškození plic Vladimíra Lošťáková1, Milan Kuna2, Vítězslav Kolek1, Filip Čtvrtlík3, Gabriela Vaculová2 Klinika plicních nemocí a tuberkulózy FN a LF UP Olomouc Oddělení klinické farmacie, Lékárna FN Olomouc Radiologická klinika FN Olomouc"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "276. Jan Evangelista Purkyně, kdo je to? 😊 Historie medicíny",
+    "answers": ["český fyziolog, anatom, biolog"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["český fyziolog, anatom, biolog"],
+    "description": [
+      " Були чотири відповіді по одному слову: фізіолог, фізик, ще там хтось * Jan Evangelista Purkyně (od 15. července 1869 rytíř Purkyně / Ritter von Purkyně), křtěn Jan Josef (17. prosince 1787 Libochovice (zámek)[234"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "278. Infekční pneumonie. Co patří?😊 Interna",
+    "answers": [
+      "aspirační",
+      "postradiační",
+      "polékové",
+      "nozokomiální pneumonie",
+      "zánětlivá"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["nozokomiální pneumonie"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "277. Neinfekční pneumonie (tzv. „pneumonitidy“) 😊 Interna",
+    "answers": [
+      "aspirační",
+      "inhalační",
+      "postradiační",
+      "polékové",
+      "hypersenzitivní (alergické)",
+      "nozokomiální pneumonie",
+      "zánětlivá"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "aspirační",
+      "inhalační",
+      "postradiační",
+      "polékové",
+      "hypersenzitivní (alergické)"
+    ],
+    "description": [
+      "* neinfekční (tzv. „pneumonitidy“) – aspirační, inhalační, postradiační, polékové, hypersenzitivní (alergické). Mezi nejčastější léčiva, která poškozují plicní parenchym, patří např. amiodaron, cytostatika, imunosupresiva, antibiotika a léky užívané k biologické léčbě systémových onemocnění nebo nádorů. Polékové poškození plic může probíhat akutně nebo subakutně/chronicky. Je zpravidla reverzibilní po vysazení kauzálního léčiva nebo při včasném zahájení terapie. Potíže se neliší od jiných plicních nemocí (kašel, někdy s vykašláváním krve, dechové potíže, dušnost a bolesti na hrudníku). Klinické formy ani radiologické nebo patologické změny, které by svědčily pro specifický fenotyp polékového poškození, nejsou známy. Nejčastěji je patrné postižení intersticia s různými fenotypy intersticiálních plicních procesů (IPP). Polékové postižení plic však může vést i k onemocnění dýchacích cest nebo pleury. Seznam léčiv, které představují riziko plicního onemocnění, je přehledně uveden na www.pneumotox.com. Polékové poškození plic Vladimíra Lošťáková1, Milan Kuna2, Vítězslav Kolek1, Filip Čtvrtlík3, Gabriela Vaculová2 Klinika plicních nemocí a tuberkulózy FN a LF UP Olomouc Oddělení klinické farmacie, Lékárna FN Olomouc Radiologická klinika FN Olomouc"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "278. Infekční pneumonie. Co patří? 😊 Interna",
+    "answers": [
+      "aspirační",
+      "postradiační",
+      "polékové",
+      "nozokomiální pneumonie",
+      "zánětlivá"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["nozokomiální pneumonie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "279. Mezi atypické pneumonie patří: (Olomouc)Interna",
+    "answers": [
+      "pneumokokové pneumonie",
+      "mykoplazmové pneumonie",
+      "aspirační pneumonie",
+      "chlamydiové pneumonie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["mykoplazmové pneumonie", "chlamydiové pneumonie"],
+    "description": [
+      "* Atypické pneumonie jsou pneumonie, které charakterizuje nepoměr mezi chudým fyzikálním a rozsáhlým rentgenovým nálezem (velké klínovité infiltráty) s častým pleurálním postižením. Bývají etiologie virové, chlamydiové, mykoplazmové či pneumocystové. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "280. Co bývá při HIV? 😊 Interna",
+    "answers": ["Pneumocystová pneumonie"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Pneumocystová pneumonie"],
+    "description": [
+      "Průběh infekce virem HIV Inkubační doba bývá 2–6 týdnů, někdy několik měsíců, bez léčby umírají postižení do 10 let od infikování (1–2 roky od přechodu infekce do stadia AIDS). Primoinfekce HIV: Přechodný těžký pokles počtu CD4+ lymfocytů v periferní krvi, probíhá replikace viru HIV, rozvoj po 2–4 týdnech od nákazy, odezní za 1–3 týdny, objevuje se přechodná virémie (diagnostika pomocí antigenu p24). Příznaky podobné tonzilofaryngitidě, infekční mononukleóze nebo chřipce jako tzv. flu-like syndrom (únavnost, horečky, bolesti svalů a kloubů, morbiliformní exantém zejména na zádech a hrudníku), ulcerace sliznic, zvětšení lymfatických uzlin, případné poruchy CNS (8 %) pod obrazem aseptické meningitidy. Bezpříznakové stadium: bez klinických příznaků a subjektivních obtíží; perzistující generalizovaná lymfadenopatie (povšechné zvětšení uzlin) někdy provázeno lymfopenií a mírnou anemií, trvá od 18 měsíců do 15 let. Časné symptomatické stádium:  --provázené celkovými příznaky – horečka nad 38,5° C, noční pocení, únava, úbytek na váze – trvajícími déle než 1 měsíc;  --typický výskyt tzv. malých oportunních infekcí (např. orofaryngeální, vulvovaginální kandidóza, leukoplakie, recidivující herpes zoster);  --postižení sliznic a kůže: seboroická dermatitida, psoriáza, stafylokoková folikulitida, na obličeji a perigenitálně mollusca contagiosa, verruca vulgaris zejména na prstech končetin, anogenitálně condylomata acuminata, vlasatá leukoplakie na sliznici jazyka…;  --čím závažnější je průběh těchto infekcí, tím horší je prognóza pacienta;  --imunopatologické projevy (periferní neuropatie, trombocytopenie), 200–500 CD4+ lymfocytů/mm³;[1], nepříznivým znakem je zmenšení (adenopatie).  2 Pozdní symptomatické stádium, AIDS (Acquired Immuno-Defficiency Syndrome) – konečné stadium HIV infekce: --pod 200 CD4+ lymfocytů/mm³, narůstá množství viru HIV v periferní krvi [1]; --stádium tzv. velkých oportunních infekcí: pneumocystová pneumonie, toxoplazmová encefalitida, kandidóza dýchacího traktu, kryptokoková infekce, TBC, infekce cytomegaloviry (chorioretinitidy, generalizovaná CMV infekce), diseminované mykobakteriózy;] --nádory (Kaposiho sarkom, maligní lymfomy (Burkittův lymfom – původcem EBV), primární lymfom mozku, invazivní karcinom děložního hrdla); --HIV encefalopatie (demence, poruchy paměti a soustředění, změny osobnosti, deprese); --i přes důslednou léčbu dochází v průběhu několika let k úmrtí pacienta v důsledku vyčerpání organismu. BENEŠ, Jiří, et al. Infekční lékařství. 1. vydání. Galén, 2009]  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "281. Zlomeniny hlezenního kloubu * Ankle fractures 😊 Traumatologie",
+    "answers": [
+      "fractura tibie distalis – zlomenina dolního konce tibie nebo dolního konce fibuly",
+      "fractura bimalleolaris – zlomenina obou kotníků",
+      "fractura trimalleolaris - zlomenina obou kotníků spojena s odlomením zadní hrany dolního konce tibie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "fractura tibie distalis – zlomenina dolního konce tibie nebo dolního konce fibuly",
+      "fractura bimalleolaris – zlomenina obou kotníků",
+      "fractura trimalleolaris - zlomenina obou kotníků spojena s odlomením zadní hrany dolního konce tibie"
+    ],
+    "description": [
+      "Podle Webera (AO klasifikace (44), podle vztahu k syndesmóze): --A – fibula je zlomena pod syndesmózou (příčný lom), syndesmóza je intaktní (stabilní zlomenina); může být zlomen i vnitřní kotník (bimaleolární fraktura); --B – fibula zlomena v oblasti syndesmózy (šikmý lom), vždy poraněn vnitřní kotník a deltový vaz, syndesmóza poraněna v 80 % (zlomenina potenciálně nestabilní); --C – fibula zlomena nad syndesmózou, která je vždy poraněna, vždy poraněn vnitřní kotník (někdy i zadní hrana tibie – Volkmannův, správněji Earlův trojúhelník – trimaleolární fraktura); při vysokém poranění fibuly se trhá interosseální membrána – čím výš sahá trhlina, tím větší je rozestup tibiofibulární vidlice – Maisonneuveova zlomenina (nestabilní, luxační zlomenina).] "
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczOSo-97XEOO0cdPt2blH3Gc8Ao5pGDlq36fj9MtpXd8wMlAE85kgbOHm4kGCBTgxPMxW1CTYskM_rzF8L-UCFJy7sQ-WKZPQqTAplelNOb0mYuiQFLNtHDkI8InKEiGV7kXe78FWzSJyG1WrVxzwpRR=w358-h192-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "282. Němá oscilace na CTG? * Co jsou na kardiotokogramu silentní oscilace (Živný) Porodnictví",
+    "answers": ["0-5", "-10-15", "-15-20", "-25"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["0-5"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "283. Na CTG se NEzaregistruje? 😊 Porodnictví",
+    "answers": [
+      "dýchací pohyby plodu",
+      "tepovou frekvence plodu",
+      "kontrakce dělohy",
+      "amplitudu kontrakce dělohy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["dýchací pohyby plodu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "284. Kardiotokografie (CTG) je: 😊 Porodnictví",
+    "answers": [
+      "nepřetržité synchronní nahrávání srdeční frekvence plodu a děložního tónu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "nepřetržité synchronní nahrávání srdeční frekvence plodu a děložního tónu"
+    ],
+    "description": [
+      "Kardiotokografie (CTG)[1111přednáška k předmětu Gynekologie a porodnictví předstátnicová stáž, obor Všeobecné lékařství, 1. lékařská fakulta Univerzita Karlova v Praze"
+    ],
+    "img": [
+      "Kardiotokografie (CTG)[1] je metoda monitorace plodu pomocí současného záznamu fetální srdeční frekvence (kardiotachogram) a děložních stahů (tokogram). Moderní přístroje umožňují ještě třetí modalitu signálu v podobě záznamu pohybů plodu. Metoda je založena na skutečnosti, že hypoxické změny mají vliv na hemodynamiku plodu a změny v uteroplacentární cirkulaci se projeví změnou frekvence plodových ozev[1].  Samostatná CTG diagnostika je ve shodě s diagnózou hypoxie novorozence po porodu v 50–60 %[1]. Současné použití CTG a STAN sníží výskyt metabolické acidózy o 60 % a počet operací pro fetální tíseň o 25 %[1].  KREJČÍ, Vratislav. Kardiotokografie, poruchy děložní činnosti, hypoxie plodu [přednáška k předmětu Gynekologie a porodnictví předstátnicová stáž, obor Všeobecné lékařství, 1. lékařská fakulta Univerzita Karlova v Praze]. Praha. 17.2.2013. ]  "
+    ]
+  },
+
+  {
+    "question": "285. Při vnější/zevní tokografií (CTG) se měří všechno KROMĚ? (apelace – správně) Porodnictví",
+    "answers": [
+      "frekvence kontrakce dělohy",
+      "amplituda kontrakcí  *(měří se interní (vnitřní) tocograficko-hysterografií)",
+      "síla děložních kontrakce"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "amplituda kontrakcí  *(měří se interní (vnitřní) tocograficko-hysterografií)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "285a. Při vnější/zevní tokografií (CTG) se měří",
+    "answers": [
+      "frekvence kontrakce dělohy/frekvence pohybu dělohy 2024",
+      "amplituda kontrakcí",
+      "dýchací pohyby plodu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "frekvence kontrakce dělohy/frekvence pohybu dělohy 2024"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "286. V CTG Nejsou důležité? 😊 Porodnictví",
+    "answers": [
+      "krátkodobý",
+      "středně",
+      "dlouhodobé jevy",
+      "amplituda děložních stahů"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["amplituda děložních stahů"],
+    "description": [
+      "Kardiotachogram  Metodou záznamu je dopplerovská ultrasonografie. Je možné použít sondu vnější nebo vnitřní (Honova skalpová elektroda), která se používá, pokud ta vnější sklouzává.  Rozlišujeme dlouhodobé, střednědobé a krátkodobé jevy.]  Dlouhodobé jevy  Jde o určení bazální frekvence, jedná se o stabilní srdeční frekvenci v průběhu časového úseku o délce 5–10 min, od níž se středně- a krátkodobé jevy vychylují.  Normální bazální frekvence (normokardie) je 110–150/min. Lehká tachykardie je frekvence 150–170/min, těžká nad 170/min. Při frekvenci nad 180/min se jedná o takřka jasnou hypoxémii. Lehká bradykardie je bazální frekvence 100–110/min, těžká pod 100/min. a někdy se rozlišuje i velmi těžká pod 90/min., která – pokud se ji nepodaří jinak zvrátit – je indikací k akutnímu nebo perakutnímu ukončení těhotenství.  Střednědobé jevy  Rozlišujeme akcelerace a decelerace. Akcelerace jsou přechodná zvýšení frekvence o 15/min od bazální trvající déle než 15 s. Sporadické akcelerace jsou přirozenou katecholaminovou reakcí plodu při pohybech nebo při akustických či mechanických podnětech. Periodické akcelerace jsou akcelerace probíhající současně s minimálně třemi za sebou jdoucími kontrakcemi. Popisuje se jejich tvar (oblé, strmé,…).  Decelerace jsou přechodná snížení srdeční frekvence plodu s amplitudou přesahující 15/min. delší než 10 s. Sporadické decelerace (DIP 0) nejsou závislé na kontrakcích, jsou hrotnaté (spike), většinou kratší než 30 s. Jsou většinou reakcí na podráždění vagu. Jsou-li prolongované, může se jednat o snížení uteroplacentárního průtoku jako následek syndromu aortokavální komprese, velké krevní ztráty nebo šoku. Periodické decelerace jsou závislé na kontrakcích dělohy a mohou být buď rané (DIP 1), pozdní (DIP 2), nebo variabilní. Rané periodické decelerace (DIP 1) mají vrchol přímo proti vrcholu děložní kontrakce v tokogramu. Příčinou může být komprese hlavičky plodu nebo pupečníková komplikace. Pokud jich je 1–3 v průběhu 20 min, CTG záznam se hodnotí jako suspektní, pokud 4 a více, tak jako patologický. Pozdní periodické decelerace (DIP 2) mají fázový posun o 20–60 s vůči vrcholu kontrakce v tokogramu. Jsou následkem uteroplacentární insuficience a při jejich výskytu je CTG záznam jasně patologický.  Krátkodobé jevy  Jsou výchylky fetální srdeční akce od bazální frekvence kratší než 15 s. Při amplitudě 10–25/min jsou v tzv. undulatorním pásmu. Amplituda 5–10/min je zúžené undulatorní pásmo, které je způsobené útlumem fetální cirkulace většinou spánkem plodu nebo farmakologicky navozeným útlumem. Jako silentní pásmo se označuje amplituda menší než 5/min. Je způsobeno hypoxií plodu. Po vyloučení spánku a farmakologického útlumu plodu je indikováno ukončení těhotenství. Jako saltatorní pásmo se označují výchylky o amplitudě vyšší než 25/min. Jsou většinou způsobené pupečníkovou komplikací, kterou se plod snaží kompenzovat. Jako sinusoidní oscilace se označují proměnné krátkodobé jevy o amplitudě 5–15/min měnící svou amplitudu v časovém úseku delším než 20 min podle průběhu sinusoidy. Jsou známkou chronické hypoxie plodu často způsobenou anémií (Rh inkompatibilita,…). KREJČÍ, Vratislav. Kardiotokografie, poruchy děložní činnosti, hypoxie plodu [přednáška k předmětu Gynekologie a porodnictví předstátnicová stáž, obor Všeobecné lékařství, 1. lékařská fakulta Univerzita Karlova v Praze]. Praha. 17.2.2013. ]  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "287. Patologicky CTG záznam Neobsahuje: (Živný) Porodnictví",
+    "answers": ["decelerace", "akcelerace  *zrychlení", "sinusoidní křivku"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["akcelerace  *zrychlení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "288. Kolik dítě přidá během prvního roku?/ Fyziologicky se vyvíjející dítě vyroste během prvního roku života v průměru: (Olomouc)Pediatrie",
+    "answers": ["25 cm", "20 cm", "15 cm", "40 cm"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["25 cm"],
+    "description": [
+      "* Pásmo silentní – šíře pásma je menší než 5 úderů za minutu, patří k patologickému záznamu. Je výrazem těžkého stupně hypoxie a vyžaduje urychlené vybavení plodu. Je nutno vyloučit spánek plodu a medikamentózní útlum."
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczPRswrE0MTW18mhxU3LvmTOoDUjAIZ7vqF2QwZPDEeZgaz8aCtlyJJkKdNnvaWz193ZMfsXUvq46P0XF-ux8bW2FUUafSllcrSY06Bxd1effV0AghglIi4QtgGnDEB0rR3YDya_LbBjCWGA7GZblLOr=w449-h306-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "289. Při hypertonu dělohy a rychlém porodu / nadměrná děložní kontraktilita? (apelace – správně) Porodnictví",
+    "answers": [
+      "fetální hypoxie (hypoxie plodu)",
+      "ruptura dělohy",
+      "porucha mechanismu porodu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["fetální hypoxie (hypoxie plodu)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "290. 40-letý pán hospitalizován se zvracením čerstvé krve, před vyšetřením opakované krvácení: 😊Chirurgie",
+    "answers": [
+      "Jícnové varixy",
+      "Mallory-Weissův syndrom, pokud první zvracení bez krve"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Jícnové varixy",
+      "Mallory-Weissův syndrom, pokud první zvracení bez krve"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "291. U pacienta na RTG pneumoperitonea, co uděláme? 😊Chirurgie",
+    "answers": ["laparotomie", "CT", "Rentgen s kontrastem"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["laparotomie"],
+    "description": [
+      "* Pneumoperitoneum znamená přítomnost vzduchu v peritoneální dutině. Může se vyskytovat pooperačně, v důsledku perforace trávícího traktu, zřídka i fyziologicky (u žen).  When present, pneumoperitoneum can often be seen on projectional radiography, but small amounts are often missed, and CT scan is nowadays regarded as a criterion standard in the assessment of a pneumoperitoneum.[18] CT can visualize quantities as small as 5 cm³ of air or gas. Khan AN, Chandramohan M (2017-12-06). Coombs BD, Gay SD (eds.). Pneumoperitoneum Imaging. Emedicine, Medscape. WebMD LLC.]  "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "291a. Muž, 25 let, akutní náhlá bolest uprostřed břicha. Na rentgenu je přítomno pneumoperitoneum. Postup? 2024.",
+    "answers": ["laparotomie", "Rentgen s kontrastem"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["laparotomie"],
+    "description": [
+      "Samotný vzduch v břiše nejlépe zjistíme z prostého rentgenu břicha. Přesnější příčinu pak  dohledáváme pomocí dalších vyšetření (např. CT vyšetření břicha). V akutním stavu u poškození  trávicího traktu je mnohdy nutný chirurgický zákrok v břišní dutině, kdy se identifikuje místo  protržení trávicí trubice a následně se může i spravit  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "292. Rána s zeleno modrým hnisem? / Rána s zeleným hnisem (apelace – správně) Chirurgie",
+    "answers": [
+      "Bacillus pyocyaneus / Bacterium pyocyaneum  (syn.Pseudomonas aeruginosa)",
+      "Hemofilus influence",
+      "Clostridia perfringens"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Bacillus pyocyaneus / Bacterium pyocyaneum  (syn.Pseudomonas aeruginosa)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "293. Pseudomembranózní enterokolitida 😊 Infekční nemoci",
+    "answers": ["příčina – léčba antibiotiky", "toxiny Clostridium difficile"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "příčina – léčba antibiotiky",
+      "toxiny Clostridium difficile"
+    ],
+    "description": [
+      "Неполный вопрос. Скорее всего в вопросе спрашивается об этиологии псевдомембранозного энтероколита.  Původcem je anaerobní G+ tyčinka Clostridium difficile, která se extrémně pomnoží hlavně po linkomycinu, cefalosporinech a aminopenicilinech a začne produkovat toxiny enterotoxin A a cytotoxin B. https://www.wikiskripta.eu/w/Pseudomembran%C3%B3zn%C3%AD_enterokolitida  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "294. Vaginální mykóza 😊 Infekční nemoci",
+    "answers": ["poznáme především pálivým a hustým bílým výtokem z pochvy"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "poznáme především pálivým a hustým bílým výtokem z pochvy"
+    ],
+    "description": [
+      "Objevuje se bělavý výtok spojený se svěděním, pálením a erytémem vulvy a vagíny nebo pálením při močení. https://www.wikiskripta.eu/w/Vulvovaginitis_candidomyceta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "295. Žena má vaginální svědění a výtok z pochvy: Infekční nemoci (apelace – správně)",
+    "answers": ["mykozní infekce (Candida albicans)"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["mykozní infekce (Candida albicans)"],
+    "description": [
+      "Objevuje se bělavý výtok spojený se svěděním, pálením a erytémem vulvy a vagíny nebo pálením při močení. https://www.wikiskripta.eu/w/Vulvovaginitis_candidomyceta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "296. Kde se používá Desaultův obvaz? Chirurgie (apelace – správně)",
+    "answers": ["humerus (k znehybnění ramenního kloubu a paže)"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["humerus (k znehybnění ramenního kloubu a paže)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "297. Antidotem pro intoxikace benzodiazepinů je? Farmakologie (Olomouc)",
+    "answers": ["flumazenil"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["flumazenil"],
+    "description": [
+      "Specifický antagonista – flumazenil (u kómatu 0,2 mg i.v.; lze opakovat do maximální dávky 3,0 mg). "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "298. Jak jsou oční kapky izotonizované? 😊 Farmakologie",
+    "answers": [
+      "Chlorid sodný, dusičinat draselý",
+      "NaCl 0,9%",
+      "NaCl 0,9% a kyselina boritá",
+      "fosfátový pufr 24"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Chlorid sodný, dusičinat draselý", "fosfátový pufr 24"],
+    "description": [
+      "Zotonizaci očních kapek v lékárně provádíme buď chloridem sodným nebo dusičnanem draselným. Fosfátovým pufrem upravujeme pH ."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "299. Nejčastější příčinou chronické pankreatitidy je: Interna (Klener)",
+    "answers": [
+      "vyšší obsah tuků v dietě",
+      "alkoholismus",
+      "nikotinismus",
+      "cholelitiáza"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["alkoholismus"],
+    "description": [
+      "U chronické pankreatitidy však přesto zahrnuje konyumaci alkoholu mezi hlavní faktory, vedoucí ke vyniku onemocnění. Klener str.515"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "300. Komplikace chronické pankreatitidy: Interna 😊",
+    "answers": [
+      "stenóza duodena",
+      "segmentální portální hypertenze",
+      "cholestáza",
+      "cystoid",
+      "diabetes mellitus vzácně"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "stenóza duodena",
+      "segmentální portální hypertenze",
+      "cholestáza",
+      "cystoid"
+    ],
+    "description": [
+      "Komplikace chronické pankreatitidy jsou pankreatické nebo mimopankreatické.  Mezi komplikace pankreatické se řadí pseudocysta nebo absces pankreatu, dále také ascites, píštěle, ruptura nebo obstrukce ductus pankreaticus a zánětlivý tumor slinivky břišní. Obstrukce žlučových cest nebo duodena, slezinné komplikace, trombóza portální žíly s následným vznikem portální hypertenze nebo arteriální komplikace jsou komplikace mimopankreatické. Problematika edukace pacienta s pankreatitidou PhDr. Andrea Hudáčková, R. N. Str.12  "
+    ],
     "img": [""]
   }
 ]
