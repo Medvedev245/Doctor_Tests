@@ -18,7 +18,7 @@ import { StyleSheetManager } from 'styled-components';
 export const Header: React.FC = () => {
   const [isOpen, setIsOpen] = useState<boolean>(false);
 
-  //const dispatch = useDispatch();
+  const dispatch = useDispatch();
   // Проверяем, существует ли значение 'myCollection' в localStorage и извлекаем его
   const savedCollection = localStorage.getItem('myCollection');
   // Проверяем, существует ли значение 'myCollection' и не является ли оно null
