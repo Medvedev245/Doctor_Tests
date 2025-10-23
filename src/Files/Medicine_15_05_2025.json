@@ -339,7 +339,11 @@
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["stimuluje tvorbu estradiolu v granulózních buňkách"],
+    "correctAnswers": [
+      "7-11 cm za rok (asi 12 let) za rok před menarche",
+      "13 let",
+      "před/kolem menarche 2024"
+    ],
     "description": [
       "7-11 cm za rok (asi 12 let) za rok před menarche",
       "13 let",
@@ -2428,7 +2432,7 @@
     "img": [""]
   },
   {
-    "question": "143. Интерна. Гастроентерология. Хирургия",
+    "question": "143.Operační postup při Crohnove chorobě? Интерна. Гастроентерология. Хирургия",
     "answers": [
       "na tenkém střevě, pokud nemá  komplikace — strikturoplastika ;  na tlustém střevě — resekce "
     ],

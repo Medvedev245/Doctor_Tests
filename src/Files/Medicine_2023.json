@@ -2335,7 +2335,7 @@
     "img": [""]
   },
   {
-    "question": "143. Интерна. Гастроентерология. Хирургия",
+    "question": "143. Operační postup při Crohnove chorobě?Интерна. Гастроентерология. Хирургия",
     "answers": [
       "na tenkém střevě, pokud nemá  komplikace — strikturoplastika ;  na tlustém střevě — resekce "
     ],
@@ -3229,7 +3229,6 @@
     "topic": ["Base_2023_medicine"],
     "correctAnswers": [
       "Hemolýza",
-      "Elevace jaterních testů",
       "Trombocytopenie",
       "projevuje se ve 3 trimestru"
     ],
