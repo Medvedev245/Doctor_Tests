@@ -27,7 +27,7 @@ const MainPage: React.FC = () => {
             fontWeight: '700',
           }}
         >
-          Registrace a přihlášení se objeví brzy
+          Улучшена обработка ответов. При нахождении ошибки пишите в ТГ
         </p>
         <ContainerDesc>
           <ContainerText onClick={clearState} to="page">
