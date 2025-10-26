@@ -13,7 +13,7 @@ const Bases: React.FC = () => {
         <span>- Živný (4688 tests)</span>
         <span>- Legislativa_Báze_2023 (657 tests)</span>
         <span>- Báze_Medicine_2023 (1629 tests)</span>
-        <span>- Báze_Medicine_2025 (100 tests)</span>
+        <span>- Báze_Medicine_2025 (600 tests)</span>
       </ContainerDescr>
     </ConrainerBases>
   );
