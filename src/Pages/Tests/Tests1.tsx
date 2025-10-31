@@ -26,12 +26,12 @@ const Tests = () => {
   const [selectedAnswers, setSelectedAnswers] = useState<string[]>([]);
   const [correctCount, setCorrectCount] = useState<number>(0);
   const [count, setCount] = useState<number>(1);
-  const [myCorrectAnswers, setMyCorrectAnswers] = useState<Test[] | any>([]); // Хранение правильных ответов
-  const [addColor, setAddColor] = useState<boolean>(false); // Состояние для подсветки правильных ответов
+  const [myCorrectAnswers, setMyCorrectAnswers] = useState<Test[] | any>([]);
+  const [addColor, setAddColor] = useState<boolean>(false);
   const [time, setTime] = useState<{ minutes: number; seconds: number }>({
     minutes: 0,
     seconds: 0,
-  }); // состояние таймера
+  });
 
   const dispatch = useDispatch();
   const questions = useSelector((state: RootState) => state.tests.questions);
@@ -45,7 +45,7 @@ const Tests = () => {
   };
 
   const comparison = () => {
-    setAddColor(prevState => !prevState); // Изменяем состояние для подсветки при каждом нажатии
+    setAddColor(prevState => !prevState);
   };
 
   const handleNextQuestion = () => {
@@ -55,11 +55,21 @@ const Tests = () => {
     const currentQuestion = questions[currentQuestionIndex];
     if (!currentQuestion) return;
 
-    const correctAnswersCount = currentQuestion.correctAnswers.filter(
-      correctAnswer => selectedAnswers.includes(correctAnswer)
-    ).length;
+    // 🔹 Исправленная проверка правильности: все правильные выбраны и нет лишних
+    const isAnswerCorrect = (
+      selected: string[],
+      correct: string[]
+    ): boolean => {
+      if (selected.length !== correct.length) return false;
+      return correct.every(ans => selected.includes(ans));
+    };
 
-    if (correctAnswersCount === currentQuestion.correctAnswers.length) {
+    const correct = isAnswerCorrect(
+      selectedAnswers,
+      currentQuestion.correctAnswers
+    );
+
+    if (correct) {
       setMyCorrectAnswers((prevAnswers: Test[]) => [
         ...prevAnswers,
         {
@@ -70,20 +80,14 @@ const Tests = () => {
           correctAnswers: currentQuestion.correctAnswers,
         },
       ]);
+      setCorrectCount(prev => prev + 1);
     }
 
-    setCorrectCount(
-      prevCount =>
-        prevCount +
-        (correctAnswersCount === currentQuestion.correctAnswers.length ? 1 : 0)
-    );
-
     if (currentQuestionIndex < questions.length - 1) {
-      setCurrentQuestionIndex(prevQuestion => prevQuestion + 1);
+      setCurrentQuestionIndex(prev => prev + 1);
     } else {
-      if (count === questions.length) {
-        dispatch(ADD_RIGHTQUESTIONS({ myCorrectAnswers }));
-      }
+      // 🔹 dispatch оставлен без изменений
+      dispatch(ADD_RIGHTQUESTIONS({ myCorrectAnswers }));
     }
 
     setSelectedAnswers([]);
@@ -105,13 +109,13 @@ const Tests = () => {
 
   const currentQuestion = questions[currentQuestionIndex];
   if (!currentQuestion) {
-    return <div>Loading...</div>; // Или другой индикатор загрузки
+    return <div>Loading...</div>;
   }
 
   const currentQuestionProps = {
     question: currentQuestion.question,
     description: currentQuestion.description?.[0] || '',
-    img: '', // Укажите изображение, если оно есть
+    img: '',
   };
 
   return (

@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import {
   FormTest,
@@ -28,6 +28,7 @@ const Tests = () => {
   const [count, setCount] = useState<number>(1);
   const [myCorrectAnswers, setMyCorrectAnswers] = useState<Test[] | any>([]);
   const [addColor, setAddColor] = useState<boolean>(false);
+  const [shuffledAnswers, setShuffledAnswers] = useState<string[]>([]);
   const [time, setTime] = useState<{ minutes: number; seconds: number }>({
     minutes: 0,
     seconds: 0,
@@ -35,6 +36,24 @@ const Tests = () => {
 
   const dispatch = useDispatch();
   const questions = useSelector((state: RootState) => state.tests.questions);
+
+  const shuffleAnswers = (answers: string[]) => {
+    if (answers.length <= 1) return answers;
+
+    const arr = [...answers];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  };
+
+  useEffect(() => {
+    const currentQuestion = questions[currentQuestionIndex];
+    if (currentQuestion) {
+      setShuffledAnswers(shuffleAnswers(currentQuestion.answers));
+    }
+  }, [currentQuestionIndex, questions]);
 
   const handleAnswerSelect = (answer: string) => {
     setSelectedAnswers(prevAnswers =>
@@ -55,7 +74,6 @@ const Tests = () => {
     const currentQuestion = questions[currentQuestionIndex];
     if (!currentQuestion) return;
 
-    // 🔹 Исправленная проверка правильности: все правильные выбраны и нет лишних
     const isAnswerCorrect = (
       selected: string[],
       correct: string[]
@@ -86,7 +104,6 @@ const Tests = () => {
     if (currentQuestionIndex < questions.length - 1) {
       setCurrentQuestionIndex(prev => prev + 1);
     } else {
-      // 🔹 dispatch оставлен без изменений
       dispatch(ADD_RIGHTQUESTIONS({ myCorrectAnswers }));
     }
 
@@ -122,7 +139,8 @@ const Tests = () => {
     <FormTest>
       <Answer>
         <FormText>{currentQuestion.question}</FormText>
-        {currentQuestion.answers.map((answer, index) => (
+
+        {shuffledAnswers.map((answer, index) => (
           <ContainerCheck
             key={index}
             style={{
@@ -176,6 +194,7 @@ const Tests = () => {
           </LinkToPage>
         </LinkContainer>
       )}
+
       <Modal
         active={modalActive}
         setActive={setModalActive}
