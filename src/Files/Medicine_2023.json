@@ -4451,31 +4451,16 @@
   },
 
   {
-    "question": "275. Peritonitida co NEbude? (apelace – správně) Chirurgie",
+    "question": "275. Peritonitida co Nebude?/Difuzní masivní zánět v dutině břišní(скоріш за все мається на увазі абдомінальний сепис 2024)",
     "answers": [
       "Hippokratova tvář *fcies Hippocratica",
       "Křeče a hluk v břichu",
       "zvracení",
-      "český fyziolog, anatom, biolog",
-      "aspirační",
-      "inhalační",
-      "postradiační",
-      "polékové",
-      "hypersenzitivní (alergické)",
-      "nozokomiální pneumonie",
-      "zánětlivá"
+      "teplota 2024"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
-    "correctAnswers": [
-      "Křeče a hluk v břichu",
-      "český fyziolog, anatom, biolog",
-      "aspirační",
-      "inhalační",
-      "postradiační",
-      "polékové",
-      "hypersenzitivní (alergické)"
-    ],
+    "correctAnswers": ["Křeče a hluk v břichu"],
     "description": [
       "* Jan Evangelista Purkyně (od 15. července 1869 rytíř Purkyně / Ritter von Purkyně), křtěn Jan Josef (17. prosince 1787 Libochovice (zámek)[234* neinfekční (tzv. „pneumonitidy“) – aspirační, inhalační, postradiační, polékové, hypersenzitivní (alergické). Mezi nejčastější léčiva, která poškozují plicní parenchym, patří např. amiodaron, cytostatika, imunosupresiva, antibiotika a léky užívané k biologické léčbě systémových onemocnění nebo nádorů. Polékové poškození plic může probíhat akutně nebo subakutně/chronicky. Je zpravidla reverzibilní po vysazení kauzálního léčiva nebo při včasném zahájení terapie. Potíže se neliší od jiných plicních nemocí (kašel, někdy s vykašláváním krve, dechové potíže, dušnost a bolesti na hrudníku). Klinické formy ani radiologické nebo patologické změny, které by svědčily pro specifický fenotyp polékového poškození, nejsou známy. Nejčastěji je patrné postižení intersticia s různými fenotypy intersticiálních plicních procesů (IPP). Polékové postižení plic však může vést i k onemocnění dýchacích cest nebo pleury. Seznam léčiv, které představují riziko plicního onemocnění, je přehledně uveden na www.pneumotox.com. Polékové poškození plic Vladimíra Lošťáková1, Milan Kuna2, Vítězslav Kolek1, Filip Čtvrtlík3, Gabriela Vaculová2 Klinika plicních nemocí a tuberkulózy FN a LF UP Olomouc Oddělení klinické farmacie, Lékárna FN Olomouc Radiologická klinika FN Olomouc"
     ],
@@ -11929,13 +11914,13 @@
     "question": "739. Indikátory cholestázy / Pro cholestázu je charakteristická zvýšená hladina? Гастроэнтерология",
     "answers": [
       "hyperbilerubinémie",
-      "alkalická fosfatáza (ALP) a gama-glutamyltransferáza (GMT)"
+      "alkalická fosfatáza (ALP) a gama-glutamyltransferáza (GGT)"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
     "correctAnswers": [
       "hyperbilerubinémie",
-      "alkalická fosfatáza (ALP) a gama-glutamyltransferáza (GMT)"
+      "alkalická fosfatáza (ALP) a gama-glutamyltransferáza (GGT)"
     ],
     "description": [""],
     "img": [
@@ -14834,6 +14819,7 @@
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
     "correctAnswers": [
+      "test na hepatitidu a syfilis",
       "ultrasonografie",
       "krevní test  (biochemie v 11.–12. týdnu gravidity)"
     ],
