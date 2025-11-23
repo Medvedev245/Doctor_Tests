@@ -10598,14 +10598,13 @@
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
-    "correctAnswers": [
-      "může být součástí m. Graves-Basedow"
-    ],
+    "correctAnswers": ["může být součástí m. Graves-Basedow"],
     "description": [
       "Efoftalmus u Graves-Basedow obvykle oboustranný, ale může být i výrazně asymetrický. Toxický adenom štítné žlázy: Příznaky  z nadbytku tyreoidálních hormonů jsou stejne jako u GB choroby, chibi však oftalmopatie a dermatopatie"
     ],
     "img": [""]
-  },{
+  },
+  {
     "question": "641a. Nález jednostranného exoftalmu (Klener)",
     "answers": [
       "může být výrazem Gravesovy-Basedowovy choroby",
@@ -11403,7 +11402,7 @@
       "IgG je nejvýznamnější třída protilátek. Tvoří ¾ všech protilátek v séru, jeho koncentrace je 10 g/l. Vytváří 4 podtřídy (IgG1–4), které se vzájemně liší svými opsonizačními vlastnostmi, vazbou na komplement a časem, po který jsou aktivní. Je to také jediná třída protilátek schopná procházet placentou. Proto jsou u novorozenců stejné hodnoty jako u dospělých. Wikiskripta"
     ],
     "img": [""]
-  }
+  },
 
   {
     "question": "691. Nejpoužívanější metoda při mimoděložním těhotenství.",
@@ -12263,7 +12262,8 @@
       "Diagnostika nádorů jícnu i kardie je endoskopická s biopsií. Ke zjištění rozsahu tumoru a přítomnosti prorůstání a postižení okolních struktur se provádí endoskopická ultrasonografie a výpočetní tomografie. RTG vyšetření s kontrastní látkou ukáže přesné umístění a zúžení lumen jícnu. Klener"
     ],
     "img": [""]
-  },{
+  },
+  {
     "question": "742a. Základní vyšetřovací metodou při vyšetření jícnu je (Klener)",
     "answers": [
       "manometrie jícnu",
