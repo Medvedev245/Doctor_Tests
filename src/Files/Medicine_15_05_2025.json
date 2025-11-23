@@ -9955,5 +9955,3271 @@
       "Sideropenická anémie (SA) je v dětském věku nejčastější. Příčinou bývá nedostatečný příjem železa potravou (kojené děti, vegeta- riáni), porucha jeho vstřebávání nebo krevní ztráty. Ve vzácných případech jde o vrozené poruchy metabolizmu železa."
     ],
     "img": [""]
+  },
+
+  {
+    "question": "602.Terapie anafylaktického šoku JE / JSOU: 😊 Interna/ Reanimace",
+    "answers": [
+      "podání adrenalinu i.m. (intramuskulárně) v dávce 0,01 mg/kg, maximální dávka 0,5 mg (1:1000 s.c od 0,1 do 0,3 ml/kg váhy těla)",
+      "Hydrocortison 50-150 mg/kg váhy/24 hodin",
+      "přípravky obsahující vápník (například Calcium gluconicum)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "podání adrenalinu i.m. (intramuskulárně) v dávce 0,01 mg/kg, maximální dávka 0,5 mg (1:1000 s.c od 0,1 do 0,3 ml/kg váhy těla)",
+      "Hydrocortison 50-150 mg/kg váhy/24 hodin"
+    ],
+    "description": [
+      "podání adrenalinu i.m., do m. vastus lateralis, v dávce 0,01 mg/kg (maximální dávka 0,5 mg);   Intravenozní podávání antihistaminik, např. Dithiaden v dávce 1 mg i.m., lépe i.v. (maximální denní dávka je 8 mg). [2] Podání kortikoidů má omezený vliv v akutní fázi, hodí se spíše pro fázi pozdější  Při bronchospasmu podáváme β2-mimetika (např. Ventolin) v dávkách obvyklých jako při bronchiálním astmatu."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "603. Jaký šok se rozvíjí nejrychlejia je nejnebezpečnější: 😊 Interna/ Reanimace",
+    "answers": ["anafylaktický"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["anafylaktický"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "604. Anafylaktický šok je charakterizován triádou příznaků: (Klener) Interna/ Reanimace",
+    "answers": [
+      "urtikou/angiodémem, bronchospazmem, těžkou hypotenzí",
+      "bezvědomím, hypotenzí, urtikou",
+      "kopřivkou, angioneurotickým edémem, dušností",
+      "náhlým bezvědomím, křečemi, zástavou dechu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["urtikou/angiodémem, bronchospazmem, těžkou hypotenzí"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "605. Terapii anafylaktického šoku zahajujeme: (Klener) Interna/ Reanimace",
+    "answers": [
+      "při plně rozvinutém stavu",
+      "když není z klinického obrazu pochyb, že o šok jde",
+      "okamžitě jakmile vzniklo podezření, že by o anafylaktický šok jít mohlo – nečekáme na jeho plné rozvinutí",
+      "vždy jen po urychleném převozu na jednotku intenzívní péče"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "okamžitě jakmile vzniklo podezření, že by o anafylaktický šok jít mohlo – nečekáme na jeho plné rozvinutí"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "606. Algoritmus terapie anafylaktického šoku (Klener) Interna/ Reanimace",
+    "answers": [
+      "kyslík, kortizon i.m., adrenalin s.c., antihistaminika",
+      "antihistaminika, Calcium gluconicum i.v., adrenalin",
+      "poloha nemocného, airway, venózní linka, léky",
+      "adrenalin i.v., Calcium gluconicum i.v., hydrokortizon i.v."
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["poloha nemocného, airway, venózní linka, léky"],
+    "description": [
+      "Nemocného v šoku je nutno uložit do Trendelenburgovy polohy se záklonem hlavy, uvolnit dýchací cesty a v případě potřeby zahájit kardiopulmonální resuscitaci dle pravidel první pomoci"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "607. Dávkovaní Adrenalinu pro děti: 😊 Pediatrie/ Reanimace",
+    "answers": ["0,01 mg/kg ( pro dospělé 0,1)", "+Klener Vn. lek. st.204"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "0,01 mg/kg ( pro dospělé 0,1)",
+      "+Klener Vn. lek. st.204"
+    ],
+    "description": [
+      "podání adrenalinu i.m., do m. vastus lateralis, v dávce 0,01 mg/kg (maximální dávka 0,5 mg);"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "608. Nejčastější arytmie v dětském věku: 😊 Pediatrie/ Kardiologie",
+    "answers": [
+      "supraventrikulární tachykardie",
+      "AVB I st.,",
+      "fibrilace komor",
+      "respirační arytmie",
+      "flutter síní"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["supraventrikulární tachykardie"],
+    "description": [
+      "Nejčastější arytmií u dětí je supraventrikulární tachykardie, která se může vyskytovat ve formě dobře klinicky tolerovaných krátkých paroxysmů anebo může v průběhu několika hodin způsobit srdeční selhání"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "609. Nejčastější arytmie u děti JSOU: (apelace – správně) Pediatrie/ Kardiologie",
+    "answers": ["supraventrikularní", "respirační"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["supraventrikularní", "respirační"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "610. Respirační sinusová arytmie: 😊 Pediatrie/ Kardiologie",
+    "answers": ["u dětí je fyziologicky"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["u dětí je fyziologicky"],
+    "description": [
+      "respirační arytmie – nepravidelný srdeční rytmus při hlubokém dýchání. R. a. je běžná u mladších jedinců, u starších může být známkou neurózy. Lze ji zjistit jako zrychlení tepu při hlubokém nádechu a jeho zpomalení při výdechu. Na EKG se projeví jako sinusová arytmie."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "611. Respirační sinusová arytmie: 😊 Pediatrie/ Kardiologie",
+    "answers": [
+      "frekvencesrdeční/puls se zvyšuje a nejvyšší je na vrcholu nádechu",
+      "je běžná u mladších jedinců / + U dětí to může být fyziologicky",
+      "zrychlené dýchání při tachykardii",
+      "Je kolísání dechu v závislosti na srdeční frekvenci",
+      "Je rytmus dýchání v terminálních stavech",
+      "Kolísání srdeční frekvenci v závislosti na dýchání",
+      "Je poměrně častým nálezem i u zdravých osob, zejm. mladších či"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "frekvencesrdeční/puls se zvyšuje a nejvyšší je na vrcholu nádechu",
+      "je běžná u mladších jedinců / + U dětí to může být fyziologicky",
+      "Kolísání srdeční frekvenci v závislosti na dýchání",
+      "Je poměrně častým nálezem i u zdravých osob, zejm. mladších či"
+    ],
+    "description": [
+      " Při nádechu se tak frekvence tvorby vzruchů zvyšuje a nejvyšší je na vrcholu nádechu, při výdechu naopak srdeční frekvence klesá. U většiny lidí se toto kolísání příliš neprojeví a při sinusovém rytmu je tak frekvence stálá. Respirační sinusovou arytmii nacházíme často u mladých lidí v klidu (při námaze převáží aktivace sympatiku a srdeční frekvence se zrychluje) nebo u lidí vegetativně labilních, např. neurotiků. Klinický význam tato odchylka nemá."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "612. Antiarytmikum třídy 3: (apelace – správně) Farmakologie",
+    "answers": ["amiodaron (III)", "chinidin (I)", "verapamil (IV)"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["amiodaron (III)"],
+    "description": [
+      "Třída III – Blokátory draselných kanálů (např. amiodaron) – supraventrikulární i komorová tachykardie"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "613. Co je charakteristické pro arytmii? 😊 Kardiologie",
+    "answers": [
+      "hyperkalémie způsobuje proarytmickou aktivitu antiarytmik",
+      "Karotická masáž se provádí na obou stranách, aby se účinek zvýšil",
+      "při zjištění fibrilace síní začínáme elektrickou kardioverzi do 48h",
+      "-Při bradykardii u pacienta podáváme atropin bez ohledu na EKG",
+      "lehkou formu neléčíme  *nebylo"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "při zjištění fibrilace síní začínáme elektrickou kardioverzi do 48h",
+      "lehkou formu neléčíme  *nebylo"
+    ],
+    "description": [
+      "Kardioverzi provádíme po neúspěšné farmakologické kardiovezre (konzervativní léčby) do 48 hodin, obyčejně za 24 horniny! Hypokalémie způsobuje proarimickou aktivitu – příklad glykosidu. Kaortická masáž přivede ke kolapsu.  Elektrická kardioverze je výkon, který se používá k přerušení srdečních arytmií, nejčastěji fibrilace či flutteru síní. Tyto arytmie obvykle zhoršují výkonost srdce (až o 25 % snižují množství přečerpané krve) a mohou také vést ke vzniku sraženin v srdečních oddílech. Některé arytmie se vůbec neléčí, protože nezpůsobují obtíže a nejsou nebezpečné."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "614. Léčba málodiferencovaného (G3) choriokarcinomu: Onkologie/ Ginekologie",
+    "answers": [
+      "chemoterapie (methotrexát + aktinomycin D)",
+      "chirurgie",
+      "radioterapie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["chemoterapie (methotrexát + aktinomycin D)"],
+    "description": [
+      "čím je nádor méně diferencovaný, tím je agresivnější, ale zároveň citlivější k léčbě Základem je chemoterapie. Chirurgická léčba je vyhrazena pro přísně indikované případy rezistence na chemoterapii a při komplikacích (např. konzervativně nezvládnutelné krvácení z dělohy). Chemoterapie je individualizována podle rizika a je dnes vysoce úspěšná i v metastatických formách."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "615. Vysoká produkce hCG (Choriogonadotropin) je typická pro:(Klener) Onkologie/ Ginekologie",
+    "answers": [
+      "choriokarcinom",
+      "adrenogenitální syndrom",
+      "periferní bypogonadismus",
+      "Steinův – Leventhalův syndrom"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["choriokarcinom"],
+    "description": [
+      "hCG produkován syncytiotrofoblastem placenty v průběhu těhotenství. Stimuluje růst žlutého tělíska, které tvoří estrogeny a progesteron"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "616. Tři týdny starý chlapec byl přijat po zvracení, dehydrataci a šokový stav (Na 116 mmol/l, K 8,1 mmol/l). Má nápadně pigmentované skrotum. Na jakou diagnózu budete pomýšlet? 😊 Pediatrie",
+    "answers": [
+      "diabetes insipidus renalis",
+      "syndrom nepřiměřené sekrece adiuretinu",
+      "kongenitální adrenální hyperplázie",
+      "pylorostenózu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["kongenitální adrenální hyperplázie"],
+    "description": [
+      " Jedinec hodně močí a ztrácí ionty sodíku za vzniku hyponatrémie (nízká hladina sodíku v krvi), je u něj zvýšené riziko smrti z dehydratace a rozvratu vnitřního prostřed"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "617. Nadledvinové hypertrofie (Kongenitální adrenální hyperplazií): 😊",
+    "answers": [
+      "Nejčastější je deficit 21-hydroxylázy",
+      "Syndrom ztráty soli, hyponatrémie, hyperkalémie, dehydratace a hypotenze",
+      "3-ß hydroxysteroid dehydrogenáza",
+      "aldosteron syntetáza",
+      "11-ß hydroxyláza",
+      "21- hydroxyláza"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Nejčastější je deficit 21-hydroxylázy",
+      "Syndrom ztráty soli, hyponatrémie, hyperkalémie, dehydratace a hypotenze",
+      "21- hydroxyláza"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "618. Pro kongenitální adrenální hyperplazií platí: 😊",
+    "answers": [
+      "může skončit i smrtí, pokud není adekvátně léčena",
+      "vyskytuje se častěji u dívek než u chlapců",
+      "podléhá ve většině vyspělých zemí celoplošnému novorozeneckému screeningu",
+      "je AR dědičná"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "může skončit i smrtí, pokud není adekvátně léčena",
+      "podléhá ve většině vyspělých zemí celoplošnému novorozeneckému screeningu",
+      "je AR dědičná"
+    ],
+    "description": [
+      "Autosomálně recesivní dědičnost (AR) se týká genů umístěných na nepohlavních chromosomech – autosomech."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "619. Kongenitální adrenální hyperplazie (Olomouc)",
+    "answers": [
+      "je nebezpečná rizikem rozvoje život ohrožující adrenální krize",
+      "je autosomálně dominantně dědičná",
+      "je vždy klinicky rozpoznatelná v novorozeneckém věku",
+      "se vyskytuje pouze u děvčat"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "je nebezpečná rizikem rozvoje život ohrožující adrenální krize"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "620. Dítě 2 dny má nevolnost, zvracení, hyperkalémie, hyponatrémie, acidóza: 😊",
+    "answers": [
+      "problémy s nadledvinami (kongenitální adrenální hyperplazie)",
+      "pylorostenóza"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "problémy s nadledvinami (kongenitální adrenální hyperplazie)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "621. Dítě 2 týdny, má zvracení hypoglykémie, hyponatrémie, hyperkalémie. Jaká bude diagnóza? (apelace – správně)",
+    "answers": ["pylorostenóza", "kongenitální hyperplazie kůry nadledvin"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["kongenitální hyperplazie kůry nadledvin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "622. Prerenální selhání, příčina?",
+    "answers": ["Pneumoperitoneum"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Pneumoperitoneum"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "623. Prerenální poškození ledvin: 😊",
+    "answers": [
+      "Hemolyticko-uremický syndrom",
+      "Šok  / Sepse (chronické srdeční selhání, septické stavy a jaterní selhání)",
+      "leukémie",
+      "Infekce močovodu / Obstrukce močovodu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Šok  / Sepse (chronické srdeční selhání, septické stavy a jaterní selhání)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "624. Nekróza nadledvin a krvácení (hemoragie) do nich, proč vzniká? *Waterhouse-Friderichsenův syndrom 😊",
+    "answers": [
+      "akutní septický stav",
+      "Connův syndrom",
+      "patologie poporodního období",
+      "hemoragická nemoc"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["akutní septický stav"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "625. K hemodialýze indikujeme: (Klener) - -- ТЕРАПИЯ, НЕФРОЛОГИЯ",
+    "answers": [
+      "pacienta s retencí moči, u kterého se nedaří katetrizace močového měchýře",
+      "každého pacienta s renálním selháním",
+      "pacienta s renálním selháním a hyperkalémií nad 7,0 mmol/l",
+      "pacienta staršího 60 let i při normální kalémii a jen lehce snížené renální funkci"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "pacienta s renálním selháním a hyperkalémií nad 7,0 mmol/l"
+    ],
+    "description": [
+      "Tab. 20.13. Indikace k dialýze u nemocných s akutním selháním ledvin Absolutní « hyperkalémie > 6,0 mmol/l « hyperhydratace se srdečním selháním těžká metabolická acidóza « klinicky vyjádřená urémie (perikarditida, postižení trávicího ústrojí, neuropatie ap.) intoxikace dialyzovatelným jedem Nutná « hyperazotémie (urea > 35 mmol/l kreatinin > 500-600 umol/!) « hyperkalcémie > 4,5 mmol/l hyperurikémie těžkého stupně (> 1000 umol/!) oligoanurie > 3 dny"
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczOktuVeyP8nMKqApMOVJn852QCDNrbXYoqPat1EyBDECdJGpB2eRgg1YsKuKCdjxSrsP71SoCRRFz-IqaLMUeMrysoa3JlYmj2xhAtiIqRRcQWecG9GcAzG8waCQfJwG6b7ZHIu2TiBQ2FIwCYX8lTF=w358-h272-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "626. Dialyzační onemocnění? 😊 ТЕРАПИЯ, НЕФРОЛОГИЯ",
+    "answers": ["tyhle choroby, které souvisí s hemodialýzou"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["tyhle choroby, které souvisí s hemodialýzou"],
+    "description": [
+      "Možná jde o amyloidózu, uremickou olineuropatii, uremické plíce a perikarditidu, syndrom neklidných nohou a sekundární hyperparatyreózu.  (Poruchy metabolismu fosfokalcia). Anémie chronických onemocnění (v důsledku snížené produkce erytropoetinu)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "627. Indikací k hemodialýze NENÍ: (Klener) ТЕРАПИЯ, НЕФРОЛОГИЯ",
+    "answers": [
+      "retence moči",
+      "výrazné zvýšení plazmatické urey",
+      "hyperkalémie",
+      "hyperhydratace"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["retence moči"],
+    "description": [
+      "Indikace: Akutní selhaní ledvin (hyperK, oligurie, anurie, těžká metabolická acidoza, vysoka koncentrace urey), intoxikace."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "628. Hemodialýzou lze odstranit: (Klener) - ТЕРАПИЯ, НЕФРОЛОГИЯ",
+    "answers": [
+      "hypernatrémii v důsledku polyurie",
+      "také nefrotoxické látky, pokud jsou nízkomolekulární a nejsou vázány na sérové proteiny",
+      "všechny klinické i laboratorní projevy renálního selhání – pouze zplodiny metabolismu dusíkatých látek při urémii"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "také nefrotoxické látky, pokud jsou nízkomolekulární a nejsou vázány na sérové proteiny"
+    ],
+    "description": [
+      "Akutní hemodialýza Akutní dialýza se používá u náhlých stavů, kde tělo pacienta není samo schopno očistit se od endogenních nebo exogenních toxických látek, objemu tekutiny nebo iontů. Mezi indikace k akutní dialýze patří tyto stavy: akutní selhání ledvin – například rychle progredující glomerulonefritida (RPGN), hyperkalemie > 6 mmol/l, kterou není možné zvládnout konzervativní terapií, hyperkalcemie > 3,5 mmol/l, hyperurikemie > 1000 μmol/l, nekorigovatelná metabolická acidóza, pH < 7,1, hyperhydratace se srdečním selháváním, oligourie trvající déle než 3 dny, intoxikace nízkomolekulárními látkami rozpustnými ve vodě, které po intoxikaci zůstávají ve volné formě v krevním řečišti – např. ethylenglykol (fridex – nemrznoucí směs), lithium. Další jedy lze eliminovat hemoperfuzí, tj. adsorbcí na aktivní uhlí, která se provádí doplněním hemodialyzačního přístroje o hemoperfuzní patronu (např. jed muchomůrky zelené, paracetamol, některá antidepresiva)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "629. Při chronické hemodialýze je pacient běžně (Klener) -- ТЕРАПИЯ, НЕФРОЛОГИЯ",
+    "answers": [
+      "kryt antibiotiky",
+      "heparinizován",
+      "pelentanizován",
+      "monitorován CŽT"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["heparinizován"],
+    "description": [
+      "Heparin je nejpoužívanějším antikoagulačním prostředkem (zabraňujícím srážení krve), je všeobecně dobře snášen a jeho účinek lze rychle zvrátit pomocí protaminsulfátu, alergie na něj je vzácná a projevuje se snížením množství krevních destiček. Pacienty s velkým rizikem krvácení lze dialyzovat i bez něj."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "630. V renálním selhání je kontraindikován vitamín: (Klener) -- ТЕРАПИЯ, НЕФРОЛОГИЯ",
+    "answers": ["B6", "B12", "+A", "-D"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["+A"],
+    "description": [
+      "Nepodáváme vitaminy A i E, protožš jejich koncentrace pri renální selhání byva normální nebo zvýšení."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "631. Polycystické vrozené onemocnění ledvin: 😊 -- ТЕРАПИЯ, НЕФРОЛОГИЯ",
+    "answers": ["s jejich nárůstem vede k selhání ledvin"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["s jejich nárůstem vede k selhání ledvin"],
+    "description": [
+      "Projevuje se pří­ tomnosti cyst v obou ledvinách s postupnou progresi cyst a zánikem renálního parenchymu a vývojem terminálního selhání ledvin."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "632. Polycystická nemoc ledvin autosomalně dominantní: 😊 - ТЕРАПИЯ, НЕФРОЛОГИЯ",
+    "answers": [
+      "zvětšení ledvin s selháním a art.hypertenzi",
+      "zmenšení ledvin s selháním a art.hypertenzi",
+      "projevuje se ve středním věku",
+      "projevuje se hned po narození"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "zvětšení ledvin s selháním a art.hypertenzi",
+      "projevuje se ve středním věku"
+    ],
+    "description": [
+      "Klinicky se ADPCHL projevuje akutními či chronickými bolestmi v bedrech, hypertenzi (až u 70 % pacientů s ještě normální glomerulární filtraci), recidivují-cími močovými infekcemi (alespoň jedna epizoda, obvykle gramnegativni, močové infekce se objeví v průběhu života u 50 % nemocných), hematurií (často makroskopickou) a nefrolitiázou (až u 20 % pacientů, nejčastěji urátovou). Průběh onemocněni je velmi variabilní a vyznačuje se obvykle postupným narůstáním objemu cysty i cel- kového objemu obou ledvin, teprve později dochází také k poklesu glomerulárni filtrace a vývoji terminálního selhání ledvin u pacientů s mutaci v PKD1 genu v průměru v 54 letech a u pacientů s mutaci v PKD2 genu v průměru v74letech."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "633. Autosomálně recesivní polycystická nemoc ledvin: 😊 - ТЕРАПИЯ, НЕФРОЛОГИЯ",
+    "answers": [
+      "Projevuje se rychlým rozvojem renální insuficience v poporodním období"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Projevuje se rychlým rozvojem renální insuficience v poporodním období"
+    ],
+    "description": [
+      "Postižení ledvin cystami vede k selhaní ledvin někdy již kratce po porodu."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "634. Dědičná polycystická nemoc ledvin: 😊 - ТЕРАПИЯ, НЕФРОЛОГИЯ",
+    "answers": [
+      "Hypertenze + zvětšení ledvin",
+      "Zvětšení ledvin",
+      "Hypertenze + zmenšení ledvin",
+      "V mladém veky se rychle progresuje/ rychlé selhání ledvin 2024"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Hypertenze + zvětšení ledvin",
+      "V mladém veky se rychle progresuje/ rychlé selhání ledvin 2024"
+    ],
+    "description": [
+      "Klinicky se ADPCHL projevuje akutními či chronickými bolestmi v bedrech, hypertenzi (až u 70 % pacientů s ještě normální glomerulární filtraci), recidivují- cími močovými infekcemi (alespoň jedna epizoda, obvykle gramnegativni, močové infekce se objeví v průběhu života u 50 % nemocných), hematurií (často makroskopickou) a nefrolitiázou (až u 20 % pacientů, nejčastěji urátovou)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "635. Pro renální kostní chorobu svědčí: (Klener)- ТЕРАПИЯ, НЕФРОЛОГИЯ",
+    "answers": [
+      "nález uzurací falang prstů na rtg vyšetření rukou",
+      "jakákoli hyperkalcémie u pacienta s plazmatickýcm kreatininem vyšším než 100 μmol/l",
+      "nález osteofytů na rtg snímku lumbální páteře",
+      "hypofosfatémie s hyperkalcémií"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["nález uzurací falang prstů na rtg vyšetření rukou"],
+    "description": [
+      "Klíčovou roli při progresi renální kostní choroby hraje sekundární hyperparatyreóza. Protrahovaná hypokalcemie, hyperfosfatemie a deficit kalcitriolu vedou přes snížení aktivace CaSR (calcium sensing receptor) a VDR (jaderný receptor pro vitamin D) v příštítných tělíscích ke zvýšené produkci parathormonu (PTH). Těžkou sekundární hyperparatyreózu doprovázejí specifické změny na skeletu – subperiostální ero- ze, osteolýza distálních falang a klíčků, subperios- tální projasnění na lebce, změny obratlových těl („rubber jersey spine“)Rentgenovým vyšetřením prokazujeme rovněž přítomnost extraoseálních kalcifikací."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "636. Hypertrofie nadledvin (Congenital adrenal hyperplasia?) 😊 - ТЕРАПИЯ",
+    "answers": ["deficit hydroxylaz"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [""],
+    "description": [
+      "Kongenitální adrenální hyperplázie: deficitní aktivita fermentů (21-hydroxylazy = 21-OH, 11β-hydroxylazy=11β-OH, 3β-hydroxysteroidni dehydrogenazy =3β-HSD)"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "637. Co je nejčastější příčinou сhronického selhání ledvin? 😊 - ТЕРАПИЯ, НЕФРОЛОГИЯ",
+    "answers": ["diabetická nefropatie", "glomerulonefritida"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["diabetická nefropatie"],
+    "description": [
+      "Příčiny chronického selháváni ledvin: diabetes mellitus 2. typu (cca 30 %) vaskulární příčiny – arteriální hypertenze, arterioskleróza (cca 22 %) onemocnění glomerulů (cca ve 12 % případů) intersticiální nefritidy (8 %) dědičné nefropatie (5 %) diabetes mellitus 1. typu (3 %) systémová onemocnění (4 %) příčina není zjištěna (10 %) V západní Evropě a USA (a podobně i v ČR) jsou nejčastějšími příčina­mi chronického selhání ledvin diabetická nefropatie (30-50 %), hypertenze a ischemická nefropatie (asi 20 %)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "638. Uremický syndrom vzniká při (Klener)",
+    "answers": [
+      "retenci urey a kreatininu",
+      "akutním selhání ledvin",
+      "retenci kyseliny močové a urátů",
+      "neadekvátní hemodialýze",
+      "Skr > 500–700 μmol/l a S urea > 20–30 mmol/l, pokud není",
+      "klinicky manifestní projevy urémie (zvl. perikarditida)",
+      "hyperhydratace (oligurie/anurie)",
+      "hyperkalémie (> 6,5 mmol/l)",
+      "acidóza nezvládnutelné konzervativně,",
+      "přítomnost toxinů odstranitelných dialýzou"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["akutním selhání ledvin", "neadekvátní hemodialýze"],
+    "description": [
+      "Uremický syndrom vzniká důsledkem hromadění dusíkatých látek v organismu a poruch vodní a elektrolytové rovnováhy při akutním či chronickém selhání ledvin Akutní uremický syndrom Skr > 500–700 μmol/l a S urea > 20–30 mmol/l, pokud není zřejmé, že dochází k úpravě ASL klinicky manifestní projevy urémie (zvl. perikarditida) hyperhydratace (oligurie/anurie) hyperkalémie (> 6,5 mmol/l) acidóza nezvládnutelné konzervativně, přítomnost toxinů odstranitelných dialýzou"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "639. Gravesova-Basedowova nemoc: * Graves-Basedow disease/ Toxic diffuse goiter 😊 - ТЕРАПИЯ, ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "je autoimunitní onemocnění",
+      "aktivující protilátky proti TSH receptorům",
+      "autoimunitní tyreoiditida"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "je autoimunitní onemocnění",
+      "aktivující protilátky proti TSH receptorům"
+    ],
+    "description": [
+      "Basedowova choroba, která je autoimunitním onemocněním s produkcí stimulujících protilátek proti TSH receptoru (TSAb). "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "640. Exoftalmus je: (Olomouc)- ТЕРАПИЯ, ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "protruze bulbů u morbus Graves-Basedow",
+      "základní příznak snížené funkce štítné žlázy",
+      "nedovření oka při obrně lícního nervu",
+      "nevývin očních bulbů"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["protruze bulbů u morbus Graves-Basedow"],
+    "description": ["Exoftalmus je vysunutí bulbu dopředu (protruze)."],
+    "img": [""]
+  },
+
+  {
+    "question": "641. Nález jednostranného exoftalmu 😊 - ТЕРАПИЯ, ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "může být součástí karcinomu štítné žlázy",
+      "může být součástí toxického adenomu štítné žlázy",
+      "je bez souvislosti se štítnou žlázou",
+      "může být součástí m. Graves-Basedow",
+      "vylučuje možnost Graves-Basedow"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "může být součástí m. Graves-Basedow"
+    ],
+    "description": [
+      "Efoftalmus u Graves-Basedow obvykle oboustranný, ale může být i výrazně asymetrický. Toxický adenom štítné žlázy: Příznaky  z nadbytku tyreoidálních hormonů jsou stejne jako u GB choroby, chibi však oftalmopatie a dermatopatie"
+    ],
+    "img": [""]
+  },{
+    "question": "641a. Nález jednostranného exoftalmu (Klener)",
+    "answers": [
+      "může být výrazem Gravesovy-Basedowovy choroby",
+      "vylučuje možnost Gravesovy-Basedowovy choroby",
+      "svědčí pro možnost tumoru orbity",
+      "nesvědčí pro toxický adenom štítné žlázy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "může být výrazem Gravesovy-Basedowovy choroby",
+      "svědčí pro možnost tumoru orbity",
+      "nesvědčí pro toxický adenom štítné žlázy"
+    ],
+    "description": [
+      "Efoftalmus u Graves-Basedow obvykle oboustranný, ale může být i výrazně asymetrický. Toxický adenom štítné žlázy: Příznaky  z nadbytku tyreoidálních hormonů jsou stejne jako u GB choroby, chibi však oftalmopatie a dermatopatie"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "642. Které z endokrinopatií jsou autoimunitního původu (Olomouc) - ТЕРАПИЯ, ЭНДОКРИНОЛОГИЯ",
+    "answers": [
+      "Addisonova nemoc",
+      "Kongenitální adrenální hyperplázie",
+      "Gravesova-Basedowova nemoc",
+      "Diabetes insipidus centralis (neurohumoralis) * Autoimunitní – velmi vzácný, vzniká v rámci autoimunitní hypofyzitidy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Addisonova nemoc", "Gravesova-Basedowova nemoc"],
+    "description": [
+      "Addisonova nemoc Ze všech příčin adrenokortikální insuficience naprosto převažuje autoimunitní postižení nadledvin (80 % všech případů).  Basedowova choroba, která je autoimunitním onemocněním s produkcí stimulujících protilátek proti TSH receptoru (TSAb). "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "643. K endokrinním onemocněním patří: 😊 - ТЕРАПИЯ, ЭНДОКРИНОЛОГИЯ",
+    "answers": ["Addisonova nemoc"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Addisonova nemoc"],
+    "description": [
+      "Aldrenortikalní insuficience je způsobena primarne onemocněním nadledvin (Addisonova choroba) nebo sekundarním onemocněním hypotalamo-hypofyzárního systemu. Adrenokortikálni insuficience (hypokortikalismus) - onemocnění vznikající v důsledku nepoměru mezi sekreci. a potřebou steroidních hormonů kůry nadledvin."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "644. Addisonova choroba: 😊",
+    "answers": ["hypoNA, hyperK, nizký aldosteron"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hypoNA, hyperK, nizký aldosteron"],
+    "description": [
+      "V krvi je hyperkalémie, hyponatrémie, hypoglykemie, neutropenie, lymfocytóza, monocytóza, eozinofilie.  Na diagnózu lékaře navedou klinické příznaky (slabost, únava, anorexie, myalgie, nevolnost,  po soli, ortostatická hypotenze), nižší koncentrace sodíku a vyšší koncentrace draslíku v krvi. Diagnóza je potvrzena zhodnocením koncentrace ACTH a kortizolu v krvi. Kortizol bude u Addisonovy choroby snížen vždy. ACTH bude sníženo pouze u centrální formy Addisonovy choroby (tj. při poruše hypothalamu a/nebo hypofýzy). Při poruše kůry nadledvin bude ACTH zvýšené. Hodnoty sérových hladin kortizolu ráno nalačno pod 150 nmol/l potvrzují diagnózu adrenokortikální insuficience, hodnoty nad 550 nmol/l tuto diagnózu vylučují. Mezi těmito hodnotami leží šedá zóna, kde mohou být pacienti s částečnou insuficiencí. Takové pacienty odhalíme pomocí dynamických stimulačních testů, které hodnotí schopnost zvýšení sekrece kortizolu za zátěžových podmínek. Používá se inzulinový toleranční test nebo synacthenový test. Inzulinový toleranční test spočívá ve vyvolání hypoglykémie (pod 2,2 mmol/l) podáním inzulinu a v opakovaných měřeních hladiny kortizolu v plazmě. Fyziologicky vyvolá hypoglykémie vzestup produkce kortizolu, při hypokortikalismu se sekrece tohoto hormonu zvyšuje méně nebo vůbec. Za bezpečnější vyšetřovací metodu se považuje synacthenový test, při němž se produkce kortizolu stimuluje podáním analogu ACTH. U autoimunitou způsobeného poškození nadledvin můžeme v krvi najít protilátky proti 21-hydroxyláze (až u 90 % pacientů). Až 50 % takto postižených lidí má i další autoimunitní chorobu (mohou se vytvářet protilátky proti štítné žláze, přištítným tělískám, varlatům, ovariím, žaludeční sliznici atd.). Doporučuje se screening pacientů s diabetem typu 1A, hypoparathyroidismem a při nálezu protilátek proti 21-hydroxyláze, aby se předešlo vzniku akutní adrenokortikální krize. Stav nadledvin můžeme vyšetřit ultrazvukem (najdeme poškození, autoimunitní zánět ovšem nezpozorujeme), stav hypothalamu a hypofýzy můžeme zhodnotit pomocí CT a magnetické rezonance."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "645. Substituční terapii hydrokortizonem u m. Addison je nutné při operaci zvýšit (Klener)",
+    "answers": ["na 300 mg", "ne více než o 50 % - o 30 mg", "až 10x"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["až 10x"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "646. Pokud je pacientka s periferním hypokortikalismem (Addisonovou chorobou) správně substitučně léčena a otěhotní, musíme (Klener) питання у кленері відмічено дивно",
+    "answers": [
+      "substituční dávku hydrokortizonu zvýšit na dvojnásobek až trojnásobek, protože gravidita sama o sobě představuje pro pacientku stres",
+      "substituční dávku hydrokortizonu snížit na minimum, abychom předešli významnějšímu útlumu funkce kůry nadledviny plodu, protože hydrokortizon přechází přes placentární bariéru",
+      "substituční terapii hydrokortizonem je nutné kombinovat s aplikací depotní formy Synacthenu 1x za 2–3 týdny i.m.",
+      "substituční terapii hydrokortizonem změnit za dexametazon, který nepřechází transplacentárně"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "substituční dávku hydrokortizonu snížit na minimum, abychom předešli významnějšímu útlumu funkce kůry nadledviny plodu, protože hydrokortizon přechází přes placentární bariéru"
+    ],
+    "description": [
+      "Léčbu je třeba zahájit co nejdříve. Parenterálně podáváme hydrokortison v prvních 24 hodinách v dávkách 100 mg á 6 hodin (v těchto dávkách má i mineralokortikoidní účinek). Zlepšení stavu je obvykle rychlé, takže je možné již od druhého dne snížit dávky na 50 mg á 6 hod. Podle stavu pacienta postupně snižujeme dávky na 10 mg 4krát denně. Pokud se jedná o Addisonovu nemoc, pak při snížení dávek hydrokortisonu na 50–60 mg/den přidáváme fludrokortison (pro mineralokortikoidní efekt). Kromě kortisolu se zaměřujeme na úpravu dehydratace, která bývá výrazná, a elektrolytové dysbalance. Hyperkalemie a acidosa se obvykle upraví po podání kortisolu. Samozřejmostí je i léčba vyvolávající příčiny krize (infekce). Chronická léčba  Pacienti s adrenokortikální insuficiencí vyžadují doživotní substituční léčbu. Celková denní dávka hydrokortisonu se obvykle pohybuje v rozmezí 25–30 mg/den, ale může být i výrazně vyšší. Bohužel nemáme k dispozici žádný laboratorní test, který by ukázal přiměřenost dávky, řídíme se proto klinickým obrazem (únava, váha, GIT obtíže), tlakem krve a mineralogramem. Kortisol podáváme 2krát denně – 2/3 dávky ráno a zbylou třetinu v 16–17 hod. Dávku kortizolu je třeba zvyšovat při jakékoliv psychické nebo fyzické zátěži, a to až do dávek 300–400 mg/den. Je třeba vždy pamatovat na to, že krátkodobé podání vyšší dávky je prakticky bez rizika, zatímco poddávkování může vyvolat krizi! Pacienti musí být o tomto řádně poučeni a při teplotě nad 39 °C, průjmech, nebo zvracení vyhledat lékaře. U Addisonovy nemoci musíme kromě hydrokortisonu podávat obvykle i fludrokortison s mineralokortikoidním účinkem. Podává se jednou denně v konstantní dávce 0,05–0,2 mg."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "647. Grafitové skvrny na dásních a bukální sliznici svědčí pro (Klener)",
+    "answers": [
+      "předávkování některého z léků rezerpinové řady",
+      "m. Addison",
+      "chronickou otravu rtutí",
+      "porfyrii"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["m. Addison"],
+    "description": [
+      "Projevy: Dlouhodobý nedostatek hormonů kůry se projevuje celkovou únavou, nízkým krevním tlakem, snížením tělesné hmotnosti, občasnými bolestmi břicha a žízní. Nemocný má také více chuť na hodně osolená jídla. Snížení koncentrace aldosteronu vede k vyšším ztrátám sodíku se vznikem hyponatrémie a k hromadění draslíku v těle. Vysoká hodnota draslíku vede k průjmům a může způsobit i smrtelně nebezpečné poruchy srdečního rytmu. Při poškození kůry nadledvin poznají hypofýza s hypotalamem nízkou koncentraci kortizolu v těle a snaží se jeho koncentraci zvýšit – začnou produkovat hodně CRH a ACTH. S jejich tvorbou souvisí i látka zvyšující pigmentaci, detaily nejsou důležité. Ta se začne vytvářet také ve zvýšené míře a proto se v těle nemocného začne tvořit pigment. Nemocný z tohoto důvodu vypadá paradoxně velmi zdravě a opáleně (a to i v zimních měsících) a na sliznici dutiny ústní se mu tvoří temné grafitové skvrny."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "648. Hyperpigmentaci kůže nacházíme (Klener)",
+    "answers": [
+      "u periferního Cushingova syndromu",
+      "pouze u periferního hypokortikalismu",
+      "u Nelsonova syndromu a Addisonovy choroby",
+      "u centrálního hypokortikalismusu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["u Nelsonova syndromu a Addisonovy choroby"],
+    "description": [
+      "Nelsonův syndrom Poměrně vzácný adenom hypofýzy vznikající u pacientů po odstranění nadledvin, který ve zvýšené míře produkuje ACTH. V důsledku adrenalektomie se ztrácí zpětnovazebná inhibice CRH kortizolem, dochází tedy ke zvýšené hypothalamické sekreci CRH a tím k nadprodukci ACTH. Mezi první příznaky mohou patřit výpadky zrakového pole a hyperpigmentace."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "649. Ke klinickým projevům Addisonovy nemoci patří: (Olomouc)",
+    "answers": [
+      "obezita, striae",
+      "diplopie",
+      "hyperpigmentace kůže",
+      "svalová slabost, únava"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hyperpigmentace kůže", "svalová slabost, únava"],
+    "description": [
+      "Projevy: Dlouhodobý nedostatek hormonů kůry se projevuje celkovou únavou, nízkým krevním tlakem, snížením tělesné hmotnosti, občasnými bolestmi břicha a žízní. Nemocný má také více chuť na hodně osolená jídla. Snížení koncentrace aldosteronu vede k vyšším ztrátám sodíku se vznikem hyponatrémie a k hromadění draslíku v těle. Vysoká hodnota draslíku vede k průjmům a může způsobit i smrtelně nebezpečné poruchy srdečního rytmu. Při poškození kůry nadledvin poznají hypofýza s hypotalamem nízkou koncentraci kortizolu v těle a snaží se jeho koncentraci zvýšit – začnou produkovat hodně CRH a ACTH. S jejich tvorbou souvisí i látka zvyšující pigmentaci, detaily nejsou důležité. Ta se začne vytvářet také ve zvýšené míře a proto se v těle nemocného začne tvořit pigment. Nemocný z tohoto důvodu vypadá paradoxně velmi zdravě a opáleně (a to i v zimních měsících) a na sliznici dutiny ústní se mu tvoří temné grafitové skvrny."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "650.Mezi symptomy, které charakterizují Addisonovu nemoc Nepatří? 😊",
+    "answers": ["pocení", "slabost", "hypotenze", "ztráta váhy (hmotností)"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["pocení"],
+    "description": [
+      "Dlouhodobý nedostatek hormonů kůry se projevuje celkovou únavou, nízkým krevním tlakem, snížením tělesné hmotnosti, občasnými bolestmi břicha a žízní."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "651. Eozinofilie v krvi svědčí o? 😊",
+    "answers": ["helminty", "Addisonova nemoc", "alergie"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["helminty", "Addisonova nemoc", "alergie"],
+    "description": [
+      "Eozinofilie je vzestup počtu eozinofilních granulocytů nad fyziologickou hodnotu. U zdravého dospělého člověka tvoří eozinofily 1–3 % z celkového počtu bílých krvinek. Eozinofilie se často objevuje při alergických nebo parazitárních onemocněních. Addisonovu chorobu lze rozdělit do 3 klinických forem: Součást autoimunitního polyendokrinního syndromu typu 1 (APS-1). Součást APS-2. Izolovaná forma."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "652. Addisonova choroba: 😊",
+    "answers": ["hyponatrium", "hypokalium", "hypernatrium", "hypokalcium"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hyponatrium"],
+    "description": [
+      "Nižší koncentrace aldosteronu v lidském organismu způsobuje vyšší ztráty sodíku a současně i hromadění draslíku. To následně vede ke vzniku hyponatrémie (nízká hladina sodíku v krvi), ale také k častým průjmům. Jedním z možných důsledků jsou pak také smrtelně nebezpečné poruchy srdečního rytmu."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "653. Počet spermatozoidů v 1 ml (dolní hranice normy, 2010) (apelace – správně)",
+    "answers": ["15 mil  (jiné prameny 20mil.)"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["15 mil  (jiné prameny 20mil.)"],
+    "description": [
+      "Normospermie – parametry jsou v mezích normy; ligospermie: pod 15 mil./ml, pravděpodobnost oplodnění může být snížena [3] pokles pod 5 mil./ml – oligospermia gravis; astenospermie – pohyb spermií je nižší než normálně, vyšší procento defektních forem; teratospermie – patologické hodnoty morfologie; azoospermie – spermie chybí: obstrukční; testikulární; aspermie – úplná absence ejakulátu při orgasmu; nekrozoospermie – jsou přítomny jen avitální spermie; pyospermie – leukocyty v ejakulátu; hemospermie – erytrocyty v ejakulátu."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "654. Projevy nedostatku estrogenu (hypoestrogenní syndrom) u ženy fertilního věku: 😊",
+    "answers": ["Horké návaly", "Sekundární amenorhoea"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Horké návaly", "Sekundární amenorhoea"],
+    "description": [
+      "Nízká hladina estrogenů u žen má řadu nepříjemných symptomů: Bolest hlavy Změny nálad - výkyvy nálad jsou pro pokles hladiny estrogenu typické, nicméně nízká hladina estrogenu může vést až k depresivním poruchám. Nedostatek estrogenu může způsobit i pokles produkce serotoninu. Únava  Potíže se soustředěním Nepravidelný menstruační cyklus - protože estrogen je jedním z hlavních hormonů, který řídí menstruační cyklus, jeho nízká hladina může vést k nepravidelnému menstruačnímu cyklu. Premenstruační syndrom Návaly horka a nadměrné pocení - nízká hladina estrogenu může způsobit nepříjemné návaly horka a nadměrné pocení. Vypadávání vlasů Zhoršení pleti - příznakem nízké hladiny estrogenu je i suchá a problematická pokožka se sklony k akné. Snížená hustota kostí - díky nízké hladině estrogenu může tělo hůře vstřebávat vápník, a i tím přispívá k pozdějšímu vzniku osteoporózy.  Ztráta libida Vaginální suchost a bolestivý styk. Časté infekce močových cest Zvýšení tělesné hmotnosti - nízká hladinu estrogenu nejen že může mít vliv na množství ukládání tuku v těle, ale ovlivňuje také místa, kde se tuk ukládá. Obvykle to bývá v oblasti břicha.  "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "655. Sekundární amenorea v důsledku? 😊",
+    "answers": [
+      "endometriózy",
+      "Ashermanův syndrom / Sheehanův syndrom",
+      "myoma uretry",
+      "polyp endometria",
+      "karcinom endometria"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Ashermanův syndrom / Sheehanův syndrom"],
+    "description": [
+      "Ashermanův syndrom (amenorrhoea traumatica, amenorrhoea atretica) je sekundární amenorea v důsledků synechií po zákrocích na děložním endometriu.  Etiologie  Jedná se o iatrogenní poškození nešetrnými anebo opakovanými instrumentálními revizemi dutiny děložní. Následným zánětem může vzniknout poškození endometria. Může se vyskytnout po kyretáži, myomektomii nebo jako komplikace v souvislosti s umělým ukončením těhotenství.  Klinické projevy[upravit | editovat zdroj]  Jedná se o pozdní komplikace zákroku projevující se morfologickými změnami, spojenými s trvalou atrofií endometria a adhezemi v děložní dutině.  Komplikace[upravit | editovat zdroj]Tyto morfologické změny mohou vyvolat sekundární amenoreu a být závažnou příčinou sekundární sterility či poruch vývoje placenty v event. těhotenství.  Sheehanův syndrom je postpartální (poporodní) ischemická nekróza hypofýzy matky. Samotná hypofýza bývá v průběhu těhotenství zvětšena (2–3) a je tudíž náchylnější k poškození. Během porodu dochází ke ztrátám krve a hypotenzi. Masivní ztráty krve způsobí křečovité stažení cév na různých místech těla. Výrazná vazokonstrikce nastane také u cév, které přivádějí krev do hypotalamu a následně pokračují do hypofýzy. Stažením těchto cév dojde k nedokrvení hypofýzy. Nedostatečné prokrvení způsobí, že část hypofýzy (nebo i celá hypofýza) odumře.  To má za následek poruchu sekrece některých hormonů, mezi které patří zejména: thyreotropní hormon (TSH), folikuly stimulující hormon (FSH), luteinizační hormon (LH) a adrenokortikotropní hormon (ACTH). To vede k poruše syntézy tyroxinu, trijodtyroninu, estrogenu, progesteronu a glukokortikoidů.  První známkou možného poškození je neschopnost kojení v období po porodu a dále nedojde k obnovení pravidelné menstruace po 6 týdnech po porodu (sekundární amenorrhea). Dále dojde k hypofunkci štítné žlázy, snížení pigmentace a vymizení ochlupení. Vše jako důsledek insuficience hypofýzy."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "656. Co může způsobit sekundární amenoreu:",
+    "answers": ["endometrióza", "Asheramanuvův syndrom"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Asheramanuvův syndrom"],
+    "description": [
+      "Amenorrhoea je vynechání menstruace (minimálně dvou cyklů) u ženy v období pohlavní zralosti. Fyziologická je amenorea v období dětství, těhotenství, laktace a v postmenopauzálním období.[1] Dělení dle doby vzniku Primární amenorea: pokud se menarché nedostaví do 15. roku věku; příčiny – hlavně organické – ageneze dělohy, porucha kanalizace Müllerových vývodů, hypoplázie rodidel; chromosomální abnormality vedoucí k dysgenezi gonád (30%), VVV (19%), hypothalamohypofyzární insuficience (17%), hyperprolaktinémie (17%); ve třetině jde o genetiku – dysgeneze gonád apod.; musíme odlišit tzv. kryptomenoreu – k odlučování endometria dochází, ale je zadržováno v děloze nebo pochvě, tj. při hymenálním uzávěru (hematokolpos), při cervikálním uzávěru (hematometra). Sekundární amenorea: 3 měsíce a déle trvající vynechání menstruace u ženy, která dosud menstruovala; nejčastější příčiny – sekundární: hypothalamo–hypofyzární (61%), hyperprolaktinémie (18%), ovariální poruchy (9%), uterinní poruchy (5%). Ashermanův syndrom (amenorrhoea traumatica, amenorrhoea atretica) je sekundární amenorea v důsledků synechií po zákrocích na děložním endometriu."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "657. Ashermanův syndrom (synechií po zákrocích na děložním endometriu ➡️ sekundární amenorea) * amenorrhoea traumatica",
+    "answers": [
+      "iatrogenní poškození / po instrumentálním kyretáži",
+      "primarní amenorea",
+      "primarní sterilita",
+      "stává se po poranění dutiny děložní"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "iatrogenní poškození / po instrumentálním kyretáži",
+      "stává se po poranění dutiny děložní"
+    ],
+    "description": [
+      "Jedná se o iatrogenní poškození nešetrnými anebo opakovanými instrumentálními revizemi dutiny děložní. Následným zánětem může vzniknout poškození endometria. Může se vyskytnout po kyretáži, myomektomii nebo jako komplikace v souvislosti s umělým ukončením těhotenství."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "658. Co je charakteristické pro Ashermanův syndrom? (Iatrogenní, sterilita) 😊",
+    "answers": ["Amenorea", "Dysmenorea", "Polymenorea", "Nedostatek ovulace"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Amenorea"],
+    "description": [
+      "Ashermanův syndrom (amenorrhoea traumatica, amenorrhoea atretica) je sekundární amenorea v důsledků synechií po zákrocích na děložním endometriu."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "659. Nejširší část malé pánve 😊",
+    "answers": [
+      "Rovina vchodu pánevního",
+      "Rovina šíře pánevní 12,5cm",
+      "Rovina úžiny pánevní"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Rovina šíře pánevní 12,5cm"],
+    "description": [
+      "Amplitudo pelvis (šíře)Spojuje rozhraní S2–S3 se středem obou acetabul a středem symfýzy. Diameter recta (12 cm), diameter transversa (12 cm) a diameter obliqua (13,5 cm)."
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczMPhNNwnk1UJHGgEGKdE0FHz7Dz7q4LfQISngT7mX15HkPysPz5LR2jOpyXO8hi9B2CoZFqKAzdU5yOGwOz6DpCFvr4mc6Xxz6Y_L1-EOkyXJ84_9fyWtVlUa8fgkGhSlrCKF16UR6m7ub8wQ7-IwJ4=w282-h198-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "660. Nejširší část malé pánve? 😊",
+    "answers": [
+      "prochází rozhraním S2–S3, středem acetabula a středem symfýzy",
+      "horní část symfýzy",
+      "dolní část symfýzy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "prochází rozhraním S2–S3, středem acetabula a středem symfýzy"
+    ],
+    "description": [
+      "*správná odpověď ta, kde píše střed symfýzy  Amplitudo pelvis (šíře)Spojuje rozhraní S2–S3 se středem obou acetabul a středem symfýzy"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "661. Pánevní rozměry (velikost) *(pelvis). Přímá velikost široké části pánevní dutiny: 😊",
+    "answers": ["od středu S3 do středu symfýzy"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["od středu S3 do středu symfýzy"],
+    "description": [
+      "Amplitudo pelvis (šíře)Spojuje rozhraní S2–S3 se středem obou acetabul a středem symfýzy"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "662. Přímý průměr k pánevní šíře je vzdálenost mezi: (Živný)",
+    "answers": [
+      "středem zadní stěny spony a středem těla obratle S3",
+      "promontoriem a horním okrajem spony",
+      "středem těla obratle S3 a horním okrajem spony",
+      "středem těla obratle S3 a dolním obratle"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["středem zadní stěny spony a středem těla obratle S3"],
+    "description": [""],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczOaLDbYe7KL2-Fqw5OF3KY88z10iavb5GrKajKmE30ZUJCcnT6wkVWQBvE6r97tswjlKvd1meAy7sXYWYKtYdAj2E9RGlNy4_fZJRoLrlzL08lkbTXBv1hzRYmk5oLT5t-0mk-h0-_vVS2q3ivc8oP-=w292-h254-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "663. Gastrointestinální krvácení: (apelace – správně)",
+    "answers": [
+      "endoskopie horního a dolního gastrointerstinálního traktu, pokud není užitečná",
+      "naléhavá laparotomie",
+      "horní endoskopie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "endoskopie horního a dolního gastrointerstinálního traktu, pokud není užitečná"
+    ],
+    "description": [
+      "Vyšetření a terapeutické možnosti Endoskopie je základní diagnostickou a terapeutickou metodou. Určuje zdroj a etáž krvácení, posuzuje riziko recidivy. Lokálně staví krvácení elektrokoagulací nebo ligaturou. Upřednostňuje se urgentní endoskopie, kdy je vidět zdroj krvácení. Endoskopie by se měla provádět na speciálních jednotkách intenzivní péče, kde je možnost a vybavení pro resuscitaci pacienta. Důraz je kladen na zkušenosti endoskopisty i celého týmu. Další možnosti Zavedení centrálního žilního katetru. Monitorování vitálních funkcí. Krevní převod: 3–4 jednotky erytrocytární masy nebo 1 jednotka mražené plazmy. U akutního nevarikózního krvácení se před endoskopií podává blokátor protonovépumpy (omeprazol 80 mg, pantoprazol 40 mg), potom bolus blokátoru protonové pumpy v infuzi. U varikózního krvácení: vazoaktivní léky - somatostatin, oktreotid nebo terlipresin (pozor na CVS kontraindikace) a ligace, případně sklerotizace jícnových varixů. Vazoaktiva podáváme vždy při podezření na varikózní krvácení. Při endoskopickém potvrzení pokračovat 5 dní. Při vyloučení ukončit. Angiografické radiointervenční metody prokážou extravazaci kontrastní látky, a tak určí místo krvácení. U krvácení z jícnových varixů se přistupuje k provedení TIPS (transjugulární intrahepatální portosystemický shunt)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "664. Horní gastrointestinální krvácení: 😊",
+    "answers": ["duodenoskopie, následovaná angiografií"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["duodenoskopie, následovaná angiografií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "665. Pacient s čerstvým krvácením při opakované endoskopií, ale s anamnézou pálení žáhy *(pyróza) a noční bolesti: 😊",
+    "answers": ["dvanáctníkový vřed", "Melori Weiss"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["dvanáctníkový vřed"],
+    "description": [
+      "Příznaky vředu na dvanácterníku Pokud máte vřed, můžete trpět těmito obtížemi: bolesti břicha nebo žaludku (bolest se může zmírnit, pokud se najíte) nechutenství zažívací potíže diskomfort po jídle (velká sytost, plnost žaludku, nafouknutí) nausea úbytek váhy zvracení"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "666. Stupně těžkosti hemofilie A: 😊",
+    "answers": [
+      "těžká - 1%, středně těžká - 1-5%, lehká- 5%",
+      "nejtěžší - 20 %, těžká - 1%, středně těžká - 1-5%, lehká- 5%"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["těžká - 1%, středně těžká - 1-5%, lehká- 5%"],
+    "description": [
+      "Při lehké hemofilii má člověk v krvi 5 – 40 % normální koncentrace srážecího faktoru VIII či IX (podle typu hemofilie). Projevy nemoci nemusí člověk s lehkou formou hemofilie za celý svůj život vůbec poznat. Odchylka se může zjistit například při větších operacích nebo těžkých úrazech. Nedochází zde ke spontánnímu krvácení (www.hemofilie.cz). Středně těžkou hemofilií rozumíme formu hemofilie, při které je v krvi přítomno 1 – 5 % hladiny srážecího faktoru, která se nachází v krvi zdravých lidí. U osob se středně těžkou hemofilií již může docházet k epizodám spontánního krvácení a často krvácejí již po nepatrném úrazu nebo poranění (www.hemofilie.cz). Těžkou hemofilii mají jedinci, u kterých je v krvi přítomno méně než 1 % normální koncentrace srážecího faktoru. U těžké hemofilie je časté spontánní krvácení hlavně do kloubů (www.hemofilie.cz). Přibližně polovinu hemofiliků představují právě hemofilici s těžkým stupněm onemocnění (Sakalová, A., Bátorová, A., Mistrík, M., et al. 2010)"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "667. Co NEpatří k autozomálně recesivním onemocněním? 😊",
+    "answers": [
+      "Marfanův syndrom (AD)",
+      "hemofilie A (X)",
+      "cystická fibróza (AR)",
+      "mukopolysacharidóza typu 1 (AR)",
+      "fenylketonurie (AR)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Marfanův syndrom (AD)", "hemofilie A (X)"],
+    "description": [
+      "Choroby AR dědičné • Cystická fibrosa - CF • Fenylketourie – PKU – porucha metabolismu bílkovin • Kongenitální adrenální hyperplasie – CAH, Adrenogenitální syndrom –AGS, deficit 21-hydroxylázy steroidů • Spinální muskulární atrofie – SMA • Nejčastější příčina dědičné nesyndromové ztráty sluchu • Dědičné poruchy metabolismu některé"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "668. Závažnost hemofilie podle hladiny koagulačních (srážecích) faktorů v krvi: 😊",
+    "answers": [
+      "Lehká forma, aktivita koagulačního faktoru je > 5%, u středně těžké formy v rozpětí 1 – 5%, aktivita koagulačního faktoru je u těžké formy hemofilie < 1%"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Lehká forma, aktivita koagulačního faktoru je > 5%, u středně těžké formy v rozpětí 1 – 5%, aktivita koagulačního faktoru je u těžké formy hemofilie < 1%"
+    ],
+    "description": [
+      "Při lehké hemofilii má člověk v krvi 5 – 40 % normální koncentrace srážecího faktoru VIII či IX (podle typu hemofilie). Projevy nemoci nemusí člověk s lehkou formou hemofilie za celý svůj život vůbec poznat. Odchylka se může zjistit například při větších operacích nebo těžkých úrazech. Nedochází zde ke spontánnímu krvácení (www.hemofilie.cz). Středně těžkou hemofilií rozumíme formu hemofilie, při které je v krvi přítomno 1 – 5 % hladiny srážecího faktoru, která se nachází v krvi zdravých lidí. U osob se středně těžkou hemofilií již může docházet k epizodám spontánního krvácení a často krvácejí již po nepatrném úrazu nebo poranění (www.hemofilie.cz). Těžkou hemofilii mají jedinci, u kterých je v krvi přítomno méně než 1 % normální koncentrace srážecího faktoru. U těžké hemofilie je časté spontánní krvácení hlavně do kloubů (www.hemofilie.cz). Přibližně polovinu hemofiliků představují právě hemofilici s těžkým stupněm onemocnění (Sakalová, A., Bátorová, A., Mistrík, M., et al. 2010)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "669. Těžká forma hemofilie A je definována: (Olomouc)",
+    "answers": [
+      "hladinou faktoru VIII pod 5%",
+      "krvácivými projevy mimo klouby",
+      "hladinou faktoru VIII pod 1 %",
+      "frekvencí krvácivých projevů do kloubů"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hladinou faktoru VIII pod 1 %"],
+    "description": [
+      "Těžkou hemofilii mají jedinci, u kterých je v krvi přítomno méně než 1 % normální koncentrace srážecího faktoru. U těžké hemofilie je časté spontánní krvácení hlavně do kloubů"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "670. Nejčastějším typem krvácení u pacientů s hemofilií je: 😊",
+    "answers": [
+      "krvácení do sliznic",
+      "krvácení do svalů",
+      "krvácení do kloubů",
+      "krvácení do CNS"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["krvácení do kloubů"],
+    "description": [
+      "U těžké hemofilie je časté spontánní krvácení hlavně do kloubů"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "671. Kdy se setkáme s hemartrosem? 😊Tравматология",
+    "answers": ["hemofilie"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hemofilie"],
+    "description": [
+      "* přítomnost krve v kloubu nejčastěji po úrazu a nebo při onemocnění zvaném hemofilie. Nejčastěji se hemartros vyskytuje v kolenním kloubu. Jeho příznaky jsou otok, bolestivost, porucha hybnosti, zvýšená lokální teplota. Nejčastější je pád na přední stranu kolene a nebo náhlá změna rotace kolene. Hemartros je vlastně příznakem buďto hemofilie a nebo úrazu. Это обычно следует за травмой, но возникает в основном у пациентов с предрасположенностью к кровотечению , таких как те, кто лечится варфарином (или другими антикоагулянтами ) и у пациентов с гемофилией . Это может быть связано с эндопротезированием коленного сустава .   Также сообщалось, что он является частью геморрагического синдрома при конго-крымской геморрагической лихорадке, что предполагает вирусную причину кровотечения в суставе.  Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "672. Obecný účinek lokální a celkové anestezie: 😊 Фармакология",
+    "answers": ["odstranění bolesti"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["odstranění bolesti"],
+    "description": [
+      "Celková anestezie má za úkol u pacienta vyřadit vědomí, zajistit amnézii, navodit analgézii a neurovegetativní stabilizaci. Zároveň zajišťuje komfort operatéra při prováděném výkonu. Lokální anestetika jsou látky zamezující vedení vzruchu senzitivními neurony. To vede ke ztrátě vnímáni bolesti u určité oblasti, kontrola pohybů zůstává zachována.. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "673. Amnioskopie, proč se provádí? (Živný) Акушерство",
+    "answers": [
+      "metoda hodnocení plodové vody  vyšetření vody plodové a její barvy",
+      "Amnionský výzkum",
+      "vyšetření vrozených vývojových vad *Amniocentéza",
+      "metoda zjišťující množství plodové vody",
+      "metoda verifikující podezření na vrozenou vadu plodu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "metoda hodnocení plodové vody  vyšetření vody plodové a její barvy"
+    ],
+    "description": [
+      "Amnioskopie je endoskopická vyšetřovací metoda využívaná v porodnictví, kdy se pomocí amnioskopu vyšetřuje zrakem kvalita a barva plodové vody. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "674. Co je amnioskopie? 😊 Акушерство",
+    "answers": [
+      "genetické vyšetření",
+      "vyšetření vody",
+      "vyšetření amniotické tekutiny a stavu plodu v ni",
+      "vyšetření množství polodové vody",
+      "vyšetření infekce"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["vyšetření amniotické tekutiny a stavu plodu v ni"],
+    "description": [
+      "Principem metody je detekovat zkalení plodové vody střevním obsahem plodu (smolka, mekonium), ke kterému dochází nejčastěji v důsledku vyvolání peristaltiky a uvolnění análního svěrače aktivací vegetativního nervového systému z důvodu hypoxie plodu. Lukas  Hruban , Petr Janků"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "675. Dárce s bijícím srdcem: 😊Трансплантология",
+    "answers": [
+      "Smrt mozku",
+      "Srdce funguje, smrt mozku (mozek zemřel)",
+      "Zástava krevního oběhu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Srdce funguje, smrt mozku (mozek zemřel)"],
+    "description": [
+      "Z hlediska medicínského se pro potřeby transplantologie vyuţívá dvou metod pro stanovení smrti – smrt způsobená srdeční zástavou nebo smrt způsobená smrtí mozku.  Kadaverózní dárce s bijícím srdcem a prokázanou smrtí mozku (heart-beating donorHBD57) bývá nejčastějším typem dárce, většinou lze provést multiorgánový odběr TŘEŠKA, V. Transplantologie pro mediky. Praha : Nakladatelství Karolinum, 2002, s. 29."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "676. Očkování proti chřipce u těhotných žen 😊 Акушерство",
+    "answers": [
+      "očkovat. Důvodem je vysoké riziko těžkého průběhu u těhotných i jejich malých dětí / + vždycky očkovat, pod vyšším rizikem těhotné ženy",
+      "očkovat, protože očkování chrání plod",
+      "neočkovat, protože …",
+      "neočkovat, protože …"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "očkovat. Důvodem je vysoké riziko těžkého průběhu u těhotných i jejich malých dětí / + vždycky očkovat, pod vyšším rizikem těhotné ženy"
+    ],
+    "description": [
+      "Chřipka je velmi častým a potenciálně závažným onemocněním postihujícím jedince kteréhokoli věku. Určité rizikové faktory zvyšují pravděpodobnost těžkého průběhu chřipky, komplikací a případně i úmrtí. K těmto rizikovým faktorům patří i těhotenství. Očkováním těhotných žen chráníme jednou vakcínou 2 osoby se zvýšeným rizikem: těhotnou ženu a její dítě v prvních měsících po narození.      Očkování těhotných žen je nezbytnou součástí prenatální péče Hospitalizace těhotné ženy pro respirační onemocnění může způsobit i porodní a neonatální komplikace, jakými jsou fetální tíseň, potrat, předčasný porod, císařský řez, narození mrtvého plodu nebo úmrtí novorozence .  Apgar skóre (8, 9) Očkování těhotných žen proti chřipce MUDr. Daniel Dražan Praktický lékař pro děti a dorost, Jindřichův Hradec"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "677. Očkování proti choleře: 😊 Инфекционные болезни",
+    "answers": [
+      "není nutné, vakcína krátkodobá, pro očkování skupin, kterým přímo hrozí epidemie cholery"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "není nutné, vakcína krátkodobá, pro očkování skupin, kterým přímo hrozí epidemie cholery"
+    ],
+    "description": [
+      "Inaktivovaná parenterální cholerová vakcína je určena k očkování deti staršich šesti měsiců a dospělých osob,zatimco inaktivovaná či živá perorální vakcína se použivá k imunizaci dětí staršich dvou let a dospělých osob. Očkování  se doporučuje zejména osobám ve vysoce rizikových podmínkách, tj.osobám žijicím v endemických oblastech s nizkým stupněm hygieny nebo osobám s postiženim trávicího ústrojí. Očkování proti choleře bylo ještě do roku 1991 povinné při cestě do některých statů či oblastí s vysokým výskytem teto nemoci. S ohledem na relativně nizkou protektivní účinnost původnich očkovacích látek Světová zdravotnická organizace rozhodla o jeho pouhém doporučeni. Přestože by toto očkování neměl vyžadovat žádný stát na světě,nemusí tomu tak být vždy. Existují totiž některe země, které ho neoficiálně mohou vyžadovat   (např.Nigérie,Rovníková Gunea ........) Petrás M, Lesná IK.Manual očkování 2010, š.vydání,leden 2010 Marek Petráš, pp 569-588)"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "678. Očkování se NEprovádí: 😊 Инфекционные болезни",
+    "answers": [
+      "intravenózně",
+      "intradermálně",
+      "intramuskularně",
+      "subkutánně",
+      "per os",
+      "intratekálně"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["intravenózně", "intratekálně"],
+    "description": [
+      "Každá očkovací látka má optimální způsob i místo aplikace, které vždy doporučí výrobce na základě výsledků klinických a terénních studií. Výběr místa aplikace a tkáně (kůže, podkoží, sval, event. sliznice) záleží na množství antigen-prezentujících buněk a dalších biologických faktorech. Správná technika a další aspekty aplikace očkovacích látek     D. Gopfertová   Ústav epidemiologie, 2. LF UK v Praze"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "679. Enkopréza: 😊 Педиатрия",
+    "answers": [
+      "neschopnost udržet stolici / mimovolný odchod stolice  (2024)",
+      "nekontrolované vyprazdňování stolice. Vyskytuje se častěji u chlapců",
+      "schopnost dlouhého udržení stolice"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "neschopnost udržet stolici / mimovolný odchod stolice  (2024)",
+      "nekontrolované vyprazdňování stolice. Vyskytuje se častěji u chlapců"
+    ],
+    "description": [
+      "Enkopréza u dětí je definována jako svévolný nebo mimovolný odchod stolice po 4. roce věku, často spojený s umazáváním spodního prádla. Vyskytuje se častěji u chlapců. Enkopréza je často spojena s enurézou. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "680. Enkopréza: (Olomouc) Pediatrie",
+    "answers": [
+      "je pojídání vlastní stolice u psychiatrických pacientů",
+      "je zvracení stolice",
+      "je v podstatě zácpa provázená mimovolným odchodem stolice",
+      "vyskytuje se pouze u dětí starších 6 let"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "je v podstatě zácpa provázená mimovolným odchodem stolice"
+    ],
+    "description": [
+      "Primární enkopréza velmi často u chronické habituální zácpy s obtékáním stolice; příčinou mohou být i tíživé zážitky nebo chronický stres. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "681. Polakisurie (Olomouc) відповідь правильна але в оломоуці трохи інші відповіді Nefrologie",
+    "answers": [
+      "časté nucení na močení",
+      "časté nucení na močení během noci",
+      "jedná se o opakované močení v krátkých časových intervalech s vyprazdňováním malých porcí moči",
+      "může být příznakem infekce močových cest a urolitiázy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "časté nucení na močení",
+      "jedná se o opakované močení v krátkých časových intervalech s vyprazdňováním malých porcí moči",
+      "může být příznakem infekce močových cest a urolitiázy"
+    ],
+    "description": [
+      "Polakisurie je opakovaná evakuace malého objemu moči v krátkých časových intervalech. Mezi příčiny polakisurie patří zánět (cystitida, uretritida), litiáza a emoční labilita. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "682. Polakisurie je (Klener) Nefrologie",
+    "answers": [
+      "časté nucení na močení, aniž bylo dosaženo fyziologické jímavosti měchýře",
+      "vylučování převážné části moči v nočních hodinách",
+      "bolest za stydkou sponou po dosažení fyziologické jímavosti měchýře",
+      "pálení a řezání při močení"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "časté nucení na močení, aniž bylo dosaženo fyziologické jímavosti měchýře"
+    ],
+    "description": [
+      "Polakisurie je opakovaná evakuace malého objemu moči v krátkých časových intervalech. Mezi příčiny polakisurie patří zánět (cystitida, uretritida), litiáza a emoční labilita. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "683. Pupečník obsahuje 😊 Porodnictví",
+    "answers": ["jednu pupečníkovou žílu a dvě pupečníkové tepny"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["jednu pupečníkovou žílu a dvě pupečníkové tepny"],
+    "description": [
+      "Pupečník je provazec o průměru 1–2 cm a délce mezi 20 a 150cm. Spojuje plod s placentou. Uvnitř jsou v rosolovité hmotě (Whartonův rosol) uloženy tři pupečníkové cévy: dvě aa. umbilicales a jedna v. umbilicalis. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "684. Které uložení placenty je patologické? 😊 Porodnictví",
+    "answers": [
+      "podél přední stěny",
+      "podél zadní stěny",
+      "nízká pozice",
+      "v dolním děložním segmentu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["nízká pozice", "v dolním děložním segmentu"],
+    "description": [
+      "   Druhy patologického uložení Insertio placentae profunda – placenta zasahuje do dolního děložního segementu, k vnitřní brance však nedosahuje ani za porodu. Placenta praevia marginalis – svým okrajem zasahuje k vnitřní brance, během porodu (při dilataci děložního hrdla/branky) může přejít v placentu praeviu partialis. Placenta praevia partialis – částečně překrývá branku, při dilataci branky vidíme okraj placenty. Placenta praevia centralis (totalis) – zcela překrývá vnitřní branku Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "685. Fyziologické umístění placenty NENÍ? (apelace – správně) + (Živný) Porodnictví",
+    "answers": [
+      "V dolním děložním segmentu",
+      "Ve fundu",
+      "Na zadní stěně",
+      "Na přední stěně"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["V dolním děložním segmentu"],
+    "description": [
+      "* Placenta nasedá na stěnu děložní – vepředu, vzadu nebo nahoře v děložním fundu (těle). Pokud nesahá pod nejnižší část plodu a hlavně nepřekrývá-li porodní cesty, vždy to považujeme za „normální“ umístění placenty. Rizikové je umístění v dolní části dělohy, kdy placenta na začátku porodu překrývá porodnickou branku děložní a tím brání porodu plodu. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "686. Placenta praevia znamená, že (Živný) Porodnictví",
+    "answers": [
+      "plod ohrožen krvácením",
+      "těhotná je ohrožena krvácením",
+      "těhotná může požádat o ukončení těhotenství ze zdravotní indikace",
+      "těhotná musí být hospitalizována do konce těhotenství"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["těhotná je ohrožena krvácením"],
+    "description": [
+      "Placenta praevia centralis (totalis) – zcela překrývá vnitřní branku[1].  Krvácení – hlavní a často první příznak; opakovaná krvácení mohou vést až k anemizaci matky.  Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "687. Placenta praevia marginalis znamena, že (Živný) Porodnictví",
+    "answers": [
+      "placenta je umístěna v hraně děložní",
+      "placenta zasahuje k zevní brance",
+      "placenta zasahuje okrajem k vnitřní brance",
+      "placenta přesahuje častečně přes vnitřní branku"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["placenta zasahuje okrajem k vnitřní brance"],
+    "description": [
+      "Placenta praevia marginalis – svým okrajem zasahuje k vnitřní brance, během porodu (při dilataci děložního hrdla/branky) může přejít v placentu praeviu partialis. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "688. Placenta praevia totalis (Živný) Porodnictví",
+    "answers": [
+      "nevylučuje spontánní porod za zvýšených bezpečnostních opatření",
+      "je kontraindikací SC, pokud je umístěna na přední stěně dolního deložního segmentu",
+      "vylučuje spontánní porod",
+      "vyplňuje celou dělohu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["vylučuje spontánní porod"],
+    "description": [
+      "Placenta praevia centralis (totalis) – zcela překrývá vnitřní branku Krvácení – hlavní a často první příznak; opakovaná krvácení mohou vést až k anemizaci matky.        Potrat – nenastává často.   Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "689. Placenta praevia může být diagnostikována těmito metodami s výjimkou (Živný) Porodnictví",
+    "answers": [
+      "sonografie",
+      "RTG vyšetření",
+      "zevního vyšetření",
+      "termografie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["zevního vyšetření"],
+    "description": [
+      "zevne vyšetření ne muže být diagnostikovana placenta Placental localization by thermography K G Millar     PMID: 5940222 PMCID: PMC1844793 DOI: 10.1136/bmj.1.5503.1571     Free PMC articleFree PMC article"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "690. Který imunoglobulin prochází placentou? (Olomouc)",
+    "answers": ["IgM", "IgG", "+IgE", "+IgA"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["IgG"],
+    "description": [
+      "IgG je nejvýznamnější třída protilátek. Tvoří ¾ všech protilátek v séru, jeho koncentrace je 10 g/l. Vytváří 4 podtřídy (IgG1–4), které se vzájemně liší svými opsonizačními vlastnostmi, vazbou na komplement a časem, po který jsou aktivní. Je to také jediná třída protilátek schopná procházet placentou. Proto jsou u novorozenců stejné hodnoty jako u dospělých. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "690a. Přes placentární bariéru neprostupují imunoglobuliny třídy (Klener)",
+    "answers": ["IgM", "IgG", "+IgE", "+IgA"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["IgM", "+IgE", "+IgA"],
+    "description": [
+      "IgG je nejvýznamnější třída protilátek. Tvoří ¾ všech protilátek v séru, jeho koncentrace je 10 g/l. Vytváří 4 podtřídy (IgG1–4), které se vzájemně liší svými opsonizačními vlastnostmi, vazbou na komplement a časem, po který jsou aktivní. Je to také jediná třída protilátek schopná procházet placentou. Proto jsou u novorozenců stejné hodnoty jako u dospělých. Wikiskripta"
+    ],
+    "img": [""]
+  }
+
+  {
+    "question": "691. Nejpoužívanější metoda při mimoděložním těhotenství.",
+    "answers": [
+      "laparoskopie",
+      "Laparotomie",
+      "resekce trubice",
+      "hysteroskopie",
+      "medikamentózní léčba"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["laparoskopie"],
+    "description": [
+      "Zlatým standardem je laparoskopie .  Moderni gynekologie S. 219"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "692. Mimoděložní těhotenství: 😊 Гинекология",
+    "answers": [
+      "Povoleno až 16 týdnů dělat potrat",
+      "Pouze možné jen chirurgicky",
+      "Je možné chirurgicky i medikamentózní"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Je možné chirurgicky i medikamentózní"],
+    "description": [
+      "Terapie mimoděložního těhotenství může být konzervativní nebo chirurgická. Konzervativní léčba spočívá zejména v celkové intravenózní aplikaci metotrexátu. Metotrexát je analog kyseliny listové, který inhibuje dehydrofolátovou reduktázu, a tím zabraňuje syntéze DNA.  Chirurgická léčba je v našich podmínkách používána nejčastěji. Zlatým standardem je laparoskopie. Moderni gynekologie S. 219"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "693. Co NENÍ rizikovým faktorem pro ICHS (Ischemická choroba srdeční):",
+    "answers": [
+      "kouření",
+      "arteriální hypertenze",
+      "Akutní selhání ledvin",
+      "cukrovka",
+      "obezita"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Akutní selhání ledvin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "694. Rizikové faktory ICHS: 😊 Kardiologie",
+    "answers": [
+      "arteriální hypertenze",
+      "dyslipidémie",
+      "kouření",
+      "cukrovka",
+      "hyperhomocysteinémie",
+      "obezita",
+      "nedostatek pohybu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "arteriální hypertenze",
+      "dyslipidémie",
+      "kouření",
+      "cukrovka",
+      "hyperhomocysteinémie",
+      "obezita",
+      "nedostatek pohybu"
+    ],
+    "description": [
+      "Rizikové faktory Ovlivnitelné: arteriální hypertenze, dyslipidémie, kouření, cukrovka, hyperhomocysteinémie, obezita, nedostatek pohybu. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "695. Etiologie rakoviny děložního čípku: 😊 Гинекология",
+    "answers": ["Lidský papilomavirus (HPV)"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Lidský papilomavirus (HPV)"],
+    "description": [
+      "Vznik karcinomu cervixu je komplexní a vícestupňový proces. Nejdůležitějším etiologickým faktorem je infekce lidským papilomavirem (human papillomavirus – HPV), především vysoce rizikovými typy 16 a 18   Moderni gynekologie S. 337 * Kouření též snižuje funkci imunitního systému a může způsobit poškození DNA buněk děložního čípku. Kuřačky jsou asi více náchylnější ke vzniku rakoviny děložního čípku než nekuřačky2x."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "696. Faktory rizika rakoviny děložního čípku? 😊 Гинекология",
+    "answers": ["obezita", "anovulační cyklus", "inzulinorezistence", "HPV"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["HPV"],
+    "description": [
+      "Vznik karcinomu cervixu je komplexní a vícestupňový proces. Nejdůležitějším etiologickým faktorem je infekce lidským papilomavirem (human papillomavirus – HPV), především vysoce rizikovými typy 16 a 18 Moderni gynekologie S. 337"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "697. Vakcinace (očkování) proti HPV 😊",
+    "answers": [
+      "metapláziích",
+      "zánětech",
+      "hyperpláziích hormonálně závislých orgánů"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["metapláziích", "zánětech"],
+    "description": [
+      "Rizikovým faktorem vznyku HPV je kromě brzkého začátku sexuálního života, počtu partnerů i nepřímo dlouhodobé užívání hormonální antikoncepce, nutriční stav, imunitní stav, kouření, genitální infekce a nosičství mutace BRCA 1 a BRCA Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "698. Co NEpatří k faktorům rizika vzniku rakoviny děložního čípku? 😊 Gynekologie",
+    "answers": ["viry", "inzulinorezistence", "obezita", "anovulační cyklus"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["inzulinorezistence", "obezita", "anovulační cyklus"],
+    "description": [
+      "Praktické repetitorium gynekologie a porodnictví Olga Dubová, Michal Zikán"
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczN7c46i1epGJZks8AiTosnI0v_4UTpGhL0-_OpyjnYs2lwDSbJHc8nLjPkRF0kT77IzkO2ylw-Pm3gjCX5QU6bper-JNAkPs7N8HZKTYbB-2nRE0_FBPuBYq78GhZBarmQPTZvDVUBt_H08gQlsUfZw=w358-h259-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "699. Z jakého epitelu NEJČASTĚJI je tumor čípku děložního: 😊 Gynekologie",
+    "answers": ["dlaždicobuněčný /spinocellularní", "cylindricky"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["dlaždicobuněčný /spinocellularní"],
+    "description": [""],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczMPMhpL-TpxHwuArPQXC5AhesgiSlp8ETFUb0XMOb4HZQqkA1JGUTZWsqbcX3jEuc793tpBL9q0F45hTX2jBEgeiMM_CLEmCjZ1TQ166N7P1zv_wsAfE7LB3QsYkcJm2mYi9hm5OXn3nkmQw08CVeuY=w328-h214-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "700. Octová kyselina při ohledu čípku děložního pomoci kolposkopu: 😊 Gynekologie",
+    "answers": [
+      "stáří metoda",
+      "možna směnit na Lugolův roztok",
+      "můžeme uvidět strukturální změny na děložním čípku pomocí kolposkopie ... rozšířené vyšetření",
+      "rutinní metoda",
+      "používá se při kolonoskopie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "můžeme uvidět strukturální změny na děložním čípku pomocí kolposkopie ... rozšířené vyšetření",
+      "rutinní metoda"
+    ],
+    "description": [
+      "* Rozšířenou kolposkopii pak provádíme po aplikaci 3–5% kyseliny octové. Kyselina octová rozpustí hlen a zvýrazní epiteliální změny. *Moderní hynekologie Aleš Roztočil. Kolposkopie představuje dynamické vyšetření, čím rychleji a výrazněji se zbarví epitel transformační zóny do běla, tím je léze závažnější. Následně se provádí tzv. Schillerova zkouška Lugolovým roztokem, kterým se obarví glykogen obsahující epitelie do hněda a suspektní ložiska se neobarví vůbec (jód negativní areály)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "701. Schillerův test? 😊 Gynekologie",
+    "answers": [
+      "potírání děložního čípku roztokem kyselinou octovou nebo Lugolem"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "potírání děložního čípku roztokem kyselinou octovou nebo Lugolem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "702. Jak často se v České republice provádí cervikální screening *screening děložního čípku? / Screening na karcinom děložního hrdla v ČR? 😊 Gynekologie",
+    "answers": [
+      "1 krát ročně",
+      "1 krát za 2 roky",
+      "1 krát za 3 roky",
+      "V ČR se neprovádí"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["1 krát ročně"],
+    "description": [
+      "Dle vyhlášky MZ ČR č. 3/2010 Sb., kterou se stanoví obsah a časové rozmezí preventivních prohlídek má na tento screening nárok každá žena od 15 let věku v pravidelných 1ročních intervalech."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "703. V terminálním stadiu chronické myeloidní leukémie se může vyvinout (Klener) Inerna",
+    "answers": [
+      "blastická leukémie nebo myelofibróza",
+      "hyperkalcémie",
+      "renální insuficience",
+      "selhání jater"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["blastická leukémie nebo myelofibróza"],
+    "description": [
+      "Klener *Nemoc posléze přechází do maligní fáze (blastický zvrat, blastická transformace, metamorfóza) s klinickými i laboratorními příznaky akutní leukémie. U menší části nemocných dochází k rozvoji blastického zvratu ve formě extramedulárního postižení jaké- hokoliv orgánu (kosti, kůže, CNS). Leukemické tumorózní útvary označujeme jako chloromy nebo myelosarkomy."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "704. Splenektomie u chronické myeloidní leukémie (Klener) Interna",
+    "answers": [
+      "není indikovaná",
+      "je součástí terapie blastické krize",
+      "se provádí před zahájením cytostatické terapie",
+      "je prevencí zvratu do akutní leukémie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["není indikovaná"],
+    "description": [
+      "Indikace hematologické – hypersplenismus, hemolytické anémie, primární thrombocytopenie (selže-li konservativní léčba kortikoidy), lymfomy Indikace traumatické – těžká dilacerace parenchymu, poranění sleziny u polytraumatu, poškození hilových cév, Indikace ostatní – absces sleziny, cysta, součást resekčních výkonů pro karcinomy orgánů GITu, torse sleziny, ileus z tlaku zvětšené sleziny, portální hypertense – proximální splenorenální spoj."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "705. V terapii leukémie z vlasatých buněk je indikována (Klener) Interna",
+    "answers": [
+      "splenektomie",
+      "kombinace TAD",
+      "ozáření kostní dřeně",
+      "terapie Mylecytanem"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["splenektomie"],
+    "description": [
+      "Klener Donedávna byla jedinou účinnou metodou léčby splenektomie, která u většiny nemocných navodila dlouhotrvající remisi a vedla k úpravě cytopenie. Za optimální léčbu se považuje ChTP inhibitorem adenosindeaminázy 2-chlo- rodeoxyadenosinem (cladribin, Leustatin). "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "706. Splenektomie se používá s úspěchem při terapii (Klener) Interna",
+    "answers": [
+      "u hematologických chorob je obsoletní metodou",
+      "m. Waldenström",
+      "vlasaté leukémie",
+      "chronické myeloidní leukémi"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["vlasaté leukémie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "707. Chronická mieloidní leukémie, co Neplatí (apelace – správně) Interna",
+    "answers": [
+      "Mediana přežití je více, než 20 let",
+      "95% pacientů mají Ph chromozom",
+      "Splenomegalie je charakteristickým symptomem, slezina může být umístěna do půlky břicha",
+      "S začátkem použití inhibitorů tyrozinkinaz (zejména imazinib) se prognóza zlepšila"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Mediana přežití je více, než 20 let"],
+    "description": [
+      "BÜCHLER Tomáš. Speciální onkologie. V blastické fázi zůstává prognóza nepříznivá, medián přežití se pohybuje mezi 6 a 24 měsíci."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "708. Co NENÍ charakteristické pro chronickou myeloidní leukémii: 😊Interna",
+    "answers": [
+      "95% žije více než 20 let",
+      "obrovská slezina zabírající pravý bok",
+      "nějaký druh cytostatiků, který je velmi účinný"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["95% žije více než 20 let"],
+    "description": [
+      "V současné době jsou k dispozici tři přípravky do první linie – imatinib, nilotinib a dasatinib, v případě selhání nebo netolerance ještě další dva, bosutinib a ponatinib. Předpokládané 10leté celkové přežití se zvýšilo na 80 až 90%.  Současný stav léčby CML pomocí inhibitorů tyrozinové kinázy. Hana Klamová"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "709. Které je nejčastější nádorové onemocnění v dětském věku? (Olomouc) Pediatrie",
+    "answers": [
+      "CNS nádory",
+      "Wilmsův nádor (nefroblastom)",
+      "ALL *Akutní lymfoblastická leukemie",
+      "neuroblastom"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["ALL *Akutní lymfoblastická leukemie"],
+    "description": [
+      "Pediatrie: Překlad 6. vydání Muntau Ania Carolina. ALL: s maxiemm výskytu 1-5 let, chlapci častěji, celkem 27% dětských malignit (nejčastější malignita dětí vůbec)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "710. Stíny Botkin - Humprecht (stíny lymfocytů, zničená jádra leukemicky pozměněných lymfocytů) 😊 Interna",
+    "answers": ["chronická lymfoidní leukémie"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["chronická lymfoidní leukémie"],
+    "description": [
+      "Patologická fyziologie Pavel Sobotka, Wikiskripta. Gumprechtovy stíny jsou rozpadající se lymfoblasty při chronické lymfatické leukémii. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "711. Hyperurikosurie při konzumaci: Є схожий в Кленері😊 Interna nejednoznačný test",
+    "answers": [
+      "cytostatika",
+      "smyčková diuretika (furosemide)",
+      "nesteroidní antiflogistika",
+      "nesteroidní antirevmatika"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["cytostatika"],
+    "description": [
+      "Praktická nefrologie Teplan Vladimír. Látky, jako jsou probenecid (antiuratika), salicyláty a radiografické kontrastní látky.  Jiří Kladenský Kyselina močová z pohledu nemocí ledvin. Navozují urikosurii rovněžvelké dávky salicylátů, thiazidů (!hydrochlorothiazid není smyčková diuretika), laktátů a vysokých dávek C vitaminu.  Po cytostatikach bude hyperurikémie. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "712. Akutní hyperurikémie se vyskytuje 😊 Interna",
+    "answers": ["při léčbě cytostatiky"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["při léčbě cytostatiky"],
+    "description": [
+      "Farmakologie Martínková Jiřina. U pacientů s hematologickými malignitami bude akutní hyperurikemie při rozpadu buněk během cytostatické léčby leukemií, lymfomů a nádorů."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "713. Co patří k přípravkům antitusika? 😊 Interna",
+    "answers": [
+      "Antitusika kodeinového typu (kodein, etilmorfin, dextrametorfan)",
+      "Antitusika nekodeinová (butamirát, dropropizin)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Antitusika kodeinového typu (kodein, etilmorfin, dextrametorfan)",
+      "Antitusika nekodeinová (butamirát, dropropizin)"
+    ],
+    "description": [
+      "Farmakoterapie vnitřních nemocí Josef Marek. Antitusika nekodeinová ještě: klobutinol, levodropropizin. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "714. Nežádoucí účinky beta-sympatolytika (betablokátorů): 😊 Interna",
+    "answers": [
+      "Bradykardie",
+      "Hypotenze",
+      "Bronchokonstrikce",
+      "Chladné končetiny – nedostatečné prokrvení",
+      "Deprese",
+      "Hyperkalémie",
+      "Prodloužení doby zotavení z hypoglykémie u diabetiků",
+      "Zvýšení koncentrace triacylglycerolů, snížení HDL-lipoproteinů",
+      "Srdeční insuficience kvůli ovlivnění srdečního výdeje"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Bradykardie",
+      "Hypotenze",
+      "Bronchokonstrikce",
+      "Chladné končetiny – nedostatečné prokrvení",
+      "Deprese",
+      "Hyperkalémie",
+      "Prodloužení doby zotavení z hypoglykémie u diabetiků",
+      "Zvýšení koncentrace triacylglycerolů, snížení HDL-lipoproteinů",
+      "Srdeční insuficience kvůli ovlivnění srdečního výdeje"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "715. Základním antidotem při otravě paracetamolem je (Klener) Interna",
+    "answers": ["atropin", "N-acetylcystein", "fyzostigmin", "broncholyzin"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["N-acetylcystein", "broncholyzin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "716. Nežádoucí účinky paracetamolu: Interna",
+    "answers": ["hepatotoxicita"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hepatotoxicita"],
+    "description": ["hepatotoxicita – velmí vzácný nežádoucí účinek."],
+    "img": [""]
+  },
+
+  {
+    "question": "717. K nežádoucím účinkům paracetamolu patří? 😊 Interna",
+    "answers": [
+      "Vzácně Reyův syndrom *bude při Aspirinu (Kyselině acetylsalicylové)",
+      "často/především vyvolává renální insuficience / ledvinové selhaní",
+      "Při trvalém podávání a předávkování jaterní selhaní",
+      "V 30% případů dochází k okultnímu krvácení"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Při trvalém podávání a předávkování jaterní selhaní"],
+    "description": [
+      "Paracetamol zatěžuje játra. Při jeho sníženém odbourávání nebo vylučování, dochází v těle k hromadění jeho toxického metabolitu, který může vést až k jaternímu selhání. Paracetamol není vhodný propacienty s jaterním onemocněním a pacienty s hemolytickou anémií. Opatrnost je na místě u pacientů se sníženou funkcí ledvin."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "718. Do 15 let při teplotě podáváme? 😊 Pediatrie",
+    "answers": [
+      "Paracetamol",
+      "ibuprofen",
+      "Kyselina acetylsalicylová (Reyův syndrom)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Paracetamol", "ibuprofen"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "719. Dávka paracetamolu na horečku: (apelace – správně) Pediatrie",
+    "answers": [
+      "50-60 mg/kg / 24 hod, dělíme na 3-4 dávky",
+      "50-100 mg/kg /24 hod, dělíme na 3-4 dávky",
+      "30 mg/kg/24 hod, dělíme na 3-4 dávky",
+      "75 mg/kg/24 hod",
+      "Jednorázová dávka 15 mg / kg jednou za 24 hodin"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["50-60 mg/kg / 24 hod, dělíme na 3-4 dávky"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "720. Popáleniny II stupně 😊 Pediatrie/Chirurgie",
+    "answers": [
+      "Puchýř",
+      "Bíla spodina",
+      "Necitlivá spodina",
+      "Zarudnutí",
+      "citlivost snižena v st. IIb, III"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Puchýř"],
+    "description": [
+      "Wikiskripta. Popáleniny I st: zarudnutí,erytém, IIa st povrchové puhýř bula, IIb hluboké  IIIst nekróza, IV st zuhelnatění."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "721. Jak vypadá popáleniny druhého stupně? 😊 Pediatrie/Chirurgie",
+    "answers": ["povrchové (IIa; puchýř – bula)"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["povrchové (IIa; puchýř – bula)"],
+    "description": [
+      "Wikiskripta. Popáleniny I st: zarudnutí,erytém, IIa st povrchové puhýř bula, IIb hluboké  IIIst nekróza, IV st zuhelnatění."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "722. Těžká stupeň popáleniny u dětí 2-15 let (apelace – správně) Pediatrie",
+    "answers": ["vice než 10%", "20", "30"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["vice než 10%"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "723. Pro popáleniny III.stupně platí: (Olomouc) Pediatrie",
+    "answers": [
+      "tkáně jsou zuhelnatělé",
+      "je destruována epidermis, dermis i podkoží",
+      "v léčbě je vždy nutná transplantace kůže",
+      "je destruována epidermis a dermis"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "je destruována epidermis, dermis i podkoží",
+      "v léčbě je vždy nutná transplantace kůže"
+    ],
+    "description": [
+      "NOVÁK, Ivan, et al.Intenzivní péče v pediatrii. Jedná se o ireverzibilní poškození epidermis i dermis v celé šíři, vyžadují kožní štěp. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "724. Inhalační popáleninové trauma (Olomouc) Pediatrie",
+    "answers": [
+      "vyžaduje bezprostřední inhalační aplikaci surfaktantu",
+      "je indikována léčba kortikosteroidy",
+      "při rozsahu popáleniny do 5% je dostačující ambulantní léčba",
+      "je indikováno vždy k hospitalizační léčbě na stanici intenzívní péče"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "je indikována léčba kortikosteroidy",
+      "je indikováno vždy k hospitalizační léčbě na stanici intenzívní péče"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "725. Mezi klasické chemoterapeutické postupy při terapii Hodgkinovy choroby patří podávání *Hodgkinův lymfom (Klener) Онкология",
+    "answers": [
+      "busulfanu (Mylecytan)",
+      "kombinace DAT (daunorubicin, cytosin arabinosid, thioguanin)",
+      "kombinace MOPP (mustardnitrogen, Oncovin, prokarbazin, prednizon)",
+      "melphalanu (Alkeran)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "kombinace MOPP (mustardnitrogen, Oncovin, prokarbazin, prednizon)"
+    ],
+    "description": [
+      "Chemoterapie: je hlavní léčebnou metodou.  Zkoušelo se velké množství nejrůznějších chemoterapeutických režimů, nejčastěji kombinace MOPP  (mustargen, oncovin, procarbazin, prednison)  nebo ABVD (adriamycin, bleomycin, vincristin,  dacarbazin). Kombinace ABVD se stále považuje  za nejefektivnější. Pro pokročilá stadia se používají  agresivnější režimy, např. BEACOPP (bleomycin, etoposid, adriamycin, cyclophosphamid, vincristin,  procarbazin, prednison), popř. eskalovaný dvěma Interna Klener"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "726. Úvodní kombinací cytostatik u m. Hodgkin je nejčastěji: (Klener) Онкология",
+    "answers": ["Leukeran + Prednison", "MOPP", "COP", "busulfan"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["MOPP"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "727. Monofázické přípravky kombinované hormonální antikoncepce (kontracepce) mají (Živný) Гинекология",
+    "answers": [
+      "stejnou dávku estrogenu i gestagenu ve všech tabletách",
+      "stejnou dávku estrogenu ve všech tabletách",
+      "stejnou dávku gestagenu ve všech tabletách",
+      "stejnou dávku estrogenu a dvě fáze s různou dávkou gestagenu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "stejnou dávku estrogenu i gestagenu ve všech tabletách"
+    ],
+    "description": [
+      "Podle dávky hormonu v jednotlivých fázích dělíme přípravky kombinované kontracepce na: monofázické (stejná dávka obou hormonů ve všech tabletách), bifázické (stejná dávka estrogenů v obou fázích preparátu, ve druhé fázi je vyšší dávka progestinu), trifázické (dávky progestinu se mění každých 7 dnů, estrogen až na výjimky zůstává ve stejné dávce) a kombifázické (ve druhé fázi preparátu je nižší dávka estrogenu a vyšší dávka progestinu). Trifázické preparáty obsahují nižší celkovou měsíční dávku gestagenu, což může mít příznivější vliv na lipidové spektrum."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "728. Patologický Q kmit na EKG: (apelace – správně) Кардиология",
+    "answers": ["1/3 vlny R nebo více 0,03 s"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["1/3 vlny R nebo více 0,03 s"],
+    "description": [
+      "Ve všech svodech pátráme po Q kmitu. Ten může být normálně přítomen. Ovšem jeho trvání nepřesahuje 0,03 s. Jedinou výjimkou je svod aVR, kde i široké Q není patologické. Q kmit delší než 0,04 jasně poukazuje na jizvu po infarktu myokardu. Podle nálezů v jednotlivých svodech lze určit lokalizaci infarktu."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "729. Rachitis *rachitida (křivice) (Olomouc) Педиатрия",
+    "answers": [
+      "je projev karence (nedostatku) vitamínu D",
+      "je známkou nadbytku vápníku",
+      "bývá zásadně u nerostoucích dystrofiků",
+      "má na RTG obraz pohárkovitých zakončení epifýz"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "je projev karence (nedostatku) vitamínu D",
+      "má na RTG obraz pohárkovitých zakončení epifýz"
+    ],
+    "description": [
+      "Příčinou tohoto druhu rachitidy je nedostatek Ca nebo vitaminu D,  Na RTG snímku nalezneme pohárkovité metafýzy, rozšířené epifyzární chrupavky nebo úhlové deformity kostí[1]. Rentgenový obraz je typický."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "730. Co je charakteristické pro lehkou formu rachitidy? Педиатрия",
+    "answers": [
+      "zvýšení alkalické fosfatázy",
+      "snížení vápníku",
+      "pocení",
+      "špatný spánek",
+      "podrážděnost"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "zvýšení alkalické fosfatázy",
+      "snížení vápníku",
+      "pocení",
+      "špatný spánek",
+      "podrážděnost"
+    ],
+    "description": [
+      "Dítě bývá apatické, spavé, bledé, podrážděné, také má zvětšené bříško[1]. Nedostatečná mineralizace skeletu vede ke snížení odolnosti kostí vůči zatížení Alkalická fosfatáza (ALP) je zvýšená (důsledek kostní přestavby)[2]. Kalcium (Ca) v séru je lehce snížené,nebo normální[2]. Hladina fosfátu (P) v séru je snížena[2]."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "731. Co má dítě při lehké formě rachitidy? Педиатрия",
+    "answers": [
+      "normální kalcium  *nebo ponížení",
+      "pocení",
+      "kostní frakce na ALP (alkalickou fosfatazu)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "normální kalcium  *nebo ponížení",
+      "pocení",
+      "kostní frakce na ALP (alkalickou fosfatazu)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "732. Pro rachitidu z nedostatku vitamínu D je typická analýza Педиатрия",
+    "answers": [
+      "vysoká sérová hladina AP *(alkalické fosfatázy) a normální nebo snížený sérový vápník"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "vysoká sérová hladina AP *(alkalické fosfatázy) a normální nebo snížený sérový vápník"
+    ],
+    "description": [""],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczNMIOxpTnaUzRhSpyxtlW1dtMrtDnb32gPDZVN1O6C3aaxOXcg7FHbN7553DYKL-smUP8RU3s9MUlac8NAdJEF5SjCF1cnWYhirGhH10CjC7ZrERYJuKSI8MzhqfABIci2oFylCqBl0boZGRHQNfXNA=w392-h198-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "733. Pellagra příčina: Терапия",
+    "answers": [
+      "vzniká z nedostatku niacinu (též kyselina nikotinová nebo vitamín B3, nebo ho ještě jmenují РР)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "vzniká z nedostatku niacinu (též kyselina nikotinová nebo vitamín B3, nebo ho ještě jmenují РР)"
+    ],
+    "description": [
+      "Pelagra je onemocnění vznikající z nedostatku niacinu (též kyselina nikotinová nebo vitamin B3) Časné známky deficitu jsou zažívací potíže, svalová slabost a změny kůže. U rozvinuté pelagry je typická dermatitida – symetrické lése zejména na částech těla vystavených světlu, gastrointestinální potíže – diarrhoea se střídá s obstipací a psychické poruchy, které mohou nabýt až formy demence (zmatenost). Proto je pelagra nazývaná nemocí 3 D (v anglosaské literatuře „nemoc 4 D“ – poslední „D“ je death čili smrt) Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "734. Hyperglykémie vede k: (Klener) Эндокринология",
+    "answers": [
+      "osmotické diuréze",
+      "cirkulačnímu selhání",
+      "reabsorpci kalcia v tubulech ledvin",
+      "proteinuria"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["osmotické diuréze"],
+    "description": [
+      "Ztráta vody je způsobena zvýšenou  osmotickou diurézou při glykosurii, což vede  k dehydrataci organismu a k rozvoji celkové únavy a případně slabosti. Klener"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "735. Zástava odchodu plynů a stolice: Interna",
+    "answers": [
+      "téměř u všech NPB",
+      "vyskytuje se jako reflexní zástava u stavů, kdy dochází k dráždění peritonea, u ileu až po ochrnutí kliček (u vysokého ileu dochází k zástavě odchodu poměrně pozdě)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "téměř u všech NPB",
+      "vyskytuje se jako reflexní zástava u stavů, kdy dochází k dráždění peritonea, u ileu až po ochrnutí kliček (u vysokého ileu dochází k zástavě odchodu poměrně pozdě)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "736. Co patří k megakolonu? Гастроэнтерология",
+    "answers": [
+      "Ulcerózní kolitida",
+      "Hirschsprungova nemoc (jako vrozená)  *nebylo",
+      "otrava",
+      "nádor",
+      "difúzní enterokolitida"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Ulcerózní kolitida",
+      "Hirschsprungova nemoc (jako vrozená)  *nebylo"
+    ],
+    "description": [
+      "Kongenitální megakolon – nemoc Hirschsprungova – je způsobena kongenitální absencí ganglio vých buněk jak v submukózním (Meissnerově), tak myenterickém (Auerbachově) plexu. Získané megakolon (sekundární) vzniká z různých příčin: bolestivé anální afekce, nervové choroby (paraplegie, metabolické neuropatie, parkinsonismus), hypothyreóza, abúzus léků Anticholinergika, psychofarmaka, morfinismus). Mimořádně závažné je toxické megakolon jako komplikace střevních zánětů. Poměrně častá je dilatace rekta, popřípadě tračníku u starých osob, u nichž pro ochablost střevního, pánevního a břišního svalstva (senilní involuce), popřípadě v kombinaci s dalšími vlivy (léky, nedostatek tekutin), se stolice obtížně vyprazdňuje, zahušťuje a městná v rektu. Klener"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "737. Syndrom horní duté žíly (SVCS) * Upper vena cava syndrome Терапия",
+    "answers": [
+      "následek omezení toku krve horní dutou žílou. Většinou jde o projev malignity, obvykle nádoru plic. Klinicky se obvykle projevuje jako otok obličeje, krku a horních končetin, často s viditelnou dilatací podkožních žíl. Často je doprovázen i útlakem dalších orgánů mediastina a také může být obvykle doprovázen i dušností, kašlem"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "následek omezení toku krve horní dutou žílou. Většinou jde o projev malignity, obvykle nádoru plic. Klinicky se obvykle projevuje jako otok obličeje, krku a horních končetin, často s viditelnou dilatací podkožních žíl. Často je doprovázen i útlakem dalších orgánů mediastina a také může být obvykle doprovázen i dušností, kašlem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "738. Jaké léky začínáme dávat při diabetes mellitus? Эндокринология",
+    "answers": ["začněte s iACE"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["začněte s iACE"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "739. Indikátory cholestázy / Pro cholestázu je charakteristická zvýšená hladina? Гастроэнтерология",
+    "answers": [
+      "hyperbilerubinémie",
+      "alkalická fosfatáza (ALP) a gama-glutamyltransferáza (GGT)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "hyperbilerubinémie",
+      "alkalická fosfatáza (ALP) a gama-glutamyltransferáza (GGT)"
+    ],
+    "description": [""],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczNGMQrtHv2iiliGgVBq6ppnDzrSOdJWs2xf7cDZ0qLJOq6eJoGDX_zrwIqulSCb6DqTxKSNupZKXVfg3HjWODKuHWbcf4aLO5bP5DPfq2IjPFXc52L9P5IiBQoOR3Pj9rTyvVuG2PpyP4zWsDNIaoJz=w391-h352-s-no-gm?authuser=0"
+    ]
+  },
+  {
+    "question": "739a.  K labolatornimu nalezu cholestazy nepatri",
+    "answers": [
+      "zvýšení ALP",
+      "zvýšení nekonjugovaného bilirubinu",
+      "zvýšení konjugovaného bilirubinu",
+      "zvýšení GMT"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["zvýšení nekonjugovaného bilirubinu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "740. Jak zjistíme přítomnost cholelitiázy před plánovanou cholecystektomii v dnešní době/ novým standardem? Гастроэнтерология",
+    "answers": [
+      "magnetická cholangiopankreatikografie MRCP (jestli je podezření)",
+      "ERCP cholangiografie intravenózní nebo transhepatální *(ale nebylo endoskopické)",
+      "davame si pozor na anamnézu, ultrazvuk žlučníku a žlučových cest, vysokou hladinu ALP",
+      "ultrazvuk"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "magnetická cholangiopankreatikografie MRCP (jestli je podezření)",
+      "davame si pozor na anamnézu, ultrazvuk žlučníku a žlučových cest, vysokou hladinu ALP"
+    ],
+    "description": [
+      "Konkrementy žlučových cest by se měly vždy zvažovat při akutní pankreatitidě, cholangititidě a před cholecystektomií. Citlivost ultrasonografie je zde nedostatečná. Provádí se magneticko-rezonanční cholangiopankreatografie (MRCP), v průběhu cholecystektomie cholangiografie nebo vyšetření ultrazvukovou sondou. Zejména sonografická sonda v průběhu laparoskopie a endoskopická ultrasonografie vykazují v diagnostice choledocholitiázy vysokou sensitivitu i specificitu. Endoskopická retrográdní cholangiopankreatografie (ERCP) již není primární diagnostickou metodou. Diagnostika a léčba cholecystolitiázy prof. MUDr. Julius Špičák, CSc. Klinika hepatogastroenterologie IKEM, Praha"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "741. Chlapec, před tím měl angíny, je tlak 155/85, v moči je krev: Нефрология",
+    "answers": ["Glomerulonefritida"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Glomerulonefritida"],
+    "description": [
+      "Glomerulonefritidy jsou zánětlivá poškození glomerulů. Typickým nálezem je hematurie glomerulárního typu, tendence ke snížené glomerulární filtraci a často výskyt hypertenze. Většina akutních glomerulonefritid vzniká jako sterilní následek infekcí organismu. Z etiologického, klinického i prognostického hlediska nutno odlišovat akutní poststreptokokovou GN od jiných postinfekčních GN. APGN postihuje nejčastěji děti školního věku 5–12 let. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "742. Zlatý standard pro diagnostiku rakoviny jícnu? *nejlepší variant Гастроэнтерология",
+    "answers": [
+      "ezofagoskopie",
+      "manometrie jícnu",
+      "scintigrafie jícnu",
+      "ezofagoskopie",
+      "pH-metrie jícnu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["ezofagoskopie"],
+    "description": [
+      "Diagnostika nádorů jícnu i kardie je endoskopická s biopsií. Ke zjištění rozsahu tumoru a přítomnosti prorůstání a postižení okolních struktur se provádí endoskopická ultrasonografie a výpočetní tomografie. RTG vyšetření s kontrastní látkou ukáže přesné umístění a zúžení lumen jícnu. Klener"
+    ],
+    "img": [""]
+  },{
+    "question": "742a. Základní vyšetřovací metodou při vyšetření jícnu je (Klener)",
+    "answers": [
+      "manometrie jícnu",
+      "scintigrafie jícnu",
+      "ezofagoskopie",
+      "pH-metrie jícnu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["ezofagoskopie"],
+    "description": [
+      "Diagnostika nádorů jícnu i kardie je endoskopická s biopsií. Ke zjištění rozsahu tumoru a přítomnosti prorůstání a postižení okolních struktur se provádí endoskopická ultrasonografie a výpočetní tomografie. RTG vyšetření s kontrastní látkou ukáže přesné umístění a zúžení lumen jícnu. Klener"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "743. Chronická bronchitida je definovaná: Пульмонология",
+    "answers": [
+      "chronický produktivní kašel",
+      "trvající alespoň tři měsíce ve dvou po sobě jdoucích letech",
+      "vyloučeny jiné možné příčiny kašle – plicní i mimoplicní",
+      "obstrukční ventilační porucha"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "chronický produktivní kašel",
+      "trvající alespoň tři měsíce ve dvou po sobě jdoucích letech",
+      "vyloučeny jiné možné příčiny kašle – plicní i mimoplicní",
+      "obstrukční ventilační porucha"
+    ],
+    "description": [
+      "Chronická bronchitida je definovaná jako chronický produktivní kašel trvající alespoň tři měsíce ve dvou po sobě jdoucích letech a zároveň jsou vyloučeny jiné možné příčiny kašle – plicní (bronchiektázie) i mimoplicní (srdeční selhání). Onemocnění je dále charakterizováno obstrukční ventilační poruchou. bChronickou bronchitidu lze považovat za složku chronické obstrukční plicní nemoci (druhou složkou je plicní emfyzém). bChronickou bronchitidu komplikují bronchiektázie, atelektázy a emfyzém. bWikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "744. Patologické dýchací fenomény při bronchospasmu? Пульмонология",
+    "answers": [
+      "stridor",
+      "chropy",
+      "pískoty při výdechu * expirační piskoty",
+      "křeče"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["pískoty při výdechu * expirační piskoty"],
+    "description": [
+      "Při auskultaci je přítomno prodloužené exspirium provázené suchými vedlejšími fenomény(pískoty, vrzoty)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "745. Co nejčastěji vyvolává smrt žen? Гинекология",
+    "answers": [
+      "rakovina prsu …",
+      "rakovina plic …",
+      "Kardiovaskulární choroby, zhoubné nádory a zevní příčiny"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Kardiovaskulární choroby, zhoubné nádory a zevní příčiny"
+    ],
+    "description": [
+      "Nejčastější příčiny smrti v ČR (dle lekce Maliny) Kardiovaskulární choroby Zhoubné nádory u mužů: rakovina tlustého střeva a konečníku; U žen: rakovina prsu, dělohy a plic  Zevní příčiny (otravy a úrazy), situace se prakticky nemění"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "746. Co je pravda pro porušení citlivosti nohou (výpadek citlivosti)? Терапия",
+    "answers": [
+      "V případě diabetu neexistuje citlivost na nohou v místech s největším zatížením"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "V případě diabetu neexistuje citlivost na nohou v místech s největším zatížením"
+    ],
+    "description": [
+      "S diabetickou polyneuropatií dále dochází ke snížení citlivosti k různým poraněním, která se navíc v terénu chronické ischemie špatně hojí. Senzitivní neuropatie snižuje vnímání bolesti"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "747. Od čeho zemře pacient s aterosklerózou dolních končetin? Терапия",
+    "answers": ["od amputace", "od infekce", "od jiného srdečního onemocněni"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["od jiného srdečního onemocněni"],
+    "description": [
+      "Většina nemocných s ICHDK neumírá na toto onemocnění, ale na infarkty myokardu a cévní mozkové pří hody Klener"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "748. Hypersenzitivita postižených částí dolních končetin? Терапия",
+    "answers": [
+      "Trofický vřed v místech s největší kompresí",
+      "Ischemie, ateroskleróza"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Ischemie, ateroskleróza"],
+    "description": [
+      "Trofický vřed v místech s největší kompresí – S diabetickou polyneuropatií dochází ke snížení citlivosti k různým poraněním "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "749. Primární enuréza Педиатрия",
+    "answers": [
+      "Enuréza – pomočování u dítěte, které by již mělo zvládnout kontrolu mikce (3-4 roky života), pokud se dítě pomočí více než jednou za měsíc, až 10% dětí se pomočuje při nástupu do školy, nejčastější je noční enuréza, pomočování pouze ve dne (denní enuréza) vyžaduje vyšší pozornost"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Enuréza – pomočování u dítěte, které by již mělo zvládnout kontrolu mikce (3-4 roky života), pokud se dítě pomočí více než jednou za měsíc, až 10% dětí se pomočuje při nástupu do školy, nejčastější je noční enuréza, pomočování pouze ve dne (denní enuréza) vyžaduje vyšší pozornost"
+    ],
+    "description": [
+      "primární enuréza – dítě nezískalo od narození schopnost kontroly mikce; sekundární enuréza – dítě ovládalo mikci déle než 6 měsíců, ale následně se objevila enuréza inkontinence – pokud se dítě pomočuje v noci i ve dne (asi 20% enuretiků). Nebo: (primární) monosymptomatická (noční) enuréza (80 % případů)[2] – pomočování u dítěte bez další anatomické patologie močových cest a bez anamnézy významné dysfunkce močového měchýře; sekundární enuréza - závažnější organická či funkční porucha.[1] Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "750. Enuréza (Olomouc) Pediatrie",
+    "answers": [
+      "se v 6 letech vyskytuje u 10% dětí",
+      "je bezděčné vyprazdňování moči u dítěte nad 4 roky věku",
+      "bývá téměř vždy spojena s infekcí močových cest",
+      "často vymizí při podávání Adiuretinu (dá se léčit Adiuretinem)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "se v 6 letech vyskytuje u 10% dětí",
+      "je bezděčné vyprazdňování moči u dítěte nad 4 roky věku",
+      "často vymizí při podávání Adiuretinu (dá se léčit Adiuretinem)"
+    ],
+    "description": [
+      "Ze specifických léčebných opatření se prokázaly účinné 3 postupy: 1. analog antidiuretického hormonu (desmopressin – DDAVP); 2. tricyklická antidepresiva (imipramin); 3. použití tzv. alarmů."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "751. Při noční enuréze (Olomouc) Pediatrie",
+    "answers": [
+      "většinu pacientů léčíme alarmem",
+      "snažíme se odstranit možné psychogenní příčiny",
+      "omezíme příjem tekutin ve večerních a nočních hodinách",
+      "vyšetříme pitné a mikční porce, ultrazvuk ledvin, moč chemicky a sedimentace"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "snažíme se odstranit možné psychogenní příčiny",
+      "omezíme příjem tekutin ve večerních a nočních hodinách",
+      "vyšetříme pitné a mikční porce, ultrazvuk ledvin, moč chemicky a sedimentace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "752. Enuréza. Co to je primární noční enuréza? (apelace – správně) Pediatrie",
+    "answers": [
+      "nekontrolované noční pomočení u dětí starších 5 let",
+      "u dětí jakéhokoli věku",
+      "je spojena pouze s infekci močových cest",
+      "časté močení",
+      "kontrolované noční pomočení u děti starších 6 let"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["nekontrolované noční pomočení u dětí starších 5 let"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "753. Mezi příznaky onkologických onemocnění jícnu NEpatří? Онкология",
+    "answers": ["průjem"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["průjem"],
+    "description": [
+      "Nádory jsou obvykle dlouho asymptomatické, projeví se v pozdějším stadiu dysfagií a odynofagií.Projeví se dysfagií, odynofagií, regurgitací, bolestí za hrudní kostí a úbytkem hmotnosti. Klener"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "754. Kalorií: Педиатрия",
+    "answers": [
+      "kojenec 2600-3600 kJ = 520-720 kcal (400-500 kJ/kg nebo 80-100 kcal / kg)",
+      "u novorozence 1400-1700 kJ = 350-425 kcal (400-500 kJ/kg nebo 115 kcal / kg)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "kojenec 2600-3600 kJ = 520-720 kcal (400-500 kJ/kg nebo 80-100 kcal / kg)",
+      "u novorozence 1400-1700 kJ = 350-425 kcal (400-500 kJ/kg nebo 115 kcal / kg)"
+    ],
+    "description": [""],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczMc8qxEvLK35M7SdUYt_AwI-n-4q9aUi9KPlZNaRXHSAzpOLD5VPBRpLT2nfQC7p1gYKkq16QdEL1czgJenRBr1rB54TTnyMILoCjepa3tvTrw2uiyNontbrxhubGZ37H3NErkSwvalawH40Pt9XmcK=w709-h775-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "755. Časná neonatální (novorozenecká) úmrtnost: Педиатрия",
+    "answers": [
+      "Časná novorozenecká úmrtnost reprezentuje úmrtí v průběhu prvních 7 dnů po narození",
+      "první měsíc",
+      "první rok"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Časná novorozenecká úmrtnost reprezentuje úmrtí v průběhu prvních 7 dnů po narození"
+    ],
+    "description": [
+      "Úmrtnost do 1. dne − ve věku 0. dne (24 hodin) (v roce 2016 0,5 ‰[2]) Poporodní úmrtnost − do 3 dnů, tj. ve věku 0–2 ukončených dnů (v roce 2016 0,76 ‰[2]) Novorozenecká úmrtnost − do 28 dnů, tj. ve věku 0-27 ukončených dnů (v roce 2016 1,7 ‰[2]) Časná novorozenecká úmrtnost − novorozenci zemřelí do 7 dnů po porodu (v roce 2016 1,18 ‰[2]) Pozdní novorozenecká úmrtnost − novorozenci zemřelí od 8. do 28. dne po porodu (v roce 2016 0,52 ‰[2]) Ponovorozenecká úmrtnost – od 29 dnů do 1 roku, tj. 28–364 ukončených dnů (v roce 2016 1,1 ‰[2]) Kojenecká úmrtnost − zemřelé děti do 1 roku (dosahuje v České republice dlouhodobě velmi nízkých hodnot − v roce 2016 2,81 ‰[2]) Perinatální úmrtnost − počet plodů mrtvě narozených a zemřelých do 7 dnů po porodu na 1000 narozených dětí (v roce 2016 4,89 ‰[2]) Rektifikovaná perinatální úmrtnost − počet zemřelých plodů nad 1000 g Očištěná perinatální úmrtnost − bez vrozených vývojových vad Mrtvorozenost − vyjadřuje počet mrtvě narozených dětí připadající na 1 000 všech narozených dětí (tj. živě i mrtvě narozených). (v roce 2016 3,7 ‰[2]) Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "756. Kojenecká úmrtnost 😊",
+    "answers": [
+      "Kojenecká úmrtnost je podíl zemřelých dětí do jednoho roku věku"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Kojenecká úmrtnost je podíl zemřelých dětí do jednoho roku věku"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "757. Prevalence alergické rýmy u dětí je nejvyšší: (apelace – správně)",
+    "answers": ["nad 14-17 let (v období dospívání)", "3-7 let"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["nad 14-17 let (v období dospívání)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "758. Příznaky ileu: * neprůchodnost střevní 😊",
+    "answers": [
+      "Bolest břicha (kolikovitá, prudká bolest vznikající z distenze či náhle)",
+      "Zvracení (z počátku vzniká reflexně, později z hromadění obsahu)",
+      "Zástava odchodu plynů a stolice (zácpa a meteorismus)",
+      "Vzedmutí břicha (popisujeme „břicho nad niveau“)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Bolest břicha (kolikovitá, prudká bolest vznikající z distenze či náhle)",
+      "Zvracení (z počátku vzniká reflexně, později z hromadění obsahu)",
+      "Zástava odchodu plynů a stolice (zácpa a meteorismus)",
+      "Vzedmutí břicha (popisujeme „břicho nad niveau“)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "759. Ileus ze strangulace (apelace – správně)",
+    "answers": [
+      "hrozí nekrózou střeva",
+      "Vždy se vyskytuje enteroragie",
+      "vždy příčinou je volvulus",
+      "léčí se pozici těla"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hrozí nekrózou střeva"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "760. Pro paralytický ileus svědčí 😊",
+    "answers": [
+      "frekventní průjmové stolice s příměsí čerstvé krve",
+      "překážková peristaltika",
+      "přítomnost hladinek na prostém snímku břicha a neslyšitelná peristaltika",
+      "nepřítomnost pulsu na femorálních arteriích"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "přítomnost hladinek na prostém snímku břicha a neslyšitelná peristaltika"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "761. Mezi příčiny paralytického ileu NEpatří (Klener)",
+    "answers": [
+      "trombóza mezenteriální artérie",
+      "peritonitida",
+      "předávkování digoxinem",
+      "hypokalémie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["předávkování digoxinem"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "762. Aktivní vedení 3 periodu porodu: 😊",
+    "answers": [
+      "Uterotonika (Ergometrin a metylergometrin)",
+      "Ruční/manuální odstranění placenty"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Uterotonika (Ergometrin a metylergometrin)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "763. Těžká kombinovaná imunodeficience (SCID - Severe Combined Immunodeficiency Disease) 😊",
+    "answers": [
+      "vada imunitní vazby T a B-buněk /absence T i B-lymfocytů",
+      "absence T-lymfocytů",
+      "absence B-lymfocytů"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "vada imunitní vazby T a B-buněk /absence T i B-lymfocytů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "764. Trojitá fraktura, co je zlomené? 😊",
+    "answers": [
+      "Zlomenina mediálního a laterálního kotníku a distální metaepifizy tibii, nebo zadního kraje tibii"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Zlomenina mediálního a laterálního kotníku a distální metaepifizy tibii, nebo zadního kraje tibii"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "765. Dítě má v břiše hmatnou lézi, co je to? / U novorozence palpačně nádor v břiše: 😊",
+    "answers": [
+      "Wilmsův tumor (kojenci) neboli nefroblastom (2-3 roky)",
+      "neuroblastom"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Wilmsův tumor (kojenci) neboli nefroblastom (2-3 roky)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "766. Při jakém onemocnění bývá akutní cor pulmonale 😊",
+    "answers": ["plicní embolie (PE)= embolie plicnice"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["plicní embolie (PE)= embolie plicnice"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "767. Příčinou cor pulmonale NENÍ (Klener)",
+    "answers": [
+      "mitrální insuficience",
+      "asthma bronchiale",
+      "plicní embolie",
+      "hrudní kyfoskolióza"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["mitrální insuficience"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "768. Náhlá bolest bércu, zarudnutí, teplota a zhoršení celkového stavu: 😊",
+    "answers": ["Erysipel (růže)", "Flegmóna", "Flebitida"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Erysipel (růže)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "769. Chlamydia trachomatis, vyberte správné tvrzení: 😊",
+    "answers": [
+      "chlamidie NENÍ pohlavně přenosnou nemoci",
+      "chlamidie je virem",
+      "chlamidie se vyskytují/lokalizují a množí se v pochvě",
+      "chlamidie působí k neplodnosti a neprůchodnost vejcovodů"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "chlamidie působí k neplodnosti a neprůchodnost vejcovodů"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "770. Hyperkapnie způsobuje (Klener)",
+    "answers": [
+      "bradykardii",
+      "tachypnoe",
+      "periodické dýchání",
+      "vazodilataci a zvýšenou permeabilitu mozkových cév"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["vazodilataci a zvýšenou permeabilitu mozkových cév"],
+    "description": [
+      "Vzácné dýchání, vydechuje málo CO2, který se hromadí, respirační acidóza ➡️  hyperkapnie. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "771. Co je pro-drug? 😊",
+    "answers": [
+      "forma léku, která se v metabolických procesech mění sebe lék  / přípravek v neaktivní formě, který v organismu se aktivuje/ mimo organismu není aktivní 2024",
+      "aktivní in vitro"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "forma léku, která se v metabolických procesech mění sebe lék  / přípravek v neaktivní formě, který v organismu se aktivuje/ mimo organismu není aktivní 2024"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "772. Terapie antibiotiky - „Chráněné koagulum”, co to je? (apelace – správně)",
+    "answers": [
+      "prevence infekce",
+      "tromboutvorení",
+      "preventivní protiinfekční opatření, které se provádí před různými operačními zákroky  / + Prevence vzniku infekce v ráně",
+      "ničení mikroorganismů v ráně",
+      "ničení koagulu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "preventivní protiinfekční opatření, které se provádí před různými operačními zákroky  / + Prevence vzniku infekce v ráně"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "773. Dle kriterií WHO preeklampsie:",
+    "answers": ["hypertenze a proteinurie / oligourie, proteinurie, otoky"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "hypertenze a proteinurie / oligourie, proteinurie, otoky"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "774. U těžké preeklampsie dochází (Živný)",
+    "answers": [
+      "k poklesu natrémie",
+      "k hyperkalcémii",
+      "k poklesu plazmatického volumu",
+      "k hyperurikémií"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["k hyperurikémií"],
+    "description": [
+      "Kvůli zhoršené filtrační hyperurikémii. Hypokalcium a mozkový edém způsobí záchvaty."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "775. Pří diagnóze těžké preeklampsie a eklampsie (Živný)",
+    "answers": [
+      "při ohroženi života matky u konzervativně nezvládnutelné preeklampsie ukončujeme těhotenství bez ohledu na životaschopnost plodu  *Kauzální léčbou je ukončení těhotenství.",
+      "nikdy neukončujeme těhotenství před 34. týdnem",
+      "ukončujeme těhotenství jen při dobré životaschopnosti plodu",
+      "je indikováno ukončení těhotenství při záchvatech po 36. týdnu těhotenství,"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "při ohroženi života matky u konzervativně nezvládnutelné preeklampsie ukončujeme těhotenství bez ohledu na životaschopnost plodu  *Kauzální léčbou je ukončení těhotenství."
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "776. Mezi příznaky těžké preeklampsie patří (Živný)",
+    "answers": [
+      "vzestup TK na hodnoty 160/110 a více, proteinurie nad 3 g/1/24 h, vzestup koncentrace kyseliny močové, epigastrická bolest, oligurie",
+      "vzestup TK nad hodnotu 140/90, proteinurie nad 0,3 g/1/24 h, vzestup koncentrace celkové bílkoviny v plazmě, osmotická polyurie",
+      "vzestup TK nad 160/110, proteinurie kolem 0,3 g/1/24 h, polakisurie, perimaleolámí otoky",
+      "vzestup TK nad 180/120, proteinurie nad 0,3g/l/24 h, pokles koncentrace kyseliny močové v séru, bolest hlavy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "vzestup TK na hodnoty 160/110 a více, proteinurie nad 3 g/1/24 h, vzestup koncentrace kyseliny močové, epigastrická bolest, oligurie"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "777. Pro diagnózu preeklampsie má ještě před klinickou manifestací choroby význam (Živný)",
+    "answers": [
+      "stanovení kyseliny močové v séru (nad 320 μmol/l)",
+      "stanovení kreatininu v séru",
+      "stanovení ALT, AST, ALP v séru",
+      "stanovení urey v séru"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["stanovení kyseliny močové v séru (nad 320 μmol/l)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "778. Indikací k zahájení intenzivní antihypertenzivní terapie u preeklampsie a eklampsie je (Živný) Акушерство",
+    "answers": [
+      "zvyšení diastolického krevního tlaku na 110 a více",
+      "pokles diurézy pod 30 ml/hod",
+      "zvýšení systolického tlaku nad 140 kPa",
+      "bolest hlavy se zvýšením TK nad 135/90kPa"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["zvyšení diastolického krevního tlaku na 110 a více"],
+    "description": [
+      "Вěhem těhotenstvi docházi často ke kolisání krevního tlaku a nejsou dostatečné údaje o příznivem účinku antihypertenzní terapie u pacientek s gestační hypertenzi při krevnim tlaku nižšim než 150/100 mmHg . Většina autorů doporučuje nasadit léčbu až při krevnim tlaku nad toutohodnotou.U pacientek s preeklampsiií se rozvoje komplikací, a proto nasazujeme lečbu dřív. Při krevnim tlaku nad 160/100mmHG je indikována léčba vždy, zpravidla  intravenóznímí preparáty.Porodnictvi    Martin Procházka  Radovan Pilka str.64"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "779. Pří preeklampsií je plod ohrožen (Živný) Акушерство",
+    "answers": [
+      "pupečníkovou komplikací",
+      "krvácením do mozku",
+      "hypertrofií",
+      "hypotrofií"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hypotrofií"],
+    "description": [
+      "V současnosti přebírá dominantní postaveni hodnocení dopplerovských parametrů ultrazvukem,zejména při přitomnosti růstové restrikce plodu.Ta je nezřidka důvodem k předčasnému ukončeni těhotenstvi. Porodnictvi    Martin Procházka  Radovan Pilka str.63"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "780. Preeklampsie je název pro (Živný) Акушерство",
+    "answers": [
+      "souhrn všech onemocnění v těhotenství s příznakem hypertenze",
+      "souhrnný název pro rané a pozdní gestózy c) onemocnění jater a ledvin v těhotenství (tzv.",
+      "onemocnění vyskytující se v druhé polovině těhotenství, za porodu a v prvních dnech šestinedělí s příznaky hypertenze, proteinurie a otoky a může vyvrcholit záchvatem křečí"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "onemocnění vyskytující se v druhé polovině těhotenství, za porodu a v prvních dnech šestinedělí s příznaky hypertenze, proteinurie a otoky a může vyvrcholit záchvatem křečí"
+    ],
+    "description": [
+      "Fyzikální nález Systoůický krevní tlak vyšší než 160 mmHg a/nebo diastolický tlak vyšší než 110mmHg  je známkou hypertenze již při prvním měřeni. Otoky dolnich končetin  jsou difuzní a postihují různé partie těla těhotné. Bolesti v oblasti pravého horního kvadrantu pochází z napětí pouzdra jaterniho při edému jaterní tkáně. Jsou tipickou známkou HELLP syndromu.Hyperaktivní reflexy jsou v graviditě bězně přitomnyKlonické křeče se vyskytuji u těžké preeklampsie. Preeklampsieje jednou z nejzávažnejšich komplekaci těhotenstvi. Diagnostiská kritéria jsou hypertenze ( 140/90 mm Hg) a proteinurie. Porodnictvi    Martin Procházka  Radovan Pilka str.61-62"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "781. Pří léčbě těžké preeklampsie nebo eklampsie je na prvním místě léčba (Živný) Акушерство",
+    "answers": [
+      "antikonvulzivní",
+      "Diuretická",
+      "Antihypertenzivní",
+      "Antiedémová"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["antikonvulzivní"],
+    "description": [
+      "Medikace  na prvním  místě antikonvulzivni lečba: MgSO4, diazepam Na druhemu místě antihypertenzivni lečba  labetalol,hydralazine Porodnictvi    Martin Procházka  Radovan Pilka str.66"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "782. Mezi příznaky těžké preeklampsie patří Акушерство",
+    "answers": [
+      "epigastrická bolest",
+      "oligurie",
+      "poruchy vízu",
+      "vzestup TK na 160/100",
+      "edemy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "epigastrická bolest",
+      "oligurie",
+      "poruchy vízu",
+      "edemy"
+    ],
+    "description": [
+      "Systoůický krevní tlak vyšší než 160 mmHg a/nebo diastolický tlak vyšší než 110mmHg  je známkou hypertenze již při prvním měřeni. Otoky dolnich končetin  jsou difuzní a postihují různé partie těla těhotné. Bolesti v oblasti pravého horního kvadrantu pochází z napětí pouzdra jaterniho při edému jaterní tkáně. Jsou tipickou známkou HELLP syndromu.Hyperaktivní reflexy jsou v graviditě bězně přitomnyKlonické křeče se vyskytuji u těžké preeklampsie. Preeklampsieje jednou z nejzávažnejšich komplekaci těhotenstvi. Diagnostiská kritéria jsou hypertenze ( 140/90 mm Hg) a proteinurie. Taky symptomy : poruchy vizu- typické jiskřeni,skotomy tzn Porodnictvi    Martin Procházka  Radovan Pilka str.61-62"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "783. Mezi příznaky těžké preeklampsie patří (Živný) Акушерство",
+    "answers": [
+      "vzestup TK na 160/110 a více ,proteinurie nad 3g/l/24 hod , vzestup koncentrace kyseliny močové , epigastrická bolest , oligurie",
+      "vzestup TK na 140/90 a více ,proteinurie nad 0.3g/l/24 hod , vzestup koncentrace celkové bílkoviny v plazmě, osmotická polyurie",
+      "vzestup TK na 160/110 a více ,proteinurie nad 0.3g/l/24 hod , polakisurie, perimaleolární otoky",
+      "vzestup TK na 180/120 a více ,proteinurie nad 0.3g/l/24 hod , vpokles koncentrace kyseliny močové v seru, bolesti hlavy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "vzestup TK na 160/110 a více ,proteinurie nad 3g/l/24 hod , vzestup koncentrace kyseliny močové , epigastrická bolest , oligurie"
+    ],
+    "description": [
+      "Systoůický krevní tlak vyšší než 160 mmHg a/nebo diastolický tlak vyšší než 110mmHg  je známkou hypertenze již při prvním měřeni. Otoky dolnich končetin  jsou difuzní a postihují různé partie těla těhotné. Bolesti v oblasti pravého horního kvadrantu pochází z napětí pouzdra jaterniho při edému jaterní tkáně. Jsou tipickou známkou HELLP syndromu V biochemické analýze krve nás zajímá předevšim hodnota kyseliny močové (u preeklampsie bývá zvýšena nad 320 mol/l) Při orientačni proteinurii nad l + je nutný sběr moči za 24 hodin. Hodnota kvantitativní proteinurie nad 300mg/den  Porodnictvi    Martin Procházka  Radovan Pilka str.62-63"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "784. Zvýšený výskyt preeklampsie můžeme očekávat (Živný) Акушерство",
+    "answers": [
+      "pří hydropsu plodu  * (hydrops fetalis)",
+      "u kuřaček",
+      "u multipar",
+      "u žen s interrupcí v anamnéze"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["pří hydropsu plodu  * (hydrops fetalis)"],
+    "description": [
+      "Hydrops plodu vzniká na základě generalizovaného edému měkkých tkání a akumulace tekutin v jeho serózních dutinách. Někdy je také definován jako abnormální nahromadění tekutiny ve dvou a více kompartmentech plodu. Může tedy zahrnovat ascites, pleurální výpotek, perikardiální výpotek a edém kůže. Současně se může vyskytovat také polyhydramnion a edém placenty. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "785. Zvýšený výskyt preeklampsie NEočekaváme u (Živný) Акушерство",
+    "answers": [
+      "DM v těhotenství",
+      "vicečetného těhotenství",
+      "placenta praevia",
+      "mola hydatidosa"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["placenta praevia"],
+    "description": [
+      "Rizikové faktory preeklampsie jsou primiparita, vícečetné těhotenství, nízký socioekonomický status těhotné, výskyt preeklampsie v rodině, chronická renální onemocnění, hypertenze, preeklampsie v minulé graviditě, DM, mola hydatidosa, obezita a avitaminózy. Wikiskripta Preeklampsie asociována s abruptio placentae Porodnictvi    Martin Procházka  Radovan Pilka str.62 "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "786. Do obrazu preeklampsie NEpatří: (Živný) Акушерство",
+    "answers": [
+      "hemokoncentrace",
+      "generalizované edémy",
+      "vzestup diastolického TK",
+      "tonicko-klonické křeče"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["tonicko-klonické křeče"],
+    "description": [
+      "Tonicko-klonické (kombinace obou předchozích, typické pro epileptické záchvaty typu grand mal)  Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "787. Pří léčbě preeklampsie je možné použit (Živný) Акушерство",
+    "answers": [
+      "B-blokátory",
+      "alfa-metyldopu",
+      "hydrazinoftalaziny",
+      "blokátory Ca-kanálu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "B-blokátory",
+      "alfa-metyldopu",
+      "hydrazinoftalaziny",
+      "blokátory Ca-kanálu"
+    ],
+    "description": [
+      "Léky yživané při terapii hzpertenze v graviditě: Methyldopa: centrálně působící agens,poyživané jako perorální lék první volby Beta blokatory:peroralné preparáty s relativně rychlým nástupem účinku_často ve využivaji v dvojkombinaci s methyldopou Blokátory kalciového kanálu: léky druhé volby_jsou potencialné pro  plod diky možným náhlým hzpotenzim Diuretika: negodná v těhotenství_protože významně snižují uteroplacentární perfuzi Labetalol:kombinovaný alfa-betablokátor, v ČR neni perorální preparát,intravenózní forma e lékem volby Hydralazin: intravenozní forma léku užívana v terapií těžkých forem hypertenze pri preeklampsii a eklampsii,alternativa k labetalolu. Nitroprussid sodný: intravenozni forma je lékem druhé volby na jednotkách intenzivní péče Porodnictvi    Martin Procházka  Radovan Pilka str.64"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "788. Pří léčbě těžké preeklampsie je ke snížení TK indikováno podávání, KROMĚ (Živný) Акушерство",
+    "answers": [
+      "hydrazinoftalazinům",
+      "metyldopu",
+      "B-blokátorů",
+      "deprasolinu",
+      "fanothiazin"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["fanothiazin"],
+    "description": [
+      "Antihypertenziva podáváme při diastole nad 95, tlak snižujeme pomalu (hrozí hypoxie plodu). Lékem první volby je metyldopa, dále lze použít betablokátory (Vasokardin), blokátory kalciového kanálu (Cordipin). V akutních stavech podáváme Dihydralazin-Nepresol (klesá cévní rezistence). Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "789. Kritéria preeklampsie 😊 *lehká forma Акушерство",
+    "answers": ["ТК 140/90", "Zrakové postižení", "Oligurie", "Proteinurie"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "ТК 140/90",
+      "Zrakové postižení",
+      "Oligurie",
+      "Proteinurie"
+    ],
+    "description": [
+      "Zvýšení krevního tlaku nad 140/90 a více (2× změřeno), případně pokud je vzestup oproti předchozí kontrole o 30 (systola) nebo 15 (diastola), proteinurie , zestup jaterních testů, průkazu trombocytopenie a IUGR. Při těžké preeklampsii (TK nad 160/110, proteinurie nad 5 g/den, oligurie, zrakové poruchy, iniciální stadia plicního edému) zvažujeme ukončení těhotenství. Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "790. Superponovanou gestózou obvykle NEonemocní ženy trpící (Živný)",
+    "answers": [
+      "chronickou hypertenzí",
+      "chronickou pyelonefritidou",
+      "gestačním DM",
+      "chronickou glomerulonefritidou"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["gestačním DM"],
+    "description": [
+      "Rizikové faktory preeklampsie jsou primiparita, vícečetné těhotenství, nízký socioekonomický status těhotné, výskyt preeklampsie v rodině, chronická renální onemocnění, hypertenze, preeklampsie v minulé graviditě, DM, mola hydatidosa, obezita a avitaminózy.Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "791. Kritériem diagnózy hypertenze v těhotenství je, když: (Živný) Акушерство",
+    "answers": [
+      "krevní tlak je 140/90 a víc",
+      "krevní tlak systolický stoupne o 20 kPa",
+      "krevní tlak diastolický stoupne o více než 20 kPa",
+      "krevní tlak je vyšší než 150/95"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["krevní tlak je 140/90 a víc"],
+    "description": [
+      "Diagnostiská kritéria jsou hypertenze ( 140/90 mm Hg) a proteinurie. Porodnictvi    Martin Procházka  Radovan Pilka str.62"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "792. Ztráty proteinů močí u zdravé těhotné ženy jsou: (Živný) Акушерство",
+    "answers": ["do 0,3 mg/24hod", "do 3,0g/24 h", "do l,0g/l", "do 0,1 g/1"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["do 0,3 mg/24hod"],
+    "description": [
+      "Při orientačni proteinurii nad l + je nutný sběr moči za 24 hodin. Hodnota kvantitativní proteinurie nad 300mg/den ukazue preeklampsie. Porodnictvi    Martin Procházka  Radovan Pilka str.62"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "793. Za patologickou proteinurii se v těhotenství považuje 😊 Акушерство",
+    "answers": ["0,3 g/l za 24 hod a více"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["0,3 g/l za 24 hod a více"],
+    "description": [
+      "Při orientačni proteinurii nad l + je nutný sběr moči za 24 hodin. Hodnota kvantitativní proteinurie nad 300mg/den ukazue preeklampsie.Porodnictvi    Martin Procházka  Radovan Pilka str.62"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "794. Přechodná – tranzitorní – hypertenze v těhotenství (Živný)",
+    "answers": [
+      "pro benigní průběh pro matku i plod není mezi pozdní gestózou řazena",
+      "je vždy spojena s vysokým nebezpečím pro matku i plod",
+      "je považována za monosymptomatickou gestózu",
+      "přechází po porodu v chronickou hypertenzi"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "pro benigní průběh pro matku i plod není mezi pozdní gestózou řazena"
+    ],
+    "description": [
+      "Gestační hypertenze je onemocnění typícky vynikajici až druhé polovině těhotenství,tedy po 20.týdnu gestace.Je charakterizována hypertenzí bez proteinurie, s úpravou krevního tlaku bezprostredně po porodu.Až u jedně třetiny žen s gestační hypertenzi se druhotně rozvine i  proteinurie a vznikne tak preeklampsie. Etiopatogeneze vzniku gestační hypertenze není známá, často se edná o fyziologickou kompenzační reakci matky v posledních týdnech tčhotenství. Porodnictvi    Martin Procházka  Radovan Pilka str.62"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "795. Pro použití diuretik v těhotenství platí (Živný) Акушерство",
+    "answers": [
+      "snižuje prokrvení placenty",
+      "patří mezi antihypertenziva používaná běžně při léčbě preeklampsie",
+      "u těhotných s esenciální hypertenzí léčenou diuretiky přicházíme raději na jinou antihypertenzivní terapii",
+      "všechny odpovědi jsou správné"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "snižuje prokrvení placenty",
+      "u těhotných s esenciální hypertenzí léčenou diuretiky přicházíme raději na jinou antihypertenzivní terapii"
+    ],
+    "description": [
+      "Diuretika: negodná v těhotenství,protože významně snižují uteroplacentární perfuzi Porodnictvi    Martin Procházka  Radovan Pilka str.64"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "796. Pro prevenci kardiovaskulárních chorob se zvýšeným cholesterolem a lipidy předepisujeme: 😊 Терапия",
+    "answers": [
+      "statiny (pravastatin, lovastatin, fluvastatin, simvastatin, atorvastatin, rosuvastatin)",
+      "niacin, kyselina nikotinová"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "statiny (pravastatin, lovastatin, fluvastatin, simvastatin, atorvastatin, rosuvastatin)"
+    ],
+    "description": [
+      "Hlavní indikací léčby statiny je léčba hypercholesterolémie[1], dále pak dosažení cílových hodnot LDL cholesterolu u rizikových pacientů s normocholesterolémií. Uplatňují se v terapii familiární hypercholesterolémie typu Iia Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "797. Hrozba ukončení těhotenství v 1. trimestru, klinika: (apelace – správně)",
+    "answers": ["bolest hlavy", "krvácení", "něco s fetálním močovým měchýřem"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["krvácení"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "798. Tažnost cervikálního hlenu je maximální: (apelace – správně) + (Živný)",
+    "answers": [
+      "folikulární fáze",
+      "časná luteinizace",
+      "pozdní luteinizace - nejhustější viskozita",
+      "před ovulací / v předovulační fázi"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["před ovulací / v předovulační fázi"],
+    "description": [
+      "Cervikální hlen je tvořen mukoidním gelem a cervikální plazmou. V průběhu cyklu se jeho vlastnosti mění, co má význam pro průnik spermií. V období proliferační fáze se pod vlivem estrogenů množství a tažnost hlenu zvyšuje. V období ovulace je hlenu nejvíce, má nízkou viskozitu, alkalické pH, výraznou tažnost (až 10–15 cm) a obsahuje nejméně leukocytů. Po zaschnutí na sklíčku pozorujeme výraznou arborizaci. Zevní branka děložní je v tomto období rozšířená, okrouhlá a vytéká z ní hojný hlen.    Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "799. Hodnocení cervikálního faktoru sterility. Cervikální hlen je maximálně transparentní v době (Živný) Гинекология",
+    "answers": [
+      "ovulace",
+      "pozdní luteální fáze",
+      "časné folikulární fáze",
+      "časné luteální fáze"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["ovulace"],
+    "description": [
+      "Cervikální hlen je tvořen mukoidním gelem a cervikální plazmou. V průběhu cyklu se jeho vlastnosti mění, co má význam pro průnik spermií. V období proliferační fáze se pod vlivem estrogenů množství a tažnost hlenu zvyšuje. V období ovulace je hlenu nejvíce, má nízkou viskozitu, alkalické pH, výraznou tažnost (až 10–15 cm) a obsahuje nejméně leukocytů. Po zaschnutí na sklíčku pozorujeme výraznou arborizaci. Zevní branka děložní je v tomto období rozšířená, okrouhlá a vytéká z ní hojný hlen.    Wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "800. Hodnocení cervikálního faktoru sterility. Vyšetření cervikálního hlenu. Jeho viskozita je nejnižší (Živný) Гинекология",
+    "answers": [
+      "časné luteální fázi",
+      "v době ovulace",
+      "v pozdní luteální fázi",
+      "v časné folikulární fázi"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["v době ovulace"],
+    "description": [
+      "Cervikální hlen je tvořen mukoidním gelem a cervikální plazmou. V průběhu cyklu se jeho vlastnosti mění, co má význam pro průnik spermií. V období proliferační fáze se pod vlivem estrogenů množství a tažnost hlenu zvyšuje. V období ovulace je hlenu nejvíce, má nízkou viskozitu, alkalické pH, výraznou tažnost (až 10–15 cm) a obsahuje nejméně leukocytů. Po zaschnutí na sklíčku pozorujeme výraznou arborizaci. Zevní branka děložní je v tomto období rozšířená, okrouhlá a vytéká z ní hojný hlen.    Wikiskripta"
+    ],
+    "img": [""]
   }
 ]
