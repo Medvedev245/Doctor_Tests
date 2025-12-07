@@ -16498,5 +16498,1569 @@
     ],
     "description": [""],
     "img": [""]
+  },
+
+  {
+    "question": "1001. Nejúspěšnější terapie bronchogenního karcinomu je (Klener) терапія",
+    "answers": [
+      "aktinoterapie",
+      "resekční terapie",
+      "imunoterapie",
+      "chemoterapie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["resekční terapie", "chemoterapie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1002. Paraneoplastický Cushingův syndrom u malobuněčného bronchogenního karcinomu se může projevovat (Klener) терапія",
+    "answers": [
+      "hyperkalémií",
+      "metabolickou acidózou kombinovanou s respirační alkalózou",
+      "metabolickou alkalózou",
+      "kombinací respirační a metabolické acidózy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["metabolickou alkalózou"],
+    "description": [
+      "Hypokalemic alkalosis and hyperglycemia are usually present"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1003. Léky první linie pro léčbu karcinomu vaječníků гінекологія",
+    "answers": [
+      "karboplatina a paklitaxel – derivát platiny spolu citostatikem"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "karboplatina a paklitaxel – derivát platiny spolu citostatikem"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1004. Nejčastěji používanou kombinací cytostatik při terapii karcinomu ovaria je: (Živný)",
+    "answers": [
+      "metotrexát a bleomycin",
+      "aktinomycin D a 5-fluoruracil",
+      "paklitaxel a karboplatina",
+      "ifosfamid a cyklofosfamid"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["paklitaxel a karboplatina"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1005. pH vaginy 😊гінекологія",
+    "answers": ["kolem 4,2", "kyselé"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["kolem 4,2", "kyselé"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1006. Za normálních podmínek je prostředí v pochvě 😊гінекологія",
+    "answers": ["kyselé", "alkalické", "neutrální"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["kyselé"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1007. Hyperplázie endometria, co to je? 😊гінекологія",
+    "answers": [
+      "zvětšení počtu žlázek endometria, které může a nemusí obsahovat určité atypie u žen v perimenopauze a postmenopauze"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "zvětšení počtu žlázek endometria, které může a nemusí obsahovat určité atypie u žen v perimenopauze a postmenopauze"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1008. Co Nebude přítomné při neuroinfekci? 😊терапія",
+    "answers": [
+      "bolesti břicha",
+      "petechie",
+      "bolesti hlavy",
+      "bradykardie",
+      "ztuhlost krku",
+      "fotofobie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["bolesti břicha"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1009. Sjögrenův syndrom, co to je? 😊терапія",
+    "answers": [
+      "difúzní, chronický zánět s destrukcí exokrinních žláz (slinné, slzné, případně exokrinní žlázy pankreatu)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "difúzní, chronický zánět s destrukcí exokrinních žláz (slinné, slzné, případně exokrinní žlázy pankreatu)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1010. Suché očí a usta jsou typické pro? 😊терапія",
+    "answers": ["Sjögrenův syndrom"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Sjögrenův syndrom"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1011. Sjögrenův syndrom často má projevy 😊терапія",
+    "answers": ["autoimunitní onemocnění exokrinních žláz"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["autoimunitní onemocnění exokrinních žláz"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1012. Hermafroditismus verus (ovotestikularní), co to je? ембріологія",
+    "answers": [
+      "Přítomnost ovariální i testikulární tkáně u jedince s obojetným genitálem (různé kombinace ovarium, testes, ovotestes); musí to byt histologicky potvrzeno",
+      "přítomnost obou zevních genitálií u jednoho jedince",
+      "přítomnost ovaria i testes u jednoho jedince",
+      "přítomnost ovotestis i genitálií",
+      "žádná odpověď není správná"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Přítomnost ovariální i testikulární tkáně u jedince s obojetným genitálem (různé kombinace ovarium, testes, ovotestes); musí to byt histologicky potvrzeno",
+      "přítomnost ovaria i testes u jednoho jedince"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1013. Hermafroditismus verus 😊ембріологія",
+    "answers": [
+      "lze diagnostovat pouze na základě histologického ověření nalezu obou typu gonad",
+      "Je častěji poruchou než pseudohermahroditizmy",
+      "se nikdy nespojuje s karyotypem mozaiky",
+      "je stav kdy jsou u téhož jedince současně vytvořeny oba typy gonad (varlata a vaječníky)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "lze diagnostovat pouze na základě histologického ověření nalezu obou typu gonad",
+      "je stav kdy jsou u téhož jedince současně vytvořeny oba typy gonad (varlata a vaječníky)"
+    ],
+    "description": [
+      "Diagnostics: Clinical presentation, Chromosomal and genetic testing, Biopsy of the gonads shows both testicular and ovarian tissue"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1014. Varicella (plané neštovice) (Olomouc) педіатрія",
+    "answers": [
+      "od dubna 2005 pravidelně očkujeme",
+      "ma velmi krátkou inkubační dobu",
+      "způsobuje je herpes simplex virus (HHV-1)",
+      "ma vysokou infekciozitu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["ma vysokou infekciozitu"],
+    "description": [
+      "V České republice byla registrována očkovací látka Varilrix firmy GlaxoSmithKline v roce 2002 a o rok později začala být běžně dostupná na našem trhu  Původcem je virus varicella-zoster (HHV-3) z čeledi Herpesviridae incubační doba trvá 6–23 dní  V České republice se pravidelné očkování v současné době týká těchto nemocí (vyhláška 299/2010 Sb.): záškrt (diftérie), tetanus, dávivý kašel (pertusse), přenosná dětská obrna (poliomyelitida), spalničky (morbilli), zarděnky (rubeola), příušnice (parotitis epidemica), virová hepatitida B"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1015. Kdy se přestalo očkovat proti pravým neštovicím? 😊 педіатрія",
+    "answers": ["v roce 1980"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["v roce 1980"],
+    "description": [
+      "Proti pravým neštovicím se v Československu přestalo očkovat v roce 1980"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1016. Varicella (Plané neštovice) 😊педіатрія",
+    "answers": ["léčíme symptomaticky, očkování"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["léčíme symptomaticky, očkování"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1017. Očkování proti zarděnkám (rubeola) педіатрія",
+    "answers": [
+      "z 1980",
+      "MMR vakcína, která obsahuje oslabené viry spalniček, příušnic a zarděnek (measles, mumps, rubella)",
+      "je zcela benigní onemocnění u všech pacientů",
+      "v graviditě může způsobit poškození plodu",
+      "je vzácné onemocnění, očkuje se proti ní",
+      "je v současnosti nejčastější exantémové onemocnění dětského věku"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "z 1980",
+      "MMR vakcína, která obsahuje oslabené viry spalniček, příušnic a zarděnek (measles, mumps, rubella)",
+      "v graviditě může způsobit poškození plodu",
+      "je vzácné onemocnění, očkuje se proti ní"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1018. Zarděnky (rubeola) 😊педіатрія",
+    "answers": ["léčíme symptomaticky, MMR vakcína"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["léčíme symptomaticky, MMR vakcína"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1019. Pertuse (černý nebo také dávivý kašel) 😊педіатрія",
+    "answers": [
+      "makrolidy, očkování (Infanrix, Hexacima) (Bordetella pertussis)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "makrolidy, očkování (Infanrix, Hexacima) (Bordetella pertussis)"
+    ],
+    "description": [
+      "Makrolidy jsou bakteriostatická antibiotika, na některé kmeny působící i baktericidně. Patří mezi antibiotika středně širokého spektra"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1020. Diftérie (záškrt) 😊терапія",
+    "answers": [
+      "antidifterický imunoglobulin (antitoxická protilátka), Vakcína Boostrix (Corynebacterium diphtheria)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "antidifterický imunoglobulin (antitoxická protilátka), Vakcína Boostrix (Corynebacterium diphtheria)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1021. Spalničky (measles, morbilli) 😊педіатрія",
+    "answers": ["symptomatická léčba; vakcína MMR"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["symptomatická léčba; vakcína MMR"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1022. Spála (šarlatová horečka) * Scarlet fever 😊 Педиатрия",
+    "answers": [
+      "peniciliny / makrolidy  *(beta-hemolytický streptokok skupiny A)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "peniciliny / makrolidy  *(beta-hemolytický streptokok skupiny A)"
+    ],
+    "description": [
+      "při výskytu se provádí u kontaktů výtěr mandlí → při pozitivním nálezu streptokoka A léčba penicilinem "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1023. Co patři do perorální antikoagulanci? (apelace – správně) Фармакология",
+    "answers": [
+      "warfarin",
+      "Klopidogrel *(antiagregant)",
+      "РАМВА * (prokoagulant)",
+      "heparin"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["warfarin"],
+    "description": [
+      "warfarin − lék preferovaný u dlouhodobé léčby trombofilních stavů u dispenzarizovaných pacientů, nevýhodou je několikadenní interval navození terapeutické hladiny (4–7 dní). Doporučuje se tedy zahájení léčby warfarinem kombinovat s podáváním nízkomolekulárních heparinů. Postupně se zvyšuje dávka warfarinu a naopak snižuje dávka heparinu, až se nakonec úplně vysadí − na základě dosaženého INR, které by mělo být 2–3, Wikiskripta Významný je také správný převod nemocného z heparinu, kterým se většinou v léčbě začíná, na účinnou léčbu warfarinem: • heparin + warfarin (1. den: 5–10mg, 2. den: 5–7,5 mg, 3.den: 5 mg, 4.den: dávka dle INR a heparin ex) • warfarin – 1.–2. týden kontrola nejméně 2 ×, 3.–6. týden – kontrola nejméně 1 × a dále kontrola 1 × za 2–4 týdny.  PERORÁLNÍ ANTIKOAGULAČNÍ LÉČBA prof. MUDr. Miroslav Penka, CSc. Oddělení klinické hematologie FN Brno"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1024. Perorální antikoagulancia 😊 Фармакология",
+    "answers": [
+      "warfarin (možné další PLA – dabigatran, rivaroxaban, apixaban, edoxaban)",
+      "klopidogrel (antiagregační)",
+      "PAMBA (inhibitor fibrinolizy)",
+      "Brilinta (ticagrelor) *(antiagregační)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "warfarin (možné další PLA – dabigatran, rivaroxaban, apixaban, edoxaban)"
+    ],
+    "description": [
+      "Významný je také správný převod nemocného z heparinu, kterým se většinou v léčbě začíná, na účinnou léčbu warfarinem: • heparin + warfarin (1. den: 5–10mg, 2. den: 5–7,5 mg, 3.den: 5 mg, 4.den: dávka dle INR a heparin ex) • warfarin – 1.–2. týden kontrola nejméně 2 ×, 3.–6. týden – kontrola nejméně 1 × a dále kontrola 1 × za 2–4 týdny.  V posledním desetiletí došlo ve vývoji antikoagulační léčby k zásadnímu posunu, a to zavedením tzv. nových perorálních antikoagulancií (new oral anticoagulants – NOAC dabigatran, rivaroxaban, apixaban  ) do klinické praxe."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1025. Silybum marianum fruits, proč používáme? * (Ostropestřec mariánský)😊 Фармакология",
+    "answers": [
+      "zlepšuje tvorbu a vylučování žluči, má hepatoprotektivní účinek"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "zlepšuje tvorbu a vylučování žluči, má hepatoprotektivní účinek"
+    ],
+    "description": [
+      "Používají se jako prevence před ztučněním jater a při zdravotních potížích vzniklých následkem zánětu jater. V homeopatii se předepisuje při stejných neduzích a vedle toho ještě na zlepšení funkce žlučníku, proti žlučovým kamenům a při depresích."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1026. Silybum marianym-Ostropestřec mariánský: (apelace – správně) Фармакология",
+    "answers": ["hepatoprotektivný efekt"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hepatoprotektivný efekt"],
+    "description": [
+      "Ostropestřec tradičně pomáhá posilovat játra, podporuje účinnou detoxikaci a normalizuje jaterní funkce. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1027. Hysteroskopie. Co můžeme pomoci ni řešit? Гинекология",
+    "answers": [
+      "Myom, polyp, synechie (adheze), adenomyóza, antikoncepce",
+      "Neprovádí se při endometrióze",
+      "Myom, polyp, septa a patologie trub",
+      "myom, synechie, polyp, problémy ve vejcovodech"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Myom, polyp, synechie (adheze), adenomyóza, antikoncepce",
+      "Neprovádí se při endometrióze"
+    ],
+    "description": [
+      "Indikace hysteroskopií za hospitalizace dle Holuba, Kužela dělíme na: Abnormální děložní krvácení. Abnormální ultrazvukový obraz děložní dutiny. Sekundární dysmenorea. Infertilita a sterilita. Lokalizace a extrakce nitroděložního tělíska. Kontrola po operacích dělohy. Kontrola po hysteroskopické operaci. Rezidua po potratu. Hysteroskopická sterilizace"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1028. K indikacím hysteroskopie NEpatří (Živný) Гинекология",
+    "answers": [
+      "podezření na vývojové anomálie",
+      "podezření na endometriózu",
+      "podezření na intrauterinní adhezie (synechie)",
+      "podezření na submukózní myomy a polypy"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["podezření na endometriózu"],
+    "description": [
+      "Indikace hysteroskopických operačních výkonů dle Kužela dělíme na:  Resekce intrauterinních polypů a myomů. Rozrušení intrauterinních adhezí. Transcervikální resekce děložního septa. Odstranění intrauterinních cizích těles. Cílená biopsie endometria.  Ablace endometria"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1029. Při hysteroskopii NENÍ možné operačně odstranit (Živný) Гинекология",
+    "answers": [
+      "submukózní myom",
+      "subserózní myom",
+      "intrauterinní synechie",
+      "endometriální polyp"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["subserózní myom"],
+    "description": [
+      "Учитывая, что гистероскопия проводится в полости матки, то удаление субсерозного миоматозного узла  с помощью гистероскопии невозможно"
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczMoFccDwB_zncML9KWx9NHk123cKdjxiWIpBHV5Q720LJk8wqiCZWVgGnP38oI0hyAoCMBHY7TGtPn1MgxJhU_eHxVfUZ-hUC_Zs_hrhkDaaXT_6PpExBky6aR_4nr76gzvZ7xgJpLMWc4bGfk-beWY=w313-h194-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "1030. Při diagnostické hysteroskopii se jako distenční mědium používá (Živný) Гинекология",
+    "answers": [
+      "metylenová modř",
+      "rentgenová kontrastní látka",
+      "bezbarvá tekutina nebo plyn",
+      "cévkovaná moč"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["bezbarvá tekutina nebo plyn"],
+    "description": [
+      "Pro dobrou přehlednost dutiny děložní je nutné naplnění a distenze speciálními médii, které se aplikují do dutiny děložní pod limitovaným tlakem. Mezi tato média, která se používají, patří tekutá (fyziologický roztok, 5% glukoza, hyskon, glykokol, manitol, sorbitol) nebo plynná (kysličník uhličitý, kysličník dusný)"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1031. Hysteroskopické vyšetření NEprovádíme (Živný) Гинекология",
+    "answers": [
+      "u nuligravid",
+      "u těhotných žen",
+      "u žen v postmenopauze",
+      "u žen užívajících hormonální antikoncepci"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["u těhotných žen"],
+    "description": [
+      "Kontraindikace hysteroskopie celkový stav klientky, který nedovoluje provedení diagnostického nebo operačního výkonu. Dále udává infekce v pochvě nebo pánevní infekce, těhotenství. Jako relativní kontraindikace jde o silné děložní krvácení, kdy je obtížná vizualizace děložní dutiny a nelze lokalizovat zdroje krvácení "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1032. Hysteroskopie NENÍ indikována (Živný) Гинекология",
+    "answers": [
+      "při podezření na karcinom endometria",
+      "při podezření na Aschermannův syndrom",
+      "při akutním krvácení z dělohy",
+      "u pacientky, která nerodila"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["při akutním krvácení z dělohy"],
+    "description": [
+      "Kontraindikace hysteroskopie celkový stav klientky, který nedovoluje provedení diagnostického nebo operačního výkonu. Dále udává infekce v pochvě nebo pánevní infekce, těhotenství. Jako relativní kontraindikace jde o silné děložní krvácení, kdy je obtížná vizualizace děložní dutiny a nelze lokalizovat zdroje krvácení "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1033. Hysteroskopie u žen v reprodukčním věku obvykle provádíme (Živný) Гинекология",
+    "answers": [
+      "v období menstruace",
+      "těsně po ovulaci",
+      "v první polovině cyklu po menstruaci",
+      "na konci cyklu krátce před menstruací"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["v první polovině cyklu po menstruaci"],
+    "description": [
+      "V nejlepší je však vizualizace v proliferační fázi, po menses. V sekreční fázi je vhodné časovat při podezření na adenomyozu, do periovulačního období při sterilitě pro optimální situaci k posouzení průchodnosti vejcovodu"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1034. Hysteroskopie 😊 Гинекология",
+    "answers": [
+      "je to nejšetrnější metoda pro chirurgické zákroky",
+      "používá se pro onemocnění děložní dutiny",
+      "je to laparoskopické zařízení / používá se laparoskop",
+      "určená pro léčbu děložních příloh"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "je to nejšetrnější metoda pro chirurgické zákroky",
+      "používá se pro onemocnění děložní dutiny"
+    ],
+    "description": [
+      "Minimálně invazivní endoskopickou metodu, kdy pomocí optiky lze prohlédnout a následně zhodnotit nález na hrdle děložním a následně v děložní dutině Hysteroskopické výkony lze provádět jak diagnostické tak operační s odběrem patologických útvarů"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1035. Hysteroskopie, co patří? 😊 Гинекология",
+    "answers": [
+      "provádí se pomocí endoskopu",
+      "lze provádět i ve vejcovodech !!!!!",
+      "používají se pro diferenciální diagnostiku v břiše",
+      "diagnostická a terapeutická metoda"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "provádí se pomocí endoskopu",
+      "diagnostická a terapeutická metoda"
+    ],
+    "description": [
+      "Minimálně invazivní endoskopickou metodu, kdy pomocí optiky lze prohlédnout a následně zhodnotit nález na hrdle děložním a následně v děložní dutině Hysteroskopické výkony lze provádět jak diagnostické tak operační s odběrem patologických útvarů (Holečková, 2006, s. 4). "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1036. Jak léčíme zásněť hroznová? * (hydatiformní mola / částečná mola hydatidosa) 😊 Гинекология",
+    "answers": [
+      "hysteroskopie (existuje možnost vakuové extrakce)",
+      "Chemoterapie (při snížením HCG - metastázy)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hysteroskopie (existuje možnost vakuové extrakce)"],
+    "description": [
+      "Terapie:  evakuace vakuumexhauscí a revize déložní dutiny  kyretou"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1037. Léčba mola hydatidosa? 😊 Гинекология",
+    "answers": [
+      "kyretáž, vakuové extrakce, chirurgická operace - exstirpace",
+      "vždy chemioterapie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "kyretáž, vakuové extrakce, chirurgická operace - exstirpace"
+    ],
+    "description": [
+      "Terapie:  evakuace vakuumexhauscí a revize déložní dutiny  kyretou Základem je chemoterapie,chirurgická lečba je vzhrayena pro přísně indikované připady rezistence na chemoterapi a při komplikacich. Chemoterapie   je individualizována podle rizika."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1038. Mola hydatidosa léčba: 😊 Гинекология",
+    "answers": [
+      "vyprazdňování dutiny děložní odsátím a revize spodiny děložní dutiny kyretou, při malignizaci – chemoterapie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "vyprazdňování dutiny děložní odsátím a revize spodiny děložní dutiny kyretou, při malignizaci – chemoterapie"
+    ],
+    "description": [
+      "Terapie:  evakuace vakuumexhauscí a revize déložní dutiny  kyretou Základem je chemoterapie,chirurgická lečba je vzhrayena pro přísně indikované připady rezistence na chemoterapi a při komplikacich. Chemoterapie   je individualizována podle rizika"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1039. Po léčbě mola hydatidosa hladinu hCG kontrolujeme: 😊 Гинекология",
+    "answers": ["v seru", "v moči"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["v seru"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1040. Částečná mola hydatidosa, co děláme? 😊 Гинекология",
+    "answers": [
+      "interrupce",
+      "hysterektomie",
+      "nic neděláme",
+      "při částečné mole stačí evakuace obsahu dutiny děložní a vyšetření hodnoty hCG"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "při částečné mole stačí evakuace obsahu dutiny děložní a vyšetření hodnoty hCG"
+    ],
+    "description": [
+      "Terapie: vyprázdněním dutiny děložní odsátím a revize spodiny děložní dutiny kyretou. Diagnóza je stanovena histopatologickým vyšetřením a cytogeneticky. Kontroly: do negativity hCG po týdnu, poté půl roku 1× měsíčně. Další těhotenství doporučujeme po šesti měsících negativity hCG."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1041. K vyšetřovacím metodám u sterility NEpatří? (Živný) Гинекология",
+    "answers": [
+      "hysteroskopie",
+      "laparoskopie",
+      "kymoinsuflace",
+      "kolposkopie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["kolposkopie"],
+    "description": [
+      "Laparoskopie. Posuzujeme všechny orgány dutiny břišní a malé pánve včetně vnitřních rodidel, průchodnost vejcovodů, přítomnost srůstů, cyst či děložních myomů. Je jedinou metodou umožňující diagnostiku pánevní endometriózyHysteroskopie. Přímé optické vyšetření děložní dutiny, které umožní vyloučit polypy děložní sliznice, myomy, děložní přepážku či jiné vrozené vady. Martius, 1997; Řežábek, 1999;)Jedna z prvotních a nejjednodušších technik na vyšetření vejcovodů je tzv. Kymoinsuflace. Pomocí kanyly, úzké trubičky, lékař zavádí do děložní dutiny oxid uhličitý (plyn, kteří dělá například bublinky v limonádě) a fonendoskopem (poslouchátko, které lékaři používají při poslechu i srdce nebo plic při běžných prohlídkách), který přikládá na vaše břicho poslouchá, zda oxid vejcovody projde až k vaječníkům. Pokud totiž plyn dojde až k cíli, ozve se známý šumivý zvuk.     Modrý konik Kolposkopie - vyšetrení hrdla deložniho"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1042. K vyšetřovacím metodám používaným v gynekologii NEpatří? (Živný) Гинекология",
+    "answers": ["cystoskopie", "gastroskopie", "hysteroskopie", "laparoskopie"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["gastroskopie"],
+    "description": [
+      "Все обследования, кроме гастроскопии относятся к эндоскопическим методам применяющимися в гинекологии"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1043. Léčba hlouboké žilní trombózy dolních končetin? (apelace – správně)",
+    "answers": [
+      "heparin a heparin s nízkou molekulovou hmotností  Хирургия",
+      "warfarin",
+      "trombolýza (urokináza)",
+      "bandáž dolních končetin",
+      "antitrombotická léčka po 70 letech"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "heparin a heparin s nízkou molekulovou hmotností  Хирургия"
+    ],
+    "description": [
+      "Nízkomolekulární hepariny (LMWH) − jsou velmi oblíbené především jako prevence trombóz před (při a po) chirurgických výkonech, dále jsou preferovány u těhotných (pro kontraindikace warfarinu). Dávkování se řídí dle míry rizika a tělesné hmotnosti, popřípadě se monitoruje aktivita anti-Xa,nefrakciovaný heparin − spíše lék druhé volby u nekomplikované trombózy, preferován je u podezření na vznik komplikací (embolie). Monitorace pomocí APTT (terapeutická hodnota je 60–90 s),warfarin − lék preferovaný u dlouhodobé léčby trombofilních stavů u dispenzarizovaných pacientů, nevýhodou je několikadenní interval navození terapeutické hladiny (4–7 dní). Doporučuje se tedy zahájení léčby warfarinem kombinovat s podáváním nízkomolekulárních heparinů. Postupně se zvyšuje dávka warfarinu a naopak snižuje dávka heparinu, až se nakonec úplně vysadí − na základě dosaženého INR, které by mělo být 2–3,NOAC − v současnosti lze místo LMWH podávat od 1. dne p.o. rivaroxaban či apixaban, které není třeba monitorovat."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1044. Z uvedených léčiv bychom použili při léčbě akutní flebitidy * phlebitis (Klener) Хирургия",
+    "answers": [
+      "sklerotizující látky",
+      "nespecifická antiflogistika",
+      "streptokinázu",
+      "vazodilatancia"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["nespecifická antiflogistika"],
+    "description": [
+      "Důležitá je elastická komprese a mobilizace pacienta, v praxi se často používá nesteroidních antiflogistik, případně analgetik. Při menší nekomplikované varikoflebitidě lze vystačit s touto léčbou, někdy i jen v lokální aplikaci"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1045. Z uvedených postupů bychom pro léčbu akutní žilní trombózy použili (Klener) Хирургия",
+    "answers": [
+      "antikoagulační léčbu",
+      "dipyridamol",
+      "Heparoid ung",
+      "Anopyrin"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["antikoagulační léčbu"],
+    "description": [
+      "V současné době se žilní trombóza léčí léky s antikoagulačním nebo trombolytickým účinkem, malé % nemocných je vhodných k chirurgické léčbě. Antikoagulační léčba se zahajuje heparinem, buď nefrakcionovaným v i. v. infuzi, nebo nízkomolekulárním heparinem s. c. a zároveň se podávají p. o. antikoagulancia (warfarin, lawarin)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1046. Který lék můžeme použít k léčbě hluboké žilní trombózy (Klener) v těhotenství? Хирургия",
+    "answers": [
+      "Pelentan",
+      "pyrazolonová antirevmatika",
+      "heparin",
+      "fibrinolytická terapie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["heparin"],
+    "description": [
+      "V současné době se žilní trombóza léčí léky s antikoagulačním nebo trombolytickým účinkem, malé % nemocných je vhodných k chirurgické léčbě. Antikoagulační léčba se zahajuje heparinem, buď nefrakcionovaným v i. v. infuzi, nebo nízkomolekulárním heparinem s. c. a zároveň se podávají p. o. antikoagulancia (warfarin, lawarin)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1047. V terapii hluboké žilní trombózy použijeme (Klener) Хирургия",
+    "answers": [
+      "injekční solubilní heparin",
+      "injekční heparin o nízké molekulární hmotnosti (např. Fraxiparine)",
+      "venotonika",
+      "masti s antikoagulačními látkami"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "injekční solubilní heparin",
+      "injekční heparin o nízké molekulární hmotnosti (např. Fraxiparine)"
+    ],
+    "description": [
+      "Pro počáteční léčebné období se užívají hepariny (nefrakcionovaný heparin nebo nízkomolekulární hepariny); poté nastupuje období dlouhodobé antikoagulační léčby perorálními antikoagulancii."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1048. Náhlá bolest břicha. Příčiny? 😊 Хирургия",
+    "answers": [
+      "Trombóza mezenterické arterie",
+      "aortální disekce",
+      "akutní pankreatitida",
+      "apendicitida"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Trombóza mezenterické arterie",
+      "aortální disekce",
+      "akutní pankreatitida"
+    ],
+    "description": [
+      "Příčiny a rozdělení náhlých příhod břišních Podle příčiny se NPB rozdělují na: a) neúrazové Zánětlivé cholecystitis, pankreatitis, duodenitis, gastritis, appendicitis, colitis, ileitis, tuboovariální absces Ileózní: ileus mechanický obstrukční (tumor, ucpání tenkého střeva žlučovým konkrementem), ileus mechanický strangulační (adheze břišní volvulus, invaginace, vnitřní uskřinutá kýla), ileus cévní, ileus neurogenní (paralytický ileus pooperační, po tupém traumatu, při renální kolice, po léčbě cytostatiky, při šoku) Krvácivé: jícnové varixy, perforovaný vřed žaludku nebo dvanáctníku, ektopická gravidita, corpus luteum haemorrhagicum, angiodysplasie, arteficiální perforace střev, ruptura břišního aneryzmatu, tromboembolie mezenterických cév b) úrazové Perforační: břišní perforace Zavřené: tupá poranění břicha (trhlina jater, sleziny, žaludku, odtržení mesenteria od střev, perforace vředu, hemoperitoneum)"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1049. Stolice při poruše trávení a vstřebávání cukru: 😊",
+    "answers": [
+      "jsou normálního vzhledu i konzistence",
+      "mají pH pod 5 a vyšetření na redukující látky ve stolici je pozitivní",
+      "mají zvýšený obsah tuků",
+      "mají snížený obsah elastázy-l?????"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "mají pH pod 5 a vyšetření na redukující látky ve stolici je pozitivní"
+    ],
+    "description": [
+      "Terapie/wikiskripta/Klinický význam má stanovení elastázy-1 ve stolici v diferenciální diagnostice: malabsorpčního syndromu, jako screeningový test onemocnění pankreatu, dlouhodobé sledování nemocných s chronickou pankreatitídou."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1050. Poranění periferního nervu? 😊",
+    "answers": [
+      "Odložený šev po 3-4 týdnech",
+      "šev je naléhavý",
+      "po 2-3 měsících provádíme odloženou suturu pro střelnou ránu",
+      "neurotmeze - poškození axonu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Odložený šev po 3-4 týdnech",
+      "šev je naléhavý",
+      "po 2-3 měsících provádíme odloženou suturu pro střelnou ránu"
+    ],
+    "description": ["neurotmeze – přerušení nervu"],
+    "img": [""]
+  },
+
+  {
+    "question": "1051. Poranění periferního nervu 😊",
+    "answers": [
+      "odloženou suturu nakládají za 3-4 týdny",
+      "odloženou suturu nakládají za 3-4 měsíce",
+      "střelnou ránu šijeme hned",
+      "neurapraxie je plné přerušení axonů"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["odloženou suturu nakládají za 3-4 měsíce"],
+    "description": [""],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczNulNta5AtQC4j5O2WMnwDuWUbjgBhoHAgIJhU0ZuCL82lV8nY_IFc2SZkh8cN82UFg5o1PrTiPZMddwfgiZLFTraiAUpafyWCWcTMxGfD_DAUawlomjkCcoWSsAa6tS0c-sSxtSV105x_507d-tBad=w336-h255-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "1052. Pro střelnou ránu s úplným přerušením nervu, co bude správné? 😊",
+    "answers": [
+      "urgentní šev (sutura)",
+      "za 2-4 týdny se provede odložený šev",
+      "odložený šev za 3-4 měsíce",
+      "neurotmeze - anatomické přerušení nervu ?????"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "odložený šev za 3-4 měsíce",
+      "neurotmeze - anatomické přerušení nervu ?????"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1053. Pravá pubertas praecox je způsobena? (Klener)",
+    "answers": [
+      "předčasnou aktivací osy hypotalamus – hypofýza – gonáda",
+      "iatrogenně",
+      "tumorem kůry nadledvin",
+      "hypopituitarismem"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "předčasnou aktivací osy hypotalamus – hypofýza – gonáda"
+    ],
+    "description": [
+      "Gynekologie / Kompletní formy centrální (pubertas praecox centralis) – gonadoliberin a gonadotropin-dependentní; předčasná aktivace osy hypothalamus–hypofýza–pohlavní žlázy/wikiskripta"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1054. Mezi příčiny vedoucí k pravé předčasné pubertě NEpatří? (Klener)",
+    "answers": [
+      "předčasná aktivace osy hypothalamus – hypofýza – gonáda",
+      "iatrogenní příčiny",
+      "hyperpituitarismus",
+      "hormonálně aktivní tumor nadledvin"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "iatrogenní příčiny",
+      "hyperpituitarismus",
+      "hormonálně aktivní tumor nadledvin"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1055. Splenektomie, vyberte správné: 😊",
+    "answers": [
+      "provádíme při některých hematologických onemocněních",
+      "při traumě sleziny operace nevždycký urgentní",
+      "pro prevence overwhelming postsplenectomy infection (OPSI) provádime",
+      "slezinu neodtraňujeme při karcinomu žaludku"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "provádíme při některých hematologických onemocněních",
+      "při traumě sleziny operace nevždycký urgentní",
+      "pro prevence overwhelming postsplenectomy infection (OPSI) provádime"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1056. Howellova-Jollyho tělíska v erytrocytech (Klener)",
+    "answers": [
+      "nacházíme pravidelně u pacientů po splenektomii",
+      "jsou zásobní formou železa",
+      "se objevují při otravě houbami",
+      "jsou projevem poruchy vyzrávání erytrocytů"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["nacházíme pravidelně u pacientů po splenektomii"],
+    "description": [
+      "Howellova-Jollyho tělíska - bazofilní granula, fragmenty jader objevující se někdy v červených krvinkách cirkulující krve, které opouštějí kostní dřeň v nezralém stavu (při některých anemiích). Častější po splenektomii, u některých hemolytických či megaloblastových anemií"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1057. Pacienti se sekundárním imunodeficitem po splenektomii jsou nejvíce ohroženi (Klener)",
+    "answers": [
+      "stafylokokovými infekcemi",
+      "pneumokokovými infekcemi",
+      "virovými infekcemi",
+      "plísňovými infekcemi"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["pneumokokovými infekcemi"],
+    "description": [
+      "Tento stav je označován jako OPSI syndrom (Overwhelming PostSplenectomy Infection/postsplenektomický septický syndrom) a byl poprvé popsán počátkem 50. let minulého století. Celoživotní riziko rozvoje tohoto syndromu se odhaduje na 5 %, přičemž z toho 30 % infekcí se projeví v 1. roce po splenektomii a 50 % během prvních 2 let po splenektomii. Proto je v rámci preventivních opatření vhodné tyto pacienty naočkovat vakcínou proti pneumokokům, hemofilům, meningokokům a viru chřipky"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1058. V terapii autoimunitní trombocytopenie používáme následujících postupů (Klener)",
+    "answers": [
+      "splenektomie",
+      "glukokortikoidy",
+      "cyklofosfamid",
+      "vysoké dávky imunoglobulinů"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "splenektomie",
+      "glukokortikoidy",
+      "cyklofosfamid",
+      "vysoké dávky imunoglobulinů"
+    ],
+    "description": [
+      "Cyklofosfamid při léčbě autoimunitní trombocytopenie, ve fázi reflektorní. 1 řádek Gks a Ig;  2. řádek Splenektomie (snažíme se ji posunout nejméně o 12 měsíců);  Rituximab (mabthera) Romiplostim, Eltrombopag (agonisté receptorů mcc). Refrakterní: Azathioprin;  Cyklofosfamid;  Cyklosporin A a několik dalších."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1059. Dědičná sférocytóza je hemolytická anémie (Klener)",
+    "answers": [
+      "korpuskulárního typu",
+      "extrakorpuskulárního typu",
+      "léčitelná splenektomií",
+      "neléčitelná splenektomií"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["korpuskulárního typu", "léčitelná splenektomií"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1060. Makrolidy zahrnují: 😊",
+    "answers": ["erytromycin a klaritromycin", "gentamicin", "ciproflosacin"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["erytromycin a klaritromycin"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1061. Karcinom plic NEmůže způsobit (Klener)",
+    "answers": [
+      "paraneoplastický Cushingův syndrom",
+      "paraneoplastickou hypertyreózu",
+      "paraneoplastickou Addisonovu chorobu",
+      "paraneoplastickou hyperparatyreózu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["paraneoplastickou Addisonovu chorobu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1062. Sekundární hyperaldosteronismus se NEvyskytuje u (Klener)",
+    "answers": [
+      "nefrotického syndromu",
+      "Connova syndromu",
+      "kardiální dekompenzace",
+      "Addisonovy choroby"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Connova syndromu", "Addisonovy choroby"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1063. Anafylaktoidní purpura = Henochova-Schönleinova purpura? (IgA vaskulitida)",
+    "answers": [
+      "imunokomplexní reakce (reakce typu III, Arthusův typ) =systémní vaskulitida, humorální imunopatologicka reakce",
+      "anafylaktická reakce",
+      "autoimunitní reakce",
+      "imunokomplexní reakce typu I",
+      "imunokomplexní reakce typu IV"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "imunokomplexní reakce (reakce typu III, Arthusův typ) =systémní vaskulitida, humorální imunopatologicka reakce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1064. U Henochovy-Schönleinovy purpury nacházíme 😊",
+    "answers": ["pozitivní venostatický test (Rumpel-Leede)"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["pozitivní venostatický test (Rumpel-Leede)"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1065. Henochova-Schönleinova purpura (Klener)",
+    "answers": [
+      "je v močovém nálezu charakterizovaná zejména erytrocyturií",
+      "je onemocnění starších osob",
+      "ohrožuje pacienta zejména velkým krvácením do trávicího traktu. ??? ????",
+      "nevede nikdy k renální insuficienci"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "je v močovém nálezu charakterizovaná zejména erytrocyturií"
+    ],
+    "description": [
+      "Až u 80 % pacientů se také objevuje bolest kloubů, artritida, která je přechodná, předchází exantému, ale může postihnout kterýkoli kloub – zejména kolena a hlezna, s artritidou nastupuje otok s bolestí a omezením pohyblivosti. U 50 % pacientů nastávají bolesti břicha kolikovitého charakteru, hlavně v oblasti pupku, může dojít k pozitivnímu okultnímu krvácení. U 1/3 pacientů přichází postižení ledvin různého rozsahu – glomerulonefritida, což je mikroskopická hematurie a proteinurie, která vzácně progreduje v nefrotický syndrom)"
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczPX84lyESWtfKy352mKz0iFa8wbKFaNFflhscw3nhYlkMF1DCvCmXoLbXlOgFD2Tp9d7lKep4vqNwv1I0zaU1Jw2Ixa_pKZdudI02iQSFYtF2XLEjLlzOLO8pk6nFQOVNaH_BCIOmUc1Y47I5bq0Ajk=w646-h284-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "1066. Henochova-Schonleinova purpura Interna",
+    "answers": ["Arthusův typ III", "imunokomplexní reakce"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Arthusův typ III", "imunokomplexní reakce"],
+    "description": [
+      "Imunopatologická reakce založená na tvorbě imunokomplexů (reakce typu III, Arthusův typ) je humorální imunopatologickou reakcí. Částečně se podobá atopiím, ale je způsobena IgG. Protilátka s antigenem tvoří imunokomplexy. Závisí na množství, velikosti, struktuře, fyzikálně-chemických vlastnostech, zda budou imunokomplexy fagocytovány, nebo dojde k jejich ukládání do tkání. Henochova-Schönleinova purpura (HSP) je častá vaskulitida dětského věku s převážným postižením drobných cév. Často následuje po infekci horních cest dýchacích, nebo může být vyvolána i léky. Vaskulitidou jsou postiženy zejména cévy kůže, trávicího ústrojí, ledvin a kloubů. Imunofluorescenčně jsou typická depozita imunokomplexů s IgA. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1067. Typ reakce při Henochova-Schönleinova syndromu? Interna",
+    "answers": ["Třetí typ (III) podle Gell-Coombs", "imunokomplexní reakce"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Třetí typ (III) podle Gell-Coombs",
+      "imunokomplexní reakce"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1068. Normální ledvina je složena (Klener) Interna",
+    "answers": [
+      "asi z 200 000 nefronů",
+      "asi z 1 miliónu nefronů",
+      "asi z 6 miliónů nefronů",
+      "asi z 0,5 miliónů nefronů"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["asi z 1 miliónu nefronů"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1069. Empyém pleury je 😊 Interna",
+    "answers": [
+      "hnisavý výpotek v pohrudniční dutině",
+      "rozpadající se a hnijící části plic",
+      "krev v plurální dutině, která začala hnít"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["hnisavý výpotek v pohrudniční dutině"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1070. Co se NEstane, když se krevní oběh zastaví 😊 Resuscitace",
+    "answers": [
+      "mióza",
+      "bezvědomí",
+      "lapavé dýchaní",
+      "mrtvolný vzhled",
+      "nepřítomnost dechu a pulzu na velkých tepnách",
+      "tachikardie, tachypnoe"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["mióza", "tachikardie, tachypnoe"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1071. Cílový krevní tlak u diabetiků: 😊 Interna",
+    "answers": ["130/85 mmHg"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["130/85 mmHg"],
+    "description": [
+      "Jak americká, tak evropská doporučení se shodují v cílovém krevním tlaku pro diabetiky < 130/80 mm Hg. U pacientů s proteinurií > 1 g/den je žádoucí dosažení ještě nižších hodnot krevního tlaku, 120/75 mm Hg."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1072. Cirhózu jater způsobují 😊 Interna",
+    "answers": [
+      "Alkohol",
+      "Virová hepatitida B, C, D",
+      "Metabolické poruchy (wilsonova choroba, hemochromatoza, deficit alfa antitripsinu)",
+      "paracetamol (додали у 2024) "
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Alkohol",
+      "Virová hepatitida B, C, D",
+      "Metabolické poruchy (wilsonova choroba, hemochromatoza, deficit alfa antitripsinu)"
+    ],
+    "description": [
+      "chronická hepatitis C, B, B + D – posthepatitická cirhóza,alkoholické poškození jater – alkoholická cirhóza,dlouhodobá obstrukce žlučových cest – biliární cirhóza,primární – autoimunitní onemocnění (tvoří se protilátky proti interlobulárním žlučovodům),ekundární – důsledkem protrahované obstrukce žlučových cest nádorem nebo konkrementem,primární sklerozující cholangitida – autoimunitní onemocnění intrahepatálních i extrahepatálních žlučovodů,toxické poškození jater (paracetamol, amatoxin…) – toxická cirhóza,metabolické choroby (Wilsonova choroba, deficit α1-antitrypsinu, hemochromatóza, porfyrie, CF a další),dlouhotrvající venostáza – cirhóza v důsledku venózního městnání,nejasná etiologie – kryptogenní cirhóza (v 10–15 %)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1073. Co NEvede k jaterní cirhóze? / K příčinám jaterní cirhózy Nepatří 😊 Interna",
+    "answers": [
+      "Virová hepatitida B, C, D",
+      "Paracetamol",
+      "Alkohol",
+      "Metabolické poruchy (Wilsonova choroba, Hemochromatóza, deficit alfa antitripsinu)"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Paracetamol"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1074. Skóre dle Childa a Pugha (Child-Pugh score). Co hodnotíme? 😊 Interna",
+    "answers": [
+      "hodnocení prognózy pacientů s chronickým jaterním onemocněním, převážně jaterní cirhózou  / funkce jater",
+      "onemocněni slinivky",
+      "stav vědomí"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "hodnocení prognózy pacientů s chronickým jaterním onemocněním, převážně jaterní cirhózou  / funkce jater"
+    ],
+    "description": [
+      "Skóre dle Childa a Pugha (Child-Pugh score) se používá k hodnocení prognózy pacientů s chronickým jaterním onemocněním, převážně jaterní cirhózou, dále k odhadu prognózy a zařazení pacienta do transplantační listiny."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1075. Jícnové křečové žíly (varixy) při 😊 Interna",
+    "answers": ["jaterní cirhóza"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["jaterní cirhóza"],
+    "description": [
+      "příznaky z rozvinuté portální hypertenze (vaskulární dekompenzace) – ascites, jícnové varixy, portosystémová encefalopatie."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1076. Deformace kloubů je (Klener) Revmatologie",
+    "answers": [
+      "desaxace",
+      "zhrubění kloubní kresby např. přítomností osteofytů",
+      "patologická změna kloubní osy",
+      "subluxace"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["zhrubění kloubní kresby např. přítomností osteofytů"],
+    "description": [
+      "Deformace- ztráta fyziologického tvaru, znetvoření, proces znetvořování, ale na rozdíl od deformity nedochází ke změně ve vzájemném postavení kloubu. Deformita Trvalá chorobná změna tvaru orgánu, části těla."
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczN5bQQRS0IsM-gGH_r_tAu1-fzxsDhSTYQEt4A_lGN9WxAA5NE0ZaiDih9i3owu7zjZtz5o9XbrYb6Z68eemoUsKchM0ASLm4HL9-Eu1-RFkQcTFB_DelDOYuYuSQUgLCk0i8pNqhzAC9B9DSBTSrW1=w646-h426-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "1077. Ulnární deviace prstů ruky je typická pro (Klener) Revmatologie",
+    "answers": [
+      "revmatoidní artritidu",
+      "psoriatickou artritidu",
+      "Heberdenovy uzly",
+      "dnavou artritidu"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["revmatoidní artritidu"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1078. Léčba novorozenecké nekonjugované hyperbilirubinémie je (Olomouc) Pediatrie",
+    "answers": [
+      "hemodialýza",
+      "hepatoprotektív",
+      "fototerapie",
+      "výměnná transfúze"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["fototerapie", "výměnná transfúze"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1079. Pro centrální cyanózu je typické (Klener) Interna",
+    "answers": [
+      "kůže bývá současně chladná a zpocená",
+      "může být upravena inhalací kyslíku",
+      "nemusí být známkou organického onemocnění",
+      "je přítomna u levopravých zkratů"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["může být upravena inhalací kyslíku"],
+    "description": [
+      "Centrální cyanosu ↓ SaO2 u anémie: značí závažný pokles saturace u polyglobulie: se projevuje už při menším poklesu saturace na trupu a končetinách i na sliznici ústní dutiny a jazyka Je nejčastěji projevem systémové hypoxemie, methemoglobinemie nebo těžké polycytémie."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1080. Nález víru («вихри» в кровотоке) je známkou (Klener) Interna",
+    "answers": [
+      "rozsáhlého perikardiálního výpotku",
+      "plicní hypertenze",
+      "turbulentního proudění",
+      "hypertrofie levé komory"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["turbulentního proudění"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1081. Ventilace plicní je u zdravého jedince ve vertikální poloze (TEST PAT ANATOMIE) Fyziologie",
+    "answers": [
+      "větší v bazálních partiích",
+      "větší v horních partiích",
+      "nízká v bazálních partiích",
+      "rovnoměrná (homogenní) ve všech částech plic"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["větší v bazálních partiích"],
+    "description": [
+      "Ventilace není v plicích rovnoměrně rozložena (viz. obr. 4, s. 18). Alveoly ve vyšších oblastech jsou více přeplněny vzduchem, ale převážně s mrtvým prostorem ventilace. Plyn cestuje snadněji do vyšších oblastí, ale téměř přeplněné alveoly jsou rychle naplněny a plyn tak pokračuje do nižších oblastí. Alveoly v nižších oblastech jsou komprimovány hmotností plic, objemem krve nad nimi a kolem nich. Mají větší potenciál k rozšíření, což umožňuje jejich větší ventilaci. Také je rozdíl v distribuci vzduchu mezi pravou a levou plící. U zdravých jedinců je pravá plíce ventilovaná více jak levá a to v jakékoliv poloze z důvodu menší velikosti levé plíce díky umístění srdce"
+    ],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczN9q4SFR2mL4QtZuQT4UGxvFujrL6VEDpnHPjqnFRkkzvVS5uSpQWU3exb4ut0wLx1vMk8khhuSkzSOqde_BvBwNdfnyxpRJlEKMJuUvyagaHbGvYl_-fj6l09kiL3We0rhG3wcCQuaqhjBHyidrzVk=w383-h297-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "1082. Pohyb řasinek v dýchacích cestách je (Klener) Fyziologie",
+    "answers": [
+      "stejný ve všech oddílech dýchacích cest",
+      "rychlejší v drobných průdušinkách než ve větších dýchacích cestách",
+      "pomalejší v drobných průdušinkách než ve větších dýchacích cestách",
+      "rychlejší v průduškách než ve větších dýchacích cestách"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "pomalejší v drobných průdušinkách než ve větších dýchacích cestách"
+    ],
+    "description": [
+      "В периферических дыхательных путях ЧБР ниже, чем в полости носа, трахее и крупных бронхах "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1083. Nejsilnější hypoglykemizující účinek má (Klener) Endokrinologie",
+    "answers": ["buformin", "tolbutamid", "metformin", "glibenklamid"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["glibenklamid"],
+    "description": [
+      "Glibenklamid jako nejstarší SU-PAD je z pohledu hypoglykemizující síly nejsilnějším derivátem ze skupiny SU-PAD 2. generace. Má nejdelší biologický poločas eliminace, takže nejvýznamněji ovlivňuje i inzulinemii nalačno. Je spojen s největším rizikem hypoglykemie, proto jeho podávání není doporučováno u starších pacientů. "
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1084. Při podezření na intrakraniální hypertenzi jako první vyšetříme 😊 Neurologie",
+    "answers": ["EKG", "oční pozadí", "CT mozku", "likvor"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["oční pozadí"],
+    "description": [
+      "The first step in the neurological examination of a suspected IIH patient is fundoscopy. Although assessment of papilledema may be limited by considerable intra- and inter-observer variability and lack of experience in junior doctors, is it still a quick, simple and accessible bedside test in the emergency room. Test of vision and especially visual field by perimetry are also essential but the test method should be standardized and in most cases needs ophthalmological expertise. Use of optical coherence tomography (OCT) is recommended for quantification of papilledema and the method has been demonstrated to be a valuable additional tool for identification and monitoring of papilledema over time."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1085. Fyziologická dechová frekvence novorozence je (Olomouc) Pediatrie",
+    "answers": [
+      "15-20/min",
+      "méně než 15/min",
+      "okolo 40/min",
+      "více než 60/min"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["okolo 40/min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1086. Normální dechová frekvence 😊 Propedeutika",
+    "answers": [
+      "Novorozenec: 50–60/min,",
+      "kojenec: 35–40/min,",
+      "dítě 10 let: 20/min,",
+      "dospělý: 16–20/min."
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Novorozenec: 50–60/min,",
+      "kojenec: 35–40/min,",
+      "dítě 10 let: 20/min,",
+      "dospělý: 16–20/min."
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1087. Fyziologická tepová frekvence novorozence je (Olomouc) Pediatrie",
+    "answers": [
+      "stejná jako frekvence matky",
+      "100-160/min",
+      "80-100/min",
+      "60-80/min"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["100-160/min"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1088. Normální tepová frekvence: 😊 Propedeutika",
+    "answers": [
+      "Novorozenec: 130–160/min",
+      "kojenec do 1 roku: 100–140/min",
+      "dítě 10 let: okolo 90/min",
+      "dospělý: 70–80/min"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "Novorozenec: 130–160/min",
+      "kojenec do 1 roku: 100–140/min",
+      "dítě 10 let: okolo 90/min",
+      "dospělý: 70–80/min"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1089. Puls u dítěte 22 dne věku? 😊 Pediatrie",
+    "answers": ["80", "120", "160", "180", "Puls -120–140; dech -40–60"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["120", "Puls -120–140; dech -40–60"],
+    "description": [""],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczMUkh5oTyxkZpatBn_EA8BqfqKx9VI00_--hVDGg_kXx92ClnRL8ggHMjaRc0kV_1VXyhg8LOV6HMHO3JCm2tjYOAxetJJZu8QGfk8p1-GI4y0-1heMikxsafP-CTrtRDjcshajFSnl10dndsLT17p-=w467-h299-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "1090. Kde se nachází dýchací centrum? 😊 Anatomie",
+    "answers": ["Hypotalamus", "Mozeček", "most a prodloužená mícha"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["most a prodloužená mícha"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1091. Během masáže prostaty byl nalezen nádor, co dělat? 😊 Urologie",
+    "answers": ["biopsie", "cytologie", "19-9", "markery", "kolonoskopie"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["biopsie", "markery", "kolonoskopie"],
+    "description": [
+      "Protokol pro léčbu karcinomu prostaty MUDr. Miroslav Hodek, Ph.D 2020: Obligatorní vyšetření Digitální rektální vyšetření, PSA, biopsie (Gleason skóre) Další vyšetřování dle předpokládané doby dožití a rozsahu onemocnění. M a s a r y k ů v o n k o l o g i c k ý ú s t a v Standard, Kolorektální karcinom: V diagnostice je používána celá paleta různých vyšetřovacích metod. Jejich kombinace je volena individuálně. Kolonoskopie Dvojkontrastní irrigografie – méně časté vyšetření, pokud není možná endoskopie  Virtuální kolonoskopie – pokud není vhodná endoskopie  Stagingová vyšetření: CT hrudníku, břicha a pánve. MRI, PET a PET/CT nepatří k základním stagingovým metodám nádorů tračníku a měly by být indikovány k objasnění konkrétní klinické situace nejlépe po konzultaci s radiologem. Samotný ultrazvuk břicha není dostatečnou stagingovou metodou před radikální operací kolorektálního karcinomu.  Staging karcinomu rekta: MR a/nebo TRUS. Читаем внимательно рак чего нашли: простаты – берем маркеры (PSA) и биопсию. Если колоректальный – маркеры (Са 19-9, СЕА), колоноскопия и биопсия."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1092. Co je empyém hrudní stěny? 😊Interna",
+    "answers": [
+      "hromadění hnisu v pleurální dutině / hnisavý výpotek v pohrudniční dutině",
+      "procesy rozpadu plicní tkáně"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "hromadění hnisu v pleurální dutině / hnisavý výpotek v pohrudniční dutině"
+    ],
+    "description": [
+      "Hrudní empyém je definován jako přítomnost hnisu nebo jako přítomnost výpotku s pozitivním mikroskopickým a/nebo kultivačním mikrobiologickým vyšetřením v pohrudniční dutině."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1093. Protizánětlivý účinek nejvíce má:😊Interna",
+    "answers": ["Indometacin", "Diclofenac", "Ibuprofen", "Paracetamol"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Indometacin"],
+    "description": [""],
+    "img": [
+      "https://lh3.googleusercontent.com/pw/AP1GczNA7OLzPigYoHRr1WL_DR8F2rVQw1ODdksDk-bESyvbbj2hYfxQYLo6bNIdrDksqCx2fF6UWTPcSyVtH1RPo-EHHbWBv6cMudsYFfBNqpFwrpXwsY3Su0TR76OTO-Jw2MQlPClMIO1hp1FP3dB8ueU1=w244-h491-s-no-gm?authuser=0"
+    ]
+  },
+
+  {
+    "question": "1094. Na co musíme myslet při kolapsu u pacienta?😊Interna",
+    "answers": ["neuroinfekce", "srdeční selhání", "krvácivé stavy"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["srdeční selhání", "krvácivé stavy"],
+    "description": [
+      "Stav, kdy dojde k úplnému nebo téměř úplnému přerušení cirkulace krve z důvodu přerušení srdeční činnosti, plicní embolie, náhlé generalizované vazodilatace, ztráty intravaskulárních tekutin, atd"
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1095. Flowmetrie, kde měříme?😊Акушерство",
+    "answers": ["na umbilicalis (pupečníkové) tepně", "na umbilicalis žíle"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["na umbilicalis (pupečníkové) tepně"],
+    "description": [
+      "Flowmetrie, mezi těhotnými nazývaná i jako měření průtoků nebo také průtoky pupečníkem, je speciální ultrazvukové vyšetření, které se provádí ve 30. týdnu těhotenství25. Lékař většinou zaznamenává průtoky ve třech důležitých cévách na třech rozdílných místech. Díky tomu lékaři získá celkový přehled o stavu dítěte. Průtoky se měří: v mozkové artérii, která zásobuje mozkové štruktry, v pupečníkové artérii, v artétii, která zásobuje dělohu a dítě."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1096. Poranění hlavy / Kraniocerebrální traumata:😊травматология",
+    "answers": [
+      "zvednutí hlavy o 30-40 stupňů / Zvýšená poloha hlavy o 30-40°",
+      "zvednutí hlavy o 20-30° stupňů",
+      "zvednutí hlavy a horní částí těla na 25-30 stupňů",
+      "nechte ležet na zádech",
+      "zotavovací poloha"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": [
+      "zvednutí hlavy o 30-40 stupňů / Zvýšená poloha hlavy o 30-40°"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1097. Postižený s poruchou vědomí a spontánním dýcháním, zajistíme před aspiraci: (apelace – správně) Interna",
+    "answers": ["zotavovací polohu"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["zotavovací polohu"],
+    "description": ["Zotavovací polohu děláme pro záchranu před aspiraci."],
+    "img": [""]
+  },
+
+  {
+    "question": "1098. Jaký je začátek revmatické perikarditidy u dětí?😊??????Педиатрия",
+    "answers": ["hořkost", "vrozené srdeční vady"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["vrozené srdeční vady"],
+    "description": ["Onemocnění má typicky náhlý začátek s vysokou horečkou"],
+    "img": [""]
+  },
+
+  {
+    "question": "1099. Fenylketonurie Interna",
+    "answers": [
+      "získaná nemoc",
+      "dědičná porucha metabolismu lipidů",
+      "dědičná porucha metabolismu sacharidů",
+      "dědičná (AR) porucha metabolismu aminokyselin"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["dědičná (AR) porucha metabolismu aminokyselin"],
+    "description": [
+      "Fenylketonurie (PKU) patří mezi dědičné metabolické poruchy a enzymopatie. Jedná se o poruchu metabolismu aminokyseliny fenylalaninu (Phe)."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1100. Vstupní kardiotokografie (CTG). Kolik času provádíme? (apelace – správně) Акушерство",
+    "answers": ["20 minut", "30 minut", "5 minut", "10 minut"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["20 minut"],
+    "description": [
+      "Při příjmu rodičky se vedle zevního a vnitřního porodnického vyšetření provádí vstupní kardiotokografie (CTG) s 20 minutovým záznamem."
+    ],
+    "img": [""]
   }
 ]
