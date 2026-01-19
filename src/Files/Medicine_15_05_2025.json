@@ -26589,6 +26589,7 @@
     "description": [""],
     "img": [""]
   },
+
   {
     "question": "1630. Co je charakterní pro typický průběh plicní embolie? ",
     "answers": [
@@ -26602,6 +26603,740 @@
     "topic": ["Base_2023_medicine"],
     "correctAnswers": [
       "bolesti v zahrudní oblasti, tachykardie, dušnost, chropy v plicích, tachypnoe "
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1631. OAB (Hyperaktivní močový měchýř (overactive bladder) jaká tvrzení jsou správná?",
+    "answers": [
+      "detruzorová hyperaktivita vzniklá po provokaci, označená přítomnosti mimovolní kontrakce detruzoru během plnící cystometrie",
+      "urgence s a/nebo bez urgentní inkontinence, frekvencí a nykturií",
+      "důležitým neinvazivním vyšetřením je uroflowmetrie"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "detruzorová hyperaktivita vzniklá po provokaci, označená přítomnosti mimovolní kontrakce detruzoru během plnící cystometrie",
+      "urgence s a/nebo bez urgentní inkontinence, frekvencí a nykturií"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1632. Ashermanův syndrom co je charakteristické?",
+    "answers": [
+      "amenorea",
+      "úraz dělohy",
+      "poruchy plodnosti",
+      "iatrogenní poškození"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "amenorea",
+      "úraz dělohy",
+      "poruchy plodnosti",
+      "iatrogenní poškození"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1633.Při kanylaci velkých žil v blízkosti srdce může být komplikace: (як 377 тест але добавили ще 2 відповіді Klener)",
+    "answers": [
+      "paréza n. phrenicus",
+      "vzduchová embolie",
+      "pneumotorax",
+      "arteriovenózní píště",
+      "гемороракс",
+      "хільороракс"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "paréza n. phrenicus",
+      "vzduchová embolie",
+      "pneumotorax",
+      "arteriovenózní píště",
+      "гемороракс",
+      "хільороракс"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1634. Co nejčastěji vyvolává pozdní sepse u novorozenců?",
+    "answers": [
+      "virusy (не запамʼятали які)",
+      "Klebsiella – викликає, але не найчастіше",
+      "Nic z uvedného"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["Nic z uvedného"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1635. Ú č i n k y B - blokatorů",
+    "answers": [
+      "vazodilatace",
+      "vazodilatace koronárních tepen",
+      "snižení tlaku pomocí dilatací koronárních tepen",
+      "můžou skrývat hypoglikemie",
+      "snížení klinických projevů hypertyreózy",
+      "použivají se při hyperparatyreoze"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "můžou skrývat hypoglikemie",
+      "snížení klinických projevů hypertyreózy"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1636. Při provedení kardiotokografie bylo zjištěno silentní pásmo. Jaká je amplituda?",
+    "answers": [" 0–5/min", " 5–10/min", "15–25/min", "25/min"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [" 0–5/min"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1636a. Při provedení kardiotokografie bylo zjištěno silentní pásmo. Jaká je amplituda?",
+    "answers": [
+      " oscilační výkyvy v pásmu větším než 25 tepů",
+      "oscilační výkyvy v pásmu od 10-25 tepů za minutu",
+      "oscilační výkyvy v pásmu od 5-10 tepů za minutu",
+      "oscilační výkyvy v pásmu od 0-5 tepů za minutu"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["oscilační výkyvy v pásmu od 0-5 tepů za minutu"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1636b. Silentní pásmo (з тестів Živny)",
+    "answers": [
+      "jednoznačně patologický záznam",
+      "indikaci к ukončení porodu/těhotenství",
+      "svědčí pro hypoxii plodu"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "jednoznačně patologický záznam",
+      "indikaci к ukončení porodu/těhotenství",
+      "svědčí pro hypoxii plodu"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1637. Jak jsou oční kapky izotonizované? (як 298 але змінений!) ",
+    "answers": [
+      "Chlorid sodný",
+      "fosfátový pufr + ще якийсь пурф + dusičinat draselý",
+      "fosfátový pufr + Chlorid sodný",
+      "NaCl 0,9% a kyselina boritá "
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "Chlorid sodný",
+      "fosfátový pufr + ще якийсь пурф + dusičinat draselý",
+      "fosfátový pufr + Chlorid sodný"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1638. Normální gelka těhotenství ",
+    "answers": [" 38-40 týdnů"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [" 38-40 týdnů"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1639. Erythema nodosum je příznakem:",
+    "answers": [
+      " Crohnova choroba",
+      "Sarkoidoza",
+      "poststreptokokova artritida",
+      "Myelom"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      " Crohnova choroba",
+      "Sarkoidoza",
+      "poststreptokokova artritida"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1640. Počet follikulu u підлітків",
+    "answers": ["400-500", "Vice 1000", "700-800 atd"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["400-500"],
+    "description": [
+      "V době nástupu menarché je většina z 1–2 milionů fetálních oocytů degradována a zůstavá pouze 300 000–400 000; z tohoto počtu pouze 350 až 400 se dočká ovulace během reprodukčního věku ženy"
+    ],
+    "img": [""]
+  },
+  {
+    "question": "1640a. V ovariu novorozence se nachází přibližně tento počet primordiálních folikulů (Živny)",
+    "answers": [
+      " 500 000-1 000 000 ",
+      "200 000-300 000",
+      "jen ojedinělé ",
+      " 80 000-100 000 "
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["200 000-300 000"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1641. Jak se projevuje Kolorektální karcinom? ",
+    "answers": [
+      "příměsí krve ve stolici",
+      "metastázy do plic",
+      "metastázy do jater",
+      "průjmy"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "příměsí krve ve stolici",
+      "metastázy do plic",
+      "metastázy do jater"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1642. Hormon proliferační fáze menstruačního cyklu",
+    "answers": ["estrogen"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["estrogen"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1644. Při čem bude hyperinzulinizm",
+    "answers": [
+      "onemocnění Zollinger-Ellisonův",
+      "MEN пухлини",
+      "Nádor z alfa-buněk Langerhansových ostrůvků",
+      "Pacient s Diabetes mellitus a dostává nízké dávky inzulinu"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "onemocnění Zollinger-Ellisonův",
+      "MEN пухлини",
+      "Nádor z alfa-buněk Langerhansových ostrůvků"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1645. GBS, co to je? (Guillainův-Barrého syndrom )",
+    "answers": [" je akutní zánětlivé postižení periferních nervů"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [" je akutní zánětlivé postižení periferních nervů"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1646.Příznaky zástavy dýchání?",
+    "answers": [
+      "dlouhotrvající kašel",
+      "exspirační dušnost",
+      "lapavý/sípavý dech???",
+      "ztráta vědomí",
+      "nedýchá"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["ztráta vědomí", "nedýchá"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1647. Kritéria chronického kašle",
+    "answers": [
+      " trvání kašle (déle než 4 týdny u dětí a 8 týdnů u dospělých)"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      " trvání kašle (déle než 4 týdny u dětí a 8 týdnů u dospělých)"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1648. Těžký pacient z důvodu nitrobřišního krvácení – jaká vyšetření je třeba provést před zahájením infuzní terapie?",
+    "answers": [
+      "zhodnotit hemodynamické parametry",
+      " krevní test",
+      "СT",
+      " ještě něco dalšího"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["zhodnotit hemodynamické parametry", " krevní test"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1650. Přízkany pneumoperitoneum?",
+    "answers": [
+      "nativní RTG břicha + zvyčný bubinkový poklep",
+      "nativní RTG břicha "
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["nativní RTG břicha + zvyčný bubinkový poklep"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1651. Pacient má poruchy srdečního rytmu, svalovou slabost, atonii střevní a žaludeční. Jaká je přičina?",
+    "answers": [
+      "hypokalémie",
+      "hyperkalémie",
+      "hyponanatrémie",
+      "hypernatrémie"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["hypokalémie"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1652. PIMS –TS. Co to je?",
+    "answers": ["pediatrický multisystémový zánětový syndrom"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["pediatrický multisystémový zánětový syndrom"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1653.Příčinou Chiariho –Frommelova syndrome je? (Živný) ",
+    "answers": [
+      "tumor adenohypofýzy",
+      "tumor bazalního ganglia",
+      "tumor hypotalamu",
+      "funční porucha hypotalamu",
+      "rtg nález na sella turcica je normální"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "funční porucha hypotalamu",
+      "rtg nález na sella turcica je normální"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1654. V rámci diferenciální diagnostiky mezi diabetes insipidus a psychogenní polydipsií používáme(Klener)",
+    "answers": [
+      "test s odnětím tekutin (koncentrační test), při kterém měříme diurézu, specifickou hmotnostmoči a je-li to možné, tak i ADH v plazmě a moči",
+      "test s podáním anxiolytik",
+      "test s podáním Adiuretinu",
+      "test s podáním neurotenzinu"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "test s odnětím tekutin (koncentrační test), při kterém měříme diurézu, specifickou hmotnostmoči a je-li to možné, tak i ADH v plazmě a moči"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1655. U nefrotického syndromu se můžeme setkat( Klener)",
+    "answers": [
+      "se sekundárním hyperaldosteronismem",
+      "s hemoragickou diatézou",
+      "s jaterní insuficiencí způsobenou exhaustivní proteosyntézou ",
+      "s výrazným hmotnostním úbytkem v důsledku kachektizace"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["se sekundárním hyperaldosteronismem"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1656. Při podezření na rychle progredující glomerulonefritidu(Klener)",
+    "answers": [
+      "provádíme vždy renální biopsii, v případě potvrzení diagnózy zahajujeme ihned imunosupresívní terapi"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "provádíme vždy renální biopsii, v případě potvrzení diagnózy zahajujeme ihned imunosupresívní terapi"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1656. Renální biopsie je indikována při (Klener)",
+    "answers": [
+      "akutním selhání nejasné etiologie",
+      "jen v diferenciální diagnostice chronických glomerulopatií ",
+      "vždy při anurii delší než 3 dny",
+      "v případech nevysvětleného renálního selhání po vyčerpání ostatních nefrologických vyšetřen"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "v případech nevysvětleného renálního selhání po vyčerpání ostatních nefrologických vyšetřen"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1657. Vývoj ledvin a močových cest ( dle lekce na telegram kanalu Другой Малина)",
+    "answers": [
+      "močovod , panvička, sběrné kanálky – ureterální pupen",
+      "nefron – metanefrogenní blastém"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "močovod , panvička, sběrné kanálky – ureterální pupen",
+      "nefron – metanefrogenní blastém"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1658. Postižení jakých tepen při Kawasikího chorobě:",
+    "answers": ["koronární arterii "],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["koronární arterii "],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1659. Cystická fibroza, novorozenecký screening: ",
+    "answers": [
+      "imunoreaktivní trypsin (IRT)",
+      "potní test (koncentrace chloridu)"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "imunoreaktivní trypsin (IRT)",
+      "potní test (koncentrace chloridu)"
+    ],
+    "description": [
+      "Novorozenecký screening CF (NSCF) Pro CF se toto vyšetření provádí ve dvou hlavních krocích. V prvním kroku se novorozenci mezi 72. a 96. hodinou života odebere kapka krve z patičky. Z této tzv. suché kapky krve se měří imunoreaktivní trypsin (IRT), který svou koncentrací může ukázat na jedince, který má vyšší riziko onemocnění CF. IRT ovšem neukazuje pouze na CF, ale i na jiná onemocnění, proto se k určení CF musí provádět i další vyšetření. Ve skupině novorozenců se zvýšenou koncentrací IRT jsou v druhém kroku zjišťovány molekulárně-genetickým vyšetřením genetické mutace pro CF. Toto vyšetření se stále provádí z oné jedné kapky krve odebrané na počátku. Pokud se ukáže, že dítě mělo extrémně vysokou koncentraci IRT, ale nebyla nalezena žádná CF mutace, provádí se znovu odběr suché kapky krve a vyšetření se opakuje (tzv. recall). U novorozenců, kteří mají zvýšenou hladinu IRT a nalezenu alespoň jednu mutaci, se provádí klasický potní test. Podle výsledků všech těchto vyšetření posléze CF odborníci rozhodují o dalších postupech."
+    ],
+    "img": [""]
+  },
+
+  {
+    "question": "1660. Diabetes melitus II typ a těžké renální selhání. Co Nemůžeme podat?",
+    "answers": [
+      "Maninil - глібенкламід",
+      "Metformin",
+      "inzulin",
+      "Glurenorm – гліквідон, препарат сульфанілсечовини, який виводиться печінкою з жовчю"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["Maninil - глібенкламід", "Metformin"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1661. Gangréna, co patří? Див.1235",
+    "answers": [
+      "penicilin, chirurgická revize",
+      "krepitace/praskání/třaskání plynu při palpaci v ráně",
+      "aerobní infekce",
+      "používáme obvazy s roztokem (ним лікують bercovy vřed)"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "penicilin, chirurgická revize",
+      "krepitace/praskání/třaskání plynu při palpaci v ráně"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1662. Kdy bude poslední menstruace u ženy? (Menopauza тест 802)",
+    "answers": ["50-55 let", " 40 let ", "60 let", "65 let "],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["50-55 let"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1663. Co je charakteristické pro chronickou žilní insuficienci:",
+    "answers": [
+      "tvorba vředů",
+      "je nutné použít obvazy",
+      "není možné používat hydrogelové roztoky v terapii"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["tvorba vředů", "je nutné použít obvazy"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1664.Klasifikace poškození jaterních funkcí (ASJ- akutní selhání jater):",
+    "answers": [
+      "klasifikace podle O´Gradyho",
+      "klasifikace podle Bemuaua",
+      "Japonská klasifikace"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "klasifikace podle O´Gradyho",
+      "klasifikace podle Bemuaua",
+      "Japonská klasifikace"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1665. Nalezeny atypické buňky v děložním čípku, co je prekanceróza?",
+    "answers": [
+      "preinvasivní",
+      "stacionární",
+      "progredientní – CIN (dysplazie)"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["preinvasivní"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1666. Objem plodové vody v posledních týdnech",
+    "answers": ["1-2 l ", "700(800)- 1000 ml"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["700(800)- 1000 ml"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1666a. Jaké množství vody plodové ve Ш. trimestru hodnotíme jako oligohydramnion (Živny)",
+    "answers": ["< 100ml", "< 300 ml", "300-1000 ml", ">1000ml"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["< 300 ml"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1666b. Jaké množství vody plodové ve III. trimestru hodnotíme jako normohydramnion (Živny)",
+    "answers": ["300-1000 ml", "< 300 ml", "1000-2000 ml", "> 2000"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["300-1000 ml"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1667. Dehydratace",
+    "answers": [
+      "při kardialním šoku přednost katecholaminem proti volumotherapii",
+      "diureze 50 ml/h ukazuje, že perfuze orgánů je zachována",
+      "u hypotenze můžeme měřit tlak na periferii оскільки ознак шоку нема, то можемопроводити неінвазивний моніторинг",
+      "starší pacienty, kteří mají ortostatickí hypotenze, sklon k hypotenze potřebují rychle rehydratace bez ohledu na časovou anamnézu ",
+      "při hypovolémií dáváme přednost katecholaminům proti volumotherapií"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "při kardialním šoku přednost katecholaminem proti volumotherapii",
+      "diureze 50 ml/h ukazuje, že perfuze orgánů je zachována",
+      "u hypotenze můžeme měřit tlak na periferii оскільки ознак шоку нема, то можемопроводити неінвазивний моніторинг"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1668. Jak léčit acidózu u pacienta s hypovolemickým šokem?",
+    "answers": ["bikarbonáty", "fyziologický roztok (0,9% NaCl)"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["fyziologický roztok (0,9% NaCl)"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1669. Příznaky časného potratu:",
+    "answers": [
+      "mírné krvácení",
+      "nevýrazné bolesti v podbřišku",
+      "uzavřené formované děložní hrdlo"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "mírné krvácení",
+      "nevýrazné bolesti v podbřišku",
+      "uzavřené formované děložní hrdlo"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1670. Řez při gynekologické laparotomii",
+    "answers": [
+      "středně-mediánní řez",
+      "příčný(transverzální) suprapubický řez"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["příčný(transverzální) suprapubický řez"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1671. Nejčastější lokalizace ileu",
+    "answers": ["tenké střevo", "tlusté střevo"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["tlusté střevo"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1672.Nejčastější lokalizace divertikulózy",
+    "answers": ["tenké střevo", "tlusté střevo"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["tlusté střevo"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1673.Benigní elevace segmentu ST ",
+    "answers": ["syndrom časné repolarizace"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["syndrom časné repolarizace"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1674. Který karcinom štítné žlázy je nejvíce maligní? Див.тест 259 ",
+    "answers": [
+      "Nediferencovaný karcinom/Anaplastický",
+      "Medulární karcinom",
+      "Papilární karcinom"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["Nediferencovaný karcinom/Anaplastický"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1675. Který hormon způsobuje předčasný porod? ",
+    "answers": ["progesteron", "estrogen", "oxytocin / pokles progesteronu"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["oxytocin / pokles progesteronu"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1676. Které z následujících EKG změn jsou typické pro mitrální stenózu?",
+    "answers": [
+      "P mitrale (dvouvrcholová vlna P ve svodech II, III, aVF)",
+      "Fibrilace síní",
+      " Hypertrofie pravé komory",
+      "Blokáda pravého Tawarova raménka",
+      " svislá(вертикальна) poloha elektrické osy srdeční na EKG"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "P mitrale (dvouvrcholová vlna P ve svodech II, III, aVF)",
+      "Fibrilace síní",
+      " Hypertrofie pravé komory",
+      "Blokáda pravého Tawarova raménka",
+      " svislá(вертикальна) poloha elektrické osy srdeční na EKG"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1677. Pacient má karcinom rekta. Kde se obvykle nachází vývod kolostomie? ",
+    "answers": ["v levém podbřišku"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["v levém podbřišku"],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1678. Diazepam, co patří?",
+    "answers": [
+      "do 6 let 5 mg, dále 6-10 mg",
+      "při křečích podáváme s intervalem v 5 min",
+      "při křečích podáváme s intervalem v 10 min",
+      "při křečích podáváme s intervalem v 15 min"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "do 6 let 5 mg, dále 6-10 mg",
+      "při křečích podáváme s intervalem v 5 min"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  {
+    "question": "1679. Plicní embolie se v typických případech klinicky projevuje jako:",
+    "answers": [
+      "Náhlá dušnost se šokovým stavem + vymizelé dýchání nad plícemi",
+      "Náhlá bolest na jedné plicní bázi vzadu + tachykardie + tachypnoe + přítomnost rizikové situace + poklepové ztemnění + oslabené dýchání na postižené straně",
+      "Masivní hemoptýza + dušnost + exspirační poslechové fenomény na plicích",
+      "Náhlá bolest za sternem, zhoršující se při nádechu + tachykardie + tachypnoe + přítomnost rizikové situace + stridor"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "Náhlá bolest na jedné plicní bázi vzadu + tachykardie + tachypnoe + přítomnost rizikové situace + poklepové ztemnění + oslabené dýchání na postižené straně"
     ],
     "description": [""],
     "img": [""]
