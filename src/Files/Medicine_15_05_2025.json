@@ -15272,8 +15272,10 @@
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
-    "correctAnswers": ["ochrana proti sexuálně přenosným infekcím",
-      "Snížení chuti k jídlu + не будет.будет увеличение аппетита=набор веса."],
+    "correctAnswers": [
+      "ochrana proti sexuálně přenosným infekcím",
+      "Snížení chuti k jídlu + не будет.будет увеличение аппетита=набор веса."
+    ],
     "description": [
       "Общие побочные эффекты приема ОК . тошнота; увеличение веса;хлоазма (ограниченная гиперпигментация кожи);головная боль;снижение или повышение либидо;спазмы в животе;болезненность в груди; гиперменорея (обильная менструация) или полное отсутствие месячных;  галакторея (патологическое выделение молока не связанное с процессом кормления ребёнка); акне, экзема, зуд."
     ],
@@ -21147,7 +21149,10 @@
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
-    "correctAnswers": ["původem z mezodermu, pochází z mozkových blan"],
+    "correctAnswers": [
+      "původem z mezodermu, pochází z mozkových blan",
+      "nejčastější nádor mozku"
+    ],
     "description": [
       "Představují asi 15 % všech nitrolebních nádorů. Základem je neurochirurgické odstranění – odstraňuje se celý nádor i s infiltrovanou tvrdou plenou. Defekt tvrdé pleny je nahrazen plastikou. Infiltrovaná kost se také odstraní a nahradí se plastikou polymethylmetakrylátem nebo titanovou mřížkou. V některých případech (meningeomy baze lební) je nutné provést pouze částečné odstranění a zbytek nádoru ozářit gama nožem."
     ],
@@ -21263,7 +21268,21 @@
       "Pozdní menopauza",
       "Obezita",
       "Diabetes mellitus",
-      "Časná koitarché",
+      "Časná koitarché"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Časná koitarché"],
+    "description": [
+      "Nejdůležitějším etiologickým faktorem je infekce lidským papilomavirem (human papillomavirus – HPV), především vysoce rizikovými typy 16 a 18. Dalšími faktory souvisejícími s vyšší četností tohoto karcinomu jsou kouření a jiné drogy, poruchy imunity (imunodeficience, imunosuprese), AIDS, jiné sexuálně přenosné choroby (viry, Trichomonas vaginalis), houby, plísně a kvasinky a dlouhodobé užívání hormonálních kontraceptiv. Pravděpodobnost infikování papilomavirem zvyšuje časný počátek sexuálního života, rizikové sexuální chování (promiskuita), vysoký počet porodů a potratů (opakované lacerace a chronické zánětlivé změny v oblasti junkce), první porod v mladém věku a špatné socioekonomické podmínky."
+    ],
+    "img": [""]
+  },
+
+  ,
+  {
+    "question": "1298a. Z uvedených stavů NENÍ rizikovým faktorem karcinomu děložního hrdla (Živný)",
+    "answers": [
       "nízký věk při prvním porodu",
       "pohlavní promiskuita",
       "kouření",
@@ -21272,9 +21291,7 @@
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
     "correctAnswers": ["Časná koitarché", "anovulace"],
-    "description": [
-      "Nejdůležitějším etiologickým faktorem je infekce lidským papilomavirem (human papillomavirus – HPV), především vysoce rizikovými typy 16 a 18. Dalšími faktory souvisejícími s vyšší četností tohoto karcinomu jsou kouření a jiné drogy, poruchy imunity (imunodeficience, imunosuprese), AIDS, jiné sexuálně přenosné choroby (viry, Trichomonas vaginalis), houby, plísně a kvasinky a dlouhodobé užívání hormonálních kontraceptiv. Pravděpodobnost infikování papilomavirem zvyšuje časný počátek sexuálního života, rizikové sexuální chování (promiskuita), vysoký počet porodů a potratů (opakované lacerace a chronické zánětlivé změny v oblasti junkce), první porod v mladém věku a špatné socioekonomické podmínky."
-    ],
+    "description": [""],
     "img": [""]
   },
 
