@@ -20467,14 +20467,20 @@
 
   {
     "question": "1250. Infekce dolních močových cest 😊",
-    "answers": [
-      "Dysurie",
-      "klinika glomerulonefritidy a pyelonefritidy",
-      "penicilin, pokud není alergie"
-    ],
+    "answers": ["Dysurie", "klinika glomerulonefritidy a pyelonefritidy"],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
-    "correctAnswers": ["Dysurie", "penicilin, pokud není alergie"],
+    "correctAnswers": ["Dysurie"],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "1251. Léčba infekcí způsobených streptokoky: 😊",
+    "answers": ["penicilin, pokud není alergie"],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["penicilin, pokud není alergie"],
     "description": [""],
     "img": [""]
   },
@@ -26876,11 +26882,7 @@
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": [
-      "onemocnění Zollinger-Ellisonův",
-      "MEN пухлини",
-      "Nádor z alfa-buněk Langerhansových ostrůvků"
-    ],
+    "correctAnswers": ["MEN пухлини"],
     "description": [""],
     "img": [""]
   },
