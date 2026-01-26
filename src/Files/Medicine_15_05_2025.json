@@ -15861,11 +15861,7 @@
       "primární hyperparatyreózy",
       "cholestázy",
       "spondylartrózy",
-      "osteosarkom",
-      "vysokoobratové osteoporózy",
-      "Pagetovy choroby",
-      "Osteoartrózy",
-      "osteomalacie"
+      "osteosarkom"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
@@ -15873,9 +15869,23 @@
       "osteomalacie",
       "primární hyperparatyreózy",
       "cholestázy",
-      "osteosarkom",
-      "Osteoartrózy"
+      "osteosarkom"
     ],
+    "description": [""],
+    "img": [""]
+  },
+
+  {
+    "question": "964a .Aktivita alkalické fosfatázy v séru nebývá zvýšena u (Klener) Interna",
+    "answers": [
+      "vysokoobratové osteoporózy",
+      "Pagetovy choroby",
+      "Osteoartrózy",
+      "osteomalacie"
+    ],
+    "book": ["Base_2023_medicine"],
+    "topic": ["Base_2023_medicine"],
+    "correctAnswers": ["Osteoartrózy"],
     "description": [""],
     "img": [""]
   },
