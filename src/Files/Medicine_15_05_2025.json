@@ -13365,7 +13365,7 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": [
-      "ve dvou projekcích (v kraniokaudální, šikmé mediolaterální)"
+      "ve dvou projekcích (v kraniokaudální, šikmé)"
     ],
     "description": [
       "Prsy se snímkují ve dvou projekcích – kraniokaudální a šikmé mediolaterální (45°)."
@@ -15486,7 +15486,7 @@
     "answers": ["jen FSH", "jen LH", "FSH, LH a estrogeny", "jen estrogeny"],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["před ovulací 2024"],
+    "correctAnswers": ["FSH, LH a estrogeny"],
     "description": [""],
     "img": [""]
   },
