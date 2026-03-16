@@ -159,6 +159,12 @@ const AllTests: React.FC = () => {
       </FormContainer>
       <div>
         <FindTest handleSearchInputChange={handleSearchInputChange} />
+        <LoadMore
+        currentPage={currentPage}
+        testsPerPage={testsPerPage}
+        totalTests={filteredQuestions.length}
+        onPageChange={handlePageChange}
+      />
         <List>
           {doneQuestions.map((test, index) => (
             <Item key={index}>
