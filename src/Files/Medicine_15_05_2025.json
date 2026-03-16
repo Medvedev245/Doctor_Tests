@@ -14668,14 +14668,7 @@
       "levostranná srdeční insuficience",
       "aktivní vředová choroba",
       "léčba streptokinázou v posledním měsíci",
-      "operační výkon v posledním týdnu",
-      "-hemoragická diatéza",
-      "-gloridni krvácení (s výjimkou menstruálniho) z gastroduodenálního vředu, jínových varixů apod.",
-      "-nepřitomnost elevaci úseku S-T nebo blokády raménka na EKG záznamu",
-      "-stavy do jednoho týdne po operaci nebo rozsáhlejším traumatu",
-      "-období do čtyř až šesti týdnů po ischemické cévní mozkové příhodě a hemoragická mozková příhoda jsou absolutní kontraindikace",
-      "-infekční endokarditida",
-      "-předehozí léčba streptokinázou (relativní po stránce hypersenzitivní reakce, ale absolutní z hlediska neutralizujicích protilátek, blokujicích reperfuzní působení streptokinázy)"
+      "operační výkon v posledním týdnu"
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
