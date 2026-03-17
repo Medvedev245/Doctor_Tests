@@ -14959,9 +14959,7 @@
       "nebílkovinnou dietu",
       "neomycin p.o.",
       "chlorpromazin",
-      "laktulózu",
-      "ovlivnění střevní mikroflóry podáním nevstřebatelných antibiotik (rifaximin,",
-      "podávání ornitin-aspartátu."
+      "laktulózu"
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
@@ -18051,7 +18049,7 @@
     "answers": ["hořkost", "vrozené srdeční vady"],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["vrozené srdeční vady"],
+    "correctAnswers": ["hořkost"],
     "description": ["Onemocnění má typicky náhlý začátek s vysokou horečkou"],
     "img": [""]
   },
