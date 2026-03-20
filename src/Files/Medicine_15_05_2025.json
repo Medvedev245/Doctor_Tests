@@ -17775,7 +17775,7 @@
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["může být upravena inhalací kyslíku"],
+    "correctAnswers": ["může být upravena inhalací kyslíku", "je přítomna u levopravých zkratů"],
     "description": [
       "Centrální cyanosu ↓ SaO2 u anémie: značí závažný pokles saturace u polyglobulie: se projevuje už při menším poklesu saturace na trupu a končetinách i na sliznici ústní dutiny a jazyka Je nejčastěji projevem systémové hypoxemie, methemoglobinemie nebo těžké polycytémie."
     ],
