@@ -20569,8 +20569,8 @@
     "question": "1257. Která onemocnění vedou k sestupu (prolapsu) pánevních orgánů?",
     "answers": [
       "myom dělohy",
-      " těhotenství a porody vaginalní ",
-      "vysoký intraabdominální tlak ",
+      "těhotenství a porody vaginalní",
+      "vysoký intraabdominální tlak",
       "hluboký a dlouhodobý zánět orgánů malé pánve "
     ],
     "book": ["Base_2025_medicine"],
@@ -21899,7 +21899,18 @@
       "8-10/min",
       "10-12/min",
       "12-14/min",
-      "12-16/min",
+      "12-16/min"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["12-16/min"],
+    "description": [
+      "Nastavení ventilátoru VD 7 – 8 ml/kg - pro nemocné bez závažné plicní patologie DF 12 – 16/min Doba inspiria 1,2 – 1,5 s nebo poměr I/E 1: 2, 33% Pauza 10%nebo 0,2 – 0,4 s FiO2 0,4 u nemocných bez plicní patologie PEEP 3 - 5 cmH20 ( bez plicní patologie)"
+    ],
+    "img": [""]
+  },{
+    "question": "1336. Při neodkladné resuscitaci u dospělého je ve směsi kyslíku: 😊",
+    "answers": [
       "21% O2",
       "70% O2",
       "100% O2",
@@ -21907,7 +21918,7 @@
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["12-16/min", "100% O2"],
+    "correctAnswers": ["100% O2"],
     "description": [
       "Nastavení ventilátoru VD 7 – 8 ml/kg - pro nemocné bez závažné plicní patologie DF 12 – 16/min Doba inspiria 1,2 – 1,5 s nebo poměr I/E 1: 2, 33% Pauza 10%nebo 0,2 – 0,4 s FiO2 0,4 u nemocných bez plicní patologie PEEP 3 - 5 cmH20 ( bez plicní patologie)"
     ],
@@ -22305,7 +22316,7 @@
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["PAP test + kolposkopie"],
+    "correctAnswers": ["cytologický stěr z děložního hrdla + kolposkopie 1krát ročně"],
     "description": [""],
     "img": [""]
   },
@@ -22320,6 +22331,21 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": ["cytologický stěr (PAP test)+ HPV"],
+    "description": [""],
+    "img": [""]
+  },{
+    "question": "1365b. Při screeningu cervikálního karcinomu se uplatňují následující vyšetřovací metody (Živny) 😊",
+    "answers": [
+      "kolposkopie",
+      "punch biopsie",
+      "pouze cytologie",
+      "cytologie a selektivně HPV testace"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "cytologie a selektivně HPV testace"
+    ],
     "description": [""],
     "img": [""]
   },
