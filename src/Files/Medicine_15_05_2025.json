@@ -22973,6 +22973,39 @@
     ],
     "img": [""]
   },
+  {
+    "question": "1403. Příčiny hypotenze u starších osob? Co vede k hypotenzí u starších osob? Терапия",
+    "answers": [
+      "antihypertenziva",
+      "dehydratace",
+      "diuretika"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["antihypertenziva",
+      "dehydratace",
+      "diuretika"],
+    "description": [
+      "Fáze proliferační (folikulární) 5.–14. den cyklu. Probíhá pod vlivem estrogenů z rostoucího a zrajícího folikulu ovaria. Stratum functionale endometria se obnovuje hyperplázií (dělením buněk) a prokrvuje se. Epitel žlázek a buňky vaziva proliferují, zmnožují se mezibuněčná hmota a vazivová vlákna. Wikiscripta. "
+    ],
+    "img": [""]
+  },
+  {
+    "question": "1404. Percentily, norma: � Педиатрия",
+    "answers": [
+      "5-95 růst",
+      "5-95 váha",
+      "50"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["5-95 růst",
+      "5-95 váha"],
+    "description": [
+      "Fáze proliferační (folikulární) 5.–14. den cyklu. Probíhá pod vlivem estrogenů z rostoucího a zrajícího folikulu ovaria. Stratum functionale endometria se obnovuje hyperplázií (dělením buněk) a prokrvuje se. Epitel žlázek a buňky vaziva proliferují, zmnožují se mezibuněčná hmota a vazivová vlákna. Wikiscripta. "
+    ],
+    "img": [""]
+  },
 
   {
     "question": "1405. Percentily, norma: Педиатрия",
@@ -23122,7 +23155,19 @@
   {
     "question": "1415. Rozhodující analýza pro diagnostiku myelomu je nejsprávnější?",
     "answers": [
-      "provést cytologické vyšetření kostní dřeně",
+      "provést cytologické vyšetření kostní dřeně"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "provést cytologické vyšetření kostní dřeně"
+    ],
+    "description": [""],
+    "img": [""]
+  },  {
+    "question": "1415a. Základní diagnostická kritéria myelomu jsou (Klener)",
+    "answers": [
+  
       "příznačný nález v kostní dřeni, přítomnost paraproteinu, kostní léze",
       "příznačný nález v kostní dřeni, uzlinový syndrom, kostní postižení",
       "přítomnost paraproteinu, anémie, renální insuficience",
@@ -23131,7 +23176,7 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": [
-      "provést cytologické vyšetření kostní dřeně",
+
       "příznačný nález v kostní dřeni, přítomnost paraproteinu, kostní léze"
     ],
     "description": [""],
@@ -23141,23 +23186,18 @@
   {
     "question": "1416. Z jakých buňek pochází inzulinom? 😊",
     "answers": [
-      "z β-buněk Langerhansových ostrůvků produkujících inzulin",
-      "příznačný nález v kostní dřeni, přítomnost paraproteinu, kostní léze",
-      "příznačný nález v kostní dřeni, uzlinový syndrom, kostní postižení",
-      "přítomnost paraproteinu, anémie, renální insuficience",
-      "uzlinový syndrom, anémie, celkové příznaky"
+      "z β-buněk Langerhansových ostrůvků produkujících inzulin"
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": [
-      "z β-buněk Langerhansových ostrůvků produkujících inzulin",
-      "příznačný nález v kostní dřeni, přítomnost paraproteinu, kostní léze"
+      "z β-buněk Langerhansových ostrůvků produkujících inzulin"
     ],
     "description": [
       "Inzulinom je ve většině případů benigní tumor (adenom) vycházející z β-buněk Langerhansových ostrůvků produkujících inzulin. Nejčastější lokalizací je hlava a tělo pankreatu."
     ],
     "img": [""]
-  },
+  }, 
 
   {
     "question": "1417. Progesteron: 😊",
