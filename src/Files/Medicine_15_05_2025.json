@@ -16668,7 +16668,20 @@
   {
     "question": "1012. Hermafroditismus verus (ovotestikularní), co to je? ембріологія",
     "answers": [
-      "Přítomnost ovariální i testikulární tkáně u jedince s obojetným genitálem (různé kombinace ovarium, testes, ovotestes); musí to byt histologicky potvrzeno",
+      "Přítomnost ovariální i testikulární tkáně u jedince s obojetným genitálem (různé kombinace ovarium, testes, ovotestes); musí to byt histologicky potvrzeno"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "Přítomnost ovariální i testikulární tkáně u jedince s obojetným genitálem (různé kombinace ovarium, testes, ovotestes); musí to byt histologicky potvrzeno"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  
+  {
+    "question": "1012a. Pravý hermafroditismus znamená (Živný) ембріологія",
+    "answers": [
       "přítomnost obou zevních genitálií u jednoho jedince",
       "přítomnost ovaria i testes u jednoho jedince",
       "přítomnost ovotestis i genitálií",
@@ -16677,7 +16690,6 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": [
-      "Přítomnost ovariální i testikulární tkáně u jedince s obojetným genitálem (různé kombinace ovarium, testes, ovotestes); musí to byt histologicky potvrzeno",
       "přítomnost ovaria i testes u jednoho jedince"
     ],
     "description": [""],
@@ -16747,7 +16759,21 @@
     "question": "1017. Očkování proti zarděnkám (rubeola) педіатрія",
     "answers": [
       "z 1980",
-      "MMR vakcína, která obsahuje oslabené viry spalniček, příušnic a zarděnek (measles, mumps, rubella)",
+      "MMR vakcína, která obsahuje oslabené viry spalniček, příušnic a zarděnek (measles, mumps, rubella)"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "z 1980",
+      "MMR vakcína, která obsahuje oslabené viry spalniček, příušnic a zarděnek (measles, mumps, rubella)"
+    ],
+    "description": [""],
+    "img": [""]
+  }, 
+  
+  {
+    "question": "1017а. Rubeola (Olomouc) педіатрія",
+    "answers": [
       "je zcela benigní onemocnění u všech pacientů",
       "v graviditě může způsobit poškození plodu",
       "je vzácné onemocnění, očkuje se proti ní",
@@ -16756,8 +16782,6 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": [
-      "z 1980",
-      "MMR vakcína, která obsahuje oslabené viry spalniček, příušnic a zarděnek (measles, mumps, rubella)",
       "v graviditě může způsobit poškození plodu",
       "je vzácné onemocnění, očkuje se proti ní"
     ],
