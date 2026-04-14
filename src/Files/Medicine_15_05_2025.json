@@ -25458,8 +25458,7 @@
       "projev ve 20-30 letech",
       "palpace",
       "ultrazvuk",
-      "CT",
-      "krikofaryngealní myotomie"
+      "CT"
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
@@ -25467,7 +25466,20 @@
       "může být ve dvou mléčných žlázách současně *(najednou)",
       "projev ve 20-30 letech",
       "palpace",
-      "ultrazvuk",
+      "ultrazvuk"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  
+  {
+    "question": "1552. U muže občas vzniká výchlipka (utvař) na krku, zvracení nestráveným jídlem. Léčba(postup)? Chirurgie",
+    "answers": [
+      "krikofaryngealní myotomie"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
       "krikofaryngealní myotomie"
     ],
     "description": [""],
@@ -25742,10 +25754,21 @@
 
   {
     "question": "1572. Krvácení z tlustého střeva:",
-    "answers": ["kolonoskopie", "echokardiografie", "veloergometrie"],
+    "answers": ["kolonoskopie"],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["kolonoskopie", "echokardiografie"],
+    "correctAnswers": ["kolonoskopie"],
+    "description": [
+      "Pokud se na svého praktického lékaře obrátí pacient s podezřením na LGIB (lower gastrointestinal bleeding –LGIB), pak je zapotřebí prvně uvážit, zda pacient je hemodynamicky stabilní a schopen ambulantního došetření, či ne. V prvním případě je první instrumentálnívyšetřovací metodou anoskopie, rektoskopie, koloskopie, při jejich negativním nálezu ji lze doplnit o gastroskopii (dle charakteru potíží). Při negativitě těchto vyšetření je vhodné je po čase zopakovat či indikovat vyšetření tenkého střeva. Pokud pacient ambulantního došetření není schopen, pak další postup se odvíjí od jeho klinického stavu již za hospitalizace."
+    ],
+    "img": [""]
+  }, 
+  {
+    "question": "1573. Nejvhodnější metoda diagnostiky vrozených srdečních vad: Pediatrie",
+    "answers": ["echokardiografie", "veloergometrie"],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": ["echokardiografie"],
     "description": [
       "Pokud se na svého praktického lékaře obrátí pacient s podezřením na LGIB (lower gastrointestinal bleeding –LGIB), pak je zapotřebí prvně uvážit, zda pacient je hemodynamicky stabilní a schopen ambulantního došetření, či ne. V prvním případě je první instrumentálnívyšetřovací metodou anoskopie, rektoskopie, koloskopie, při jejich negativním nálezu ji lze doplnit o gastroskopii (dle charakteru potíží). Při negativitě těchto vyšetření je vhodné je po čase zopakovat či indikovat vyšetření tenkého střeva. Pokud pacient ambulantního došetření není schopen, pak další postup se odvíjí od jeho klinického stavu již za hospitalizace."
     ],
@@ -26658,7 +26681,7 @@
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["hypotyreóza"],
+    "correctAnswers": ["hypotyreóza", "Parkinsonova nemoc"],
     "description": [
       "Beta-blockers are used to attenuate other forms of tremor such as Essential Tremor or the tremor associated with anxiety. It is thought that beta-blockers may be of use in controlling the tremor of Parkinson's disease.  Angina pectoris (AP) je jednou z forem tzv. ischemické choroby srdeční (onemocnění koronárních tepen zásobujících srdce okysličenou krví a živinami aterosklerózou nebo jinými chorobami). "
     ],
