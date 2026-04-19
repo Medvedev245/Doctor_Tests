@@ -27001,7 +27001,8 @@
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["MEN пухлини"],
+    "correctAnswers": ["onemocnění Zollinger-Ellisonův",
+      "MEN пухлини"],
     "description": [""],
     "img": [""]
   },
