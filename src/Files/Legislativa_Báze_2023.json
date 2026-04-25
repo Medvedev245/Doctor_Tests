@@ -669,7 +669,7 @@
     ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["počet", "počet"],
+    "correctAnswers": ["Je-li vina lékaře plně dokázána, ale on se brání a snaží se dokázat, že neexistuje jiný způsob, jak to udělat"],
     "description": [
       "*myslíme, že tady jde o lékařské chybě a ČLK udělala sankce proti lékaře. Lékař muže podat proti řízení ČLK apelace v soud."
     ],
@@ -796,10 +796,8 @@
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
     "correctAnswers": [
-      "každopádně říct",
       "neříkat, udělat záznam v historii choroby s podpisem pacienta",
-      "přijmout potvrzovací dopis s podpisem a dát ho do karty pacienta",
-      "naříkat, odpovědnost bude na pacientovi"
+      "přijmout potvrzovací dopis s podpisem a dát ho do karty pacienta"
     ],
     "description": [""],
     "img": [""]
@@ -1180,8 +1178,6 @@
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
     "correctAnswers": [
-      "Matriční úřad vydá dokumenty",
-      "krajský úřad",
       "správní soud - během soudního procesu bude vyhlášen za mrtvého"
     ],
     "description": [""],
@@ -3673,7 +3669,7 @@
     ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": ["krajský úřad"],
+    "correctAnswers": ["krajský úřad "],
     "description": [""],
     "img": [""]
   },
