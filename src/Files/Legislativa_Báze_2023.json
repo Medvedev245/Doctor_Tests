@@ -1097,8 +1097,7 @@
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
     "correctAnswers": [
-      "základu veřejného zdraví o každém případu inf. nemoci",
-      "shablon"
+      "základu veřejného zdraví o každém případu inf. nemoci"
     ],
     "description": [
       "V České republice platí, že lékaři jsou povinni hlásit o výskytu některých závažných infekčních chorob, jako jsou například tuberkulóza, spála, zarděnky, neštovice, spádový tyfus, meningokokové infekce, hepatitida A, B a C, HIV/AIDS, a další."
@@ -2114,8 +2113,7 @@
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
     "correctAnswers": [
-      "Asistovaná reprodukce, změna pohlaví transsexuálních pacientů, sterilizace, kastrace, psychochirurgické výkony, posudková péče … ",
-      "shablon"
+      "Asistovaná reprodukce, změna pohlaví transsexuálních pacientů, sterilizace, kastrace, psychochirurgické výkony, posudková péče … "
     ],
     "description": [
       "1 Asistovaná reprodukce 2 Sterilizace, kastrace 3 Terapeutická kastrace, testikulární pulpektomie 4 Změna pohlaví transsexuálních pacientů 5 psychochirurgické výkony 6 Genetická vyšetření 7 Odběry lidské krve a jejích složek, léčba krví nebo jejími složkami 8 OVĚŘOVÁNÍ NOVÝCH POSTUPŮ POUŽITÍM METODY, KTERÁ DOSUD NEBYLA V KLINICKÉ PRAXI NA ŽIVÉM ČLOVĚKU ZAVEDENA 9 POSUDKOVÁ PÉČE A LÉKAŘSKÉ POSUDKY, PRACOVNĚLÉKAŘSKÉ SLUŽBY "
@@ -4340,7 +4338,7 @@
     ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": [
+    "correctAnswers": ["spoléhá se na vědecky ověřené metody ",
       "přístup k lékařské praxi, v němž rozhodnutí o využívání preventivních, diagnostických a terapeutických opatření jsou přijímána na základě dostupných důkazů o jejich účinnosti a bezpečnosti a takových důkazů je podrobena prohlídce, srovnání, zobecnění a rozšířený ve prospěch pacientů (ve vztahu ke zdravotní péči, věda, znalost .... Vzhledem k dostupným důkazům) "
     ],
     "description": [
@@ -4430,6 +4428,7 @@
     "topic": ["Legislativa"],
     "correctAnswers": [
       "372/2011 ",
+      "110/2019 Zákon o ochraně osobních údajů ",
       "Úmluva o lidských právech a biomedicíně  *je právním základem "
     ],
     "description": [
@@ -5301,14 +5300,11 @@
       " pojištění a daně",
       " daně",
       " stát",
-      " dary",
-      " nerovnoprávnost",
-      " malé financování ",
-      " nízká dostupnost"
+      " dary"
     ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
-    "correctAnswers": [" hlavně zdravotní pojištění ", " malé financování "],
+    "correctAnswers": [" hlavně zdravotní pojištění "],
     "description": [""],
     "img": [""]
   },
@@ -5687,12 +5683,14 @@
     "question": "400. Očkování proti choleře?",
     "answers": [
       " volitelně můžete provést při cestách do tropických zemí, vakcína krátkodobá / + když cestujete do země s vysokým rizikem a výskytem cholery, vakcína je krátkodobá, očkujete se 1x ",
+       " když cestujete do země s vysokým rizikem a výskytem cholery, vakcína je krátkodobá, očkujete se 1x ",
       " když cestujete do třetích zemí, musíte se pokaždé očkovat. Vakcína je dlouhodobá"
     ],
     "book": ["Legislativa_Báze_2023"],
     "topic": ["Legislativa"],
     "correctAnswers": [
-      " volitelně můžete provést při cestách do tropických zemí, vakcína krátkodobá / + když cestujete do země s vysokým rizikem a výskytem cholery, vakcína je krátkodobá, očkujete se 1x "
+      " volitelně můžete provést při cestách do tropických zemí, vakcína krátkodobá / + když cestujete do země s vysokým rizikem a výskytem cholery, vakcína je krátkodobá, očkujete se 1x ",
+       " když cestujete do země s vysokým rizikem a výskytem cholery, vakcína je krátkodobá, očkujete se 1x "
     ],
     "description": [""],
     "img": [""]
@@ -6110,24 +6108,6 @@
     "img": [""]
   },
 
-  {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
-    "book": ["Legislativa_Báze_2023"],
-    "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
-    "description": [""],
-    "img": [""]
-  },
-  {
-    "question": "shablon",
-    "answers": ["shablon", "shablon", "shablon", "shablon"],
-    "book": ["Legislativa_Báze_2023"],
-    "topic": ["Legislativa"],
-    "correctAnswers": ["shablon"],
-    "description": [""],
-    "img": [""]
-  },
   {
     "question": "432. Podle kterých zákonů/kterého zákona pacient má právo na bezplatnou pomoc:",
     "answers": [
