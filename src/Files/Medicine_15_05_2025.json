@@ -14955,8 +14955,21 @@
     "question": "908. Terapie jaterní encefalopatie:",
     "answers": [
       "bílkovina bez bílkovin",
-      "Neomycin, chlorpromazin, laktulóza",
-
+      "Neomycin, chlorpromazin, laktulóza"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "bílkovina bez bílkovin",
+      "Neomycin, chlorpromazin, laktulóza"
+    ],
+    "description": [
+      "Česká hepatologická společnost České lékařské společnosti Jana Evangelisty PurkyněLéčebné postupy:Odstranění vyvolávajících faktorů, kterými nejčastěji jsou: zvýšený příjem živočišných proteinů, léky (sedativa, analgetika, diuretika), alkohol, krvácení do trávicího traktu, hypokalémie, infekce, zácpa a.j. Podávání nestravitelných disacharidů (laktulóza, laktitol) je zlatým standardem v léčbě JE, dávka je většinou individuální, cílem je dosáhnout 3 stolic denně. Lze je podávat dlouhodobě.Optimalizace příjmu bílkovin. Snížení celkového příjmu bílkovin u cirhotiků není vhodné, minimální denní dávka je 1 g/kg tělesné hmotnosti. Podle potřeby je moµno zvýšit příjem rostlinných bílkovin či přidávat směsi aminokyselin (VLI). V případě, µe nestravitelné disacharidy nejsou tolerovány, je krátkodobou alternativou: - ovlivnění střevní mikroflóry podáním nevstřebatelných antibiotik (rifaximin, neomycin), či metronidazolu p.o. - podávání ornitin-aspartátu.U ostatních léčebných postupů není dostatek údajů k jejich standardnímu doporučení a měly by být používány ve specializovaných centrech při zvláštních indikacích.Vzhledem k tomu, že všechny uvedené léčebné metody jsou symptomatické, měla by přítomnost jaterní encefalopatie vést k úvaze o řešení základního onemocnění transplantací jaterPraktické lékárenství | 2013; 9(3) Dalším typem cholestatického poškození je poškození na základě spuštěného imunitního procesu, kdy je přítomna zánětlivá infiltrace. Tento typ je spojován s užíváním fenothiazinů (chlorpromazin, trifluoperazin – u nás neregistrován atd.). Postižení není závislé na dávce a vyvíjí se po 1–4týdenní expozici léčivému připravku. Objevuje se horečka, vyrážky, svědění a eozinofilie. Prognóza je dobrá, poškození je po vysazení reverzibilní (1, 2, 6)."
+    ],
+    "img": [""]
+  }, {
+    "question": "908a. Terapie jaterní encefalopatie:",
+    "answers": [
       "nebílkovinnou dietu",
       "neomycin p.o.",
       "chlorpromazin",
@@ -14965,8 +14978,7 @@
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": [
-      "bílkovina bez bílkovin",
-      "Neomycin, chlorpromazin, laktulóza",
+
       "nebílkovinnou dietu",
       "neomycin p.o.",
       "chlorpromazin",
@@ -22413,11 +22425,13 @@
     "answers": [
       "diabetes mellitus prvního typu",
       "polycystóza",
-      "Downův syndrom"
+      "Downův syndrom",
+      "hemochromatóza (додали у 2024)"
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["diabetes mellitus prvního typu"],
+    "correctAnswers": ["diabetes mellitus prvního typu" ,
+      "hemochromatóza (додали у 2024)"],
     "description": [""],
     "img": [""]
   },
