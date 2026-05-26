@@ -33,29 +33,31 @@ const MainPage: React.FC = () => {
           <ContainerText onClick={clearState} to="page">
             <MainDescr>Take a tests</MainDescr>
             <p>
-              On this page you can take a test on the selected topic. Preview
-              the correct answer and the overall test result
+              На этой странице вы можете пройти тест по выбранной теме,
+               просмотреть правильные ответы и общий результат тестирования.
+              
             </p>
           </ContainerText>
           <ContainerText to="AllTests">
             <MainDescr>All Tests</MainDescr>
             <p>
-              In this tab you can view all existing tests on the site. View any
-              test in full with correct answers and description.
+               На этой вкладке можно просмотреть все существующие на сайте тесты. 
+              Просматривайте любой тест полностью, включая правильные ответы и описание.
             </p>
           </ContainerText>
           <ContainerText to="MyBase">
             <MainDescr>My Base</MainDescr>
             <p>
-              In this tab you can create your own selection of tests from all
-              existing ones. Add or remove tests.
+              На этой вкладке вы можете создать свой собственный набор тестов из всех
+              существующих. Добавляйте или удаляйте тесты.
             </p>
           </ContainerText>
           <ContainerText to="video">
             <MainDescr>Video</MainDescr>
             <p>
-              This section of the site contains videos on various specialties.
-              YouTube channels with medical topics, IPVZ and more.
+              В этом разделе сайта представлены видеоролики по различным 
+              специальностям: YouTube-каналы на медицинскую тематику, IPVZ 
+              и многое другое.
             </p>
           </ContainerText>
         </ContainerDesc>

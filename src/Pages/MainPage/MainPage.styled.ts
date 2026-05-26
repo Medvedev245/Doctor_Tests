@@ -15,6 +15,10 @@ export const ContainerDesc = styled.div`
   flex-wrap: wrap;
   gap: 30px;
   justify-content: center;
+
+  text-align: center;   
+      
+ 
 `;
 
 export const MainText = styled.h1`
