@@ -9604,7 +9604,7 @@
     "answers": ["jatra"],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["Játra"],
+    "correctAnswers": ["jatra"],
     "description": [
       "Metastazování KR-CA metastazuje, jako většina karcinomů, primárně lymfogenně – do lokálních lymfatických uzlin. Později pak do vzdálených lymfatických uzlin a hematogenně nejčastěji do jater a plic. Pokročilé onemocnění se může šířit po peritoneal (tzv. karcinomatóza peritonea). Karcinomy rekta mají tendenci prorůstat do okolních orgánů (vagina, uterus, ureter, močový měchýř, ale i os sacrum). U žen je typický i výskyt metastáz ve vaječnících. Metastatický proces a komplikace s ním související může být v některých případech odhalen i dříve než samotný primární nádor. *to je vlastnost žilního průtoku krve"
     ],
@@ -9877,14 +9877,12 @@
       "periferní neuropatie",
       "hemolytická anémie",
       "poruchy CNS",
-      "městnavé srdeční selhání",
-      "Klener. Vn.lek. kap 14 https://www.wikiskripta.eu/w/Vitamin_B12"
+      "městnavé srdeční selhání"
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": [
-      "hemolytická anémie",
-      "Klener. Vn.lek. kap 14 https://www.wikiskripta.eu/w/Vitamin_B12"
+      "hemolytická anémie"
     ],
     "description": [
       "Deficit vitaminu B12 u dospělých způsobuje makrocytární anémii, postižení zadních a postranních provazců míšních, periferních nervů i demenci či depresi. Nedostatek vitaminu B12 také sekundárně ovlivňuje folátový cyklus s následnou poruchou syntézy purinů a pyrimidinů nezbytných pro tvorbu DNA a RNA."
@@ -9941,13 +9939,13 @@
   {
     "question": "601. Nejčastější anémie v děti?😊 Pediatrie/ Hematologie",
     "answers": [
-      "-posthemoragická anémie",
-      "+anémie z nedostatku železa — Sideropenická anémie",
+      "posthemoragická anémie",
+      "anémie z nedostatku železa — Sideropenická anémie",
       "hemolytickáanémie"
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["+anémie z nedostatku železa — Sideropenická anémie"],
+    "correctAnswers": ["anémie z nedostatku železa — Sideropenická anémie"],
     "description": [
       "Sideropenická anémie (SA) je v dětském věku nejčastější. Příčinou bývá nedostatečný příjem železa potravou (kojené děti, vegeta- riáni), porucha jeho vstřebávání nebo krevní ztráty. Ve vzácných případech jde o vrozené poruchy metabolizmu železa."
     ],
