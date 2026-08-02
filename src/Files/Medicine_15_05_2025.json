@@ -10032,12 +10032,12 @@
 
   {
     "question": "607. Dávkovaní Adrenalinu pro děti: 😊 Pediatrie/ Reanimace",
-    "answers": ["0,01 mg/kg ( pro dospělé 0,1)", "+Klener Vn. lek. st.204"],
+    "answers": ["0,01 mg/kg ( pro dospělé 0,1)", "Klener Vn. lek. st.204"],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": [
       "0,01 mg/kg ( pro dospělé 0,1)",
-      "+Klener Vn. lek. st.204"
+      "Klener Vn. lek. st.204"
     ],
     "description": [
       "podání adrenalinu i.m., do m. vastus lateralis, v dávce 0,01 mg/kg (maximální dávka 0,5 mg);"
@@ -10431,10 +10431,10 @@
 
   {
     "question": "630. V renálním selhání je kontraindikován vitamín: (Klener) -- ТЕРАПИЯ, НЕФРОЛОГИЯ",
-    "answers": ["B6", "B12", "+A", "-D"],
+    "answers": ["B6", "B12", "A", "D"],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
-    "correctAnswers": ["+A"],
+    "correctAnswers": ["A"],
     "description": [
       "Nepodáváme vitaminy A i E, protožš jejich koncentrace pri renální selhání byva normální nebo zvýšení."
     ],
