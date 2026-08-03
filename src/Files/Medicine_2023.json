@@ -9631,14 +9631,12 @@
       "periferní neuropatie",
       "hemolytická anémie",
       "poruchy CNS",
-      "městnavé srdeční selhání",
-      "Klener. Vn.lek. kap 14 https://www.wikiskripta.eu/w/Vitamin_B12"
+      "městnavé srdeční selhání"
     ],
     "book": ["Base_2023_medicine"],
     "topic": ["Base_2023_medicine"],
     "correctAnswers": [
-      "hemolytická anémie",
-      "Klener. Vn.lek. kap 14 https://www.wikiskripta.eu/w/Vitamin_B12"
+      "hemolytická anémie"
     ],
     "description": [
       "Deficit vitaminu B12 u dospělých způsobuje makrocytární anémii, postižení zadních a postranních provazců míšních, periferních nervů i demenci či depresi. Nedostatek vitaminu B12 také sekundárně ovlivňuje folátový cyklus s následnou poruchou syntézy purinů a pyrimidinů nezbytných pro tvorbu DNA a RNA."
