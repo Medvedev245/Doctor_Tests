@@ -19683,17 +19683,29 @@
   {
     "question": "1198. Podmínky pro použití kleště během porodu? 😊",
     "answers": [
-      "branka zašlá, hlava je fixována v pánvi, živý plod",
+      "branka zašlá, hlava je fixována v pánvi, živý plod"
+    ],
+    "book": ["Base_2025_medicine"],
+    "topic": ["Base_2025_medicine"],
+    "correctAnswers": [
+      "branka zašlá, hlava je fixována v pánvi, živý plod"
+    ],
+    "description": [""],
+    "img": [""]
+  },
+  
+  {
+    "question": "1198a. Mezi nezbytně nutné podmínky pro ukončení porodu kleštěmi nepatří (Živný)",
+    "answers": [
       "hlavička fixovaná",
       "zašlá děložní branka",
-      "+dorotovaná hlavička plodu",
+      "dorotovaná hlavička plodu",
       "odteklá plodová voda"
     ],
     "book": ["Base_2025_medicine"],
     "topic": ["Base_2025_medicine"],
     "correctAnswers": [
-      "branka zašlá, hlava je fixována v pánvi, živý plod",
-      "+dorotovaná hlavička plodu"
+      "dorotovaná hlavička plodu"
     ],
     "description": [""],
     "img": [""]
