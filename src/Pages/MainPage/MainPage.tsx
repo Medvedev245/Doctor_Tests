@@ -65,7 +65,7 @@ const MainPage: React.FC = () => {
       <SectionPic>
         <h3 style={{ textAlign: 'center', marginBottom: '20px' }}>Описание</h3>
         <p style={{ textIndent: '15px', color: 'rgb(0 119 255)' }}>
-          Какую базу вы бы еще хотели видеть на сайте ? Скидывайте в телеграмм.
+          
         </p>
         <div>
           <a
