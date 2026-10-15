@@ -9,6 +9,7 @@ import {
   ContainerDesc,
 } from './MainPage.styled';
 import { CLEAR_STATE } from 'store/testsReducer';
+import qrIMG from '../../Files/img/photo_2026-10-15_19-27-01.jpg';
 
 const MainPage: React.FC = () => {
   const dispatch = useDispatch();
@@ -16,19 +17,14 @@ const MainPage: React.FC = () => {
     dispatch(CLEAR_STATE());
   };
 
+
+
+
   return (
     <>
       <SectionPic>
-        <MainText>What we do?</MainText>
-        <p
-          style={{
-            textIndent: '15px',
-            marginBottom: '20px',
-            fontWeight: '700',
-          }}
-        >
-          Улучшена обработка ответов. При нахождении ошибки пишите в ТГ
-        </p>
+        <MainText>Lékařské Zkoušky Online</MainText>
+        
         <ContainerDesc>
           <ContainerText onClick={clearState} to="page">
             <MainDescr>Take a tests</MainDescr>
@@ -61,9 +57,53 @@ const MainPage: React.FC = () => {
             </p>
           </ContainerText>
         </ContainerDesc>
+
+<p
+          style={{
+            textIndent: '15px',
+            marginBottom: '20px',
+            fontWeight: '700',
+          }}
+        >Наш проект создан на чистом энтузиазме,
+         чтобы поддержать коллег-медиков на пути
+          к интеграции в Чехии. Если наши материалы
+           приносят вам пользу, поддержите развитие сайта.
+            Мы будем искренне благодарны за любую помощь!
+          {/* Улучшена обработка ответов. При нахождении ошибки пишите в ТГ */}
+        </p>
+        <p
+          style={{
+            textIndent: '15px',
+            marginBottom: '20px',
+            fontWeight: '700',
+          }}
+        >
+        Česká spořitelna - 4705461083/0800
+</p>
+        <p
+          style={{
+         textAlign: 'center', /* Выравнивает текст по центру */
+    marginBottom: '20px',
+    fontWeight: '700',
+          }}
+        >Или поддержать проект через QR-код (200 Kč)
+        </p>
+        <img style={{
+    width: 'clamp(150px, 4vw + 120px, 250px)',
+    height: 'auto', 
+    /* Центрирование и отступы: 20px сверху/снизу, auto слева/справа двигает в центр */
+    margin: '20px auto 0 auto', 
+    display: 'block',
+    
+    objectFit: 'contain'       
+          }} src={qrIMG} alt="code"></img>
+       
+        
+        
+
       </SectionPic>
       <SectionPic>
-        <h3 style={{ textAlign: 'center', marginBottom: '20px' }}>Описание</h3>
+        {/* <h3 style={{ textAlign: 'center', marginBottom: '20px' }}>Описание</h3> */}
         <p style={{ textIndent: '15px', color: 'rgb(0 119 255)' }}>
           
         </p>

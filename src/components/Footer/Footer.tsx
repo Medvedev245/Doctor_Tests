@@ -10,7 +10,7 @@ import {
 export const Footer: React.FC = () => {
   return (
     <FooterContainer>
-      <SpanFooter>&copy; 2024 Lékařské Zkoušky Online</SpanFooter>
+      <SpanFooter>&copy; 2025 Lékařské Zkoušky Online</SpanFooter>
       {/* <WrapperComtainer>
         При обнаружении ошибки - пишите мне В
         <div>
